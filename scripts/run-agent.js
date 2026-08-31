@@ -16,7 +16,7 @@ import { rankByPriority } from './calculatePriority.js';
 import { formatTelegramArticle } from './formatTelegram.js';
 import { formatKakaoArticle } from './formatKakao.js';
 import { createTelegramSender } from '../src/services/senders/telegramSender.js';
-import { createKakaoSender } from '../src/services/senders/kakaoSender.js';
+import { createKakaoSender, hasKakaoCredentials } from '../src/services/senders/kakaoSender.js';
 import { pruneSentItems, updateDashboardData } from './updateDashboardData.js';
 
 const importanceRank = { LOW: 0, MEDIUM: 1, HIGH: 2 };
@@ -49,7 +49,7 @@ export async function runAgent(options = {}) {
   const minimumImportance = importanceRank[settings.telegramMinimumImportance];
   const eligible = ranked.filter((article) => importanceRank[article.importance] >= minimumImportance).slice(0, settings.maxMessagesPerRun);
   const telegramConfigured = Boolean(process.env.TELEGRAM_BOT_TOKEN && process.env.TELEGRAM_CHAT_ID);
-  const kakaoConfigured = Boolean(process.env.KAKAO_ACCESS_TOKEN);
+  const kakaoConfigured = hasKakaoCredentials();
   const telegram = options.telegramSender || createTelegramSender({ dryRun });
   const kakao = options.kakaoSender || createKakaoSender({ dryRun });
   const successfulIds = new Set();

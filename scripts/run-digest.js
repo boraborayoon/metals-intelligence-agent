@@ -7,7 +7,7 @@ import { readJson } from './lib/jsonStore.js';
 import { createMarketSummaries, generateDigest } from './generateDigest.js';
 import { formatTelegramDigest } from './formatTelegram.js';
 import { createTelegramSender } from '../src/services/senders/telegramSender.js';
-import { createKakaoSender } from '../src/services/senders/kakaoSender.js';
+import { createKakaoSender, hasKakaoCredentials } from '../src/services/senders/kakaoSender.js';
 
 const kstDay = (value) => new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date(value));
 
@@ -33,7 +33,7 @@ export async function runDigest(options = {}) {
   } else if (settings.enableTelegram) {
     logger.warn('Digest not sent: Telegram credentials are not configured');
   }
-  if (settings.enableKakao && (dryRun || process.env.KAKAO_ACCESS_TOKEN)) {
+  if (settings.enableKakao && (dryRun || hasKakaoCredentials())) {
     try {
       await kakao.sendMessage(message);
       sent = true;

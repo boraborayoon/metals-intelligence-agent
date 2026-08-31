@@ -7,7 +7,7 @@ const settings = JSON.parse(readFileSync(new URL('../config/settings.json', impo
 const savedEnvironment = {};
 
 beforeEach(() => {
-  for (const key of ['TELEGRAM_BOT_TOKEN', 'TELEGRAM_CHAT_ID', 'KAKAO_ACCESS_TOKEN', 'KAKAO_LINK_URL']) savedEnvironment[key] = process.env[key];
+  for (const key of ['TELEGRAM_BOT_TOKEN', 'TELEGRAM_CHAT_ID', 'KAKAO_ACCESS_TOKEN', 'KAKAO_REST_API_KEY', 'KAKAO_CLIENT_SECRET', 'KAKAO_REFRESH_TOKEN', 'KAKAO_LINK_URL']) savedEnvironment[key] = process.env[key];
   process.env.TELEGRAM_BOT_TOKEN = 'test-token';
   process.env.TELEGRAM_CHAT_ID = 'test-chat';
   process.env.KAKAO_ACCESS_TOKEN = 'test-kakao-token';

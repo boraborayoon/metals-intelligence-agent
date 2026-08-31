@@ -115,6 +115,9 @@ http://127.0.0.1:4173/
 TELEGRAM_BOT_TOKEN=
 TELEGRAM_CHAT_ID=
 KAKAO_ACCESS_TOKEN=
+KAKAO_REST_API_KEY=
+KAKAO_CLIENT_SECRET=
+KAKAO_REFRESH_TOKEN=
 KAKAO_LINK_URL=
 DRY_RUN=false
 DASHBOARD_HOST=127.0.0.1
@@ -123,9 +126,12 @@ DASHBOARD_PORT=4173
 
 - `TELEGRAM_BOT_TOKEN`: BotFather가 발급한 Bot token
 - `TELEGRAM_CHAT_ID`: Bot이 메시지를 보낼 개인 또는 그룹 Chat ID
+- `KAKAO_ACCESS_TOKEN`: 현재 카카오 Access Token. 만료 시 자동 갱신됨
+- `KAKAO_REST_API_KEY`, `KAKAO_CLIENT_SECRET`, `KAKAO_REFRESH_TOKEN`: 카카오 Access Token 자동 갱신에 사용
 - `DRY_RUN=true`: 메시지를 보내거나 JSON을 저장하지 않고 결과만 출력
 - `DASHBOARD_HOST`, `DASHBOARD_PORT`: 로컬 Dashboard 바인딩 설정
-- Kakao 값은 기존 선택 기능이며 기본 설정에서 비활성화됨
+- 새 카카오 토큰은 로컬의 `.kakao-token-state.json`에 저장되며 이 파일은 Git에서 제외됨
+- 카카오 자동 갱신은 로컬의 지속되는 파일시스템을 기준으로 동작함. 매 실행마다 초기화되는 배포 환경에서는 별도 Secret 저장소가 필요함
 
 `OPENAI_API_KEY`는 사용하지도 요구하지도 않습니다. Secret을 `VITE_*` 변수로 만들지 마세요. `VITE_*` 값은 브라우저 번들에 포함될 수 있습니다.
 
