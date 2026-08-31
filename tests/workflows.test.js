@@ -25,17 +25,15 @@ describe('GitHub Actions workflows', () => {
   it('registers the twice-hourly news schedule explicitly in Korea time', () => {
     const news = workflow('news-agent.yml');
     expect(news.on.schedule).toEqual([
-      { cron: '17 * * * *', timezone: 'Asia/Seoul' },
-      { cron: '47 * * * *', timezone: 'Asia/Seoul' }
+      { cron: '17,47 * * * *', timezone: 'Asia/Seoul' }
     ]);
   });
 
   it('registers all daily digest times explicitly in Korea time', () => {
     const digest = workflow('daily-digest.yml');
     expect(digest.on.schedule).toEqual([
-      { cron: '30 7 * * *', timezone: 'Asia/Seoul' },
-      { cron: '0 12 * * *', timezone: 'Asia/Seoul' },
-      { cron: '30 17 * * *', timezone: 'Asia/Seoul' }
+      { cron: '30 7,17 * * *', timezone: 'Asia/Seoul' },
+      { cron: '0 12 * * *', timezone: 'Asia/Seoul' }
     ]);
   });
 
