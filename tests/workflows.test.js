@@ -37,6 +37,9 @@ describe('GitHub Actions workflows', () => {
       expect(environment.KAKAO_CLIENT_SECRET).toBe('${{ secrets.KAKAO_CLIENT_SECRET }}');
       expect(environment.KAKAO_REFRESH_TOKEN).toBe('${{ secrets.KAKAO_REFRESH_TOKEN }}');
       expect(environment.ENABLE_KAKAO).toBe('true');
+      expect(environment.TELEGRAM_BOT_TOKEN).toBe('${{ secrets.TELEGRAM_BOT_TOKEN }}');
+      expect(environment.TELEGRAM_CHAT_ID).toBe('${{ secrets.TELEGRAM_CHAT_ID }}');
+      expect(environment.ENABLE_TELEGRAM).toBe('true');
     }
   });
 });
