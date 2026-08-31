@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-31T15:07:14.091Z",
+  "generatedAt": "2026-08-31T20:51:06.458Z",
   "counts": {
-    "PENDING": 357,
+    "PENDING": 372,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -75,6 +75,16 @@
       "codexStatus": "PENDING",
       "source": "simplywall.st",
       "publishedAt": "2026-08-28T04:51:21.000Z"
+    },
+    {
+      "id": "541d6f1cbc357c7e49e13ddd73ecf40a742e9c7bc65132214961f46ba0626137",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "APAA Urges President Trump to Stand Strong on 50% Section 232 Aluminum Tariff and Disregard Canada's Weaponized Propaganda",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "PR Newswire",
+      "publishedAt": "2026-08-31T16:48:00.000Z"
     },
     {
       "id": "d5d6c56043855a34c1c9a2a084b6da7b1d445fa957a82eab9fef1d83743ae578",
@@ -417,6 +427,16 @@
       "publishedAt": "2026-08-31T10:32:20.000Z"
     },
     {
+      "id": "19733ff2fc3c6319b66ad1dd8a931fdfee5be67de3202d6b0835458d56afc9db",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Price September 1 2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "robinhood.com",
+      "publishedAt": "2026-08-31T18:01:10.000Z"
+    },
+    {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -667,36 +687,6 @@
       "publishedAt": "2026-08-30T00:51:34.000Z"
     },
     {
-      "id": "a52402c656de53f48d2965c17a3eeb3554f958d1b4a8205f9c2c63a91c5d4ddd",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Chile Economic Data Disappoint as Storms Add to Copper-Mine Woes",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Bloomberg.com",
-      "publishedAt": "2026-08-31T14:03:59.000Z"
-    },
-    {
-      "id": "66647f7468fc3d564788f171e35dc4abc21fb04eed28c8cde3dffcc9380ee9db",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Chile Copper Output Drops in July",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-08-31T14:00:01.000Z"
-    },
-    {
-      "id": "8b5a42b30ebfab758449f317f9e9c5df316102987ef987f2ac29f55b55e1e32e",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Chile's copper output, manufacturing production decline in July",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-08-31T13:00:33.000Z"
-    },
-    {
       "id": "309e26daf2a34f66ecad5b57a9f2e22d75330a57a916cee4ae7ee9d663c71d8d",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -715,6 +705,16 @@
       "codexStatus": "PENDING",
       "source": "marketscreener.com",
       "publishedAt": "2026-08-31T10:49:56.000Z"
+    },
+    {
+      "id": "6a9b9840eceba1c3e4d5a8c51fbdb498d38357aacef8946c5b644bd2626e6246",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Severe Storms Cut Chile Copper Production to Lowest July Since 2011",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "the deep dive",
+      "publishedAt": "2026-08-31T19:02:58.000Z"
     },
     {
       "id": "ce60a03b7bacf8d76a1803bfa85f8e87172a55d4630cf4906b554e8987466433",
@@ -1417,16 +1417,6 @@
       "publishedAt": "2026-08-31T11:29:00.000Z"
     },
     {
-      "id": "7453087ec1f1a56d21f5e89e57bced4eeea9ba7a7cddea5ffa4e97476fe72732",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Sumitomo And G Mining Invest C$48 Million In Tintina For 25% Stake And Dos Amigos Copper-Gold Exposure",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Pulse 2.0",
-      "publishedAt": "2026-08-31T11:27:38.000Z"
-    },
-    {
       "id": "c97cc3b2c419ce59817dbe461c07778e2637bed27e664bbbd0ec2d9877bba43d",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -1435,16 +1425,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-08-31T10:31:14.000Z"
-    },
-    {
-      "id": "660776f345609bf9d328838ae707cacb1c93e3d503fe66514eb279b2dd2fb885",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Structural Support Lifts Copper Rod Operating Rates While High Prices Weigh on Downstream Demand 【SMM Analysis】",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-08-31T10:21:06.000Z"
     },
     {
       "id": "ceb759daa46c4272bfd76d96f2f6ac47e5ae959768b32bf539bc1aaceb760bf6",
@@ -1475,6 +1455,66 @@
       "codexStatus": "PENDING",
       "source": "Economies.com",
       "publishedAt": "2026-08-31T05:10:00.000Z"
+    },
+    {
+      "id": "ca9d436be4bf70cd2c86bd355c34e479dff0965379488a7bef53fb09588247d0",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Inner Mongolia Xingye Silver & Tin Mining Co., Ltd Proposes Interim Cash Dividend for 2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-08-31T20:36:47.000Z"
+    },
+    {
+      "id": "b8fde80c934a91e98e2d4184798d102f9b6f4fdabf0c3e8c50fe53363c23bbee",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Mine to Market: ALuminium Producers & Manufacturers 2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "AL Circle",
+      "publishedAt": "2026-08-31T20:05:39.000Z"
+    },
+    {
+      "id": "55039c9c21d0fa397b3814c3b9399e33146854e52c662638dbd0f7f2bc652de1",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Glencore looms over Anglo-Teck’s $1.4B copper prize: FT",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "northernminer.com",
+      "publishedAt": "2026-08-31T16:16:13.000Z"
+    },
+    {
+      "id": "48baa90d261772c7b5e1e3ad6ebc13af93a1202f7987181de7dd923668a5d840",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Anglo American and Teck Merger: Glencore Negotiations Key to Copper Synergies - News and Statistics",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-08-31T15:41:00.000Z"
+    },
+    {
+      "id": "6a000aeb0f1d639ed3cbc56b635d33be12410defcc7aa724a0a247cf731b9744",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "칠레 구리 생산량, 폭풍 영향으로 2011년 이후 7월 최저치 기록",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com 한국어",
+      "publishedAt": "2026-08-31T15:16:00.000Z"
+    },
+    {
+      "id": "ae5326d8f6d79c2d685f503c4fa8f8ceec831952a9fbb2c4a389efd809568f85",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper price eases nears record",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "northernminer.com",
+      "publishedAt": "2026-08-31T13:47:52.000Z"
     },
     {
       "id": "e952dd43288b8e5a0dab80c1d83d4bffa5a0f008717eeb9b8e2447ea3b82156b",
@@ -1545,6 +1585,16 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-08-31T02:46:54.000Z"
+    },
+    {
+      "id": "6d5325c5103c4dcd4ffce42ef803163f5fc3badf0f4dd636e7642e4d18f13409",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "\"Binational copper free-trade zone would give Peru and Chile new geoeconomic power\"",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "BNamericas",
+      "publishedAt": "2026-08-31T19:52:30.000Z"
     },
     {
       "id": "428c332c3963c5bc92b4128f15dd30090749cfce8c8bbcc0f4a8ae58a217e030",
@@ -1717,6 +1767,36 @@
       "publishedAt": "2026-08-31T08:31:27.000Z"
     },
     {
+      "id": "a52402c656de53f48d2965c17a3eeb3554f958d1b4a8205f9c2c63a91c5d4ddd",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Chile Economic Data Disappoint as Storms Add to Copper-Mine Woes",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-08-31T14:39:01.000Z"
+    },
+    {
+      "id": "66647f7468fc3d564788f171e35dc4abc21fb04eed28c8cde3dffcc9380ee9db",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Chile Copper Output Drops in July",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-08-31T14:00:01.000Z"
+    },
+    {
+      "id": "8b5a42b30ebfab758449f317f9e9c5df316102987ef987f2ac29f55b55e1e32e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Chile's copper output, manufacturing production decline in July",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-08-31T13:00:33.000Z"
+    },
+    {
       "id": "c654f71ab54bb2a43ec2fdc13b32ac1169aa6e5c1cd37c68e3c79474622a7866",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1875,6 +1955,36 @@
       "codexStatus": "PENDING",
       "source": "MarketWatch",
       "publishedAt": "2026-08-28T10:45:00.000Z"
+    },
+    {
+      "id": "955409995f18cbaefaf4774275b4f4237b6c19bbda9c07a8975ae390479de698",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Chile's copper output declines 9.4% in July hit by severe weather",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-08-31T13:28:51.000Z"
+    },
+    {
+      "id": "7453087ec1f1a56d21f5e89e57bced4eeea9ba7a7cddea5ffa4e97476fe72732",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Sumitomo And G Mining Invest C$48 Million In Tintina For 25% Stake And Dos Amigos Copper-Gold Exposure",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Pulse 2.0",
+      "publishedAt": "2026-08-31T11:27:38.000Z"
+    },
+    {
+      "id": "660776f345609bf9d328838ae707cacb1c93e3d503fe66514eb279b2dd2fb885",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Structural Support Lifts Copper Rod Operating Rates While High Prices Weigh on Downstream Demand 【SMM Analysis】",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-08-31T11:31:19.000Z"
     },
     {
       "id": "691b6ceae1c63edefdda6f76606bc8047a5dbfb9894a34421cad02a87cf50ade",
@@ -2843,7 +2953,7 @@
       "title": "CrossBoundary Energy starts up solar PV and BESS facility at Kamoa Copper operations",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "International Mining",
+      "source": "im-mining.com",
       "publishedAt": "2026-08-31T07:50:34.000Z"
     },
     {
@@ -2873,7 +2983,7 @@
       "title": "[이슈 포커스] 美加 관세전쟁, 철강·알루미늄 공급망 직격 “국경 넘을 때마다 비용 누적”",
       "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
       "codexStatus": "PENDING",
-      "source": "헬로티",
+      "source": "hellot.net",
       "publishedAt": "2026-08-31T04:37:29.000Z"
     },
     {
@@ -2885,6 +2995,36 @@
       "codexStatus": "PENDING",
       "source": "marketscreener.com",
       "publishedAt": "2026-08-31T04:07:41.000Z"
+    },
+    {
+      "id": "44eaa5ab0ac53d28368e6c77f3602c7e4520f96628c106c64f9c36b1fbd54849",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "CrossBoundary’s Kamoa Copper solar PV‑BESS: reliability lessons for mine power engineers",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Geomechanics.io",
+      "publishedAt": "2026-08-31T12:37:37.000Z"
+    },
+    {
+      "id": "3577fea023789824bc5f495cd055ce0c894b6fac67c7c5a06c3e49eac1f12b9c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "미국과 캐나다 간 무역 전쟁이 철강 및 구리에 대한 새로운 관세 부과로 격화되고 있다.",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-08-31T11:47:43.000Z"
+    },
+    {
+      "id": "d9ee6c2cf8adc9dfd98b9117595c5565aed2fe0e98bcb79cbbb1c6cd4dad2835",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Lucie Davis Transforms Retail Price Labels into Unique Copper and Enamel Art Pins",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "freeyork",
+      "publishedAt": "2026-08-31T09:27:25.000Z"
     },
     {
       "id": "78aea1221396764d525ff675d046d620ae37ae080816bf3c1040f8015a7f511e",
@@ -3065,6 +3205,16 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-08-29T07:20:44.000Z"
+    },
+    {
+      "id": "13da9424957559ccced42ae5a2f2e2f7952d4c5e8946debcf5a7a538fa8d5385",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Capstone Copper Completes Acquisition of San Pietro Copper Concessions, Consolidating the Mantoverde-Santo Domingo Copper District",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "businesswire.com",
+      "publishedAt": "2026-08-31T10:00:00.000Z"
     },
     {
       "id": "6dd9921701a22b7ec7fd263ddc930c03952d19a8cdad520d36c9355887b9018c",
