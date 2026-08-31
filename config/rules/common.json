@@ -1,0 +1,13 @@
+{
+  "marketSignals": {
+    "supplyBullish": ["mine shutdown", "mine closure", "mine closed", "production halt", "production stopped", "production cut", "output cut", "supply disruption", "supply shortage", "strike", "walkout", "accident", "flood", "earthquake", "export ban", "export restriction", "sanction", "smelter shutdown", "smelter cut", "ore grade decline", "force majeure", "logistics disruption", "port disruption", "rail disruption", "광산 폐쇄", "생산 중단", "생산 차질", "감산", "공급 차질", "공급 부족", "파업", "사고", "홍수", "지진", "수출 금지", "수출 제한", "제재", "제련소 가동 중단", "제련소 감산", "품위 하락", "불가항력", "물류 차질"],
+    "supplyBearish": ["mine expansion", "new mine", "production increase", "output increase", "mine restart", "smelter restart", "capacity expansion", "new capacity", "export increase", "export ban lifted", "restriction lifted", "광산 확장", "신규 광산", "생산 증가", "생산량 증가", "광산 재가동", "제련소 재가동", "증설", "생산능력 확대", "수출 증가", "수출 제한 해제"],
+    "demandBullish": ["demand increase", "demand rises", "demand growth", "ev demand increase", "electric vehicle demand growth", "grid investment", "construction recovery", "manufacturing recovery", "china stimulus", "수요 증가", "전기차 수요 증가", "전력망 투자", "건설 회복", "제조업 회복", "중국 경기부양", "중국 부양책"],
+    "demandBearish": ["demand decline", "demand falls", "demand slowdown", "recession", "construction slowdown", "manufacturing contraction", "수요 감소", "수요 둔화", "경기 침체", "건설 둔화", "제조업 위축"],
+    "inventoryBullish": ["inventory decline", "inventory fell", "inventory drops", "inventory plunge", "stockpile depletion", "warehouse outflow", "재고 감소", "재고 급감", "비축량 고갈", "창고 유출"],
+    "inventoryBearish": ["inventory increase", "inventory rose", "inventory rises", "inventory surge", "warehouse inflow", "재고 증가", "재고 급증", "창고 유입"]
+  },
+  "highImpactPatterns": ["major mine shutdown", "major smelter shutdown", "large-scale strike", "national export restriction", "countrywide export ban", "major sanction", "inventory plunge", "production guidance cut", "government intervention", "대형 광산 가동 중단", "주요 제련소 가동 중단", "대규모 파업", "국가 단위 수출 제한", "대규모 제재", "재고 급감", "생산 가이던스 하향", "정부 개입"],
+  "urgentPatterns": ["shutdown", "production halt", "export ban", "sanction", "major strike", "accident", "force majeure", "가동 중단", "생산 중단", "수출 금지", "제재", "대규모 파업", "사고", "불가항력"],
+  "reviewPatterns": ["shutdown", "strike", "accident", "export ban", "sanction", "tariff", "government intervention", "inventory shock", "production guidance", "treatment charge", "china policy", "가동 중단", "파업", "사고", "수출 금지", "제재", "관세", "정부 개입", "재고 급변", "생산 가이던스", "제련수수료", "중국 정책"]
+}

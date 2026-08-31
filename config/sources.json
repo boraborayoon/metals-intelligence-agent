@@ -1,0 +1,21 @@
+{
+  "sources": [
+    {
+      "name": "Google News Metals EN",
+      "type": "rss",
+      "enabled": true,
+      "url": "https://news.google.com/rss/search?q=%28copper%20OR%20aluminum%20OR%20aluminium%20OR%20tin%20OR%20ferroalloy%20OR%20molybdenum%29%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
+      "language": "en"
+    },
+    {
+      "name": "Google News Metals KO",
+      "type": "rss",
+      "enabled": true,
+      "url": "https://news.google.com/rss/search?q=%28%EA%B5%AC%EB%A6%AC%20OR%20%EC%A0%84%EA%B8%B0%EB%8F%99%20OR%20%EC%95%8C%EB%A3%A8%EB%AF%B8%EB%8A%84%20OR%20%EC%A3%BC%EC%84%9D%20OR%20%EC%B2%A0%ED%95%A9%EA%B8%88%20OR%20%EB%AA%B0%EB%A6%AC%EB%B8%8C%EB%8D%B4%29%20when%3A2d&hl=ko&gl=KR&ceid=KR%3Ako",
+      "language": "ko"
+    },
+    { "name": "MINING.COM", "type": "rss", "enabled": false, "url": "https://www.mining.com/feed/", "language": "en", "notes": "Disabled by default because the feed returned HTTP 403 during validation; no bypass is attempted." },
+    { "name": "International Tin Association", "type": "rss", "enabled": true, "url": "https://www.internationaltin.org/feed/", "language": "en" },
+    { "name": "Aluminium Insider", "type": "rss", "enabled": false, "url": "https://aluminiuminsider.com/feed/", "language": "en", "notes": "Disabled by default because the feed returned malformed XML during validation." }
+  ]
+}

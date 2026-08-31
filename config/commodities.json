@@ -1,0 +1,48 @@
+{
+  "copper": {
+    "id": "COPPER",
+    "displayName": "Copper",
+    "ambiguousKeywords": ["copper", "구리"],
+    "exclusionPatterns": ["경기도 구리", "구리시", "구리시청", "구리경찰서", "구리소방서", "구리시의회", "구리도시공사", "구리역", "구리갈매", "구리시민", "구리문화", "구리농수산물", "copper cookware", "copper pan", "copper mug", "copper hair", "copper color", "copper jewellery", "copper jewelry", "copper decor"],
+    "keywords": ["copper", "copper price", "copper concentrate", "copper mine", "copper smelter", "copper cathode", "copper supply", "copper demand", "copper inventory", "LME copper", "SHFE copper", "COMEX copper", "treatment charge", "refining charge", "TC/RC", "copper scrap", "copper premium", "구리", "전기동", "동정광", "동광석", "구리 광산", "동 제련", "구리 공급", "구리 수요", "구리 재고", "제련수수료"],
+    "companies": ["Codelco", "Freeport-McMoRan", "BHP", "Rio Tinto", "Glencore", "Anglo American", "Antofagasta", "Southern Copper", "Zijin Mining", "Jiangxi Copper"],
+    "regions": ["Chile", "Peru", "China", "Democratic Republic of Congo", "DRC", "United States"]
+  },
+  "aluminum": {
+    "id": "ALUMINUM",
+    "displayName": "Aluminum",
+    "keywords": ["aluminum", "aluminium", "alumina", "bauxite", "aluminum smelter", "aluminium smelter", "aluminum price", "aluminium price", "aluminum premium", "LME aluminum", "LME aluminium", "bauxite export", "alumina refinery", "알루미늄", "알루미나", "보크사이트", "알루미늄 제련", "알루미늄 가격"],
+    "companies": ["Rusal", "Alcoa", "Rio Tinto", "Norsk Hydro", "Chalco", "China Hongqiao"],
+    "regions": ["China", "Russia", "Guinea", "Australia", "Indonesia"]
+  },
+  "tin": {
+    "id": "TIN",
+    "displayName": "Tin",
+    "ambiguousKeywords": ["tin", "주석"],
+    "exclusionPatterns": ["시진핑 주석", "국가주석", "중국 주석", "중앙군사위원회 주석", "명예주석", "당 주석", "주석궁", "주석단", "주석직", "각주", "주석 처리", "주석을 달", "주석이 달린", "주석 표기", "tin can", "cookie tin", "biscuit tin", "tea tin", "cigar tin", "decorative tin", "tin format", "tin toy"],
+    "keywords": ["tin", "tin price", "tin concentrate", "tin mine", "tin smelter", "refined tin", "LME tin", "Indonesia tin", "Myanmar tin", "Wa State tin", "tin export", "주석", "주석광", "주석 가격", "주석 제련"],
+    "companies": ["PT Timah", "Yunnan Tin", "Malaysia Smelting Corporation", "Minsur"],
+    "regions": ["Indonesia", "Myanmar", "Wa State", "China", "Democratic Republic of Congo", "DRC"]
+  },
+  "ferro_alloy": {
+    "id": "FERRO_ALLOY",
+    "displayName": "Ferro Alloy",
+    "keywords": ["ferroalloy", "ferro alloy", "ferrosilicon", "ferro silicon", "ferromanganese", "ferro manganese", "ferrochrome", "ferro chrome", "silicomanganese", "silicon manganese", "FeSi", "FeMn", "SiMn", "FeCr", "HCFeMn", "HC FeMn", "high carbon ferromanganese", "ferro alloy price", "manganese ore", "chrome ore", "철합금", "페로실리콘", "페로망간", "페로크롬", "실리코망간", "고탄소 페로망간", "망간광", "크롬광"],
+    "companies": ["Eramet", "South32", "Glencore", "Samancor Chrome", "OM Holdings", "Ferroglobe"],
+    "regions": ["China", "South Africa", "India", "Kazakhstan", "Norway", "Malaysia", "Gabon"],
+    "subCommodities": {
+      "HCFeMn": ["HCFeMn", "HC FeMn", "high carbon ferromanganese", "고탄소 페로망간"],
+      "FeSi": ["FeSi", "ferrosilicon", "ferro silicon", "페로실리콘"],
+      "SiMn": ["SiMn", "silicomanganese", "silicon manganese", "실리코망간"],
+      "FeCr": ["FeCr", "ferrochrome", "ferro chrome", "페로크롬"],
+      "FeMn": ["FeMn", "ferromanganese", "ferro manganese", "페로망간"]
+    }
+  },
+  "molybdenum": {
+    "id": "MOLYBDENUM",
+    "displayName": "Molybdenum",
+    "keywords": ["molybdenum", "molybdenum oxide", "moly oxide", "molybdenum concentrate", "molybdenum price", "ferro molybdenum", "ferromolybdenum", "FeMo", "moly", "molybdenite", "molybdenum mine", "몰리브덴", "산화몰리브덴", "페로몰리브덴", "몰리브덴 정광"],
+    "companies": ["China Molybdenum", "CMOC", "Freeport-McMoRan", "Codelco", "Antofagasta", "Molymet"],
+    "regions": ["China", "Chile", "United States", "Peru"]
+  }
+}

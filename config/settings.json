@@ -1,0 +1,32 @@
+{
+  "timezone": "Asia/Seoul",
+  "minimumRelevanceScore": 5,
+  "telegramMinimumImportance": "MEDIUM",
+  "maxMessagesPerRun": 5,
+  "agentIntervalMinutes": 30,
+  "historyRetentionDays": 30,
+  "dashboardNewsRetentionDays": 7,
+  "dashboardMaxItems": 300,
+  "sourceTimeoutMs": 12000,
+  "titleSimilarityThreshold": 0.66,
+  "enableTelegram": false,
+  "enableKakao": true,
+  "digestTimesKst": ["07:30", "12:00", "17:30"],
+  "codexQueue": {
+    "enabled": true,
+    "alwaysIncludeImportance": ["HIGH"],
+    "minimumImportanceForReview": "MEDIUM",
+    "includeUnclear": true,
+    "includeConflictingSignals": true,
+    "reviewCategories": ["DISRUPTION", "STRIKE", "ACCIDENT", "SANCTION", "TARIFF", "POLICY", "REGULATION", "INVENTORY", "GUIDANCE"],
+    "maxItems": 500,
+    "retentionDays": 30
+  },
+  "priorityWeights": {
+    "importance": { "HIGH": 30, "MEDIUM": 15, "LOW": 0 },
+    "maxRelevanceContribution": 20,
+    "recency": { "under6Hours": 10, "under24Hours": 6, "under72Hours": 2 },
+    "supplyRisk": 8,
+    "urgent": 10
+  }
+}
