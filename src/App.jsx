@@ -5,10 +5,9 @@ import sourcesConfig from '../config/sources.json';
 
 const COMMODITIES = ['COPPER', 'ALUMINUM', 'TIN', 'FERRO_ALLOY', 'MOLYBDENUM'];
 const EMPTY_STATUS = {
-  lastUpdated: null, nextScheduledRun: null, agentStatus: 'NOT_RUN', telegramStatus: 'NOT_CONFIGURED', intelligenceMode: 'RULE_ONLY', sourceStats: [],
+  lastUpdated: null, nextScheduledRun: null, agentStatus: 'NOT_RUN', telegramStatus: 'NOT_CONFIGURED', sourceStats: [],
   runStats: { fetched: 0, relevant: 0, analyzed: 0, sent: 0, failed: 0 }
 };
-const EMPTY_QUEUE = { counts: { PENDING: 0, ANALYZED: 0, SKIPPED: 0 }, items: [] };
 const EMPTY_SUMMARIES = COMMODITIES.map((commodity) => ({ commodity, overallMarketBias: 'Unclear', procurementRisk: 'UNCLEAR', supplySignal: 'UNCLEAR', demandSignal: 'UNCLEAR', inventorySignal: 'UNCLEAR', mainDriver: 'Insufficient Data' }));
 
 const formatKst = (value, withDate = true) => {
@@ -47,8 +46,6 @@ function Header({ status, activeView, onView }) {
       <div className="topbar-status">
         <StatusPill label="AGENT" value={status.agentStatus} />
         <StatusPill label="TELEGRAM" value={status.telegramStatus} />
-        <StatusPill label="MODE" value={status.intelligenceMode || 'RULE_ONLY'} />
-        <StatusPill label="CODEX PENDING" value={String(status.codexQueue?.PENDING || 0)} />
       </div>
     </header>
     <nav className="navline">
@@ -143,14 +140,6 @@ function NewsTable({ articles, onSelect }) {
   </section>;
 }
 
-function AnalysisComparison({ title, analysis, source }) {
-  if (!analysis) return <article className="analysis-card unavailable"><div className="analysis-card-head"><h4>{title}</h4><span>{source}</span></div><p>No analysis has been imported.</p></article>;
-  return <article className="analysis-card"><div className="analysis-card-head"><h4>{title}</h4><span className={`analysis-source ${tone(source)}`}>{source}</span></div>
-    <div className="analysis-mini-grid"><span>Importance <b>{analysis.importance}</b></span><span>Market <b className={tone(analysis.marketImpact)}>{analysis.marketImpact}</b></span><span>Procurement <b className={tone(analysis.procurementImpact)}>{analysis.procurementImpact}</b></span><span>Confidence <b>{analysis.confidence}</b></span></div>
-    <p>{analysis.summary}</p><div className="reason"><span>MARKET RATIONALE</span><p>{analysis.marketImpactReason}</p></div><div className="reason"><span>PROCUREMENT RATIONALE</span><p>{analysis.procurementImpactReason}</p></div>
-  </article>;
-}
-
 function ArticleDrawer({ article, onClose }) {
   if (!article) return null;
   const field = (label, value, className = '') => <div className="detail-field"><span>{label}</span><b className={className}>{value || '확인 불가'}</b></div>;
@@ -162,21 +151,8 @@ function ArticleDrawer({ article, onClose }) {
         <div className="reason"><span>MARKET RATIONALE</span><p>{article.impactReasonKo}</p></div><div className="reason"><span>PROCUREMENT RATIONALE</span><p>{article.procurementReasonKo}</p></div>
       </section>
       <section><h3>Classification</h3><div className="tag-cloud">{[...(article.categories || []), ...(article.signals || [])].map((item) => <span key={item}>{item}</span>)}</div>{field('Regions', article.regions?.join(', '))}{field('Companies', article.companies?.join(', '))}</section>
-      <section><h3>Rule / Codex Comparison</h3><div className="analysis-comparison"><AnalysisComparison title="Rule Analysis" analysis={article.ruleAnalysis} source="RULE" /><AnalysisComparison title="Codex Analysis" analysis={article.codexAnalysis} source="CODEX" /></div></section>
     </aside>
   </div>;
-}
-
-function CodexQueuePanel({ queue }) {
-  const counts = queue.counts || EMPTY_QUEUE.counts;
-  return <section className="panel queue-panel">
-    <div className="panel-title"><div><p className="eyebrow">OPTIONAL HUMAN-IN-THE-LOOP REVIEW</p><h2>Codex Analysis Queue</h2></div><span className="method-note">Optional precision review — never called automatically</span></div>
-    <div className="queue-summary"><span><b>{counts.PENDING || 0}</b>PENDING</span><span><b>{counts.ANALYZED || 0}</b>ANALYZED</span><span><b>{counts.SKIPPED || 0}</b>SKIPPED</span></div>
-    <div className="queue-list"><div className="queue-row header"><span>Commodity</span><span>Importance</span><span>Title</span><span>Reason for Codex Review</span><span>Status</span></div>
-      {(queue.items || []).slice(0, 12).map((item) => <div className="queue-row" key={item.id}><strong>{displayCommodity(item.commodity)}</strong><span className={`importance ${tone(item.importance)}`}>{item.importance}</span><span>{item.title}</span><span>{item.reasonForCodexReview}</span><span className={`queue-status ${tone(item.codexStatus)}`}>{item.codexStatus}</span></div>)}
-      {!queue.items?.length && <p className="empty-queue">No optional review candidates yet. Run the agent to populate this queue.</p>}
-    </div>
-  </section>;
 }
 
 function SettingsPanel({ status }) {
@@ -190,7 +166,7 @@ function SettingsPanel({ status }) {
     <section className="settings-grid"><article className="panel"><h3>Runtime policy</h3>{Object.entries(settingsConfig).filter(([, value]) => !Array.isArray(value) && typeof value !== 'object').map(([key, value]) => <div className="setting-line" key={key}><span>{key}</span><b>{String(value)}</b></div>)}</article>
       <article className="panel"><h3>Configured sources</h3>{sourcesConfig.sources.map((source) => <div className="source-line" key={source.name}><i className={source.enabled ? 'online' : ''} /><div><b>{source.name}</b><span>{source.language.toUpperCase()} · {source.type.toUpperCase()}</span></div></div>)}</article>
       <article className="panel"><h3>Latest source health</h3>{status.sourceStats?.length ? status.sourceStats.map((source) => <div className="setting-line" key={source.name}><span>{source.name}</span><b className={tone(source.status)}>{source.status} · {source.count}</b></div>) : <p className="muted">Run the agent to populate source health.</p>}</article>
-      <article className="panel"><h3>Secret boundary</h3><p className="security-note">Telegram and optional Kakao credentials are only read by Node.js and GitHub Actions. Codex review is file-based; no Codex token or browser session is reused. No secret uses a <code>VITE_*</code> variable or enters the browser bundle.</p></article>
+      <article className="panel"><h3>Secret boundary</h3><p className="security-note">Telegram and Kakao credentials are only read by Node.js and GitHub Actions. No secret uses a <code>VITE_*</code> variable or enters the browser bundle.</p></article>
     </section>
   </main>;
 }
@@ -200,17 +176,16 @@ export default function App() {
   const [status, setStatus] = useState(EMPTY_STATUS);
   const [articles, setArticles] = useState([]);
   const [summaries, setSummaries] = useState(EMPTY_SUMMARIES);
-  const [queue, setQueue] = useState(EMPTY_QUEUE);
   const [selected, setSelected] = useState(null);
   const [loaded, setLoaded] = useState(false);
 
   useEffect(() => {
     let active = true;
     const loadDashboard = () => Promise.all([
-      getJson('latest-news.json', { items: [] }), getJson('status.json', EMPTY_STATUS), getJson('market-summary.json', { summaries: EMPTY_SUMMARIES }), getJson('codex-analysis-queue.json', EMPTY_QUEUE)
-    ]).then(([news, nextStatus, market, nextQueue]) => {
+      getJson('latest-news.json', { items: [] }), getJson('status.json', EMPTY_STATUS), getJson('market-summary.json', { summaries: EMPTY_SUMMARIES })
+    ]).then(([news, nextStatus, market]) => {
       if (!active) return;
-      setArticles(news.items || []); setStatus(nextStatus); setSummaries(market.summaries || EMPTY_SUMMARIES); setQueue(nextQueue); setLoaded(true);
+      setArticles(news.items || []); setStatus(nextStatus); setSummaries(market.summaries || EMPTY_SUMMARIES); setLoaded(true);
     });
     void loadDashboard();
     const timer = setInterval(loadDashboard, 30_000);
@@ -220,7 +195,7 @@ export default function App() {
   return <div className="app-shell"><Header status={status} activeView={activeView} onView={setActiveView} />
     {activeView === 'settings' ? <SettingsPanel status={status} /> : <main className={`dashboard ${loaded ? 'loaded' : ''}`}>
       <section className="page-intro"><div><p className="eyebrow">TRADING + PROCUREMENT COMMAND VIEW</p><h2>Signal quality over news quantity.</h2></div><div className="run-summary"><span><b>{status.runStats?.fetched || 0}</b> FETCHED</span><span><b>{status.runStats?.relevant || 0}</b> RELEVANT</span><span><b>{status.runStats?.sent || 0}</b> SENT</span></div></section>
-      <CommodityCards articles={articles} summaries={summaries} /><SignalBoard summaries={summaries} /><CodexQueuePanel queue={queue} /><NewsTable articles={articles} onSelect={setSelected} />
+      <CommodityCards articles={articles} summaries={summaries} /><SignalBoard summaries={summaries} /><NewsTable articles={articles} onSelect={setSelected} />
     </main>}
     <footer><span>METALS INTELLIGENCE AGENT / KST</span><span>Uncertain evidence is intentionally classified as Unclear.</span></footer>
     <ArticleDrawer article={selected} onClose={() => setSelected(null)} />
