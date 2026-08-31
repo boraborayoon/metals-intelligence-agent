@@ -1,6 +1,113 @@
 {
-  "generatedAt": "2026-08-31T05:35:08.024Z",
+  "generatedAt": "2026-08-31T05:55:53.458Z",
   "items": [
+    {
+      "id": "6e95d3d6d2d8d8e8a77000caf47195d52e0062df07680ee0a4e0da7a4a00f1c8",
+      "titleSourceHash": "c4dba31da91647d3bb2a790d1a0f4eacc2576f6283b61e260725f23ca266e6e4",
+      "eventId": "ce99285c31a9b83df4701c2894d2e9ff281b30e368810d5e6c43c6542e4ebbe0",
+      "title": "국제 구리가격 선물·현물 이례적 가격차에 중소 전선업계 수익성 악화 우려",
+      "normalizedTitle": "국제 구리가격 선물·현물 이례적 가격차에 중소 전선업계 수익성 악화 우려",
+      "description": "국제 구리가격 선물·현물 이례적 가격차에 중소 전선업계 수익성 악화 우려 전기신문",
+      "source": "전기신문",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-08-31T05:30:00.000Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3b2N5dXE4RXJXdFQ3NXl2Z0pXTnV5cnR1X0RrU2g2c2hqa3gzaFJNb0dVd2VrNll4WVZsQ1dYdnBmb0t6ZjlqRmx1eU85RFJnQkFDV2k2ZXJ4UGJZMUFHOEhiNlpzYkZ1VHo3a9IBcEFVX3lxTE4zOW1sWld6ZjZoWnREdmdzUFN5cVNSTG03bjM2NEFwS1FGVkZWU0Vjd0tZdThBY1VKMWtvNGhBUFdoSDl4SWNjSy1VRVJ5TE1nWHV5dzY3OXN2ekRwbFNkbTVvQW5idWc2SFpEOHZhVV8?oc=5",
+      "language": "ko",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "구리"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "가격"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "구리"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "가격"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "국제 구리가격 선물·현물 이례적 가격차에 중소 전선업계 수익성 악화 우려",
+      "summaryKo": "국제 구리가격 선물·현물 이례적 가격차에 중소 전선업계 수익성 악화 우려 전기신문",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "국제 구리가격 선물·현물 이례적 가격차에 중소 전선업계 수익성 악화 우려 전기신문",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "국제 구리가격 선물·현물 이례적 가격차에 중소 전선업계 수익성 악화 우려 전기신문",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-08-31T05:55:53.458Z"
+    },
     {
       "id": "1e5c947384a27ad4c8fd57bbe0944d124041a8d0d5adc4c92be9c173bccac80d",
       "titleSourceHash": "1bad2f4c31fb9b2a6b10d4cf4f6b3f3c42747b94cb0b3ee897074bfca867206e",
@@ -460,7 +567,7 @@
       "source": "AL Circle",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-08-31T02:46:54.000Z",
-      "fetchedAt": "2026-08-31T05:35:08.024Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQU1dIYXdacjhwSndoWlRvUHl3Ml9SSHVoc19wY1VseGF2QUc4amFqRVdQWWM5ZFl3c2YzT3RGOEJ4MmV5UGxLRGFraEtMa0NfbzBOV05uWUZhbTJUa0hsZlF3QzRQZTRLNkpSSUpZdm1BdEhzNWEwaFJ4UjFGb2Ita2ZsWGNKXzhRMzNadmZGcFFUalB6TzJ5bVFzRGgybDByVXVMTThYWGZfR245RkpHYWMzUUhsNVV4eEFRaDl0VVNGZXBiWjFiYTIwajk4eml5VlNNbkZOX3g1UWNPd1dST3V6TzVObTBzRTgzeDdR?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -579,7 +686,7 @@
       "source": "mining-journal.com",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-08-31T02:44:08.000Z",
-      "fetchedAt": "2026-08-31T05:35:08.024Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ2lKTGlRRHltQ05PWG5jMEhIUDV5QnV1bHhIdkZQT05mSVFSNk9ETGRMbUxWTHVPZl9Nd0QweUxuQTcwQ3NZeXBacUZLeXNJX29maFNLQnEwcHJSRkRUUzZwMXdCWkFkWXBSamVpVnFjNHFFXzltVVpRampqaEp6TG5YYmdhWHJYT3pVZWRVNEZ2eF9XQm50V0RmMzhwMHp2dXdWLUZqNzlLalhlbS1rbUpMcV9RM0NaSENIbm9rYmhlQXZrdm0yc3JwZw?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -673,8 +780,8 @@
       "priority": 34,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-08-31T05:55:53.458Z"
     },
     {
       "id": "28481a80b6d265fd1dc82e8a0fdc1350bbf7bf7c433e871ab6810cc20237a721",
@@ -686,7 +793,7 @@
       "source": "marketscreener.com",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-08-31T02:34:25.000Z",
-      "fetchedAt": "2026-08-31T05:35:08.024Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcUc1YUlJLXVGYjZGVktFOUhGRXN0bndkTXdVek54NVNTdkMxR0JHWkNQLVZKNmdydUNMOFk4RHd5SGFVS3FFZjlMRmkzNmgtak5EZmZUaDB3bks4djRIVkJxYlZIdEtpcWhQZjkzdjZPeUEwT0UyOHdRWllLVkRUY1U1MEJ3T2l0ZktHMHBHS2RNQ09kMC1NWjFONy1rSS1jTzR3cXJlZVFvOE9kMnFQcl9fNzFHZlhkQnVKdTUyem5pa0c2SVlDcmRtS0wycW15a0NF?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -783,8 +890,8 @@
       "priority": 34,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-08-31T05:55:53.458Z"
     },
     {
       "id": "87b0020c13ab0ad7e9f2543df19146138d8a831ab2d543b2c9d652f04ec0cccf",
@@ -936,7 +1043,7 @@
       "source": "글로벌이코노믹",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-08-31T02:03:21.000Z",
-      "fetchedAt": "2026-08-31T05:35:08.024Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHV4QUtKYlpVWGlsTDRFamlyamNTX21vOG90djllZG9pT2JfNXNYZmQyNzNQdG9paU54WnRKUnJzZ2NSMGNVTjlSSUVKQzFvM2ZmMnkyZjFUT2tIa2p2WkYyYWp0TlJWdHAtUUt3OXNJNkV0MGhkQnIzRmIxQXMxeFltUHhpb2xK?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -1030,8 +1137,8 @@
       "priority": 34,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-08-31T05:55:53.458Z"
     },
     {
       "id": "1b31ac9a442a1c237e4e446e97a4f4cb08092ae0afae083bfad059ff0730d741",
@@ -1043,7 +1150,7 @@
       "source": "글로벌이코노믹",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-08-31T01:59:07.000Z",
-      "fetchedAt": "2026-08-31T05:35:08.024Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0VXWFFQMjl0X0ZBLVpMUkhoNkVvaDNxb0tOajNMQlhuNTJRc09VTG0zWkxGSF9VTU1ZYjZJUW5mVVh0c1d6NnhRdjNSLW0xU0ZoZGV6YzNDLVMzZjl3V3hEXzgwSVlKUUNaaXBKSmR3QktPeHFJa2lueGFjQjRRNVg2YXBsNGxD?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -1142,8 +1249,8 @@
       "priority": 34,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-08-31T05:55:53.458Z"
     },
     {
       "id": "17fa68940c0009293007b223c6f6986a9f248cade0679911ce7f43d3106b260d",
@@ -1616,7 +1723,7 @@
       "source": "The Star",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-08-31T00:29:09.000Z",
-      "fetchedAt": "2026-08-31T05:35:08.024Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHVVM1FwUHRpNnJFdFBBdzU4c0RuZkF1MHRsOTRXeGt5NjBXamQ3amZseHdMalZGbjZpc25qNW9DMjVtOFFYN0NUeTc0aTVzTzZKb0dPNXRTQkJmSTlvU1REWHh4WUJOdFNTaTdsZmNfcEQ0UVI2YUZyalNlbzdDOWpzbWVURVY4cThxdGhYYWRMTlpLVHU1NGNFWlpCSV95NzVSZWFGc1gxdTdhUVgxbFRwZTdCcGVtVHhadVNB?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -2296,7 +2403,7 @@
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-08-30T11:50:51.000Z",
-      "fetchedAt": "2026-08-31T05:35:08.024Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFdwalBVbU5oMmdyZHFwLWQzMG1PUTBQQlNON2c5QWZhSWxjc0FYTGtqMnRNQk1jZTVfakVGM3UyYkN2TlNJeENleXJmazJqelBtNFl3NzZ4NGxxRkVwNHBUTVRpZ0hkUE1kM0sxZjF6d3FsOVF5YjZpcmxaOGFlVXl2NWJxWnZQTXVxLTRablllR2RoM1lSbmdIeFZGMExRd2Ftc1pqTi00V1RSU2xiZlh3cEZZZ0NKSTk1SlVIdEhCUdIBwgFBVV95cUxPTFdwalBVbU5oMmdyZHFwLWQzMG1PUTBQQlNON2c5QWZhSWxjc0FYTGtqMnRNQk1jZTVfakVGM3UyYkN2TlNJeENleXJmazJqelBtNFl3NzZ4NGxxRkVwNHBUTVRpZ0hkUE1kM0sxZjF6d3FsOVF5YjZpcmxaOGFlVXl2NWJxWnZQTXVxLTRablllR2RoM1lSbmdIeFZGMExRd2Ftc1pqTi00V1RSU2xiZlh3cEZZZ0NKSTk1SlVIdEhCUQ?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -2409,7 +2516,7 @@
       "source": "Barchart.com",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-08-30T10:58:49.000Z",
-      "fetchedAt": "2026-08-31T05:35:08.024Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00cTZSeXc1M3A1QW1Bd1JiYjZock9iNE5PQjlFejRPbG5zSVBKUDRFZFJaRW1nT1RHNERWY2NiTjVVWXFraDRPTi1YUUtudjhGLTItWjFUc1ZsWVhaTW1DcGJ1dkZYVUlBekFqMEV3LTNRejNmbERSZlZ2aw?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -2518,7 +2625,7 @@
       "source": "Stocktwits",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-08-30T09:43:22.000Z",
-      "fetchedAt": "2026-08-31T05:35:08.024Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWVpaaGliQWQxamg4bHhnRC1VdGNia0JObGpWanBsWG9TOVRvbUhDZEI0YkVMNlpOZEtxUGtJcEtHV3Y2Q2lIUTQxcGp3cWxfODZhQjZheUdzUF82ZnFDajhZN2E1eVhsWGFiVTNGZ2h6aHFrYTllaUNFUHFsSlRncWd3dThsWEJpcm95TWw4YmhiX01WU0g4dUpXUUpHU0lnVEY5VXZGU09XX1E4SVM5bi02ZTc4Uk1SWDJBZVFuang4bThDNURMOWhtaVBiNWNpTHZsZ1BFTEI3aExUd3JQQ3pNRkJlbi1DRE1xVHNjejdLc3NqY0cxRkZta3F0NU9NYllj?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -3058,7 +3165,7 @@
       "source": "AL Circle",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-08-30T00:32:23.000Z",
-      "fetchedAt": "2026-08-31T05:35:08.024Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOaGNzamdIcjNhSVFqOUNGbkZTbmFUZW94d0lxSkRiaEFGVHFlZWlsMVQ2eU80LUpEMEpvc2lacHB2VUVtMWM3V19IdjE3SnkxcVI4ekM4aW9RVnB0RXAyTHhWTURxSTZZcnYzRHhaTGNwT0NZZ0dPSHlacTVTQm02a2wxYlFjZFpjbk5EaFdPWk84a3JFQy1yS2pqWFFMWDgwZ2cxXzd5Y3BwNnBPQjZWNnNGaHJBVUZvajRVbHQ3dFBrNERtNzBDTTRhTWlpWjhyZThfaWx1ZlQ5NExvY0g5OUxkc2VBWTJ2R3JjOFJTNTk4eVVyUUNjVHNYN2FzbDh0cWd3cg?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -3179,7 +3286,7 @@
       "source": "Barchart.com",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-08-29T20:18:30.000Z",
-      "fetchedAt": "2026-08-31T05:35:08.024Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90NWFramRlNGltQ0FWUFBmbmQ1YkxIQ19zdE5Nc1lCa0o5bzhQOWpid3R5Zzd2V2xMaU8xMHFJeVdhY00ySjByUDZLOHhVWWtGWVhvRzhqR2JXemFsS21Xa0sycS1YeGlzUUhmNFJFcEs5Zk51UDhMOG9MN0U2WXc?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -3288,7 +3395,7 @@
       "source": "Global Voices",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-08-29T18:20:19.000Z",
-      "fetchedAt": "2026-08-31T05:35:08.024Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUxTS1NrWng2eWxuUDFaQnFiM0NsLThCZnRTNHFxU0FMUTNES1NDUTJTamVPRDRMZGN2RFpaR0xFa3Jjd1J2aldqNGp0QmNzVUNOOFoySWRwdEhQU0dUQVhCN1psSHlqU280ZHJPR1R3UTlwNGg5MTB5Qm9tQkQtYmJQbFFDQldKTW0zNXg4aE5jbUFobE1PQURNbzhJQzRtcTFQZmRSaXJtdTQ5bzBmTFdn?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -3505,6 +3612,115 @@
       "sentAt": null
     },
     {
+      "id": "e37612ee9b804a08ff3adf37644aaa12ca1f1edbfbeebaaad1bfb74c87fec855",
+      "titleSourceHash": "5156ec98be7880a678bee3914df5214fe2e40504d4b02a859253d65f85d00474",
+      "eventId": "75448ae056011bc78c8a2f2dc12e216df18db926fc10ab7093177739bb48ea5f",
+      "title": "LME Aluminium Alloy Day-28 Sep '26 Futures Price History",
+      "normalizedTitle": "lme aluminum alloy day-28 sep 26 futures price history",
+      "description": "LME Aluminium Alloy Day-28 Sep '26 Futures Price History Barchart.com",
+      "source": "Barchart.com",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-08-29T17:00:19.000Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pMUVFWms0cnpMeEhBRFdjaF9BZkZmZldldEZBbWtJT1VkSnVpTnZMQWV4Wm1JWmtpWTh6NDYySHVIZHY5NzJfcWpyeWE4UDlDNXJWZGtocUtaT1pDV0FFc0JHblVCc1VfdDRpY0s2R0d3WUMxUnRLd1ZBYw?oc=5",
+      "language": "en",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "aluminium",
+        "LME aluminium"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "price"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 13,
+          "matchedKeywords": [
+            "aluminium",
+            "LME aluminium"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "price"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "LME Aluminium Alloy Day-28 Sep '26 Futures Price History",
+      "summaryKo": "LME Aluminium Alloy Day-28 Sep '26 Futures Price History Barchart.com",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME Aluminium Alloy Day-28 Sep '26 Futures Price History Barchart.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME Aluminium Alloy Day-28 Sep '26 Futures Price History Barchart.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 30,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": false,
+      "sentAt": null
+    },
+    {
       "id": "1e7a767e065f8a0e64c105b501c57e5eeadd5c694b16b49c097b88aa10ef5021",
       "titleSourceHash": "06bedd5a3d67e7bd5acd9c88765734911a2c4324dd8acfa82e4055875ff93156",
       "eventId": "fab01d53684c45873504aa511835926cbecf8b7ee231978fe06c8faef1238c39",
@@ -3514,7 +3730,7 @@
       "source": "Business Insider Africa",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-08-29T12:06:21.000Z",
-      "fetchedAt": "2026-08-31T05:35:08.024Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaDd5eEU1WW1zRVBOQk9yNUpnLXJXTzBtMng1TWlUQi1nanJ0bkdwRVdTNTlMU0R0aWUtcUdKM3psaUtrV1M5aEp0dnBac0RaTDRXUkoyZjhpa2ZId2w0c3JrdXFXMGNkZS0tVklxWTdNN3h2ZjRnamdkYlhSSTZCTmtyNGxVYllSdHRXTUlDNUlyM2xSd19LXzdHMkpzQ2l4QUtEaGdUMXE5ckZQWkE3SENmT05qaU83X240ZmI4R1lkcmczVHM2YWVOaHdub1hTLWtkdEk0NA?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -18608,7 +18824,7 @@
       "source": "Freddie Mitchell",
       "feedSource": "International Tin Association",
       "publishedAt": "2026-08-27T14:20:42.000Z",
-      "fetchedAt": "2026-08-31T05:35:08.024Z",
+      "fetchedAt": "2026-08-31T05:55:53.458Z",
       "url": "https://www.internationaltin.org/ita-publishes-updated-life-cycle-assessment-baseline-for-tin-industry",
       "language": "en",
       "commodity": "TIN",
