@@ -22,6 +22,23 @@ describe('GitHub Actions workflows', () => {
     expect(digest.permissions.contents).toBe('read');
   });
 
+  it('registers the twice-hourly news schedule explicitly in Korea time', () => {
+    const news = workflow('news-agent.yml');
+    expect(news.on.schedule).toEqual([
+      { cron: '17 * * * *', timezone: 'Asia/Seoul' },
+      { cron: '47 * * * *', timezone: 'Asia/Seoul' }
+    ]);
+  });
+
+  it('registers all daily digest times explicitly in Korea time', () => {
+    const digest = workflow('daily-digest.yml');
+    expect(digest.on.schedule).toEqual([
+      { cron: '30 7 * * *', timezone: 'Asia/Seoul' },
+      { cron: '0 12 * * *', timezone: 'Asia/Seoul' },
+      { cron: '30 17 * * *', timezone: 'Asia/Seoul' }
+    ]);
+  });
+
   it('does not reference OpenAI credentials in the rule-only workflow', () => {
     const raw = readFileSync(new URL('../.github/workflows/news-agent.yml', import.meta.url), 'utf8');
     expect(raw).not.toMatch(/OPENAI|MAX_AI|enableAi/i);

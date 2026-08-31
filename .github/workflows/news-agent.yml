@@ -2,7 +2,10 @@ name: Metals News Agent
 
 on:
   schedule:
-    - cron: '17,47 * * * *'
+    - cron: '17 * * * *'
+      timezone: 'Asia/Seoul'
+    - cron: '47 * * * *'
+      timezone: 'Asia/Seoul'
   workflow_dispatch:
     inputs:
       dry_run:

@@ -2,9 +2,12 @@ name: Metals Daily Digest
 
 on:
   schedule:
-    - cron: '30 22 * * *'
-    - cron: '0 3 * * *'
-    - cron: '30 8 * * *'
+    - cron: '30 7 * * *'
+      timezone: 'Asia/Seoul'
+    - cron: '0 12 * * *'
+      timezone: 'Asia/Seoul'
+    - cron: '30 17 * * *'
+      timezone: 'Asia/Seoul'
   workflow_dispatch:
     inputs:
       dry_run:
