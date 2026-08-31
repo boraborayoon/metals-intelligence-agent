@@ -28,4 +28,15 @@ describe('GitHub Actions workflows', () => {
     expect(raw).toContain('TELEGRAM_BOT_TOKEN');
     expect(raw).toContain('codex-analysis-queue.json');
   });
+
+  it('injects Kakao refresh credentials without storing their values in the workflow', () => {
+    for (const name of ['news-agent.yml', 'daily-digest.yml']) {
+      const document = workflow(name);
+      const environment = Object.values(document.jobs)[0].env;
+      expect(environment.KAKAO_REST_API_KEY).toBe('${{ secrets.KAKAO_REST_API_KEY }}');
+      expect(environment.KAKAO_CLIENT_SECRET).toBe('${{ secrets.KAKAO_CLIENT_SECRET }}');
+      expect(environment.KAKAO_REFRESH_TOKEN).toBe('${{ secrets.KAKAO_REFRESH_TOKEN }}');
+      expect(environment.ENABLE_KAKAO).toBe('true');
+    }
+  });
 });
