@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-31T01:53:28.639Z",
+  "generatedAt": "2026-08-31T05:35:08.024Z",
   "counts": {
-    "PENDING": 319,
+    "PENDING": 329,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -227,6 +227,16 @@
       "publishedAt": "2026-08-31T01:30:14.000Z"
     },
     {
+      "id": "87b0020c13ab0ad7e9f2543df19146138d8a831ab2d543b2c9d652f04ec0cccf",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[원자재] 뉴욕상품거래소 구리 가격, 콩고 공급 차질·미국 관세 우려에 사상 최고가 경신",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "버핏연구소",
+      "publishedAt": "2026-08-31T02:09:39.000Z"
+    },
+    {
       "id": "08d3965dc289bdf94defa32ac10910452fc314fedad8bff094d08e0885dbf2c5",
       "commodity": "ALUMINUM",
       "importance": "HIGH",
@@ -245,6 +255,16 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-08-27T05:10:23.000Z"
+    },
+    {
+      "id": "e27de544e2ba21092126e843262a2a7b5850778b2cb37870b47aebd01254c2ba",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "LME aluminium price surges to $3,222/t with stable opening stocks on August 28",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "AL Circle",
+      "publishedAt": "2026-08-31T03:19:54.000Z"
     },
     {
       "id": "b674f630a077477dbfb367781741c34eb37ac59d175178e234185f823644b231",
@@ -365,6 +385,16 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-08-27T09:11:51.000Z"
+    },
+    {
+      "id": "98d77adfc544f998acc8a65e40a75c96ed790ad2497edf021e5392745b112a2e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "‘역대 최강’ 가능성 엘니뇨, 세계경제 압박…농업·해운·구리 공급까지 타격",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "파이낸스투데이",
+      "publishedAt": "2026-08-31T03:01:00.000Z"
     },
     {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
@@ -1217,6 +1247,66 @@
       "publishedAt": "2026-08-31T01:03:26.000Z"
     },
     {
+      "id": "1e5c947384a27ad4c8fd57bbe0944d124041a8d0d5adc4c92be9c173bccac80d",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Aluminium Gains As Shanghai Exchange Warehouses Report Inventory Decline Trend By Kedia Advisory",
+      "reasonForCodexReview": "Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Investing.com India",
+      "publishedAt": "2026-08-31T05:26:15.000Z"
+    },
+    {
+      "id": "027fc248dfdd001f72871b3de39e64750012234f4241f4b3cacde859680596fa",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "LME Lens: Another weekly copper gain",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining News Net",
+      "publishedAt": "2026-08-31T04:44:16.000Z"
+    },
+    {
+      "id": "f563c6acdd031a9296a0ca5864aa34a383b17955e38f318e2e40eabffae85a6f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Australian Gold and Copper (ASX:AGC) Finds more gold as Evergreen expands",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "mining-journal.com",
+      "publishedAt": "2026-08-31T02:44:08.000Z"
+    },
+    {
+      "id": "28481a80b6d265fd1dc82e8a0fdc1350bbf7bf7c433e871ab6810cc20237a721",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Sumitomo Acquires 25% Effective Stake in Chilean Copper-Gold Project via Tintina Mine",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-08-31T02:34:25.000Z"
+    },
+    {
+      "id": "41df322ba7db27a29389057acb008310c32aeda35eaa0567ba76d6c3a834dc72",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "\"안데스 국경 허물고 구리 캔다\"… 아르헨티나·칠레, '초국경 광산 통합 개발' 승인",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "글로벌이코노믹",
+      "publishedAt": "2026-08-31T02:03:21.000Z"
+    },
+    {
+      "id": "1b31ac9a442a1c237e4e446e97a4f4cb08092ae0afae083bfad059ff0730d741",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "세계 최대 구리 생산 코델코, 수익 4배 폭등…가격 급등 효과",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "글로벌이코노믹",
+      "publishedAt": "2026-08-31T01:59:07.000Z"
+    },
+    {
       "id": "e952dd43288b8e5a0dab80c1d83d4bffa5a0f008717eeb9b8e2447ea3b82156b",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1275,6 +1365,16 @@
       "codexStatus": "PENDING",
       "source": "TMX Newsfile",
       "publishedAt": "2026-08-28T12:30:00.000Z"
+    },
+    {
+      "id": "ef11d1fa61776350e1930efcdbeeea2fd91ac3293a3520f1e00c7a18be5a7c9a",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "China's July aluminium wire and cable exports surge 482% y/y on prior orders, but m-o-m dip flags fading momentum",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "AL Circle",
+      "publishedAt": "2026-08-31T02:46:54.000Z"
     },
     {
       "id": "428c332c3963c5bc92b4128f15dd30090749cfce8c8bbcc0f4a8ae58a217e030",
