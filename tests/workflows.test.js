@@ -37,6 +37,16 @@ describe('GitHub Actions workflows', () => {
     ]);
   });
 
+  it('uses clear workflow names and chains dashboard deployment after news collection', () => {
+    const news = workflow('news-agent.yml');
+    const dashboard = workflow('deploy-dashboard.yml');
+    const digest = workflow('daily-digest.yml');
+    expect(news.name).toBe('1. News Collection & Alerts (Every 30 min)');
+    expect(dashboard.name).toBe('2. Dashboard Update (After News Collection)');
+    expect(digest.name).toBe('3. Market Digest (07:30 / 12:00 / 17:30 KST)');
+    expect(dashboard.on.workflow_run.workflows).toEqual([news.name]);
+  });
+
   it('does not reference OpenAI credentials in the rule-only workflow', () => {
     const raw = readFileSync(new URL('../.github/workflows/news-agent.yml', import.meta.url), 'utf8');
     expect(raw).not.toMatch(/OPENAI|MAX_AI|enableAi/i);
@@ -44,14 +54,14 @@ describe('GitHub Actions workflows', () => {
     expect(raw).toContain('codex-analysis-queue.json');
   });
 
-  it('injects Kakao refresh credentials without storing their values in the workflow', () => {
+  it('keeps Telegram enabled while Kakao delivery is paused', () => {
     for (const name of ['news-agent.yml', 'daily-digest.yml']) {
       const document = workflow(name);
       const environment = Object.values(document.jobs)[0].env;
-      expect(environment.KAKAO_REST_API_KEY).toBe('${{ secrets.KAKAO_REST_API_KEY }}');
-      expect(environment.KAKAO_CLIENT_SECRET).toBe('${{ secrets.KAKAO_CLIENT_SECRET }}');
-      expect(environment.KAKAO_REFRESH_TOKEN).toBe('${{ secrets.KAKAO_REFRESH_TOKEN }}');
-      expect(environment.ENABLE_KAKAO).toBe('true');
+      expect(environment.KAKAO_REST_API_KEY).toBeUndefined();
+      expect(environment.KAKAO_CLIENT_SECRET).toBeUndefined();
+      expect(environment.KAKAO_REFRESH_TOKEN).toBeUndefined();
+      expect(environment.ENABLE_KAKAO).toBe('false');
       expect(environment.TELEGRAM_BOT_TOKEN).toBe('${{ secrets.TELEGRAM_BOT_TOKEN }}');
       expect(environment.TELEGRAM_CHAT_ID).toBe('${{ secrets.TELEGRAM_CHAT_ID }}');
       expect(environment.ENABLE_TELEGRAM).toBe('true');
