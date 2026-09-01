@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T10:29:06.936Z",
+  "generatedAt": "2026-09-01T15:12:25.095Z",
   "counts": {
-    "PENDING": 401,
+    "PENDING": 414,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -15,6 +15,26 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-08-30T23:14:02.000Z"
+    },
+    {
+      "id": "cfd1909ee00fced830d4835de5236b948901235b8bac9371afc88a7521ca9aab",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Copper Price Surge: Tariffs Speculators & Supply Issues",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Funds Society",
+      "publishedAt": "2026-09-01T14:23:29.000Z"
+    },
+    {
+      "id": "79dae4db038c8ef8264a83d7dcaa47c0e9709a41e44619e502443026d6205e07",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Epiroc banks large order for MMG’s Khoemacau Copper Mine",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "International Mining",
+      "publishedAt": "2026-09-01T10:39:58.000Z"
     },
     {
       "id": "8d01ebc8ad05c87f2a4b03b3a221f0a7c5a0cbfee3c4096bb7702262ae67e8c0",
@@ -265,6 +285,16 @@
       "codexStatus": "PENDING",
       "source": "버핏연구소",
       "publishedAt": "2026-08-31T02:09:39.000Z"
+    },
+    {
+      "id": "441e9e689d10a39bc8f5849ca88a5d0f773da6f728806fec17d3c5635d628114",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Before women could vote, ‘Big Annie’ led historic labor strike in Michigan’s Copper Country",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "MLive.com",
+      "publishedAt": "2026-09-01T13:00:00.000Z"
     },
     {
       "id": "08d3965dc289bdf94defa32ac10910452fc314fedad8bff094d08e0885dbf2c5",
@@ -595,6 +625,16 @@
       "codexStatus": "PENDING",
       "source": "news.metal.com",
       "publishedAt": "2026-09-01T04:09:20.000Z"
+    },
+    {
+      "id": "b8aed90cee4a07d06a001e3dfb9acf98bb7f527334f2d8728e03203822afa4da",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "AI Model Cuts Copper Concentrate Weighing Error by 64.6%",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "AZoMining",
+      "publishedAt": "2026-09-01T10:48:00.000Z"
     },
     {
       "id": "eed75731f79879ff7b15b4b9727e94fb9efdd1ceea579dd6f1155f3838a719da",
@@ -1667,16 +1707,6 @@
       "publishedAt": "2026-09-01T06:45:00.000Z"
     },
     {
-      "id": "02829d6f78cff92de9ff4f3f4a99481ca0227e2ded86f970a149f33b5bb30f10",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper production has begun in Türkiye. ACG Metals is ramping up toward full production by the end of 2026.",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Stock Titan",
-      "publishedAt": "2026-09-01T06:14:36.000Z"
-    },
-    {
       "id": "31e9a266a837c945f1a715d6d4cbfa4d53c8ab7fc0a4eb7a634f35b037c2aace",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -1697,14 +1727,74 @@
       "publishedAt": "2026-09-01T05:50:28.000Z"
     },
     {
-      "id": "e5eb62c054a96bf5df272b6f087267d99edbdc7c1648a330314f555d0d9a6030",
+      "id": "7f8f105aafde1a8e8d2f7ccd3f695e200a83fa84755dbe8af9d4367ae1d71725",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "9월 국내 전기동 가격 소폭 하락…톤당 9만 9천원 인하",
+      "title": "아야 골드 앤 실버, 모로코서 139㎢ 구리-은 광구 인수..즈군더 광산 인근",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "snmnews.com",
-      "publishedAt": "2026-09-01T04:54:21.000Z"
+      "source": "매일경제 마켓",
+      "publishedAt": "2026-09-01T13:32:53.000Z"
+    },
+    {
+      "id": "7eab2857907a60a77810ef515216a91f957c71dbdb1a30d46ea4c544ec5b9ee9",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "US copper output forecast to expand by 8.4% in 2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Technology",
+      "publishedAt": "2026-09-01T13:18:19.000Z"
+    },
+    {
+      "id": "a92b93f912376f62d930da92489393827d50c5f611d36b818719d5fe8ede29af",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Kaiser Aluminum (KALU) Stays Ahead Even If Middle East Capacity Returns Faster",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-09-01T12:49:20.000Z"
+    },
+    {
+      "id": "3a3d56359717708e085a46d409a21bb42aa1724d251207abe2dd9e622832cd60",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Aya Gold & Silver to Acquire Copper-Silver Portfolio",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Junior Mining Network",
+      "publishedAt": "2026-09-01T11:13:28.000Z"
+    },
+    {
+      "id": "77a53f6d79295fc8f22d99c4b51b9a44e991394dee5ec3098be69bdfdfbd8a88",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Zinc and copper driven up by supply fears before retreating on strong dollar",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-09-01T10:43:38.000Z"
+    },
+    {
+      "id": "e472c27ca540b50d8677f6a67f720bb7706f6019e57eeb50d345fe0ea48b4034",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Oversupply of aluminum rod persists, processing fees remain stable at low levels, watch the pace of demand recovery [SMM Analysis]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "SMM Metal",
+      "publishedAt": "2026-09-01T10:19:55.000Z"
+    },
+    {
+      "id": "c79d129fa324580a449ea0d20f6fd4930daca94292a79653c70f7ef98b93bb68",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "ACG produces first copper concentrate from Gediktepe operation in Türkiye",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Weekly",
+      "publishedAt": "2026-09-01T07:28:00.000Z"
     },
     {
       "id": "e952dd43288b8e5a0dab80c1d83d4bffa5a0f008717eeb9b8e2447ea3b82156b",
@@ -1777,14 +1867,14 @@
       "publishedAt": "2026-08-31T02:46:54.000Z"
     },
     {
-      "id": "8779eb63d696e68f7dbcebacee9230f68369e86a7170c46777cc3d13d33d59bb",
-      "commodity": "ALUMINUM",
+      "id": "cc3d617b820b1318125422e09021d60cb83b5b375df230ee15ebeceee313e972",
+      "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Indonesia doubles down on coal to power its aluminum expansion",
+      "title": "China plans 1.8-miles drilling project to probe copper-gold riches",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "The Seattle Times",
-      "publishedAt": "2026-09-01T07:09:09.000Z"
+      "source": "Interesting Engineering",
+      "publishedAt": "2026-09-01T14:35:00.000Z"
     },
     {
       "id": "428c332c3963c5bc92b4128f15dd30090749cfce8c8bbcc0f4a8ae58a217e030",
@@ -2175,6 +2265,26 @@
       "codexStatus": "PENDING",
       "source": "KTBS 3",
       "publishedAt": "2026-09-01T02:42:17.000Z"
+    },
+    {
+      "id": "02829d6f78cff92de9ff4f3f4a99481ca0227e2ded86f970a149f33b5bb30f10",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper production has begun in Türkiye. ACG Metals is ramping up toward full production by the end of 2026.",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Stock Titan",
+      "publishedAt": "2026-09-01T06:14:36.000Z"
+    },
+    {
+      "id": "e5eb62c054a96bf5df272b6f087267d99edbdc7c1648a330314f555d0d9a6030",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "9월 국내 전기동 가격 소폭 하락…톤당 9만 9천원 인하",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "철강금속신문",
+      "publishedAt": "2026-09-01T04:54:21.000Z"
     },
     {
       "id": "f93c32ab58d435376799c20d0ff414c5aa5666bcdc7b8d096cbbc2b59d14dbcb",
@@ -3257,14 +3367,24 @@
       "publishedAt": "2026-08-31T09:27:25.000Z"
     },
     {
-      "id": "e1eb4cc2eccd44960331bd8008b09fbbf114764b2fde38e8232fbaaedec3f3f2",
+      "id": "aed9549b3b8278ba65f7c4b802750f706e86d775e4e55806236c7b90f641f29a",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "Trimet in aluminium recycling expansion",
+      "title": "Aluminium European Premium Duty Paid Metal Bulletin Futures Sep '26 Futures Price History",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Barchart.com",
+      "publishedAt": "2026-09-01T08:00:52.000Z"
+    },
+    {
+      "id": "8779eb63d696e68f7dbcebacee9230f68369e86a7170c46777cc3d13d33d59bb",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Indonesia doubles down on coal to power its aluminum expansion",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Aluminium International Today",
-      "publishedAt": "2026-09-01T06:48:23.000Z"
+      "source": "The Seattle Times",
+      "publishedAt": "2026-09-01T07:09:09.000Z"
     },
     {
       "id": "6d5325c5103c4dcd4ffce42ef803163f5fc3badf0f4dd636e7642e4d18f13409",
@@ -3605,6 +3725,16 @@
       "codexStatus": "PENDING",
       "source": "FinancialContent",
       "publishedAt": "2026-08-31T07:15:00.000Z"
+    },
+    {
+      "id": "e1eb4cc2eccd44960331bd8008b09fbbf114764b2fde38e8232fbaaedec3f3f2",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Trimet in aluminium recycling expansion",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Aluminium International Today",
+      "publishedAt": "2026-09-01T08:59:40.000Z"
     },
     {
       "id": "39a1f51f1569b5df00990eef1d25a67da0bd2dadee6805c8c2b25e734994b60e",
