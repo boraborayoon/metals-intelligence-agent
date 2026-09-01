@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-31T20:51:06.458Z",
+  "generatedAt": "2026-09-01T00:38:07.958Z",
   "counts": {
-    "PENDING": 372,
+    "PENDING": 379,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -85,6 +85,16 @@
       "codexStatus": "PENDING",
       "source": "PR Newswire",
       "publishedAt": "2026-08-31T16:48:00.000Z"
+    },
+    {
+      "id": "7a5b26d926764bd7546ca1372e3a91d2ff2052900955fc52953308920f2ef171",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Copper Prices Near Record Levels as LME Inventories Sink on Tariff Fears",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "investingnews.com",
+      "publishedAt": "2026-08-31T22:00:00.000Z"
     },
     {
       "id": "d5d6c56043855a34c1c9a2a084b6da7b1d445fa957a82eab9fef1d83743ae578",
@@ -1477,44 +1487,64 @@
       "publishedAt": "2026-08-31T20:05:39.000Z"
     },
     {
-      "id": "55039c9c21d0fa397b3814c3b9399e33146854e52c662638dbd0f7f2bc652de1",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Glencore looms over Anglo-Teck’s $1.4B copper prize: FT",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "northernminer.com",
-      "publishedAt": "2026-08-31T16:16:13.000Z"
-    },
-    {
-      "id": "48baa90d261772c7b5e1e3ad6ebc13af93a1202f7987181de7dd923668a5d840",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Anglo American and Teck Merger: Glencore Negotiations Key to Copper Synergies - News and Statistics",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-08-31T15:41:00.000Z"
-    },
-    {
-      "id": "6a000aeb0f1d639ed3cbc56b635d33be12410defcc7aa724a0a247cf731b9744",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "칠레 구리 생산량, 폭풍 영향으로 2011년 이후 7월 최저치 기록",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com 한국어",
-      "publishedAt": "2026-08-31T15:16:00.000Z"
-    },
-    {
       "id": "ae5326d8f6d79c2d685f503c4fa8f8ceec831952a9fbb2c4a389efd809568f85",
       "commodity": "COPPER",
       "importance": "MEDIUM",
       "title": "Copper price eases nears record",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "northernminer.com",
+      "source": "The Northern Miner",
       "publishedAt": "2026-08-31T13:47:52.000Z"
+    },
+    {
+      "id": "4d30652e8f4a4da5e86ce58a2adbb9ca92d8b06db1b9aef86b7f523f24507cf9",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "US Aluminum (AA) Receives $174 Million for Gallium Production Fa",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "GuruFocus",
+      "publishedAt": "2026-09-01T00:06:47.000Z"
+    },
+    {
+      "id": "38baa16135d2cb4487b9ba58f7442e2e81532a6fbe4e431eaf618c111205a513",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "US-Canada Trade War Escalates: Steel and Aluminum Tariffs Disrupt North American Supply Chains",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-08-31T22:20:00.000Z"
+    },
+    {
+      "id": "a9937743bce29a7178dbf872428f2753aef4bd909caec80b43616075c65171f0",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Inu to Chinese Yuan Price Today | Live COPPERINU to CNY Converter & Exchange Rate",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "CryptoRank",
+      "publishedAt": "2026-08-31T21:37:56.000Z"
+    },
+    {
+      "id": "a6a3f7e50e63a203cf3010f470ad00950e8a9d1f3d6c92bff1135a5b274768de",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Inu Price | COPPERINU Price Today, Live Chart, USD converter, Market Capitalization",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "CryptoRank",
+      "publishedAt": "2026-08-31T21:35:55.000Z"
+    },
+    {
+      "id": "4a167175eb387156f255ee3f61ff03537d62c4c7e71ab25cd3308046152964a1",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Inu Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "CryptoRank",
+      "publishedAt": "2026-08-31T21:35:55.000Z"
     },
     {
       "id": "e952dd43288b8e5a0dab80c1d83d4bffa5a0f008717eeb9b8e2447ea3b82156b",
@@ -1594,7 +1624,17 @@
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "BNamericas",
-      "publishedAt": "2026-08-31T19:52:30.000Z"
+      "publishedAt": "2026-08-31T19:58:48.000Z"
+    },
+    {
+      "id": "09cb2700ce40e64d5d2d769594e1174804307e8d8a117199fac2797eef0d0dcd",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Capstone Copper Completes $25 Million Acquisition of Chile Project",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-08-31T23:09:17.000Z"
     },
     {
       "id": "428c332c3963c5bc92b4128f15dd30090749cfce8c8bbcc0f4a8ae58a217e030",
@@ -1965,6 +2005,46 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-08-31T13:28:51.000Z"
+    },
+    {
+      "id": "4b6502c4bf76fb5063b38a16af4d946b47b7e6d3c0347716fc35db817c623b9b",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Advancing Skilled Trades: Copper Development Association Supports UA Instructor Training Program in Copper Joining Techniques",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-08-31T20:37:00.000Z"
+    },
+    {
+      "id": "55039c9c21d0fa397b3814c3b9399e33146854e52c662638dbd0f7f2bc652de1",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Glencore looms over Anglo-Teck’s $1.4B copper prize: FT",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Northern Miner",
+      "publishedAt": "2026-08-31T16:16:17.000Z"
+    },
+    {
+      "id": "48baa90d261772c7b5e1e3ad6ebc13af93a1202f7987181de7dd923668a5d840",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Anglo American and Teck Merger: Glencore Negotiations Key to Copper Synergies - News and Statistics",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-08-31T15:41:00.000Z"
+    },
+    {
+      "id": "6a000aeb0f1d639ed3cbc56b635d33be12410defcc7aa724a0a247cf731b9744",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "칠레 구리 생산량, 폭풍 영향으로 2011년 이후 7월 최저치 기록",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com 한국어",
+      "publishedAt": "2026-08-31T15:16:00.000Z"
     },
     {
       "id": "7453087ec1f1a56d21f5e89e57bced4eeea9ba7a7cddea5ffa4e97476fe72732",
@@ -2953,7 +3033,7 @@
       "title": "CrossBoundary Energy starts up solar PV and BESS facility at Kamoa Copper operations",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "im-mining.com",
+      "source": "International Mining",
       "publishedAt": "2026-08-31T07:50:34.000Z"
     },
     {
@@ -2983,7 +3063,7 @@
       "title": "[이슈 포커스] 美加 관세전쟁, 철강·알루미늄 공급망 직격 “국경 넘을 때마다 비용 누적”",
       "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
       "codexStatus": "PENDING",
-      "source": "hellot.net",
+      "source": "헬로티",
       "publishedAt": "2026-08-31T04:37:29.000Z"
     },
     {
@@ -3213,7 +3293,7 @@
       "title": "Capstone Copper Completes Acquisition of San Pietro Copper Concessions, Consolidating the Mantoverde-Santo Domingo Copper District",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "businesswire.com",
+      "source": "Business Wire",
       "publishedAt": "2026-08-31T10:00:00.000Z"
     },
     {
@@ -3715,16 +3795,6 @@
       "codexStatus": "PENDING",
       "source": "Freddie Mitchell",
       "publishedAt": "2026-08-19T15:05:40.000Z"
-    },
-    {
-      "id": "8aaaafeb8b7ee336c650731d7710acaa33ad00e70cf6d821feffecc75d105dcd",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Renison production slips in Q2",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Freddie Mitchell",
-      "publishedAt": "2026-07-27T11:54:02.000Z"
     }
   ]
 }
