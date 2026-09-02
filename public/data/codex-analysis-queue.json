@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-02T06:26:46.513Z",
+  "generatedAt": "2026-09-02T11:44:38.077Z",
   "counts": {
-    "PENDING": 449,
+    "PENDING": 457,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -75,6 +75,16 @@
       "codexStatus": "PENDING",
       "source": "Investing.com",
       "publishedAt": "2026-08-28T18:00:00.000Z"
+    },
+    {
+      "id": "c53db226c93cd15bddace4f096abd59f23d8c21dd96c6504b651d4dd19655f1c",
+      "commodity": "TIN",
+      "importance": "HIGH",
+      "title": "Indonesian government allows PT Timah to buy tin ore from local miners",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Freddie Mitchell",
+      "publishedAt": "2026-08-21T11:38:56.000Z"
     },
     {
       "id": "6249ec3aabdae574e1b922a2959f7f2447e138ee0e6e07fdcdf0de2b8510a129",
@@ -325,6 +335,16 @@
       "codexStatus": "PENDING",
       "source": "MLive.com",
       "publishedAt": "2026-09-01T13:00:00.000Z"
+    },
+    {
+      "id": "f2969c30403a9909b8408c0c0c35d8b9aae92d4f65e9a99639e5958667595a0e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리포천 민자고속 요금소 광장부가 사고 1위",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "팩트저널",
+      "publishedAt": "2026-09-02T06:18:15.000Z"
     },
     {
       "id": "08d3965dc289bdf94defa32ac10910452fc314fedad8bff094d08e0885dbf2c5",
@@ -605,6 +625,16 @@
       "codexStatus": "PENDING",
       "source": "2 News Oklahoma KJRH Tulsa",
       "publishedAt": "2026-09-01T22:00:43.000Z"
+    },
+    {
+      "id": "08d7dbec9a8660b59a5e6b04c3af3bf193ee7ad9d7c1d608a65778b52a1a6d7b",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Aluminum Premium Talks Cool Off For Japan’s Next Quarter",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-09-02T07:35:12.000Z"
     },
     {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
@@ -975,6 +1005,16 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-09-02T03:56:15.000Z"
+    },
+    {
+      "id": "c54561ed7edab7bc527ea7ed7e09c9344df69542059106061fbfcd65a07e7156",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Chile copper thieves are thwarting security measures on mine trains",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Reuters",
+      "publishedAt": "2026-09-02T10:43:46.000Z"
     },
     {
       "id": "ce60a03b7bacf8d76a1803bfa85f8e87172a55d4630cf4906b554e8987466433",
@@ -1957,16 +1997,6 @@
       "publishedAt": "2026-09-02T05:27:38.000Z"
     },
     {
-      "id": "10e2026ac0c7658526417ecadf1879af7c9d203a7ba523ee38cba8a5d494102b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Falls on Demand Concerns",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "tradingview.com",
-      "publishedAt": "2026-09-02T03:48:00.000Z"
-    },
-    {
       "id": "cb03b99be16684bb27b654b40a6ba47e2bcad0f6e2abe5ca3bdd3b4f7d64ae8b",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -1975,6 +2005,36 @@
       "codexStatus": "PENDING",
       "source": "뉴스1",
       "publishedAt": "2026-09-02T03:00:00.000Z"
+    },
+    {
+      "id": "24dd31500352e6a7705b1f671c347b4688b1892220af422d354f945e336090f3",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Indian auto suppliers working on magnetless, copper-aluminium solutions amid supply challenges: Spark Minda",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Tribune",
+      "publishedAt": "2026-09-02T11:07:41.000Z"
+    },
+    {
+      "id": "16672d79d3c3c04c89cd38ee91a560b2bbb569efa67b88aad7e1ecb32f8535fc",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Metso to supply key minerals processing technologies for a copper project in Asia Pacific",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "news.cision.com",
+      "publishedAt": "2026-09-02T06:00:00.000Z"
+    },
+    {
+      "id": "5fe8523710cc0801bfdb5a226baa4fc8b3486925b730a3b4d05534a82f648c5d",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper price forced lower – Forecast today – 2-9-2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Economies.com",
+      "publishedAt": "2026-09-02T05:11:00.000Z"
     },
     {
       "id": "e952dd43288b8e5a0dab80c1d83d4bffa5a0f008717eeb9b8e2447ea3b82156b",
@@ -2455,6 +2515,16 @@
       "codexStatus": "PENDING",
       "source": "KTBS 3",
       "publishedAt": "2026-09-01T02:42:17.000Z"
+    },
+    {
+      "id": "10e2026ac0c7658526417ecadf1879af7c9d203a7ba523ee38cba8a5d494102b",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Falls on Demand Concerns",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-09-02T03:48:00.000Z"
     },
     {
       "id": "e472c27ca540b50d8677f6a67f720bb7706f6019e57eeb50d345fe0ea48b4034",
@@ -3667,6 +3737,16 @@
       "publishedAt": "2026-09-01T17:05:00.000Z"
     },
     {
+      "id": "36ebe9ebcebd6a03042e7bd6e2c334b78876eb3c9a50741e466006448ddab2b5",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Aluminum Foam for Construction Market Size to Reach USD 97.70 Million by 2033, Growing at 5.9% CAGR as Energy-Efficiency Mandates and Fire-Safety Standards Drive Demand – Verified Market Research",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-09-01T21:51:00.000Z"
+    },
+    {
       "id": "8779eb63d696e68f7dbcebacee9230f68369e86a7170c46777cc3d13d33d59bb",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -3845,6 +3925,16 @@
       "codexStatus": "PENDING",
       "source": "AP News",
       "publishedAt": "2026-09-01T07:05:00.000Z"
+    },
+    {
+      "id": "e95303e50ec572b92b5d74e0f4ef3a8bb180856d4fab08bc737e16c7de494923",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Indonesia relies on coal to power its aluminum expansion",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "朝日新聞",
+      "publishedAt": "2026-09-02T02:05:00.000Z"
     },
     {
       "id": "a03642a66181733e54780484672d4cb772c1dbd448ea7890d3b4351ebadf5a5e",
@@ -4485,16 +4575,6 @@
       "codexStatus": "PENDING",
       "source": "Freddie Mitchell",
       "publishedAt": "2026-08-19T15:05:40.000Z"
-    },
-    {
-      "id": "8aaaafeb8b7ee336c650731d7710acaa33ad00e70cf6d821feffecc75d105dcd",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Renison production slips in Q2",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Freddie Mitchell",
-      "publishedAt": "2026-07-27T11:54:02.000Z"
     }
   ]
 }
