@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T23:34:25.237Z",
+  "generatedAt": "2026-09-02T01:25:58.900Z",
   "counts": {
-    "PENDING": 435,
+    "PENDING": 439,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -2443,7 +2443,7 @@
       "title": "Copper production has begun in Türkiye. ACG Metals is ramping up toward full production by the end of 2026.",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Stock Titan",
+      "source": "stocktitan.net",
       "publishedAt": "2026-09-01T06:14:36.000Z"
     },
     {
@@ -2453,7 +2453,7 @@
       "title": "9월 국내 전기동 가격 소폭 하락…톤당 9만 9천원 인하",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "철강금속신문",
+      "source": "snmnews.com",
       "publishedAt": "2026-09-01T04:54:21.000Z"
     },
     {
@@ -3567,6 +3567,26 @@
       "publishedAt": "2026-09-01T10:30:00.000Z"
     },
     {
+      "id": "fa3e4ede22e3867b57a2a631fbda1e6a3248e639e0c753ec1d8f74861a1afe68",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Southern Copper Corp Stock (SCCO) Moved Down by 3.00% on Sep 1: What Investors Need To Know",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingKey",
+      "publishedAt": "2026-09-01T18:15:38.000Z"
+    },
+    {
+      "id": "0ac88c54bb65d662988a7e28978e94d92f04697126446d61bff501e2f4750260",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Forecast 01/09: Consolidates as Supply Tightens",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "DailyForex",
+      "publishedAt": "2026-09-01T12:52:13.000Z"
+    },
+    {
       "id": "8779eb63d696e68f7dbcebacee9230f68369e86a7170c46777cc3d13d33d59bb",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -3723,8 +3743,18 @@
       "title": "Indonesia doubles down on coal to power its aluminum expansion",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "myMotherLode.com",
+      "source": "mymotherlode.com",
       "publishedAt": "2026-09-01T12:45:01.000Z"
+    },
+    {
+      "id": "7d17afcb3183d937d1cf12d0fd5621f8cf2a25756f661404af12ee7b6b631df8",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "A preliminary study projects about $26 billion in gross revenue over 17.5 years for DLP Resources’ Peru project, which would produce copper, molybdenum and silver.",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "stocktitan.net",
+      "publishedAt": "2026-09-01T10:00:00.000Z"
     },
     {
       "id": "a03642a66181733e54780484672d4cb772c1dbd448ea7890d3b4351ebadf5a5e",
@@ -3973,7 +4003,7 @@
       "title": "[이슈 포커스] 美加 관세전쟁, 철강·알루미늄 공급망 직격 “국경 넘을 때마다 비용 누적”",
       "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
       "codexStatus": "PENDING",
-      "source": "헬로티",
+      "source": "hellot.net",
       "publishedAt": "2026-08-31T04:37:29.000Z"
     },
     {
@@ -4355,6 +4385,16 @@
       "codexStatus": "PENDING",
       "source": "Freddie Mitchell",
       "publishedAt": "2026-08-19T15:05:40.000Z"
+    },
+    {
+      "id": "8aaaafeb8b7ee336c650731d7710acaa33ad00e70cf6d821feffecc75d105dcd",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Renison production slips in Q2",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Freddie Mitchell",
+      "publishedAt": "2026-07-27T11:54:02.000Z"
     }
   ]
 }
