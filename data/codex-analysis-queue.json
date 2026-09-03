@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T18:05:48.423Z",
+  "generatedAt": "2026-09-03T21:03:58.629Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -740,6 +740,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-03T09:52:33.609Z",
       "updatedAt": "2026-09-03T09:52:33.609Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "57403dc8abc825bdf968286c2d8e75618ed43cd096130818096cebc4f145e9a4",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Colombia Repeals Mining Restrictions to Boost Investment and Copper Exploration",
+      "summary": "Colombia Repeals Mining Restrictions to Boost Investment and Copper Exploration IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmk5SDF1YW44YnhGLU9TakhYU29MZkNKUTl0RU53amhJZl9LMGNDNUZMYlZ0clVrdVNuVTZaMFFaOVBvTHJWWUJSZlhOVi0wbzJRVlhOelVsOWZKVU16VjhUUkxGWmQ1elQ4OExBenJDbEt6cGxqUzVaRzRBdzhIa0hWTVR4aFVmQWFQdnVxM0p1NXl1eHNwZ3puV3VqMGxXQmdpZlVJdDRqTmhqUXc?oc=5",
+      "publishedAt": "2026-09-03T19:40:00.000Z",
+      "priority": 49,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Regulation",
+        "categories": [
+          "MINE",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Colombia Repeals Mining Restrictions to Boost Investment and Copper Exploration IndexBox",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-03T21:03:58.629Z",
+      "updatedAt": "2026-09-03T21:03:58.629Z",
       "analyzedAt": null
     },
     {
@@ -4422,6 +4459,44 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-03T05:07:59.034Z",
       "updatedAt": "2026-09-03T05:07:59.034Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "4e0c0f44504a296721f04d5c891da7a3351d1fe67da317a312625be2a68ee437",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "El Soldado: key copper asset in Anglo American's long-term bet in Chile",
+      "summary": "El Soldado: key copper asset in Anglo American's long-term bet in Chile BNamericas",
+      "source": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXM4ZHFJQ01KVUJoeWxOclVNNzlIZ0FieVYzX1VqdjRyTWhYS1ZDY0RMTWxJZGJVU1JpaHlKMnBnX2JBMEZwazF1Y2g3NXhBWkpkVHA1ekNXUWRHQkpLZW41a1FKYUhMN0hIc0YtWlAzZ3d0M3RLOW5BSDJseHlId0JPMVpkbkhRMDFNTUZoY2NrdnAxMmhkZmNXUWVTUFJxSFJ2SmlUeFNJTXNh?oc=5",
+      "publishedAt": "2026-09-03T20:35:51.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "El Soldado: key copper asset in Anglo American's long-term bet in Chile BNamericas",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-03T21:03:58.629Z",
+      "updatedAt": "2026-09-03T21:03:58.629Z",
       "analyzedAt": null
     },
     {
@@ -8553,39 +8628,39 @@
       "analyzedAt": null
     },
     {
-      "id": "4c5a63829668fe53949cc0eeb08f7f729d76038d0d0c4ae0d70028a8987d9989",
-      "commodity": "ALUMINUM",
+      "id": "fde506854cb0d9609144984426ddface5f34755c30311204077ee01045b9e311",
+      "commodity": "COPPER",
       "subCommodity": null,
-      "title": "Aluminum’s Rally Looks Like A Supply Story Again",
-      "summary": "Aluminum’s Rally Looks Like A Supply Story Again Finimize",
-      "source": "Finimize",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU3g0S01TSjVBNUh6OHNuSmc5NVRleE5ZNXFBVC1RNE5ObW82LVRIX1RXN2xUZVdvc2k3OUFvT244bC1lVzUtb3Q0MDNYOE55NE15ajNGMXRGMFBEMmVGdjQzV0VaNVBVN1hKdVpHSldoa0xlS3UtSmhHVU9zeWxTS0dn?oc=5",
-      "publishedAt": "2026-09-03T12:19:08.000Z",
+      "title": "BHP Group (ASX:BHP) Tests Greener Copper Recovery In Arizona Pilot Projects",
+      "summary": "BHP Group (ASX:BHP) Tests Greener Copper Recovery In Arizona Pilot Projects Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQnhONVdleW1Dc1ItdmRSUXUxUTg3M3lwSmdaQ1BTQjZmNHJ5QnpISm5XQVZDRXFPeGJ1TGpwb0tjNFlpZGpUMlRIV083X1FTZ2Y1aWQ4S1p2NC1LdUpDZ1c4NVhOblNnRnZDdnZaVlpyMWh5MGRid0lPOWxSMlk5eVdNcWRhRkU?oc=5",
+      "publishedAt": "2026-09-03T18:16:29.000Z",
       "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Supply",
+        "category": "General",
         "categories": [
-          "SUPPLY"
+          "PROJECT"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Aluminum’s Rally Looks Like A Supply Story Again Finimize",
+        "summary": "BHP Group (ASX:BHP) Tests Greener Copper Recovery In Arizona Pilot Projects Yahoo Finance",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
         "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
+        "timeHorizon": "MEDIUM_TERM",
         "signals": [],
         "urgent": false
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-09-03T18:05:48.423Z",
-      "updatedAt": "2026-09-03T18:05:48.423Z",
+      "queuedAt": "2026-09-03T21:03:58.629Z",
+      "updatedAt": "2026-09-03T21:03:58.629Z",
       "analyzedAt": null
     },
     {
@@ -9696,7 +9771,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-03T18:05:48.423Z",
-      "updatedAt": "2026-09-03T18:05:48.423Z",
+      "updatedAt": "2026-09-03T21:03:58.629Z",
       "analyzedAt": null
     },
     {
@@ -10585,6 +10660,42 @@
       "analyzedAt": null
     },
     {
+      "id": "4c5a63829668fe53949cc0eeb08f7f729d76038d0d0c4ae0d70028a8987d9989",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Aluminum’s Rally Looks Like A Supply Story Again",
+      "summary": "Aluminum’s Rally Looks Like A Supply Story Again Finimize",
+      "source": "Finimize",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU3g0S01TSjVBNUh6OHNuSmc5NVRleE5ZNXFBVC1RNE5ObW82LVRIX1RXN2xUZVdvc2k3OUFvT244bC1lVzUtb3Q0MDNYOE55NE15ajNGMXRGMFBEMmVGdjQzV0VaNVBVN1hKdVpHSldoa0xlS3UtSmhHVU9zeWxTS0dn?oc=5",
+      "publishedAt": "2026-09-03T12:19:08.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Aluminum’s Rally Looks Like A Supply Story Again Finimize",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-03T18:05:48.423Z",
+      "updatedAt": "2026-09-03T21:03:58.629Z",
+      "analyzedAt": null
+    },
+    {
       "id": "3b9d368401f76755ea6bb0b09e9e30243eecda56eb561b6cea61072f62c3ad14",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -10653,7 +10764,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-03T05:07:59.034Z",
-      "updatedAt": "2026-09-03T18:05:48.423Z",
+      "updatedAt": "2026-09-03T21:03:58.629Z",
       "analyzedAt": null
     },
     {
@@ -10689,7 +10800,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-03T05:07:59.034Z",
-      "updatedAt": "2026-09-03T18:05:48.423Z",
+      "updatedAt": "2026-09-03T21:03:58.629Z",
       "analyzedAt": null
     },
     {
@@ -15549,7 +15660,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-03T18:05:48.423Z",
-      "updatedAt": "2026-09-03T18:05:48.423Z",
+      "updatedAt": "2026-09-03T21:03:58.629Z",
       "analyzedAt": null
     },
     {
@@ -15623,6 +15734,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-03T18:05:48.423Z",
       "updatedAt": "2026-09-03T18:05:48.423Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "9fa63746459da84d7946dde5e170662a8909b6f2d3cbde5495b65f54ae2a7b33",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "\"전기차 1600만대에 들어갈 양\"…18년 공 들여 광산 탐사한 中, 구리 100만t 발견",
+      "summary": "\"전기차 1600만대에 들어갈 양\"…18년 공 들여 광산 탐사한 中, 구리 100만t 발견 v.daum.net",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UcUMxQ3dWR1NicXJmRVlabVlFOUhpcWRzbldEMFZhcTJmVlI5RUVEZHdzQzNWMjlXR053ZmJHWWliOWd4bkNmVGlWdERGdmM?oc=5",
+      "publishedAt": "2026-09-03T00:16:50.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "\"전기차 1600만대에 들어갈 양\"…18년 공 들여 광산 탐사한 中, 구리 100만t 발견 v.daum.net",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-03T21:03:58.629Z",
+      "updatedAt": "2026-09-03T21:03:58.629Z",
       "analyzedAt": null
     },
     {
@@ -16692,7 +16839,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-03T09:52:33.609Z",
-      "updatedAt": "2026-09-03T18:05:48.423Z",
+      "updatedAt": "2026-09-03T21:03:58.629Z",
       "analyzedAt": null
     },
     {
@@ -17203,7 +17350,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-02T18:57:40.507Z",
-      "updatedAt": "2026-09-03T18:05:48.423Z",
+      "updatedAt": "2026-09-03T21:03:58.629Z",
       "analyzedAt": null
     },
     {
@@ -17241,7 +17388,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-02T06:26:46.513Z",
-      "updatedAt": "2026-09-03T18:05:48.423Z",
+      "updatedAt": "2026-09-03T21:03:58.629Z",
       "analyzedAt": null
     },
     {
@@ -18406,152 +18553,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-26T09:10:19.632Z",
       "updatedAt": "2026-08-28T01:40:19.769Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "8f257b249fdc193cdd4597fccd364108f6c782411db3a6cd6d3e04fd1c5d8bb0",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Canada responds to US aluminium tariffs",
-      "summary": "Canada responds to US aluminium tariffs Aluminium International Today",
-      "source": "Aluminium International Today",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JR1RoYVhqcThlQ1VNLTNoNHAwUXlVRW5PYmJMbnNqTHZuaG4yLWRiX0xPbzd5YXZULTFNSFlGYjd0anBsbU1fS0VFVUVvUmdSQ2s5ZWxRQmh1MmM0cXFWTm9ZTlVjbFFMbXcxakp1VUdmZTJWVkhNb3dtUQ?oc=5",
-      "publishedAt": "2026-08-26T10:52:41.000Z",
-      "priority": 26,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Canada responds to US aluminium tariffs Aluminium International Today",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-26T11:10:19.637Z",
-      "updatedAt": "2026-08-27T07:40:19.705Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "0f7f8ea325763ec1d500aa1d9ea7cb10bc3ddb64be191b5670b0386aad548759",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "US tariff threat upends copper surplus as prices test all-time peak",
-      "summary": "US tariff threat upends copper surplus as prices test all-time peak Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOelM0dUNmR3Y2QjBqdkNNdmZ2LVJ5c3hwR1lIUk1kVHNJcFp6VEp0YmdROUh1ME9YN2syOEtEaF9yZDQzbmszWnNtU0toX01SaHItUmc1RWdHYUZMRFpmMGZDaXMxeGViRDlnbnFKY05aUzZ2SE5BWDRycVQtZDBybWRWTWVzTWU5anpIZS14SFlIRWFRSF9WdmNPeHZMSDlQT2NnZ25nQzNZcmdKcmc?oc=5",
-      "publishedAt": "2026-08-25T15:01:00.000Z",
-      "priority": 26,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "US tariff threat upends copper surplus as prices test all-time peak Reuters",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-26T07:09:28.843Z",
-      "updatedAt": "2026-08-27T12:10:19.724Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "283e1d830beec46e679e2fa9cef0ae83c3f939578bd5a1a25ccd7ec86ac19156",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "울산 알루미늄 가공제품 수출액 50% 증가",
-      "summary": "울산 알루미늄 가공제품 수출액 50% 증가 v.daum.net",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GZlc1S3ZiUHM2aFhMbE45RXZfbWZnV1dsOV9NVlRqUmRjZDc1V0hqbFNuNlBEeU05UXNKM19BUFNTdDB3VkdlMDR4VQ?oc=5",
-      "publishedAt": "2026-08-24T15:30:00.000Z",
-      "priority": 26,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "EXPORT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "울산 알루미늄 가공제품 수출액 50% 증가 v.daum.net",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-26T07:09:28.843Z",
-      "updatedAt": "2026-08-26T07:10:19.620Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "eed30c96b43eca54232a49c24f054127e29b59282aaa6c291ca1e9a7b2658b83",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "금·은·구리 가격 동반 상승…실물자산 투자 관심 커진다",
-      "summary": "금·은·구리 가격 동반 상승…실물자산 투자 관심 커진다 v.daum.net",
-      "source": "v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PMmVkenUtSHh6LUhISEw1czFjUUx5OEV1alI1QVJLblJKN2pyVEJ4Q0tMSVFhMlowMkdUVy0xeXlJRnhWcVI3Y0U4TQ?oc=5",
-      "publishedAt": "2026-08-27T06:02:09.000Z",
-      "priority": 26,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "금·은·구리 가격 동반 상승…실물자산 투자 관심 커진다 v.daum.net",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-28T12:10:19.837Z",
-      "updatedAt": "2026-08-28T12:10:19.837Z",
       "analyzedAt": null
     }
   ]
