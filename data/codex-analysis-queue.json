@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T00:17:49.193Z",
+  "generatedAt": "2026-09-03T05:07:59.034Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -1687,6 +1687,85 @@
       "analyzedAt": null
     },
     {
+      "id": "ed7bfb628ce4504b1a19163dd15010476a2a52123fe97350c2f7ed8272e3a9ff",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "East China inventory divergence is evident; SHFE copper spot premiums may consolidate at lows [SMM Shanghai spot copper]",
+      "summary": "East China inventory divergence is evident; SHFE copper spot premiums may consolidate at lows [SMM Shanghai spot copper] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbTgzNzZ0YXZfY2o4NUExNFB2UFhxaGRpVkVwR2pPT2NkdG82NUltUlBVNl81WTlHaTFKeVNkSnJpMWkwZVA0Z3hmVHR2djJwQllrZDNQT0NxVzFCaThhNk5Ea0tzZWNZaGZyM21hd3dnZVBsd2g1bDRQOW9BQmlWQnpqUm83a2wzenJkZXZrR0tHdWtDNXc0dDdpSy1SMUFFcXBMcU9aM1I5ZjZRdmdpWWlMblRUbWl5TjNKMEliR3BhSGRDRC1uUXphOTZaU2xUWVJsX2tZNDMzVDRHd205ZmktTkxqVjZyeUMxVl9uUzlGSkZtaW9FVg?oc=5",
+      "publishedAt": "2026-09-03T04:18:45.000Z",
+      "priority": 40,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "PRICE",
+          "INVENTORY",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "East China inventory divergence is evident; SHFE copper spot premiums may consolidate at lows [SMM Shanghai spot copper] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-03T05:07:59.034Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "c27d4489f9cde3fbf6c9dd62f364314d011d304262eaec1d6e06bc1473444bf6",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper price rise curbs purchases; North China premiums pull back slightly [SMM North China spot copper]",
+      "summary": "Copper price rise curbs purchases; North China premiums pull back slightly [SMM North China spot copper] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRGhwSl9KaUJxSlFKUjNsU0l6ZE9DT0hsZzc1RUN3UnpSMmp5SkFjc09ZMVpzWHFFTWFnSFo1Z29wcThTS3BHSFJYS0JXR1NTX3NKbWVwRkVvUGxCdkhKNHFva2JVVFctbjhGaXNCb3RIZElrbklrOXk5dHNHVnBSWFRfTEJZNExHVGlQR2dYYmxsMXNickFma01GMWVIZTNheHNBT0tmV0NMeng2YTFtNERjbDdlUTh2RUdndGdsdl9BYUFVTGhONm9ZYkJfbGswR1pEWVJMRXY0V3hNZmUySEl1QQ?oc=5",
+      "publishedAt": "2026-09-03T03:45:05.000Z",
+      "priority": 40,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Copper price rise curbs purchases; North China premiums pull back slightly [SMM North China spot copper] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-03T05:07:59.034Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
+      "analyzedAt": null
+    },
+    {
       "id": "a719f5432fa5c40801c9dc96cbaa43e9abacb570b266078be557c017a76d5903",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -2505,6 +2584,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-02T15:21:12.399Z",
       "updatedAt": "2026-09-02T15:21:12.399Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "dda447e9d5eee406cf1b7311dcc683d2a8e866dde464b607de1fd21b36829005",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "인도, 2047년 구리 수요 97% 수입 의존 전망… 인-잠 협상 재개",
+      "summary": "인도, 2047년 구리 수요 97% 수입 의존 전망… 인-잠 협상 재개 buffettlab.co.kr",
+      "source": "buffettlab.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ0d2YU5meC05VTNfOERCVGFzWVlhTjE3bGNTWjJtUUlncXlIMnRhRE1jZ1psMUNvejY2RWJnR1d3SFd5Y3daSlVINUdHUDFJUFlWVjVGZ3dDbV9xRTZyRHFR?oc=5",
+      "publishedAt": "2026-09-03T00:46:48.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND",
+          "IMPORT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "인도, 2047년 구리 수요 97% 수입 의존 전망… 인-잠 협상 재개 buffettlab.co.kr",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-03T05:07:59.034Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
       "analyzedAt": null
     },
     {
@@ -4043,6 +4159,46 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-02T21:50:58.613Z",
       "updatedAt": "2026-09-02T21:50:58.613Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f56a81a669a6ff608783d79513da16236438ddc5f3eb10477ffbcef500375fa6",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Inventory hits new low, spot premiums rise on the news [SMM South China spot copper]",
+      "summary": "Inventory hits new low, spot premiums rise on the news [SMM South China spot copper] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS3VUeDIxQzQ4QlUtemo4eHNtYWhHUTFYNlkyNV8tek9oTkpoY2VHQjRQMUktd0NZUjgzLS1CenpEdlVMNTFlYWxNOFZkN3V5NG5GNUZIUFU2SkpvZDVJa2NNcFM0VHV2aUtTajBFOUhGM2h5OVNtZl9oY19RQjByeVVNS3B0VWgxRGkzeWhmQ0ZVZFdxVll2UzEwUzBQNzhsWWd3N2FNTDhLeS1CdVp0TkVkT1pTQ2ZhaV9MTzg2eDJ5UDJqQ2otdg?oc=5",
+      "publishedAt": "2026-09-03T03:40:35.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "PRICE",
+          "INVENTORY",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Inventory hits new low, spot premiums rise on the news [SMM South China spot copper] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-03T05:07:59.034Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
       "analyzedAt": null
     },
     {
@@ -7591,44 +7747,6 @@
       "analyzedAt": null
     },
     {
-      "id": "cb03b99be16684bb27b654b40a6ba47e2bcad0f6e2abe5ca3bdd3b4f7d64ae8b",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "철강·알루미늄 등 EU 수출기업 CBAM 대응 지원…정부 합동설명회",
-      "summary": "철강·알루미늄 등 EU 수출기업 CBAM 대응 지원…정부 합동설명회 뉴스1",
-      "source": "뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rbzNHVXZCVFVaUVhjbTdYSGxjdXRsSDM2ZkdZemNwakZuaHdSQjBzZldWRURYQjB5UzBKUk1PLWx6V0dFdTgxaFdWYTdvTE9GU2F6NDVzOC1tWGtj0gFiQVVfeXFMUGt1dW9QSzJzX2lIb2NtRlF4c0FKNVBZc0R3UEpER2dYNk5SZnM3MjhMb0IycDhZMGZtUTNqaDVva0ZGZDRPREszT3U2MEV5dU0tQmpmM2drTk5mbE1MS2FuMkE?oc=5",
-      "publishedAt": "2026-09-02T03:00:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Government Policy",
-        "categories": [
-          "EXPORT",
-          "POLICY",
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "철강·알루미늄 등 EU 수출기업 CBAM 대응 지원…정부 합동설명회 뉴스1",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-02T06:26:46.513Z",
-      "updatedAt": "2026-09-02T06:26:46.513Z",
-      "analyzedAt": null
-    },
-    {
       "id": "24dd31500352e6a7705b1f671c347b4688b1892220af422d354f945e336090f3",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -8030,6 +8148,114 @@
       "analyzedAt": null
     },
     {
+      "id": "d37fd40aa3755756c7d39de9cfca9cdbcf8f45574395cc5adf4e4b1573d2a89b",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Aluminium touches three-week high, supply back in focus",
+      "summary": "Aluminium touches three-week high, supply back in focus marketscreener.com",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzZRZ3kyemlIc3NzQ2FyYVRsVGxZT2FxWW4tX25xZTR5UEVhSGwtbUJ5VkVpc3ZQdGNhZ0VKR2pWZE5HZVNCUnQwOXdBSVQ3THBPUDZPSHViR0Qwb2daZ2ZMZXFyaWpLaEJSZXBCcF8zeEdyRTRSUVJvRVBoVVZUUmhqcE9FU1laTk8tZkZOc3QwRm5JWEZENGdiMjVjcHp2ODFvU2t2d2JJNkk?oc=5",
+      "publishedAt": "2026-09-03T04:14:22.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Aluminium touches three-week high, supply back in focus marketscreener.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-03T05:07:59.034Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "de732735d73b008358f5306fb6d0cda2a805436a44f75d8a0087abd6b81ba061",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua",
+      "summary": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua 신화망",
+      "source": "신화망",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5QjBLRXRCYUZ4NjhrSm9Pa2VHZ2ZoV2xfSWVEZ3dPRTBOeTBnWmthTnVqSGcxcXlkRTZ2dXliaEZZMUVwOU8yNkVtQjdLbXVvWFpJekxiNnR3ZTFVQUFVSktxME9NM2hhc21zQXY4QVpPcnhf?oc=5",
+      "publishedAt": "2026-09-03T02:37:03.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua 신화망",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-03T05:07:59.034Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "ffa502635f88c61a4aa5012491fa7c74ca1c1a9a55a22f603b29dbe3257b4747",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "[EBN 데이터센터] 비철금속 가격 엇갈려…구리·아연 하락, 니켈은 상승",
+      "summary": "[EBN 데이터센터] 비철금속 가격 엇갈려…구리·아연 하락, 니켈은 상승 ebn.co.kr",
+      "source": "ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41UmN3ZGhqdDdVbEJmSWJKQm84ZFBLVDNfS0ctMF95WVBVaEdtVDd1WnpTXzBzOFlkbEpfT0hDcjZ1Y3ZYbmE4czlrdlNieldxTHRsRW9VS3RNRkV2cVBreWJ5Z3RReGVl?oc=5",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[EBN 데이터센터] 비철금속 가격 엇갈려…구리·아연 하락, 니켈은 상승 ebn.co.kr",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-03T05:07:59.034Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
+      "analyzedAt": null
+    },
+    {
       "id": "e952dd43288b8e5a0dab80c1d83d4bffa5a0f008717eeb9b8e2447ea3b82156b",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -8369,6 +8595,44 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-02T21:50:58.613Z",
       "updatedAt": "2026-09-02T21:50:58.613Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "eba1def760b8413f3168c6b27f9c9b99cbfd443ea93d9e2daf001a50f667073f",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Ukrainian foreign minister calls for full EU embargo on alumina and aluminium ore supplies to Russia",
+      "summary": "Ukrainian foreign minister calls for full EU embargo on alumina and aluminium ore supplies to Russia pravda.com.ua",
+      "source": "pravda.com.ua",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rU1B5VjlUZ3Npa3FLZnBGTVhZTWl4OXprdVJXZUV4NjVLMm85eFNlRjZIZFhLd2RWd2hMQnVqa1M4b1QzRHpxekNVOGVSeXdDaWZ0b2hfa2ZYeV9uWXktVi1vY0rSAXBBVV95cUxPVTJuUkFkWE9pSks4QVYyNzlfODRWcDdkVGlPSnpwUWtzek1mY3Q0TzROTGYyTGtZdHFmekx6N2c2a2tZekR3MXgtdWc0ZGwzVW9TOUZocnV6dEduU0Nyd3ZSNVZ2VW5rZkp5REZqWDdS?oc=5",
+      "publishedAt": "2026-09-02T14:51:00.000Z",
+      "priority": 33,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Russia",
+        "regions": [
+          "Russia"
+        ],
+        "summary": "Ukrainian foreign minister calls for full EU embargo on alumina and aluminium ore supplies to Russia pravda.com.ua",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-03T05:07:59.034Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
       "analyzedAt": null
     },
     {
@@ -13200,7 +13464,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-26T07:09:28.843Z",
-      "updatedAt": "2026-09-03T00:17:49.193Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
       "analyzedAt": null
     },
     {
@@ -14620,7 +14884,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-02T18:57:40.507Z",
-      "updatedAt": "2026-09-03T00:17:49.193Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
       "analyzedAt": null
     },
     {
@@ -14658,6 +14922,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-02T21:50:58.613Z",
       "updatedAt": "2026-09-02T21:50:58.613Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "028a2c4002bd9209b07d05dc4f0d4a2f972051c55c97094ba4c93b17c097a0f5",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Sask.’s McIlvenna Bay copper-zinc mine ramps up toward production",
+      "summary": "Sask.’s McIlvenna Bay copper-zinc mine ramps up toward production 980 CJME",
+      "source": "980 CJME",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjg5RmNlM01ZLXc4RUIzNHVzNU5jbkZXSElWM2Zub2pzSDhlR05WRUNQcFcySWZ6NlRpVnh3SmpjQ2g4cjZNU1dOQ2R2clhWaTdrSFg3SFliRE01bWluRWtRa1F6amJwc3BibVlUbEJHSjJ0bmdyTk1qVGZQZUJXUzlobDU4djRtU2xQU1UwRmFuVmRlcDhHV19oMzVfdw?oc=5",
+      "publishedAt": "2026-09-02T22:09:00.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "MINE",
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Sask.’s McIlvenna Bay copper-zinc mine ramps up toward production 980 CJME",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-03T05:07:59.034Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
       "analyzedAt": null
     },
     {
@@ -15208,7 +15509,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-26T07:09:28.843Z",
-      "updatedAt": "2026-09-03T00:17:49.193Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
       "analyzedAt": null
     },
     {
@@ -15438,7 +15739,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-27T14:40:19.720Z",
-      "updatedAt": "2026-09-03T00:17:49.193Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
       "analyzedAt": null
     },
     {
@@ -16093,7 +16394,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-26T07:09:28.843Z",
-      "updatedAt": "2026-09-03T00:17:49.193Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
       "analyzedAt": null
     },
     {
@@ -16166,6 +16467,44 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-31T15:07:14.091Z",
       "updatedAt": "2026-08-31T15:07:14.091Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "cb03b99be16684bb27b654b40a6ba47e2bcad0f6e2abe5ca3bdd3b4f7d64ae8b",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "철강·알루미늄 등 EU 수출기업 CBAM 대응 지원…정부 합동설명회",
+      "summary": "철강·알루미늄 등 EU 수출기업 CBAM 대응 지원…정부 합동설명회 뉴스1",
+      "source": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rbzNHVXZCVFVaUVhjbTdYSGxjdXRsSDM2ZkdZemNwakZuaHdSQjBzZldWRURYQjB5UzBKUk1PLWx6V0dFdTgxaFdWYTdvTE9GU2F6NDVzOC1tWGtj0gFiQVVfeXFMUGt1dW9QSzJzX2lIb2NtRlF4c0FKNVBZc0R3UEpER2dYNk5SZnM3MjhMb0IycDhZMGZtUTNqaDVva0ZGZDRPREszT3U2MEV5dU0tQmpmM2drTk5mbE1MS2FuMkE?oc=5",
+      "publishedAt": "2026-09-02T03:00:00.000Z",
+      "priority": 26,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Government Policy",
+        "categories": [
+          "EXPORT",
+          "POLICY",
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "철강·알루미늄 등 EU 수출기업 CBAM 대응 지원…정부 합동설명회 뉴스1",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-02T06:26:46.513Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
       "analyzedAt": null
     },
     {
@@ -17666,7 +18005,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-03T00:17:49.193Z",
-      "updatedAt": "2026-09-03T00:17:49.193Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
       "analyzedAt": null
     },
     {
@@ -17704,7 +18043,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-26T07:09:28.843Z",
-      "updatedAt": "2026-09-03T00:17:49.193Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
       "analyzedAt": null
     },
     {
@@ -17778,7 +18117,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-26T07:09:28.843Z",
-      "updatedAt": "2026-09-03T00:17:49.193Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
       "analyzedAt": null
     },
     {
@@ -17816,7 +18155,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-26T07:09:28.843Z",
-      "updatedAt": "2026-09-03T00:17:49.193Z",
+      "updatedAt": "2026-09-03T05:07:59.034Z",
       "analyzedAt": null
     }
   ]

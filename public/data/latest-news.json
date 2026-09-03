@@ -1,6 +1,924 @@
 {
-  "generatedAt": "2026-09-03T00:17:49.193Z",
+  "generatedAt": "2026-09-03T05:07:59.034Z",
   "items": [
+    {
+      "id": "ed7bfb628ce4504b1a19163dd15010476a2a52123fe97350c2f7ed8272e3a9ff",
+      "titleSourceHash": "86c077323c0cbb21a0755bb7baae65e339bdb5deb97b0b152c73d89219d537fc",
+      "eventId": "2a624240b7e38bf0f13998974f8f6f933b0b0e0ec1dd394b8470e5e46b18429e",
+      "title": "East China inventory divergence is evident; SHFE copper spot premiums may consolidate at lows [SMM Shanghai spot copper]",
+      "normalizedTitle": "east china inventory divergence is evident shfe copper spot premiums may consolidate at lows smm shanghai spot copper",
+      "description": "East China inventory divergence is evident; SHFE copper spot premiums may consolidate at lows [SMM Shanghai spot copper] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-03T04:18:45.000Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbTgzNzZ0YXZfY2o4NUExNFB2UFhxaGRpVkVwR2pPT2NkdG82NUltUlBVNl81WTlHaTFKeVNkSnJpMWkwZVA0Z3hmVHR2djJwQllrZDNQT0NxVzFCaThhNk5Ea0tzZWNZaGZyM21hd3dnZVBsd2g1bDRQOW9BQmlWQnpqUm83a2wzenJkZXZrR0tHdWtDNXc0dDdpSy1SMUFFcXBMcU9aM1I5ZjZRdmdpWWlMblRUbWl5TjNKMEliR3BhSGRDRC1uUXphOTZaU2xUWVJsX2tZNDMzVDRHd205ZmktTkxqVjZyeUMxVl9uUzlGSkZtaW9FVg?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 15,
+      "matchedKeywords": [
+        "copper",
+        "SHFE copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "China"
+      ],
+      "matchedMarketTerms": [
+        "inventory"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 15,
+          "matchedKeywords": [
+            "copper",
+            "SHFE copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "China"
+          ],
+          "matchedMarketTerms": [
+            "inventory"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE",
+        "INVENTORY",
+        "CHINA"
+      ],
+      "primaryCategory": "Inventory",
+      "titleKo": "East China inventory divergence is evident; SHFE copper spot premiums may consolidate at lows [SMM Shanghai spot copper]",
+      "summaryKo": "East China inventory divergence is evident; SHFE copper spot premiums may consolidate at lows [SMM Shanghai spot copper] Shanghai Metals Market",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "China"
+      ],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "PRICE",
+          "INVENTORY",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "East China inventory divergence is evident; SHFE copper spot premiums may consolidate at lows [SMM Shanghai spot copper] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "PRICE",
+          "INVENTORY",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "East China inventory divergence is evident; SHFE copper spot premiums may consolidate at lows [SMM Shanghai spot copper] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 40,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear; Material event taxonomy",
+      "sent": true,
+      "sentAt": "2026-09-03T05:07:59.034Z"
+    },
+    {
+      "id": "d37fd40aa3755756c7d39de9cfca9cdbcf8f45574395cc5adf4e4b1573d2a89b",
+      "titleSourceHash": "18009b86717e7f415b29d025bed917fa00291028551b21186424201ce1e0977e",
+      "eventId": "5e58c87f64fd2dd7574fe1885906927e30b1437763f90b50fb01c6742e8769ee",
+      "title": "Aluminium touches three-week high, supply back in focus",
+      "normalizedTitle": "aluminum touches three-week high supply back in focus",
+      "description": "Aluminium touches three-week high, supply back in focus marketscreener.com",
+      "source": "marketscreener.com",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-03T04:14:22.000Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzZRZ3kyemlIc3NzQ2FyYVRsVGxZT2FxWW4tX25xZTR5UEVhSGwtbUJ5VkVpc3ZQdGNhZ0VKR2pWZE5HZVNCUnQwOXdBSVQ3THBPUDZPSHViR0Qwb2daZ2ZMZXFyaWpLaEJSZXBCcF8zeEdyRTRSUVJvRVBoVVZUUmhqcE9FU1laTk8tZkZOc3QwRm5JWEZENGdiMjVjcHp2ODFvU2t2d2JJNkk?oc=5",
+      "language": "en",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "aluminium"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "supply"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 9,
+          "matchedKeywords": [
+            "aluminium"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "supply"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "SUPPLY"
+      ],
+      "primaryCategory": "Supply",
+      "titleKo": "Aluminium touches three-week high, supply back in focus",
+      "summaryKo": "Aluminium touches three-week high, supply back in focus marketscreener.com",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Aluminium touches three-week high, supply back in focus marketscreener.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Aluminium touches three-week high, supply back in focus marketscreener.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-03T05:07:59.034Z"
+    },
+    {
+      "id": "c27d4489f9cde3fbf6c9dd62f364314d011d304262eaec1d6e06bc1473444bf6",
+      "titleSourceHash": "322897cdc426ca2862795ab8107e04bdedc43224950c752ac30bd2aa19ab569b",
+      "eventId": "2ae9bc2a9e1c7f58e09d6d26afd01a0e732ec374ee466af36cbed3c4e0045ebf",
+      "title": "Copper price rise curbs purchases; North China premiums pull back slightly [SMM North China spot copper]",
+      "normalizedTitle": "copper price rise curbs purchases north china premiums pull back slightly smm north china spot copper",
+      "description": "Copper price rise curbs purchases; North China premiums pull back slightly [SMM North China spot copper] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-03T03:45:05.000Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRGhwSl9KaUJxSlFKUjNsU0l6ZE9DT0hsZzc1RUN3UnpSMmp5SkFjc09ZMVpzWHFFTWFnSFo1Z29wcThTS3BHSFJYS0JXR1NTX3NKbWVwRkVvUGxCdkhKNHFva2JVVFctbjhGaXNCb3RIZElrbklrOXk5dHNHVnBSWFRfTEJZNExHVGlQR2dYYmxsMXNickFma01GMWVIZTNheHNBT0tmV0NMeng2YTFtNERjbDdlUTh2RUdndGdsdl9BYUFVTGhONm9ZYkJfbGswR1pEWVJMRXY0V3hNZmUySEl1QQ?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 15,
+      "matchedKeywords": [
+        "copper",
+        "copper price"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "China"
+      ],
+      "matchedMarketTerms": [
+        "price"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 15,
+          "matchedKeywords": [
+            "copper",
+            "copper price"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "China"
+          ],
+          "matchedMarketTerms": [
+            "price"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE",
+        "CHINA"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Copper price rise curbs purchases; North China premiums pull back slightly [SMM North China spot copper]",
+      "summaryKo": "Copper price rise curbs purchases; North China premiums pull back slightly [SMM North China spot copper] Shanghai Metals Market",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "China"
+      ],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Copper price rise curbs purchases; North China premiums pull back slightly [SMM North China spot copper] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Copper price rise curbs purchases; North China premiums pull back slightly [SMM North China spot copper] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 40,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-03T05:07:59.034Z"
+    },
+    {
+      "id": "f56a81a669a6ff608783d79513da16236438ddc5f3eb10477ffbcef500375fa6",
+      "titleSourceHash": "e255a4371836db9bfe5192da3379188f7b5845020f6b54f5d7b33d9be3fbe452",
+      "eventId": "19b363050e837fc90c101bb90f9167d62f3a3a96f7b8ab3a65525da8a3d78d32",
+      "title": "Inventory hits new low, spot premiums rise on the news [SMM South China spot copper]",
+      "normalizedTitle": "inventory hits new low spot premiums rise on the news smm south china spot copper",
+      "description": "Inventory hits new low, spot premiums rise on the news [SMM South China spot copper] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-03T03:40:35.000Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS3VUeDIxQzQ4QlUtemo4eHNtYWhHUTFYNlkyNV8tek9oTkpoY2VHQjRQMUktd0NZUjgzLS1CenpEdlVMNTFlYWxNOFZkN3V5NG5GNUZIUFU2SkpvZDVJa2NNcFM0VHV2aUtTajBFOUhGM2h5OVNtZl9oY19RQjByeVVNS3B0VWgxRGkzeWhmQ0ZVZFdxVll2UzEwUzBQNzhsWWd3N2FNTDhLeS1CdVp0TkVkT1pTQ2ZhaV9MTzg2eDJ5UDJqQ2otdg?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "China"
+      ],
+      "matchedMarketTerms": [
+        "inventory"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 10,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "China"
+          ],
+          "matchedMarketTerms": [
+            "inventory"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE",
+        "INVENTORY",
+        "CHINA"
+      ],
+      "primaryCategory": "Inventory",
+      "titleKo": "Inventory hits new low, spot premiums rise on the news [SMM South China spot copper]",
+      "summaryKo": "Inventory hits new low, spot premiums rise on the news [SMM South China spot copper] Shanghai Metals Market",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "China"
+      ],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "PRICE",
+          "INVENTORY",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Inventory hits new low, spot premiums rise on the news [SMM South China spot copper] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "PRICE",
+          "INVENTORY",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Inventory hits new low, spot premiums rise on the news [SMM South China spot copper] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 35,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear; Material event taxonomy",
+      "sent": true,
+      "sentAt": "2026-09-03T05:07:59.034Z"
+    },
+    {
+      "id": "de732735d73b008358f5306fb6d0cda2a805436a44f75d8a0087abd6b81ba061",
+      "titleSourceHash": "9830b507894448fc79ff52701749c8252c1207c680a8bd712b819721134d97fe",
+      "eventId": "2b2163d4c44558246c7f983344b301093c511d989ce187874c337bc0394f6dce",
+      "title": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua",
+      "normalizedTitle": "中 안후이서 초대형 구리·금 광상 발견 핵심 광물 공급 능력 up-xinhua",
+      "description": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua 신화망",
+      "source": "신화망",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-09-03T02:37:03.000Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5QjBLRXRCYUZ4NjhrSm9Pa2VHZ2ZoV2xfSWVEZ3dPRTBOeTBnWmthTnVqSGcxcXlkRTZ2dXliaEZZMUVwOU8yNkVtQjdLbXVvWFpJekxiNnR3ZTFVQUFVSktxME9NM2hhc21zQXY4QVpPcnhf?oc=5",
+      "language": "ko",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "구리"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "공급"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "구리"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "공급"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "SUPPLY"
+      ],
+      "primaryCategory": "Supply",
+      "titleKo": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua",
+      "summaryKo": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua 신화망",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua 신화망",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua 신화망",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "dda447e9d5eee406cf1b7311dcc683d2a8e866dde464b607de1fd21b36829005",
+      "titleSourceHash": "12c7fa9b6feaf430627c6e569abeeb1fae30997179416c470e088aca9f69aa3c",
+      "eventId": "bd400ffbab6c2deb72133a0d98e381830ac34d1302972d7ecedbea1539bc4d54",
+      "title": "인도, 2047년 구리 수요 97% 수입 의존 전망… 인-잠 협상 재개",
+      "normalizedTitle": "인도 2047년 구리 수요 97% 수입 의존 전망 인-잠 협상 재개",
+      "description": "인도, 2047년 구리 수요 97% 수입 의존 전망… 인-잠 협상 재개 buffettlab.co.kr",
+      "source": "buffettlab.co.kr",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-09-03T00:46:48.000Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ0d2YU5meC05VTNfOERCVGFzWVlhTjE3bGNTWjJtUUlncXlIMnRhRE1jZ1psMUNvejY2RWJnR1d3SFd5Y3daSlVINUdHUDFJUFlWVjVGZ3dDbV9xRTZyRHFR?oc=5",
+      "language": "ko",
+      "commodity": "COPPER",
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "구리",
+        "구리 수요"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "수요",
+        "수입"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 13,
+          "matchedKeywords": [
+            "구리",
+            "구리 수요"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "수요",
+            "수입"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "DEMAND",
+        "IMPORT"
+      ],
+      "primaryCategory": "Demand",
+      "titleKo": "인도, 2047년 구리 수요 97% 수입 의존 전망… 인-잠 협상 재개",
+      "summaryKo": "인도, 2047년 구리 수요 97% 수입 의존 전망… 인-잠 협상 재개 buffettlab.co.kr",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND",
+          "IMPORT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "인도, 2047년 구리 수요 97% 수입 의존 전망… 인-잠 협상 재개 buffettlab.co.kr",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND",
+          "IMPORT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "인도, 2047년 구리 수요 97% 수입 의존 전망… 인-잠 협상 재개 buffettlab.co.kr",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 38,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-03T05:07:59.034Z"
+    },
+    {
+      "id": "0f9bb9e211bf21c47af8812371fba54194e9c6b6c8c8667a6c3b91869678e4f9",
+      "titleSourceHash": "1f4397ddebea3f8aa8ad286e001d8545e7f9dde3a9a6f2281ac89ec274d2c021",
+      "eventId": "44d5df10958cc1f259391a5f86ba0318857807932ba68e2d97704c82c4e7d262",
+      "title": "In Chile, injured penguins sport copper vests to help them heal",
+      "normalizedTitle": "in chile injured penguins sport copper vests to help them heal",
+      "description": "In Chile, injured penguins sport copper vests to help them heal AP News",
+      "source": "AP News",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-03T00:13:00.000Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVXFVMmJuZG50bHEwZHhxR1pJcjdSdjIzRS1SNWJ1UmpFdm1DTXN3ZXdYSzdXalhHakNpX3dKMnd3dkVhRmZHWnRMb0h2b0YzTUNxZ1pIMlVGeGlUWERLNktPUWN6dFI5UXc5emd4RVR6SjVCTGRnckw3S1ZKN09WbjA0clJkLXVkQ0JYb0FpQ3hXaTBXVldITTl6YUppNEphZXVTYnY2M3BneVo3c2ZZU2ZXMHY4RzBpNW8tYU9JdWJqc0RG?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "Chile"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 8,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "Chile"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "LOGISTICS"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "In Chile, injured penguins sport copper vests to help them heal",
+      "summaryKo": "In Chile, injured penguins sport copper vests to help them heal AP News",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "Chile"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "LOGISTICS"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "In Chile, injured penguins sport copper vests to help them heal AP News",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "LOGISTICS"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "In Chile, injured penguins sport copper vests to help them heal AP News",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 18,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "ffa502635f88c61a4aa5012491fa7c74ca1c1a9a55a22f603b29dbe3257b4747",
+      "titleSourceHash": "53aaae35ff7e83732a7171250e5dc84fd2f6b8df2fa45d98fb84613c8f6bb492",
+      "eventId": "211ac2b326b05275a996aa3671500a3670e1cbeb813a669e9f88c4870db91409",
+      "title": "[EBN 데이터센터] 비철금속 가격 엇갈려…구리·아연 하락, 니켈은 상승",
+      "normalizedTitle": "ebn 데이터센터 비철금속 가격 엇갈려 구리·아연 하락 니켈은 상승",
+      "description": "[EBN 데이터센터] 비철금속 가격 엇갈려…구리·아연 하락, 니켈은 상승 ebn.co.kr",
+      "source": "ebn.co.kr",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41UmN3ZGhqdDdVbEJmSWJKQm84ZFBLVDNfS0ctMF95WVBVaEdtVDd1WnpTXzBzOFlkbEpfT0hDcjZ1Y3ZYbmE4czlrdlNieldxTHRsRW9VS3RNRkV2cVBreWJ5Z3RReGVl?oc=5",
+      "language": "ko",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "구리"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "가격"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "구리"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "가격"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "[EBN 데이터센터] 비철금속 가격 엇갈려…구리·아연 하락, 니켈은 상승",
+      "summaryKo": "[EBN 데이터센터] 비철금속 가격 엇갈려…구리·아연 하락, 니켈은 상승 ebn.co.kr",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[EBN 데이터센터] 비철금속 가격 엇갈려…구리·아연 하락, 니켈은 상승 ebn.co.kr",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[EBN 데이터센터] 비철금속 가격 엇갈려…구리·아연 하락, 니켈은 상승 ebn.co.kr",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": false,
+      "sentAt": null
+    },
     {
       "id": "6d0a804b49a4244464f606b1a5c53eec5011a3208f7cc94b44c9f5bbbc1c7f96",
       "titleSourceHash": "c355e99d478f8e0e4e5d0c6527ab0214c5af824356e255dc693f53a657630276",
@@ -110,6 +1028,118 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-09-03T00:17:49.193Z"
+    },
+    {
+      "id": "028a2c4002bd9209b07d05dc4f0d4a2f972051c55c97094ba4c93b17c097a0f5",
+      "titleSourceHash": "ceaa65bae19bf02e164819975ad1987c36bc2405e5d921a03a1cd7be2318cf0c",
+      "eventId": "2297d39cf535855b07d87b50809dc6bb31b3fc14a4088f80b23187082cb85fd5",
+      "title": "Sask.’s McIlvenna Bay copper-zinc mine ramps up toward production",
+      "normalizedTitle": "sask s mcilvenna bay copper-zinc mine ramps up toward production",
+      "description": "Sask.’s McIlvenna Bay copper-zinc mine ramps up toward production 980 CJME",
+      "source": "980 CJME",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-02T22:09:00.000Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjg5RmNlM01ZLXc4RUIzNHVzNU5jbkZXSElWM2Zub2pzSDhlR05WRUNQcFcySWZ6NlRpVnh3SmpjQ2g4cjZNU1dOQ2R2clhWaTdrSFg3SFliRE01bWluRWtRa1F6amJwc3BibVlUbEJHSjJ0bmdyTk1qVGZQZUJXUzlobDU4djRtU2xQU1UwRmFuVmRlcDhHV19oMzVfdw?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "production",
+        "mine"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "production",
+            "mine"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "MINE",
+        "PRODUCTION"
+      ],
+      "primaryCategory": "Production",
+      "titleKo": "Sask.’s McIlvenna Bay copper-zinc mine ramps up toward production",
+      "summaryKo": "Sask.’s McIlvenna Bay copper-zinc mine ramps up toward production 980 CJME",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "MINE",
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Sask.’s McIlvenna Bay copper-zinc mine ramps up toward production 980 CJME",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "MINE",
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Sask.’s McIlvenna Bay copper-zinc mine ramps up toward production 980 CJME",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 30,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": false,
+      "sentAt": null
     },
     {
       "id": "3e9a65b53c9969ff4af664dfc23bafbf57fae1b205711948bcb39f0f2ede3443",
@@ -551,6 +1581,109 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-09-02T18:57:40.507Z"
+    },
+    {
+      "id": "08ad3e6dc470fb096652cb86c82990d529caef3aba734363c800dc537fe39253",
+      "titleSourceHash": "353dd82484a38812fbd6090d3e161cc831ea5dba4d95e10253b5fda4b19163a1",
+      "eventId": "f9f6932b89b08c3c02f138e87055e0e790105bd66eae3aa17f49f2392999bcee",
+      "title": "Three big wins for Copper Corridor schools",
+      "normalizedTitle": "three big wins for copper corridor schools",
+      "description": "Three big wins for Copper Corridor schools Copper Area News Publishers",
+      "source": "Copper Area News Publishers",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-02T17:03:46.000Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KckdZaTZHV0NFU2R3aHViQl9HRXdfRHdzWEprbHBUaHJYQ0tPX1VOYWpBQVRfdDlDaGxsMGFFMWctOTQ1dTJ6MkhzMkpZRHRsTU91R29YSHdEdjVRNUl3TU9tWkRDWE1sYnVHQUgyRXhrSE9z?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 5,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "COMPANY"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Three big wins for Copper Corridor schools",
+      "summaryKo": "Three big wins for Copper Corridor schools Copper Area News Publishers",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Three big wins for Copper Corridor schools Copper Area News Publishers",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Three big wins for Copper Corridor schools Copper Area News Publishers",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 11,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
     },
     {
       "id": "6fc9f0391428414e0b4d4401576afd3a170e9aec6fb4dc8168a6fc7c188ff6ec",
@@ -1002,6 +2135,121 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-09-02T15:21:12.399Z"
+    },
+    {
+      "id": "eba1def760b8413f3168c6b27f9c9b99cbfd443ea93d9e2daf001a50f667073f",
+      "titleSourceHash": "f9c8fda8d64b9aaa6f83708259a6c781bb103248edd2b4d9a19a3e525e8cae1c",
+      "eventId": "7f0ec2163c5ff8ef3bf7558fb41042c7cc69921e2a1096bcceb68b84e228a663",
+      "title": "Ukrainian foreign minister calls for full EU embargo on alumina and aluminium ore supplies to Russia",
+      "normalizedTitle": "ukrainian foreign minister calls for full eu embargo on alumina and aluminum ore supplies to russia",
+      "description": "Ukrainian foreign minister calls for full EU embargo on alumina and aluminium ore supplies to Russia pravda.com.ua",
+      "source": "pravda.com.ua",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-02T14:51:00.000Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rU1B5VjlUZ3Npa3FLZnBGTVhZTWl4OXprdVJXZUV4NjVLMm85eFNlRjZIZFhLd2RWd2hMQnVqa1M4b1QzRHpxekNVOGVSeXdDaWZ0b2hfa2ZYeV9uWXktVi1vY0rSAXBBVV95cUxPVTJuUkFkWE9pSks4QVYyNzlfODRWcDdkVGlPSnpwUWtzek1mY3Q0TzROTGYyTGtZdHFmekx6N2c2a2tZekR3MXgtdWc0ZGwzVW9TOUZocnV6dEduU0Nyd3ZSNVZ2VW5rZkp5REZqWDdS?oc=5",
+      "language": "en",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "aluminium",
+        "alumina"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "Russia"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 12,
+          "matchedKeywords": [
+            "aluminium",
+            "alumina"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "Russia"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "COMPANY"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Ukrainian foreign minister calls for full EU embargo on alumina and aluminium ore supplies to Russia",
+      "summaryKo": "Ukrainian foreign minister calls for full EU embargo on alumina and aluminium ore supplies to Russia pravda.com.ua",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "Russia"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Russia",
+        "regions": [
+          "Russia"
+        ],
+        "summary": "Ukrainian foreign minister calls for full EU embargo on alumina and aluminium ore supplies to Russia pravda.com.ua",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Russia",
+        "regions": [
+          "Russia"
+        ],
+        "summary": "Ukrainian foreign minister calls for full EU embargo on alumina and aluminium ore supplies to Russia pravda.com.ua",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 33,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": false,
+      "sentAt": null
     },
     {
       "id": "3c31c53a412ceaed8518adb7b97effd5dfb1aa79334a9eded117fe6fbd0fddc1",
@@ -2101,7 +3349,7 @@
       "source": "Vietnam.vn",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-09-02T11:24:07.000Z",
-      "fetchedAt": "2026-09-03T00:17:49.193Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdTZUQUxURHh3SDNZYUx6bElsV0xtbUkxRVJCUWVzY29xX0ZUeHpDdjczM095UmZzLVAxLTgtNHlKLUFkX0FkMFJoMUJuMzc1cDZKQXg1U0ozdExGcmxFMllWeUcwRjZtRE1FaXlOM1FycEwwcGpZRlhsREdxN090dHB3dDVNOGZkLVVhZS1mWjdUQWs1VUplWkx5QUFCeU40ay1RbTlqWFdqaWs5?oc=5",
       "language": "ko",
       "commodity": "TIN",
@@ -2200,11 +3448,11 @@
       "eventId": "7269946d1f47bca6bf66c1f4c693f94de771fa8cf3496c69b86899798b09be46",
       "title": "Chile tests copper- and zinc-infused suits on injured penguins",
       "normalizedTitle": "chile tests copper- and zinc-infused suits on injured penguins",
-      "description": "Chile tests copper- and zinc-infused suits on injured penguins ua.news",
-      "source": "ua.news",
+      "description": "Chile tests copper- and zinc-infused suits on injured penguins UA.NEWS",
+      "source": "UA.NEWS",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-02T11:11:39.000Z",
-      "fetchedAt": "2026-09-03T00:17:49.193Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeHNkR3cwM1cxTTNQSnJFVGZiNC1fdVVuUDgxV25DaVpkWTR6bWRDWHhzWG95a3RMUW9qcU5Fc1diMzlfaGpfbGw1b0tqenNRRGhac1d4cW0waXYwdS1SVnFYVVBZak5Jb2Z2dG1Ea3Q4eDBDMWxiQWsycjQwdEZmQnh6SVJBYmtZVkR2U1l5djhTbXlmUkpZX0VVTFlodw?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -2240,7 +3488,7 @@
       ],
       "primaryCategory": "General",
       "titleKo": "Chile tests copper- and zinc-infused suits on injured penguins",
-      "summaryKo": "Chile tests copper- and zinc-infused suits on injured penguins ua.news",
+      "summaryKo": "Chile tests copper- and zinc-infused suits on injured penguins UA.NEWS",
       "marketImpact": "Unclear",
       "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
       "procurementImpact": "UNCLEAR",
@@ -2270,7 +3518,7 @@
         "regions": [
           "Chile"
         ],
-        "summary": "Chile tests copper- and zinc-infused suits on injured penguins ua.news",
+        "summary": "Chile tests copper- and zinc-infused suits on injured penguins UA.NEWS",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -2292,7 +3540,7 @@
         "regions": [
           "Chile"
         ],
-        "summary": "Chile tests copper- and zinc-infused suits on injured penguins ua.news",
+        "summary": "Chile tests copper- and zinc-infused suits on injured penguins UA.NEWS",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -2989,7 +4237,7 @@
       "source": "TradingView",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-09-02T07:05:22.000Z",
-      "fetchedAt": "2026-09-03T00:17:49.193Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kVC1DRVZHV24xX0FFcGRraFFyM2ljS3JRcFdOVm8tVnlXbjRtT2dockNZejN4WEllUU5jdy1qSV9VVURDOXlrVWM5blRzSzZrelh1WGVzZDN1ZU5FV1VlRk5sZEMxTW9GeEROa0s2U1A5Qk14Y1dPeg?oc=5",
       "language": "ko",
       "commodity": "ALUMINUM",
@@ -5123,7 +6371,7 @@
       "source": "뉴스1",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-09-02T03:00:00.000Z",
-      "fetchedAt": "2026-09-02T06:26:46.513Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rbzNHVXZCVFVaUVhjbTdYSGxjdXRsSDM2ZkdZemNwakZuaHdSQjBzZldWRURYQjB5UzBKUk1PLWx6V0dFdTgxaFdWYTdvTE9GU2F6NDVzOC1tWGtj0gFiQVVfeXFMUGt1dW9QSzJzX2lIb2NtRlF4c0FKNVBZc0R3UEpER2dYNk5SZnM3MjhMb0IycDhZMGZtUTNqaDVva0ZGZDRPREszT3U2MEV5dU0tQmpmM2drTk5mbE1MS2FuMkE?oc=5",
       "language": "ko",
       "commodity": "ALUMINUM",
@@ -5220,7 +6468,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 34,
+      "priority": 26,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear; Material event taxonomy",
       "sent": false,
@@ -6262,7 +7510,7 @@
       "source": "crescendo-magazine.be",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-01T19:55:05.000Z",
-      "fetchedAt": "2026-09-03T00:17:49.193Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVU5kZ3pKLW9uN2tSdHJXV0FTSUswT2VPS3FWSm1yZDY2YXc5dzlnVm84S1FkTmQ4YmlGU2hod050M25jNzJsdDZOcnVFUEU5ak9WZXlNMEN1Mi0zck9DOWtHeTdxZFRXWndVcU1fc0lEQi1mV2hRZ256b3BmajRleWNHeVc2T0hMS1FlVXExWkduUW5xY0RJeDVFdFRMZWwxTXc?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -6474,7 +7722,7 @@
       "source": "UnionLeader.com",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-01T19:23:00.000Z",
-      "fetchedAt": "2026-09-03T00:17:49.193Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdHo3Z01YY0ZFZGxBMF9DV1BEWnVUMmpZZGZSQmZLSHZRS1BFX2owVHpKa0wtd1o2dDN6Rlo0WHU5dFh3bS1KNThzQ2IxX056RGx0ejZEdHg4RjlWck1yYlJQQzlkWDZfdkI2TFFjS2JHcGNJc3VfM1lfMkRUcFQ1cWlCYW9lYm9IcFlaalFnYlNCbHNhRk80aGJVQi1zY1pwOVdWOXdDbFJwYlE4SWs5bDJfb29pYkYtSUYxeDk4dnhVNGc5YlhFb0dFQUJrbEFPcVNXdTZ0VVl4Z0lxdmNV?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -8791,7 +10039,7 @@
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-01T13:00:10.000Z",
-      "fetchedAt": "2026-09-02T21:50:58.613Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS0RfWDQ1WExjbjhSZFJLc3phOWRxRkwyNk9HMkE4NDA1andPQkhKR2lldDZ2NGlfbHFzNWxNWk9IMFFUVFNnVE40eUdPdnJBblYwVVMzNWdjQW5LSExINTQ0bm5BN0xnMG8zbktmMEJMR2ZpYW5VM1M4NHQyNmVMd3lnZ2VYdTNZa1FzVXd4Tzdfa2hHTm5ZRlRMVmllWWIyY2c2WUVpMHJpLUZibUxsUmJhNkxJeVpMcmhDWmNGekt3dFNwTlowWGlRZ9IBywFBVV95cUxQcGNPUmlpeHhybEdZeWJsaklqZVBTMmdkeWtTckxxaDMxZ1BIS3pZNTYxdkZxZHN6WWpxblljdWxLRWl2S0dtdUUtdTlhQVAwTG51SXVrNVBGNHVjTDNCaVFhdnBtZnZuQ2xYTWtTNnZVWEJxWnBabXRHOXl0V0ZZXzVBYTZoZktORFpjYXQ5SG1pMUQxRVl6aHpUMkhRTElLN0NCbVprYzNtX1JMWG5VNlJSNnRkRWI2TUF0WFEwbTFsQ09YckdNRnppSQ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -9472,7 +10720,7 @@
       "source": "myMotherLode.com",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-01T12:11:37.000Z",
-      "fetchedAt": "2026-09-03T00:17:49.193Z",
+      "fetchedAt": "2026-09-03T05:07:59.034Z",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1Y5aDdkUnpLLUk4dm1jbVl4dG9lSVh0N0Fza3ZEeFlBM015c0lZQjE2UTVtS1hWeVpfSnNsam5lWFVFeTN6dEgzd1hYVERjRm5EYjBnRFBMUU43Q2xUX2NucE5feklyN0gwOEp6cHRGaG9XLU16UVNRU3VEeWlJSEJtdnBsaVA5djBORU0zQ1BoQUdTWWR6bFhZYjFpMGtsc0lpdEw0a0s1QWE0TTAyOE130gG3AUFVX3lxTE41dTBvXzdnVFhIWW9ZUVN1VTJhTWhWSU1XNFJETk1jd2VrQXh4STNPV1ZObFJxTFJoUTVKenJ2WVFrRzdZNGFhVmxZTTVRQjBNdWJDWDE1aDVlVFRaTlFrakVfMVZPdHpRT1hmME8yc2pVZllzdjlGSGwycHhDN1lKT09mRXVodE50Z0l4aHVjUjl0QlN5Y0F6SWFCdG13aFJTT1kxT3JRc19iWjNQd2NmcXJxUnlwOA?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -32120,1221 +33368,6 @@
       "priority": 12,
       "codexStatus": null,
       "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "1ac707146d0e794ada5393db26c5bf249316c97cb3ad55fb7ee60472bc203699",
-      "titleSourceHash": "53d7494340de30a16a398523479e0fc7671fcd937184e2073a5e13e9bf4428f2",
-      "eventId": "30633917c9a30519ae8d9a63cf1991a94b6d1d2118ea5a992f93781c5dd07c65",
-      "title": "Yunnan Copper to Deregister Mining Subsidiary Amid Resource Depletion",
-      "normalizedTitle": "yunnan copper to deregister mining subsidiary amid resource depletion",
-      "description": "Yunnan Copper to Deregister Mining Subsidiary Amid Resource Depletion marketscreener.com",
-      "source": "marketscreener.com",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-08-28T07:56:29.000Z",
-      "fetchedAt": "2026-08-28T11:40:19.829Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUm8zVEM2NVJIRzh2cUVQZzlTdGVrSF9zTUhubW9DcGMtNFl0dkEza2xNMVRtcGJoSks3U1FWVHlFci1VNHc0dENER0txU0x5a3VuWnBtV0ZBOVFyQkUzQmh5Ri1MSzMxZFFiaFd0c3lKUDhST19sTGNnNWkzbFZiSTN1Y1EweVROQ3VYeXNnc2RYVDEyU0RBRHU0NWJGLVFLMWJ2VEJVODVPT3YwbzE5N0l4alZMbkp2ZEV2TmdmMA?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "mining"
-      ],
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "mining"
-          ]
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "MINE"
-      ],
-      "primaryCategory": "Mine",
-      "titleKo": "Yunnan Copper to Deregister Mining Subsidiary Amid Resource Depletion",
-      "summaryKo": "Yunnan Copper to Deregister Mining Subsidiary Amid Resource Depletion marketscreener.com",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Yunnan Copper to Deregister Mining Subsidiary Amid Resource Depletion marketscreener.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Yunnan Copper to Deregister Mining Subsidiary Amid Resource Depletion marketscreener.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 34,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "397e37bc1e4197c745441ff37c24aa1f14f7b60660399641bd391cdfa56c83c4",
-      "titleSourceHash": "bca186639acd03f54684e89ba7c20252ea912df73da6478d6db7b2cb5098c8f3",
-      "eventId": "44fecf14c932c9954293214e0a1f8ea4640ee3ae9f0fb530905993efc4b51c42",
-      "title": "소식통에 따르면, 글로벌 생산사, 일본 구매자들에게 4분기 알루미늄 프리미엄 톤당 310달러 제시",
-      "normalizedTitle": "소식통에 따르면 글로벌 생산사 일본 구매자들에게 4분기 알루미늄 프리미엄 톤당 310달러 제시",
-      "description": "소식통에 따르면, 글로벌 생산사, 일본 구매자들에게 4분기 알루미늄 프리미엄 톤당 310달러 제시 TradingView",
-      "source": "TradingView",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-08-28T07:36:11.000Z",
-      "fetchedAt": "2026-08-29T04:10:19.925Z",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90MVY0TGJnTGQ2b3o5MndOSFJGQWNhOG5pdFpJRVNqejNldGFqMkNJSmEyQ0tfSWFReHg5dEl6Q2JjbldtczhiVlE5SDFPbEZZV25qWDU2YkhxQ2lkT2R1ZTYteEZpckVucjlSVUZmRzFSXzcxWVZfUQ?oc=5",
-      "language": "ko",
-      "commodity": "ALUMINUM",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "알루미늄"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "생산"
-      ],
-      "commodityMatches": [
-        {
-          "commodity": "ALUMINUM",
-          "score": 9,
-          "matchedKeywords": [
-            "알루미늄"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "생산"
-          ]
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "PRODUCTION",
-        "FX"
-      ],
-      "primaryCategory": "Production",
-      "titleKo": "소식통에 따르면, 글로벌 생산사, 일본 구매자들에게 4분기 알루미늄 프리미엄 톤당 310달러 제시",
-      "summaryKo": "소식통에 따르면, 글로벌 생산사, 일본 구매자들에게 4분기 알루미늄 프리미엄 톤당 310달러 제시 TradingView",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRICE",
-          "PRODUCTION",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "소식통에 따르면, 글로벌 생산사, 일본 구매자들에게 4분기 알루미늄 프리미엄 톤당 310달러 제시 TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRICE",
-          "PRODUCTION",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "소식통에 따르면, 글로벌 생산사, 일본 구매자들에게 4분기 알루미늄 프리미엄 톤당 310달러 제시 TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "52042577980041f2ec7d24fc50185bef9e483d9ad6f4724c175e40b358480b72",
-      "titleSourceHash": "77324c2e5711ce808d76fcb421c6d1c6af57f2ed2b9deef38aa2eab3950dcac7",
-      "eventId": "2f2c8bd87ffe8ab626a9ad822f5212190c131ed90e4b43f77601bab60031a28a",
-      "title": "알루미늄 가격, 3,800달러대 고점 후 조정…2026년 하반기 기관 전망 3,200 ~ 3,500달러",
-      "normalizedTitle": "알루미늄 가격 3 800달러대 고점 후 조정 2026년 하반기 기관 전망 3 200 ~ 3 500달러",
-      "description": "알루미늄 가격, 3,800달러대 고점 후 조정…2026년 하반기 기관 전망 3,200 ~ 3,500달러 Mitrade",
-      "source": "Mitrade",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-08-28T07:28:32.000Z",
-      "fetchedAt": "2026-08-28T13:40:19.855Z",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGxBVE9oZGN3THNUS19aa25oUWxKQ0E1NC1qWUN2dXB5dDJSZWtBbWpwdllDZU1Ld24xM2tZVFpnX3JHbU9DVzBaQjhkTjVCZ0hWRjEwd1AwY2dUYlhpNldINzJjY28teXNhVEdBbHlLTm5nekF2a19ja2VkdUNjQUVoZ3prVjJtWDhmTTdOZHpTQQ?oc=5",
-      "language": "ko",
-      "commodity": "ALUMINUM",
-      "relevanceScore": 13,
-      "matchedKeywords": [
-        "알루미늄",
-        "알루미늄 가격"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "가격"
-      ],
-      "commodityMatches": [
-        {
-          "commodity": "ALUMINUM",
-          "score": 13,
-          "matchedKeywords": [
-            "알루미늄",
-            "알루미늄 가격"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "가격"
-          ]
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "TRADE",
-        "FX"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "알루미늄 가격, 3,800달러대 고점 후 조정…2026년 하반기 기관 전망 3,200 ~ 3,500달러",
-      "summaryKo": "알루미늄 가격, 3,800달러대 고점 후 조정…2026년 하반기 기관 전망 3,200 ~ 3,500달러 Mitrade",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "TRADE",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "알루미늄 가격, 3,800달러대 고점 후 조정…2026년 하반기 기관 전망 3,200 ~ 3,500달러 Mitrade",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "TRADE",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "알루미늄 가격, 3,800달러대 고점 후 조정…2026년 하반기 기관 전망 3,200 ~ 3,500달러 Mitrade",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 34,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "e6d0d19acf5147b18d86d53726e695f6d17c7007c4a65fb7cc18e603d3cd2d22",
-      "titleSourceHash": "804ff9e048aca6b31e2338ef05f979cd30d26d081459f7d80e4b6abc4809d564",
-      "eventId": "8682492b1532fa4e2d13d5f9f2ac0e4f1a468ca3c4f6cd846a11de0db15c107c",
-      "title": "고흥쌀, 알루미늄 포장으로 몽골 공략…200만달러 수출협약",
-      "normalizedTitle": "고흥쌀 알루미늄 포장으로 몽골 공략 200만달러 수출협약",
-      "description": "고흥쌀, 알루미늄 포장으로 몽골 공략…200만달러 수출협약 네이트",
-      "source": "네이트",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-08-28T07:19:00.000Z",
-      "fetchedAt": "2026-08-28T09:40:19.818Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vUGR3TWJQMmFJTC1QSnNXR19NQUxyUVBFU1h1M2dma1NDeHQ0SHpZSFV5czBZNnE5MGFrUkJMRTF4Vk9BVWRqQkxRUE9UOGg1anU0?oc=5",
-      "language": "ko",
-      "commodity": "ALUMINUM",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "알루미늄"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "수출"
-      ],
-      "commodityMatches": [
-        {
-          "commodity": "ALUMINUM",
-          "score": 9,
-          "matchedKeywords": [
-            "알루미늄"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "수출"
-          ]
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "EXPORT",
-        "FX"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "고흥쌀, 알루미늄 포장으로 몽골 공략…200만달러 수출협약",
-      "summaryKo": "고흥쌀, 알루미늄 포장으로 몽골 공략…200만달러 수출협약 네이트",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "EXPORT",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "고흥쌀, 알루미늄 포장으로 몽골 공략…200만달러 수출협약 네이트",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "EXPORT",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "고흥쌀, 알루미늄 포장으로 몽골 공략…200만달러 수출협약 네이트",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 34,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "3571f1a9ee3caa7d9949bb7c53dd1b14aa113bcf45b20f9bb5ad27d0e8cf39fb",
-      "titleSourceHash": "96b527bad841b20d7c75af5bbc44eb596abe233fd65471b368f54ef52e204221",
-      "eventId": "752f881dc68bbfbceb833bd8d4ace001760a006236b7304bf1029ec9cd6b5eec",
-      "title": "Andrada Mining reports £4.7 million operating cash inflow as tin production rises",
-      "normalizedTitle": "andrada mining reports £4 7 million operating cash inflow as tin production rises",
-      "description": "Andrada Mining reports £4.7 million operating cash inflow as tin production rises Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-08-28T07:18:57.000Z",
-      "fetchedAt": "2026-08-28T22:10:19.900Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRmxQSjRJOUd1cThBSHBsM2QzSG1VQVN5SGVqQTBXN3ZhaE1iWVp0Z040cWFsTHVLbXc0Nk5XYXVwdHpiTHMzNUF3Wi1sTktHYWF4S0RwTkNxdDFwOXRCa1laU2dubGg3SURzeDFRT3Bsa1NuamFPQjM0Z0JLLVRhQQ?oc=5",
-      "language": "en",
-      "commodity": "TIN",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "tin"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "production",
-        "mining"
-      ],
-      "commodityMatches": [
-        {
-          "commodity": "TIN",
-          "score": 9,
-          "matchedKeywords": [
-            "tin"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "production",
-            "mining"
-          ]
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "MINE",
-        "PRODUCTION",
-        "LOGISTICS"
-      ],
-      "primaryCategory": "Production",
-      "titleKo": "Andrada Mining reports £4.7 million operating cash inflow as tin production rises",
-      "summaryKo": "Andrada Mining reports £4.7 million operating cash inflow as tin production rises Yahoo Finance UK",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "MINE",
-          "PRODUCTION",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Andrada Mining reports £4.7 million operating cash inflow as tin production rises Yahoo Finance UK",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "MINE",
-          "PRODUCTION",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Andrada Mining reports £4.7 million operating cash inflow as tin production rises Yahoo Finance UK",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "a8e0379f8a9a7145ca002a99895f93461b301cf3784bb036e7e3885b2b67e10d",
-      "titleSourceHash": "edeabeed25d644d537d3d353b964aa86d042845e29274dfeb89548c87f4d751e",
-      "eventId": "7cd088b05e127793788e1a9946002159ac2ff4d6a2692f9cb664c16994113436",
-      "title": "Available Cargo Continued to Tighten, Shanghai Spot Copper Premiums Hit a New High This Year [SMM Shanghai Spot Copper]",
-      "normalizedTitle": "available cargo continued to tighten shanghai spot copper premiums hit a new high this year smm shanghai spot copper",
-      "description": "Available Cargo Continued to Tighten, Shanghai Spot Copper Premiums Hit a New High This Year [SMM Shanghai Spot Copper] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-08-28T07:18:45.000Z",
-      "fetchedAt": "2026-08-28T13:40:19.855Z",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZTNUN0p3R2FRbUZod2tvNkpUXzhXUDBRM3M1MVdrRzNmS1U2cVQ0alA1R05QN1h5RFpCNjhrUXg2eEQ3cDV1a1U4LTF6LTA2RUlSTW5TUlFFaTE1WHJfN3hjbEdYMHNxcjQxZmlKM2tiZG1DcnRRZU9RbXFIaHJKR0FFSkYwaXZZSUVPVFBfMGdRdFZvZU5SY0V4REhHWHNYMFFmdlp1ZUV4eHJudC1xbW9KY0w4NVM4SHVlMnNLSmR0a1JOaU93V0lWd1FpN3NVSHlpWGEwWUNydVAwQjlXM1dsemg5OXBDUXZmeGI4OXUteTZDTkZr?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 6,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": []
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "PRICE"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Available Cargo Continued to Tighten, Shanghai Spot Copper Premiums Hit a New High This Year [SMM Shanghai Spot Copper]",
-      "summaryKo": "Available Cargo Continued to Tighten, Shanghai Spot Copper Premiums Hit a New High This Year [SMM Shanghai Spot Copper] Shanghai Metals Market",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Available Cargo Continued to Tighten, Shanghai Spot Copper Premiums Hit a New High This Year [SMM Shanghai Spot Copper] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Available Cargo Continued to Tighten, Shanghai Spot Copper Premiums Hit a New High This Year [SMM Shanghai Spot Copper] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 12,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "2a3c184eda0a8a0b03739ab3d45ea3f0c4b0be3a2e21f384dce8f99420bb201d",
-      "titleSourceHash": "5904c3a5f249ebd34d82497e94a5b33044737c56febdc0068df42a6f473d26a2",
-      "eventId": "8682492b1532fa4e2d13d5f9f2ac0e4f1a468ca3c4f6cd846a11de0db15c107c",
-      "title": "고흥쌀, 알루미늄 포장으로 몽골 공략…200만달러 수출협약",
-      "normalizedTitle": "고흥쌀 알루미늄 포장으로 몽골 공략 200만달러 수출협약",
-      "description": "고흥쌀, 알루미늄 포장으로 몽골 공략…200만달러 수출협약 브릿지경제",
-      "source": "브릿지경제",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-08-28T07:18:00.000Z",
-      "fetchedAt": "2026-08-29T08:10:19.943Z",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fWHZFMFNjenlpaTlDVk1jQk8wdEdyRUtzb2YxRk9YVXI5cG4zdmUxVFY2Y2t1T0QxMEc1VDdXUUM3SlZaYmRIVmlrM0gtdjVUdUtvdms0UEFrdw?oc=5",
-      "language": "ko",
-      "commodity": "ALUMINUM",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "알루미늄"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "수출"
-      ],
-      "commodityMatches": [
-        {
-          "commodity": "ALUMINUM",
-          "score": 9,
-          "matchedKeywords": [
-            "알루미늄"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "수출"
-          ]
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "EXPORT",
-        "FX"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "고흥쌀, 알루미늄 포장으로 몽골 공략…200만달러 수출협약",
-      "summaryKo": "고흥쌀, 알루미늄 포장으로 몽골 공략…200만달러 수출협약 브릿지경제",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "EXPORT",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "고흥쌀, 알루미늄 포장으로 몽골 공략…200만달러 수출협약 브릿지경제",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "EXPORT",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "고흥쌀, 알루미늄 포장으로 몽골 공략…200만달러 수출협약 브릿지경제",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 26,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "5fa6afc8b5b521627139214dd342609e7dfb313bcac4df9dbd36960fc3a5f698",
-      "titleSourceHash": "0281455f0b6be8b4d4bd1be0e9e2fd88971ccdb5ae1fc2e387b6bc040a422161",
-      "eventId": "b71c40558dc907ba9e3203c15c0303ff47d04de942ae5595de6ca553dff96e8b",
-      "title": "Copper Wire and Cable Operating Rates Rose Slightly This Week; Copper Prices Shot Up, Suppressing the Release of New Orders [SMM Weekly Review of the Wire and Cable Market]",
-      "normalizedTitle": "copper wire and cable operating rates rose slightly this week copper prices shot up suppressing the release of new orders smm weekly review of the wire and cable market",
-      "description": "Copper Wire and Cable Operating Rates Rose Slightly This Week; Copper Prices Shot Up, Suppressing the Release of New Orders [SMM Weekly Review of the Wire and Cable Market] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-08-28T07:16:12.000Z",
-      "fetchedAt": "2026-08-28T14:40:19.858Z",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMmd6X2tSY0h1elZFZnJTUFdTREpPUTM4Smd1UjZJaEVpY0JyQmdQd3N1NmtTOFJzMlh0Z1pCd2EwTWRVdHRlWUZtWXpieTNFLTd2Y3lVX3VMVXhobEhneTVZbnFEdkx2eENQNTZ0cE9kZGtLTXBiWWIwNHdHS0RSLUhoYmNIdjhOaE9uMkwwQ3N4bU9hS0hIQjBLWDVNd3BfWllHSEl4TElobTZMNkJ2UTVIa2NNVnkzNzRnRlJCdW5sOFpQckpPdUU5cl9fbGF4ODM5Y25BdThNdEZrc0RUR1poZHJQUVIwTEZIeUphSy1Wbkx5bEN0T3BsT0o?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 6,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": []
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "PRICE"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Copper Wire and Cable Operating Rates Rose Slightly This Week; Copper Prices Shot Up, Suppressing the Release of New Orders [SMM Weekly Review of the Wire and Cable Market]",
-      "summaryKo": "Copper Wire and Cable Operating Rates Rose Slightly This Week; Copper Prices Shot Up, Suppressing the Release of New Orders [SMM Weekly Review of the Wire and Cable Market] Shanghai Metals Market",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Wire and Cable Operating Rates Rose Slightly This Week; Copper Prices Shot Up, Suppressing the Release of New Orders [SMM Weekly Review of the Wire and Cable Market] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Wire and Cable Operating Rates Rose Slightly This Week; Copper Prices Shot Up, Suppressing the Release of New Orders [SMM Weekly Review of the Wire and Cable Market] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 12,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "2055f11dfdffb3789c5ac878790c25e357266ae83953f225853533587a1260bd",
-      "titleSourceHash": "4df447500f541766b0bd44ed9a7904388899a9533325f47caf524ba1cc516302",
-      "eventId": "aabda0a7190f67d68a9ca76e6569bb87de6e88d94240e8b8968eda517f75289a",
-      "title": "McEwen Copper secures funding through to Los Azules FID",
-      "normalizedTitle": "mcewen copper secures funding through to los azules fid",
-      "description": "McEwen Copper secures funding through to Los Azules FID Mining Weekly",
-      "source": "Mining Weekly",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-08-28T07:13:00.000Z",
-      "fetchedAt": "2026-08-28T13:40:19.855Z",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNakZSLTJsX2ladjJJbEZ3ZFE2S1A1M2JDV040UGNTMjJJLU1OdmE4cGZEWUN2QlNGcmpPd2dtRlFGUGxwZUpqNU13clZqVldqNExyTHh1TEhVaG1zVGJoVGJSbU5fZWotWTdVUG1IVkpiMGNZOHBuVHdsNjN4UC1ZcWJQY2VSa2k4d2hXaDVzM0M5dzlXc1V0MUtDOHhrNThKZE1BTktn?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "mining"
-      ],
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "mining"
-          ]
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "MINE"
-      ],
-      "primaryCategory": "Mine",
-      "titleKo": "McEwen Copper secures funding through to Los Azules FID",
-      "summaryKo": "McEwen Copper secures funding through to Los Azules FID Mining Weekly",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "McEwen Copper secures funding through to Los Azules FID Mining Weekly",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "McEwen Copper secures funding through to Los Azules FID Mining Weekly",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "2d58632a2609b65ffa82ef70eb315ae83cd758e8c4147efa5d5a5bcc14e6c701",
-      "titleSourceHash": "37be93e0a4665566f8a156d4a87fa216438ca99306a106cdb8a5998fa6c143cb",
-      "eventId": "24f528db6b164c0c91bfd0e269749aeeeef1098bd03d72ec05226d2c5db3bfc2",
-      "title": "Rising PCE Curbed Gains; Low Inventory in China Supported Copper Prices Consolidating at Highs [SMM Macro Weekly Review]",
-      "normalizedTitle": "rising pce curbed gains low inventory in china supported copper prices consolidating at highs smm macro weekly review",
-      "description": "Rising PCE Curbed Gains; Low Inventory in China Supported Copper Prices Consolidating at Highs [SMM Macro Weekly Review] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-08-28T07:00:47.000Z",
-      "fetchedAt": "2026-08-28T13:40:19.855Z",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMW55TWttTU5PcjVNZEZTWWFheU5Bck9DNG9BLXJBRDVVN1AzSDBORUg0SGdtUktJWHNNd3hFM1VVemtqS1hOSDI0blpaOUEyZ3VGNDRXcEtMRHFTU0hHdDIxNy15MFFfOWhGQm5DVUttQkRGb3R1NjRMZjMzMHdpZmRVeDU0aS1DVGtkLTZTUjVlSkN2RGxMS3Q5YTE2OU5EZlpKSGhyel9EVDlBclUxSlk5UWUwS0xMckVtQkRzRVJsM0RLcjZmNFlmMndpYnhjV3JmRHdlSWQxNE9zajFtd3ZQSElnVEkxaGM0N0ZRQUFFVlNjeGtTZA?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 10,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [
-        "inventory"
-      ],
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 10,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [
-            "inventory"
-          ]
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "INVENTORY",
-        "LOGISTICS",
-        "CHINA"
-      ],
-      "primaryCategory": "Inventory",
-      "titleKo": "Rising PCE Curbed Gains; Low Inventory in China Supported Copper Prices Consolidating at Highs [SMM Macro Weekly Review]",
-      "summaryKo": "Rising PCE Curbed Gains; Low Inventory in China Supported Copper Prices Consolidating at Highs [SMM Macro Weekly Review] Shanghai Metals Market",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Inventory",
-        "categories": [
-          "PRICE",
-          "INVENTORY",
-          "LOGISTICS",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Rising PCE Curbed Gains; Low Inventory in China Supported Copper Prices Consolidating at Highs [SMM Macro Weekly Review] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Inventory",
-        "categories": [
-          "PRICE",
-          "INVENTORY",
-          "LOGISTICS",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Rising PCE Curbed Gains; Low Inventory in China Supported Copper Prices Consolidating at Highs [SMM Macro Weekly Review] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 31,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear; Material event taxonomy",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "d4521d38b23502d5dbc246b99ca3169d144cdddeba17e145ef98c59b8036d247",
-      "titleSourceHash": "c7b54d4acecc28295d0b07573db4ec83c12c5ffbbadecaf4c53ebec98a7fabc8",
-      "eventId": "c3a870b0357f3b25c6928e19426ac0bcf504344b65870043fdd3f66864dafe00",
-      "title": "Copper Prices Consolidate at Highs, Low Inventory and Spot Premiums Support Firm Copper Scrap Coefficients [SMM Weekly Review of Secondary Copper Raw Materials Outside China]",
-      "normalizedTitle": "copper prices consolidate at highs low inventory and spot premiums support firm copper scrap coefficients smm weekly review of secondary copper raw materials outside china",
-      "description": "Copper Prices Consolidate at Highs, Low Inventory and Spot Premiums Support Firm Copper Scrap Coefficients [SMM Weekly Review of Secondary Copper Raw Materials Outside China] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-08-28T06:42:09.000Z",
-      "fetchedAt": "2026-08-28T12:40:19.842Z",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWHRGd1JxMjBxVmNBcm5OOW1xeXpRZUlVb1h5ODdIOXBjMmFQelA1TE0zSE1QUlF5cUk1Y01pOEQyczRjNzQ4ZU1qRlBwQ2ZsSkVTM0V1T28wcVVsYm9WeGxTTGl2SkhvRHd4QlVjbDNqQUNiTXJsZXlJLUJSUUtQcWRyVjMxMUhyZGUtSHg4MHlsR0I3U3dqQ0RiS0dHY3Bvd0MweXBUbDFDdWE5VDVJckFvWnBBOS1va3U3LUl2Yk93MmxJOEdCTUsyMXFSa25iV0I1aG5OZ2JYU25lQ01SMnNxT0ZGMXE5TmlQeHNHVXNfcFUtTlVINzVXQ0I?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 15,
-      "matchedKeywords": [
-        "copper",
-        "copper scrap"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [
-        "inventory"
-      ],
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 15,
-          "matchedKeywords": [
-            "copper",
-            "copper scrap"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [
-            "inventory"
-          ]
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "INVENTORY",
-        "LOGISTICS",
-        "CHINA"
-      ],
-      "primaryCategory": "Inventory",
-      "titleKo": "Copper Prices Consolidate at Highs, Low Inventory and Spot Premiums Support Firm Copper Scrap Coefficients [SMM Weekly Review of Secondary Copper Raw Materials Outside China]",
-      "summaryKo": "Copper Prices Consolidate at Highs, Low Inventory and Spot Premiums Support Firm Copper Scrap Coefficients [SMM Weekly Review of Secondary Copper Raw Materials Outside China] Shanghai Metals Market",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Inventory",
-        "categories": [
-          "PRICE",
-          "INVENTORY",
-          "LOGISTICS",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper Prices Consolidate at Highs, Low Inventory and Spot Premiums Support Firm Copper Scrap Coefficients [SMM Weekly Review of Secondary Copper Raw Materials Outside China] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Inventory",
-        "categories": [
-          "PRICE",
-          "INVENTORY",
-          "LOGISTICS",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper Prices Consolidate at Highs, Low Inventory and Spot Premiums Support Firm Copper Scrap Coefficients [SMM Weekly Review of Secondary Copper Raw Materials Outside China] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 40,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear; Material event taxonomy",
       "sent": false,
       "sentAt": null
     }

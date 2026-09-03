@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-03T00:17:49.193Z",
+  "generatedAt": "2026-09-03T05:07:59.034Z",
   "counts": {
-    "PENDING": 480,
+    "PENDING": 489,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -437,6 +437,26 @@
       "publishedAt": "2026-08-28T06:42:09.000Z"
     },
     {
+      "id": "ed7bfb628ce4504b1a19163dd15010476a2a52123fe97350c2f7ed8272e3a9ff",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "East China inventory divergence is evident; SHFE copper spot premiums may consolidate at lows [SMM Shanghai spot copper]",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-03T04:18:45.000Z"
+    },
+    {
+      "id": "c27d4489f9cde3fbf6c9dd62f364314d011d304262eaec1d6e06bc1473444bf6",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper price rise curbs purchases; North China premiums pull back slightly [SMM North China spot copper]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-03T03:45:05.000Z"
+    },
+    {
       "id": "a719f5432fa5c40801c9dc96cbaa43e9abacb570b266078be557c017a76d5903",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -655,6 +675,16 @@
       "codexStatus": "PENDING",
       "source": "marketscreener.com",
       "publishedAt": "2026-09-02T14:51:33.000Z"
+    },
+    {
+      "id": "dda447e9d5eee406cf1b7311dcc683d2a8e866dde464b607de1fd21b36829005",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "인도, 2047년 구리 수요 97% 수입 의존 전망… 인-잠 협상 재개",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "buffettlab.co.kr",
+      "publishedAt": "2026-09-03T00:46:48.000Z"
     },
     {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
@@ -1065,6 +1095,16 @@
       "codexStatus": "PENDING",
       "source": "Business News Nigeria",
       "publishedAt": "2026-09-02T19:23:15.000Z"
+    },
+    {
+      "id": "f56a81a669a6ff608783d79513da16236438ddc5f3eb10477ffbcef500375fa6",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Inventory hits new low, spot premiums rise on the news [SMM South China spot copper]",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-03T03:40:35.000Z"
     },
     {
       "id": "ce60a03b7bacf8d76a1803bfa85f8e87172a55d4630cf4906b554e8987466433",
@@ -2037,16 +2077,6 @@
       "publishedAt": "2026-09-02T06:03:42.000Z"
     },
     {
-      "id": "cb03b99be16684bb27b654b40a6ba47e2bcad0f6e2abe5ca3bdd3b4f7d64ae8b",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "철강·알루미늄 등 EU 수출기업 CBAM 대응 지원…정부 합동설명회",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "뉴스1",
-      "publishedAt": "2026-09-02T03:00:00.000Z"
-    },
-    {
       "id": "24dd31500352e6a7705b1f671c347b4688b1892220af422d354f945e336090f3",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2157,6 +2187,36 @@
       "publishedAt": "2026-09-02T21:45:04.000Z"
     },
     {
+      "id": "d37fd40aa3755756c7d39de9cfca9cdbcf8f45574395cc5adf4e4b1573d2a89b",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Aluminium touches three-week high, supply back in focus",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-09-03T04:14:22.000Z"
+    },
+    {
+      "id": "de732735d73b008358f5306fb6d0cda2a805436a44f75d8a0087abd6b81ba061",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "신화망",
+      "publishedAt": "2026-09-03T02:37:03.000Z"
+    },
+    {
+      "id": "ffa502635f88c61a4aa5012491fa7c74ca1c1a9a55a22f603b29dbe3257b4747",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[EBN 데이터센터] 비철금속 가격 엇갈려…구리·아연 하락, 니켈은 상승",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "ebn.co.kr",
+      "publishedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
       "id": "e952dd43288b8e5a0dab80c1d83d4bffa5a0f008717eeb9b8e2447ea3b82156b",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2245,6 +2305,16 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-09-02T06:57:46.000Z"
+    },
+    {
+      "id": "eba1def760b8413f3168c6b27f9c9b99cbfd443ea93d9e2daf001a50f667073f",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Ukrainian foreign minister calls for full EU embargo on alumina and aluminium ore supplies to Russia",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "pravda.com.ua",
+      "publishedAt": "2026-09-02T14:51:00.000Z"
     },
     {
       "id": "e305ecc74304d4b0905f694450f3ad76bd7480fbe0fb9b989adf089691bada7e",
@@ -3957,6 +4027,16 @@
       "publishedAt": "2026-09-02T11:53:49.000Z"
     },
     {
+      "id": "028a2c4002bd9209b07d05dc4f0d4a2f972051c55c97094ba4c93b17c097a0f5",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Sask.’s McIlvenna Bay copper-zinc mine ramps up toward production",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "980 CJME",
+      "publishedAt": "2026-09-02T22:09:00.000Z"
+    },
+    {
       "id": "8779eb63d696e68f7dbcebacee9230f68369e86a7170c46777cc3d13d33d59bb",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4355,6 +4435,16 @@
       "codexStatus": "PENDING",
       "source": "FinancialContent",
       "publishedAt": "2026-08-31T07:15:00.000Z"
+    },
+    {
+      "id": "cb03b99be16684bb27b654b40a6ba47e2bcad0f6e2abe5ca3bdd3b4f7d64ae8b",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "철강·알루미늄 등 EU 수출기업 CBAM 대응 지원…정부 합동설명회",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "뉴스1",
+      "publishedAt": "2026-09-02T03:00:00.000Z"
     },
     {
       "id": "02829d6f78cff92de9ff4f3f4a99481ca0227e2ded86f970a149f33b5bb30f10",
