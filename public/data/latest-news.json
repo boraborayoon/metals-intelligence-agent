@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T21:03:58.629Z",
+  "generatedAt": "2026-09-03T23:18:02.869Z",
   "items": [
     {
       "id": "4e0c0f44504a296721f04d5c891da7a3351d1fe67da317a312625be2a68ee437",
@@ -121,6 +121,116 @@
       "sentAt": "2026-09-03T21:03:58.629Z"
     },
     {
+      "id": "70dc05987fea472acd9e93c72f31a0f656655989238230237197243db894cdd4",
+      "titleSourceHash": "4ab1631997a3126235f4f42f6ade2c44f28ae9a2c4d79bc03061f868d0f91161",
+      "eventId": "d0de9d6f902ae8bc3681a317f211ecfb3c68d7240852be38b75e79e5dcdd01fa",
+      "title": "Russian mining company Udokan Copper said its plant in Russia's Far Ea",
+      "normalizedTitle": "russian mining company udokan copper said its plant in russia s far ea",
+      "description": "Russian mining company Udokan Copper said its plant in Russia's Far Ea Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-03T19:57:45.000Z",
+      "fetchedAt": "2026-09-03T23:18:02.869Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFFWWW1zR2xPTklVV2ktZnV4RjM5YUZCc3hCRGszQ1Zmc1QyM3lkeDNVSllPcFltcWFSTEZHOWlGOWx3S1Via3d5b3hkZS14SXRidHpFbnRORkViUlJROWs5cUpTQ2FpUmU2QkdEcVpwZ0NkU1l3eVMxTXVvUGVVQ2VFZkNEYnFlZHUycGt2QkFjT1paWV9jcjQzSm9YaW5EXzhka3NNUHBMTkExQ1c0eWxiblZWc043TkliMlhIU2ZHUGhz?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "mining"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "mining"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "MINE",
+        "COMPANY"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "Russian mining company Udokan Copper said its plant in Russia's Far Ea",
+      "summaryKo": "Russian mining company Udokan Copper said its plant in Russia's Far Ea Shanghai Metals Market",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Russian mining company Udokan Copper said its plant in Russia's Far Ea Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Russian mining company Udokan Copper said its plant in Russia's Far Ea Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-03T23:18:02.869Z"
+    },
+    {
       "id": "57403dc8abc825bdf968286c2d8e75618ed43cd096130818096cebc4f145e9a4",
       "titleSourceHash": "ad9ec931354616d199bf0ad407c1d7295b6bd4bd99cde544f3a75b75126f3a04",
       "eventId": "8901caeeb4df6d811efc0ada4253c66054de0a760016c9f248384bce2658fae1",
@@ -240,7 +350,7 @@
       "source": "IndexBox",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-03T18:40:00.000Z",
-      "fetchedAt": "2026-09-03T21:03:58.629Z",
+      "fetchedAt": "2026-09-03T23:18:02.869Z",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZmRtX1BVVzAzSVBvaXZLVE9UTlhsS1FhNmxfRVo0MmJGQ2Q1OGtaRUo0cnNqNVZOZ2s5aFJpaGdRZktVZnlicUZ1OFVuTWc1OW5GY0Q1eTI3b1FabFJFQzUwZjdLYzkyVjJqR0tndFdmQzMwQ2otNW93dkFsZWhwaFRrT0FqTXhGYlVzTGlrbTFqV0ZYN1F4V0hoSFRpaDc4RFVKNQ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -771,7 +881,7 @@
       "source": "HuffPost",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-03T15:39:17.000Z",
-      "fetchedAt": "2026-09-03T21:03:58.629Z",
+      "fetchedAt": "2026-09-03T23:18:02.869Z",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUWFSZTktSUM5ZmM5UENMNXFGNXdacDBsUk9ESW43SDF0aFJ4MTV4RVJxSjBBWVFkaG5hNFUtRmhRZjJSYmZPV3hCSWFWSldkNEZOQmtCeHhLVlJoOVpMZ29QUVN4ZWRDckxzcm9GekNtSzhSeUlSSUJzMG5HaDNZNElFazFkMzhNU09XTThrdlFQeEc2dmlnT3RydHZycVIyaWpwVlBZX1pSbkw4VmoyNTRUcFNQM1A0MjZKcTV1dVhjN0VE0gHEAUFVX3lxTE5RYVJlOS1JQzlmYzlQQ0w1cUY1d1pwMGxST0RJbjdIMXRoUngxNXhFUnFKMEFZUWRobmE0VS1GaFFmMlJiZk9XeEJJYVZKV2Q0Rk5Ca0J4eEtWUmg5Wkxnb1BRU3hlZENyTHNyb0Z6Q21LOFJ5SVJJQnMwbkdoM1k0SUVrMWQzOE1TT1dNOGt2UVB4RzZ2aWdPdHJ0dnJxUjJpanBWUFlfWlJuTDhWajI1NFRwU1AzUDQyNkpxNXV1WGM3RUQ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -868,7 +978,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 18,
+      "priority": 14,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -1238,7 +1348,7 @@
       "source": "Shanghai Metals Market",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-03T11:41:42.000Z",
-      "fetchedAt": "2026-09-03T21:03:58.629Z",
+      "fetchedAt": "2026-09-03T23:18:02.869Z",
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOOVRfT0JtLWZZbGpoZ2ZXc01HTTlxM2FHdUg0djUyUUNoT25UWllCTU5ZbENWQ1dzMzZ6bGFBSGNLQUpNMTFpb0ttc0dJNE53SHhsWkJxY1N2S3BEdEZYZVZpMVkxXzkyMGFEVzF5WFdfT3JrMWdQTTk1dVl6bUJXSjhydjNyMlRLOTIzZjIwVHlLOTNuQzlnc0RtaThoZDBITS1ETTFRSTRMUENkTDJDVWg5NG5nQnp4U3M3ZEYzRU15SlVYaEdCN3B0RU10bWtmM1Z3ejg2NjdJMklpa2diMkd2N2ZUdzl3QjEyYV9zdEY0cTlfVl9IUWNzOFQxWlJLX0xKTEZudGdTWEVCWEJwYWFZYXRfMUE5UFR1YnhzbVV4YW5lR1VKYkhNY2xmeEZYZExZRGZzZnBwVFBqUGc?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -1343,8 +1453,8 @@
       "priority": 30,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-09-03T23:18:02.869Z"
     },
     {
       "id": "0de8e450733a8b3bb2657dccdc093d89fb38476f25a7d47c71b68a2ca2d7f092",
@@ -1569,7 +1679,7 @@
       "source": "Stock Titan",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-03T11:07:25.000Z",
-      "fetchedAt": "2026-09-03T21:03:58.629Z",
+      "fetchedAt": "2026-09-03T23:18:02.869Z",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM0dYRzdnajU0bndtWTFnUzVkems2a19YTk1pZHZkUFFpdnl0ejNrZVB4LVRZcXBYRVluMmZRbE8zZ2pfeEJVc21vT3VpbVNCNGJ5MkpkbXVlb1JkVWhvTzY4dVNYQ2NtTjBTc0szSVVKWEFZbFl3WEoyblp0OS1GZGJSWTI3OXR3ZHZUU2QzVlh5eE1JaFpRczUyajFGNnllT2Q3UmFmbmZfY1hnU3BFMXlqaUVzaVZNSjlJ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -1885,7 +1995,7 @@
       "source": "Vietnam.vn",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-09-03T08:55:44.000Z",
-      "fetchedAt": "2026-09-03T21:03:58.629Z",
+      "fetchedAt": "2026-09-03T23:18:02.869Z",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1RCbTkyTWpCcl9INXRWZlZIcmhXY19EekxaU3RvcDEtb1BRY21FVnFSQ0N2YkxaQ2ZDRXVsX3VuR3drU2tKQnh4MGVUaDEzVWd4UVhKdUpOSU9iZUFLcXNOMHRocWVEVjhSYzU3T0lvaDdZN2FFSTY4OVMwTVI1TlJqN2hjYnhmamowdmk1RDRhZVBhU2FpblNDZWpXQzRw?oc=5",
       "language": "ko",
       "commodity": "TIN",
@@ -3244,6 +3354,113 @@
       "sentAt": "2026-09-03T05:07:59.034Z"
     },
     {
+      "id": "a9af6f384057db83f555c4fee42066d1eece47d8c0274fe2481342e7348a7a12",
+      "titleSourceHash": "9830b507894448fc79ff52701749c8252c1207c680a8bd712b819721134d97fe",
+      "eventId": "2b2163d4c44558246c7f983344b301093c511d989ce187874c337bc0394f6dce",
+      "title": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua",
+      "normalizedTitle": "中 안후이서 초대형 구리·금 광상 발견 핵심 광물 공급 능력 up-xinhua",
+      "description": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua 신화망",
+      "source": "신화망",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-09-03T02:37:03.000Z",
+      "fetchedAt": "2026-09-03T23:18:02.869Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VZzhObGRqdktPd1hadmZ0WHU0MWU0elFXbmFHR0pwWjBpU2ZQeG5mNGN6R01DMndOZ0xuYlBRM0JhUWYxWEo1dHh2a0QyV0UzM0h0NDhvMnVLYmIwR2JoZGRqcEd4SE5aZDFoR2E4cE5vc3dCVEE?oc=5",
+      "language": "ko",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "구리"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "공급"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "구리"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "공급"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "SUPPLY"
+      ],
+      "primaryCategory": "Supply",
+      "titleKo": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua",
+      "summaryKo": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua 신화망",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua 신화망",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua 신화망",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 30,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-03T23:18:02.869Z"
+    },
+    {
       "id": "de732735d73b008358f5306fb6d0cda2a805436a44f75d8a0087abd6b81ba061",
       "titleSourceHash": "9830b507894448fc79ff52701749c8252c1207c680a8bd712b819721134d97fe",
       "eventId": "2b2163d4c44558246c7f983344b301093c511d989ce187874c337bc0394f6dce",
@@ -3797,6 +4014,113 @@
       "sentAt": null
     },
     {
+      "id": "c25723e4f9926756e6bf0e577269c33da2acc19078a2f8e1bfe2a4c61cf1cc12",
+      "titleSourceHash": "4597b5673bdf854fc1398dacb6310c5961f83ceccac99bb95526ca78e8a00c9e",
+      "eventId": "30ed9cda330ed2053d3ac7676d7a949814a3d2a070db1f86f71acc1c2226ab56",
+      "title": "\"전기차 1600만대에 들어갈 양\"…18년 공 들여 광산 탐사한 中, 구리 100만t 발견",
+      "normalizedTitle": "전기차 1600만대에 들어갈 양 18년 공 들여 광산 탐사한 中 구리 100만t 발견",
+      "description": "\"전기차 1600만대에 들어갈 양\"…18년 공 들여 광산 탐사한 中, 구리 100만t 발견 v.daum.net",
+      "source": "v.daum.net",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-09-03T00:16:00.000Z",
+      "fetchedAt": "2026-09-03T23:18:02.869Z",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45dVFhNWZqaEFxcm5RUG5jdmp4RXgtRDBQUmZlVDk0VEdxNkJoS1BWTS01Rm9oOWwyMlJ3aGw4Z200OHFvWVBXRlFZZw?oc=5",
+      "language": "ko",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "구리"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "광산"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "구리"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "광산"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "MINE"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "\"전기차 1600만대에 들어갈 양\"…18년 공 들여 광산 탐사한 中, 구리 100만t 발견",
+      "summaryKo": "\"전기차 1600만대에 들어갈 양\"…18년 공 들여 광산 탐사한 中, 구리 100만t 발견 v.daum.net",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "\"전기차 1600만대에 들어갈 양\"…18년 공 들여 광산 탐사한 中, 구리 100만t 발견 v.daum.net",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "\"전기차 1600만대에 들어갈 양\"…18년 공 들여 광산 탐사한 中, 구리 100만t 발견 v.daum.net",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 30,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-03T23:18:02.869Z"
+    },
+    {
       "id": "869352fd2d1b33da587fccd4473f90c2043f5dfbaec663c04297511a1ad19f6f",
       "titleSourceHash": "6f7af3a4f33254b11ab8a1e131a0f43721f541a8cc3375a17f6c01ceb5032225",
       "eventId": "30ed9cda330ed2053d3ac7676d7a949814a3d2a070db1f86f71acc1c2226ab56",
@@ -4259,7 +4583,7 @@
       "source": "ebn.co.kr",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-09-03T00:00:00.000Z",
-      "fetchedAt": "2026-09-03T21:03:58.629Z",
+      "fetchedAt": "2026-09-03T23:18:02.869Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41UmN3ZGhqdDdVbEJmSWJKQm84ZFBLVDNfS0ctMF95WVBVaEdtVDd1WnpTXzBzOFlkbEpfT0hDcjZ1Y3ZYbmE4czlrdlNieldxTHRsRW9VS3RNRkV2cVBreWJ5Z3RReGVl?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -4353,8 +4677,8 @@
       "priority": 30,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-09-03T23:18:02.869Z"
     },
     {
       "id": "6d0a804b49a4244464f606b1a5c53eec5011a3208f7cc94b44c9f5bbbc1c7f96",
@@ -8006,7 +8330,7 @@
       "source": "TradingView",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-09-02T07:05:22.000Z",
-      "fetchedAt": "2026-09-03T21:03:58.629Z",
+      "fetchedAt": "2026-09-03T23:18:02.869Z",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kVC1DRVZHV24xX0FFcGRraFFyM2ljS3JRcFdOVm8tVnlXbjRtT2dockNZejN4WEllUU5jdy1qSV9VVURDOXlrVWM5blRzSzZrelh1WGVzZDN1ZU5FV1VlRk5sZEMxTW9GeEROa0s2U1A5Qk14Y1dPeg?oc=5",
       "language": "ko",
       "commodity": "ALUMINUM",
@@ -10140,7 +10464,7 @@
       "source": "뉴스1",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-09-02T03:00:00.000Z",
-      "fetchedAt": "2026-09-03T21:03:58.629Z",
+      "fetchedAt": "2026-09-03T23:18:02.869Z",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rbzNHVXZCVFVaUVhjbTdYSGxjdXRsSDM2ZkdZemNwakZuaHdSQjBzZldWRURYQjB5UzBKUk1PLWx6V0dFdTgxaFdWYTdvTE9GU2F6NDVzOC1tWGtj0gFiQVVfeXFMUGt1dW9QSzJzX2lIb2NtRlF4c0FKNVBZc0R3UEpER2dYNk5SZnM3MjhMb0IycDhZMGZtUTNqaDVva0ZGZDRPREszT3U2MEV5dU0tQmpmM2drTk5mbE1MS2FuMkE?oc=5",
       "language": "ko",
       "commodity": "ALUMINUM",
@@ -33118,332 +33442,6 @@
       "priority": 52,
       "codexStatus": "PENDING",
       "codexReviewReason": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "56ce1a064340820505ba6eee5bd0425d4e07b1322021e35388457600b1154630",
-      "titleSourceHash": "9935433dc7ae246e5d4057b44feed7ddfd97b1244b0fff5e62a458eb77e18258",
-      "eventId": "340fba1aecaead68c0bb07ca9d627b8eef08e790659e2274bc30f952016b06bb",
-      "title": "Copper Development Association Publishes New Guidance to Strengthen Recycled Content Reporting and Climate-Aligned Copper Procurement",
-      "normalizedTitle": "copper development association publishes new guidance to strengthen recycled content reporting and climate-aligned copper procurement",
-      "description": "Copper Development Association Publishes New Guidance to Strengthen Recycled Content Reporting and Climate-Aligned Copper Procurement Lelezard",
-      "source": "Lelezard",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-08-28T16:30:25.000Z",
-      "fetchedAt": "2026-08-29T00:40:19.912Z",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SSmltNHl4Yi1TN2VwUlRWLVlieWF2N2ZCX0ZoQVU4VlMya1VWUzlaTE9odlZETkZTWW9hUXdnSG9EQ1Jod25LSU5FcklmRllTZWJxQ3pZbEw5UQ?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 6,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": []
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "LOGISTICS",
-        "GUIDANCE"
-      ],
-      "primaryCategory": "Production Guidance",
-      "titleKo": "Copper Development Association Publishes New Guidance to Strengthen Recycled Content Reporting and Climate-Aligned Copper Procurement",
-      "summaryKo": "Copper Development Association Publishes New Guidance to Strengthen Recycled Content Reporting and Climate-Aligned Copper Procurement Lelezard",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production Guidance",
-        "categories": [
-          "LOGISTICS",
-          "GUIDANCE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Development Association Publishes New Guidance to Strengthen Recycled Content Reporting and Climate-Aligned Copper Procurement Lelezard",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production Guidance",
-        "categories": [
-          "LOGISTICS",
-          "GUIDANCE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Development Association Publishes New Guidance to Strengthen Recycled Content Reporting and Climate-Aligned Copper Procurement Lelezard",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 27,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear; Material event taxonomy",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "72aa9ce99c34c2c92f2581fe66eac5f00a26b3237c7327ed0eee5197e76d4f2c",
-      "titleSourceHash": "ecb512eeac46c44c5461f4778fcac38d310a4572ebda05338cb2cbe6419ddfd9",
-      "eventId": "2b7f7a3c431353a96efea03b7f9ff39bb5e591398b315efe7854dc44167a8f79",
-      "title": "Codelco’s Profits Jumped Even As Copper Output Fell",
-      "normalizedTitle": "codelco s profits jumped even as copper output fell",
-      "description": "Codelco’s Profits Jumped Even As Copper Output Fell Finimize",
-      "source": "Finimize",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-08-28T16:26:37.000Z",
-      "fetchedAt": "2026-08-28T23:40:19.915Z",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWV9VWmVMSWNLVWROM1F5NktjQVQ1cWktUkVvUzZhT0Ezc1ZOUEZvbW1TcDJiZWZzbEc1UFE2UHhYR2hLNk55dXdwT2F0Ry1MSHFIV1pIaVEwNkd0OHBTaWZmU2d5cnlYM19lc1F1WFlucXRkSEJrQjVXTVd1TG0yNDc4akh0UQ?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 11,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [
-        "Codelco"
-      ],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "output"
-      ],
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 11,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [
-            "Codelco"
-          ],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "output"
-          ]
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRODUCTION",
-        "EARNINGS"
-      ],
-      "primaryCategory": "Production",
-      "titleKo": "Codelco’s Profits Jumped Even As Copper Output Fell",
-      "summaryKo": "Codelco’s Profits Jumped Even As Copper Output Fell Finimize",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [
-        "Codelco"
-      ],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION",
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Codelco’s Profits Jumped Even As Copper Output Fell Finimize",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION",
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Codelco’s Profits Jumped Even As Copper Output Fell Finimize",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 32,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "86e4b0c23f7a1e7968c43766219597cd4142970f588bfbcffe1afb6ea6f01e1c",
-      "titleSourceHash": "afa3ee5af23f33abc35f043dfbaeb8f8fb402ccbfac6d5704ea1d34d9151041b",
-      "eventId": "4844fe7dc1ce714bf96ec655fe82e4456b934aed62b021a11dd22adcdaf3313a",
-      "title": "How Lead, Silver And Copper Credits Are Reshaping Zinc Mine Profitability",
-      "normalizedTitle": "how lead silver and copper credits are reshaping zinc mine profitability",
-      "description": "How Lead, Silver And Copper Credits Are Reshaping Zinc Mine Profitability Seeking Alpha",
-      "source": "Seeking Alpha",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-08-28T16:20:00.000Z",
-      "fetchedAt": "2026-08-29T15:40:19.975Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUWJ6dHZ2QXp6VG8wX0RMZjhGX3JTRXJWZjNaQkE1WFdpQkFJd1hUY3lFeFpIQWkwbmtVd3g1bDRpZnAxczZmZnNaakNZM0tERUJhVXh5eHRwRTVMUmZXbnFnY1pzQjJSa1A4V2d4Uk9vWG5MMTBEV2pmdGRaVnJWV3R1M2s4UlNNRS1zLUN0OWFxdGRSWGFTWTEwTzJ5aXRiaVhv?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "mine"
-      ],
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "mine"
-          ]
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "MINE",
-        "EARNINGS"
-      ],
-      "primaryCategory": "Mine",
-      "titleKo": "How Lead, Silver And Copper Credits Are Reshaping Zinc Mine Profitability",
-      "summaryKo": "How Lead, Silver And Copper Credits Are Reshaping Zinc Mine Profitability Seeking Alpha",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "How Lead, Silver And Copper Credits Are Reshaping Zinc Mine Profitability Seeking Alpha",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "How Lead, Silver And Copper Credits Are Reshaping Zinc Mine Profitability Seeking Alpha",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
       "sent": false,
       "sentAt": null
     }
