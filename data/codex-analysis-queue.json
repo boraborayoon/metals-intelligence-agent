@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T15:09:20.687Z",
+  "generatedAt": "2026-09-04T18:25:36.351Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -130,6 +130,52 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-30T23:39:09.196Z",
       "updatedAt": "2026-08-31T00:21:34.422Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "e79d94b0cfa2de823ff760bae1500f321caeba436dfc3c5faea5f486cad07a8b",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "EU Commission abandons trade tool for aluminum scrap export restrictions",
+      "summary": "EU Commission abandons trade tool for aluminum scrap export restrictions MLex",
+      "source": "MLex",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sQURFeFpFME1FRGx4WThZRzMzZnZEY2N5Wm10SVBOYUVoODhycFM3MHgwNndHSDl3MkJXYUdaVlJqOTJ0aTQ2YS1hMlpoUnM1bC1tWU41ZUtqZ9IBWkFVX3lxTE9sQURFeFpFME1FRGx4WThZRzMzZnZEY2N5Wm10SVBOYUVoODhycFM3MHgwNndHSDl3MkJXYUdaVlJqOTJ0aTQ2YS1hMlpoUnM1bC1tWU41ZUtqZw?oc=5",
+      "publishedAt": "2026-09-04T16:04:00.000Z",
+      "priority": 57,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Regulation",
+        "categories": [
+          "LOGISTICS",
+          "EXPORT",
+          "TRADE",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "EU Commission abandons trade tool for aluminum scrap export restrictions MLex",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "export restriction"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk",
+          "Export Restriction"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-04T18:25:36.351Z",
+      "updatedAt": "2026-09-04T18:25:36.351Z",
       "analyzedAt": null
     },
     {
@@ -2106,6 +2152,43 @@
       "analyzedAt": null
     },
     {
+      "id": "027e50029995c45f1dfcab6b27906c3e296fdb48e52e9d09f54a3ace99e71b30",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Mine Supply Posts First Decline in Seven Years; Morgan Stanley Turns Bearish, Sees Copper at $15,000",
+      "summary": "Copper Mine Supply Posts First Decline in Seven Years; Morgan Stanley Turns Bearish, Sees Copper at $15,000 finance.biggo.com",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OaDN1RmFPSHd3RkcwdVAwVXR3SXdUTFBrc2ZTVGt4dHVRMVBCZFctZHk0SGJDaWl0QnZqclVRTEhBcmJqS2VIbGtaeFNYbWdPSnNaMHpfY3VWVUJxOFZLTGxKay0waEYteUJCVVhZdmsxUUdyWXc?oc=5",
+      "publishedAt": "2026-09-04T15:55:00.000Z",
+      "priority": 39,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY",
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Mine Supply Posts First Decline in Seven Years; Morgan Stanley Turns Bearish, Sees Copper at $15,000 finance.biggo.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-04T18:25:36.351Z",
+      "updatedAt": "2026-09-04T18:25:36.351Z",
+      "analyzedAt": null
+    },
+    {
       "id": "181a971ddf573e6145e595ce81d6a95ed4dd12f173c85581b65136d5642edb8f",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -3028,6 +3111,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-04T11:50:22.288Z",
       "updatedAt": "2026-09-04T11:50:22.288Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "dc30e7bbc15f8a22fa323e3ac16a1f8445abf0c871f1eb5c5fc63c349842e8db",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "AG’s Inola aluminum smelter lawsuit sent back to an Oklahoma district court",
+      "summary": "AG’s Inola aluminum smelter lawsuit sent back to an Oklahoma district court oklahomavoice.com",
+      "source": "oklahomavoice.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcnhLUFVQckZrU0JXQ2YtQ0tnTlo4SjV0amdEOV9ITm5HVlFHcExucm9WbUl6SDBOOUhfcjZvY0RxOTN6NTd5Y1ZhU01WM2lnUzFOTWF2aUNDZ2VOVzFLSmVqU25VakRxWEN3SjFjb3plaGZvNWdvVzFkT1N2a0g2dDJWd1d0b1ZGc1dyQUZQc3hZWnhLSlVoUHBGVXVmc1R2dGxIQUpLN0VIRndYaXIyTTVR?oc=5",
+      "publishedAt": "2026-09-04T18:24:40.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Smelter",
+        "categories": [
+          "SMELTER"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "AG’s Inola aluminum smelter lawsuit sent back to an Oklahoma district court oklahomavoice.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-04T18:25:36.351Z",
+      "updatedAt": "2026-09-04T18:25:36.351Z",
       "analyzedAt": null
     },
     {
@@ -11425,7 +11544,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-04T06:35:44.394Z",
-      "updatedAt": "2026-09-04T15:09:20.687Z",
+      "updatedAt": "2026-09-04T18:25:36.351Z",
       "analyzedAt": null
     },
     {
@@ -16650,6 +16769,43 @@
       "analyzedAt": null
     },
     {
+      "id": "3da65fa93ba90f2c124ff86234798af76f5ae7e3f8106c71d6617db8d952035f",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "WA gold–copper explorers accelerate drilling: key project signals for mine planners",
+      "summary": "WA gold–copper explorers accelerate drilling: key project signals for mine planners Geomechanics.io",
+      "source": "Geomechanics.io",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWVxTXZZRVlEbG9PNWhiUnFaYmhzWnRqWXNTckJ6NGhDSjZNekR3MGx4b3I0dlp2WXI5MmlEbFpJNnptdF91WTVuU0gtdi1PZl9EcTZiNzFYYVdQOTNrOHZSbV9fdkhDMUVoQ0pGeDQxTXVWcm5Ec1pwbkNZdXBwbjdJNThPRWNvdHZ5WXJnTFJ2Vjh4VlZ2WnNZME5JUU9oc1A3RDFhb3JDZ1BubmJwU3VYZHlsTkFvS25tT0NVTQ?oc=5",
+      "publishedAt": "2026-09-04T12:08:37.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "WA gold–copper explorers accelerate drilling: key project signals for mine planners Geomechanics.io",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-04T18:25:36.351Z",
+      "updatedAt": "2026-09-04T18:25:36.351Z",
+      "analyzedAt": null
+    },
+    {
       "id": "8779eb63d696e68f7dbcebacee9230f68369e86a7170c46777cc3d13d33d59bb",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -18410,156 +18566,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-01T10:29:06.936Z",
       "updatedAt": "2026-09-02T06:26:46.513Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "39a1f51f1569b5df00990eef1d25a67da0bd2dadee6805c8c2b25e734994b60e",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "생산 줄었는데 매출은 뛰었다…구리값 오른 LS전선 나동선의 반전",
-      "summary": "생산 줄었는데 매출은 뛰었다…구리값 오른 LS전선 나동선의 반전 스트레이트뉴스",
-      "source": "스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVZld5SGZINFY5T1NsUGlZTXhfLWpwcFkxYloxcUYzSHZ1WWlhcmJHc2xFamhxQ0NtLVlGaEJFaVZHczNGeVJPTUx0Z2RZNmlTRkZIYVY1dkRVNkJnT2lhQVBLVWpYWlh5R09CNW43LVVuWW90aWpj0gF3QVVfeXFMUFVmV3lIZkg0VjlPU2xQaVlNeF8tanBwWTFiWjFxRjNIdnVZaWFyYkdzbEVqaHFDQ20tWUZoQkVpVkdzM0Z5Uk9NTHRnZFk2aVNGRkhhVjV2RFU2QmdPaWFBUEtValhaWHlHT0I1bjctVW5Zb3RpamM?oc=5",
-      "publishedAt": "2026-08-31T09:01:53.000Z",
-      "priority": 26,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "생산 줄었는데 매출은 뛰었다…구리값 오른 LS전선 나동선의 반전 스트레이트뉴스",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-31T15:07:14.091Z",
-      "updatedAt": "2026-09-02T01:25:58.900Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "14c7a7103d840be934a2a50ad590000bec062645b234613b33bdf65019f4d04c",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "[이슈 포커스] 美加 관세전쟁, 철강·알루미늄 공급망 직격 “국경 넘을 때마다 비용 누적”",
-      "summary": "[이슈 포커스] 美加 관세전쟁, 철강·알루미늄 공급망 직격 “국경 넘을 때마다 비용 누적” hellot.net",
-      "source": "hellot.net",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93SHlHMlZuSFg1T2ZvWTFOUndJUWF6SWVieFYzWnNyVFA3ZjhmWW5JVlc0a194Q05KNWtMUnZISkhMTlZFMFhGdmlaRnZUSUZUb3lfc3p5WjhWZXhpMDRN?oc=5",
-      "publishedAt": "2026-08-31T04:37:29.000Z",
-      "priority": 26,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "SUPPLY",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "[이슈 포커스] 美加 관세전쟁, 철강·알루미늄 공급망 직격 “국경 넘을 때마다 비용 누적” hellot.net",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-31T15:07:14.091Z",
-      "updatedAt": "2026-09-02T01:25:58.900Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "6d87ecefda638ad79904d73b1f56528e901273455a155d704fc1a131e92f0054",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "꽝응아이성 서부에 3조 VND 이상의 규모로 구리 제련 프로젝트가 추진될 예정이다.",
-      "summary": "꽝응아이성 서부에 3조 VND 이상의 규모로 구리 제련 프로젝트가 추진될 예정이다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3kzQmZjeGVsejlOZGJybERKel9aV0xTMmJWMXhNY1dmbTFfazZoRDZRUGZPY2d3eTVJVHNCVHp5X3ZHTFJGM1JOWDg0UEhKdm53OU5FUVBKOFFPSzB2Q2p5d09BckpObVFET01BTC1Ga0l2QjVQQjVnZHo1OWJGZDFVRTc5WktiYUlJN0NEc19NWUZLRGY0eXl1YjQ?oc=5",
-      "publishedAt": "2026-08-29T03:48:52.000Z",
-      "priority": 26,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
-        "categories": [
-          "SMELTER",
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "꽝응아이성 서부에 3조 VND 이상의 규모로 구리 제련 프로젝트가 추진될 예정이다. Vietnam.vn",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-29T15:40:19.975Z",
-      "updatedAt": "2026-08-31T01:53:28.639Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "27771d35355112b404f1b60cfa114af2d1163b1125c2b324f3bc11eeb7804431",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Aluminium billet inventory drops to 139,500 tonnes, warehouse withdrawals recover, processing fees under pressure across the board",
-      "summary": "Aluminium billet inventory drops to 139,500 tonnes, warehouse withdrawals recover, processing fees under pressure across the board AL Circle",
-      "source": "AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOaGNzamdIcjNhSVFqOUNGbkZTbmFUZW94d0lxSkRiaEFGVHFlZWlsMVQ2eU80LUpEMEpvc2lacHB2VUVtMWM3V19IdjE3SnkxcVI4ekM4aW9RVnB0RXAyTHhWTURxSTZZcnYzRHhaTGNwT0NZZ0dPSHlacTVTQm02a2wxYlFjZFpjbk5EaFdPWk84a3JFQy1yS2pqWFFMWDgwZ2cxXzd5Y3BwNnBPQjZWNnNGaHJBVUZvajRVbHQ3dFBrNERtNzBDTTRhTWlpWjhyZThfaWx1ZlQ5NExvY0g5OUxkc2VBWTJ2R3JjOFJTNTk4eVVyUUNjVHNYN2FzbDh0cWd3cg?oc=5",
-      "publishedAt": "2026-08-30T00:32:23.000Z",
-      "priority": 26,
-      "reasonForCodexReview": "Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Inventory",
-        "categories": [
-          "INVENTORY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aluminium billet inventory drops to 139,500 tonnes, warehouse withdrawals recover, processing fees under pressure across the board AL Circle",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "inventory drops"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [
-          "Inventory Down"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-30T23:00:51.297Z",
-      "updatedAt": "2026-08-31T05:55:53.458Z",
       "analyzedAt": null
     }
   ]

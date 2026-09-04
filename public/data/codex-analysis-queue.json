@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T15:09:20.687Z",
+  "generatedAt": "2026-09-04T18:25:36.351Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -35,6 +35,16 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-08-30T23:14:02.000Z"
+    },
+    {
+      "id": "e79d94b0cfa2de823ff760bae1500f321caeba436dfc3c5faea5f486cad07a8b",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "EU Commission abandons trade tool for aluminum scrap export restrictions",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "MLex",
+      "publishedAt": "2026-09-04T16:04:00.000Z"
     },
     {
       "id": "cfd1909ee00fced830d4835de5236b948901235b8bac9371afc88a7521ca9aab",
@@ -547,6 +557,16 @@
       "publishedAt": "2026-09-04T01:08:16.000Z"
     },
     {
+      "id": "027e50029995c45f1dfcab6b27906c3e296fdb48e52e9d09f54a3ace99e71b30",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Mine Supply Posts First Decline in Seven Years; Morgan Stanley Turns Bearish, Sees Copper at $15,000",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "finance.biggo.com",
+      "publishedAt": "2026-09-04T15:55:00.000Z"
+    },
+    {
       "id": "181a971ddf573e6145e595ce81d6a95ed4dd12f173c85581b65136d5642edb8f",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -795,6 +815,16 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-09-04T08:49:05.000Z"
+    },
+    {
+      "id": "dc30e7bbc15f8a22fa323e3ac16a1f8445abf0c871f1eb5c5fc63c349842e8db",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "AG’s Inola aluminum smelter lawsuit sent back to an Oklahoma district court",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "oklahomavoice.com",
+      "publishedAt": "2026-09-04T18:24:40.000Z"
     },
     {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
@@ -4497,6 +4527,16 @@
       "publishedAt": "2026-09-04T04:18:10.000Z"
     },
     {
+      "id": "3da65fa93ba90f2c124ff86234798af76f5ae7e3f8106c71d6617db8d952035f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "WA gold–copper explorers accelerate drilling: key project signals for mine planners",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Geomechanics.io",
+      "publishedAt": "2026-09-04T12:08:37.000Z"
+    },
+    {
       "id": "8779eb63d696e68f7dbcebacee9230f68369e86a7170c46777cc3d13d33d59bb",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4965,46 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Aluminium International Today",
       "publishedAt": "2026-09-01T08:59:40.000Z"
-    },
-    {
-      "id": "39a1f51f1569b5df00990eef1d25a67da0bd2dadee6805c8c2b25e734994b60e",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "생산 줄었는데 매출은 뛰었다…구리값 오른 LS전선 나동선의 반전",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "스트레이트뉴스",
-      "publishedAt": "2026-08-31T09:01:53.000Z"
-    },
-    {
-      "id": "14c7a7103d840be934a2a50ad590000bec062645b234613b33bdf65019f4d04c",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "[이슈 포커스] 美加 관세전쟁, 철강·알루미늄 공급망 직격 “국경 넘을 때마다 비용 누적”",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "hellot.net",
-      "publishedAt": "2026-08-31T04:37:29.000Z"
-    },
-    {
-      "id": "6d87ecefda638ad79904d73b1f56528e901273455a155d704fc1a131e92f0054",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "꽝응아이성 서부에 3조 VND 이상의 규모로 구리 제련 프로젝트가 추진될 예정이다.",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-08-29T03:48:52.000Z"
-    },
-    {
-      "id": "27771d35355112b404f1b60cfa114af2d1163b1125c2b324f3bc11eeb7804431",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Aluminium billet inventory drops to 139,500 tonnes, warehouse withdrawals recover, processing fees under pressure across the board",
-      "reasonForCodexReview": "Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-08-30T00:32:23.000Z"
     }
   ]
 }
