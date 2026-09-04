@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-04T18:25:36.351Z",
-  "nextScheduledRun": "2026-09-04T18:55:36.351Z",
+  "lastUpdated": "2026-09-04T21:03:33.483Z",
+  "nextScheduledRun": "2026-09-04T21:33:33.483Z",
   "agentStatus": "OK",
   "telegramStatus": "OK",
   "kakaoStatus": "DISABLED",
@@ -14,7 +14,7 @@
     {
       "name": "Google News Metals EN",
       "status": "OK",
-      "count": 100
+      "count": 0
     },
     {
       "name": "Google News Metals KO",
@@ -28,13 +28,13 @@
     }
   ],
   "runStats": {
-    "fetched": 210,
-    "relevant": 35,
-    "duplicates": 21,
-    "analyzed": 14,
-    "ruleAnalyzed": 14,
+    "fetched": 110,
+    "relevant": 12,
+    "duplicates": 7,
+    "analyzed": 5,
+    "ruleAnalyzed": 5,
     "codexPending": 500,
-    "sent": 5,
+    "sent": 3,
     "failed": 0
   }
 }
