@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T05:46:42.729Z",
+  "generatedAt": "2026-09-05T09:28:06.470Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -9804,6 +9804,43 @@
       "analyzedAt": null
     },
     {
+      "id": "141fbcaadf3f534d94aae955d1f4e15516c8065b2ea3f65333a6d7578ecd67da",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "CSIR-IICT develops low-cost copper catalyst for seawater-to-hydrogen production",
+      "summary": "CSIR-IICT develops low-cost copper catalyst for seawater-to-hydrogen production BioEnergy Times",
+      "source": "BioEnergy Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX2hpcWhzeE5uU2Jnei1DaGVUY01GZzdpS2MwZzhVclRHMXJGRlY3MEJVOE0xNFg3MlNuTjhMUmlVemg3YzF5di1aSzF6OTFqMWVBQWN6cElMRWNKbUhLTjNxTzdhek01TVR2bUs0dWRKUGd3VDQyMG1HWjUxRHlXX0NRY1UyampKU1FTZWpPYjFtMjJOS0E3TTJpbE9yNlFWTW5xWVUyeWZEb1U?oc=5",
+      "publishedAt": "2026-09-05T08:06:55.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION",
+          "ENERGY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "CSIR-IICT develops low-cost copper catalyst for seawater-to-hydrogen production BioEnergy Times",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-05T09:28:06.470Z",
+      "updatedAt": "2026-09-05T09:28:06.470Z",
+      "analyzedAt": null
+    },
+    {
       "id": "e952dd43288b8e5a0dab80c1d83d4bffa5a0f008717eeb9b8e2447ea3b82156b",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18529,42 +18566,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-27T13:40:19.725Z",
       "updatedAt": "2026-08-28T07:40:19.804Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "3b86edade86271ccf876b851b403c848c1e8873e854662b7290127916a8026ce",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Koryx Copper Announces Further Drill Results At The Haib Copper Project In Southern Namibia",
-      "summary": "Koryx Copper Announces Further Drill Results At The Haib Copper Project In Southern Namibia TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPT3hIV3p1Nk5oaHJrVDNFRVNoYTNOclFZWHFEMVhZQjZ0TUw4Wjl6YlBSaG03VFJkQndDakpIc1FTcV81bWJXTTRXd0ZRYnBsdlRkYXNVNUVyLVRtRW9pWVZ1SDNMZHUyS2k4Vy1GdkIxbllYSllFcTNVdGxhekZxb2pzSU5Kenp2QjV6MzNTQ3Y2RWlyUVRHem1yX2sydmpxM19rY0J5eU9YVnhLTlFZbW9QMXYxOHdfT2FCQ3Nub0owU1k1VUk4TVJEUExVUGdlWjY0bXBzRU4xS1p3NzVkVXFnVTdXbldYNDItNjhmbGVwMDg?oc=5",
-      "publishedAt": "2026-08-26T11:16:22.000Z",
-      "priority": 27,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Koryx Copper Announces Further Drill Results At The Haib Copper Project In Southern Namibia TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-26T11:40:19.642Z",
-      "updatedAt": "2026-08-26T23:10:19.684Z",
       "analyzedAt": null
     }
   ]
