@@ -1,6 +1,140 @@
 {
-  "generatedAt": "2026-09-05T09:28:06.470Z",
+  "generatedAt": "2026-09-05T13:03:00.486Z",
   "items": [
+    {
+      "id": "810ab916afe2aeb469879947d3e9f47b8928f3acdef01b6176c15bd80df440cf",
+      "titleSourceHash": "916ab883506dbe0cced6b2b143a961309075f2d54bc5ce7b567e1be7b205ada7",
+      "eventId": "5c7f26d7e231ea9537cf9847a8ecbd6db3542cf11a41f79ad1353367514565e6",
+      "title": "Commission turns from aluminium levy to wider waste-export ban",
+      "normalizedTitle": "commission turns from aluminum levy to wider waste-export ban",
+      "description": "Commission turns from aluminium levy to wider waste-export ban EU Today",
+      "source": "EU Today",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-05T10:24:23.000Z",
+      "fetchedAt": "2026-09-05T13:03:00.486Z",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iUE4tOW5wTllPMER1eVdhNmNtSEJkS2hZbVhHY0U4U0Y4b3pFQkY3X1JGNmoyTkVtcHdYenNmNGFoRHNfYXowellLTm44Qmxkc2V5ZVd6OWFmYkZ1R29Pdks4N0lRRnVyMHZkMjFoWTFRTHc?oc=5",
+      "language": "en",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "aluminium"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "export"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 9,
+          "matchedKeywords": [
+            "aluminium"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "export"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "HIGH",
+      "categories": [
+        "LOGISTICS",
+        "EXPORT",
+        "REGULATION"
+      ],
+      "primaryCategory": "Regulation",
+      "titleKo": "Commission turns from aluminium levy to wider waste-export ban",
+      "summaryKo": "Commission turns from aluminium levy to wider waste-export ban EU Today",
+      "marketImpact": "Bullish",
+      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+      "procurementImpact": "NEGATIVE",
+      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "MEDIUM",
+      "signals": [
+        "Supply Tightening",
+        "Supply Disruption",
+        "Price Increase Risk",
+        "Export Restriction"
+      ],
+      "keyEvidence": [
+        "export ban"
+      ],
+      "conflictingSignals": false,
+      "codexReviewEvent": true,
+      "urgent": true,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Regulation",
+        "categories": [
+          "LOGISTICS",
+          "EXPORT",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Commission turns from aluminium levy to wider waste-export ban EU Today",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "export ban"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk",
+          "Export Restriction"
+        ],
+        "urgent": true
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Regulation",
+        "categories": [
+          "LOGISTICS",
+          "EXPORT",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Commission turns from aluminium levy to wider waste-export ban EU Today",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "export ban"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk",
+          "Export Restriction"
+        ],
+        "urgent": true
+      },
+      "priority": 67,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "sent": true,
+      "sentAt": "2026-09-05T13:03:00.486Z"
+    },
     {
       "id": "141fbcaadf3f534d94aae955d1f4e15516c8065b2ea3f65333a6d7578ecd67da",
       "titleSourceHash": "7e7eb94d1868b5d3f4c72f8e5ba3be652b52945796dd2a197a5c5eae43929187",
@@ -121,7 +255,7 @@
       "source": "simplywall.st",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-05T05:39:49.000Z",
-      "fetchedAt": "2026-09-05T09:28:06.470Z",
+      "fetchedAt": "2026-09-05T13:03:00.486Z",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON3NDNGdNRU5oWTA3aEdDLUlqUmEwTWlUZTJENzNxOU9LLWRZUFMyMTQwMG1TMnhEdnNrNHBvSnFiZE9TYzJIQ2pZY2dCU3NTbVhINzBvMHNUZWRVVjg1OWxVR2h0ZWNMR0ZhZmhNUmh0MXZVRjQwanRkRnpfT2NiTVM2dXF0YTBhU0daQzhSQkZrZ1ZuLVBubUFON0phN1FvSDUwRW5tTEdIeFVJZFJveFNmUWdrRmVVdEM1UG9qQ0V1RW96cXJ1LWhrNVRmR19nSkNxS2tiUlXSAdgBQVVfeXFMTjdzQzRnTUVOaFkwN2hHQy1JalJhME1pVGUyRDczcTlPSy1kWVBTMjE0MDBtUzJ4RHZzazRwb0pxYmRPU2MySENqWWNnQlNzU21YSDcwbzBzVGVkVVY4NTlsVUdodGVjTEdGYWZoTVJodDF2VUY0MGp0ZEZ6X09jYk1TNnVxdGEwYVNHWkM4UkJGa2dWbi1Qbm1BTjdKYTdRb0g1MEVubUxHSHhVSWRSb3hTZlFna0ZlVXRDNVBvakNFdUVvenFydS1oazVUZkdfZ0pDcUtrYlJV?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -208,7 +342,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 16,
+      "priority": 12,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -327,7 +461,7 @@
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-05T04:35:29.000Z",
-      "fetchedAt": "2026-09-05T09:28:06.470Z",
+      "fetchedAt": "2026-09-05T13:03:00.486Z",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZFRCZl9BX2ItR3Q0LWZqa3JIa3I4UTRSeDNjQXNneUt0UXdQV2FBNk1LZkQySnhsTDFfRFNjNUZ5U0FFTTBwYmJWMEduSi1NY3lRMXBhZDMxTUt5WHlYRnAzMVczQ3JObzdHSDRLcjdSa0l6dnlTSmE3Nm9fRzFadEE4OUJhQVhpWEc2TWxqMy1ZdVlFc1hXYUlxMmVIa3l1SEtSTGlOdFVDZlM2NGU5ZGt0aVo1SzBX0gG4AUFVX3lxTE1kVEJmX0FfYi1HdDQtZmprckhrcjhRNFJ4M2NBc2d5S3RRd1BXYUE2TUtmRDJKeGxMMV9EU2M1RnlTQUVNMHBiYlYwR25KLU1jeVExcGFkMzFNS3lYeVhGcDMxVzNDck5vN0dINEtyN1JrSXp2eVNKYTc2b19HMVp0QTg5QmFBWGlYRzZNbGozLVl1WUVzWFdhSXEyZUhreXVIS1JMaU50VUNmUzY0ZTlka3RpWjVLMFc?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -424,7 +558,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 18,
+      "priority": 14,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -1531,6 +1665,119 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-09-05T05:46:42.729Z"
+    },
+    {
+      "id": "32a44a81804bd1df93cb0df6f3b02bb3234dce523542e104492db054ed5c4a43",
+      "titleSourceHash": "e82400dcc6e038d2df69442a7b2fbd3e2f3bdb65877631bf5999e2b92cb7b42e",
+      "eventId": "29c20cfd19d9eb3764e58785334b0e538a7d43600d44e097148f11b0e1348a57",
+      "title": "Aluminum FOB Australia Metals Bulletin Futures (Sep 2028) Trade Ideas — COMEX:ALBU2028",
+      "normalizedTitle": "aluminum fob australia metals bulletin futures sep 2028 trade ideas comex albu2028",
+      "description": "Aluminum FOB Australia Metals Bulletin Futures (Sep 2028) Trade Ideas — COMEX:ALBU2028 TradingView",
+      "source": "TradingView",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-04T21:56:27.000Z",
+      "fetchedAt": "2026-09-05T13:03:00.486Z",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lcGxzOTdqbTRyOGxySW1va1plQVJrdDNaT2I2ZUdSVlRQU0tZZEtrbkRNYVVpTGtSOHZVUUtWVWlPYzJRZ3loSlpXU2FMUEdBRVJqa3R4VnJWTmlERmlTUko1MXU0OGJFMktwa01xaXVGVndMcTNHR2VIVDdkcVk?oc=5",
+      "language": "en",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "aluminum"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "Australia"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 8,
+          "matchedKeywords": [
+            "aluminum"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "Australia"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "TRADE"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Aluminum FOB Australia Metals Bulletin Futures (Sep 2028) Trade Ideas — COMEX:ALBU2028",
+      "summaryKo": "Aluminum FOB Australia Metals Bulletin Futures (Sep 2028) Trade Ideas — COMEX:ALBU2028 TradingView",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "Australia"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "TRADE"
+        ],
+        "region": "Australia",
+        "regions": [
+          "Australia"
+        ],
+        "summary": "Aluminum FOB Australia Metals Bulletin Futures (Sep 2028) Trade Ideas — COMEX:ALBU2028 TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "TRADE"
+        ],
+        "region": "Australia",
+        "regions": [
+          "Australia"
+        ],
+        "summary": "Aluminum FOB Australia Metals Bulletin Futures (Sep 2028) Trade Ideas — COMEX:ALBU2028 TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 29,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-05T13:03:00.486Z"
     },
     {
       "id": "114afe8ce75a6392f248357744cc98ac0781300913c21bd4236784fcec9c7431",
@@ -33161,253 +33408,6 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-08-31T05:55:53.458Z"
-    },
-    {
-      "id": "17fa68940c0009293007b223c6f6986a9f248cade0679911ce7f43d3106b260d",
-      "titleSourceHash": "b1f2059da42529b5b4b599feb560649dc7073c10f5399cfce0df4dc46490039c",
-      "eventId": "73c8eada9543e0f3e6d53bbd43fd1b8c78938f0a204debfca55a57788f77079e",
-      "title": "칠레 코델코, 구리 가격 급등에 순이익 4배 증가… 생산 차질은 계속돼",
-      "normalizedTitle": "칠레 코델코 구리 가격 급등에 순이익 4배 증가 생산 차질은 계속돼",
-      "description": "칠레 코델코, 구리 가격 급등에 순이익 4배 증가… 생산 차질은 계속돼 더구루",
-      "source": "더구루",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-08-31T01:30:14.000Z",
-      "fetchedAt": "2026-08-31T01:53:28.639Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04QkpQM0hJQnQxb2gyM1NQMkVraDZNNjFORFU2aXd2XzlXWHZRUzV1d3AzYm5LM0ptdTd4TjRMbV9uQ0hoWEJUelV2RGlDMXZoZG5CN2p4MHhxUk1wOGFZY0s4RQ?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "가격",
-        "생산",
-        "차질"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "가격",
-            "생산",
-            "차질"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "PRODUCTION",
-        "DISRUPTION",
-        "EARNINGS"
-      ],
-      "primaryCategory": "Supply Disruption",
-      "titleKo": "칠레 코델코, 구리 가격 급등에 순이익 4배 증가… 생산 차질은 계속돼",
-      "summaryKo": "칠레 코델코, 구리 가격 급등에 순이익 4배 증가… 생산 차질은 계속돼 더구루",
-      "marketImpact": "Bullish",
-      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-      "procurementImpact": "NEGATIVE",
-      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "IMMEDIATE",
-      "confidence": "MEDIUM",
-      "signals": [
-        "Supply Tightening",
-        "Supply Disruption",
-        "Price Increase Risk"
-      ],
-      "keyEvidence": [
-        "생산 차질"
-      ],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Supply Disruption",
-        "categories": [
-          "PRICE",
-          "PRODUCTION",
-          "DISRUPTION",
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "칠레 코델코, 구리 가격 급등에 순이익 4배 증가… 생산 차질은 계속돼 더구루",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "생산 차질"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Supply Disruption",
-        "categories": [
-          "PRICE",
-          "PRODUCTION",
-          "DISRUPTION",
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "칠레 코델코, 구리 가격 급등에 순이익 4배 증가… 생산 차질은 계속돼 더구루",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "생산 차질"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "priority": 42,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Material event taxonomy",
-      "sent": true,
-      "sentAt": "2026-08-31T01:53:28.639Z"
-    },
-    {
-      "id": "da291f5bc4dfe207c72f99860b6b170d14bb62259cb8b3326ba49bdba509560c",
-      "titleSourceHash": "e535dcd3f9009d011b274a31215e84aad3e4d0a362b675831215f777eb8465e4",
-      "eventId": "6050a4460afa3b5c280f71fc0d73eb23a2fd96f94bb1910b8b8b4d0c03d4cdaf",
-      "title": "Jiangxi Copper (SEHK:358) Earnings Jump Puts Its Undervalued Status Back In Focus",
-      "normalizedTitle": "jiangxi copper sehk 358 earnings jump puts its undervalued status back in focus",
-      "description": "Jiangxi Copper (SEHK:358) Earnings Jump Puts Its Undervalued Status Back In Focus simplywall.st",
-      "source": "simplywall.st",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-08-31T01:23:36.000Z",
-      "fetchedAt": "2026-08-31T01:53:28.639Z",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWXA4U21SVDEzaFNtSE83X1EwMUUxd3dUdUR6d1ZoZkRUeVl5d2xub085UGhxRU04Nkk0bENoN2w5RUVoYjEzY3VhNFJQSUlhbmpTSHN3amFWTURRTVNsb0ZxVnp6a2ZsTm56ZEJhU1JybFdGZ2JtSWZ0MldQS2NBcWgwYjBTeEpBMXp3a3d6Y2J3eTV0WW9oM2F5T0d1VlpDZG1IMXFjRmstanV6eW5qRkd2NUt2c3dxdzNFQXYtdzBDc0daaFhXbWxvajlKQUltWWhB0gHYAUFVX3lxTE1nbHd4VUFsdzlkSzQwVWY0b0pRTVpIUHBFNm1NS0VPa1Y3a25BM2hJbmJYeU1CajJaRWdvM2JuVXRrdXVmaTRCaWMwY1hxUnJpaFZKdGhOYnY5c2FFRmtZNjYySVhLSWZ2VkpwQU16Uk43LUxZX1h5VlVZdmkwMnhXTTBwam1ta0t5V0JkLW9xalJ1MGFJeVh1SE0wbzZSTFFFSG1Sb0o0Wl9aWENGQVJoYVNRTHlxMEdteFJqVWFwam9sZXRYaDN2SWlBdWtzUmk1V1VaUTVGZA?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [
-        "Jiangxi Copper"
-      ],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [
-            "Jiangxi Copper"
-          ],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "EARNINGS"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Jiangxi Copper (SEHK:358) Earnings Jump Puts Its Undervalued Status Back In Focus",
-      "summaryKo": "Jiangxi Copper (SEHK:358) Earnings Jump Puts Its Undervalued Status Back In Focus simplywall.st",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [
-        "Jiangxi Copper"
-      ],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Jiangxi Copper (SEHK:358) Earnings Jump Puts Its Undervalued Status Back In Focus simplywall.st",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Jiangxi Copper (SEHK:358) Earnings Jump Puts Its Undervalued Status Back In Focus simplywall.st",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 34,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": true,
-      "sentAt": "2026-08-31T01:53:28.639Z"
     }
   ]
 }

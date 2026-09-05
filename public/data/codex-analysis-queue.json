@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T09:28:06.470Z",
+  "generatedAt": "2026-09-05T13:03:00.486Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -15,6 +15,16 @@
       "codexStatus": "PENDING",
       "source": "koreajoongangdaily.com",
       "publishedAt": "2026-09-01T22:00:00.000Z"
+    },
+    {
+      "id": "810ab916afe2aeb469879947d3e9f47b8928f3acdef01b6176c15bd80df440cf",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "Commission turns from aluminium levy to wider waste-export ban",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "EU Today",
+      "publishedAt": "2026-09-05T10:24:23.000Z"
     },
     {
       "id": "91c2864d64e0084bdbff88664fe3c54abfa24e5c7ea9afe44cb5afc3990c2841",
@@ -4857,6 +4867,16 @@
       "publishedAt": "2026-09-02T02:05:00.000Z"
     },
     {
+      "id": "32a44a81804bd1df93cb0df6f3b02bb3234dce523542e104492db054ed5c4a43",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Aluminum FOB Australia Metals Bulletin Futures (Sep 2028) Trade Ideas — COMEX:ALBU2028",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-09-04T21:56:27.000Z"
+    },
+    {
       "id": "a03642a66181733e54780484672d4cb772c1dbd448ea7890d3b4351ebadf5a5e",
       "commodity": "TIN",
       "importance": "MEDIUM",
@@ -4985,26 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Dealroom",
       "publishedAt": "2026-08-27T22:14:50.000Z"
-    },
-    {
-      "id": "10b387527d5f8ee9938f59428ac9ff1373a6716c659a86f04e216b166d3126c8",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Aston Bay Identifies New Near-Surface Copper Targets Through Integrated 3D Modelling at the Epworth Copper-Silver Project, Nunavut, Canada",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "ACCESS Newswire",
-      "publishedAt": "2026-08-27T11:02:21.000Z"
-    },
-    {
-      "id": "4b1a534e7541ec727efb6a73468b8d7ff5909d7087f6928b9b9a126698667392",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Aston Bay Identifies New Near-Surface Copper Targets Through Integrated 3D Modelling at the Epworth Copper-Silver Project, Nunavut, Canada",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-08-27T11:00:00.000Z"
     }
   ]
 }

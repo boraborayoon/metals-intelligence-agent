@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T09:28:06.470Z",
+  "generatedAt": "2026-09-05T13:03:00.486Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -43,6 +43,51 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-01T23:34:25.237Z",
       "updatedAt": "2026-09-01T23:34:25.237Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "810ab916afe2aeb469879947d3e9f47b8928f3acdef01b6176c15bd80df440cf",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Commission turns from aluminium levy to wider waste-export ban",
+      "summary": "Commission turns from aluminium levy to wider waste-export ban EU Today",
+      "source": "EU Today",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iUE4tOW5wTllPMER1eVdhNmNtSEJkS2hZbVhHY0U4U0Y4b3pFQkY3X1JGNmoyTkVtcHdYenNmNGFoRHNfYXowellLTm44Qmxkc2V5ZVd6OWFmYkZ1R29Pdks4N0lRRnVyMHZkMjFoWTFRTHc?oc=5",
+      "publishedAt": "2026-09-05T10:24:23.000Z",
+      "priority": 67,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Regulation",
+        "categories": [
+          "LOGISTICS",
+          "EXPORT",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Commission turns from aluminium levy to wider waste-export ban EU Today",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "export ban"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk",
+          "Export Restriction"
+        ],
+        "urgent": true
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-05T13:03:00.486Z",
+      "updatedAt": "2026-09-05T13:03:00.486Z",
       "analyzedAt": null
     },
     {
@@ -18024,6 +18069,44 @@
       "analyzedAt": null
     },
     {
+      "id": "32a44a81804bd1df93cb0df6f3b02bb3234dce523542e104492db054ed5c4a43",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Aluminum FOB Australia Metals Bulletin Futures (Sep 2028) Trade Ideas — COMEX:ALBU2028",
+      "summary": "Aluminum FOB Australia Metals Bulletin Futures (Sep 2028) Trade Ideas — COMEX:ALBU2028 TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lcGxzOTdqbTRyOGxySW1va1plQVJrdDNaT2I2ZUdSVlRQU0tZZEtrbkRNYVVpTGtSOHZVUUtWVWlPYzJRZ3loSlpXU2FMUEdBRVJqa3R4VnJWTmlERmlTUko1MXU0OGJFMktwa01xaXVGVndMcTNHR2VIVDdkcVk?oc=5",
+      "publishedAt": "2026-09-04T21:56:27.000Z",
+      "priority": 29,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "TRADE"
+        ],
+        "region": "Australia",
+        "regions": [
+          "Australia"
+        ],
+        "summary": "Aluminum FOB Australia Metals Bulletin Futures (Sep 2028) Trade Ideas — COMEX:ALBU2028 TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-05T13:03:00.486Z",
+      "updatedAt": "2026-09-05T13:03:00.486Z",
+      "analyzedAt": null
+    },
+    {
       "id": "a03642a66181733e54780484672d4cb772c1dbd448ea7890d3b4351ebadf5a5e",
       "commodity": "TIN",
       "subCommodity": null,
@@ -18494,78 +18577,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-27T22:40:19.761Z",
       "updatedAt": "2026-08-28T11:10:19.833Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "10b387527d5f8ee9938f59428ac9ff1373a6716c659a86f04e216b166d3126c8",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Aston Bay Identifies New Near-Surface Copper Targets Through Integrated 3D Modelling at the Epworth Copper-Silver Project, Nunavut, Canada",
-      "summary": "Aston Bay Identifies New Near-Surface Copper Targets Through Integrated 3D Modelling at the Epworth Copper-Silver Project, Nunavut, Canada ACCESS Newswire",
-      "source": "ACCESS Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM1F3b0I3NzdzRERFM0hYNVBBT0VGbEstTTl0MTdxNmdCSFhFbzZZTDluY3I0a2V4TUZ5Nm4xWTZVUHBXNThJbVp0MTREZkF1M0RabWVwWUZfaHRWZURERlNOUWUtNnFjWWlma1g1WjBrcWVCSnBPdWwzR0NtVDlzVmtheVRuOGgwbnJvcXZQLWJQei1YeTY2OXcxdjR4cXlWZUZMaUFFRWtXQ1RBdFBLeXFMcVZLNzFTZFkzcXJwS25CYkU5ZEs3d2xUODhHeGtKTXU1ZE43c1h2ZVVLNGlzUFRCUFI?oc=5",
-      "publishedAt": "2026-08-27T11:02:21.000Z",
-      "priority": 27,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aston Bay Identifies New Near-Surface Copper Targets Through Integrated 3D Modelling at the Epworth Copper-Silver Project, Nunavut, Canada ACCESS Newswire",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-27T11:10:19.719Z",
-      "updatedAt": "2026-08-27T22:40:19.761Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "4b1a534e7541ec727efb6a73468b8d7ff5909d7087f6928b9b9a126698667392",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Aston Bay Identifies New Near-Surface Copper Targets Through Integrated 3D Modelling at the Epworth Copper-Silver Project, Nunavut, Canada",
-      "summary": "Aston Bay Identifies New Near-Surface Copper Targets Through Integrated 3D Modelling at the Epworth Copper-Silver Project, Nunavut, Canada Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXB4MGJ5cml3cmt0elVwV0hDcXNldnBHb3VmWGRINHljR0dOdXBqZkVId3gwT0k5UFJHQUZnLVpEcklIT05lREZvQ09pWTB6MHcweXo3QjFKNTh3Mm5UUVN6aU1GaTB3S1d3bzJwd3lYNVhQLVNlWVpkTExaTTJCcnRPTEZyaEVlNXJqenp0WVNtWHNWRnNJR2Y5YWZGbm5oLTdtRVVn?oc=5",
-      "publishedAt": "2026-08-27T11:00:00.000Z",
-      "priority": 27,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aston Bay Identifies New Near-Surface Copper Targets Through Integrated 3D Modelling at the Epworth Copper-Silver Project, Nunavut, Canada Yahoo Finance",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-27T13:40:19.725Z",
-      "updatedAt": "2026-08-28T07:40:19.804Z",
       "analyzedAt": null
     }
   ]
