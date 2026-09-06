@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T18:39:06.218Z",
+  "generatedAt": "2026-09-06T20:51:23.639Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -2757,6 +2757,16 @@
       "publishedAt": "2026-09-06T15:32:35.000Z"
     },
     {
+      "id": "86d1d128507e6bfdcd06cf696ddbfcbce38d8299ee191029f7cc6d359164e2cd",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Experts say copper prices need to move higher still to solve supply gap",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Stockhead",
+      "publishedAt": "2026-09-06T20:00:34.000Z"
+    },
+    {
       "id": "e952dd43288b8e5a0dab80c1d83d4bffa5a0f008717eeb9b8e2447ea3b82156b",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4995,16 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Yahoo Finance",
       "publishedAt": "2026-08-27T11:33:00.000Z"
-    },
-    {
-      "id": "c8ae577ae2961195677a9c7fd48dc468bf46e7b18ce68299dac2da3cfdb5f3de",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "BHP, 관세 우려가 키운 구리 랠리…가격 하락 위험 직면",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Investing.com 한국어",
-      "publishedAt": "2026-08-26T09:21:00.000Z"
     }
   ]
 }

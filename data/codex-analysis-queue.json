@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T18:39:06.218Z",
+  "generatedAt": "2026-09-06T20:51:23.639Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -10247,6 +10247,43 @@
       "analyzedAt": null
     },
     {
+      "id": "86d1d128507e6bfdcd06cf696ddbfcbce38d8299ee191029f7cc6d359164e2cd",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Experts say copper prices need to move higher still to solve supply gap",
+      "summary": "Experts say copper prices need to move higher still to solve supply gap Stockhead",
+      "source": "Stockhead",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYm5CZGhjWEU4WHZURmliNUtYNlF1MVBKOTU3SzNyY3J1bWhIc0FSSC0teEZqM3AzdW91ODItUFhoNVpEN3l1WTdWT2tOaUh6cXpfZFNyUXBjZnJXbXdOd2FDN1VUSTFGZEV3NWExN2ZESV9Wb1d0aWRrYW9CdGpIT3FFVUdlWUltaWc2bHpJelhPSXNibHF2SlU2Z2x2WFRHWGp4ZGp0SWFaU1E?oc=5",
+      "publishedAt": "2026-09-06T20:00:34.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "PRICE",
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Experts say copper prices need to move higher still to solve supply gap Stockhead",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-06T20:51:23.639Z",
+      "updatedAt": "2026-09-06T20:51:23.639Z",
+      "analyzedAt": null
+    },
+    {
       "id": "e952dd43288b8e5a0dab80c1d83d4bffa5a0f008717eeb9b8e2447ea3b82156b",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18537,43 +18574,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-27T14:10:19.725Z",
       "updatedAt": "2026-08-29T11:10:19.963Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "c8ae577ae2961195677a9c7fd48dc468bf46e7b18ce68299dac2da3cfdb5f3de",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "BHP, 관세 우려가 키운 구리 랠리…가격 하락 위험 직면",
-      "summary": "BHP, 관세 우려가 키운 구리 랠리…가격 하락 위험 직면 Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0LXJELWxBbGQzYlFjRXhUQm9wMm9mSXB4b2Q0N1R2QmtwTGZiTHJBVUtWMFBwMVppeXp4LUt2NGNBNEFEZVd6RzB2b3ZpYlRRRXNSVWNpdWFnaHdMVl8yczNUOERsWWtxeUN6ZkVmRlNjVjlrTm04?oc=5",
-      "publishedAt": "2026-08-26T09:21:00.000Z",
-      "priority": 28,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "PRICE",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "BHP, 관세 우려가 키운 구리 랠리…가격 하락 위험 직면 Investing.com 한국어",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-26T09:40:19.629Z",
-      "updatedAt": "2026-08-28T05:10:19.789Z",
       "analyzedAt": null
     }
   ]
