@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T20:51:23.639Z",
+  "generatedAt": "2026-09-06T22:54:18.998Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -10703,6 +10703,46 @@
       "analyzedAt": null
     },
     {
+      "id": "ad8b5574b6105639620485cd9dc1edef28c3415c7138834c8a07d121b198a709",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Panoro Minerals reports high-grade copper-gold drill hits at Cotabambas project in Peru",
+      "summary": "Panoro Minerals reports high-grade copper-gold drill hits at Cotabambas project in Peru Bitget",
+      "source": "Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqdFIzb3JQVVdWM2RtWVZOYkVxMHA4TWhyWjFFZG1JVGh1OFNOSzczWU1oSVlUdkxBYzdRRDQ4TThFVFVSVkx5Z0VFZmp2enJMRjFNeDItYmM1aVF0bWhSeFAzVdIBY0FVX3lxTFBqdFIzb3JQVVdWM2RtWVZOYkVxMHA4TWhyWjFFZG1JVGh1OFNOSzczWU1oSVlUdkxBYzdRRDQ4TThFVFVSVkx5Z0VFZmp2enJMRjFNeDItYmM1aVF0bWhSeFAzVQ?oc=5",
+      "publishedAt": "2026-09-06T21:32:12.000Z",
+      "priority": 33,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "LOGISTICS",
+          "PROJECT"
+        ],
+        "region": "Peru",
+        "regions": [
+          "Peru"
+        ],
+        "summary": "Panoro Minerals reports high-grade copper-gold drill hits at Cotabambas project in Peru Bitget",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-06T22:54:18.998Z",
+      "updatedAt": "2026-09-06T22:54:18.998Z",
+      "analyzedAt": null
+    },
+    {
       "id": "e305ecc74304d4b0905f694450f3ad76bd7480fbe0fb9b989adf089691bada7e",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18538,42 +18578,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-27T14:40:19.720Z",
       "updatedAt": "2026-09-03T14:35:55.232Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "82d2f94baad312cd773350e27f0bb40d42afbde613d1e6d349bc40a1f16ebc18",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "FCX vs. BHP: Which Copper Mining Giant Should You Bet on Now?",
-      "summary": "FCX vs. BHP: Which Copper Mining Giant Should You Bet on Now? Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQczNBOGtENVdYMUg4Z3l1eXlqY0w1ZTM2alBSVnN1T1hvanAxaV93ZENyMVh6VmpiZk9JRUNkWS1yODlVYnpmdk5xMTlQSTUwZGczdDVkbG5rejl4MFBybzVaZFZSdmdWa1V1WFN6YWJOTzZYT3NqbE1XTGNaTGs0WnJSSGlYclc2d2FEay1KcWVyMmc?oc=5",
-      "publishedAt": "2026-08-27T11:33:00.000Z",
-      "priority": 28,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "FCX vs. BHP: Which Copper Mining Giant Should You Bet on Now? Yahoo Finance",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-27T14:10:19.725Z",
-      "updatedAt": "2026-08-29T11:10:19.963Z",
       "analyzedAt": null
     }
   ]
