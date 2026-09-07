@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T21:32:32.707Z",
+  "generatedAt": "2026-09-07T23:47:06.298Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -25,6 +25,16 @@
       "codexStatus": "PENDING",
       "source": "EU Today",
       "publishedAt": "2026-09-05T10:24:23.000Z"
+    },
+    {
+      "id": "f961cdd89ba3a47510729fb138ac3f2b3e176b0dd7b3c952ef3af859411deb76",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "LME copper hits all-time high! Tariff arbitrage triggers LME copper squeeze, while production cuts by major miners intensify supply-side pressure.",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Moomoo",
+      "publishedAt": "2026-09-07T23:22:51.000Z"
     },
     {
       "id": "91c2864d64e0084bdbff88664fe3c54abfa24e5c7ea9afe44cb5afc3990c2841",
@@ -475,6 +485,16 @@
       "codexStatus": "PENDING",
       "source": "Investing News Network",
       "publishedAt": "2026-09-03T13:43:27.000Z"
+    },
+    {
+      "id": "feb3ea7dbaf2f178ed01250564cd926a3b6479e6979058af4a6fb67ab4e66ea9",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리값 사상 최고⋯美 관세·칠레 공급 차질 영향",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "네이트",
+      "publishedAt": "2026-09-07T23:27:00.000Z"
     },
     {
       "id": "08d3965dc289bdf94defa32ac10910452fc314fedad8bff094d08e0885dbf2c5",
@@ -1573,8 +1593,18 @@
       "title": "Chile trade surplus narrows in August, raising pressure on the peso and copper-linked markets",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "VT Markets",
+      "source": "vtmarkets.com",
       "publishedAt": "2026-09-07T18:24:30.000Z"
+    },
+    {
+      "id": "7d8a75f5d1222733beffd3a1c03adf6dc7fb1eee8d6a7bce210838e0bb5ae01c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "\"Chile dominates the global supply of copper concentrates, but its smelters are operating at 60% of their capacity\"",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "BNamericas",
+      "publishedAt": "2026-09-07T21:56:15.000Z"
     },
     {
       "id": "ce60a03b7bacf8d76a1803bfa85f8e87172a55d4630cf4906b554e8987466433",
@@ -3037,16 +3067,6 @@
       "publishedAt": "2026-09-07T17:23:20.000Z"
     },
     {
-      "id": "94f9808dc07684783024899f5700815c0e49df2651b8eece61d01849098c636e",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리 가격 사상 최고…톤당 1만4533달러",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "블루밍비트",
-      "publishedAt": "2026-09-07T16:03:43.000Z"
-    },
-    {
       "id": "56e1ad9596f5334d0977877a9acdbd84887569207d6fce313143bf49f354bf68",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -3064,17 +3084,57 @@
       "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
       "codexStatus": "PENDING",
       "source": "아시아경제",
-      "publishedAt": "2026-09-07T18:16:43.000Z"
+      "publishedAt": "2026-09-07T22:59:29.000Z"
     },
     {
-      "id": "a2de452330715b067d55907af8b21e40f7705a2045e557fc5608962ac89e57b3",
+      "id": "fb01482f83bad3eaf96d08110943c35b7cc5d65ec1e91d1fe896f430b7430706",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain",
-      "reasonForCodexReview": "Rule direction is unclear",
+      "title": "구리 가격 사상 최고가…美 관세 리스크·광산 붕괴",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
       "codexStatus": "PENDING",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-09-07T17:00:00.000Z"
+      "source": "v.daum.net",
+      "publishedAt": "2026-09-07T23:33:04.000Z"
+    },
+    {
+      "id": "d27f68e9448f50f6c43dacf1e813d1c178c1e652ba71e41f4e82a1e9bc8e8cc0",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리값 사상 최고…美에 쌓인 재고, 다른 시장엔 공급난",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "경북매일",
+      "publishedAt": "2026-09-07T23:31:00.000Z"
+    },
+    {
+      "id": "d73b29044ce7885633b86fbebc4f61320d60cb32883646904cfb43ec1245892a",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "국제 구리값 사상 최고치…美 관세 우려, 조업 차질 겹쳐",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "티제이비",
+      "publishedAt": "2026-09-07T23:21:33.000Z"
+    },
+    {
+      "id": "6bed4b04be04ab15095f0af676552caaa288daf97c7046d75d4393623a16400e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리값 사상 최고치…트럼프 관세 우려에 美로 물량 쏠렸다",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "블록미디어",
+      "publishedAt": "2026-09-07T22:17:00.000Z"
+    },
+    {
+      "id": "b8f4ef0c48c70e56ef0737ef88fa2c42d4fe782bf747465380f4cd552c9750fd",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리값 t당 1만4533달러 '사상 최고'…관세·공급 우려 겹쳐",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "ebn.co.kr",
+      "publishedAt": "2026-09-07T21:45:03.000Z"
     },
     {
       "id": "e952dd43288b8e5a0dab80c1d83d4bffa5a0f008717eeb9b8e2447ea3b82156b",
@@ -3423,7 +3483,7 @@
       "title": "Chile Copper Shipments Sink to One-Year Low Despite Price Rally",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "bloomberg.com",
+      "source": "Bloomberg.com",
       "publishedAt": "2026-09-07T14:14:37.000Z"
     },
     {
@@ -3675,6 +3735,26 @@
       "codexStatus": "PENDING",
       "source": "SMM Metal",
       "publishedAt": "2026-09-07T06:20:06.000Z"
+    },
+    {
+      "id": "94f9808dc07684783024899f5700815c0e49df2651b8eece61d01849098c636e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리 가격 사상 최고…톤당 1만4533달러",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "블루밍비트",
+      "publishedAt": "2026-09-07T16:03:43.000Z"
+    },
+    {
+      "id": "a2de452330715b067d55907af8b21e40f7705a2045e557fc5608962ac89e57b3",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-09-07T17:00:00.000Z"
     },
     {
       "id": "ba825b1a772399a53a0144455d19ba52cf8ccb3855ebd78e8da69e908e18a17c",
@@ -4925,86 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-08-31T06:02:00.000Z"
-    },
-    {
-      "id": "33b6835a87679fbfc7320898e6a902c1571feafcd0ace311f990151c1a5f3d70",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Shanghai copper edges lower as rate fears offset supply support",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "marketscreener.com",
-      "publishedAt": "2026-08-31T04:07:41.000Z"
-    },
-    {
-      "id": "44eaa5ab0ac53d28368e6c77f3602c7e4520f96628c106c64f9c36b1fbd54849",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "CrossBoundary’s Kamoa Copper solar PV‑BESS: reliability lessons for mine power engineers",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Geomechanics.io",
-      "publishedAt": "2026-08-31T12:37:37.000Z"
-    },
-    {
-      "id": "3577fea023789824bc5f495cd055ce0c894b6fac67c7c5a06c3e49eac1f12b9c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "미국과 캐나다 간 무역 전쟁이 철강 및 구리에 대한 새로운 관세 부과로 격화되고 있다.",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-08-31T11:47:43.000Z"
-    },
-    {
-      "id": "d9ee6c2cf8adc9dfd98b9117595c5565aed2fe0e98bcb79cbbb1c6cd4dad2835",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Lucie Davis Transforms Retail Price Labels into Unique Copper and Enamel Art Pins",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "freeyork",
-      "publishedAt": "2026-08-31T09:27:25.000Z"
-    },
-    {
-      "id": "aed9549b3b8278ba65f7c4b802750f706e86d775e4e55806236c7b90f641f29a",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Aluminium European Premium Duty Paid Metal Bulletin Futures Sep '26 Futures Price History",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Barchart.com",
-      "publishedAt": "2026-09-01T08:00:52.000Z"
-    },
-    {
-      "id": "a7dfdb637205514324bcd35c909dcf85d25056522975b4f4cd958f18328964d7",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Stifel sees more to come at ACG's Turkish mine beyond first copper",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance UK",
-      "publishedAt": "2026-09-01T10:54:00.000Z"
-    },
-    {
-      "id": "8a58eb56096f03df4dcb5af33181ea6ea401ad6a9e002e99fdf5f866ad8428f0",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Stifel sees more to come at ACG's Turkish mine beyond first copper",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Proactive financial news",
-      "publishedAt": "2026-09-01T10:58:20.000Z"
-    },
-    {
-      "id": "3bcb96c0f3ee97b4d0fb2702493a4dd5ab96d6db499a25a5ce7d0a3bd353c9de",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "PECOY COPPER (PCUUF) Stock Price, News & Analysis",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Stock Titan",
-      "publishedAt": "2026-09-01T10:30:00.000Z"
     }
   ]
 }

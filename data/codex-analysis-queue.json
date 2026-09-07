@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T21:32:32.707Z",
+  "generatedAt": "2026-09-07T23:47:06.298Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -88,6 +88,51 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-05T13:03:00.486Z",
       "updatedAt": "2026-09-05T13:03:00.486Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f961cdd89ba3a47510729fb138ac3f2b3e176b0dd7b3c952ef3af859411deb76",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "LME copper hits all-time high! Tariff arbitrage triggers LME copper squeeze, while production cuts by major miners intensify supply-side pressure.",
+      "summary": "LME copper hits all-time high! Tariff arbitrage triggers LME copper squeeze, while production cuts by major miners intensify supply-side pressure. Moomoo",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObFFuYm53Z2tjQnB1N0VwRDd1c3Fhd1E1VVFHTllaSWFYMnlYTlBTUFh6UHZFamEtSXNCT24xZkxpdUtDY0VqZW5LZWdkbUFrWjBrS25uQkk3TjZHbFpPOVF4S1Fpc01RTHROY2lKZEVrdHdjcTVxU0lNa045cmwzX2dINXRVY0lXODJOdWdFWWE0d2YyMXBoOXE1a0lLSjl5NzRz?oc=5",
+      "publishedAt": "2026-09-07T23:22:51.000Z",
+      "priority": 62,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Tariff",
+        "categories": [
+          "SUPPLY",
+          "MINE",
+          "PRODUCTION",
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME copper hits all-time high! Tariff arbitrage triggers LME copper squeeze, while production cuts by major miners intensify supply-side pressure. Moomoo",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "production cut"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "UNCLEAR",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T23:47:06.298Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
       "analyzedAt": null
     },
     {
@@ -1841,6 +1886,50 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-03T18:05:48.423Z",
       "updatedAt": "2026-09-03T18:05:48.423Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "feb3ea7dbaf2f178ed01250564cd926a3b6479e6979058af4a6fb67ab4e66ea9",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "구리값 사상 최고⋯美 관세·칠레 공급 차질 영향",
+      "summary": "구리값 사상 최고⋯美 관세·칠레 공급 차질 영향 네이트",
+      "source": "네이트",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3cW9Da2RiRFYwdDFuWXFfaGpMcXg5dGdqRXZELVZnbmxLbjZFQ010QTU2VXFsVGdiNmJGZjJtNVlOWnhpa3BOb3NEeTUxLXJWZHhoYjgtSTRnX2c3NXNGVDJKUG1EdjZHVFJZalZON0pTV3VMMGFwbw?oc=5",
+      "publishedAt": "2026-09-07T23:27:00.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Supply Disruption",
+        "categories": [
+          "SUPPLY",
+          "DISRUPTION",
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "구리값 사상 최고⋯美 관세·칠레 공급 차질 영향 네이트",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "공급 차질"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T23:47:06.298Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
       "analyzedAt": null
     },
     {
@@ -4768,7 +4857,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-07T21:32:32.707Z",
-      "updatedAt": "2026-09-07T21:32:32.707Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
       "analyzedAt": null
     },
     {
@@ -5923,8 +6012,8 @@
       "commodity": "COPPER",
       "subCommodity": null,
       "title": "Chile trade surplus narrows in August, raising pressure on the peso and copper-linked markets",
-      "summary": "Chile trade surplus narrows in August, raising pressure on the peso and copper-linked markets VT Markets",
-      "source": "VT Markets",
+      "summary": "Chile trade surplus narrows in August, raising pressure on the peso and copper-linked markets vtmarkets.com",
+      "source": "vtmarkets.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTWdEWVRkRWYtSFpMQ05jSmk2QVhWODJ5MmxQQ1EyVWRXRGJONzlCQkZnYnZrV2xEeTRoVjZsT3N5dWZ0Y0hWWmpfeWhOUEE2Y2wyNnFmem1GanotVVVkVURiNmhPRDZkWG9uVUF4Z3l1UWNaVms3Mm4wYkhFREJMUDJkeTl5aEZGOUd0T09LQnJxUldfZE9NZ1psNzFackdPdUp3ZGo3anMyQjJNRnBGRVh6S1NhTkl6UFRJbmxRb0RDTFFaaENHczVMMnBJN0FPZHRqaA?oc=5",
       "publishedAt": "2026-09-07T18:24:30.000Z",
       "priority": 35,
@@ -5942,7 +6031,7 @@
         "regions": [
           "Chile"
         ],
-        "summary": "Chile trade surplus narrows in August, raising pressure on the peso and copper-linked markets VT Markets",
+        "summary": "Chile trade surplus narrows in August, raising pressure on the peso and copper-linked markets vtmarkets.com",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -5954,7 +6043,47 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-07T21:32:32.707Z",
-      "updatedAt": "2026-09-07T21:32:32.707Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "7d8a75f5d1222733beffd3a1c03adf6dc7fb1eee8d6a7bce210838e0bb5ae01c",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "\"Chile dominates the global supply of copper concentrates, but its smelters are operating at 60% of their capacity\"",
+      "summary": "\"Chile dominates the global supply of copper concentrates, but its smelters are operating at 60% of their capacity\" BNamericas",
+      "source": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObEpNQURwcmR6LWlKUmh2eG1oelZaM3U5VzNoQTBPbTFhRVhKbHZ0OWE1cHFob2xSdFVYRU0yMU1uanRCdzlIdlYzMGN2dDN5Y09leGRuX0JDWmZrTUVGemxwWFdTb2ttWXd6YkVmc21mcjRENHkxamxRM2lRVlk4YWxmY2ExdnduYVItRGQtMnpLMFR5WjFRMTdPdGN3c3BLenpETzR2dElPVm9zcnI0d3NYeVZ0WUlqX1pZYWVIV2hYMTRPQ0I1T29ELUtvcmswMVRHQjNPRmZLVmQxWkZ6STJ3bG0?oc=5",
+      "publishedAt": "2026-09-07T21:56:15.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Capacity",
+        "categories": [
+          "SUPPLY",
+          "SMELTER",
+          "CAPACITY"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "\"Chile dominates the global supply of copper concentrates, but its smelters are operating at 60% of their capacity\" BNamericas",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T23:47:06.298Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
       "analyzedAt": null
     },
     {
@@ -11282,43 +11411,6 @@
       "analyzedAt": null
     },
     {
-      "id": "94f9808dc07684783024899f5700815c0e49df2651b8eece61d01849098c636e",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "구리 가격 사상 최고…톤당 1만4533달러",
-      "summary": "구리 가격 사상 최고…톤당 1만4533달러 블루밍비트",
-      "source": "블루밍비트",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1taUU0VGlBWlRRY2k4S0VhVWl4eS1QQ2M4dUJ0WktYXzNpSUh2Ym0yY3A4a2xBZU11VVpNLW8zTEs5R3R5X1lwb1lNWUpuRXVN?oc=5",
-      "publishedAt": "2026-09-07T16:03:43.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "구리 가격 사상 최고…톤당 1만4533달러 블루밍비트",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T17:55:54.559Z",
-      "updatedAt": "2026-09-07T21:32:32.707Z",
-      "analyzedAt": null
-    },
-    {
       "id": "56e1ad9596f5334d0977877a9acdbd84887569207d6fce313143bf49f354bf68",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -11363,7 +11455,7 @@
       "summary": "구리, 관세 우려에 사상 최고…t당 1만4533달러 아시아경제",
       "source": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0bWhTY0FYNDRxNFJCYzg1MThzVEM4QXoyZFFoRWZVYXNtMEhmNTcxQVd1VGs0Q09RVEtRc21HYWJ5TnBtaXJaWGRvV281UDF5Q1g0SHVmcHlZcEdiZnVJTQ?oc=5",
-      "publishedAt": "2026-09-07T18:16:43.000Z",
+      "publishedAt": "2026-09-07T22:59:29.000Z",
       "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
       "ruleAnalysis": {
@@ -11389,31 +11481,144 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-07T21:32:32.707Z",
-      "updatedAt": "2026-09-07T21:32:32.707Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
       "analyzedAt": null
     },
     {
-      "id": "a2de452330715b067d55907af8b21e40f7705a2045e557fc5608962ac89e57b3",
+      "id": "fb01482f83bad3eaf96d08110943c35b7cc5d65ec1e91d1fe896f430b7430706",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain",
-      "summary": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUZlWUNoM2ExWnJXQmNDaEJQMXE5anRfbTJWNElWSE0wNFNuQkpYdVZOQ2dJY3E4cllweFpHcG01U1BIQ01jNHNvZzR4MFl4ZG5Bcko3VUJFQzVoQWMxOHZsNV9DRkplV0hNS0I5ekJxTUx3eXIwQVo4dXhOM0F0WjJlNG1TcVZNRjJ5SzQyNm1DdXM4bnpoTkh3VFZyVEJVY2pVcw?oc=5",
-      "publishedAt": "2026-09-07T17:00:00.000Z",
+      "title": "구리 가격 사상 최고가…美 관세 리스크·광산 붕괴",
+      "summary": "구리 가격 사상 최고가…美 관세 리스크·광산 붕괴 v.daum.net",
+      "source": "v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VWVVhUVhnWEljbnpYWDVacTh0MjlqaDBwZ2ZVVHZJSTNkdV9kNjdDSjlRRmJ1SEZUUUlKQV82YW5GalZQNHZsOFQ1djcyWkk?oc=5",
+      "publishedAt": "2026-09-07T23:33:04.000Z",
       "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Supply",
+        "category": "Operational Accident",
         "categories": [
-          "SUPPLY"
+          "PRICE",
+          "MINE",
+          "ACCIDENT",
+          "TARIFF"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain Yahoo Finance",
+        "summary": "구리 가격 사상 최고가…美 관세 리스크·광산 붕괴 v.daum.net",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T23:47:06.298Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "d27f68e9448f50f6c43dacf1e813d1c178c1e652ba71e41f4e82a1e9bc8e8cc0",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "구리값 사상 최고…美에 쌓인 재고, 다른 시장엔 공급난",
+      "summary": "구리값 사상 최고…美에 쌓인 재고, 다른 시장엔 공급난 경북매일",
+      "source": "경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16ZGZIR3JhejRfN3VEQUdJd29rblpyRmlzUHJqbTJZaFl0Z01WT194S0F2cVFvMWRnY1VMZ1ptNlNUc1pCZ01lbE1mZTJoZkVuQ2JsUTlvTHhSZw?oc=5",
+      "publishedAt": "2026-09-07T23:31:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "SUPPLY",
+          "INVENTORY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "구리값 사상 최고…美에 쌓인 재고, 다른 시장엔 공급난 경북매일",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T23:47:06.298Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "d73b29044ce7885633b86fbebc4f61320d60cb32883646904cfb43ec1245892a",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "국제 구리값 사상 최고치…美 관세 우려, 조업 차질 겹쳐",
+      "summary": "국제 구리값 사상 최고치…美 관세 우려, 조업 차질 겹쳐 티제이비",
+      "source": "티제이비",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xbVdrSVdrQXFnVHg4Q3NYeTFZemhfWGx5cWpGbl9FN0E4dmdSa3lpcEYtRGtvUW9zMmZ3ZF9fVlRvbElKcVE5M01teGNvNld4NjJJOUFNdkRmQzNB?oc=5",
+      "publishedAt": "2026-09-07T23:21:33.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply Disruption",
+        "categories": [
+          "DISRUPTION",
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "국제 구리값 사상 최고치…美 관세 우려, 조업 차질 겹쳐 티제이비",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T23:47:06.298Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "6bed4b04be04ab15095f0af676552caaa288daf97c7046d75d4393623a16400e",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "구리값 사상 최고치…트럼프 관세 우려에 美로 물량 쏠렸다",
+      "summary": "구리값 사상 최고치…트럼프 관세 우려에 美로 물량 쏠렸다 블록미디어",
+      "source": "블록미디어",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Dd2lfdnprUVk3bWphbDUtOVFxOUlwRGNaZEVPMHdiYUxPa2NKNTJtaGtWdm1NQmtSdnpkTFY1YVFYTzExajhlcDRPaHBXWWJUUTl4ZVFpdWQ?oc=5",
+      "publishedAt": "2026-09-07T22:17:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "구리값 사상 최고치…트럼프 관세 우려에 美로 물량 쏠렸다 블록미디어",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -11424,8 +11629,46 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T21:32:32.707Z",
-      "updatedAt": "2026-09-07T21:32:32.707Z",
+      "queuedAt": "2026-09-07T23:47:06.298Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "b8f4ef0c48c70e56ef0737ef88fa2c42d4fe782bf747465380f4cd552c9750fd",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "구리값 t당 1만4533달러 '사상 최고'…관세·공급 우려 겹쳐",
+      "summary": "구리값 t당 1만4533달러 '사상 최고'…관세·공급 우려 겹쳐 ebn.co.kr",
+      "source": "ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00S25ueHBWM1VsZExVNFd2cFBvN0ZTNTBRU2FmbkNxbVBqUDVUTHVWNkhlR2JkVVhuSzZ0NWFGM3U2ZU1udHFoTmJUWXQtRHJ2bWI4LXptTUZaZlZzcVdCX0tWRVdvSEU5?oc=5",
+      "publishedAt": "2026-09-07T21:45:03.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "SUPPLY",
+          "TARIFF",
+          "FX"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "구리값 t당 1만4533달러 '사상 최고'…관세·공급 우려 겹쳐 ebn.co.kr",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T23:47:06.298Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
       "analyzedAt": null
     },
     {
@@ -12695,8 +12938,8 @@
       "commodity": "COPPER",
       "subCommodity": null,
       "title": "Chile Copper Shipments Sink to One-Year Low Despite Price Rally",
-      "summary": "Chile Copper Shipments Sink to One-Year Low Despite Price Rally bloomberg.com",
-      "source": "bloomberg.com",
+      "summary": "Chile Copper Shipments Sink to One-Year Low Despite Price Rally Bloomberg.com",
+      "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWpHc3BJU2xYbEFobmhabWxBdGM3a01tRDdBQkFYdHJhOU9vdS1Rb3FQS2k5S2kycExUbXVWTjhuNHl4bUlxQTBsdEVYc1RLd1c4MmduZWlVX1B3THlIOWI1VS12UzdjU2dBS1lBOTBjVVFEeEVLWi05WEZiWGhWRllsZWNialpFQzMxWW0ydjNpNDNjUVRpdFNMaHlKZzRYeWRVRVcza0VBYkpGVUozcXRRQTg?oc=5",
       "publishedAt": "2026-09-07T14:14:37.000Z",
       "priority": 31,
@@ -12713,7 +12956,7 @@
         "regions": [
           "Chile"
         ],
-        "summary": "Chile Copper Shipments Sink to One-Year Low Despite Price Rally bloomberg.com",
+        "summary": "Chile Copper Shipments Sink to One-Year Low Despite Price Rally Bloomberg.com",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -12725,7 +12968,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-07T17:55:54.559Z",
-      "updatedAt": "2026-09-07T21:32:32.707Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
       "analyzedAt": null
     },
     {
@@ -13688,7 +13931,80 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-07T12:36:46.511Z",
-      "updatedAt": "2026-09-07T21:32:32.707Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "94f9808dc07684783024899f5700815c0e49df2651b8eece61d01849098c636e",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "구리 가격 사상 최고…톤당 1만4533달러",
+      "summary": "구리 가격 사상 최고…톤당 1만4533달러 블루밍비트",
+      "source": "블루밍비트",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1taUU0VGlBWlRRY2k4S0VhVWl4eS1QQ2M4dUJ0WktYXzNpSUh2Ym0yY3A4a2xBZU11VVpNLW8zTEs5R3R5X1lwb1lNWUpuRXVN?oc=5",
+      "publishedAt": "2026-09-07T16:03:43.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "FX"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "구리 가격 사상 최고…톤당 1만4533달러 블루밍비트",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T17:55:54.559Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "a2de452330715b067d55907af8b21e40f7705a2045e557fc5608962ac89e57b3",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain",
+      "summary": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUZlWUNoM2ExWnJXQmNDaEJQMXE5anRfbTJWNElWSE0wNFNuQkpYdVZOQ2dJY3E4cllweFpHcG01U1BIQ01jNHNvZzR4MFl4ZG5Bcko3VUJFQzVoQWMxOHZsNV9DRkplV0hNS0I5ekJxTUx3eXIwQVo4dXhOM0F0WjJlNG1TcVZNRjJ5SzQyNm1DdXM4bnpoTkh3VFZyVEJVY2pVcw?oc=5",
+      "publishedAt": "2026-09-07T17:00:00.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain Yahoo Finance",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T21:32:32.707Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
       "analyzedAt": null
     },
     {
@@ -13725,7 +14041,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-07T17:55:54.559Z",
-      "updatedAt": "2026-09-07T21:32:32.707Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
       "analyzedAt": null
     },
     {
@@ -13764,7 +14080,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-07T17:55:54.559Z",
-      "updatedAt": "2026-09-07T21:32:32.707Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
       "analyzedAt": null
     },
     {
@@ -13800,7 +14116,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-07T17:55:54.559Z",
-      "updatedAt": "2026-09-07T21:32:32.707Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
       "analyzedAt": null
     },
     {
@@ -13836,7 +14152,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-07T17:55:54.559Z",
-      "updatedAt": "2026-09-07T21:32:32.707Z",
+      "updatedAt": "2026-09-07T23:47:06.298Z",
       "analyzedAt": null
     },
     {
@@ -18251,298 +18567,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-31T15:07:14.091Z",
       "updatedAt": "2026-08-31T15:07:14.091Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "33b6835a87679fbfc7320898e6a902c1571feafcd0ace311f990151c1a5f3d70",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Shanghai copper edges lower as rate fears offset supply support",
-      "summary": "Shanghai copper edges lower as rate fears offset supply support marketscreener.com",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2FtNTFMa2hxX2Nyd2pqQ0hfWl9ycDZpcTFQTVM3Y1plQ0hvczV3cktGcnJyMkNLWWR1WUJvTTRSX0tBWEJFRFc5SkE0R0RMUHBCZ21hTThwdHlieFNrbFltcjBMZ0hpU0dqekQ3YzFLeTBWYjZzbm1iaWg4ejU0cE9pWUE0NHpBUndyay1YNkYxQkhnUTlDZW9XMWRibVIzLUhibzIzdEl5NnEzd05OOC1XZXZHcGs?oc=5",
-      "publishedAt": "2026-08-31T04:07:41.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Shanghai copper edges lower as rate fears offset supply support marketscreener.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-31T15:07:14.091Z",
-      "updatedAt": "2026-08-31T15:07:14.091Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "44eaa5ab0ac53d28368e6c77f3602c7e4520f96628c106c64f9c36b1fbd54849",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "CrossBoundary’s Kamoa Copper solar PV‑BESS: reliability lessons for mine power engineers",
-      "summary": "CrossBoundary’s Kamoa Copper solar PV‑BESS: reliability lessons for mine power engineers Geomechanics.io",
-      "source": "Geomechanics.io",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcFFXM1dNWXBjd1pqemVfRllWdDFEZDFWRHFxWFZILUJ5cGZtREtXQzJfcHE0cExfV0pzZjRBSWRvcjhhT1FwUjN2YVMyWDdOLUNlYTMyUkcybzR2YnZ4YmJBcFNtcE1JaHEtMWtoTHlMVTh4bVQ4cm5qZjM0UUN5TjI3WGlYZ09RTGFZdlc0aGpqc084QVp5cW9tdGpVS2FDMkYxLVVYcFpiWFBEOEJxUm54NEJKNjlReDI5RFRhU2w1eUxO?oc=5",
-      "publishedAt": "2026-08-31T12:37:37.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "ENERGY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "CrossBoundary’s Kamoa Copper solar PV‑BESS: reliability lessons for mine power engineers Geomechanics.io",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-31T20:51:06.458Z",
-      "updatedAt": "2026-08-31T20:51:06.458Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "3577fea023789824bc5f495cd055ce0c894b6fac67c7c5a06c3e49eac1f12b9c",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "미국과 캐나다 간 무역 전쟁이 철강 및 구리에 대한 새로운 관세 부과로 격화되고 있다.",
-      "summary": "미국과 캐나다 간 무역 전쟁이 철강 및 구리에 대한 새로운 관세 부과로 격화되고 있다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnFKb01vUmpuNTNBZmJXMVVwLW5XZEF6TG1raVVlaDhsNnFZUTNmaEhtSU45aXdaWHFrVk8tNTJHUTNqWXdDRXdUbEhkNjR0aXVhRWV6WEl6dTQ2bGxGckVVZW5zSVdYUWhhTEJCOVplbzVHSXBiaEZzRjJBMmtlZnRTeHBuejh5RWVFaTBRdFJjam8yQWR5OEJLM2hueU1QdmVSWGxB?oc=5",
-      "publishedAt": "2026-08-31T11:47:43.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "TRADE",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "미국과 캐나다 간 무역 전쟁이 철강 및 구리에 대한 새로운 관세 부과로 격화되고 있다. Vietnam.vn",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-31T20:51:06.458Z",
-      "updatedAt": "2026-08-31T20:51:06.458Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "d9ee6c2cf8adc9dfd98b9117595c5565aed2fe0e98bcb79cbbb1c6cd4dad2835",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Lucie Davis Transforms Retail Price Labels into Unique Copper and Enamel Art Pins",
-      "summary": "Lucie Davis Transforms Retail Price Labels into Unique Copper and Enamel Art Pins freeyork",
-      "source": "freeyork",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPMGNCRFRBUFZvNjlXbV8wOUZWZzhfdkZMVHIyNXNaaE8wVzExcWZ4WXVIN25vQllFWjgwVU1kQnVmbm1rZm9JRXkwU1dFZDR1cjQwUWJlRGhBU1dUMVBVWVRXdmxHdXIySVpLaGktSk1iUQ?oc=5",
-      "publishedAt": "2026-08-31T09:27:25.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Lucie Davis Transforms Retail Price Labels into Unique Copper and Enamel Art Pins freeyork",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-31T20:51:06.458Z",
-      "updatedAt": "2026-08-31T20:51:06.458Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "aed9549b3b8278ba65f7c4b802750f706e86d775e4e55806236c7b90f641f29a",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Aluminium European Premium Duty Paid Metal Bulletin Futures Sep '26 Futures Price History",
-      "summary": "Aluminium European Premium Duty Paid Metal Bulletin Futures Sep '26 Futures Price History Barchart.com",
-      "source": "Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52TV84Mmd2eWRHWUhja1BCZllIVWtBXzd0X3luUW9xLUo3MjhwYXU3VV84Yk1walIxSkoyYWlwenBka25PamtiR3Y4SG1fMEZBbHNVMDI2eWNYb1V2eGlsZGJRTGlYeC1Ec2I4X2ctaXI1XzIzQ3lkRVF4OW13RWs?oc=5",
-      "publishedAt": "2026-09-01T08:00:52.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "PRICE",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aluminium European Premium Duty Paid Metal Bulletin Futures Sep '26 Futures Price History Barchart.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-01T15:12:25.095Z",
-      "updatedAt": "2026-09-01T15:12:25.095Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "a7dfdb637205514324bcd35c909dcf85d25056522975b4f4cd958f18328964d7",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Stifel sees more to come at ACG's Turkish mine beyond first copper",
-      "summary": "Stifel sees more to come at ACG's Turkish mine beyond first copper Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOC1FZjlkcmZtRGZ4OGlwMFBYWUhzSUU2aXBCX3lKazU4eHJpNlMtWkdlUDh3b0drV2gxUHRDUFNPeVdVc3BVaktCTUQ2dmxkeVdYS0o0Qzhzc3FlZ0I0OUdHb1c0Q0VkSHVnNHdpcjlsdDZxMFh0MVVBUjJLVjhobg?oc=5",
-      "publishedAt": "2026-09-01T10:54:00.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Stifel sees more to come at ACG's Turkish mine beyond first copper Yahoo Finance UK",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-01T18:33:11.351Z",
-      "updatedAt": "2026-09-01T21:22:09.769Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "8a58eb56096f03df4dcb5af33181ea6ea401ad6a9e002e99fdf5f866ad8428f0",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Stifel sees more to come at ACG's Turkish mine beyond first copper",
-      "summary": "Stifel sees more to come at ACG's Turkish mine beyond first copper Proactive financial news",
-      "source": "Proactive financial news",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQTEwbmFfMXVKekdhbEVPQURCc0xUNl9XQjFqVVNuWlhJNjVTZW1hTDdRTFNXeC1jYjQ2cUFjQTh0SlhZWU1MejBYc1ZCQXJXUXNEV19PbVBKb0Vadm10b0RrNkFGYUVuNTB0dkRlbjdsMC0xYVpiRDNyR2pkdU1JMlRtX2I1SVRXVHVVSG1iVnBOc3QyTjZCNzZNNHZSdTRrX09tX1dyUlhBQjlhMGRfS3FiS3Nyb0QwWW1yRUpwekhZQ0ludllTOTRSaGcyZl9nb1Ew?oc=5",
-      "publishedAt": "2026-09-01T10:58:20.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Stifel sees more to come at ACG's Turkish mine beyond first copper Proactive financial news",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-01T23:34:25.237Z",
-      "updatedAt": "2026-09-02T01:25:58.900Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "3bcb96c0f3ee97b4d0fb2702493a4dd5ab96d6db499a25a5ce7d0a3bd353c9de",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "PECOY COPPER (PCUUF) Stock Price, News & Analysis",
-      "summary": "PECOY COPPER (PCUUF) Stock Price, News & Analysis Stock Titan",
-      "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DYkVJSVh3eVhyLVdqYXhHUWQ2S0xERU9LZ3otZzZDaV9tangtRm5wOUVVOHpGNHJxTFNwTEtDazFrblh5eW5zT3dvUjdQWVpYT1Rnbg?oc=5",
-      "publishedAt": "2026-09-01T10:30:00.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "PECOY COPPER (PCUUF) Stock Price, News & Analysis Stock Titan",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-01T23:34:25.237Z",
-      "updatedAt": "2026-09-01T23:34:25.237Z",
       "analyzedAt": null
     }
   ]
