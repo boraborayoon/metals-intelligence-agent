@@ -1,6 +1,455 @@
 {
-  "generatedAt": "2026-09-06T22:54:18.998Z",
+  "generatedAt": "2026-09-07T01:02:26.962Z",
   "items": [
+    {
+      "id": "a7f6d1bbd35dfca12533511a38e69b10cd178ba3b93e911327ac73c451237943",
+      "titleSourceHash": "aaa9f7bf328961d21d94bce559005ca2705ccebd3dfed101c37110fdb26ab6b2",
+      "eventId": "878a7ce49394bcec67640e20cab279747226bae38b408b05e5ac747bf38993e9",
+      "title": "[원자재] 미국 7월 구리 수입, 22만5000톤... 36년 만의 최대",
+      "normalizedTitle": "원자재 미국 7월 구리 수입 22만5000톤 36년 만의 최대",
+      "description": "[원자재] 미국 7월 구리 수입, 22만5000톤... 36년 만의 최대 버핏연구소",
+      "source": "버핏연구소",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-09-07T00:45:18.000Z",
+      "fetchedAt": "2026-09-07T01:02:26.962Z",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JcGg4UHNRaXRNSDlqcVh3NkNrMU1hMEo3bWUyM0lHcUdmYXVEV05xMGhJUEt2VjdOX3VtQXljZ1I1WDVrRkZndmdPeUlWZG1tWmhrTkNTSi1IRVBiYWVKVGln?oc=5",
+      "language": "ko",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "구리"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "수입"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "구리"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "수입"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "IMPORT"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "[원자재] 미국 7월 구리 수입, 22만5000톤... 36년 만의 최대",
+      "summaryKo": "[원자재] 미국 7월 구리 수입, 22만5000톤... 36년 만의 최대 버핏연구소",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "IMPORT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[원자재] 미국 7월 구리 수입, 22만5000톤... 36년 만의 최대 버핏연구소",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "IMPORT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[원자재] 미국 7월 구리 수입, 22만5000톤... 36년 만의 최대 버핏연구소",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-07T01:02:26.962Z"
+    },
+    {
+      "id": "086e3fe3b57a79299503e341e7c2d018888f1f49dd472eeb75d752eb05eb3638",
+      "titleSourceHash": "c3bf130acae2ff5954264ca332761000d26f80a9b23d64bff3871912ffe11e03",
+      "eventId": "2a63f1d81aad67d85299d0557d823729f763fa5ea714cb67b4af728377f6a4e2",
+      "title": "[EBN 데이터센터] 비철금속 가격 혼조…아연·구리 오르고 주석은 하락",
+      "normalizedTitle": "ebn 데이터센터 비철금속 가격 혼조 아연·구리 오르고 주석은 하락",
+      "description": "[EBN 데이터센터] 비철금속 가격 혼조…아연·구리 오르고 주석은 하락 네이트",
+      "source": "네이트",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-09-07T00:16:00.000Z",
+      "fetchedAt": "2026-09-07T01:02:26.962Z",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RZXJqbEpBdUgzT2taRHpPZ1BZYUxlNzVkaEpjcVJzOGJlX3V1T0FXcGpQX0hlNlpZcmxWNGlvR0hQMjlsN2prMG9xZHFpNjFBRHdN?oc=5",
+      "language": "ko",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "구리"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "가격"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "구리"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "가격"
+          ],
+          "exclusionReason": null
+        },
+        {
+          "commodity": "TIN",
+          "score": 9,
+          "matchedKeywords": [
+            "주석"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "가격"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "[EBN 데이터센터] 비철금속 가격 혼조…아연·구리 오르고 주석은 하락",
+      "summaryKo": "[EBN 데이터센터] 비철금속 가격 혼조…아연·구리 오르고 주석은 하락 네이트",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[EBN 데이터센터] 비철금속 가격 혼조…아연·구리 오르고 주석은 하락 네이트",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[EBN 데이터센터] 비철금속 가격 혼조…아연·구리 오르고 주석은 하락 네이트",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-07T01:02:26.962Z"
+    },
+    {
+      "id": "456d453471864de08845f6258d16562c5749f57967ca1209f7f351ace471f1f8",
+      "titleSourceHash": "1525e641a023c59238aadf723f97d3a80f902eafa1d535a84012cee2dd3aca72",
+      "eventId": "b8c545f04e0a37db8dd9bf013930d38060cc8d150fd4034834a0ed9c46650eaa",
+      "title": "Worley Says BHP Awards Co Contracts For Copper South Australia Projects",
+      "normalizedTitle": "worley says bhp awards co contracts for copper south australia projects",
+      "description": "Worley Says BHP Awards Co Contracts For Copper South Australia Projects TradingView",
+      "source": "TradingView",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-06T23:35:05.000Z",
+      "fetchedAt": "2026-09-07T01:02:26.962Z",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaldtQU9zeUxmUkdFX2JWa0xaOUJTT3h6SE5YNmJrZnBMWnBIb0VXU1ZndXNvTlhCYmhobUdUekR4NDgtSTFLVHFrbkNROGdISkVpZWp4eE5mWUFwWXlGdUVGaDY5V0JKNnNyaF9KZEU2TmFyQUd1T0tfTFBuU3ZpUlBxaG5xS2hPZzFaR3k2UXJFb1N1Qng0YnZQWUFURGNiTFN2aHVoYmhieG8zQlpkWV9MTGd2WUhzU1QzS2dCYVgwcE1ySm9xbXdrNm15ZF9WTEExNFI0eVc?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [
+        "BHP"
+      ],
+      "matchedRegions": [],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [
+            "BHP"
+          ],
+          "matchedRegions": [],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PROJECT"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Worley Says BHP Awards Co Contracts For Copper South Australia Projects",
+      "summaryKo": "Worley Says BHP Awards Co Contracts For Copper South Australia Projects TradingView",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [
+        "BHP"
+      ],
+      "timeHorizon": "MEDIUM_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Worley Says BHP Awards Co Contracts For Copper South Australia Projects TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Worley Says BHP Awards Co Contracts For Copper South Australia Projects TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-07T01:02:26.962Z"
+    },
+    {
+      "id": "d2649f3160fc56b340200036617a1bb8a8aaba646403704fdfc6553a5542bdbc",
+      "titleSourceHash": "fdcafae6ab7c69ca0a457d6aa96477d19be8330e24adb470b8705e4a375e5fef",
+      "eventId": "aefc1419392eaa761c14e834ea56d975f286d635dae3c7f92403bdad79a387c7",
+      "title": "Race Result | 06 Sep 2026 | Sha Tin | Race 1 GLENEALY HANDICAP | HK Racing",
+      "normalizedTitle": "race result 06 sep 2026 sha tin race 1 glenealy handicap hk racing",
+      "description": "Race Result | 06 Sep 2026 | Sha Tin | Race 1 GLENEALY HANDICAP | HK Racing South China Morning Post",
+      "source": "South China Morning Post",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-06T23:26:24.000Z",
+      "fetchedAt": "2026-09-07T01:02:26.962Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBudVVZeHBSQjZZOG8wR3YzY2xqa0J2V0FuZmRMUzhIdkdma3ZMUUZLSlp3Wk5sdXVtVzhxbzQ1d0dZbV90Vm9JM0gzM1hESi1QM2xLanl3V1N4bjZvcmVLcGdkZDk1MFU?oc=5",
+      "language": "en",
+      "commodity": "TIN",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "tin"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "China"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "TIN",
+          "score": 8,
+          "matchedKeywords": [
+            "tin"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "China"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "CHINA"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Race Result | 06 Sep 2026 | Sha Tin | Race 1 GLENEALY HANDICAP | HK Racing",
+      "summaryKo": "Race Result | 06 Sep 2026 | Sha Tin | Race 1 GLENEALY HANDICAP | HK Racing South China Morning Post",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "China"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Race Result | 06 Sep 2026 | Sha Tin | Race 1 GLENEALY HANDICAP | HK Racing South China Morning Post",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Race Result | 06 Sep 2026 | Sha Tin | Race 1 GLENEALY HANDICAP | HK Racing South China Morning Post",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 18,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
     {
       "id": "ad8b5574b6105639620485cd9dc1edef28c3415c7138834c8a07d121b198a709",
       "titleSourceHash": "30cae248234dda9fc320bd43e37283a61c4c97a66185bdcfabb271734e3fd94b",
@@ -130,7 +579,7 @@
       "source": "simplywall.st",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-06T20:22:04.000Z",
-      "fetchedAt": "2026-09-06T22:54:18.998Z",
+      "fetchedAt": "2026-09-07T01:02:26.962Z",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU1NwNU40ZzdqWkU0ZTJJNGs3bUY5Wm9wcjFFdTRuODJwYlJXV0xoOHdzbFZTMzdoc1ZOM3F5ZnE1VWx4X0JHdVFYTkRPU2xUaWI4RWtzcVFwQjRVQ3ZveUM5Q3ktOEo3djIzY3ZEREx4SDZObXoxeGxjQTBHa1ZyOV9qb3NKeUYzTjhXZFQwU0JIcU9jUk5NWWJZRUFqdEZubUV1c3AyUW93QkhNVkVyM0F4RGJoNUZ4cWpORjhveGxSR0JkZ1V2aFZNcTJwLXMyQUHSAdcBQVVfeXFMTXFQSnBjWTV5dU1JcS1EeE5wVXR6d2hFcGJUMGhJNzNRcXdpanQtXzRFSGRZODlYZjhsU3BCRnZrbHRzX3NFRExRYUdvVnpxS0hpeWpBTzVXOEhDVFp3dnFKd0psZi1RVjdSSUU4NnlNOEcwWUlSS0dQVTRvQXBvMldwb2dEMEhDWEt1MVBhYlc1Tzd6X29pal92c2oxSWFpQXQ0QmpXLURJSUxneDB5MjdOQVFWTGlkODlLR2lfOWdNUU9hVmkyUDF0YkU2RHozaUxfLUJUYk0?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -332,119 +781,6 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-09-06T20:51:23.639Z"
-    },
-    {
-      "id": "d2649f3160fc56b340200036617a1bb8a8aaba646403704fdfc6553a5542bdbc",
-      "titleSourceHash": "fdcafae6ab7c69ca0a457d6aa96477d19be8330e24adb470b8705e4a375e5fef",
-      "eventId": "aefc1419392eaa761c14e834ea56d975f286d635dae3c7f92403bdad79a387c7",
-      "title": "Race Result | 06 Sep 2026 | Sha Tin | Race 1 GLENEALY HANDICAP | HK Racing",
-      "normalizedTitle": "race result 06 sep 2026 sha tin race 1 glenealy handicap hk racing",
-      "description": "Race Result | 06 Sep 2026 | Sha Tin | Race 1 GLENEALY HANDICAP | HK Racing South China Morning Post",
-      "source": "South China Morning Post",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-06T18:53:01.000Z",
-      "fetchedAt": "2026-09-06T22:54:18.998Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBudVVZeHBSQjZZOG8wR3YzY2xqa0J2V0FuZmRMUzhIdkdma3ZMUUZLSlp3Wk5sdXVtVzhxbzQ1d0dZbV90Vm9JM0gzM1hESi1QM2xLanl3V1N4bjZvcmVLcGdkZDk1MFU?oc=5",
-      "language": "en",
-      "commodity": "TIN",
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "tin"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "TIN",
-          "score": 8,
-          "matchedKeywords": [
-            "tin"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "CHINA"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Race Result | 06 Sep 2026 | Sha Tin | Race 1 GLENEALY HANDICAP | HK Racing",
-      "summaryKo": "Race Result | 06 Sep 2026 | Sha Tin | Race 1 GLENEALY HANDICAP | HK Racing South China Morning Post",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Race Result | 06 Sep 2026 | Sha Tin | Race 1 GLENEALY HANDICAP | HK Racing South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Race Result | 06 Sep 2026 | Sha Tin | Race 1 GLENEALY HANDICAP | HK Racing South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 18,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
     },
     {
       "id": "3d4fd59c279c97de4d8a433225fc4b8da3e717e85c77c35e7df772a12faaf706",
@@ -668,7 +1004,7 @@
       "source": "이뉴스투데이",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-09-06T12:44:27.000Z",
-      "fetchedAt": "2026-09-06T22:54:18.998Z",
+      "fetchedAt": "2026-09-07T01:02:26.962Z",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKdDVFZjJCMkhDSFlkOHJGXzlnSmpsQTZYcXZZdzRLdjgzQlcwSkNBYmZhTTFQYV9FQmlSQUIwZGxVTUZHeEpPeWNpcGlGZl9RZUpCbG1yaE9tM0NUN1dxRWJoOWxmUmNRcDNmbHJvTlDSAXRBVV95cUxPRFhSQ3VpakVaZW4zdk44TG1wZkpWbDdGWHVTOTZfY0pXT2NKOTM0eEtEekhCV1lXRHJYbzRxYkR3YlkxSnByd0V2anUwdm9FeTlHcXNnVnlLeER0OGkzWGVwVUZmR0RldkV1NmhnTGNySWFydQ?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -880,7 +1216,7 @@
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-06T10:44:10.000Z",
-      "fetchedAt": "2026-09-06T22:54:18.998Z",
+      "fetchedAt": "2026-09-07T01:02:26.962Z",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWXBHQkVvZ0tqcHZNYzRrR1Y1VkY5dkZVSnZMcjRIZjYyNjZUVk9TdTRCNmh3TGM5RXBvTk9QcnBvcTlSVHE0WVNWVG5jRjNKSmNmaDhWMDBNUEtfdzJfczVnWUJiNFpzaVFJTXpPU1lfcHdUN1c1TnJOdmx5SDJ3bUZIa1Z0Y1RUZGN5UGJPR3ZmSWRmQzZ3SXZ0dm9GQlNJelFFOVdzWmdZcndhb1hpd3FkTkJqeEZScFg0RV9wcXQ1a0dXR3VmQmJUU2pId9IBzgFBVV95cUxOWXBHQkVvZ0tqcHZNYzRrR1Y1VkY5dkZVSnZMcjRIZjYyNjZUVk9TdTRCNmh3TGM5RXBvTk9QcnBvcTlSVHE0WVNWVG5jRjNKSmNmaDhWMDBNUEtfdzJfczVnWUJiNFpzaVFJTXpPU1lfcHdUN1c1TnJOdmx5SDJ3bUZIa1Z0Y1RUZGN5UGJPR3ZmSWRmQzZ3SXZ0dm9GQlNJelFFOVdzWmdZcndhb1hpd3FkTkJqeEZScFg0RV9wcXQ1a0dXR3VmQmJUU2pIdw?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -993,7 +1329,7 @@
       "source": "vietnam.vn",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-09-06T10:25:51.000Z",
-      "fetchedAt": "2026-09-06T22:54:18.998Z",
+      "fetchedAt": "2026-09-07T01:02:26.962Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wcXVwTVFRN1RFZDA0MnhVaXhuYmV4NHg2UDRjMFUtbngtOG0wd08ycmlnSEFheG41TUE5dm9YOU0xLXFZdi1MMXRrT0k1SWpnc2dVdnMzWDMxSEhUU3BZZTR0cEZsRUk3?oc=5",
       "language": "ko",
       "commodity": "TIN",
@@ -1730,6 +2066,116 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-09-06T04:44:42.691Z"
+    },
+    {
+      "id": "aaf32831c435c9cdf6465c666309fc5af116aa43c17d9a178696d5e1b671a407",
+      "titleSourceHash": "c17819dd7c1ffc1206e9005d0eb77630d07a9a7e0017de810ab916e82426cfe5",
+      "eventId": "38a15e3f162202d6f275e73bcc15c8b4daa01284ccf02ab855cd54f87b9caa54",
+      "title": "[SMM 알루미늄 합금 속보] 이번 주 중국 주조 알루미늄 합금 잉곳 사회적 재고는 2만 5,500톤으로 전주 대비 1,500",
+      "normalizedTitle": "smm 알루미늄 합금 속보 이번 주 중국 주조 알루미늄 합금 잉곳 사회적 재고는 2만 5 500톤으로 전주 대비 1 500",
+      "description": "[SMM 알루미늄 합금 속보] 이번 주 중국 주조 알루미늄 합금 잉곳 사회적 재고는 2만 5,500톤으로 전주 대비 1,500 SMM Metal",
+      "source": "SMM Metal",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-09-05T20:17:07.000Z",
+      "fetchedAt": "2026-09-07T01:02:26.962Z",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQ0ZVVkpjR0tjTGlrUTdZZGRmY29HUXg0TVVvNHp1Mm4zNVhGYXY2MXRHWm1oVU11M1VjUk90VEQ0NV80TEZwLWVLV2trbVp6WkdmVkRjaEprdk1rS2pfWlFuNG1VZjFyVTg5dTVyRXd2b1NpVEh4ZUt3dFBqYVBmRUxQSWZsLWd3YWF1ckVtSGJOaFJPVjQ5dExfb21FT1pQaDBQLThxbW9DaElyaXh0OE5qVndVUWtwRFo1UDNvcnlTeGQ4emU5U3hldnJ4SUhpTkxaMWRuRVRrU01LSkptNVRkbUE4bkRYQnVFTmRtRlRQUGZKYXdPdXB6RXJFRUhOR28xMGFvemxDV081eENGWE5vbExsX2c?oc=5",
+      "language": "ko",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "알루미늄"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "재고"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 11,
+          "matchedKeywords": [
+            "알루미늄"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "재고"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "INVENTORY",
+        "CHINA"
+      ],
+      "primaryCategory": "Inventory",
+      "titleKo": "[SMM 알루미늄 합금 속보] 이번 주 중국 주조 알루미늄 합금 잉곳 사회적 재고는 2만 5,500톤으로 전주 대비 1,500",
+      "summaryKo": "[SMM 알루미늄 합금 속보] 이번 주 중국 주조 알루미늄 합금 잉곳 사회적 재고는 2만 5,500톤으로 전주 대비 1,500 SMM Metal",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "INVENTORY",
+          "CHINA"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[SMM 알루미늄 합금 속보] 이번 주 중국 주조 알루미늄 합금 잉곳 사회적 재고는 2만 5,500톤으로 전주 대비 1,500 SMM Metal",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "INVENTORY",
+          "CHINA"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[SMM 알루미늄 합금 속보] 이번 주 중국 주조 알루미늄 합금 잉곳 사회적 재고는 2만 5,500톤으로 전주 대비 1,500 SMM Metal",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 28,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": true,
+      "sentAt": "2026-09-07T01:02:26.962Z"
     },
     {
       "id": "2c38dfa7dcacdbe1e83e6e29e6f51fb982f29bf9279fcb4671ef26096fa58aee",
@@ -3210,7 +3656,7 @@
       "source": "Resolution Copper mine",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-05T02:10:20.000Z",
-      "fetchedAt": "2026-09-06T22:54:18.998Z",
+      "fetchedAt": "2026-09-07T01:02:26.962Z",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQU1Gd0RVMG5WLWpKT0pBRE53ZUpibDBCM3pYNm8tdDVpeXgwclU3UzliMVhFM3ZSU2I3YjRFUjRtc09EWlVGNEp6XzVqM1RaNnpybUxrdWFtejVwUTB4dTlpUzh0NUhkZWRLd293SkhlQllYSi1Sa29NempDbGRJUWxFN2VKRWJCNE4xTmJCMF9rSU9Na3pF?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -32955,432 +33401,6 @@
         "urgent": false
       },
       "priority": 32,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "13da9424957559ccced42ae5a2f2e2f7952d4c5e8946debcf5a7a538fa8d5385",
-      "titleSourceHash": "bc405c3f1509274be4d0176d15f4b2ce45587d342701d94c589b6e4849ed5e2e",
-      "eventId": "64a51bca16221b2bda8cf0cfb53c9a06661d21687da6c8171290ede3d7f15599",
-      "title": "Capstone Copper Completes Acquisition of San Pietro Copper Concessions, Consolidating the Mantoverde-Santo Domingo Copper District",
-      "normalizedTitle": "capstone copper completes acquisition of san pietro copper concessions consolidating the mantoverde-santo domingo copper district",
-      "description": "Capstone Copper Completes Acquisition of San Pietro Copper Concessions, Consolidating the Mantoverde-Santo Domingo Copper District Business Wire",
-      "source": "Business Wire",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-08-31T10:00:00.000Z",
-      "fetchedAt": "2026-09-01T05:42:08.110Z",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOV3JOd2F6VTQwcDVrZzNPTmZDdjJmOHk5MHNlXzVXWWxRTEo2RGpPN3FiZEdsUk9qVllKVmpsWGNYa1MxdnIxWEh1OHpxcFZTeHBralVES1p0MFRMclRrTmdKc21sVjhBdExkOW9OT29qOW9yS1c0aVRDOTZjOERkWm9QYUxPRDM3aEI0N2RZSVViSXFHY3pzWDdpcllTQmZOZW9NUFM1emhaVG15OU5Ja2VQenQ3ejVUOUNnazVGZHVFdzZoNW5NQVNsZkQ5WVVtQ2EzenNCeGxyTnhOQ29aR2RTSFdQT25MSGFIVVotWGFiNWcwZGtwRjV4R3hZZVhkRGRKaXo5UGUyR1hvTkRvSW91aVc?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 7,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "M&A"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Capstone Copper Completes Acquisition of San Pietro Copper Concessions, Consolidating the Mantoverde-Santo Domingo Copper District",
-      "summaryKo": "Capstone Copper Completes Acquisition of San Pietro Copper Concessions, Consolidating the Mantoverde-Santo Domingo Copper District Business Wire",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "M&A"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Capstone Copper Completes Acquisition of San Pietro Copper Concessions, Consolidating the Mantoverde-Santo Domingo Copper District Business Wire",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "M&A"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Capstone Copper Completes Acquisition of San Pietro Copper Concessions, Consolidating the Mantoverde-Santo Domingo Copper District Business Wire",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 28,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "d9ee6c2cf8adc9dfd98b9117595c5565aed2fe0e98bcb79cbbb1c6cd4dad2835",
-      "titleSourceHash": "fefb1ec6b6bc4a9d5b2fba36c370f4c80d8bf3c3b0f8f69475060de24ccbd131",
-      "eventId": "989daef15782896ca2928adcad5c016cde40406a92410a306ffc8546eaf09494",
-      "title": "Lucie Davis Transforms Retail Price Labels into Unique Copper and Enamel Art Pins",
-      "normalizedTitle": "lucie davis transforms retail price labels into unique copper and enamel art pins",
-      "description": "Lucie Davis Transforms Retail Price Labels into Unique Copper and Enamel Art Pins freeyork",
-      "source": "freeyork",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-08-31T09:27:25.000Z",
-      "fetchedAt": "2026-08-31T20:51:06.458Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPMGNCRFRBUFZvNjlXbV8wOUZWZzhfdkZMVHIyNXNaaE8wVzExcWZ4WXVIN25vQllFWjgwVU1kQnVmbm1rZm9JRXkwU1dFZDR1cjQwUWJlRGhBU1dUMVBVWVRXdmxHdXIySVpLaGktSk1iUQ?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "price"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "price"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Lucie Davis Transforms Retail Price Labels into Unique Copper and Enamel Art Pins",
-      "summaryKo": "Lucie Davis Transforms Retail Price Labels into Unique Copper and Enamel Art Pins freeyork",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Lucie Davis Transforms Retail Price Labels into Unique Copper and Enamel Art Pins freeyork",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Lucie Davis Transforms Retail Price Labels into Unique Copper and Enamel Art Pins freeyork",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "c8384cb16c9851a6dc4afd1e6faadf7c86dc5968d242529afa1791f34612dc96",
-      "titleSourceHash": "8e4586bd701741cc489db87f447a91039c3cf7ad94ebcdceefd261a7d67b14c5",
-      "eventId": "afed5957bb179c4e88278bf950737c70f2d4fe2526c07c242a103ad53f751712",
-      "title": "Copper Price Forecast: Is $7.50 the Next Target Despite Fed Risks?",
-      "normalizedTitle": "copper price forecast is $7 50 the next target despite fed risks",
-      "description": "Copper Price Forecast: Is $7.50 the Next Target Despite Fed Risks? FXEmpire",
-      "source": "FXEmpire",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-08-31T09:05:00.000Z",
-      "fetchedAt": "2026-08-31T20:51:06.458Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN1FrQ2had3QzLXlUaXJLZWhhQjF1Xzk0NDRqRm8tbDdlMHpYNXV4N3RiamQ2UDIzTjdqeXh0dEZYOURnWG5ITGVLRXZNNHNWRGZZR3FDYnpIbVc3ZHB6U05mVjZUek0xSHRxWDJaVExaMFNYQkU2Y0MzSE4xYVJiTTlvVVR4WUZBSFJFdE1nQjc4N25kYU1yRDhjRUEwbnJQbGRZUlhUOE05blcwLTNNTkFzQkRBVmN6enhiakl1Zw?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 13,
-      "matchedKeywords": [
-        "copper",
-        "copper price"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "price"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 13,
-          "matchedKeywords": [
-            "copper",
-            "copper price"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "price"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Copper Price Forecast: Is $7.50 the Next Target Despite Fed Risks?",
-      "summaryKo": "Copper Price Forecast: Is $7.50 the Next Target Despite Fed Risks? FXEmpire",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Price Forecast: Is $7.50 the Next Target Despite Fed Risks? FXEmpire",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Price Forecast: Is $7.50 the Next Target Despite Fed Risks? FXEmpire",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 34,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "39a1f51f1569b5df00990eef1d25a67da0bd2dadee6805c8c2b25e734994b60e",
-      "titleSourceHash": "d8289a9f20ec174e5587fa3d6ccaa61d8e6fc7fe6ff9aa386a8bf6fba284140e",
-      "eventId": "50c20c45afb1eacae9317e203277464c315eca71f613c0aacf7da6d09ac8d47a",
-      "title": "생산 줄었는데 매출은 뛰었다…구리값 오른 LS전선 나동선의 반전",
-      "normalizedTitle": "생산 줄었는데 매출은 뛰었다 구리값 오른 ls전선 나동선의 반전",
-      "description": "생산 줄었는데 매출은 뛰었다…구리값 오른 LS전선 나동선의 반전 스트레이트뉴스",
-      "source": "스트레이트뉴스",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-08-31T09:01:53.000Z",
-      "fetchedAt": "2026-09-02T01:25:58.900Z",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVZld5SGZINFY5T1NsUGlZTXhfLWpwcFkxYloxcUYzSHZ1WWlhcmJHc2xFamhxQ0NtLVlGaEJFaVZHczNGeVJPTUx0Z2RZNmlTRkZIYVY1dkRVNkJnT2lhQVBLVWpYWlh5R09CNW43LVVuWW90aWpj0gF3QVVfeXFMUFVmV3lIZkg0VjlPU2xQaVlNeF8tanBwWTFiWjFxRjNIdnVZaWFyYkdzbEVqaHFDQ20tWUZoQkVpVkdzM0Z5Uk9NTHRnZFk2aVNGRkhhVjV2RFU2QmdPaWFBUEtValhaWHlHT0I1bjctVW5Zb3RpamM?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "생산"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "생산"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRODUCTION"
-      ],
-      "primaryCategory": "Production",
-      "titleKo": "생산 줄었는데 매출은 뛰었다…구리값 오른 LS전선 나동선의 반전",
-      "summaryKo": "생산 줄었는데 매출은 뛰었다…구리값 오른 LS전선 나동선의 반전 스트레이트뉴스",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "생산 줄었는데 매출은 뛰었다…구리값 오른 LS전선 나동선의 반전 스트레이트뉴스",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "생산 줄었는데 매출은 뛰었다…구리값 오른 LS전선 나동선의 반전 스트레이트뉴스",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 26,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear",
       "sent": false,
