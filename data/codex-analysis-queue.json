@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T01:02:26.962Z",
+  "generatedAt": "2026-09-07T06:08:15.787Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -130,6 +130,46 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-02T15:21:12.399Z",
       "updatedAt": "2026-09-02T15:21:12.399Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f83f4bc0eed2c7941b0e10d45bd57f16c9915a2b999ba1adcd5a15e66a3122b1",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "EU, 알루미늄 폐기물 OECD 비회원국 수출 전면 금지 추진...알루미늄 스크랩 가격 상승 불가피",
+      "summary": "EU, 알루미늄 폐기물 OECD 비회원국 수출 전면 금지 추진...알루미늄 스크랩 가격 상승 불가피 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd1hsLS1sRUtGT0ROVnhRWHBtQkxQTmVPOEVuWHhqa1lQZzVycFQwYjZady1YdEQ2U1RmTXBaUFlzclhJNE9qc1dQdVRnRDQzNV9qSFhCS2RlSDdqRHo5Mm5PbXhuUDZRMUp2aTJZMy1WZVJaclRyR2h6NDU5UjE5NTRJRmVIUWpT?oc=5",
+      "publishedAt": "2026-09-07T05:39:06.000Z",
+      "priority": 59,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Regulation",
+        "categories": [
+          "PRICE",
+          "EXPORT",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "EU, 알루미늄 폐기물 OECD 비회원국 수출 전면 금지 추진...알루미늄 스크랩 가격 상승 불가피 글로벌이코노믹",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Export Restriction"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T06:08:15.787Z",
+      "updatedAt": "2026-09-07T06:08:15.787Z",
       "analyzedAt": null
     },
     {
@@ -2270,6 +2310,44 @@
       "analyzedAt": null
     },
     {
+      "id": "3a56f9202ee5033d185220a7f54d15f0041bafc4b0cb4ea999e64ea05441daba",
+      "commodity": "MOLYBDENUM",
+      "subCommodity": null,
+      "title": "Chile's Caserones copper-molybdenum mine was previously affected by ex",
+      "summary": "Chile's Caserones copper-molybdenum mine was previously affected by ex news.metal.com",
+      "source": "news.metal.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ0NrOTFJdVh6VGxJelFYYkgtZ0NpYUtQZ3dZYU55a2wtWWZxaWdsUGE4SHMzeVpGOGpUSXRsLVVFUmJMM192dFdqRnVUZEdNN3BsUG43Q2hFbURybjVIS3FaQ3g3M1M1M0ZuWlMzVHZqUi11bzAyelA5b2hzZ3VRY0s1dGRfbHRaMFU5dkhQN0UtQV9PLVRLc1lPYjB6Q1BSV0FBclZKRUZwY0pJVjZqSE9uUTFHTF95VVBDMk13dlVzWWtYSDYwS0RoaFI5ZHA5WHFzWkhXTVRUanc3ai1pUFFR?oc=5",
+      "publishedAt": "2026-09-07T01:29:08.000Z",
+      "priority": 39,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Chile's Caserones copper-molybdenum mine was previously affected by ex news.metal.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T06:08:15.787Z",
+      "updatedAt": "2026-09-07T06:08:15.787Z",
+      "analyzedAt": null
+    },
+    {
       "id": "181a971ddf573e6145e595ce81d6a95ed4dd12f173c85581b65136d5642edb8f",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -3519,6 +3597,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-05T16:06:13.424Z",
       "updatedAt": "2026-09-05T16:06:13.424Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "fcc4f23c11ac0d327fdcb3db8b54a80678c50a13f2f91b0f8cab350032659a1e",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Price Inflection To 14,000 USD/Ton And Three Stocks To Play It",
+      "summary": "Copper Price Inflection To 14,000 USD/Ton And Three Stocks To Play It Smartkarma",
+      "source": "Smartkarma",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXQ1VGdLMVdnaEFqMGEyNkhORkRJSU1jM0VJaWxWMnlveGpvYm81eVlHUVZVYWpRNmtvdUN4ZFlaQld3dXgyVFMwbUcwTUpWeFBwQTZ4ZnlXYlZHQzFDcExVU3FJVGNBMWdtR1JkY0g2bmZHZE13eFB2RFA5clptS09ETy1UNnA1b3diOXR6RkRTMkkyXy1pMURFOWlNTzVUR0VxeFBkV28?oc=5",
+      "publishedAt": "2026-09-07T02:11:02.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Price Inflection To 14,000 USD/Ton And Three Stocks To Play It Smartkarma",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T06:08:15.787Z",
+      "updatedAt": "2026-09-07T06:08:15.787Z",
       "analyzedAt": null
     },
     {
@@ -5319,6 +5433,45 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-04T06:35:44.394Z",
       "updatedAt": "2026-09-04T06:35:44.394Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "649baa7534578408d21954269bee7b1481d5ef03d401878ce7491cf14677e719",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Price spread between futures contracts constrains purchases, spot premiums under pressure and pulling back [SMM North China spot copper]",
+      "summary": "Price spread between futures contracts constrains purchases, spot premiums under pressure and pulling back [SMM North China spot copper] news.metal.com",
+      "source": "news.metal.com",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObWVPdG1UZ3RfUWwwcGVYWFJyX1RXclI0S0E0MVQybU5DbkJOa2VIT2NjXzdjMHBtNlFadXNkSG5fSlJFeEZadTczVHc2ZUdxZ0ZsUWJ2ZWxXaUtxeEdIVVNBd25lTmRqOHd0emVqU2hleGpTRnVTSHhESUFCSzFONnBJU2k5UkdWa3E3VzRBVUZaa2hWUm5Xdmc0UUw0VE02VEt5THVXSlRxNmh6YjhnaEpYR0hqWnJnSU1ITWd6ZVhZUDc0WDBUVksyNTZEakp2enRRTnoxWThvSGtDMS1MQmVvQmNuSEpiOVAtUVFrYVdGdVlOZVdKbjZmNnViWmJMbTdQTTFWZUl2Um5zSFE?oc=5",
+      "publishedAt": "2026-09-07T03:44:33.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Price spread between futures contracts constrains purchases, spot premiums under pressure and pulling back [SMM North China spot copper] news.metal.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T06:08:15.787Z",
+      "updatedAt": "2026-09-07T06:08:15.787Z",
       "analyzedAt": null
     },
     {
@@ -10389,6 +10542,116 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-07T01:02:26.962Z",
       "updatedAt": "2026-09-07T01:02:26.962Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "e67e050a2ed204d6cc914a41a72e10676b32698c046c44562d0ea0b0b41f11c9",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "광산 채굴 차질에 올해 구리 생산 감소 전망…9년 만에 역성장 가능성",
+      "summary": "광산 채굴 차질에 올해 구리 생산 감소 전망…9년 만에 역성장 가능성 더구루",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KeXRlY2VVRVJFbjJ2QWdNQ2g2bHdMUllReUk1OHR4Y2xUcWp3ZDhIanJZdmxnNndhMndwYmtaeFVWUm8yZ2djdV9wRGdwWkhlbXJyNnU0OVdXeEp3a0ZIaldEYw?oc=5",
+      "publishedAt": "2026-09-07T05:19:26.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply Disruption",
+        "categories": [
+          "MINE",
+          "PRODUCTION",
+          "DISRUPTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "광산 채굴 차질에 올해 구리 생산 감소 전망…9년 만에 역성장 가능성 더구루",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T06:08:15.787Z",
+      "updatedAt": "2026-09-07T06:08:15.787Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "522782ad221a7dc8d94a435d131e5dfda8da150b4ca776e7d20c433fd52e0e2d",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Ten-bagger Kaoko capitalises on copper-in-core excitement",
+      "summary": "Ten-bagger Kaoko capitalises on copper-in-core excitement Mining News Net",
+      "source": "Mining News Net",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVG1XZEo5UnRHRlZXdkg0OWd3c2FYd3dkVnhmMFFtNVVoS0d1VFRQZkpveWNrM0h6bWlwRnNnYWw2dGJSajVxSjhDSE15Z1JIWEh5MVJuMmk3ZGl2elp5cUh1NmpxNC1rUENybDlWRzBpRmNmUWUzWWpldzBBTVI1Z1NscE9oYWFvYnp6OVJ5R1BPRVlPTkZNaG1fdmp4NExKYktKUjl1NjQ0Y25uYVg4UnlB?oc=5",
+      "publishedAt": "2026-09-07T04:18:12.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Ten-bagger Kaoko capitalises on copper-in-core excitement Mining News Net",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T06:08:15.787Z",
+      "updatedAt": "2026-09-07T06:08:15.787Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "4ad0e53de185373ff5d01945a15f6c9544bb04d6b9252ee37b3bf5a6dcf0fdd0",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Slips As Fed Bets Clash With Tight Supply",
+      "summary": "Copper Slips As Fed Bets Clash With Tight Supply Finimize",
+      "source": "Finimize",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU2YxTUp0dHZNSVppTXRDb1lhY28wWkNFdjExZUxYbVM5WmtmMmVYNjIwMklkRlB3eU1MbzRXMjVoWEQ4SVRUalQxd3g0NmFXZ1JCTGstUE5ianRhN21FZHdmMk1uSUdYaWxPa2RxbTVPMEJlUlVkSVVsUVlPOVo4RlZmTQ?oc=5",
+      "publishedAt": "2026-09-07T00:26:59.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Slips As Fed Bets Clash With Tight Supply Finimize",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T06:08:15.787Z",
+      "updatedAt": "2026-09-07T06:08:15.787Z",
       "analyzedAt": null
     },
     {
@@ -17870,6 +18133,118 @@
       "analyzedAt": null
     },
     {
+      "id": "70d7b2b662f58fcb2247b01596ad495ced3be36b565355f7ed065b0e7428fbcb",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "JUST IN: Canada’s MASSIVE Aluminum Discovery Is Shaking Global Supply Chains! White House Down (7ZcrOpaeXs)",
+      "summary": "JUST IN: Canada’s MASSIVE Aluminum Discovery Is Shaking Global Supply Chains! White House Down (7ZcrOpaeXs) Mshale",
+      "source": "Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PR3dvbTExS0dTZUE5X1RSTjlURFJycDhQR0d6cFoyTWtfM0t1d3R1TG5UN3I0bTdlYjk4U2g4NGRXV0luTk5GUDJ2U3BJY0RlaFhZZTg1UlE5SUE?oc=5",
+      "publishedAt": "2026-09-06T23:47:41.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "JUST IN: Canada’s MASSIVE Aluminum Discovery Is Shaking Global Supply Chains! White House Down (7ZcrOpaeXs) Mshale",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T06:08:15.787Z",
+      "updatedAt": "2026-09-07T06:08:15.787Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f36d07ea838076ed392e9628f89e6234b970695762809ee80b9c7c8450764528",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "비철 시황 - 비미국 재고 감소에 구리 상승",
+      "summary": "비철 시황 - 비미국 재고 감소에 구리 상승 Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Kc01NU3FNcVZVWEtwQlF4M0tnWW1LVHVwMzNTZmlUNmJtQTlOZkdEaFJZS21CMTBwOGpiWGoyYk5YeDVmUjBtMlUxY3lLTm1fVklKYlBmVFlpR2trSFJ3eg?oc=5",
+      "publishedAt": "2026-09-06T23:46:00.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Inventory",
+        "categories": [
+          "INVENTORY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "비철 시황 - 비미국 재고 감소에 구리 상승 Investing.com 한국어",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "재고 감소"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Inventory Down"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T06:08:15.787Z",
+      "updatedAt": "2026-09-07T06:08:15.787Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "219a601f93346608a52e20308caace979db1f1af98f139ad3c45b4f961a3758d",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "전국 주요 지역의 구리 재고는 이번 주 동안 8,900톤 증가했습니다 [SMM 주간 데이터]",
+      "summary": "전국 주요 지역의 구리 재고는 이번 주 동안 8,900톤 증가했습니다 [SMM 주간 데이터] SMM Metal",
+      "source": "SMM Metal",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPa0doOWhxQzBiaDNUS2xYZ0R2YURiQ3M4S2N3SkZNOGNBWVd6WnhsQzZWLTBGY0UzSmp6MkxVdGdTaFVKdThtc295ZmQwdDVJaEhLbGdDc0hDdzFpZHlfa3hLdE1yNm9MUVNkR1dHNDRYUFE5NnRzMlRTVy1ndm1mSEQyYkw4ZlF0bkswblhIcUNoVVQ1dWt0V0pFSi1VcnBRbDU5clJQQlhwWEg0dXo0d2hfTm9pZV81YzdrYWlWLTJQdG93Y3dUN0RiaC10UE9QM0RlcTdWVWR3VllLVlFYZUhhZ0FpbE5HcVR2Y3lPZlBQUGFlVXFVbEx1eEFhQ2s5?oc=5",
+      "publishedAt": "2026-09-05T21:59:00.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "INVENTORY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "전국 주요 지역의 구리 재고는 이번 주 동안 8,900톤 증가했습니다 [SMM 주간 데이터] SMM Metal",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-07T06:08:15.787Z",
+      "updatedAt": "2026-09-07T06:08:15.787Z",
+      "analyzedAt": null
+    },
+    {
       "id": "8779eb63d696e68f7dbcebacee9230f68369e86a7170c46777cc3d13d33d59bb",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -18182,397 +18557,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-28T03:10:19.785Z",
       "updatedAt": "2026-08-28T11:10:19.833Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "3030b7363b58d77b92078bf66ef1eb652ead7532010a8c3312a5d5c0fab9abd8",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Aluminum Corporation of China Limited Reports Earnings Results for the Half Year Ended June 30, 2026",
-      "summary": "Aluminum Corporation of China Limited Reports Earnings Results for the Half Year Ended June 30, 2026 marketscreener.com",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ1E3c1RMa2lLb1VEOWVCSncyN0RvYWJ4akpxdzdPcTJ6OE1yb3dwVTZTT2ZpYzE1NkxDcWJVRzE0LXowSm1KTGFhbXZUM3RIWVh1MGVCWkhCalhpaDREemNTOG1NR3NpQktNMnhlSnBIbGg5VmxoRXRTVG9Vb2Qyb05UcGlJbThTQWs1c2d5Mmo0amtsTXZPS0M0TkItUC1QWjdnSERUdFRFNE5YTjRLOW5Udkl3UlNhN3YwT24xWGhMdlVJcWJ5cEU2aUlLejBCSkR4U2dNRlVmU0pwZm90VHRKQWU3dXM?oc=5",
-      "publishedAt": "2026-08-27T19:26:11.000Z",
-      "priority": 29,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "LOGISTICS",
-          "CHINA",
-          "COMPANY",
-          "EARNINGS"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Aluminum Corporation of China Limited Reports Earnings Results for the Half Year Ended June 30, 2026 marketscreener.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-27T19:40:19.756Z",
-      "updatedAt": "2026-08-28T03:10:19.785Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "16f9db8f30f4fb2ea6d5978d9900331d03a34e7728d04ce9286146d581d29c3f",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Aluminum Corporation Of China H1 Net Profit Up 67.9% Y/Y",
-      "summary": "Aluminum Corporation Of China H1 Net Profit Up 67.9% Y/Y TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjhpLXpIdy14WTVsQTl1a0VrcWdpX0dpM3pyNEtFWjVxaFg0TFJTNVhyZ1BpZm9uRU9OX0l1UGdxQ2pEUW1TbEJXQWpQWmZqcTlkakdrVGQzelZfTHNMalk3QTBSYjczamZ0T1FGUHVYV1lWc1NKc3lwWS1sYUtjTWJwRm5vbzRrLUFTbU16eGEweXpNRHJpem1wRV9yZEQ3eUgyZFlZRWUyVmxJeUg1MHp4Vmk4Z0RxRU9ITHpIbGpoaTQ?oc=5",
-      "publishedAt": "2026-08-27T10:02:09.000Z",
-      "priority": 29,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA",
-          "COMPANY",
-          "EARNINGS"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Aluminum Corporation Of China H1 Net Profit Up 67.9% Y/Y TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-27T10:40:19.724Z",
-      "updatedAt": "2026-08-28T02:40:19.784Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "c657af6f651627438b64906c28ab198687c0c98db7c07ce126df159b942932c1",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "China's Xingfa Aluminium half-year profit drops 37% as sales volume falls",
-      "summary": "China's Xingfa Aluminium half-year profit drops 37% as sales volume falls TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd1VxTWViVF9Nem03eVU4djZhVm5zOWxCQnk1cFV1ZDBTYVNWbzJvRXhNUV8xeXpTSVBQU2xXUFQ3T1Jrd2JzZVN5N3pNMXdXUDI3alV6MjhOeHdWdmZfWHFvQWRHOGtCZ3hEaDVwTnJQRWI3eV9qNTB3RlhSS0dxZlJudFRObnk0d2tNcmFvMWI2bmZLVVlkazY0ek9WZXhGQzkyZFR4YjFBNTJ6MFpvM2s1OFAyUlJrY3BXQy1Sa0tmeU9CbEtjMXd6eDhLUm5weTFGX3ZQUmVpZw?oc=5",
-      "publishedAt": "2026-08-26T13:57:50.000Z",
-      "priority": 29,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA",
-          "EARNINGS"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "China's Xingfa Aluminium half-year profit drops 37% as sales volume falls TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-26T14:40:19.656Z",
-      "updatedAt": "2026-08-27T00:40:19.703Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "937a8788b127df070f0f0365375b1a9a66dd6ac20c5a6da44088eb29443f5b5b",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "China's aluminium wire exports drop 8.53% M-o-M in July 2026, Up 481.79% Y-o-Y",
-      "summary": "China's aluminium wire exports drop 8.53% M-o-M in July 2026, Up 481.79% Y-o-Y AL Circle",
-      "source": "AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONTlBZGx1RHNLOFBSQ2xfUHo2bzdmdDVEb1B3eTYweTNzXzZ0V3hKY1IzR3R2eUlsbUNkV3V1cGl5X3QyMjFZdFkzYlJHVUxlZWVmNUdEQTV4WTRrTEo1d3d4N3lMZ29TazJnZ2lvc1JRMDE5M0kwenU4VG04X3NZVVpLMWQ4bGpfQUR6UDBIRnE2VmJoZ0NHRHFhWkVQcjNoWDR2Wm45N2VqdGJVeFVLUDZQczZoalBxR2RmSnJn?oc=5",
-      "publishedAt": "2026-08-26T11:32:08.000Z",
-      "priority": 29,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "LOGISTICS",
-          "EXPORT",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "China's aluminium wire exports drop 8.53% M-o-M in July 2026, Up 481.79% Y-o-Y AL Circle",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-26T11:40:19.642Z",
-      "updatedAt": "2026-08-26T17:40:19.661Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "df39e3e817dcd03b4d5624ce81b40bde049fcee76cdc28174171afa0383177e1",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Spotlight DRC US junior Copper Intelligence trades on Trump proactivity to expand ambitions",
-      "summary": "Spotlight DRC US junior Copper Intelligence trades on Trump proactivity to expand ambitions Africa Intelligence",
-      "source": "Africa Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVEY5NFVRa2N6bDZVbjByX1hxY1JwS292RzRJcHNZOGw1dU1ERk1lZmpReVNEb2Y1a242RmRYdG1ndW1uck95bXZZcW14b0c0MmhQZzR6VTVHeXNxeDBTN3B1NDlMQk5ua2NfWlBLVkNzdnJURTVBNXpVNTRUT2hJbmN3R3FVSjdNWFNrRFpNVmlFVFlNQWtFUll2RGI5cUFFSGFZRVJjeXV2T1l0d1ZyaEd6UDBlUVFmZmttN1M4U0VGYTdmUnA4NzhnNWpxWFdWZjNzaWJ6Ukk4ZW5oaDRjZVpzMk1Ka28?oc=5",
-      "publishedAt": "2026-08-26T04:43:05.000Z",
-      "priority": 29,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "TRADE"
-        ],
-        "region": "DRC",
-        "regions": [
-          "DRC"
-        ],
-        "summary": "Spotlight DRC US junior Copper Intelligence trades on Trump proactivity to expand ambitions Africa Intelligence",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-26T07:09:28.843Z",
-      "updatedAt": "2026-08-26T22:10:19.685Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "0bf64ea715f764dddcae62f2041f3296179ddda15f96c64878bbf2bf8792a4b9",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "Could agglomeration unlock the value of tin mine fines?",
-      "summary": "As tin producers seek to maximise recovery from existing resources while reducing waste, increasing attention is being given to technologies capable of recovering value from fine cassiterite particles that are often difficult to recover or efficiently utilise during mineral processing. One emerging approach is Mine Fines Agglomeration (MFA), which is being supported for commercialisation by Green […] The post Could agglomeration unlock the value of tin mine fines? appeared first on International Tin Association.",
-      "source": "Georgia Laurie",
-      "url": "https://www.internationaltin.org/could-agglomeration-unlock-the-value-of-tin-mine-fines",
-      "publishedAt": "2026-08-10T07:16:47.000Z",
-      "priority": 29,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "LOGISTICS",
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "As tin producers seek to maximise recovery from existing resources while reducing waste, increasing attention is being given to technologies capable of recovering value from fine cassiterite particles that are often difficult to recover or efficiently utilise during mineral processing. One emerging approach is Mine Fines Agglomeration (MFA), which is being supported for commercialisation by Green […] The post Could agglomeration unlock the value of tin mine fines? appeared first on International Tin Association.",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-26T07:09:28.843Z",
-      "updatedAt": "2026-09-03T14:35:55.232Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "4e99c7404a65c9220951dcd1cc52a0f010fff2419b0e65fc7cbaabce25eb23db",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Indonesia doubles down on coal to power its aluminum expansion",
-      "summary": "Indonesia doubles down on coal to power its aluminum expansion Oskaloosa Herald",
-      "source": "Oskaloosa Herald",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZEVHLVRTY0g5Y2xXUHBmY3RlS2dnQk4yR2QwVzNxWFNZWGtEWjZNYzhRMll0VW9QREtiMEowLUpTd2tvZnh6eEZBU21SdE1CSmRrZmJibkNXdXZURFNBSVE5OE9jMGZ6QlNGTWQ2akJXc2Q2aEFPOTFCbEc5RGlsZS1xS2NTZW9ueGZnV2tlbjZkRjY3cWdORElDSVNWZ09nQk4zbDBvd0wxeTJjYlB5aFZmTktiUnZoVGJuZ2FVdVdfRjJPZkN2LXh0TnQtLTVFNEVZSmpudGxjNVNxekxBOFJDYWtlaE4tUDk4NXF3?oc=5",
-      "publishedAt": "2026-09-01T07:05:01.000Z",
-      "priority": 29,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Capacity",
-        "categories": [
-          "CAPACITY",
-          "ENERGY"
-        ],
-        "region": "Indonesia",
-        "regions": [
-          "Indonesia"
-        ],
-        "summary": "Indonesia doubles down on coal to power its aluminum expansion Oskaloosa Herald",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-01T18:33:11.351Z",
-      "updatedAt": "2026-09-01T18:33:11.351Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "08cbee39124631b0062d02a94fb00996199b2d87754061db8d6f83eb913a96f2",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Indonesia doubles down on coal to power its aluminum expansion",
-      "summary": "Indonesia doubles down on coal to power its aluminum expansion mymotherlode.com",
-      "source": "mymotherlode.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONXUwb183Z1RYSFlvWVFTdVUyYU1oVklNVzRSRE5NY3dla0F4eEkzT1dWTmxScUxSaFE1SnpydllRa0c3WTRhYVZsWU01UUIwTXViQ1gxNWg1ZVRUWk5Ra2pFXzFWT3R6UU9YZjBPMnNqVWZZc3Y5RkhsMnB4QzdZSk9PZkV1aHROdGdJeGh1Y1I5dEJTeWNBeklhQnRtd2hSU09ZMU9yUXNfYlozUHdjZnFycVJ5cDjSAbcBQVVfeXFMTjV1MG9fN2dUWEhZb1lRU3VVMmFNaFZJTVc0UkROTWN3ZWtBeHhJM09XVk5sUnFMUmhRNUp6cnZZUWtHN1k0YWFWbFlNNVFCME11YkNYMTVoNWVUVFpOUWtqRV8xVk90elFPWGYwTzJzalVmWXN2OUZIbDJweEM3WUpPT2ZFdWh0TnRnSXhodWNSOXRCU3ljQXpJYUJ0bXdoUlNPWTFPclFzX2JaM1B3Y2ZxcnFSeXA4?oc=5",
-      "publishedAt": "2026-09-01T12:45:01.000Z",
-      "priority": 29,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Capacity",
-        "categories": [
-          "CAPACITY",
-          "ENERGY"
-        ],
-        "region": "Indonesia",
-        "regions": [
-          "Indonesia"
-        ],
-        "summary": "Indonesia doubles down on coal to power its aluminum expansion mymotherlode.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-01T21:22:09.769Z",
-      "updatedAt": "2026-09-02T01:25:58.900Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "7d17afcb3183d937d1cf12d0fd5621f8cf2a25756f661404af12ee7b6b631df8",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "A preliminary study projects about $26 billion in gross revenue over 17.5 years for DLP Resources’ Peru project, which would produce copper, molybdenum and silver.",
-      "summary": "A preliminary study projects about $26 billion in gross revenue over 17.5 years for DLP Resources’ Peru project, which would produce copper, molybdenum and silver. Stock Titan",
-      "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVEVVNF9NbWNfRU5KOUFXbEVrSU83RXBKanM2MzFXa25HMmNmTkhoYzdfbnlKS3pWTmJqUUZHdWlsWjBqanRoSEpvdnIta053b3poRVNtVnZUZjFERkI3MDg5Rks0NkJtX3I2dHRYbGVRU1dicVpkQk83dGQ5eXQxQk9rS0daY3dqdXFqSjFuUngtV3lBVmRIbTd6WjdOeTQtbUxuUENQRmhBWVJmTkNGcEJUanIzRkFnM2tERm95OA?oc=5",
-      "publishedAt": "2026-09-01T10:00:00.000Z",
-      "priority": 29,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PROJECT"
-        ],
-        "region": "Peru",
-        "regions": [
-          "Peru"
-        ],
-        "summary": "A preliminary study projects about $26 billion in gross revenue over 17.5 years for DLP Resources’ Peru project, which would produce copper, molybdenum and silver. Stock Titan",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "LONG_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-02T01:25:58.900Z",
-      "updatedAt": "2026-09-02T06:26:46.513Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "eece0e7fd1b98c9899604f051f9e2a441b0e6f3955ceb6bf46b4416ebe9c2c4d",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Indonesia doubles down on coal to power its aluminum expansion",
-      "summary": "Indonesia doubles down on coal to power its aluminum expansion AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeVpnQ1NZMFFYVVJ0RDh1SXZtZnhCT0pJSEhWQmRUUThoZ2hHQXRYS2t6VHdiT1JhVElOSWRUY3VPZjZsY2h6WFItOHU2U0dVUTFWd2dsZnpRSkpFMmZ2ZkUtVU85dFdQM21QRUNxcFFPdkhjTExwOTB0NjZROGRvOEx5X1dEaTRiNXB3OU9ldHhiSFJveXJ5NjBRREN3a2NSZzFz?oc=5",
-      "publishedAt": "2026-09-01T07:05:00.000Z",
-      "priority": 29,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Capacity",
-        "categories": [
-          "CAPACITY",
-          "ENERGY"
-        ],
-        "region": "Indonesia",
-        "regions": [
-          "Indonesia"
-        ],
-        "summary": "Indonesia doubles down on coal to power its aluminum expansion AP News",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-02T06:26:46.513Z",
-      "updatedAt": "2026-09-02T06:26:46.513Z",
       "analyzedAt": null
     }
   ]
