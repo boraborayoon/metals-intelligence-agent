@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T04:52:03.651Z",
+  "generatedAt": "2026-09-09T09:48:38.632Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -425,6 +425,16 @@
       "codexStatus": "PENDING",
       "source": "Crux Investor",
       "publishedAt": "2026-09-08T16:59:21.000Z"
+    },
+    {
+      "id": "23f04bf7cddde8dd541352eef9bb2602c7da16d2838f5acdc5073d44f96645f4",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Copper: Record highs driven by tariff uncertainty – ING",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "FXStreet",
+      "publishedAt": "2026-09-09T09:23:16.000Z"
     },
     {
       "id": "d5d6c56043855a34c1c9a2a084b6da7b1d445fa957a82eab9fef1d83743ae578",
@@ -1557,6 +1567,36 @@
       "publishedAt": "2026-09-09T00:51:00.000Z"
     },
     {
+      "id": "c25569f903ebcb11936d19be2ab0d3f9c14c1353946815dd1cd7325a35467595",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Amid rising expectations of interest rate hikes, COMEX copper closed higher against the trend, while precious metals focused on inflation data.",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "moomoo.com",
+      "publishedAt": "2026-09-09T05:41:37.000Z"
+    },
+    {
+      "id": "884955d6d411d6e2959ecddb14ea3d11a78aca0a30d204522b188f15cd926dc1",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Cost support drives ADC12 aluminum alloy prices up; peak season demand recovery remains limited [SMM cast aluminum alloy morning comment]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-09T04:02:57.000Z"
+    },
+    {
+      "id": "689f728f16b86ecc8190382d5f48d156b471e86eb1d57f9c4c55894aa9d3c3d3",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "China's inventory remains low, SHFE copper prices repeatedly hit new highs [SMM Copper Morning Meeting Summary]",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-09T01:03:32.000Z"
+    },
+    {
       "id": "eed75731f79879ff7b15b4b9727e94fb9efdd1ceea579dd6f1155f3838a719da",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1935,6 +1975,16 @@
       "codexStatus": "PENDING",
       "source": "marketscreener.com",
       "publishedAt": "2026-09-09T04:22:20.000Z"
+    },
+    {
+      "id": "f06a2861eb539d7af7003c6d1f9878d2b38efae2d0c3c920c3506ec48111cc57",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Capped at home, China extends its aluminium dominance abroad, Reuters says",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Weekly",
+      "publishedAt": "2026-09-09T06:58:00.000Z"
     },
     {
       "id": "c124b1ca28a82b4ec2fa50370721b0e70ebfcbd7ce714b05abd51c1b49f14b41",
@@ -3747,16 +3797,6 @@
       "publishedAt": "2026-09-09T03:28:00.000Z"
     },
     {
-      "id": "c8e809c4b629e370fb8f11dffb4ae42a8cd034e65440c0e151f0da224da25e47",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Prices Surge to Record High on AI Demand",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "조선일보",
-      "publishedAt": "2026-09-09T02:48:38.000Z"
-    },
-    {
       "id": "be5cefca2d8a94561fc73a22157fde9db0cfe8affeec4f9feb37c77c44327f55",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3767,36 +3807,6 @@
       "publishedAt": "2026-09-09T02:30:00.000Z"
     },
     {
-      "id": "1953f3c22eab8e1955931a463592373f5b5f6b0807735c2f609529cd8f31728d",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "[원자재] 미국, 콩고산 구리 5만3290톤 수입… 가격차가 만든 쏠림",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "버핏연구소",
-      "publishedAt": "2026-09-09T02:26:09.000Z"
-    },
-    {
-      "id": "b09999ea686ab7a82a5c830702b65c5f7eda31e318f7dd986fb28e3136f05544",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리 사상 최고가에 전력망 공급난 겹쳐… LS 그룹주 일제 급등 [줍줍리포트]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "서울경제",
-      "publishedAt": "2026-09-09T02:22:09.000Z"
-    },
-    {
-      "id": "c71d248c0489e607c35b340ad31e28649a784c793adcfcd953a558705cca817d",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "[EBN 데이터센터] 비철금속 가격 혼조…구리 현물·니켈 강세, 주석 약세",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Nate News",
-      "publishedAt": "2026-09-09T01:40:00.000Z"
-    },
-    {
       "id": "b2b2d0e793bec5987e1aa226dc56b7386bd7ccc572447e8eedfbbebe640f06b2",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3805,6 +3815,56 @@
       "codexStatus": "PENDING",
       "source": "Vietnam.vn",
       "publishedAt": "2026-09-09T00:32:31.000Z"
+    },
+    {
+      "id": "23d0b5e123f1c6b0d82d628f430afb54f8bc44d6a099b4fe4bbbc62cd4de0c5c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Eldorado Gold produces first copper-gold concentrate from Skouries",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "im-mining.com",
+      "publishedAt": "2026-09-09T08:26:15.000Z"
+    },
+    {
+      "id": "6f078f2e363442c89c187d6c04797bf57b9cecebc82e7722ede09953c8502874",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "옵콤, 오픈리치 구리망 가격 2029년부터 변경 허용",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com 한국어",
+      "publishedAt": "2026-09-09T08:16:00.000Z"
+    },
+    {
+      "id": "493fb46dc68ce0809c9573c167fea68dc4c34024ae6dabe11d78e97dde86216d",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Great Southern Copper commences IP survey at Cerro Negro",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Vox Markets",
+      "publishedAt": "2026-09-09T07:13:44.000Z"
+    },
+    {
+      "id": "efff29d6d630eef64159993e4b294118a5f4b663160e96a0e49ec5e977299c46",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper hovers below record high as non-US supply tightness remains in focus",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-09-09T07:08:46.000Z"
+    },
+    {
+      "id": "98325f12354e87f581837d6518fb0dc398c4d398267d4703a3b109435784ffa7",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리 가격 ‘천정부지’…전선업계 차입 의존도 커지나",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "에너지경제신문",
+      "publishedAt": "2026-09-09T06:18:50.000Z"
     },
     {
       "id": "e952dd43288b8e5a0dab80c1d83d4bffa5a0f008717eeb9b8e2447ea3b82156b",
@@ -3925,6 +3985,16 @@
       "codexStatus": "PENDING",
       "source": "Bitget",
       "publishedAt": "2026-09-06T21:32:12.000Z"
+    },
+    {
+      "id": "686f76daa9455b706338c92d83e626de228fe9410fe96cbcba4dae9d67666253",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper prices and price spread between futures contracts both strengthen, spot discounts in North China widen [SMM North China spot copper]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-09T03:39:05.000Z"
     },
     {
       "id": "6c302f52c2b4dc7f3b345f790d65cb4ea24e262e5fd8a6d3f9bc265745ed1017",
@@ -4175,6 +4245,26 @@
       "codexStatus": "PENDING",
       "source": "TradingKey",
       "publishedAt": "2026-09-07T23:29:00.000Z"
+    },
+    {
+      "id": "300daa2ba91a02f2a46ad107963632f91d3016aa492391f52c7b720764cbd84e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper One Visually Identifies Native Copper in Ongoing Drilling at 100%-Owned Redonda Copper-Molybdenum Project, British Columbia",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-09-09T07:15:03.000Z"
+    },
+    {
+      "id": "65838fc6b0261ae089882f4b1cc2b7e9b27496358d4dda8c6d1bd3e197600303",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Supply tightness expectations boost copper prices to a new high overnight [SMM Copper Morning Comment]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-09T01:13:34.000Z"
     },
     {
       "id": "8c0a4879aaceca47473c538de98732408ff9345f7e96e420d8c7567afba94872",
@@ -4467,6 +4557,66 @@
       "publishedAt": "2026-09-09T01:04:33.000Z"
     },
     {
+      "id": "58114743f4666ba18abd5decf194999f3e2421ac41ada81c25bc0862bb533ed6",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Sun Peak Drills 39.0 Metres of 1.38% Copper and 0.84% Zinc and 19.42 Metres of 1.17% Copper, 2.59% Zinc and 22.35 G/T Silver at Safra Vms Project, Saudi Arabia",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing News Network",
+      "publishedAt": "2026-09-09T05:15:00.000Z"
+    },
+    {
+      "id": "23bab8d8eef9e8aaddb288e107cf11817ff38d55a1934296e4893f577a4f8f45",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "The most-traded SHFE tin contract consolidates, spot market trading limited [SMM tin midday review]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-09T04:44:18.000Z"
+    },
+    {
+      "id": "c8e809c4b629e370fb8f11dffb4ae42a8cd034e65440c0e151f0da224da25e47",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Prices Surge to Record High on AI Demand",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "조선일보",
+      "publishedAt": "2026-09-09T02:48:38.000Z"
+    },
+    {
+      "id": "1953f3c22eab8e1955931a463592373f5b5f6b0807735c2f609529cd8f31728d",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[원자재] 미국, 콩고산 구리 5만3290톤 수입… 가격차가 만든 쏠림",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "buffettlab.co.kr",
+      "publishedAt": "2026-09-09T02:26:09.000Z"
+    },
+    {
+      "id": "b09999ea686ab7a82a5c830702b65c5f7eda31e318f7dd986fb28e3136f05544",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리 사상 최고가에 전력망 공급난 겹쳐… LS 그룹주 일제 급등 [줍줍리포트]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "서울경제",
+      "publishedAt": "2026-09-09T02:22:09.000Z"
+    },
+    {
+      "id": "c71d248c0489e607c35b340ad31e28649a784c793adcfcd953a558705cca817d",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[EBN 데이터센터] 비철금속 가격 혼조…구리 현물·니켈 강세, 주석 약세",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Nate News",
+      "publishedAt": "2026-09-09T01:40:00.000Z"
+    },
+    {
       "id": "74a3bda2c5f0f72e196c961f5f037d4773754ab976adadd10b799b5a87a79225",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4645,16 +4795,6 @@
       "codexStatus": "PENDING",
       "source": "Nate News",
       "publishedAt": "2026-09-08T06:04:00.000Z"
-    },
-    {
-      "id": "7ae12d544473c18493a07ee3dca422cea8e7fad21a0d36eb5f44246aa50433e9",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "알루미늄 공급망 '삼중고'…판재·양극박株 '꿈틀'",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "글로벌이코노믹",
-      "publishedAt": "2026-09-08T05:57:32.000Z"
     },
     {
       "id": "eb76df1a23b4f4e74048744686f095109901ca8822b1cb3b55d5bf180367cd63",
@@ -4865,146 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Finimize",
       "publishedAt": "2026-09-03T12:19:08.000Z"
-    },
-    {
-      "id": "3b9d368401f76755ea6bb0b09e9e30243eecda56eb561b6cea61072f62c3ad14",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Hit $14,000 As Supply Tightened Fast",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Finimize",
-      "publishedAt": "2026-09-03T06:40:04.000Z"
-    },
-    {
-      "id": "de732735d73b008358f5306fb6d0cda2a805436a44f75d8a0087abd6b81ba061",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "中 안후이서 초대형 구리·금 광상 발견...핵심 광물 공급 능력 UP-Xinhua",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "신화망",
-      "publishedAt": "2026-09-03T02:37:03.000Z"
-    },
-    {
-      "id": "ffa502635f88c61a4aa5012491fa7c74ca1c1a9a55a22f603b29dbe3257b4747",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "[EBN 데이터센터] 비철금속 가격 엇갈려…구리·아연 하락, 니켈은 상승",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "ebn.co.kr",
-      "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "d163413c6c6d59ebda8112033d293d436f084b233a8835fc2991131f5b5a2f2f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "“땅 팠더니 '구리·금' 대규모 매장지”…가격 치솟는데, 中 '초대형 잭팟' 터졌다",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "전자신문",
-      "publishedAt": "2026-09-02T13:16:43.000Z"
-    },
-    {
-      "id": "05c198fba7c466e470784716c119d1c9c76bbf87266a8ab808c13a708c9df954",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Silver Rallies, but Its Biggest Supply Source Answers to Zinc and Copper Prices",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com",
-      "publishedAt": "2026-09-02T13:15:00.000Z"
-    },
-    {
-      "id": "16672d79d3c3c04c89cd38ee91a560b2bbb569efa67b88aad7e1ecb32f8535fc",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Metso to supply key minerals processing technologies for a copper project in Asia Pacific",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Cision News",
-      "publishedAt": "2026-09-02T06:00:00.000Z"
-    },
-    {
-      "id": "bac1f6306992c8baa1ca6b0d8d5282f7ff609cc45d28b333ecd3b477624b1c1b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Back price spread between futures contracts widens, suppliers cut prices continuously to boost transactions [SMM Shanghai spot copper]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "news.metal.com",
-      "publishedAt": "2026-09-02T05:27:38.000Z"
-    },
-    {
-      "id": "10e2026ac0c7658526417ecadf1879af7c9d203a7ba523ee38cba8a5d494102b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Falls on Demand Concerns",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-09-02T03:48:00.000Z"
-    },
-    {
-      "id": "e472c27ca540b50d8677f6a67f720bb7706f6019e57eeb50d345fe0ea48b4034",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Oversupply of aluminum rod persists, processing fees remain stable at low levels, watch the pace of demand recovery [SMM Analysis]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "SMM Metal",
-      "publishedAt": "2026-09-01T10:19:55.000Z"
-    },
-    {
-      "id": "7eab2857907a60a77810ef515216a91f957c71dbdb1a30d46ea4c544ec5b9ee9",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "US copper output forecast to expand by 8.4% in 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mining Technology",
-      "publishedAt": "2026-09-01T13:18:19.000Z"
-    },
-    {
-      "id": "a92b93f912376f62d930da92489393827d50c5f611d36b818719d5fe8ede29af",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Kaiser Aluminum (KALU) Stays Ahead Even If Middle East Capacity Returns Faster",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-09-01T12:49:20.000Z"
-    },
-    {
-      "id": "3a3d56359717708e085a46d409a21bb42aa1724d251207abe2dd9e622832cd60",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Aya Gold & Silver to Acquire Copper-Silver Portfolio",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Junior Mining Network",
-      "publishedAt": "2026-09-01T11:13:28.000Z"
-    },
-    {
-      "id": "0e44ac0c0bbc8cd40eed6ed266e674bc11e73f573893e8181dc98146c8e00680",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Kings football doubles up Gremlins -",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Mining Gazette",
-      "publishedAt": "2026-09-01T05:50:28.000Z"
-    },
-    {
-      "id": "77a53f6d79295fc8f22d99c4b51b9a44e991394dee5ec3098be69bdfdfbd8a88",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Zinc and copper driven up by supply fears before retreating on strong dollar",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-09-01T10:43:38.000Z"
     }
   ]
 }
