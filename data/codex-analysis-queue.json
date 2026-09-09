@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T18:00:47.251Z",
+  "generatedAt": "2026-09-09T20:57:21.953Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -5060,6 +5060,78 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-09T18:00:47.251Z",
       "updatedAt": "2026-09-09T18:00:47.251Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "353ee671d84f1aeb4ff7d790553f9cacc91c47e301ab6ca501fcfc74b4ccfb17",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Supply Faces First Annual Decline Since 2017",
+      "summary": "Copper Supply Faces First Annual Decline Since 2017 USFunds",
+      "source": "USFunds",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblBxNi12cUdlcW1CZGx3MzFTbUxlN3RfTXozWlM5RUQ0SHBwSTQ2ZUlnT0FHcF9DekRmVEJiZW52RXFsQlVnLWFNMHlLRTJXVDM0WkJ3cmFueW1hLS1aLWdwYVVfeVpUUlBBeEFpOWota09NdGNZeV9XT3BueVVBVGhEaV9makduTDFCcmxB?oc=5",
+      "publishedAt": "2026-09-09T19:46:16.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Supply Faces First Annual Decline Since 2017 USFunds",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-09T20:57:21.953Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "d296f0d95fe375dbb4c372fc4d4205117aec90518fa560cbee8d4d6f1866c6b3",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Price September 10 2026",
+      "summary": "Copper Price September 10 2026 Robinhood",
+      "source": "Robinhood",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZlhEUWVpZmNQbDZmSkxzdC15NVN2Mm0tN2NXa09NcFBwZlhPZ0NaR2pTYkRVY2VYOC15R0lTaHhCdjYzUkhjb0lMUy1TZWxKdXM1amVtVFN3WUFNTm16c2ZSNURCdlp4OU1rRnVwWkZobkZwVDE0dzFkZTJuUm9QaTZlNFQwRWJ2ZU1zMThuSE9fVjNpS19pQmVqUDhZYTdIQ3dhLXVPSQ?oc=5",
+      "publishedAt": "2026-09-09T17:56:34.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Price September 10 2026 Robinhood",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-09T20:57:21.953Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
       "analyzedAt": null
     },
     {
@@ -14448,83 +14520,6 @@
       "analyzedAt": null
     },
     {
-      "id": "32be3a0eca026ac0b7103b3d54b564d935dc6ed342c757b431ea155d6a1f69ed",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Vizsla Copper to acquire Delta Polymetallic VMS and Helm Bay Gold Projects in transaction with Agnico Eagle",
-      "summary": "Vizsla Copper to acquire Delta Polymetallic VMS and Helm Bay Gold Projects in transaction with Agnico Eagle Canadian Mining Journal",
-      "source": "Canadian Mining Journal",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd3c3NDIzWHJ1TXhDZ2pEbWpDaUVZWVJmcXBZMGhGSU1xTDgzUXlWVjdObEptNEdfX0JJalktQmx2V0UzdVhNR1hzRXdkSzU2Umo1ZXNtZVFFZ1BhbjFCQkVBMlFCNktXck9ySWlaMGtFMjNRdHlYbkVqWEFjRTgwYWhaamN1VVlDc3hKLUZlamtsSU5aNjZuZHBzX3R6ZjdMdktBRUx5RDZYNFllUzJLODVGTWt2ZUMtTmU1dDREMnc3Ny16d2pNd2ZxNzM1NkowZm5OWHRUU0JkdW15dF80STgwZXhIZw?oc=5",
-      "publishedAt": "2026-09-09T14:01:52.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Vizsla Copper to acquire Delta Polymetallic VMS and Helm Bay Gold Projects in transaction with Agnico Eagle Canadian Mining Journal",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-09T14:37:53.672Z",
-      "updatedAt": "2026-09-09T18:00:47.251Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "dc6ee005e30fdaf1bca326e4ad5cf4997f920d16b0880c778f76c6b0b179be55",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Ford: Premium Mix, Aluminum Recovery, And Super Duty Capacity Support Earnings Upside (F)",
-      "summary": "Ford: Premium Mix, Aluminum Recovery, And Super Duty Capacity Support Earnings Upside (F) Seeking Alpha",
-      "source": "Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUlVYlVXc1MxMU41TlVocE5pNWhkTkVJMUU0bDcwRjhQNV9YUmNUakQ1V29JbmJUNGxHZnl6X3dOTEY0ZGdhSUZkS0xMZWVHRi1YZ21CSU1MUWZ5aDNOX0dwZ3MzR3VUTW5LVkdNUHNYd1NST19sWUNJOHk3OUl5RkNQbU10SmxJcjh3TjFyVDJjSnFxNG5UOHJ4S2s5d0VGX2E0RUNLMXpmb0I0TG0yWlQ4TXctcWhIOHVpaUxmUWQ?oc=5",
-      "publishedAt": "2026-09-09T12:26:02.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "PRICE",
-          "LOGISTICS",
-          "TARIFF",
-          "EARNINGS",
-          "CAPACITY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Ford: Premium Mix, Aluminum Recovery, And Super Duty Capacity Support Earnings Upside (F) Seeking Alpha",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-09T14:37:53.672Z",
-      "updatedAt": "2026-09-09T18:00:47.251Z",
-      "analyzedAt": null
-    },
-    {
       "id": "6eabb99e96cb5232e1fb3c7463d62a78f7381519e8f59a75d8b48b7ed337d42c",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -14667,7 +14662,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-09T18:00:47.251Z",
-      "updatedAt": "2026-09-09T18:00:47.251Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
       "analyzedAt": null
     },
     {
@@ -14704,7 +14699,115 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-09T18:00:47.251Z",
-      "updatedAt": "2026-09-09T18:00:47.251Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "dc1ede8398c450c8469e43fbcbcfc346dd4cdc6cc40f1b161bb624ec32316118",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "AIS: Doubling copper equivalent output in 3–5 years, backed by reserve growth and zero debt",
+      "summary": "AIS: Doubling copper equivalent output in 3–5 years, backed by reserve growth and zero debt TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNN1hoYnRNSkhVcno0TnQtX0UtemVIbV9IT1J5dWNVZkpkSmZ6MUV2eC05NllnZEUydDRiVDZQWUozRVFsNFlELUJFTG1uQVJOOHJkZjR6Tm1sblE2bjI3d28wdThqeDFaT2Y1N2h5RVFWMnFJUWU2alZQOEVyejJndFgzRDhxaExYYlN6X19TUW8wTmdkOXB1LUlmZzI0U0FkS0FNbUdzTlZadlVORE0wTVRoakIxVmVTYUh4dldqVkJqYlVURVJMUU1vY1VlRDF1UFN0WW9sZkpkN0ZEbDVhb3Y3Yy1wN05EWTUtS0NGU25TMEJGYmlhVF82MEZNQWRLWkVSWGkxdw?oc=5",
+      "publishedAt": "2026-09-09T20:31:56.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "AIS: Doubling copper equivalent output in 3–5 years, backed by reserve growth and zero debt TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-09T20:57:21.953Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "9ade6488efe9d68238625017b02426014b1ccf03713b8d277cce1964112b7dd4",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "U of A award could boost mining workforce in copper country",
+      "summary": "U of A award could boost mining workforce in copper country Eastern Arizona Courier",
+      "source": "Eastern Arizona Courier",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNc28tWHgyMmxKM1ZPT3UySTBlMjZvd2FwRWpwZElOLWZsek13OXQwZzR2S1hJOWxHdWdEajluNnFIT1BBcnVpbjVRcjBiQWRkcUEtYk5PR1pWbUh4TmxzM2lueTl2Szc4S0lRZk9MVU95bXdPeEp5TVJGY0IyZFRCQUwwQTNkMnZpNTJ5eXA3djNrekhZbEItb1lBMVM5dmduNURzZFd4RnlSUXR6Z01DR2hlMVBYYnV4M3VHLUJlVE81T2JXSGVUblBFVUhBcTJvRTZwUnBlaUpwdzNZb1lyYw?oc=5",
+      "publishedAt": "2026-09-09T19:30:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "U of A award could boost mining workforce in copper country Eastern Arizona Courier",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-09T20:57:21.953Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "c4c5f7ece38c9b01c0a4e5d1d27c2c2f2d0e1665f53109e014a5b76986344e76",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper keeps setting records amid supply tensions",
+      "summary": "Copper keeps setting records amid supply tensions marketscreener.com",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUl9XVG9BNXc1X210NUllVGxjeFA2d1VWcEQzMHNFam8yTWd4SkgyS3NoX2FkTy1CQTRJRWRNZi1wNGZSNGRSNGFIMGRfTVJ1UGdLdTNIa0Z1QTVIVmktUTRJY3VJRWx0UTcyZUc1WjZGMVBxWDlRTFJqWEswY1BsUGc1V3hXZWl0b3Q0bkthYVZiNWJERmgtcERiTGRmV3JGTUlpRg?oc=5",
+      "publishedAt": "2026-09-09T19:27:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper keeps setting records amid supply tensions marketscreener.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-09T20:57:21.953Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
       "analyzedAt": null
     },
     {
@@ -17346,6 +17449,83 @@
       "analyzedAt": null
     },
     {
+      "id": "32be3a0eca026ac0b7103b3d54b564d935dc6ed342c757b431ea155d6a1f69ed",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Vizsla Copper to acquire Delta Polymetallic VMS and Helm Bay Gold Projects in transaction with Agnico Eagle",
+      "summary": "Vizsla Copper to acquire Delta Polymetallic VMS and Helm Bay Gold Projects in transaction with Agnico Eagle Canadian Mining Journal",
+      "source": "Canadian Mining Journal",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd3c3NDIzWHJ1TXhDZ2pEbWpDaUVZWVJmcXBZMGhGSU1xTDgzUXlWVjdObEptNEdfX0JJalktQmx2V0UzdVhNR1hzRXdkSzU2Umo1ZXNtZVFFZ1BhbjFCQkVBMlFCNktXck9ySWlaMGtFMjNRdHlYbkVqWEFjRTgwYWhaamN1VVlDc3hKLUZlamtsSU5aNjZuZHBzX3R6ZjdMdktBRUx5RDZYNFllUzJLODVGTWt2ZUMtTmU1dDREMnc3Ny16d2pNd2ZxNzM1NkowZm5OWHRUU0JkdW15dF80STgwZXhIZw?oc=5",
+      "publishedAt": "2026-09-09T14:01:52.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Vizsla Copper to acquire Delta Polymetallic VMS and Helm Bay Gold Projects in transaction with Agnico Eagle Canadian Mining Journal",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-09T14:37:53.672Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "dc6ee005e30fdaf1bca326e4ad5cf4997f920d16b0880c778f76c6b0b179be55",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Ford: Premium Mix, Aluminum Recovery, And Super Duty Capacity Support Earnings Upside (F)",
+      "summary": "Ford: Premium Mix, Aluminum Recovery, And Super Duty Capacity Support Earnings Upside (F) Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUlVYlVXc1MxMU41TlVocE5pNWhkTkVJMUU0bDcwRjhQNV9YUmNUakQ1V29JbmJUNGxHZnl6X3dOTEY0ZGdhSUZkS0xMZWVHRi1YZ21CSU1MUWZ5aDNOX0dwZ3MzR3VUTW5LVkdNUHNYd1NST19sWUNJOHk3OUl5RkNQbU10SmxJcjh3TjFyVDJjSnFxNG5UOHJ4S2s5d0VGX2E0RUNLMXpmb0I0TG0yWlQ4TXctcWhIOHVpaUxmUWQ?oc=5",
+      "publishedAt": "2026-09-09T12:26:02.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "PRICE",
+          "LOGISTICS",
+          "TARIFF",
+          "EARNINGS",
+          "CAPACITY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Ford: Premium Mix, Aluminum Recovery, And Super Duty Capacity Support Earnings Upside (F) Seeking Alpha",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-09T14:37:53.672Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
+      "analyzedAt": null
+    },
+    {
       "id": "b8fa7caf7e0e2e2e32ab4c374b5d900f85f868ee2562aa2bb2164ef43379c356",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -17379,7 +17559,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-09T14:37:53.672Z",
-      "updatedAt": "2026-09-09T18:00:47.251Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
       "analyzedAt": null
     },
     {
@@ -17452,7 +17632,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-09T04:52:03.651Z",
-      "updatedAt": "2026-09-09T18:00:47.251Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
       "analyzedAt": null
     },
     {
@@ -17488,7 +17668,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-09T09:48:38.632Z",
-      "updatedAt": "2026-09-09T18:00:47.251Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
       "analyzedAt": null
     },
     {
@@ -17499,7 +17679,7 @@
       "summary": "Great Southern Copper commences IP survey at Cerro Negro Vox Markets",
       "source": "Vox Markets",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkIxMjMya1ZQWmdsZV96TExuSFozMDRFWHpxV3pwNmNtUDFtaEw0NFRBX1FhVktrZF9ZV2JzVlNVNE5uUndJUWhOY0t4UXBfOVdnZ29yNHU0S2x5YURqT1QyTThYQnB0ZFRhUVJrVjRqbTRXbERGR1pBUjVqVEk5WVl5UkUzN1IyOC1aZTRmQm9leEE3SzVBeVNfYm0ydm52TFE?oc=5",
-      "publishedAt": "2026-09-09T08:03:31.000Z",
+      "publishedAt": "2026-09-09T07:14:44.000Z",
       "priority": 30,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
@@ -17524,7 +17704,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-09T09:48:38.632Z",
-      "updatedAt": "2026-09-09T18:00:47.251Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
       "analyzedAt": null
     },
     {
@@ -17568,8 +17748,8 @@
       "commodity": "COPPER",
       "subCommodity": null,
       "title": "구리 가격 ‘천정부지’…전선업계 차입 의존도 커지나",
-      "summary": "구리 가격 ‘천정부지’…전선업계 차입 의존도 커지나 에너지경제신문",
-      "source": "에너지경제신문",
+      "summary": "구리 가격 ‘천정부지’…전선업계 차입 의존도 커지나 ekn.kr",
+      "source": "ekn.kr",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42RG9zcURocGl3NVFrLVRSMlAxamVkTjg0bTlrNUM5d3B6NHZlVHVMZUFEdWpHSGV0dDh0N2dSMjN1cE5jaFVIMjBSVEZOR2ZndjFHRzFGeEZNT3c?oc=5",
       "publishedAt": "2026-09-09T06:18:50.000Z",
       "priority": 30,
@@ -17581,12 +17761,11 @@
         "category": "Government Policy",
         "categories": [
           "PRICE",
-          "POLICY",
-          "ENERGY"
+          "POLICY"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "구리 가격 ‘천정부지’…전선업계 차입 의존도 커지나 에너지경제신문",
+        "summary": "구리 가격 ‘천정부지’…전선업계 차입 의존도 커지나 ekn.kr",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -17598,7 +17777,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-09T09:48:38.632Z",
-      "updatedAt": "2026-09-09T18:00:47.251Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
       "analyzedAt": null
     },
     {
@@ -17643,8 +17822,8 @@
       "commodity": "COPPER",
       "subCommodity": null,
       "title": "[원자재] 미국, 콩고산 구리 5만3290톤 수입… 가격차가 만든 쏠림 이선우 기자 2026-09-09 11:26:09",
-      "summary": "[원자재] 미국, 콩고산 구리 5만3290톤 수입… 가격차가 만든 쏠림 이선우 기자 2026-09-09 11:26:09 버핏연구소",
-      "source": "버핏연구소",
+      "summary": "[원자재] 미국, 콩고산 구리 5만3290톤 수입… 가격차가 만든 쏠림 이선우 기자 2026-09-09 11:26:09 buffettlab.co.kr",
+      "source": "buffettlab.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsaVo0RTJzVGJVMVN1UjA1STdoU3VydDJ2SFlCSFFYUUtLbVNlV2hYejd1emRZOHJubldPVFFCU0dPdkstWWt0bjVLUGFfQnR0RGFUNnk1Rlk2RlFlWFhIUmhB?oc=5",
       "publishedAt": "2026-09-09T02:26:09.000Z",
       "priority": 30,
@@ -17660,7 +17839,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "[원자재] 미국, 콩고산 구리 5만3290톤 수입… 가격차가 만든 쏠림 이선우 기자 2026-09-09 11:26:09 버핏연구소",
+        "summary": "[원자재] 미국, 콩고산 구리 5만3290톤 수입… 가격차가 만든 쏠림 이선우 기자 2026-09-09 11:26:09 buffettlab.co.kr",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -17672,7 +17851,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-09T04:52:03.651Z",
-      "updatedAt": "2026-09-09T18:00:47.251Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
       "analyzedAt": null
     },
     {
@@ -17709,7 +17888,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-09T04:52:03.651Z",
-      "updatedAt": "2026-09-09T18:00:47.251Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
       "analyzedAt": null
     },
     {
@@ -17745,44 +17924,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-09T04:52:03.651Z",
-      "updatedAt": "2026-09-09T18:00:47.251Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "74a3bda2c5f0f72e196c961f5f037d4773754ab976adadd10b799b5a87a79225",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Scales New Heights on U.S. Tariff Fears, Supply Challenges",
-      "summary": "Copper Scales New Heights on U.S. Tariff Fears, Supply Challenges WSJ",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEp6RlN2a3RNRXNfNW9NT3NycUxmZlVmMGpMWDZVaWdzUVBjMDFTMEtBOXQ3dTdoX2o5cldUVzl0ejNaUjRsQm5Eczh1MWdPQ1FISFROQzlNRXV6cE1fRG85S1QtLXJQRXcyOHFJbV9iUl9KTWVSclJUY0Z5TGhseUdRdGZsOVk0UHhncWU4SDV0OHd4MTRJNDkteGwxcGZPdnBiYjNsSE43eURvTE9yUTV6c0V5SkxoR2p3?oc=5",
-      "publishedAt": "2026-09-08T20:17:00.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "SUPPLY",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Scales New Heights on U.S. Tariff Fears, Supply Challenges WSJ",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-08T11:45:32.736Z",
-      "updatedAt": "2026-09-09T18:00:47.251Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
       "analyzedAt": null
     },
     {
@@ -17820,7 +17962,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-09T00:16:43.757Z",
-      "updatedAt": "2026-09-09T18:00:47.251Z",
+      "updatedAt": "2026-09-09T20:57:21.953Z",
       "analyzedAt": null
     },
     {
@@ -18518,153 +18660,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-08T01:28:48.879Z",
       "updatedAt": "2026-09-09T00:16:43.757Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ed105fd60283e38ec0689161b027ece487b80aba07e6fb512c0ca65436ef8f2f",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "관세 변동 속에 구리 가격이 사상 최고치를 기록했습니다.",
-      "summary": "관세 변동 속에 구리 가격이 사상 최고치를 기록했습니다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYXZIWTRDV0V1cHRWc0MxeEdpTTUyVkhrT1hSY0tRQ1FXT0JKMDZSTjI0ZDhOZXdfOG9XMzRCR2pmVHpiMG5Wby05Rm9saDN3R0x4Y2t3U0w5dGZOakV6YlBpSzM5QWxIZHNXRk5RLWwxSjRPUmpLSTdwV3JURmNPQ3h5dUc?oc=5",
-      "publishedAt": "2026-09-08T04:12:38.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "PRICE",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "관세 변동 속에 구리 가격이 사상 최고치를 기록했습니다. Vietnam.vn",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-08T06:33:02.762Z",
-      "updatedAt": "2026-09-08T11:45:32.736Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ea8e33b78a21cc514369cb08fc803d31119732e094dbee9cf57452f80eda5e00",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "\"High Prices and Off-Season Dampen Copper Billet Production in August; Modest Recovery Expected in September\"",
-      "summary": "\"High Prices and Off-Season Dampen Copper Billet Production in August; Modest Recovery Expected in September\" Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV0VRT1QtVHg2OXdoclUtX1EyQUFueVNybUdWaGdFOUVuQlB1ZVBSY3phOVVvNFJYQXdJdG1Rdlg3R29vblV2ZHVoZlhjaGNGRjhoRWVndDlOczMzYk1yc1dnWW5yMFNsUFVUMjV4U2VRTGFNU3NnVzVtODBNOEVySHNlRTMtSm9RbVFmSm56VDBTYXcxeXR4QklWaWtON0U3SmRCcHh1TDVvd0JmcjdSSk80a29tLTFHdXFyVmdra1hoMWI5ZUxJSnM2RmtlNU5Edkd4ZGhIVExMNTB5ekJLNXFfcnlrWTRfSEE?oc=5",
-      "publishedAt": "2026-09-08T02:34:10.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRICE",
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "\"High Prices and Off-Season Dampen Copper Billet Production in August; Modest Recovery Expected in September\" Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-08T06:33:02.762Z",
-      "updatedAt": "2026-09-08T11:45:32.736Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "f0e261b2111f95cd701726f75938a4b61b24b3923602e939ca077a4d37ab29b2",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Hits Record $14,533, but a 131,000-Ton Surplus Complicates the Rally",
-      "summary": "Copper Hits Record $14,533, but a 131,000-Ton Surplus Complicates the Rally TechStock²",
-      "source": "TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV2ZYTHpVaVFQTDN4dVRXM0g5RXZ6bEdQVjg3R25OZG5xZDdlOVVwOXFjRWlZZkZ5eWtLNWRkVVFKV0hoOGZLMHlDZTE0cUxPMktyLWFXUWR6cEFzaXEyMU5IdE54RU5Nc3RrSFoyME55NjFMck9yOTlLeDhNUzkxdlpoNkk3YkFJQXlRVDJqYWI2VEZwMEVr?oc=5",
-      "publishedAt": "2026-09-08T02:17:15.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Hits Record $14,533, but a 131,000-Ton Surplus Complicates the Rally TechStock²",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-08T06:33:02.762Z",
-      "updatedAt": "2026-09-08T11:45:32.736Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "d73b29044ce7885633b86fbebc4f61320d60cb32883646904cfb43ec1245892a",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "국제 구리값 사상 최고치…美 관세 우려, 조업 차질 겹쳐",
-      "summary": "국제 구리값 사상 최고치…美 관세 우려, 조업 차질 겹쳐 티제이비",
-      "source": "티제이비",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xbVdrSVdrQXFnVHg4Q3NYeTFZemhfWGx5cWpGbl9FN0E4dmdSa3lpcEYtRGtvUW9zMmZ3ZF9fVlRvbElKcVE5M01teGNvNld4NjJJOUFNdkRmQzNB?oc=5",
-      "publishedAt": "2026-09-07T23:21:33.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply Disruption",
-        "categories": [
-          "DISRUPTION",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "국제 구리값 사상 최고치…美 관세 우려, 조업 차질 겹쳐 티제이비",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T23:47:06.298Z",
-      "updatedAt": "2026-09-08T06:33:02.762Z",
       "analyzedAt": null
     }
   ]
