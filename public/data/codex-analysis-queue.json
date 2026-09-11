@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T11:24:14.761Z",
+  "generatedAt": "2026-09-11T15:13:35.368Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -185,6 +185,16 @@
       "codexStatus": "PENDING",
       "source": "finance.biggo.com",
       "publishedAt": "2026-09-10T15:25:00.000Z"
+    },
+    {
+      "id": "43658c5f9a10001719c934be014f984d580d9cbb6bd51d19f49e72de7ecdbce4",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "The European Commission has scrapped restrictions on the export of aluminium scrap",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "GMK Center",
+      "publishedAt": "2026-09-11T07:16:18.000Z"
     },
     {
       "id": "8d01ebc8ad05c87f2a4b03b3a221f0a7c5a0cbfee3c4096bb7702262ae67e8c0",
@@ -1677,6 +1687,16 @@
       "publishedAt": "2026-09-11T02:50:56.000Z"
     },
     {
+      "id": "ecd51951c2f9826cf13f8bb7e344aab0da85e7eaa5967526fe3430a63e49ffb5",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Potassium Ethyl Xanthate Market To 2035: Copper Demand Fuels 4% CAGR Growth - News and Statistics",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-09-11T12:11:19.000Z"
+    },
+    {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -2134,7 +2154,7 @@
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "SMM Metal",
-      "publishedAt": "2026-09-11T09:13:08.000Z"
+      "publishedAt": "2026-09-11T09:37:48.000Z"
     },
     {
       "id": "eed75731f79879ff7b15b4b9727e94fb9efdd1ceea579dd6f1155f3838a719da",
@@ -2545,16 +2565,6 @@
       "codexStatus": "PENDING",
       "source": "Energy News Network",
       "publishedAt": "2026-09-11T06:33:45.000Z"
-    },
-    {
-      "id": "2353152f88f56a77756c6f07272a749f1d4fb24bbd5c66cbac1da36af403a71b",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "South China aluminium premiums hit year-to-date high on rising southwest conversion rates, scarce ingot supply",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-09-11T08:47:43.000Z"
     },
     {
       "id": "c124b1ca28a82b4ec2fa50370721b0e70ebfcbd7ce714b05abd51c1b49f14b41",
@@ -4607,16 +4617,6 @@
       "publishedAt": "2026-09-10T15:51:00.000Z"
     },
     {
-      "id": "0569562c3c9344106d803db87fab5a23f49ace5252668152803512f84cc329b9",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "US-backed tin refiner agrees to buy up to 100% of Australian miner’s supply",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mining.com",
-      "publishedAt": "2026-09-10T20:58:18.000Z"
-    },
-    {
       "id": "69daaa230d987b80e78f7be9fb7347447007268d4fc9e130c0c149eb0c3e19ec",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4707,64 +4707,24 @@
       "publishedAt": "2026-09-11T10:19:12.000Z"
     },
     {
-      "id": "096b96b76aa8f5c4eff634375c673d9098aa130958bb9bf1d94c36f7b2558966",
+      "id": "596fc649cec2dd10fe4cbf0012793d9d03991cd17030285738a1a48bd34bf93c",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Retiring old tires in Copper Country -",
+      "title": "Copper Proteinate Complex Market To 2035: Growth Driven by Livestock Intensification and Electronics Demand - News and Statistics",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "The Mining Journal",
-      "publishedAt": "2026-09-11T07:48:28.000Z"
+      "source": "IndexBox",
+      "publishedAt": "2026-09-11T11:46:15.000Z"
     },
     {
-      "id": "77fb09ffe992d533d5127d4012fb1663f33eeba058852649e00949e80a234a12",
+      "id": "9587185d86dcbb622ad8a11da158c9f7f130e9d6f789aae28abb52a6b143fdf7",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Copper: Tariff risks keep prices vulnerable – ING",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "FXStreet",
-      "publishedAt": "2026-09-11T07:40:55.000Z"
-    },
-    {
-      "id": "560b4505f72b4eff7e001fc30737d013e736b924b3bfdc781f0cdb023403dd26",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper set to snap 10-week winning streak on White House tariff hesitation",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-09-11T07:35:00.000Z"
-    },
-    {
-      "id": "d791ae624c9c0f0621fa7cb58a05da0a6474bd8ba13b642945c272ef4889dcb4",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Phoenix Copper Reports $1.21 Million H1 Loss and Advances Empire Mine Study",
+      "title": "BHP, KGHM join forces in global hunt for copper",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Yahoo Finance UK",
-      "publishedAt": "2026-09-11T07:16:31.000Z"
-    },
-    {
-      "id": "e5f70dbf3b9a604ff0c64e4ac2c540b314f8a174c98b6f36da4fa3b70756d961",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "White House copper tariff decision stalls amid price concerns",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Northwest Arkansas Democrat-Gazette",
-      "publishedAt": "2026-09-11T06:47:00.000Z"
-    },
-    {
-      "id": "ef2eb3cc4a72cd74ffca92a90b88b1715d9657cccd5d440d003ce026d31604a5",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "DAILY: U.S. copper import tariff un...",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Mysteel",
-      "publishedAt": "2026-09-11T06:14:23.000Z"
+      "source": "The Northern Miner",
+      "publishedAt": "2026-09-11T10:48:56.000Z"
     },
     {
       "id": "8409f92ecd981b74a327f7f62fc409e6ba97e321ec85f7eac4ca19bb6d79088c",
@@ -4947,16 +4907,6 @@
       "publishedAt": "2026-09-10T13:43:43.000Z"
     },
     {
-      "id": "1566c0a94937f75f4e00ca9653f655b930ba34133d64898b7ee09556165328f9",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "미국 구리 채굴주, 구리 가격 하락세에 동반 하락",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com 한국어",
-      "publishedAt": "2026-09-10T13:00:00.000Z"
-    },
-    {
       "id": "d7b46333ab43ea175aa89c0984bc27718ff010490dc05f6d0e3091973f9a4b95",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -5005,6 +4955,56 @@
       "codexStatus": "PENDING",
       "source": "BNamericas",
       "publishedAt": "2026-08-28T19:16:25.000Z"
+    },
+    {
+      "id": "2353152f88f56a77756c6f07272a749f1d4fb24bbd5c66cbac1da36af403a71b",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "South China aluminium premiums hit year-to-date high on rising southwest conversion rates, scarce ingot supply",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "AL Circle",
+      "publishedAt": "2026-09-11T08:47:43.000Z"
+    },
+    {
+      "id": "0569562c3c9344106d803db87fab5a23f49ace5252668152803512f84cc329b9",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "US-backed tin refiner agrees to buy up to 100% of Australian miner’s supply",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining.com",
+      "publishedAt": "2026-09-10T20:58:18.000Z"
+    },
+    {
+      "id": "096b96b76aa8f5c4eff634375c673d9098aa130958bb9bf1d94c36f7b2558966",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Retiring old tires in Copper Country -",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Mining Journal",
+      "publishedAt": "2026-09-11T07:48:28.000Z"
+    },
+    {
+      "id": "77fb09ffe992d533d5127d4012fb1663f33eeba058852649e00949e80a234a12",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper: Tariff risks keep prices vulnerable – ING",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "FXStreet",
+      "publishedAt": "2026-09-11T07:40:55.000Z"
+    },
+    {
+      "id": "560b4505f72b4eff7e001fc30737d013e736b924b3bfdc781f0cdb023403dd26",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper set to snap 10-week winning streak on White House tariff hesitation",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-09-11T07:35:00.000Z"
     }
   ]
 }
