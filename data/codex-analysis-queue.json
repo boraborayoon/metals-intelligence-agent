@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T15:13:35.368Z",
+  "generatedAt": "2026-09-11T18:36:38.120Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -763,6 +763,51 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-11T15:13:35.368Z",
       "updatedAt": "2026-09-11T15:13:35.368Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "a11a44635719b289e783aff5a96c7e47b9290007cee926720ad3ab1c71802213",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Recycling Europe Welcomes Withdrawal of EU Aluminium Scrap Export Restrictions - News and Statistics",
+      "summary": "Recycling Europe Welcomes Withdrawal of EU Aluminium Scrap Export Restrictions - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkE2UF9GMDZCQ2ZtV01tUzVzbFUzTkVHNnlaeGpjQ21UaDVtb2JqajFtUThKXzZ1VE12cGc4TmZReDhzM0x1VlN6eEM2Zlc2TC1hOHVOeXRHbnRuQ3VKdmttZ2pBU0ZnWnZqOURpWDdERFNnMXFzSC1WRVFlWU16blU4WXp0SGV1bUhQM1ZLWWRvNkRoM2pSbHZtb3FkUmNPZGRlNEEwREJPbXpw?oc=5",
+      "publishedAt": "2026-09-11T10:50:29.000Z",
+      "priority": 53,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Regulation",
+        "categories": [
+          "LOGISTICS",
+          "EXPORT",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Recycling Europe Welcomes Withdrawal of EU Aluminium Scrap Export Restrictions - News and Statistics IndexBox",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "export restriction"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk",
+          "Export Restriction"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-11T18:36:38.120Z",
+      "updatedAt": "2026-09-11T18:36:38.120Z",
       "analyzedAt": null
     },
     {
@@ -6446,6 +6491,115 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-11T15:13:35.368Z",
       "updatedAt": "2026-09-11T15:13:35.368Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "47c1c91bf250374a3c2d469d725a5c41a333787e3d526d2516b90ca9f679c0a9",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Citi reiterates 0-3 month copper price view at $15,000/t",
+      "summary": "Citi reiterates 0-3 month copper price view at $15,000/t marketscreener.com",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEhXMDd2RGdoYllLTFlZdFowb0dhelBhWjdzUkg0eGlnTW8zU0hLY1hXNHdQaUJ3anYzd3VyNmtKQTZTZWx2UWozNnd6QTMzWWxrdy1BYnVlUTl2Qkh3R2Vsa1BTR1RrVlh5bUJ1WU1Sb0dFY1o1Yll0Z1p2cVV1ZWpfVnY2bXV3VF9NcE5GUnNHN2RVNUVVTDR3bUN5UjZXc0JILTlwLVdpNktB?oc=5",
+      "publishedAt": "2026-09-11T18:16:17.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Citi reiterates 0-3 month copper price view at $15,000/t marketscreener.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-11T18:36:38.120Z",
+      "updatedAt": "2026-09-11T18:36:38.120Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "21ab76fe8b0cfc4897d77302614ef69f9bc0130f9bd948f03f9e9486e89c7efc",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Mercuria and Glencore vie for Venezuela aluminum smelter deal - Bloomberg",
+      "summary": "Mercuria and Glencore vie for Venezuela aluminum smelter deal - Bloomberg Investing.com",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN0FueXZjSnlBaWRFUElFbDF5aXRXYnpYXzFYaVctOHFwSXQyR2JSZUN3YU5uT1Z3amlnOTBZdEl5VFJLTjdzNVlSSzdzLTVpNzlQU1lha0NOaWZBU1ZTeE5WbGdHQTNEUHY1Q3NkTWxKYjRYckZWUTVCbzNCaUU4SW0zVTA4bXFtSTVrczFwbFJMNU1zRzJ5OXRwUFVTWllUdUJUMzVqeVJIMDEyOWJvZjVsODY5TjAzTVJCYU9pelYtcmhvQ1dBdGU4bFZIdm8?oc=5",
+      "publishedAt": "2026-09-11T17:48:45.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Smelter",
+        "categories": [
+          "SMELTER"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Mercuria and Glencore vie for Venezuela aluminum smelter deal - Bloomberg Investing.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-11T18:36:38.120Z",
+      "updatedAt": "2026-09-11T18:36:38.120Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "efc14b441cbc3fa7f1f32308e632f7084e1fdd6865dc30855d73e4841537e41f",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "메르쿠리아와 글렌코어, 베네수엘라 알루미늄 제련소 인수 경쟁 – 블룸버그",
+      "summary": "메르쿠리아와 글렌코어, 베네수엘라 알루미늄 제련소 인수 경쟁 – 블룸버그 Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85Qk5MX3Y0cmF1MFp6b1RwUmVjZGpGWEdoY2swT2RTN2JPeE4yU1NCb3Bna09BZXZtRDF1a2hOSkVPTnJyNEx4THRxcFNtelBDY3hyY3MtOHItOW54WTdNZWNEWTE4azRpQlludzc1cmNoQ08zUTJF?oc=5",
+      "publishedAt": "2026-09-11T16:26:00.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Smelter",
+        "categories": [
+          "SMELTER",
+          "M&A"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "메르쿠리아와 글렌코어, 베네수엘라 알루미늄 제련소 인수 경쟁 – 블룸버그 Investing.com 한국어",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-11T18:36:38.120Z",
+      "updatedAt": "2026-09-11T18:36:38.120Z",
       "analyzedAt": null
     },
     {
@@ -17478,42 +17632,6 @@
       "analyzedAt": null
     },
     {
-      "id": "390026cba33626dbceaea72d7c1189dcac50e78a33f1f9a3e10e8758362c61d4",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper on track for first weekly dip since June on US tariff doubts",
-      "summary": "Copper on track for first weekly dip since June on US tariff doubts TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGlrQXk5b1NqaG1hZDQtR0VnVjF5MDNOU2lTQmpoNHUzRkpuSE0wZXp1bWlqTzZEYVBkcFZGYjJfTEplbUVBemYzSHRaRjlFZlFmNURRSTlXNUo4V05ZaVgxMkZUNjRQQXpYQm5QNlJtUURkSXFna0RrV2JBNjdHVmU3blJDVi1FUXI5cFlmZUtBTG0yaUwzWmZaME5GVmhXc2tfdzZYYnR2djdzS01qN0dTVjlKUmE4c1hlZWVocy1VajZpQklPZkZuOXhJTS1GMThB?oc=5",
-      "publishedAt": "2026-09-11T10:19:12.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper on track for first weekly dip since June on US tariff doubts TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-11T11:24:14.761Z",
-      "updatedAt": "2026-09-11T15:13:35.368Z",
-      "analyzedAt": null
-    },
-    {
       "id": "596fc649cec2dd10fe4cbf0012793d9d03991cd17030285738a1a48bd34bf93c",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -17583,6 +17701,80 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-11T15:13:35.368Z",
       "updatedAt": "2026-09-11T15:13:35.368Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "74fa8f66a33e519e6429759507455e585e218c7894c6793fbb47d72a01017949",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "EU drops aluminium scrap export duty over concerns about India deal",
+      "summary": "EU drops aluminium scrap export duty over concerns about India deal UA.NEWS",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORFY2X0dvdEh1WVA5YUh0Vjl2RmJ1SFhRUDU0Wkk1ajRjdUNyNlp2OXFZQnBxREJYMFNtODJ5clNQTDgwcGlnVFF5TlNCWkRKRFl0ZGR5bU1NTEt0Zm9OYVVGYjhURHdzdWpaXzVpRVAySWtLRWVfQUpnTnhjVjBDRXNaY3FzUDNGZmNoRjFwd29WVVB3ZGR6WUpnblliZUhPWExrbWw1SDd5UnJCTVR3bjBUSTVNZHZPbndxY29BRkNzYTdEYjBfcVQ3aHVnUQ?oc=5",
+      "publishedAt": "2026-09-11T17:57:07.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "LOGISTICS",
+          "EXPORT",
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "EU drops aluminium scrap export duty over concerns about India deal UA.NEWS",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-11T18:36:38.120Z",
+      "updatedAt": "2026-09-11T18:36:38.120Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "ead19f713db1d9b0d004e5da7d8f1691f3bb8e66ef32fa2fabf6f7f6a35cb81b",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Carbon fiber, aerospace aluminum, and 'up to 20 card' capacity headline this wallet, now $20",
+      "summary": "Carbon fiber, aerospace aluminum, and 'up to 20 card' capacity headline this wallet, now $20 9to5Toys",
+      "source": "9to5Toys",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekt3RlZKQnZJNDgyWXA1aU1kRjBhR1QteFl2azh4LW9haUlQaXJvR2lMUHZNVjFkc1hKMW5GanpSdzk0WHZPeWEzWGdlZmVENHR0ZlNXN0phTmRscTZZR3NXbHcxRG5kMENHYlIzZlNLaW9iSEx0Vk9ndmR2eEdISEVBUE93VHQzVGI0NUowOWF6cUFNekRtdjYtRQ?oc=5",
+      "publishedAt": "2026-09-11T16:31:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Capacity",
+        "categories": [
+          "CAPACITY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Carbon fiber, aerospace aluminum, and 'up to 20 card' capacity headline this wallet, now $20 9to5Toys",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-11T18:36:38.120Z",
+      "updatedAt": "2026-09-11T18:36:38.120Z",
       "analyzedAt": null
     },
     {
@@ -18452,192 +18644,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-28T19:10:19.876Z",
       "updatedAt": "2026-08-29T07:10:19.938Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "2353152f88f56a77756c6f07272a749f1d4fb24bbd5c66cbac1da36af403a71b",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "South China aluminium premiums hit year-to-date high on rising southwest conversion rates, scarce ingot supply",
-      "summary": "South China aluminium premiums hit year-to-date high on rising southwest conversion rates, scarce ingot supply AL Circle",
-      "source": "AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRmFEdU9KbEk1YU82UWhlaEJBQUpPeWZrTWdxS2hUdmN2MmFqR2h4VWVoZTROUnBfMlBqTGxQTTNROVJyemtUbXVoUU9ieDBxNFZmZ2RrX242NjZXZVlCUWpUaUJ2aE1hQ1lBMjZhUnR1ay1XZVMxUVVKdlRtWFQ3SDBWOVlTWXU5ckNSYUhvaTlNcjV3UTBGS3B3ZEZtNnZINmJJbWJSVFJ6QmMyRFA2RC1IZEt3Z1BpWm55aGM3QXQ1YWU3QXJ3ZzBsdTFQQmFEX2tVR21NZE9HXzRRMGs4?oc=5",
-      "publishedAt": "2026-09-11T08:47:43.000Z",
-      "priority": 31,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "South China aluminium premiums hit year-to-date high on rising southwest conversion rates, scarce ingot supply AL Circle",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-11T11:24:14.761Z",
-      "updatedAt": "2026-09-11T15:13:35.368Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "0569562c3c9344106d803db87fab5a23f49ace5252668152803512f84cc329b9",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "US-backed tin refiner agrees to buy up to 100% of Australian miner’s supply",
-      "summary": "US-backed tin refiner agrees to buy up to 100% of Australian miner’s supply Mining.com",
-      "source": "Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlJxeXkwblF1czNTR0hYUGNqejByZXBTbm4yV0QzaU45S0pFOVhod3BZQ0dxME9yc1p4Sm5oTEI5ckE2c25TS2Fkd1BheXYyaUY2c2Nuem1tQW5HcTJfNVVvUG4xN0UtTlpMMDBwSTltTjM4YWZKbW4ySW5WZDNUM3oyUnNhQ21YRnhEWDdqaE9rem42NWhOdW16UmxWNnZjNzd3?oc=5",
-      "publishedAt": "2026-09-10T20:58:18.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "US-backed tin refiner agrees to buy up to 100% of Australian miner’s supply Mining.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-10T21:13:22.630Z",
-      "updatedAt": "2026-09-11T15:13:35.368Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "096b96b76aa8f5c4eff634375c673d9098aa130958bb9bf1d94c36f7b2558966",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Retiring old tires in Copper Country -",
-      "summary": "Retiring old tires in Copper Country - The Mining Journal",
-      "source": "The Mining Journal",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzVXlncWhnYWJmak5OZWdNMjJKV3o3S2VnVGhmclp0eXdfZTlUQkVEX0FoMk81WGZVTHlDSnhBLXNadnFqa3QzVXg0T0EtTkV3U3dyR1phS0N1V0ZUcDMtZG01SFB0QjJFNlRFN3dIb0FlaWVqTlZn?oc=5",
-      "publishedAt": "2026-09-11T07:48:28.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Retiring old tires in Copper Country - The Mining Journal",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-11T11:24:14.761Z",
-      "updatedAt": "2026-09-11T15:13:35.368Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "77fb09ffe992d533d5127d4012fb1663f33eeba058852649e00949e80a234a12",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper: Tariff risks keep prices vulnerable – ING",
-      "summary": "Copper: Tariff risks keep prices vulnerable – ING FXStreet",
-      "source": "FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWNTT3ppMTdEekJIY0FCZVozN2NremFvZHNhaTJRSjZ4eDhVTWVlcWoxd2dEbC03RXpvTXRyWXNBX2pRRm12N2M4UDhYcVMtNUx5dVNFc0VUNEVJUHRwQjhWdHFfcFJrblBobGJxQnJuUDdzeTI5Q21nYXNxSjdaUUxlTnlLNmR5SVBYZmNLZFFpNWc?oc=5",
-      "publishedAt": "2026-09-11T07:40:55.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "PRICE",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper: Tariff risks keep prices vulnerable – ING FXStreet",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-11T11:24:14.761Z",
-      "updatedAt": "2026-09-11T15:13:35.368Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "560b4505f72b4eff7e001fc30737d013e736b924b3bfdc781f0cdb023403dd26",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper set to snap 10-week winning streak on White House tariff hesitation",
-      "summary": "Copper set to snap 10-week winning streak on White House tariff hesitation TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajl0cHZDX045eU5waXh4dHJVN2tKUG1CS1BNMTZuMEpmZUh3NXJKbS05ZWpPQW1fTzR5RmxoNV83bl82SFlNQW1rSWY3b25sYzhyZDFpT3habkNqOGZCdjNmZFJOSTBYWFhwTDFCVVFFbWxFa01Zalg2djZ0WHZDWl90SXJhR29LTWJJZEhwdmJuRTJQaFRNZjZiS0RuM3BZc3BWbkl0M3JBRTVvcnFjTzFuUnZnZEY3S0ZnVDJlcXEtRGFyOGdkNXo2czkxSmItTTlITVFGYWtpTlE0?oc=5",
-      "publishedAt": "2026-09-11T07:35:00.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper set to snap 10-week winning streak on White House tariff hesitation TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-11T11:24:14.761Z",
-      "updatedAt": "2026-09-11T15:13:35.368Z",
       "analyzedAt": null
     }
   ]
