@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T18:36:38.120Z",
+  "generatedAt": "2026-09-11T21:20:36.434Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -808,6 +808,51 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-11T18:36:38.120Z",
       "updatedAt": "2026-09-11T18:36:38.120Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "1d768f08f8e12c051bf862bc629545d5b86db2306d41a638712323c9e65e539c",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Relief over withdrawal of EU export restrictions on aluminium scrap",
+      "summary": "Relief over withdrawal of EU export restrictions on aluminium scrap Recycling International",
+      "source": "Recycling International",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVXNpTW4xcEtoTUs3Q2J1SENjVEpQLVRHNGVJUktYMnd0WmxMeFdCbWlreHNzQmlrYXBUTDlOTWIwbFVodkRROF9tVUUyWUUyMzFFdnpxU1R5WWhUbWNvRGExdE5jc2thR2x0ajlWWWxGYnhrS3dUVkpfVEpxcF9GWUdOQmtyb29lM3FRNGZad2xZOUtBREY4U1BjeEtqOGpKNGVyN0stczUyTUNpOXc1aE52MWxpdmpGMDVXOFBiR2QzWDVkWDByTmx6SEN1cXNtSU9DdmxFWDNxOFlQNk0tejRtUWM?oc=5",
+      "publishedAt": "2026-09-11T10:16:04.000Z",
+      "priority": 53,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Regulation",
+        "categories": [
+          "LOGISTICS",
+          "EXPORT",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Relief over withdrawal of EU export restrictions on aluminium scrap Recycling International",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "export restriction"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk",
+          "Export Restriction"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-11T21:20:36.434Z",
+      "updatedAt": "2026-09-11T21:20:36.434Z",
       "analyzedAt": null
     },
     {
@@ -6603,6 +6648,42 @@
       "analyzedAt": null
     },
     {
+      "id": "d263737835192c9547cc954b1dc19970b28a2681afdcad67ac61a3f9bf25a0b2",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Vicuña picks Argentine consortium for Section A of Josemaría copper mine road",
+      "summary": "Vicuña picks Argentine consortium for Section A of Josemaría copper mine road bnamericas.com",
+      "source": "bnamericas.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWnNidkxFU0VFNTVMZW84MFlwa1R3RWFqcWhaaEFwMVIzMWNGQmtaWllLSDI1bDlxMUpsQXp5a00wZEJsR0ktZE1BbFU0V2pmMVg3QlBGQmpzbzAtTGJsczl4bThjWS1xN0NmdVBYb0EzOUN1cTVpcGUtT3ZFVjFvUV8xTDl0UFBxSS1qdDEwQm9lc0dnY3hCdU1UZlBLN19wUkVSWTF5Y3RoTDV2VUw2ZXNn?oc=5",
+      "publishedAt": "2026-09-11T20:03:45.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Vicuña picks Argentine consortium for Section A of Josemaría copper mine road bnamericas.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-11T21:20:36.434Z",
+      "updatedAt": "2026-09-11T21:20:36.434Z",
+      "analyzedAt": null
+    },
+    {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -8287,6 +8368,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-11T11:24:14.761Z",
       "updatedAt": "2026-09-11T15:13:35.368Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f4157937433a529d3d6cd439ff850ead9b91b763641e68d66aff4649bf034bc6",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Delhi man pleads guilty to possessing stolen copper scrap",
+      "summary": "Delhi man pleads guilty to possessing stolen copper scrap WBNG",
+      "source": "WBNG",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNakxkVUc3NkZYeEp6MW1vcUU2eVRKaWF3QmNqVXc1N0pqaDRfOFEydHlPdVN5eEp3RWlSYll4SmRMUlpRRk9Hb0ctdGNuMmw2LUJDLU1pX1ZnVUgteTV4dWQtWUg3X01HWDVGOGdzQTlDbFQ3aWF6WWY2SmpLS2R4T29sczd0M0FNQVc0Mld4aUc?oc=5",
+      "publishedAt": "2026-09-11T19:01:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Delhi man pleads guilty to possessing stolen copper scrap WBNG",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-11T21:20:36.434Z",
+      "updatedAt": "2026-09-11T21:20:36.434Z",
       "analyzedAt": null
     },
     {
@@ -17774,7 +17891,44 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-11T18:36:38.120Z",
-      "updatedAt": "2026-09-11T18:36:38.120Z",
+      "updatedAt": "2026-09-11T21:20:36.434Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "c84fe681069be474c9b01d335aafc0b83e1b9b451de53e7c42f2572817b41fd1",
+      "commodity": "TIN",
+      "subCommodity": null,
+      "title": "Naphthenic Acid Collector Market To 2035: Growth Driven by Tungsten and Tin Mining Demand - News and Statistics",
+      "summary": "Naphthenic Acid Collector Market To 2035: Growth Driven by Tungsten and Tin Mining Demand - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV1MyeFhxVmF0Z0dTUlJjVUV0cnNDNWVnazRPalhlbWZDUnItWDIwZ0JrTU9ILVlaeUJQbHlNa1hSRUlFd3B3bXVzQnlwQWV6OVRlcVVmSkNKN2l3RnVIR2tmaGNocnVvZlRtMVNRcHQwVktpZWMyNkNCMHFMakxYREY3X3ZobnlFUktnaUZ0Tm5VRTRDeDcxeHhIRXdBeUNnWjZlT1p1REJjWmtKWEtzU0Ruc1lYX0JXYVFnbHBqZHZYNVpHOUM2cmx1a28?oc=5",
+      "publishedAt": "2026-09-11T18:16:11.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND",
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Naphthenic Acid Collector Market To 2035: Growth Driven by Tungsten and Tin Mining Demand - News and Statistics IndexBox",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-11T21:20:36.434Z",
+      "updatedAt": "2026-09-11T21:20:36.434Z",
       "analyzedAt": null
     },
     {
@@ -18495,155 +18649,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-10T15:11:51.650Z",
       "updatedAt": "2026-09-10T18:30:24.038Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "6c302f52c2b4dc7f3b345f790d65cb4ea24e262e5fd8a6d3f9bc265745ed1017",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "BHP appoints Worley for SA copper project expansion services",
-      "summary": "BHP appoints Worley for SA copper project expansion services Mining Technology",
-      "source": "Mining Technology",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQamI5RGNLY2tjb1NyaDFaMElQR0NRTVpEcjBRc2o1VDNSN2dMR1oybUR6QktBdDlSanBHY3RVV19jYWJIdnRCc1RQMVM2UnpkdUtkaXFkRnEwa2JIaExFSzAtVjlTOGdTeTZZYjVDd3BMQlo0YjhVb3RVVWozZTN4UFh2SQ?oc=5",
-      "publishedAt": "2026-09-08T07:34:44.000Z",
-      "priority": 32,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Capacity",
-        "categories": [
-          "MINE",
-          "PROJECT",
-          "CAPACITY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "BHP appoints Worley for SA copper project expansion services Mining Technology",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-08T11:45:32.736Z",
-      "updatedAt": "2026-09-08T15:22:32.378Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "c5a35692f22cd4bd7346c6c95136b77dab14527923a3b99763990d6f340a8193",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Plate/Sheet and Strip: Copper Prices and Off-Season Weigh on August Operating Rates; YoY Performance Still Strong Supported by Rigid Demand [SMM Analysis]",
-      "summary": "Copper Plate/Sheet and Strip: Copper Prices and Off-Season Weigh on August Operating Rates; YoY Performance Still Strong Supported by Rigid Demand [SMM Analysis] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPOEd1NHBhUzZHMzFRNHg0TjVmLTJUcVUyY0Y4WV9tY0ZHVkJJbmdLY0pfMkxxUEtIYm15VnJ2bE4wT2NGZXk5R0kwNXhmRWFreThPTGJSS0xSci1xckpzYlh2TWxINGhrUkRFMUhNaTVib0UxSGRrQkRlSkx0XzM1Q1YxaDRMWkI5SElub21fWTYybEhtX09WRXVUalVzMnBFSUtlQzk2ajB4cndKWjZtelhQNFVXc0RNQ29FTjdUenk0Q3NTSUtHXzlGNzNTUFRGbURMcXlRak5WT2ROZ2std3hRcDVoYVd2b0JLY0tPSlJidmdZVmhBMzI5cWdDOHFuWkxPblUwY051RVlPcTBra1hydFc5ak9IUUFoMFFxTkNOMHdLVFRZeXJFbTA?oc=5",
-      "publishedAt": "2026-09-08T01:59:03.000Z",
-      "priority": 32,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "PRICE",
-          "DEMAND",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Plate/Sheet and Strip: Copper Prices and Off-Season Weigh on August Operating Rates; YoY Performance Still Strong Supported by Rigid Demand [SMM Analysis] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-08T06:33:02.762Z",
-      "updatedAt": "2026-09-08T11:45:32.736Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "e305ecc74304d4b0905f694450f3ad76bd7480fbe0fb9b989adf089691bada7e",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper concentrate TCs drop further with sulfuric acid profit complement also falling",
-      "summary": "Copper concentrate TCs drop further with sulfuric acid profit complement also falling Mysteel",
-      "source": "Mysteel",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVVyVlVxcWxpMF9TN0EwYUN5SVREdnFaeWpIeGhOM0N0R3dBZUVlei1Lc1dZcW1BTVByRXhDaTI4aFl4elVTZmZrZTl3X2wwZFktSGVJeHA3TXMzSTAxN2VaeHpzYUhfN3pHTjk1Wk5BMWZBYXZUZTRwcS1FUDdhUVF1bUFQYTJFcllwYTVUS09SVDRpbk5ZRVVpRld6SGdQSVZuNGg3d0xwai1SNVpoR244U2tPcGtVS2RfNE9fZnNMR0RxZUE?oc=5",
-      "publishedAt": "2026-09-01T14:16:12.000Z",
-      "priority": 32,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper concentrate TCs drop further with sulfuric acid profit complement also falling Mysteel",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-01T18:33:11.351Z",
-      "updatedAt": "2026-09-01T23:34:25.237Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "428c332c3963c5bc92b4128f15dd30090749cfce8c8bbcc0f4a8ae58a217e030",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Codelco: profit and EBITDA jump 68%, despite lower copper output in H1",
-      "summary": "Codelco: profit and EBITDA jump 68%, despite lower copper output in H1 BNamericas",
-      "source": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWpZRWhuOXFONS1hMkRGdUtNRDdUaFNhZ0dDU3VVLXRtNExiaGJrQjV1SkVpak1oeVdaemdVUlB2NFJjTHpkaUJ4RXczRVo0dmVWUmhLS0NUWVR4RlpRQUFzMDRPWHJLNnU2RkU4b0x4QU43UnhJQmo2a3o1eE1mZmpQRE5uYXppTGxGcGlOQ1piMFVleHZxZWdpQWVBNThONkRLRkpZQjR0QQ?oc=5",
-      "publishedAt": "2026-08-28T19:16:25.000Z",
-      "priority": 32,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION",
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Codelco: profit and EBITDA jump 68%, despite lower copper output in H1 BNamericas",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-28T19:10:19.876Z",
-      "updatedAt": "2026-08-29T07:10:19.938Z",
       "analyzedAt": null
     }
   ]
