@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T06:32:00.183Z",
+  "generatedAt": "2026-09-12T11:16:35.525Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -75,6 +75,16 @@
       "codexStatus": "PENDING",
       "source": "MLex",
       "publishedAt": "2026-09-04T16:04:00.000Z"
+    },
+    {
+      "id": "ad5a3995da13668fdbfd1419c63d99718b44933806513e28e261ae0112c53ea8",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "EU aluminium scrap export measure delayed as Commission shifts from duty to non-OECD restrictions",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "AL Circle",
+      "publishedAt": "2026-09-12T06:10:16.000Z"
     },
     {
       "id": "5bc80f59e417ace7d109d270e4387e1c6008552b8441cd6c77e8f1cd4e8006a0",
@@ -4995,16 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Interesting Engineering",
       "publishedAt": "2026-09-01T14:35:00.000Z"
-    },
-    {
-      "id": "a34275c9ac2120f7b35dbae8d0aae32498aa14157d8b42bfa390ab07730fcafb",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Prices Pull Back, Copper Scrap Traders Hold Back From Selling [SMM Secondary Copper Daily Review]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-02T06:57:46.000Z"
     }
   ]
 }

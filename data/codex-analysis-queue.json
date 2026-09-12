@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T06:32:00.183Z",
+  "generatedAt": "2026-09-12T11:16:35.525Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -306,6 +306,47 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-04T18:25:36.351Z",
       "updatedAt": "2026-09-04T18:25:36.351Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "ad5a3995da13668fdbfd1419c63d99718b44933806513e28e261ae0112c53ea8",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "EU aluminium scrap export measure delayed as Commission shifts from duty to non-OECD restrictions",
+      "summary": "EU aluminium scrap export measure delayed as Commission shifts from duty to non-OECD restrictions AL Circle",
+      "source": "AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb2tnOGo0aWFldFQtZkQyZDRaRTVaY3Q1SFdwYU81UDIwLUR4WmNhZjZtSjhZdENwdFRpQ1NoWFFIWEVEdE5TOGxlV0l0U0xlNW9kOEM3ZmlUU2p4WVk4c0cyWlFkRTFpVjh1SGt3RUxyQ2xTT3A1VUd0Mld0VnJKajJnTGZGVjZ3UUk3ZEJqU0RlRlNkRklOYVV0QWh2TFY3NG4zT080SnBNQmhLLXFyYklHTFBrMWtXMXl0enpyUFBzdUh6VUxaVTZ5elFoSnM?oc=5",
+      "publishedAt": "2026-09-12T06:10:16.000Z",
+      "priority": 57,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "LOGISTICS",
+          "EXPORT",
+          "TARIFF",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "EU aluminium scrap export measure delayed as Commission shifts from duty to non-OECD restrictions AL Circle",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Export Restriction"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-12T11:16:35.525Z",
+      "updatedAt": "2026-09-12T11:16:35.525Z",
       "analyzedAt": null
     },
     {
@@ -18599,43 +18640,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-01T15:12:25.095Z",
       "updatedAt": "2026-09-01T18:33:11.351Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "a34275c9ac2120f7b35dbae8d0aae32498aa14157d8b42bfa390ab07730fcafb",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Prices Pull Back, Copper Scrap Traders Hold Back From Selling [SMM Secondary Copper Daily Review]",
-      "summary": "Copper Prices Pull Back, Copper Scrap Traders Hold Back From Selling [SMM Secondary Copper Daily Review] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUGtEMldBSDd3OHJveDd1eXR2QzZ1cmNWY0dYV2lLVGlrNkJLbDhsWW1CRHBmTmk2ZnJjMWtsTVhBMzlFYld0VjhFT0F0QU5mejVoSEpFQnMwUTFVV3RESTBEdEgxZU9wMGpQSmdaNUkzcThSZXZBRTA2S25NZ21lTWFWSDY3MlNwVGpZODRRM1M3UmdZdi1UVU9fZ1g5ZlRMekFBV3BfNWpTN3RnUXpPTWF0YmZKU1ZpNkFvdXlVdG5ZTHAwRGNtbTFoRHVQQXpId3Bib3lqODRPdDVSNWpzQ1Y2MA?oc=5",
-      "publishedAt": "2026-09-02T06:57:46.000Z",
-      "priority": 33,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "TRADE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Prices Pull Back, Copper Scrap Traders Hold Back From Selling [SMM Secondary Copper Daily Review] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-02T21:50:58.613Z",
-      "updatedAt": "2026-09-02T21:50:58.613Z",
       "analyzedAt": null
     }
   ]
