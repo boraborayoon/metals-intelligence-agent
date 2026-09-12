@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T21:41:42.398Z",
+  "generatedAt": "2026-09-12T23:25:07.757Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -8773,6 +8773,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-12T17:13:26.208Z",
       "updatedAt": "2026-09-12T17:13:26.208Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "e81e83c74374bfbafcfb87ef1a81c8ca8cc072e5642c82f2fa27a5001b420014",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Freeport-McMoRan (FCX) Slides On Copper Tariff Doubts, Is Fair Value Still Higher?",
+      "summary": "Freeport-McMoRan (FCX) Slides On Copper Tariff Doubts, Is Fair Value Still Higher? simplywall.st",
+      "source": "simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMkp5OVJtb2lkT1R1d2FDc0RFRmJjb092aXp0VXFOamNnQ2V6MldtWDN4c1pTWS1hdVA1VDRkd3FaRGlXYVZTRFNtb09qNWRoazhFM2MwOWxQNmRObEZzRWJPYzN5UFU4QkxUUzlkMC04UXZEYXV0OHNvZXpBYjZiSjZCa1JrQWhxdWpycHl3WjNMOTFwbDlZbGk2azhsUXRmbGlXY283QTdNM3M0cl9ib3h1Qk5wZUVPV1pydFY0MkljTEt2eWQ0ZFpPN1_SAdIBQVVfeXFMUGdwcjVaZDRqUnlXeXFYZWlROEg2NmFIRGVGRElCSXpwWEd3enpFZ3R5TDNneUJnX2Y3UFRabTJNekNrRTM2NFc5QmpaV3pkVnhMRXFsMnJIOVpXY2ZZN29FTUw2anNGVDdvNTVWUThIeGZ1MkR1a3NvQUY1Umx2ak43cC1qdFdfTjhMcXZRTHV5SUNJSkdiOERBTVJVTFZtX0laX0V3RDktN0pCWDk3aW9sRkNNU2k1MVJKYUN2dDhMNWZfb25PUnJGd1BfVk9SNGJ3?oc=5",
+      "publishedAt": "2026-09-12T23:22:21.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "LOGISTICS",
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Freeport-McMoRan (FCX) Slides On Copper Tariff Doubts, Is Fair Value Still Higher? simplywall.st",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-12T23:25:07.757Z",
+      "updatedAt": "2026-09-12T23:25:07.757Z",
       "analyzedAt": null
     },
     {
@@ -18589,45 +18626,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-10T15:11:51.650Z",
       "updatedAt": "2026-09-10T18:30:24.038Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "e952dd43288b8e5a0dab80c1d83d4bffa5a0f008717eeb9b8e2447ea3b82156b",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Sumitomo Corporation Joins Chile Copper-Gold Mine Development, Securing 5,000 Tons Annual Copper Interest",
-      "summary": "Sumitomo Corporation Joins Chile Copper-Gold Mine Development, Securing 5,000 Tons Annual Copper Interest finance.biggo.com",
-      "source": "finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03QVpxUHVUYUt4bzAyRldaSkw1MEF6bjZ4NVJtQkg5MHJBSmFTRUl2SGtwajhac05NdWJ1LUd1eUVxU1VkVklwZldjWUxndDNKd2JJS0ZtSHBzcXN0ODBibnB0c3lvVWdpQjIyTlVRajhBTXJacUE?oc=5",
-      "publishedAt": "2026-08-28T06:39:57.000Z",
-      "priority": 33,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "COMPANY"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Sumitomo Corporation Joins Chile Copper-Gold Mine Development, Securing 5,000 Tons Annual Copper Interest finance.biggo.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-28T07:10:19.800Z",
-      "updatedAt": "2026-08-28T12:40:19.842Z",
       "analyzedAt": null
     }
   ]
