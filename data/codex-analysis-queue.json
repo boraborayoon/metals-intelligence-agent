@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T01:35:21.255Z",
+  "generatedAt": "2026-09-12T06:32:00.183Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -2206,6 +2206,44 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-11T11:24:14.761Z",
       "updatedAt": "2026-09-11T11:24:14.761Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "8299ee2a133636df126ec006e71ae0a00b8bb007e9050c6a815043089203622c",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "백악관, 정련 구리 관세 유보…미국 내 비축량은 사상 최대",
+      "summary": "백악관, 정련 구리 관세 유보…미국 내 비축량은 사상 최대 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWE44VGpEbUlPNFVnUWRBenM1bEVDU1U4QlJZR2NBY1ZUYm5MbFZvZmhVaWY2SXdMZXlMZXJqeTUzbVFxTFdlV2JjbG40QjBZN2N4dVZBNHhRV2p1RVRBWjVDQ1Y2Z2FSdUFhNnNJbkY4ZzJhNXhNbUcwWm9ORUxDU2hUdDdqNjJs?oc=5",
+      "publishedAt": "2026-09-12T02:33:11.000Z",
+      "priority": 49,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "INVENTORY",
+          "REFINERY",
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "백악관, 정련 구리 관세 유보…미국 내 비축량은 사상 최대 글로벌이코노믹",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-12T06:32:00.183Z",
+      "updatedAt": "2026-09-12T06:32:00.183Z",
       "analyzedAt": null
     },
     {
@@ -6720,6 +6758,42 @@
       "analyzedAt": null
     },
     {
+      "id": "241755c21344843e2e62910a7a15ba9d5e725a597fc427d95a0d4bf8b34b956f",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "중동 지역의 긴장 고조로 알루미늄 가격이 상승하고 있다.",
+      "summary": "중동 지역의 긴장 고조로 알루미늄 가격이 상승하고 있다. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrTHNCMHdNZU9wUEhlUnhKR2tSdzlqNGtLYlNlMUVmLUZyMzBYcVFKMlpJSGJWNkFUaXJyU0tnQUlFTlRldWMzZWpnaEFVRUFlZnNiUHJYS0ttS042NWFQakZEVlNGRVJTNlJWX3EwT3Q0RkEyMHBB?oc=5",
+      "publishedAt": "2026-09-12T03:52:46.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "중동 지역의 긴장 고조로 알루미늄 가격이 상승하고 있다. Vietnam.vn",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-12T06:32:00.183Z",
+      "updatedAt": "2026-09-12T06:32:00.183Z",
+      "analyzedAt": null
+    },
+    {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -6940,6 +7014,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-11T06:01:53.608Z",
       "updatedAt": "2026-09-11T06:01:53.608Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "442317ca28bf7e43fae48426cbf6fef0be0cd00d4bc5defcb6a940ad7da5cea6",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "AL Circle Analysis: Rising bauxite supply, India’s alumina surplus and US policy reshape the aluminium industry",
+      "summary": "AL Circle Analysis: Rising bauxite supply, India’s alumina surplus and US policy reshape the aluminium industry AL Circle",
+      "source": "AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQelZCUXhLVkF2RzNqWjBmeDZ3VTJOTXJEZ2t3UTVlTHBNbF9sTzQ2c1BmV01yOHkzYmRTdmpIWnN2Zm4xd21ENVl2T2Z3ZUc0ck5IT1pNaHVMbWF2Z2thQ3h1LWtSUGdfc0V4dEJEVmx5cldPRmZWd2lIakF5VXNhWFFpNFVYZjMtUy1Sc3Foalh2NDB5aHE2MExoSXJOSENMS2F0aTloREJFZDRfSlJQdlVFTDYzUDRZOW5NbnV2WXBoZEFXeldrdXNwWkFReVE3YUwyMXp0TURIaUdOdHc?oc=5",
+      "publishedAt": "2026-09-11T23:39:38.000Z",
+      "priority": 37,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Government Policy",
+        "categories": [
+          "SUPPLY",
+          "POLICY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "AL Circle Analysis: Rising bauxite supply, India’s alumina surplus and US policy reshape the aluminium industry AL Circle",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-12T06:32:00.183Z",
+      "updatedAt": "2026-09-12T06:32:00.183Z",
       "analyzedAt": null
     },
     {
@@ -18078,6 +18189,78 @@
       "analyzedAt": null
     },
     {
+      "id": "58b44d6a9f890d2f61558e8d77de807e01373b41f050524449f69492a1e33cbc",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "美구리관세, 물가·제조비용 우려에 고심중...'사실상' 보류",
+      "summary": "美구리관세, 물가·제조비용 우려에 고심중...'사실상' 보류 thecommoditiesnews.com",
+      "source": "thecommoditiesnews.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10TmVjdXF5Q2FPWkZqWjlBUEtxb2pfN2RSSUtBMEJSdGxLZ1pEb09sRFdzRnMtQUd3Qll0VkstdXUwS050RHlGOGc4blh4bUV4VGFINjJrNDZ0QXdvVnZ2WFNUUFFNQ0ZlWWdrZlB6QlVxLWplcWtV?oc=5",
+      "publishedAt": "2026-09-12T03:11:20.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "美구리관세, 물가·제조비용 우려에 고심중...'사실상' 보류 thecommoditiesnews.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-12T06:32:00.183Z",
+      "updatedAt": "2026-09-12T06:32:00.183Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "d1275c5a370132edb8d0eaf7965dd0c6a3e8b058422eb05d3dcef66574dc9885",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Ero Copper(TSX:ERO) 주가, 구리 랠리와 생산 호조 이후 공정가치보다 8% 높게 거래될까?",
+      "summary": "Ero Copper(TSX:ERO) 주가, 구리 랠리와 생산 호조 이후 공정가치보다 8% 높게 거래될까? simplywall.st",
+      "source": "simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNE1KM3JBSWlIcUVTNG9vY21CRUFST25WaHF1NVg5ZDgycFU3RjRubmVCYUNWUWd3eHY1MExOWWFxYkFSMkNyU0xab2MzYTd6ZUdqUl9hSjZDb25NeUZhX3Fra1FWa0xRd2wzZlFZbHlzQThWM3l4MDJuVDd0bEdac0VVS0p2MFNSQ1J5WXNrN3dNWl8zMUZaY0RoMnLSAZwBQVVfeXFMTzRNSjNyQUlpSHFFUzRvb2NtQkVBUk9uVmhxdTVYOWQ4MnBVN0Y0bm5lQmFDVlFnd3h2NTBMTllhcWJBUjJDclNMWm9jM2E3emVHalJfYUo2Q29uTXlGYV9xa2tRVmtMUXdsM2ZRWWx5c0E4VjN5eDAyblQ3dGxHWnNFVUtKdjBTUkNSeVlzazd3TVpfMzFGWmNEaDJy?oc=5",
+      "publishedAt": "2026-09-11T21:44:45.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Ero Copper(TSX:ERO) 주가, 구리 랠리와 생산 호조 이후 공정가치보다 8% 높게 거래될까? simplywall.st",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-12T06:32:00.183Z",
+      "updatedAt": "2026-09-12T06:32:00.183Z",
+      "analyzedAt": null
+    },
+    {
       "id": "8409f92ecd981b74a327f7f62fc409e6ba97e321ec85f7eac4ca19bb6d79088c",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18453,200 +18636,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-02T21:50:58.613Z",
       "updatedAt": "2026-09-02T21:50:58.613Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "eba1def760b8413f3168c6b27f9c9b99cbfd443ea93d9e2daf001a50f667073f",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Ukrainian foreign minister calls for full EU embargo on alumina and aluminium ore supplies to Russia",
-      "summary": "Ukrainian foreign minister calls for full EU embargo on alumina and aluminium ore supplies to Russia pravda.com.ua",
-      "source": "pravda.com.ua",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rU1B5VjlUZ3Npa3FLZnBGTVhZTWl4OXprdVJXZUV4NjVLMm85eFNlRjZIZFhLd2RWd2hMQnVqa1M4b1QzRHpxekNVOGVSeXdDaWZ0b2hfa2ZYeV9uWXktVi1vY0rSAXBBVV95cUxPVTJuUkFkWE9pSks4QVYyNzlfODRWcDdkVGlPSnpwUWtzek1mY3Q0TzROTGYyTGtZdHFmekx6N2c2a2tZekR3MXgtdWc0ZGwzVW9TOUZocnV6dEduU0Nyd3ZSNVZ2VW5rZkp5REZqWDdS?oc=5",
-      "publishedAt": "2026-09-02T14:51:00.000Z",
-      "priority": 33,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Russia",
-        "regions": [
-          "Russia"
-        ],
-        "summary": "Ukrainian foreign minister calls for full EU embargo on alumina and aluminium ore supplies to Russia pravda.com.ua",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-03T05:07:59.034Z",
-      "updatedAt": "2026-09-03T05:07:59.034Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "1fd1e0740f787ef586871c8ba8d7ea3133b12cf21335df491835b81c1248b8d3",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Bullish Diamond Chart Pattern for Canadian Explorer with Copper-Gold Projects in Chile & Mexico",
-      "summary": "Bullish Diamond Chart Pattern for Canadian Explorer with Copper-Gold Projects in Chile & Mexico Streetwise Reports",
-      "source": "Streetwise Reports",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSVBoRE42Y0hHa21YVE02UzlBMmg4a1pMU05mNnpBdno0VHBfQXZoVERYU09QZXpFNEtZRVJVYjBCZE5UdWpfZmVkSTRua1ZMUmFYeGFNYW9ubGpZd3JON05pa2JjWHE1d1pfdVZsNHE4VFVuUFVzcERBVl9fWmZhNFB2REZWNHhteWNPWVhtM3c1TTd5UmRjXy1aS01zM2ozbkVYTF9UbXltc294cExsN1ZsTzI0bkQxbXk3eENDM1E1SGlpYmZUSUZFenhuQmdqVXRQNGhMc1pFMnFyQjZvaTI1R1pLaGxrc1ZIeV9R?oc=5",
-      "publishedAt": "2026-09-04T09:11:15.000Z",
-      "priority": 33,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "LOGISTICS",
-          "PROJECT"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Bullish Diamond Chart Pattern for Canadian Explorer with Copper-Gold Projects in Chile & Mexico Streetwise Reports",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-04T11:50:22.288Z",
-      "updatedAt": "2026-09-04T15:09:20.687Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ad8b5574b6105639620485cd9dc1edef28c3415c7138834c8a07d121b198a709",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Panoro Minerals reports high-grade copper-gold drill hits at Cotabambas project in Peru",
-      "summary": "Panoro Minerals reports high-grade copper-gold drill hits at Cotabambas project in Peru Bitget",
-      "source": "Bitget",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqdFIzb3JQVVdWM2RtWVZOYkVxMHA4TWhyWjFFZG1JVGh1OFNOSzczWU1oSVlUdkxBYzdRRDQ4TThFVFVSVkx5Z0VFZmp2enJMRjFNeDItYmM1aVF0bWhSeFAzVdIBY0FVX3lxTFBqdFIzb3JQVVdWM2RtWVZOYkVxMHA4TWhyWjFFZG1JVGh1OFNOSzczWU1oSVlUdkxBYzdRRDQ4TThFVFVSVkx5Z0VFZmp2enJMRjFNeDItYmM1aVF0bWhSeFAzVQ?oc=5",
-      "publishedAt": "2026-09-06T21:32:12.000Z",
-      "priority": 33,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "LOGISTICS",
-          "PROJECT"
-        ],
-        "region": "Peru",
-        "regions": [
-          "Peru"
-        ],
-        "summary": "Panoro Minerals reports high-grade copper-gold drill hits at Cotabambas project in Peru Bitget",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-06T22:54:18.998Z",
-      "updatedAt": "2026-09-06T22:54:18.998Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "686f76daa9455b706338c92d83e626de228fe9410fe96cbcba4dae9d67666253",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper prices and price spread between futures contracts both strengthen, spot discounts in North China widen [SMM North China spot copper]",
-      "summary": "Copper prices and price spread between futures contracts both strengthen, spot discounts in North China widen [SMM North China spot copper] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQcGY1YmlfR2xucnRDbVM1UFBIdWszZEhVR0lPZ2RNOUxhdFJJZXdRbVhGSUN4ZWtyWUJBZkNwLTZ6MEg3TkZMSlR2X3J6aDh6TVlnUjVmSFU1b2VnV3dGVDZEWmQ1VWNNOWtnT21JV3FxaGctcWg3Z09wLW1ScExHS3Fjc0RyXzFIU3lKS05mTnBxb0w2U2ljSGNVTnlZRGdGdkNra2gzNVRqbXlVTWM1R1ludlp2YXFDS2h4WkdXNnV1aUQzelNXSTZZaUROaHgtMjhXTGIzdUhUczRJaV9ycTM3TUhMUDlHYVRHQTRWNnpiVnlRSW1qWHZaWnhhS2QybkhFNmRha0ppLTdFSEpxcVF3?oc=5",
-      "publishedAt": "2026-09-09T03:39:05.000Z",
-      "priority": 33,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper prices and price spread between futures contracts both strengthen, spot discounts in North China widen [SMM North China spot copper] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-09T09:48:38.632Z",
-      "updatedAt": "2026-09-09T09:48:38.632Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ce15b8026cad18665a5f23bc4736b529ee6c6e8343602817bfd57ec3c9c812d0",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Marimaca Copper Says Drilling Strengthens Prospect of Chile Project Becoming 'Significant' Growth Asset, Euroz Hartleys Says",
-      "summary": "Marimaca Copper Says Drilling Strengthens Prospect of Chile Project Becoming 'Significant' Growth Asset, Euroz Hartleys Says marketscreener.com",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOHA4V0RYMTh4QVBsLW9adFhaODNmZ25aUkcwVldSTjdneWhpN2NUTTZ3NkpoVjdrLTJZVmdpNkxZT1NnMW5kQnVtLUtJa2NYN2JyX2EzMlNsQTBoSER1Q3lMY25sT3hfbzhVS2hwektJUjZBZzZ2X1JpbkViUTNYLW9PdkhqMmZhcFRzLUNOb2xoaHJNU3ZKRzNJTUZJcFdXMWFxUV9uakVPeUo4bXE4NGhMSDlFZktFTVNGWWpWY01Ha283dHgtUkJEYTJUdFBwUUs4aUd1RXNrSlV6SHlfdGxmNUtPZw?oc=5",
-      "publishedAt": "2026-09-10T03:23:25.000Z",
-      "priority": 33,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PROJECT"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Marimaca Copper Says Drilling Strengthens Prospect of Chile Project Becoming 'Significant' Growth Asset, Euroz Hartleys Says marketscreener.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-10T05:59:40.720Z",
-      "updatedAt": "2026-09-10T05:59:40.720Z",
       "analyzedAt": null
     }
   ]
