@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T01:26:01.743Z",
+  "generatedAt": "2026-09-13T06:47:24.692Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -465,6 +465,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-10T05:59:40.720Z",
       "updatedAt": "2026-09-10T05:59:40.720Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "ff16da8e312ea50c60b586b2cebd6388608760a15d9ebaf0fb858b87d33fdf04",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Price Forecast: US Refined Copper Tariffs May Be Delayed, Copper Prices Plunge After Record High, Can They Still Rise?",
+      "summary": "Copper Price Forecast: US Refined Copper Tariffs May Be Delayed, Copper Prices Plunge After Record High, Can They Still Rise? TradingKey",
+      "source": "TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQd1Q1TmwxZ1ZWU0tOdnBVTFk3WktlcjFiaDg4M0lrRDhSd2FwTEdXcjU3SW13TGRGZkpHRV9WT1ktMkpkN2N4YzNmNVRkS2NMYWdHSGVFMHZwTFhlR2JOZC1Ed3hnVEhubnFwRDRlWHpaZWhkR1lJaXVDXzNnanlwSVZaRVczazUwSF9vc1lYNGhFTjM4ZWtibWVTWHhBNGw0NWFRbDBjVEZobk90ek9nSzFGSFV0di1xTkQtdHlfZlRzUHVTeU9XQnhMWFM4SnpSOEpLRUVRcWlleU1rY1VMZzNnbTBRNzdCVy1DYmhWSzhndWc4ZzBkM1NscFpPZWZxZmlKNnotaFYxZW5F?oc=5",
+      "publishedAt": "2026-09-13T02:05:23.000Z",
+      "priority": 54,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "PRICE",
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Price Forecast: US Refined Copper Tariffs May Be Delayed, Copper Prices Plunge After Record High, Can They Still Rise? TradingKey",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-13T06:47:24.692Z",
+      "updatedAt": "2026-09-13T06:47:24.692Z",
       "analyzedAt": null
     },
     {
@@ -10390,6 +10427,46 @@
       "analyzedAt": null
     },
     {
+      "id": "1aca1b39abef276b73b06bbe6747f4a7582a27ad27d2299d24c32d94b8692763",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "China continues destocking, coupled with recovering peak-season demand; aluminium prices are expected to consolidate at highs with an upward bias next week",
+      "summary": "China continues destocking, coupled with recovering peak-season demand; aluminium prices are expected to consolidate at highs with an upward bias next week alcircle.com",
+      "source": "alcircle.com",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdmtBVWl0SFlZNkY2RGFxbVlGTWZWd1ZWOTBSREl2Q0VxeTJUenkzT2Q4UXpzcHhMdmNIUmlhc1dRaTZTNF9LeFJyYXRJV3VDV19sMy13TUdzTW1OU3FOcTlROXpxUE9pS0lQVXVTcUc4cmdwOVdNaG05VEF3UjBwOVNfZDBFeHV1TVlNaG1WSEZhdHJBTWl4UjdxNlJDbEllU1VHU29faTljejdneVprNjEyYWNTVkJMRWN5MW5kM1VHWHUyZkZTYURtSHFaUGdWalU0Y3pPV3NrWGMwZlEtRk5JbE5rOGFMelpQNUZhem1rdl9JdngxSTB6ZzhfMzcxeG5mbFltbFJoT2RBd0hsNGVBNV84Zw?oc=5",
+      "publishedAt": "2026-09-13T01:10:32.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "PRICE",
+          "DEMAND",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "China continues destocking, coupled with recovering peak-season demand; aluminium prices are expected to consolidate at highs with an upward bias next week alcircle.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-13T06:47:24.692Z",
+      "updatedAt": "2026-09-13T06:47:24.692Z",
+      "analyzedAt": null
+    },
+    {
       "id": "c124b1ca28a82b4ec2fa50370721b0e70ebfcbd7ce714b05abd51c1b49f14b41",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18553,79 +18630,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-12T14:13:23.251Z",
       "updatedAt": "2026-09-12T14:13:23.251Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "a834ba68936361dc4b5e38b3c0e6db29cac9cfa6a821f7a9c80ee2c7fd1abc87",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Stadler Kazakhstan to launch Central Asia's first aluminum bodyshell production",
-      "summary": "Stadler Kazakhstan to launch Central Asia's first aluminum bodyshell production Railvolution",
-      "source": "Railvolution",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzdEbWNqMnVyVTR3RzRUWGxPam5oZk1fbnIxWFF3QWF1c21BS29MUEU0X3NEN2hYcFlvY1dVTmdXMDJOVW5sbTZzM0pFTkZJN3Nyc3lZNmQzX3VHZHhYYm0yUGxEanFLcFA5bUp6MFM3RHFJT3lwWjlQdXlVRmFjU2RsTFdTaXVjcUxfSzZCR0w2WEtNanRtYXJGVFNCMVotb1dNRnhiSWpScGRwNnA4QXBVQQ?oc=5",
-      "publishedAt": "2026-09-12T18:45:14.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Stadler Kazakhstan to launch Central Asia's first aluminum bodyshell production Railvolution",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-12T19:24:27.125Z",
-      "updatedAt": "2026-09-12T19:24:27.125Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "33defa8f05a47c64af3bb4e06811ec83e6819c0b1061b2e72bf31169c0204ccc",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Aluminum Hardness Reference Blocks Market to Accelerate on Quality-Control Demand, Driving Growth Through 2035",
-      "summary": "Aluminum Hardness Reference Blocks Market to Accelerate on Quality-Control Demand, Driving Growth Through 2035 IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSHYyMVN2M3ZjSXVPTzJRTkd2azlxVjJ4WmVxa2h6UGQwRFZRcUktME55R0t0VlRtdFFLYjhqOFNBZWdTZ3JPdU9NOTRiVE1zYTJSbC13NW5ib045bmNieXp2NU9yMTNFMHVIN09OTmU5QjV4Y2hpSkhBbGZDNk5mN1RlcXR5dVdDMUxuRlJEeFJROFF3WHpQRG4yRHcwOFBfSnAwMEFQWHFQSjFKY0JkVFFSTThPVjQxYVRLTkJGaV9EdDZNWEdRT3pfdUlDSHA3MEQySERn?oc=5",
-      "publishedAt": "2026-09-12T23:06:18.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aluminum Hardness Reference Blocks Market to Accelerate on Quality-Control Demand, Driving Growth Through 2035 IndexBox",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-13T01:26:01.743Z",
-      "updatedAt": "2026-09-13T01:26:01.743Z",
       "analyzedAt": null
     }
   ]
