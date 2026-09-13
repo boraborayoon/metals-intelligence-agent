@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T18:58:40.671Z",
+  "generatedAt": "2026-09-13T21:26:53.253Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -7086,6 +7086,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-13T16:39:21.431Z",
       "updatedAt": "2026-09-13T16:39:21.431Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "c49873fea0deadc0cf05236c892bc157be34aa7d3991940ff8b967c3c1bb634e",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Volatile aluminium price twist to crucial Bell Bay smelter talks",
+      "summary": "Volatile aluminium price twist to crucial Bell Bay smelter talks The Mercury",
+      "source": "The Mercury",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaVhLTmlHRWpKc1UyZVIzcmU5N0E0NWUtZXFrdEFqNlVGUS1IOVlmb1EtTDZNek5oOFlXcWlCeTYzNTNUOGFsSG04cHZQdnR4MW1wdkNXU293TGNNWFlxRXhZREFNZVBxNklZWlhrMmRXVGdUTnZJVXo1TWoyU1hXZ3pRcktTMzRtZlJDTHZucHo3Zng3eVNieUY1NEllV0VMUzhucDktWnp6c0JtZVQ0RW1QeENuck5pTXNvMEJzR3VfQ2xpZzFsZTRfMUYzREx4eExTNGN4bGs0M1labnpPMVRIS1BWUThxRjBWRVJpSTByc0ZGMjc3cWVn?oc=5",
+      "publishedAt": "2026-09-13T19:23:28.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Smelter",
+        "categories": [
+          "PRICE",
+          "SMELTER"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Volatile aluminium price twist to crucial Bell Bay smelter talks The Mercury",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-13T21:26:53.253Z",
+      "updatedAt": "2026-09-13T21:26:53.253Z",
       "analyzedAt": null
     },
     {
@@ -18594,42 +18631,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-12T01:35:21.255Z",
       "updatedAt": "2026-09-12T01:35:21.255Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "58b44d6a9f890d2f61558e8d77de807e01373b41f050524449f69492a1e33cbc",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "美구리관세, 물가·제조비용 우려에 고심중...'사실상' 보류",
-      "summary": "美구리관세, 물가·제조비용 우려에 고심중...'사실상' 보류 thecommoditiesnews.com",
-      "source": "thecommoditiesnews.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10TmVjdXF5Q2FPWkZqWjlBUEtxb2pfN2RSSUtBMEJSdGxLZ1pEb09sRFdzRnMtQUd3Qll0VkstdXUwS050RHlGOGc4blh4bUV4VGFINjJrNDZ0QXdvVnZ2WFNUUFFNQ0ZlWWdrZlB6QlVxLWplcWtV?oc=5",
-      "publishedAt": "2026-09-12T03:11:20.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "美구리관세, 물가·제조비용 우려에 고심중...'사실상' 보류 thecommoditiesnews.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-12T06:32:00.183Z",
-      "updatedAt": "2026-09-12T06:32:00.183Z",
       "analyzedAt": null
     }
   ]
