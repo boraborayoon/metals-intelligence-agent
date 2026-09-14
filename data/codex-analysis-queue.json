@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T01:43:14.286Z",
+  "generatedAt": "2026-09-14T07:08:54.989Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -7126,6 +7126,79 @@
       "analyzedAt": null
     },
     {
+      "id": "a29e409eff4d9b8b12bc9381bd31e9efd8f14ec654c0dc959aa126964f3a7d37",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "LME aluminium cash bid price drops 2.06% to $3,273/tonne as stocks decline to 244,350t",
+      "summary": "LME aluminium cash bid price drops 2.06% to $3,273/tonne as stocks decline to 244,350t AL Circle",
+      "source": "AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMzRRZDhDVUk1Q1RjdmU3OHdQQkpjMVNqV1JjNHl4eWk2RTdrTHBGVk9mSm5NeVRKQjN5ektka0hLQjNtcXVBUk5RS3YxWjJHMTZ5bVZVS3lfWjI0UkZGMERKcWNPR3UxbWU0NjBuSlZ5NGZWRmExcWp4ZENKcXRtM2g0M3RIUFJ5UWNFX2xMeWtObjV4MkY1cU5QYjVEUzRxV0szY182UGx5d05lMzVKTThIekdjZmFwaWhNbGJBT05BUVFCUVFQRw?oc=5",
+      "publishedAt": "2026-09-14T06:09:46.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME aluminium cash bid price drops 2.06% to $3,273/tonne as stocks decline to 244,350t AL Circle",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-14T07:08:54.989Z",
+      "updatedAt": "2026-09-14T07:08:54.989Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "4026ca6f9d8dc070de4fc3d97fab1a1769b0bc63b20cc81155a0f6148241d219",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper price approaches the support– Forecast today – 14-9-2026",
+      "summary": "Copper price approaches the support– Forecast today – 14-9-2026 Economies.com",
+      "source": "Economies.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMzBTaHRYYmVGZHZJX19OMXg4ZnE5UWt0d3VFVXJLUEh1b3hQeWQ2Vmw3UW5TaFhKb1V1WkgyM28wSE8xd2VmZlozOHdYdDRSb29nNExJc0Jzek93c201Qi1RUXZYWEtZUjJ6ZXhvaFZoU2VidlAzaFhoZnZkTm9vVTl3TWVkZVlmTUYtdFJVaXBxcG03UlVPYmRlMUFMbEdRakpLN1ppWi1saTFjaUVZMUdCcG1keUQtSEtVZk9JOWVOemtva3VxLTkwT2ZOQVRGeUs0SEN6MA?oc=5",
+      "publishedAt": "2026-09-14T05:25:00.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper price approaches the support– Forecast today – 14-9-2026 Economies.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-14T07:08:54.989Z",
+      "updatedAt": "2026-09-14T07:08:54.989Z",
+      "analyzedAt": null
+    },
+    {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -10609,6 +10682,47 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-13T06:47:24.692Z",
       "updatedAt": "2026-09-13T06:47:24.692Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "eb0706c2c9482cfa6871c97bf47f123af8fc8c9cd0476d36c66c3b682007d498",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "China aluminium extends gains into August; supply tightness, demand recovery to support September",
+      "summary": "China aluminium extends gains into August; supply tightness, demand recovery to support September AL Circle",
+      "source": "AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa016LW4yekRBVjlUbUcxOWVpc2oyWlNPOExsclFsbnVTQ2tfSVdlcG9zUDJjSjI0VnpkbWo2YjdSUjJnTXN2OW5ERTlndTVJakxNVUtlRVBVdHdFVjFzTVlRMTkwYnZMcGZ6NkVjaDJSWVMxVUkwLThLR21mUGpleUxVREJ5ek5tNXRzcFQ5VjRNN3h2dTRUVl84ZHJuSUV6Y3VQNHFPdFFNYWtzV0FDQmlDUWQ4UTdGX01EWlF1QzRHNnI5WXZybTZUVzM?oc=5",
+      "publishedAt": "2026-09-14T03:17:12.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "SUPPLY",
+          "DEMAND",
+          "LOGISTICS",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "China aluminium extends gains into August; supply tightness, demand recovery to support September AL Circle",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-14T07:08:54.989Z",
+      "updatedAt": "2026-09-14T07:08:54.989Z",
       "analyzedAt": null
     },
     {
@@ -18520,117 +18634,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-11T18:36:38.120Z",
       "updatedAt": "2026-09-11T21:20:36.434Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "c84fe681069be474c9b01d335aafc0b83e1b9b451de53e7c42f2572817b41fd1",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "Naphthenic Acid Collector Market To 2035: Growth Driven by Tungsten and Tin Mining Demand - News and Statistics",
-      "summary": "Naphthenic Acid Collector Market To 2035: Growth Driven by Tungsten and Tin Mining Demand - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV1MyeFhxVmF0Z0dTUlJjVUV0cnNDNWVnazRPalhlbWZDUnItWDIwZ0JrTU9ILVlaeUJQbHlNa1hSRUlFd3B3bXVzQnlwQWV6OVRlcVVmSkNKN2l3RnVIR2tmaGNocnVvZlRtMVNRcHQwVktpZWMyNkNCMHFMakxYREY3X3ZobnlFUktnaUZ0Tm5VRTRDeDcxeHhIRXdBeUNnWjZlT1p1REJjWmtKWEtzU0Ruc1lYX0JXYVFnbHBqZHZYNVpHOUM2cmx1a28?oc=5",
-      "publishedAt": "2026-09-11T18:16:11.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND",
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Naphthenic Acid Collector Market To 2035: Growth Driven by Tungsten and Tin Mining Demand - News and Statistics IndexBox",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-11T21:20:36.434Z",
-      "updatedAt": "2026-09-11T21:20:36.434Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "5fc672d0fe2f666e129087f6a736b8b9341616bb156d6849a030b1174c7f06b9",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "SPOTLIGHT: Copper crash seen as positioning rather than genuine demand shift",
-      "summary": "SPOTLIGHT: Copper crash seen as positioning rather than genuine demand shift Informist",
-      "source": "Informist",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3lUMldENGtwVldfaHhsV19kUS1UVHdxWGxtMkNMajA4eUhoTko3cXFhakZJVnlGanBnbFZjSlpxSFN3d0ROd0haTWVWa0Z1d3dvaXZFZDB0a3F5TndINVM5VGNaczIwdVo2OGRtZmtwMUtrTFBwUVZPQWxKd2Y0eF8wY2VyS1F0NlFmdm1SNkxDNlg3Ym1HSmNTeWZtcnFqd3ZWbFlVZXpGOHoySVk3V0k4SzRNX0x2bkYw?oc=5",
-      "publishedAt": "2026-09-11T21:47:04.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "SPOTLIGHT: Copper crash seen as positioning rather than genuine demand shift Informist",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-11T23:32:26.576Z",
-      "updatedAt": "2026-09-11T23:32:26.576Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "bbb1af3e7c4d0589832b19a9dcca149f3b6e188d543613a718c2acb26e3aa56c",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Aluminium fluoride prices rise on cost support; premium for high-grade supply widens",
-      "summary": "Aluminium fluoride prices rise on cost support; premium for high-grade supply widens AL Circle",
-      "source": "AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNHB1c3BFV25QUnBIQW1pOVJjeXlpNWhSNjM0VGNScjBXbjhKRG9mMGY5VVNyNEl2S2R3V29paGxVb1MwcFVsNHl4Tjgzd0FFRUNGajlVcGpMNUozSm5heE56U1pmYldua0pUYTk3d3Y0SWpmTU5FSjVSUEJRdmx4d0VITkQ3Y0ZVZUlDUVhmLVI1eWpwWE9nd2M3LXJOdE1lWTVEQWN2ZzZLNVhidmRMYUh1bnFJekNmbHY0eg?oc=5",
-      "publishedAt": "2026-09-11T23:39:38.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aluminium fluoride prices rise on cost support; premium for high-grade supply widens AL Circle",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-12T01:35:21.255Z",
-      "updatedAt": "2026-09-12T01:35:21.255Z",
       "analyzedAt": null
     }
   ]
