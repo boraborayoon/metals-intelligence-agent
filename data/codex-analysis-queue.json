@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T14:05:51.827Z",
+  "generatedAt": "2026-09-14T19:23:35.079Z",
   "items": [
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
@@ -2358,6 +2358,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-14T14:05:51.827Z",
       "updatedAt": "2026-09-14T14:05:51.827Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "51b8032e9aec12f6187b80a554d0b315651ebefbbe6a30077662e77610bc2e76",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Inola Board of Trustees will decide to extend pause on aluminum smelter construction, ordinance to ban smelting in town",
+      "summary": "Inola Board of Trustees will decide to extend pause on aluminum smelter construction, ordinance to ban smelting in town Public Radio Tulsa",
+      "source": "Public Radio Tulsa",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQnZKdGdXelhVQXlrdUtIbFBjbFViTjlxTEdlVER0LTllbUJTN2ZhTXplYmhObDZiZGFfb0UxYVBWMVpzYWl6SDJlbl9jbEx1UlVlR2VqVTQyX2RWZXZPdGtFdDFxU214dy1yMVhTUXowM1hjN19SNXlmZDVTYkNIQkhQcUxXSXlhT0hud3VoMUphVmR3RDB3LUNaNDBNUnUtOXhub0ltaTRHb25CbWJLbktRaFpqenlKeVczWE56Q2JkRWhWSUQxMk14VVJ0NjdpZ1JDSGppZ3UzN2htZkdyb0xKV0J6YWlUYnlKeFMtRkx4bzJOY25CbDBUT3NTdUtsUWdUMHZB?oc=5",
+      "publishedAt": "2026-09-14T12:50:00.000Z",
+      "priority": 49,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Regulation",
+        "categories": [
+          "SMELTER",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Inola Board of Trustees will decide to extend pause on aluminum smelter construction, ordinance to ban smelting in town Public Radio Tulsa",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-14T19:23:35.079Z",
+      "updatedAt": "2026-09-14T19:23:35.079Z",
       "analyzedAt": null
     },
     {
@@ -7388,44 +7425,6 @@
       "analyzedAt": null
     },
     {
-      "id": "7053ac6fd90ca7050a4e700b05cfdbb791daf188c7a0776b44c5b36968d4adb7",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "BMI raises tin price forecast amid steady demand for semiconductors",
-      "summary": "BMI raises tin price forecast amid steady demand for semiconductors Mining Weekly",
-      "source": "Mining Weekly",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVJMZFJKYXRxdTBIV2RLUzVvTzBhbUZaVUI1S29zZDJ2RFZ2WkQ1X3F0eWdyS29NUmpSQ29TUzktc3hnNVE0TDlDMzFKeXFSM3NqWmktVXo0N2JTRXFNb2Z3Qldna0VYa1pabENVWnY5cU5jeTQ2TUJ0azNDb041ZTJ3dVdjT1ZCR2ItUGdJaEp5aXBWSjZ2SmNqcDN5UlRVcW1wVkFvVUFKOXVJQ1F1QjZDYXFjdw?oc=5",
-      "publishedAt": "2026-09-14T12:03:00.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "PRICE",
-          "DEMAND",
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "BMI raises tin price forecast amid steady demand for semiconductors Mining Weekly",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-14T14:05:51.827Z",
-      "updatedAt": "2026-09-14T14:05:51.827Z",
-      "analyzedAt": null
-    },
-    {
       "id": "19d573023277da28a10d7b067af28d2d957a346cd21905eec743e757e3960034",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -7459,6 +7458,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-14T14:05:51.827Z",
       "updatedAt": "2026-09-14T14:05:51.827Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "649baa47ab55429ab0158fa2f1fd46dc2a13dcbac61e9f2794632f715deb00df",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Mercuria, Glencore explore Venalum aluminium smelter deal as Venezuela eyes production revival",
+      "summary": "Mercuria, Glencore explore Venalum aluminium smelter deal as Venezuela eyes production revival AL Circle",
+      "source": "AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTHNpOW1kaWF3aFZsUHZ5cjRmSTh5TEtiV1Y5Qm01ZG1hOEdTQjh1MS13R1ZHNHhVODJPam5HUnp2RDFlMjRwQlFqaVZpU1hCMWdKcWNMbkxSVGtKbTlBVGlRRzNodkRFQ05zZVA1NUlYOEtTT0hEZzl2cl90bjhwOE9yYzJGempoa09PUjd2Wm52d1AxWWs1czVHNzNmbktWQ3RyWXljWkQtSmRucUtRaDlILTh6ZFpic0NOYzdGZUQ5UU9lQ1VkT1VR?oc=5",
+      "publishedAt": "2026-09-14T14:44:30.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "SMELTER",
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Mercuria, Glencore explore Venalum aluminium smelter deal as Venezuela eyes production revival AL Circle",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-14T19:23:35.079Z",
+      "updatedAt": "2026-09-14T19:23:35.079Z",
       "analyzedAt": null
     },
     {
@@ -9331,42 +9367,6 @@
       "analyzedAt": null
     },
     {
-      "id": "1510251c94dfc5f0999b8615cbcbfe95428500aa44a41784d15624e18f0bd2ed",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "LME copper likely to test support at $13,943 this week",
-      "summary": "LME copper likely to test support at $13,943 this week TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSkJtMnJQZEdfOHpaTVVPUUZiVkNia09NSERCUUhKYzM2c2F0TXo5VEQ4YXViSktqWnJ4YXVELUgxSmNGeXZEdU5lbXVQSTJCb1M0QkZud0FjSkRvVWVpVlF2VVcxM29PQlktLWxMX3dOOWx6b1dMaWhObllGVnlhVnl0XzhxZmE2cXBxZHM5elZYRXdWOHlqaEdKYkJIcWhTd01mYVFmbXE0bE9wVmhFMlEyU2RkZlR2T01PTTVLN0w?oc=5",
-      "publishedAt": "2026-09-14T08:29:18.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "LME copper likely to test support at $13,943 this week TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-14T14:05:51.827Z",
-      "updatedAt": "2026-09-14T14:05:51.827Z",
-      "analyzedAt": null
-    },
-    {
       "id": "eed75731f79879ff7b15b4b9727e94fb9efdd1ceea579dd6f1155f3838a719da",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -11022,6 +11022,44 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-14T07:08:54.989Z",
       "updatedAt": "2026-09-14T07:08:54.989Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "7053ac6fd90ca7050a4e700b05cfdbb791daf188c7a0776b44c5b36968d4adb7",
+      "commodity": "TIN",
+      "subCommodity": null,
+      "title": "BMI raises tin price forecast amid steady demand for semiconductors",
+      "summary": "BMI raises tin price forecast amid steady demand for semiconductors Mining Weekly",
+      "source": "Mining Weekly",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVJMZFJKYXRxdTBIV2RLUzVvTzBhbUZaVUI1S29zZDJ2RFZ2WkQ1X3F0eWdyS29NUmpSQ29TUzktc3hnNVE0TDlDMzFKeXFSM3NqWmktVXo0N2JTRXFNb2Z3Qldna0VYa1pabENVWnY5cU5jeTQ2TUJ0azNDb041ZTJ3dVdjT1ZCR2ItUGdJaEp5aXBWSjZ2SmNqcDN5UlRVcW1wVkFvVUFKOXVJQ1F1QjZDYXFjdw?oc=5",
+      "publishedAt": "2026-09-14T12:03:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "PRICE",
+          "DEMAND",
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BMI raises tin price forecast amid steady demand for semiconductors Mining Weekly",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-14T14:05:51.827Z",
+      "updatedAt": "2026-09-14T19:23:35.079Z",
       "analyzedAt": null
     },
     {
@@ -18591,43 +18629,6 @@
         "region": "Unclear",
         "regions": [],
         "summary": "Copper is very important commodity as we look toward the future, says Freeport-McMoRan CEO CNBC",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-10T23:12:29.544Z",
-      "updatedAt": "2026-09-11T01:07:53.608Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "fb32252d532fce1190be1372540b752d39ce83ee43a568a83ae1dd68296102dc",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "US copper futures fall amid tariff uncertainty — OilPrice",
-      "summary": "US copper futures fall amid tariff uncertainty — OilPrice UA.NEWS",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzVzVnBVbkhFQno5OFBJd19Pc1hMRFZ2bkxWUmN6aUszMGMxbUsyZjlZOVpxR05lZWNfdzV4S0o2ZFRCYmhsSUU3dXZIU1VyWGo1V2x6UUxzLWJ5cUJQZEE2S0JFMUNmZGlKQmtzOUxMRlBCUXRMbWVOcWlhQlFmWDU3VUM3dlhQUU5MdmF3MldtdU5rdzhjcFF1cklodTVqb3J4TmhR?oc=5",
-      "publishedAt": "2026-09-10T20:36:20.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "PRICE",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "US copper futures fall amid tariff uncertainty — OilPrice UA.NEWS",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
