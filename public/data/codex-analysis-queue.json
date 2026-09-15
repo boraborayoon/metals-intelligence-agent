@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T06:11:00.571Z",
+  "generatedAt": "2026-09-15T11:46:13.795Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -305,6 +305,16 @@
       "codexStatus": "PENDING",
       "source": "FXStreet",
       "publishedAt": "2026-09-08T13:57:57.000Z"
+    },
+    {
+      "id": "cdfa9161b4b3e31783bc4e2b0477b067efe2ada4e0208e61ce550753c59bfd58",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "China aluminium output hits record high in August with capacity cap in sight",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Weekly",
+      "publishedAt": "2026-09-15T10:20:00.000Z"
     },
     {
       "id": "6249ec3aabdae574e1b922a2959f7f2447e138ee0e6e07fdcdf0de2b8510a129",
@@ -857,6 +867,16 @@
       "publishedAt": "2026-09-14T06:49:21.000Z"
     },
     {
+      "id": "50a697ff064422ccff51c95732759bbba0f05279d7d42b7cb9bc96056dbba582",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "P2 Gold Intersects 0.62 g/t Gold and 0.22% Copper Over 118.87 Meters, Including 44.20 Meters grading 1.12 g/t gold and 0.33% Copper at the Heart of the Lucky Strike Zone",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "investingnews.com",
+      "publishedAt": "2026-09-15T11:27:21.000Z"
+    },
+    {
       "id": "17fa68940c0009293007b223c6f6986a9f248cade0679911ce7f43d3106b260d",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1025,6 +1045,16 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-09-10T10:56:16.000Z"
+    },
+    {
+      "id": "4a5c61ba70323d97d86986bf2e9a1929e664fb5638a6026aae4612e487e3877d",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "LME aluminium price rises above 1%; stocks slip to 244,100t on September 14",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "AL Circle",
+      "publishedAt": "2026-09-15T09:08:05.000Z"
     },
     {
       "id": "b674f630a077477dbfb367781741c34eb37ac59d175178e234185f823644b231",
@@ -2027,6 +2057,26 @@
       "publishedAt": "2026-09-15T01:02:56.000Z"
     },
     {
+      "id": "d299ba097429973b9fef5ba214d488a67ce04274356e745d3e5fc3eaf09e9526",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Inola aluminium smelter timeline stretches to April 2027 after new moratorium, US capacity push continues",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "AL Circle",
+      "publishedAt": "2026-09-15T10:07:30.000Z"
+    },
+    {
+      "id": "600932cac50b19ca1982b973c1feb7912d0f177820b1fc31ae2a1bad50a1ba8e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Cochilco: Limited Copper Concentrate Supply Challenges Growing Sm...",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Industrial Info Resources",
+      "publishedAt": "2026-09-15T07:06:26.000Z"
+    },
+    {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -2095,6 +2145,16 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-09-11T23:39:38.000Z"
+    },
+    {
+      "id": "25cd8892daa595780d37acf3ccbeaed2afaba5ec813cdc6ca6e6a5177dd528e0",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "AI model targets faster monitoring of tin losses in smelting",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Georgia Laurie",
+      "publishedAt": "2026-09-15T09:05:03.000Z"
     },
     {
       "id": "035d38603d6aa6355844e7ec798dda20aa39ff88b572305f588a01ab757069b6",
@@ -3005,6 +3065,16 @@
       "codexStatus": "PENDING",
       "source": "Bloomberg.com",
       "publishedAt": "2026-09-15T02:47:00.000Z"
+    },
+    {
+      "id": "078d8f2e5486a87280434b561df1ebc2b4382475ea39c580d5582ff56e695e01",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "China’s Aluminum Output Hit A New Record In August",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-09-15T10:20:13.000Z"
     },
     {
       "id": "19d573023277da28a10d7b067af28d2d957a346cd21905eec743e757e3960034",
@@ -4935,76 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-09-10T05:26:28.000Z"
-    },
-    {
-      "id": "9e0b6a44a5f60ead29c0f1990fb479f84798d0a0054b9a15b857f437e35a562b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Why is Southern Copper stock sliding today? By Investing.com",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com Canada",
-      "publishedAt": "2026-09-10T11:20:50.000Z"
-    },
-    {
-      "id": "a37920aed68c3fa3f7e8b723346cf15a3752edb35892bf90e19ddeb43e6eb43d",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Clutch Friction Facing Materials Market Forecast to 2035, Driven by Copper-Free Formulation Shift and Aftermarket Demand",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-09-10T10:36:20.000Z"
-    },
-    {
-      "id": "b6e0e3cae0ea65cc389b0ca0067f1e24960a012f474379d5c2c56a096c905ca1",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Prices Steady Near Historical Highs Amid Supply Concerns",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "GuruFocus",
-      "publishedAt": "2026-09-10T10:32:08.000Z"
-    },
-    {
-      "id": "81ff753eada1e0c6b5f2142db2b843d7074a8bb8b7b75f871bd4032cf38b9cc7",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Low inventory supports aluminium prices to consolidate at highs; Peak season recovery pace awaits verification",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-09-10T06:19:44.000Z"
-    },
-    {
-      "id": "841c1ae2f38b1d7e31803c6a311af8fe10742d5e9dc825eebf77c63801dc04e4",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리(COPPER) 종목이 9월10일에 2.15% 하락했습니다. 시장이 가격을 다시 책정하고 있나요?",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingKey",
-      "publishedAt": "2026-09-10T01:31:00.000Z"
-    },
-    {
-      "id": "bc1e65bc3f4a6c339b5fb268626c4ca6619cba32aa05ada88f119a6bcf05cc6f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Southern Copper Corp Stock (SCCO) Moved Down by 6.93% on Sep 10: What Investors Need To Know",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingKey",
-      "publishedAt": "2026-09-10T14:15:24.000Z"
-    },
-    {
-      "id": "4784cfe13c78debbe8fd20bcb5ea4a7d334c11e12a5256012fa6bc8cb274b928",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Canadian Energy Metals (CEM) in alumina breakthrough",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Aluminium International Today",
-      "publishedAt": "2026-09-10T14:03:04.000Z"
     }
   ]
 }
