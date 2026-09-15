@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T00:58:43.666Z",
+  "generatedAt": "2026-09-15T06:11:00.571Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -2007,6 +2007,26 @@
       "publishedAt": "2026-09-14T18:08:38.000Z"
     },
     {
+      "id": "a2fe5fb84d4df3cce141a6335703adb76efc3112e9149484c31cd1b657513018",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Inola trustees extend aluminum smelter moratorium to April 7",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "news9.com",
+      "publishedAt": "2026-09-15T03:20:20.000Z"
+    },
+    {
+      "id": "3b7a9dff5ab7eeacc426702b15411b00c4ebabb4158921ea5ed6cdcf79ae49a1",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "DAILY: Tin price drop heats up mark...",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mysteel",
+      "publishedAt": "2026-09-15T01:02:56.000Z"
+    },
+    {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -2955,6 +2975,36 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-09-14T03:17:12.000Z"
+    },
+    {
+      "id": "8777c9560fced01b9b59a44d4320166ef17705c4df4f4168a65419511c2a5bc2",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Contract rollover releases rigid demand; discounts in North China narrow and rise [SMM North China Spot Copper]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "SMM Metal",
+      "publishedAt": "2026-09-15T04:06:10.000Z"
+    },
+    {
+      "id": "8ef3ed582c1a5462a2462629d6ad539ddba62d1e9e2953e56905ebe7ac3200fc",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Large price spread between futures contracts on delivery day; spot trades sluggish [SMM South China spot copper]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "SMM Metal",
+      "publishedAt": "2026-09-15T03:36:09.000Z"
+    },
+    {
+      "id": "c5e7b16e0593d127de3f9d3490cf19339cf7e0e8de33806515d6beca7221ba26",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "China’s Aluminum Output Hits Record as Government Limit Looms",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-09-15T02:47:00.000Z"
     },
     {
       "id": "19d573023277da28a10d7b067af28d2d957a346cd21905eec743e757e3960034",
@@ -4955,56 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Aluminium International Today",
       "publishedAt": "2026-09-10T14:03:04.000Z"
-    },
-    {
-      "id": "be44ca745febbb22ab1a3dd45fbf0b19f8944c72dac038e29c364a192b6442ff",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Southern Copper director Luis Palomino sells $21,000 in shares",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com",
-      "publishedAt": "2026-09-10T13:59:10.000Z"
-    },
-    {
-      "id": "4a85c04c17c0c69c2d152aa91b74d0deefd1b87c0d8b1feb89ff839786c5e799",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper stocks slump as White House tariff plan reportedly stalls (FCX:NYSE)",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Seeking Alpha",
-      "publishedAt": "2026-09-10T12:34:40.000Z"
-    },
-    {
-      "id": "d8ee6bb93c567a0eafa775a083695772fccd24aae47067af0c4ca9505adecf77",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Why is Southern Copper stock sliding today?",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com",
-      "publishedAt": "2026-09-10T11:22:45.000Z"
-    },
-    {
-      "id": "e04ddb72b75c0383e3438e66f386ac74d6c95e25f95dca2b2a1d842c18f084a4",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Metso to provide copper processing technologies for Sweden’s Viscaria mine",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Filtration and Separation",
-      "publishedAt": "2026-09-10T11:15:26.000Z"
-    },
-    {
-      "id": "a492e036c24fab374ee7711d0d9e32bb617da887c7ae5b1f150fec129c86b0f1",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Can Oklahoma reshape US aluminium supply? EGA’s Ziad Fares explains the project",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-09-10T10:53:45.000Z"
     }
   ]
 }
