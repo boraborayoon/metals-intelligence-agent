@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-09-14T22:45:52.693Z",
+  "generatedAt": "2026-09-15T00:58:43.666Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
   "items": [
+    {
+      "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "H1’26 LME aluminium stocks dip 31.82%: Russian sanctions & Gulf crisis pack a double blow",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "AL Circle",
+      "publishedAt": "2026-09-14T19:15:12.000Z"
+    },
     {
       "id": "334f1d919af32cba7b7b2fb79b73b1b7708308c35501a08a98711cbea880cf8e",
       "commodity": "ALUMINUM",
@@ -625,6 +635,26 @@
       "codexStatus": "PENDING",
       "source": "Public Radio Tulsa",
       "publishedAt": "2026-09-14T12:50:00.000Z"
+    },
+    {
+      "id": "ca9959f78fb12dc0c4713752aa3cf4d67509c11a4f37c41bb9b97c6ed9b0f889",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "한화證 “구리 관세 보류에 풍산 단기 부담…LS전선은 영향 제한”",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "v.daum.net",
+      "publishedAt": "2026-09-14T23:16:03.000Z"
+    },
+    {
+      "id": "0a31240c318da7bd59bb37ba2221aca6d6c2b1bee81bed686c24b42a385ead64",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "Aluminium Nitride Thermal Substrates Market To 2035: Wide-Bandgap Semiconductor Demand Fuels Growth - News and Statistics",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-09-14T22:51:17.000Z"
     },
     {
       "id": "d5d6c56043855a34c1c9a2a084b6da7b1d445fa957a82eab9fef1d83743ae578",
@@ -4975,36 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-09-10T10:53:45.000Z"
-    },
-    {
-      "id": "0c820c1cc172dd35d5429f9334ab3d34caf1c8dcfb9070c0a166cdd6cca83b4c",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "US primary aluminium production edges up 0.6% Y-o-Y in Q1 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-09-10T10:24:29.000Z"
-    },
-    {
-      "id": "97458755abf61ffffa1717cd8ae57d219d7f254dd4c4ce6021d04fe12ca365b2",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper: Tariff uncertainty and max CTA length – TD Securities",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "FXStreet",
-      "publishedAt": "2026-09-10T15:51:00.000Z"
-    },
-    {
-      "id": "69daaa230d987b80e78f7be9fb7347447007268d4fc9e130c0c149eb0c3e19ec",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "데이터센터 비용 우려에 구리 관세 미뤄지나…원자재·주택주 동반 약세-[美증시 특징주]",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "한국경제TV",
-      "publishedAt": "2026-09-10T22:10:00.000Z"
     }
   ]
 }
