@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T11:46:13.795Z",
+  "generatedAt": "2026-09-15T15:44:00.321Z",
   "items": [
     {
       "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
@@ -4564,6 +4564,43 @@
       "analyzedAt": null
     },
     {
+      "id": "f8f63baa7e1a27a4953dd628dafb3777cdedb10eb7b89bbce9636abb8c874eac",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Antofagasta CEO: Copper supply has lagged growth in demand for a while",
+      "summary": "Antofagasta CEO: Copper supply has lagged growth in demand for a while cnbc.com",
+      "source": "cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlJDSU9NSmRhOXRBWXZCdkhXQ2ZuUFZ5NGVvRFR3ZWNlQjF2UWptUlo1SGIxYU5sc1Zzdmtmaksxd1lOX2VyWXdjYkpKQW5WWE9wd3VxLWVnQTJfOFFiUWUtdkpoUm5NVTN1UWFQeWc2MTJaZHZxT1p5RnVJdVBxVnFUN0ZVaDBySWVzUDZXYlI5VWRGbVh4UXp2Y0JYVXFzZkN3aFpNVU5TcTlDY0ZycWVR?oc=5",
+      "publishedAt": "2026-09-15T12:53:52.000Z",
+      "priority": 40,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "SUPPLY",
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Antofagasta CEO: Copper supply has lagged growth in demand for a while cnbc.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-15T15:44:00.321Z",
+      "updatedAt": "2026-09-15T15:44:00.321Z",
+      "analyzedAt": null
+    },
+    {
       "id": "a719f5432fa5c40801c9dc96cbaa43e9abacb570b266078be557c017a76d5903",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -8139,29 +8176,27 @@
       "analyzedAt": null
     },
     {
-      "id": "25cd8892daa595780d37acf3ccbeaed2afaba5ec813cdc6ca6e6a5177dd528e0",
-      "commodity": "TIN",
+      "id": "b618daa86c9315bd693e60ffe85f4b7c64200bc38395b0b36d136bceaa9f80af",
+      "commodity": "COPPER",
       "subCommodity": null,
-      "title": "AI model targets faster monitoring of tin losses in smelting",
-      "summary": "Researchers working with Yunnan Tin Group have developed an AI model that estimates tin content in slag using live furnace data, potentially giving operators much faster insight into metal losses than conventional laboratory testing. Slag tin content is an important indicator of smelting performance. If too much tin remains in the slag, valuable metal is […] The post AI model targets faster monitoring of tin losses in smelting appeared first on International Tin Association.",
-      "source": "Georgia Laurie",
-      "url": "https://www.internationaltin.org/ai-model-targets-faster-monitoring-of-tin-losses-in-smelting",
-      "publishedAt": "2026-09-15T09:05:03.000Z",
+      "title": "The recent COMEX-LME copper price spread has narrowed, with the COMEX",
+      "summary": "The recent COMEX-LME copper price spread has narrowed, with the COMEX SMM Metal",
+      "source": "SMM Metal",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUm5PMGJqc2ZjR1dpblJiVk80b0ZjdW1qdWJweHdxcTNrV0Y2ZmJfMFlmZUI3c0pMNmFiNXBpNENHZW04SUc5ai1HbmJsSUw2d2x3NWNhbldrR0hKSmNsTGxhakFnMlJqRHdWYlRLUl82YVJuQkIxUFRNbnhQVE1zOHVhWUo5ZFpJdjVVNzE2bVpaNWlqZnc?oc=5",
+      "publishedAt": "2026-09-15T09:26:40.000Z",
       "priority": 37,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
+        "category": "General",
         "categories": [
-          "SMELTER",
-          "LOGISTICS",
-          "IMPORT"
+          "PRICE"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Researchers working with Yunnan Tin Group have developed an AI model that estimates tin content in slag using live furnace data, potentially giving operators much faster insight into metal losses than conventional laboratory testing. Slag tin content is an important indicator of smelting performance. If too much tin remains in the slag, valuable metal is […] The post AI model targets faster monitoring of tin losses in smelting appeared first on International Tin Association.",
+        "summary": "The recent COMEX-LME copper price spread has narrowed, with the COMEX SMM Metal",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -8172,8 +8207,8 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-09-15T11:46:13.795Z",
-      "updatedAt": "2026-09-15T11:46:13.795Z",
+      "queuedAt": "2026-09-15T15:44:00.321Z",
+      "updatedAt": "2026-09-15T15:44:00.321Z",
       "analyzedAt": null
     },
     {
@@ -9819,6 +9854,44 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-14T22:45:52.693Z",
       "updatedAt": "2026-09-14T22:45:52.693Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "165ecfabeb9f434ee79a73aa5ebb1a94e21ec83583b7906e89b393582c9f3db9",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Coyote Copper Mines Receives Its Phase 1 Drill Permits for Its Wholly Owned Copper Springs Project and Provides Notice of Acceleration of Certain Warrants",
+      "summary": "Coyote Copper Mines Receives Its Phase 1 Drill Permits for Its Wholly Owned Copper Springs Project and Provides Notice of Acceleration of Certain Warrants Junior Mining Network",
+      "source": "Junior Mining Network",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPQnRkWnNKZ1VsU0Zqcm5fYktZSGRkd0x3NUQ4bG51MXlXUm1fQm5Jenc1WnY0ZUhNeDN2S3JiTVFNMHJPaHJKem9qcUI2dkxfR2wwQlZtSkwzQ3A4bXRBNHdtYlZLWW1EeVJFSzYtWW1Nb3RqQlNoazVSUWwyYjNWazd2Q3RuMlFkMnRkdVQzbkx6N1ZUakRGOWFaV2ZUbzFtZU1oWEJ5THVkVlVqVl94VU51X0QyeTNVbndTZ0JmZ1pYWExSYzVqcHpjSkNPZndPa2tvbFdNYXpadFlPeXhLMWduWDA3dGxwaWFtTVhXS09mZUh3RVVkR0x3NGdyQWJaZjJIcXpnVUlReWNhbzBDYmVleXRHemFjOG5xbFRXY3Z4cUstU28zRHRuQWtaZ3NuejRPTkRuM29ra3NWN3NiNGdqRHVTX0xWem1sNVd1ZXBuMW9VY3BULXFBRHJocnlER1Utanl0UV93SzQ3cGFKakM4dw?oc=5",
+      "publishedAt": "2026-09-15T11:14:07.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Regulation",
+        "categories": [
+          "MINE",
+          "REGULATION",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Coyote Copper Mines Receives Its Phase 1 Drill Permits for Its Wholly Owned Copper Springs Project and Provides Notice of Acceleration of Certain Warrants Junior Mining Network",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-15T15:44:00.321Z",
+      "updatedAt": "2026-09-15T15:44:00.321Z",
       "analyzedAt": null
     },
     {
@@ -11634,7 +11707,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-15T11:46:13.795Z",
-      "updatedAt": "2026-09-15T11:46:13.795Z",
+      "updatedAt": "2026-09-15T15:44:00.321Z",
       "analyzedAt": null
     },
     {
@@ -18599,79 +18672,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-09T23:17:01.599Z",
       "updatedAt": "2026-09-09T23:17:01.599Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "e6af80fa05fa9073302b580758e3d32b536b1b373044b68001f70436f5a72008",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Tokuyama : Notice Concerning Expansion of Aluminum Nitride Powder Production Capacity by 30% —New Production Facility to Be Built at the Center for Commercialization of Advanced Technology",
-      "summary": "Tokuyama : Notice Concerning Expansion of Aluminum Nitride Powder Production Capacity by 30% —New Production Facility to Be Built at the Center for Commercialization of Advanced Technology marketscreener.com",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMjNWSGFuLVZXd1RIdUs4OHNDOGtGM1NoQ2I0eW9kV1FaRllVLXU0bDlad2ctcFY5WmpzQTAxQWd1UUpHQ1ZycFlDakN5Y0Y3a2huVGx6Y3dlYmRfTFdUZXVGbk9PcTZaX1dZNHZjTVlYdEZoUHR2MFJyR19rTUJ5dlA5bWRSa1dnS1FqbEM2NUh4aWxFTDBTWHEySkd6aFRLTVlIT3RYalZfNlp5X1phS3ozRHlKdjhxRWZrYTJ1S2VpQ2sySTRfZ2IzT21WZ0NMQ3dZU0lVSVhBM2hKVkFhcjNB?oc=5",
-      "publishedAt": "2026-09-10T00:08:07.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Capacity",
-        "categories": [
-          "PRODUCTION",
-          "CAPACITY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Tokuyama : Notice Concerning Expansion of Aluminum Nitride Powder Production Capacity by 30% —New Production Facility to Be Built at the Center for Commercialization of Advanced Technology marketscreener.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-10T01:10:26.181Z",
-      "updatedAt": "2026-09-10T01:10:26.181Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "c5d62ff1ea214e34f0bd1ec712b5f24cc6a003998aad528419aa9776f8b97d06",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "SHFE/LME price ratio weakens, spot premiums fall [SMM Yangshan spot copper]",
-      "summary": "SHFE/LME price ratio weakens, spot premiums fall [SMM Yangshan spot copper] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT1Q1VFppblZGQ3AyTy1zU3ZiQ3hJQ0QyTTBKRmMtLTI5cVUxTlMwQkdLbUtjNG5tcXlGWFRxd0QwMkZzbDlsbDJ1RU12TTNJMWVqTHNDc2plc0FRa2plLXRTNm1wQTl1d0luMjJRQjlZbmh1dHg1NHBFR0FQTG9DNVI0eUJrVWFqX0tYcG0yMUZ0MVNFRXd0MllWQ0Y4R1pyR2U3ZjdRamRiWkZpMXNabDZCVWJPLTF6LVpR?oc=5",
-      "publishedAt": "2026-09-10T05:26:28.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "SHFE/LME price ratio weakens, spot premiums fall [SMM Yangshan spot copper] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-10T05:59:40.720Z",
-      "updatedAt": "2026-09-10T11:22:18.911Z",
       "analyzedAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T11:46:13.795Z",
+  "generatedAt": "2026-09-15T15:44:00.321Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -1177,6 +1177,16 @@
       "publishedAt": "2026-09-11T03:26:00.000Z"
     },
     {
+      "id": "f8f63baa7e1a27a4953dd628dafb3777cdedb10eb7b89bbce9636abb8c874eac",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Antofagasta CEO: Copper supply has lagged growth in demand for a while",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "cnbc.com",
+      "publishedAt": "2026-09-15T12:53:52.000Z"
+    },
+    {
       "id": "a719f5432fa5c40801c9dc96cbaa43e9abacb570b266078be557c017a76d5903",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2147,14 +2157,14 @@
       "publishedAt": "2026-09-11T23:39:38.000Z"
     },
     {
-      "id": "25cd8892daa595780d37acf3ccbeaed2afaba5ec813cdc6ca6e6a5177dd528e0",
-      "commodity": "TIN",
+      "id": "b618daa86c9315bd693e60ffe85f4b7c64200bc38395b0b36d136bceaa9f80af",
+      "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "AI model targets faster monitoring of tin losses in smelting",
+      "title": "The recent COMEX-LME copper price spread has narrowed, with the COMEX",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Georgia Laurie",
-      "publishedAt": "2026-09-15T09:05:03.000Z"
+      "source": "SMM Metal",
+      "publishedAt": "2026-09-15T09:26:40.000Z"
     },
     {
       "id": "035d38603d6aa6355844e7ec798dda20aa39ff88b572305f588a01ab757069b6",
@@ -2605,6 +2615,16 @@
       "codexStatus": "PENDING",
       "source": "alaskabeacon.com",
       "publishedAt": "2026-09-14T20:51:33.000Z"
+    },
+    {
+      "id": "165ecfabeb9f434ee79a73aa5ebb1a94e21ec83583b7906e89b393582c9f3db9",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Coyote Copper Mines Receives Its Phase 1 Drill Permits for Its Wholly Owned Copper Springs Project and Provides Notice of Acceleration of Certain Warrants",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Junior Mining Network",
+      "publishedAt": "2026-09-15T11:14:07.000Z"
     },
     {
       "id": "eed75731f79879ff7b15b4b9727e94fb9efdd1ceea579dd6f1155f3838a719da",
@@ -4985,26 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "IndexBox",
       "publishedAt": "2026-09-09T21:11:10.000Z"
-    },
-    {
-      "id": "e6af80fa05fa9073302b580758e3d32b536b1b373044b68001f70436f5a72008",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Tokuyama : Notice Concerning Expansion of Aluminum Nitride Powder Production Capacity by 30% —New Production Facility to Be Built at the Center for Commercialization of Advanced Technology",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "marketscreener.com",
-      "publishedAt": "2026-09-10T00:08:07.000Z"
-    },
-    {
-      "id": "c5d62ff1ea214e34f0bd1ec712b5f24cc6a003998aad528419aa9776f8b97d06",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "SHFE/LME price ratio weakens, spot premiums fall [SMM Yangshan spot copper]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-10T05:26:28.000Z"
     }
   ]
 }
