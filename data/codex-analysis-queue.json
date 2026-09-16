@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T15:33:26.276Z",
+  "generatedAt": "2026-09-16T19:06:14.338Z",
   "items": [
     {
       "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
@@ -8254,6 +8254,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-16T11:37:53.096Z",
       "updatedAt": "2026-09-16T11:37:53.096Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "64fb3859962932de1472fec4f50505ef2091f82c895ae997d2c7e1f079b55b8a",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Price September 17 2026",
+      "summary": "Copper Price September 17 2026 Robinhood",
+      "source": "Robinhood",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOak9ZS2RqQ1RhNFRjdzYxbkh3eHdaUy0ybzVlc2Y5Sk5kMTlBUDJONFhRdlE1VVlpd0VYRTNfZG5PRlpZNEVsUlNzbXpnYTZKaXk2VlpWLTNyV2R4Qk9Kb19jNkVSVDNZMjZBTTdlVmllal96Njc3R2oxVXVpT2JLak9mSDJpX1hqM3h3V2VOV3lhZk1QVVFxa2d1TkRhTzl0M3oyWjBYUQ?oc=5",
+      "publishedAt": "2026-09-16T18:14:16.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Price September 17 2026 Robinhood",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-16T19:06:14.338Z",
+      "updatedAt": "2026-09-16T19:06:14.338Z",
       "analyzedAt": null
     },
     {
@@ -18653,44 +18689,6 @@
         "keyEvidence": [],
         "confidence": "LOW",
         "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-09T00:16:43.757Z",
-      "updatedAt": "2026-09-09T00:16:43.757Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "c7fa29367697009db834acbcb7474d9b118183bffab6a82018de28a106936c9e",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Agnico Eagle agrees to trade two mining projects for nearly 20% of Vizsla Copper",
-      "summary": "Agnico Eagle agrees to trade two mining projects for nearly 20% of Vizsla Copper Stock Titan",
-      "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS2Q4Sm9YQ1pSTTVHVFZiXzJIQXkxWHkxY1Y0N3lUZ0gtNkJ1bWtaaWFJY0V6TXJjbXl0N2ZoSERZTUlvSkFseDZDaEVlaFhwbW1mUkJjY08tSEhqUWx2dktNejhBVFh6T01rTWpWeVpfTmZ3cXhmam1QcXFMeTZjbjFhTFBwRE43SzVXaURQZkQyWktOWUoza1lVcmJuWU8tUFJ2SkZUZlFSVTg5b2hfRkJDVjVGZDVOUkFj?oc=5",
-      "publishedAt": "2026-09-08T22:45:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "TRADE",
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Agnico Eagle agrees to trade two mining projects for nearly 20% of Vizsla Copper Stock Titan",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
         "signals": [],
         "urgent": false
       },
