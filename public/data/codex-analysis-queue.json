@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T06:03:50.092Z",
+  "generatedAt": "2026-09-16T11:37:53.096Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -987,6 +987,16 @@
       "publishedAt": "2026-09-08T05:25:51.000Z"
     },
     {
+      "id": "3fbc01d74faf88eed5c8651afe451ed31a07f50c78506a1ebfb049b13fe5b931",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "AI 수요 폭발·공급 부족이라더니...구리 가격, 왜 꺾였나?",
+      "reasonForCodexReview": "Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "코인리더스",
+      "publishedAt": "2026-09-16T08:10:00.000Z"
+    },
+    {
       "id": "08d3965dc289bdf94defa32ac10910452fc314fedad8bff094d08e0885dbf2c5",
       "commodity": "ALUMINUM",
       "importance": "HIGH",
@@ -1355,6 +1365,16 @@
       "codexStatus": "PENDING",
       "source": "PV Tech",
       "publishedAt": "2026-09-14T10:30:59.000Z"
+    },
+    {
+      "id": "6b97810f09b0fd4ced8c5b71ce2f6a17272d5e9e959cbebf726e1a58b4e412d1",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Price Forecast: China Data Support Recovery Near $6.50",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "FXEmpire",
+      "publishedAt": "2026-09-16T10:18:52.000Z"
     },
     {
       "id": "181a971ddf573e6145e595ce81d6a95ed4dd12f173c85581b65136d5642edb8f",
@@ -2135,6 +2155,26 @@
       "codexStatus": "PENDING",
       "source": "Robinhood",
       "publishedAt": "2026-09-15T17:48:21.000Z"
+    },
+    {
+      "id": "ba6877fd1c27bcc27245351bc3cd0a5e5953ecda8b0b29d5074ce0d2f93afa8f",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "LME aluminium prices slide up to 1.53% as warehouse stocks ease to 243,850t",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "AL Circle",
+      "publishedAt": "2026-09-16T08:17:24.000Z"
+    },
+    {
+      "id": "28ddafbff6380eac674722deb123753c770a3f9e28c2a8ec1a5d62677143be2a",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "A Utah copper mine pulls about 20 tons of tellurium a year out of the sludge left over from refining, and that metal goes into solar panels. More than 71,000 of them now cover 210 acres of the mine's own land, powering the operation the sludge came from.",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Space Daily",
+      "publishedAt": "2026-09-16T08:00:22.000Z"
     },
     {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
@@ -3145,6 +3185,56 @@
       "codexStatus": "PENDING",
       "source": "Finimize",
       "publishedAt": "2026-09-15T10:20:13.000Z"
+    },
+    {
+      "id": "0d2b9568ca297883a18889fd065c12fdd3e26b6ead17e83c760864d2e26c413c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper rises with signs of active demand from China",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-09-16T10:15:49.000Z"
+    },
+    {
+      "id": "5f6c546471b6fe730f90fa1aef490246ef3f5d8a95a9800a25e83ad7fa4460d3",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Rebounded As China’s Import Demand Looked Busy",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-09-16T10:01:51.000Z"
+    },
+    {
+      "id": "c8f3d62e85bbf0ba4c985ea6b62a231dd3890bce444f4b42fb637e991ef0fc94",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Strong Profits Stimulate Production, China’s August Aluminum Output Hits a Record High",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "NAI500",
+      "publishedAt": "2026-09-16T07:49:04.000Z"
+    },
+    {
+      "id": "1b208a10229b1fa25ccbe80cbe620dfa687ec5cbf17e474efa6089f04ce63f7b",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Key facts: Glencore plc forged invoices; DRC copper pact; 1m bbl deal",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-09-16T07:14:57.000Z"
+    },
+    {
+      "id": "951a9c6388a857f7bdeabac653566f560df80681285dea6815d6caaf31dc1b3d",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "LME tin inventory 4,890 mt, down 230 mt; September FOMC rate hike almost certain, watch for decision [SMM Tin Morning News]",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "SMM Metal",
+      "publishedAt": "2026-09-16T01:07:24.000Z"
     },
     {
       "id": "19d573023277da28a10d7b067af28d2d957a346cd21905eec743e757e3960034",
@@ -4915,96 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Stock Titan",
       "publishedAt": "2026-09-08T22:45:00.000Z"
-    },
-    {
-      "id": "42b75d82ef94079ef9307f3305a67cd83cbca49275eaeb4bbaf02a253398b3f4",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Cobre Limited (ASX:CBE) Third-Party Ore to Boost Copper Output and Cash Flow",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "ABN Newswire",
-      "publishedAt": "2026-09-08T22:23:38.000Z"
-    },
-    {
-      "id": "ee452a2a7506b5be8ec7c06bc44cec8efcf598e3c26f2cc985160fbedb2a84a3",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리 가격이 사상 최고치를 기록한 반면, 밀 가격은 6% 급락했다.",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-09-09T04:43:28.000Z"
-    },
-    {
-      "id": "3b847a24777325ef74bd54515c663d970a72db32c52f6329b69986fde6b1e77c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper hovers below record high as non-US supply tightness remains in focus",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-09-09T03:28:00.000Z"
-    },
-    {
-      "id": "be5cefca2d8a94561fc73a22157fde9db0cfe8affeec4f9feb37c77c44327f55",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리도 ‘슈퍼사이클’, 가격 1년새 47% 급등…“분할 매수 기회”",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "v.daum.net",
-      "publishedAt": "2026-09-09T02:30:00.000Z"
-    },
-    {
-      "id": "b2b2d0e793bec5987e1aa226dc56b7386bd7ccc572447e8eedfbbebe640f06b2",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리 가격이 사상 최고치를 경신했으며, 미국의 관세 부과로 구매 열풍이 일고 있다.",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-09-09T00:32:31.000Z"
-    },
-    {
-      "id": "23d0b5e123f1c6b0d82d628f430afb54f8bc44d6a099b4fe4bbbc62cd4de0c5c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Eldorado Gold produces first copper-gold concentrate from Skouries",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "im-mining.com",
-      "publishedAt": "2026-09-09T08:26:15.000Z"
-    },
-    {
-      "id": "6eabb99e96cb5232e1fb3c7463d62a78f7381519e8f59a75d8b48b7ed337d42c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "PolarX drills 24.8m of 9.8% copper in Alaska",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "North of 60 Mining News",
-      "publishedAt": "2026-09-09T17:50:07.000Z"
-    },
-    {
-      "id": "6210b7f94a71f4e0d9df5c0ace3d242d15762459feebd8df035af1f41fe45e7b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리 가격 사상 최고…톤당 1만4802.5달러",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "블루밍비트",
-      "publishedAt": "2026-09-09T17:14:22.000Z"
-    },
-    {
-      "id": "ec139c8a73d3739c699d3ae77493d93eae236df14edc8aebf286ee9ca4f573db",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "BHP: Copper Fundamentals Are Strong, But A Better Buying Opportunity May Arise (NYSE:BHP)",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Seeking Alpha",
-      "publishedAt": "2026-09-09T17:02:15.000Z"
     }
   ]
 }
