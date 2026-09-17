@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T10:26:58.179Z",
+  "generatedAt": "2026-09-17T15:19:15.404Z",
   "items": [
     {
       "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
@@ -12540,6 +12540,44 @@
       "analyzedAt": null
     },
     {
+      "id": "c7b7f330e055f80dd63dda5f795a9ed4e985fee1f3a8373421742ddcaa3e02a4",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper hit a record as Chile expects output to fall 2.6%",
+      "summary": "Copper hit a record as Chile expects output to fall 2.6% Stock Titan",
+      "source": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3RxeUU1anNIMXY2bV93QlBWTDR3SzR1YWZhRWpvT05RVExxbFk1WHBldHgwalhiUGgzdEZNWXlMNU5BaEhuZ3k1UjRseTF0V3FudGFJRnp1YlA3WERJNEZBSXRUUFFhWXJ3YkxHTl90ZUdSbjJPMVFfV2N6UFhWZWR1bnJVNUVLUjlucTdNeGdDa2poVjR3bjZqaXdQb0RKQnVwaWtyeEZvdm1jc2drQjFJV0FBSHRpSXc?oc=5",
+      "publishedAt": "2026-09-17T14:04:00.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Copper hit a record as Chile expects output to fall 2.6% Stock Titan",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-17T15:19:15.404Z",
+      "updatedAt": "2026-09-17T15:19:15.404Z",
+      "analyzedAt": null
+    },
+    {
       "id": "19d573023277da28a10d7b067af28d2d957a346cd21905eec743e757e3960034",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -18665,42 +18703,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-08T15:22:32.378Z",
       "updatedAt": "2026-09-08T15:22:32.378Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "a49568978a6c9e5c251614a550ef51f2e85f592d581d1f84f315980727d27fb4",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Gold's Annual Output Is Tiny and Worth Twice What Aluminum Produces",
-      "summary": "Gold's Annual Output Is Tiny and Worth Twice What Aluminum Produces stonex.com",
-      "source": "stonex.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODNJZzNSeVdnQ05RMEU2Szc3UXJnRHk3TmFRR1VZZzY0VnFqdmhzbVVodVFEUUV0cXVMUVNJWVVqTnN4a0ZMTmZ4NHRqVlN3NE5RV1lVTGtyS2ttaXprd3VXam51NjBONk4yUEYwZFhmSWk5cm42ZHk3VzlhaVRESFJCS1lNZEdWb29IM3VPVWkxMjR0bWIzbUItcnZWcm5wS0I4ZFgydi11QQ?oc=5",
-      "publishedAt": "2026-09-08T16:45:06.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Gold's Annual Output Is Tiny and Worth Twice What Aluminum Produces stonex.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-08T18:58:50.283Z",
-      "updatedAt": "2026-09-08T21:52:36.926Z",
       "analyzedAt": null
     }
   ]
