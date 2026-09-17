@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T19:18:28.534Z",
+  "generatedAt": "2026-09-17T22:26:22.805Z",
   "items": [
     {
       "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
@@ -3277,6 +3277,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-14T14:05:51.827Z",
       "updatedAt": "2026-09-14T14:05:51.827Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "4df9eaee82b8e31a80a7e0089ce748395403bbfa7f36e714f7f9314a53d7660e",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "트럼프, 철강·알루미늄 관세 50%로 두배 인상",
+      "summary": "트럼프, 철강·알루미늄 관세 50%로 두배 인상 미주조선일보",
+      "source": "미주조선일보",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON3FNeFBMM0RtcnVUbjc1N3BFeUZCUmtWZjNVaEYyUUFmdG5nTEx0RU1ldEtKTU5UcVdFRXdselZydXRUZDNXN3FIZlRqTm52WXBHQWxWazRDeFlOWFN2NEpJNXNfNGNJU3QxMGlIQUNpZk9sMnpzRWNOaHRDVGsxZTRXVmRjTi13bFRCSmZ0TVJZdEoza0E3YTlfU0gxRlQtMW1oM1hNWUowZHFwdk1JSDBveTVQd1VGM3Q1RDI1OER1V0h6SS1QbVFaWS1UZDdBVmdLVmFBcnFnZ1VzamFXRG5NZw?oc=5",
+      "publishedAt": "2026-09-17T06:38:46.000Z",
+      "priority": 45,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "트럼프, 철강·알루미늄 관세 50%로 두배 인상 미주조선일보",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-17T22:26:22.805Z",
+      "updatedAt": "2026-09-17T22:26:22.805Z",
       "analyzedAt": null
     },
     {
@@ -18655,42 +18691,6 @@
         "region": "Unclear",
         "regions": [],
         "summary": "Quimbaya Gold Confirms Presence of a Copper-Molybdenum Porphyry System at Tahami Center Junior Mining Network",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-08T15:22:32.378Z",
-      "updatedAt": "2026-09-08T15:22:32.378Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "8eeea6e0c81f19dfa047051b3c3669dd0cd8054af9f15e96bcc5edc153e7aab5",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Can Southern Copper (SCCO) Justify Its Valuation After Cash Flow Jump And Dividend Update?",
-      "summary": "Can Southern Copper (SCCO) Justify Its Valuation After Cash Flow Jump And Dividend Update? simplywall.st",
-      "source": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY2FjUGNMY0ZMalJ2cy1VODRmQlQ2Mng3Ml9PQkt3ZllvY1E5ZEVqai1BYmIzWUlhSDRBYjQ0cm9OUFJVcXRibk9meUhvMkl6MUNOX05PSTVxS3FkWlVpUDBlSFJsdGozNWJQeVZyNV9GMzJsVXFhNlhxWWtPb0liTFMxN2hRTGdPbFdLZ0dQU2VRRmt2aFk4R0J3Qi1Gb0FFVkljNlBiX21uNE91S3Z0SjhHS1k3YzFTZVNsWEwzOFNQUllSRVVLd3ZZNUlMWEhtY0Nv0gHTAUFVX3lxTFBjYWNQY0xjRkxqUnZzLVU4NGZCVDYyeDcyX09CS3dmWW9jUTlkRWpqLUFiYjNZSWFINEFiNDRyb05QUlVxdGJuT2Z5SG8ySXoxQ05fTk9JNXFLcWRaVWlQMGVIUmx0ajM1YlB5VnI1X0YzMmxVcWE2WHFZa09vSWJMUzE3aFFMZ09sV0tnR1BTZVFGa3ZoWThHQndCLUZvQUVWSWM2UGJfbW40T3VLdnRKOEdLWTdjMVNlU2xYTDM4U1BSWVJFVUt3dlk1SUxYSG1jQ28?oc=5",
-      "publishedAt": "2026-09-08T11:32:27.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Can Southern Copper (SCCO) Justify Its Valuation After Cash Flow Jump And Dividend Update? simplywall.st",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
