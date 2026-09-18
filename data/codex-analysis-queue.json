@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T15:11:06.423Z",
+  "generatedAt": "2026-09-18T18:30:46.734Z",
   "items": [
     {
       "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
@@ -8770,6 +8770,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-18T15:11:06.423Z",
       "updatedAt": "2026-09-18T15:11:06.423Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "6f74d48104b39519e6a4a9ec2294284b5b2e2c2069d81a7e11f9246807e11a2e",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper price holds steady amid signs of Chinese buying",
+      "summary": "Copper price holds steady amid signs of Chinese buying Economies.com",
+      "source": "Economies.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmY5VlZEaTNCZVRjNzlpRDQxMEVwNVJPWllOcW5Jd0FkQTBkUWRKNVdoNnRWUXZDSm9CWWlSSHIwQldadzVnaVJVZlhrMTJtU0dwdkplcDVDMHEtN2FzWVhyV3BBUnJIYXZsTV9HWjVtSDBTN0pMazB2QnFzWTlBWWt1dGJrTUgyTlZacXZuNWdheDNZNlpVMXYyc2NkV1JuX0xaQlBIZUUyLWo5djhJ?oc=5",
+      "publishedAt": "2026-09-18T14:40:00.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "CHINA"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper price holds steady amid signs of Chinese buying Economies.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-18T18:30:46.734Z",
+      "updatedAt": "2026-09-18T18:30:46.734Z",
       "analyzedAt": null
     },
     {
@@ -18671,42 +18708,6 @@
         "keyEvidence": [],
         "confidence": "LOW",
         "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T12:36:46.511Z",
-      "updatedAt": "2026-09-07T12:36:46.511Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "a121e205ff3957ad047ad92092de5f7c01b11c513c4d6f7b4234ec92ab51320e",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper price remains positive– Forecast today – 7-9-2026",
-      "summary": "Copper price remains positive– Forecast today – 7-9-2026 Economies.com",
-      "source": "Economies.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR0RRclIxbkVKV05ubjV6YXAzX3ZPQ0Z0Q3dRRnlXb0hDWkl3RGk1Z1NkbHdrNzhnMTF2TXc2Q2JkdnFoVEJwLXJlMXNicEtwak1vckI2ckFoaXZuTVQ1QUlmd09GQTFEZDd2d2Z3bXR6Q2RRaDdvaWtscnc0RXhuM1RhRUlCMjM4Ry1jZFJtcmpBZDNacTU3cnpqbmwwZEhXaUx1dldZeXVKOWQwa3lCTWdBU1dkQURDVG56blhyU1E4dzlGLTRSRDM3ZXRTZw?oc=5",
-      "publishedAt": "2026-09-07T05:22:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper price remains positive– Forecast today – 7-9-2026 Economies.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
         "signals": [],
         "urgent": false
       },
