@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T23:22:08.144Z",
+  "generatedAt": "2026-09-19T01:38:05.033Z",
   "items": [
     {
       "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
@@ -13393,6 +13393,46 @@
       "analyzedAt": null
     },
     {
+      "id": "dc038f1636834c4e3c17a7648275ed07686e87fcc7fa818a4f9bc1becd23c0a5",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "China aluminium rod inventory stays high, processing fees edge up amid falling prices",
+      "summary": "China aluminium rod inventory stays high, processing fees edge up amid falling prices AL Circle",
+      "source": "AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc1ZfZEV3bHRoSHpMVjM4X01FOV9YZEliRVlhYkxjNThqNFdlNUJsUDl6M2ZjU3VTbWVKQ1k1cEV6cEpTTmJnWHdhdDRnc2lvTElBYU5ZbzFQSmhaRm5qb1B1bDA5T1ZVVVNuck5zY3NidV9rWUtsWE1xUDhnaUxGLWl4THhNd3RYWHFwUGlKOHB0Ym1iMG1PUXlBRmJlcnlKZVBzUWtMOWNLaFZhUUx1TlBHZ2NLYjhFV3hZSEFR?oc=5",
+      "publishedAt": "2026-09-19T00:43:28.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "PRICE",
+          "INVENTORY",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "China aluminium rod inventory stays high, processing fees edge up amid falling prices AL Circle",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-19T01:38:05.033Z",
+      "updatedAt": "2026-09-19T01:38:05.033Z",
+      "analyzedAt": null
+    },
+    {
       "id": "19d573023277da28a10d7b067af28d2d957a346cd21905eec743e757e3960034",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -18680,42 +18720,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-07T06:08:15.787Z",
       "updatedAt": "2026-09-07T06:08:15.787Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "7cf4e41d663395e59858b8436561714e52759a80a6fb4f614949364f7f3579bb",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Great Southern Copper schedules AGM for September 30 By Investing.com",
-      "summary": "Great Southern Copper schedules AGM for September 30 By Investing.com Investing.com Australia",
-      "source": "Investing.com Australia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ3gtamZTaGw4ZUprOThHUi16SURnakdGamFlOXZvUVJMbDFvSTlqNERJVmc2U1lPWFVVV0h1a1dvcVBUb2lvUGNzYkpBRE1DSVNvbHdpNUpfdS1WZFBidXIycDRmTXp3ZDFwWTR5NG80aEZ5SVJmMDVQVnVLYTBiYUhhaVJqY2s1TGdadWRVazJGY04zWkpGcXczN196ODlkLUFZSnJoaVFRaEQzcEdNclhnRQ?oc=5",
-      "publishedAt": "2026-09-07T07:57:15.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Great Southern Copper schedules AGM for September 30 By Investing.com Investing.com Australia",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T12:36:46.511Z",
-      "updatedAt": "2026-09-07T12:36:46.511Z",
       "analyzedAt": null
     }
   ]
