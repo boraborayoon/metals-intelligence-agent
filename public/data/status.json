@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-19T06:40:03.922Z",
-  "nextScheduledRun": "2026-09-19T07:10:03.922Z",
+  "lastUpdated": "2026-09-19T11:35:24.762Z",
+  "nextScheduledRun": "2026-09-19T12:05:24.762Z",
   "agentStatus": "OK",
   "telegramStatus": "OK",
   "kakaoStatus": "DISABLED",
@@ -23,19 +23,18 @@
     },
     {
       "name": "International Tin Association",
-      "status": "ERROR",
-      "count": 0,
-      "error": "Unexpected close tag\nLine: 92\nColumn: 7\nChar: >"
+      "status": "OK",
+      "count": 10
     }
   ],
   "runStats": {
-    "fetched": 200,
-    "relevant": 31,
-    "duplicates": 19,
-    "analyzed": 12,
-    "ruleAnalyzed": 12,
+    "fetched": 210,
+    "relevant": 40,
+    "duplicates": 29,
+    "analyzed": 11,
+    "ruleAnalyzed": 11,
     "codexPending": 500,
     "sent": 3,
-    "failed": 1
+    "failed": 0
   }
 }
