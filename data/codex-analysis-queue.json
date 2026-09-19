@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T14:49:10.313Z",
+  "generatedAt": "2026-09-19T18:02:57.315Z",
   "items": [
     {
       "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
@@ -8953,6 +8953,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-19T14:49:10.313Z",
       "updatedAt": "2026-09-19T14:49:10.313Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "caf89e6d0149a5205486613597a4ca392648211fe20d45db0bfc4c353ec73ef9",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "2035년 염화철 침출 시장 전망: 전기화와 구리 수요가 성장 견인",
+      "summary": "2035년 염화철 침출 시장 전망: 전기화와 구리 수요가 성장 견인 IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3hYaTZHSjRtLWdoWksxVFF6cEQzNUY0b0hjeTJWOWNjZGhEeWlSSGY5Q1o3X0xDUHl1LVFvQm11T2dnWHdDQ2dhSEVvTWJxYy1DRm9HQm8yOXlSejVOTG53UWI0Mmhiazc0bTFqWjFmNnFJblBxSkRHOUJXRk5yXzdxY0laM1lVLVM0RnM3QUFJVS1oekEwOEw3Zks1OXN5a1R4anVRRldaLTBaWURfT2xQc3RZbXJQeWpyT29BNGdqR1BE?oc=5",
+      "publishedAt": "2026-09-19T15:46:18.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "2035년 염화철 침출 시장 전망: 전기화와 구리 수요가 성장 견인 IndexBox",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-19T18:02:57.315Z",
+      "updatedAt": "2026-09-19T18:02:57.315Z",
       "analyzedAt": null
     },
     {
@@ -18676,42 +18712,6 @@
         "keyEvidence": [],
         "confidence": "LOW",
         "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T01:02:26.962Z",
-      "updatedAt": "2026-09-07T01:02:26.962Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "456d453471864de08845f6258d16562c5749f57967ca1209f7f351ace471f1f8",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Worley Says BHP Awards Co Contracts For Copper South Australia Projects",
-      "summary": "Worley Says BHP Awards Co Contracts For Copper South Australia Projects TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaldtQU9zeUxmUkdFX2JWa0xaOUJTT3h6SE5YNmJrZnBMWnBIb0VXU1ZndXNvTlhCYmhobUdUekR4NDgtSTFLVHFrbkNROGdISkVpZWp4eE5mWUFwWXlGdUVGaDY5V0JKNnNyaF9KZEU2TmFyQUd1T0tfTFBuU3ZpUlBxaG5xS2hPZzFaR3k2UXJFb1N1Qng0YnZQWUFURGNiTFN2aHVoYmhieG8zQlpkWV9MTGd2WUhzU1QzS2dCYVgwcE1ySm9xbXdrNm15ZF9WTEExNFI0eVc?oc=5",
-      "publishedAt": "2026-09-06T23:35:05.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Worley Says BHP Awards Co Contracts For Copper South Australia Projects TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
         "signals": [],
         "urgent": false
       },
