@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T11:35:24.762Z",
+  "generatedAt": "2026-09-19T14:49:10.313Z",
   "items": [
     {
       "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
@@ -8917,6 +8917,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-19T06:40:03.922Z",
       "updatedAt": "2026-09-19T06:40:03.922Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "eac353808a55e13e62d6eeeca2d66598b09052ce6c6c96a5b35962e6cd9820bf",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Indigenous Tribes Form Resistance Camp Against Proposed Copper Mine in Michigan",
+      "summary": "Indigenous Tribes Form Resistance Camp Against Proposed Copper Mine in Michigan Truthout",
+      "source": "Truthout",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdF9ReWU2X2R4UDBaMUNrVVdnREVkMjk4VHRvdnZjM2FBaHJLenAzRnNXLUo1MlZ5NDBqTzg3b016REpxR0JaSk92M3h6bzNORlZJV0p0OHp6c284Y1ptYjVVdERpeUtyVVM2YW5LOVVvVlpNQ1hXSkJGUTA0Z0pkbVkwSTBMT3JhMk4wNEFjYVRJVmlKUTBhTVl1Wk9Yak1xMlZlNWdOMEROdUlIcGNn?oc=5",
+      "publishedAt": "2026-09-19T13:11:18.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Indigenous Tribes Form Resistance Camp Against Proposed Copper Mine in Michigan Truthout",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-19T14:49:10.313Z",
+      "updatedAt": "2026-09-19T14:49:10.313Z",
       "analyzedAt": null
     },
     {
@@ -18683,44 +18719,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-07T01:02:26.962Z",
       "updatedAt": "2026-09-07T01:02:26.962Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "e67e050a2ed204d6cc914a41a72e10676b32698c046c44562d0ea0b0b41f11c9",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "광산 채굴 차질에 올해 구리 생산 감소 전망…9년 만에 역성장 가능성",
-      "summary": "광산 채굴 차질에 올해 구리 생산 감소 전망…9년 만에 역성장 가능성 더구루",
-      "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KeXRlY2VVRVJFbjJ2QWdNQ2g2bHdMUllReUk1OHR4Y2xUcWp3ZDhIanJZdmxnNndhMndwYmtaeFVWUm8yZ2djdV9wRGdwWkhlbXJyNnU0OVdXeEp3a0ZIaldEYw?oc=5",
-      "publishedAt": "2026-09-07T05:19:26.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply Disruption",
-        "categories": [
-          "MINE",
-          "PRODUCTION",
-          "DISRUPTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "광산 채굴 차질에 올해 구리 생산 감소 전망…9년 만에 역성장 가능성 더구루",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T06:08:15.787Z",
-      "updatedAt": "2026-09-07T06:08:15.787Z",
       "analyzedAt": null
     }
   ]
