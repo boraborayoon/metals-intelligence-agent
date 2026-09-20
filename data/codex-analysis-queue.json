@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T05:26:31.649Z",
+  "generatedAt": "2026-09-20T10:07:11.383Z",
   "items": [
     {
       "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
@@ -2794,6 +2794,52 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-28T18:40:19.877Z",
       "updatedAt": "2026-08-29T05:40:19.926Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "7e212b78936734c279b9efea56a05734f5c043ce3b70ed3d1fabe517646808b0",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "남미·글로벌 구리 공급망 동시 경고: 사고·생산 차질이 한국 산업에 던지는 과제",
+      "summary": "남미·글로벌 구리 공급망 동시 경고: 사고·생산 차질이 한국 산업에 던지는 과제 얼리어답터뉴스",
+      "source": "얼리어답터뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xajdLZzBtVlBHUTBwdW9xTHhXWE1kUFJkYXFoLTZMeC1xRWNwMllPcmJZS2VlMkpDUFVrTTBMV0daMEpjSkgzUHJn?oc=5",
+      "publishedAt": "2026-09-20T08:34:31.000Z",
+      "priority": 46,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Operational Accident",
+        "categories": [
+          "SUPPLY",
+          "PRODUCTION",
+          "DISRUPTION",
+          "ACCIDENT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "남미·글로벌 구리 공급망 동시 경고: 사고·생산 차질이 한국 산업에 던지는 과제 얼리어답터뉴스",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "사고",
+          "생산 차질"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-20T10:07:11.383Z",
+      "updatedAt": "2026-09-20T10:07:11.383Z",
       "analyzedAt": null
     },
     {
@@ -8992,6 +9038,44 @@
       "analyzedAt": null
     },
     {
+      "id": "f8f99b7c129acabaa10f880c2d7102fe44f167fb619421ad6a8e603b77194398",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "August copper scrap raw material imports fell nearly 20% MoM, with rigid demand supporting the import floor",
+      "summary": "August copper scrap raw material imports fell nearly 20% MoM, with rigid demand supporting the import floor Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd0gyblNIM01INy10TnY5NFIzdnFQcU9iZE5tbzhiQTMza1R2Y3ZRSlhXX05SUUpnRFpKS0s5SmRydE8xTjdnSmhQdUJPVXlTX3FEdU5Kczk4cjFOZTB5U21iTWFfd2dyRjhSM1p0bDFmX3JqeDlEZUNDSzF4OFBhQmFBNkNtbzdPOGdEV3lPcFp3TXpHYlNDRDRfVkhQRjZ0cjBBbnl5SWxqRzdOMWd2enAwUGthLVZOTjBhSFN4eWpwb3h4UzRmV2lZdVB5OWw3dnZkbklXRHJVR0ZtcU00UEtjenY?oc=5",
+      "publishedAt": "2026-09-20T08:21:07.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND",
+          "LOGISTICS",
+          "IMPORT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "August copper scrap raw material imports fell nearly 20% MoM, with rigid demand supporting the import floor Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-20T10:07:11.383Z",
+      "updatedAt": "2026-09-20T10:07:11.383Z",
+      "analyzedAt": null
+    },
+    {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -11297,6 +11381,82 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-18T11:18:15.639Z",
       "updatedAt": "2026-09-18T11:18:15.639Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "4a582c58c76f69adae0e494a8fbff8d6f27e812dfff103501cbf0360d5b59d9e",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Wire Rod Exports Remain Weak in August, High Copper Prices and Premiums Suppress Overseas Demand [SMM Analysis]",
+      "summary": "Copper Wire Rod Exports Remain Weak in August, High Copper Prices and Premiums Suppress Overseas Demand [SMM Analysis] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdmtpQTY1WUZVcUhtX0VuTWpaNDRld2N5QTh0dHhXdy1qN2xtUmVSVnBkR2ZHdVgwOTBITU05NElPRkZZVEoxcVctRFJlZmVCYlVodDgyZ2VBXzlReDlBbXNzVE5UZlFYX3ExLTYwRkY5TzJHOWZqSWhKTF9fYzg3bm04NVkza0Q2TnVkalptSmdyRFlCcUJadGV1MERpZ1BwM0dGMVpHZGk5RFluNVFKeWtmN05VR1dXMk1KRTk1WUFneHFvZmFINmRJZG5LRS1IQVhRRnR6dTk5ZTVCbkhIX2x6Vlo3MWlLNTFER25mT0VXdw?oc=5",
+      "publishedAt": "2026-09-20T08:48:45.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "PRICE",
+          "DEMAND",
+          "LOGISTICS",
+          "EXPORT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Wire Rod Exports Remain Weak in August, High Copper Prices and Premiums Suppress Overseas Demand [SMM Analysis] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-20T10:07:11.383Z",
+      "updatedAt": "2026-09-20T10:07:11.383Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "c3d369b955fc86921577bd04f01e4629f2709bb79f9613b4a3fdcdc32f2f640a",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "【Aluminum Flash News – Bauxite Imports in August】 According to the Ge",
+      "summary": "【Aluminum Flash News – Bauxite Imports in August】 According to the Ge Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZU40UDl2WHE2d1dkQUtPUk1INXkyRlZlYXJJazRvb19KakR6Mm1TNDlBTHRSMjBsT3J0WjdGOHdJbGZHdnNuMURvQnlVSk41WTNiQzdsNFQ4Z1R5Z3RJaVpMOGw2bnBneElRT3lMUnNGRHMyOEtSTW1IMWtfdFdMb18ycU1vZGdoY2VCcHp0WmozWXc3Um45aGVMeVhGRlYwZ01FQWIzUlV0WVpn?oc=5",
+      "publishedAt": "2026-09-20T07:51:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "LOGISTICS",
+          "IMPORT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "【Aluminum Flash News – Bauxite Imports in August】 According to the Ge Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-20T10:07:11.383Z",
+      "updatedAt": "2026-09-20T10:07:11.383Z",
       "analyzedAt": null
     },
     {
@@ -18574,151 +18734,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-06T12:54:04.743Z",
       "updatedAt": "2026-09-06T12:54:04.743Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "3d4fd59c279c97de4d8a433225fc4b8da3e717e85c77c35e7df772a12faaf706",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "$68M for a Broken Mine. Now It’s a Copper Giant | Firefly Metals Green Bay PEA",
-      "summary": "$68M for a Broken Mine. Now It’s a Copper Giant | Firefly Metals Green Bay PEA thedeepdive.ca",
-      "source": "thedeepdive.ca",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd0dzNng4UGxVOWtCUXlWUWdobGE2d29GcHo0ckdhaUNLcElXek13STBQZ2Z4cmNYRDNOM1V4UUpIeWYxU19rQlByeG1JOHZBeU0wc3pZbThJLTFFVmdfZ282dHFjMVpJQUpMdklwY0IzMmRyRWRValJTUG9ja29WT3h4ZDlxY1pucDBCaERLaW9rcUpIc2F1ZFNpeEJmZw?oc=5",
-      "publishedAt": "2026-09-06T15:32:35.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "$68M for a Broken Mine. Now It’s a Copper Giant | Firefly Metals Green Bay PEA thedeepdive.ca",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-06T16:18:15.739Z",
-      "updatedAt": "2026-09-06T16:18:15.739Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "86d1d128507e6bfdcd06cf696ddbfcbce38d8299ee191029f7cc6d359164e2cd",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Experts say copper prices need to move higher still to solve supply gap",
-      "summary": "Experts say copper prices need to move higher still to solve supply gap Stockhead",
-      "source": "Stockhead",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYm5CZGhjWEU4WHZURmliNUtYNlF1MVBKOTU3SzNyY3J1bWhIc0FSSC0teEZqM3AzdW91ODItUFhoNVpEN3l1WTdWT2tOaUh6cXpfZFNyUXBjZnJXbXdOd2FDN1VUSTFGZEV3NWExN2ZESV9Wb1d0aWRrYW9CdGpIT3FFVUdlWUltaWc2bHpJelhPSXNibHF2SlU2Z2x2WFRHWGp4ZGp0SWFaU1E?oc=5",
-      "publishedAt": "2026-09-06T20:00:34.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "PRICE",
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Experts say copper prices need to move higher still to solve supply gap Stockhead",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-06T20:51:23.639Z",
-      "updatedAt": "2026-09-06T20:51:23.639Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "a7f6d1bbd35dfca12533511a38e69b10cd178ba3b93e911327ac73c451237943",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "[원자재] 미국 7월 구리 수입, 22만5000톤... 36년 만의 최대",
-      "summary": "[원자재] 미국 7월 구리 수입, 22만5000톤... 36년 만의 최대 버핏연구소",
-      "source": "버핏연구소",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JcGg4UHNRaXRNSDlqcVh3NkNrMU1hMEo3bWUyM0lHcUdmYXVEV05xMGhJUEt2VjdOX3VtQXljZ1I1WDVrRkZndmdPeUlWZG1tWmhrTkNTSi1IRVBiYWVKVGln?oc=5",
-      "publishedAt": "2026-09-07T00:45:18.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "IMPORT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "[원자재] 미국 7월 구리 수입, 22만5000톤... 36년 만의 최대 버핏연구소",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T01:02:26.962Z",
-      "updatedAt": "2026-09-07T01:02:26.962Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "086e3fe3b57a79299503e341e7c2d018888f1f49dd472eeb75d752eb05eb3638",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "[EBN 데이터센터] 비철금속 가격 혼조…아연·구리 오르고 주석은 하락",
-      "summary": "[EBN 데이터센터] 비철금속 가격 혼조…아연·구리 오르고 주석은 하락 네이트",
-      "source": "네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RZXJqbEpBdUgzT2taRHpPZ1BZYUxlNzVkaEpjcVJzOGJlX3V1T0FXcGpQX0hlNlpZcmxWNGlvR0hQMjlsN2prMG9xZHFpNjFBRHdN?oc=5",
-      "publishedAt": "2026-09-07T00:16:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "[EBN 데이터센터] 비철금속 가격 혼조…아연·구리 오르고 주석은 하락 네이트",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T01:02:26.962Z",
-      "updatedAt": "2026-09-07T01:02:26.962Z",
       "analyzedAt": null
     }
   ]
