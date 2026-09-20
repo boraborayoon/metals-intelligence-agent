@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:30:07.295Z",
+  "generatedAt": "2026-09-20T19:46:31.077Z",
   "items": [
     {
       "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
@@ -11453,6 +11453,43 @@
       "analyzedAt": null
     },
     {
+      "id": "a313fa3c2cd8147ca78792f64ff3a9052b579263a505c2334c13591e0eaffbe2",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Norsk Hydro stock edges higher after Q2 2026 guidance and aluminum demand update",
+      "summary": "Norsk Hydro stock edges higher after Q2 2026 guidance and aluminum demand update AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNanc4RVFJYU1uS3FKTTJTRWZFTll4WC0xNTZEVEFrbEFUai1ITHhheVVNSUp6RTVTSEN2WFNuVW1EeXRrcUVIdTdtemwxVkNmOFlpUTRPdk95UzEteS1BYlRBX3hWUmtVTUhsS3plWjIxd0k0Z09IWS1qZzNZTFFSRFM4RFpMbUJtUi1hQUhUbVBRc1Nfak13a28wZFJvOXM3ZS1MYUc3bURYLTN3dmtkcjhUMzNacTFGLWNyRHQ0VlE3OFBGUTRZYTB2RV83N3ZxZ0E?oc=5",
+      "publishedAt": "2026-09-20T17:10:29.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production Guidance",
+        "categories": [
+          "DEMAND",
+          "GUIDANCE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Norsk Hydro stock edges higher after Q2 2026 guidance and aluminum demand update AD HOC NEWS",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-20T19:46:31.077Z",
+      "updatedAt": "2026-09-20T19:46:31.077Z",
+      "analyzedAt": null
+    },
+    {
       "id": "eed75731f79879ff7b15b4b9727e94fb9efdd1ceea579dd6f1155f3838a719da",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18691,42 +18728,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-06T08:57:41.287Z",
       "updatedAt": "2026-09-06T08:57:41.287Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ac98a4dab0da094723e968783d3a6907fb2b700e6a072cfe42e4ffeddd1f079f",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Norsk Hydro stock holds steady as investors focus on aluminum margins",
-      "summary": "Norsk Hydro stock holds steady as investors focus on aluminum margins AD HOC NEWS",
-      "source": "AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS3dITEdQLUE2ZmFlMUNWcFFZZnNtTkx2TTVLS3dyYWpYaXRVX1JYY2FNZkJTRVRaNTNOcWZvbDFFNWJ6ckt2bkwtRzBXLWdWbGgwdlpEMklJRk9ZZzdBS04tcl9MMTdCRmM4MXNwUDBQSDJMM0xKdzJZNk52OWtpbnE1bk5JU1hkbHR3UnBDRUsyVEFoX2N6YmJyTFRId2JzX19sZi1RNFVrbG5PLTlSZUpPakx2VmE3aldEMUVmcjBRN0VMS3JGczJJT24?oc=5",
-      "publishedAt": "2026-09-06T12:12:24.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Norsk Hydro stock holds steady as investors focus on aluminum margins AD HOC NEWS",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-06T12:54:04.743Z",
-      "updatedAt": "2026-09-06T12:54:04.743Z",
       "analyzedAt": null
     }
   ]
