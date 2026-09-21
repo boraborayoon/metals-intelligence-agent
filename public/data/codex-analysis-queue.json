@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:07:41.084Z",
+  "generatedAt": "2026-09-21T17:04:38.238Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -685,6 +685,16 @@
       "codexStatus": "PENDING",
       "source": "Global Banking & Finance Review",
       "publishedAt": "2026-09-18T15:03:41.000Z"
+    },
+    {
+      "id": "39ec19e7110014bc214a8f4f0d7ee8678004387157d07cb7eaf67c5a5abd62ce",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Anglo Anglo delivers record copper below cost guidance",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "mining-journal.com",
+      "publishedAt": "2026-09-21T12:39:33.000Z"
     },
     {
       "id": "d5d6c56043855a34c1c9a2a084b6da7b1d445fa957a82eab9fef1d83743ae578",
@@ -2427,6 +2437,16 @@
       "publishedAt": "2026-09-21T05:23:00.000Z"
     },
     {
+      "id": "49796eee79ad831c108a789ad015da0199d3bc85c328a907ab17a232f5194d2d",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Vedanta’s Zambian unit resumes copper smelter operations after maintenance",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "CNBC Africa",
+      "publishedAt": "2026-09-21T16:21:02.000Z"
+    },
+    {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -3747,14 +3767,14 @@
       "publishedAt": "2026-09-21T08:01:01.000Z"
     },
     {
-      "id": "9b1958e49a3d875941776fca5645b292a2d51f19b9218982d0124017d4d7b6ad",
-      "commodity": "ALUMINUM",
+      "id": "ffea629cfa27af841096057f43491d79011708aba0e5eca7226b9e4b2c340155",
+      "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Rio Tinto partners to deliver aluminium cables to Amazon data centre",
+      "title": "Copper Near Records As China’s Restocking Bid Meets Tight Supply",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Aluminium International Today",
-      "publishedAt": "2026-09-21T07:41:12.000Z"
+      "source": "finimize.com",
+      "publishedAt": "2026-09-21T13:43:05.000Z"
     },
     {
       "id": "19d573023277da28a10d7b067af28d2d957a346cd21905eec743e757e3960034",
@@ -4985,26 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Robinhood",
       "publishedAt": "2026-09-03T20:03:08.000Z"
-    },
-    {
-      "id": "6b3de2bd735e6fe907a655388c31e3c1e53623e9384dccb6583cbe1c8d9abd83",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "WEEKLY: Aluminum rallies as soft US jobs data, tight ingot supply set up bullish tug-of-war",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mysteel",
-      "publishedAt": "2026-09-04T09:17:20.000Z"
-    },
-    {
-      "id": "fb35aa4fa4577c612ef49f171482d3e9905c841634d18a0e4ada20ac8364cd5d",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Southern Copper Corp (NYSE:SCCO) Offers Dividend Quality With a High Yield and Solid Financials",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "ChartMill",
-      "publishedAt": "2026-09-04T08:31:10.000Z"
     }
   ]
 }
