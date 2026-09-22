@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T00:08:20.428Z",
+  "generatedAt": "2026-09-22T04:59:24.343Z",
   "items": [
     {
       "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
@@ -4033,6 +4033,50 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-16T11:37:53.096Z",
       "updatedAt": "2026-09-16T11:37:53.096Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "3937dfa1a77853e1ac3d96d3180a7a1ba951bfe349a8477d115eef31709c9832",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "관세 앞두고 미국으로 구리 쏠림…글로벌 공급 부족에 가격 반등",
+      "summary": "관세 앞두고 미국으로 구리 쏠림…글로벌 공급 부족에 가격 반등 더구루",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SWHFqTnhOZmlXb1E0STB6ckk0S3c1ek5TaVNFQ19VRE9tMktxOHdUam9nUXZpMGs1UjNyR3U3dEFSNnN5aW5jTUlwOXM4c1psSW9OZXBUWXp4U01fNkY0WVdPbw?oc=5",
+      "publishedAt": "2026-09-22T01:49:52.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Tariff",
+        "categories": [
+          "PRICE",
+          "SUPPLY",
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "관세 앞두고 미국으로 구리 쏠림…글로벌 공급 부족에 가격 반등 더구루",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "공급 부족"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-22T04:59:24.343Z",
+      "updatedAt": "2026-09-22T04:59:24.343Z",
       "analyzedAt": null
     },
     {
@@ -9405,6 +9449,42 @@
       "analyzedAt": null
     },
     {
+      "id": "978ee1ce4616ecd2b58581d4415732dba3901dc9584abaa9ef85e8bdc258c59f",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "LME Aluminium Alloy Day-15 Oct '26 Futures Price History",
+      "summary": "LME Aluminium Alloy Day-15 Oct '26 Futures Price History barchart.com",
+      "source": "barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBORjZVUklUSk9EaGt3RzZSVnRfdDVnN1pIUFRTLTZKdUQ1QWdrMnFWOFlDRDZzZnFVc3VoWmxsdmJmM0hNd2RFUlpmamZlV1doN2hPc081QnlmNXRDYWV3ODZ5UTRlQ1ZkYlpZLUdVV0M5Rlh1OGdjY0hNWQ?oc=5",
+      "publishedAt": "2026-09-21T23:34:54.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME Aluminium Alloy Day-15 Oct '26 Futures Price History barchart.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-22T04:59:24.343Z",
+      "updatedAt": "2026-09-22T04:59:24.343Z",
+      "analyzedAt": null
+    },
+    {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -12012,6 +12092,78 @@
       "analyzedAt": null
     },
     {
+      "id": "bf9b22c3fb1e59e3bd39a926b9019d771b02ea95d6dce7ef20bb4333d89ad148",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "[특징주] 구리 가격 고공행진에 전선·구리株 '대한전선·엠케이전자' 강세",
+      "summary": "[특징주] 구리 가격 고공행진에 전선·구리株 '대한전선·엠케이전자' 강세 뉴스핌",
+      "source": "뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhazBweHpUR2Y3c3lxLXVSc3VtVXNuSUd5LTQ3WXFiMFlUalJOLWc4UTVla1JXZDNpaXVqMV9Lel9pd1BlWEJQNFdDOG9qd0Rjd1dQOW9CbjBENUVp?oc=5",
+      "publishedAt": "2026-09-22T01:39:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[특징주] 구리 가격 고공행진에 전선·구리株 '대한전선·엠케이전자' 강세 뉴스핌",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-22T04:59:24.343Z",
+      "updatedAt": "2026-09-22T04:59:24.343Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "35daf95d9cc67027076afa461d99062f8a23dce54e9a1c97592c27503bcb285d",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Crude oil fell for a fourth consecutive day, metals showed mixed performance, LME aluminum dropped over 1%, LME tin rose over 1%, ferrous metals broadly gained [Overnight market]",
+      "summary": "Crude oil fell for a fourth consecutive day, metals showed mixed performance, LME aluminum dropped over 1%, LME tin rose over 1%, ferrous metals broadly gained [Overnight market] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPQ3gyR1E0T29VS19sbGNZYzNxYms5cEJySWNra1NoU1A1clJHdnRaNTJFNlA3cEF4dGZIUFJPOEVCNkNYdXZrTHBYRXFhbE1JakVmMFRiVDZ2UEJ0LXdYbXdwUV8wVWFoVzFjMXh0d2FuYjliUzl2WXpTR3hQYWN2QVBHOTd2eXZKaXRGQ3cya3E5b09pY1UxZUt6V3JSY0thNlk0T1FoQzBEckFXVnltbEpFOXVGNzZHWGRFQldUMkptb2s1Z2pOeE1zV3VTUk1aTlpiZ24wUUdpY1dwaFVxZHdiSjRiWmc2Q1FSTXo1Z0s0SGFaQmlYVFl6ZU8tWERUakdNNXlEWG5iTG5RckxMWlA1TllBdWE0dW9LTXAwRWhCS0MyTWxraXphWEJEbE1LcmlkWlBwRkYtTlU?oc=5",
+      "publishedAt": "2026-09-22T00:40:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Crude oil fell for a fourth consecutive day, metals showed mixed performance, LME aluminum dropped over 1%, LME tin rose over 1%, ferrous metals broadly gained [Overnight market] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-22T04:59:24.343Z",
+      "updatedAt": "2026-09-22T04:59:24.343Z",
+      "analyzedAt": null
+    },
+    {
       "id": "eed75731f79879ff7b15b4b9727e94fb9efdd1ceea579dd6f1155f3838a719da",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -14489,6 +14641,46 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-22T00:08:20.428Z",
       "updatedAt": "2026-09-22T00:08:20.428Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "e96879ef35d62fb1a403b807e3c4913f17af3e74821bf2ee84a3ed7462a2f8f8",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Aluminum Prices Gain Phased Support as China-US Presidential Meeting Approaches and Destocking Accelerates [SMM Aluminum Morning Meeting Summary]",
+      "summary": "Aluminum Prices Gain Phased Support as China-US Presidential Meeting Approaches and Destocking Accelerates [SMM Aluminum Morning Meeting Summary] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVFY1VnNtdkU2UnVDWnZHVW5aRHk4cEpYdWJnVy1kNC1ldzV0eEV0VUNGV2ptUF9qYWdtUUJFbU9wWGtCR3VXckJXdWQzWGxTVFY5VXJKNHNlV1NLQi16bnJUYlM3U21YX3dNQ2l5Tlp6WVJIZEJTcG4tclYwdVIyRFB5QlZBajUyS0NNeThNR3cxUlRNVDVoYjloNjh5YVlYSW8wSElKcUl6WWFsOUI0b2lyd3p4SWdTLW9qaW51Y0txSHV4OEJQSndySVR3M3lVS0lyVEpsWHpTNnB3dFZPdWNoVDNzdWFhcmZOMnI2Wkloc01VSnBKT0FidDNUcGVQcTN1SlE2bkpqNE14T0FfcldOVmpmcms?oc=5",
+      "publishedAt": "2026-09-22T01:28:00.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "LOGISTICS",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Aluminum Prices Gain Phased Support as China-US Presidential Meeting Approaches and Destocking Accelerates [SMM Aluminum Morning Meeting Summary] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-22T04:59:24.343Z",
+      "updatedAt": "2026-09-22T04:59:24.343Z",
       "analyzedAt": null
     },
     {
@@ -18581,188 +18773,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-03T00:17:49.193Z",
       "updatedAt": "2026-09-03T00:17:49.193Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "d37fd40aa3755756c7d39de9cfca9cdbcf8f45574395cc5adf4e4b1573d2a89b",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Aluminium touches three-week high, supply back in focus",
-      "summary": "Aluminium touches three-week high, supply back in focus marketscreener.com",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzZRZ3kyemlIc3NzQ2FyYVRsVGxZT2FxWW4tX25xZTR5UEVhSGwtbUJ5VkVpc3ZQdGNhZ0VKR2pWZE5HZVNCUnQwOXdBSVQ3THBPUDZPSHViR0Qwb2daZ2ZMZXFyaWpLaEJSZXBCcF8zeEdyRTRSUVJvRVBoVVZUUmhqcE9FU1laTk8tZkZOc3QwRm5JWEZENGdiMjVjcHp2ODFvU2t2d2JJNkk?oc=5",
-      "publishedAt": "2026-09-03T04:14:22.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aluminium touches three-week high, supply back in focus marketscreener.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-03T05:07:59.034Z",
-      "updatedAt": "2026-09-03T05:07:59.034Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "c9f7a127d40aee99b86fda84525373bc6b2726099a0e611b21f6c584b01a6ebd",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Security, energy and carbon reshape the European aluminium supply chain",
-      "summary": "Security, energy and carbon reshape the European aluminium supply chain Fastmarkets",
-      "source": "Fastmarkets",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYnJ5c0wzNG0xaXlqTEVpdE9Ia0xkbzllcFNYNi1tVEkyQU00d3FDdFBZRzBTX0NsYjlBSHQyd2hHTzdzODMta3pjd2M2Mlg2aDNnelVXSEFiOWh2bm9fS056YXlRY0Jnbng5RzlaRnFhV1JGSXFRaGFNWlkwTmgtUC1MVnlWaElPWUpESk5ueEpNYnlBS2lTSFRJdkFval9iTlZ2TFJ3VXpOWTU3?oc=5",
-      "publishedAt": "2026-09-03T08:42:05.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "ENERGY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Security, energy and carbon reshape the European aluminium supply chain Fastmarkets",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-03T09:52:33.609Z",
-      "updatedAt": "2026-09-03T09:52:33.609Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "3b025346f886d1b5a480370f933b23e5729cea9418deade372a18e9ba17df350",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "SHFE/LME price ratio slowly recovers, port congestion persists, market remains sluggish [SMM Yangshan spot copper]",
-      "summary": "SHFE/LME price ratio slowly recovers, port congestion persists, market remains sluggish [SMM Yangshan spot copper] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTVJicnM2cW90bFFiTkdPMk10Y2dtcHFnakdBQUlHQVFPbkQ0bDZrVTh2MnhTbl9lMW9Dd1d3czgydEJQNjBIVV9jSnM2dmhFOGVCazJoR3BNUDYyQldwSFdyX2ZSaWFwR19UOWZkSWV0a0lSSFlNV3BIWWNISklZNkNnRGJ3SjB2M3I4Y2Y5T2EyMlpGQVZKdkxBZ0N2bVlPUGdRUmJVU01zZWt2UEVYalFCbU1KTmNVSkhhRlV0RDJwMnJwYnBCOGVneUQteFp3SDBEdVctY0N3M2VMTjZuSE9kWHRfazVKS1plSzZB?oc=5",
-      "publishedAt": "2026-09-03T06:30:55.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "SHFE/LME price ratio slowly recovers, port congestion persists, market remains sluggish [SMM Yangshan spot copper] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-03T09:52:33.609Z",
-      "updatedAt": "2026-09-03T09:52:33.609Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "f2c7b71b99daa8a65c5a3c807bb2242c60e36db3f70ce320eb21b28338618f95",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Foil Manufacturer Londian Wason Lists on NYSE, Targeting AI Computing Supply Chain",
-      "summary": "Copper Foil Manufacturer Londian Wason Lists on NYSE, Targeting AI Computing Supply Chain Macau Business",
-      "source": "Macau Business",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkswRVlTamdER3NtQW5xblF5TEkycE9YQ3QwSmZpNUlHdmVSVUpFYWxpbUliQ21tRk9tdHBWamdRLWd0aGxockM1bUozazFtYjlmbUFfOXFheEI5NlZ1WUNPN2pnVUM4ODdDMXJFUmMxRVBJcTZSVHhjc2ZrVjNuVVdwTndzTlZFZWhnYkROMVplcElEUG1FcVNMOS1oNzQ0NWItVTBGVWRXbWhkR3d6bTlEdUV4d3N1X2c?oc=5",
-      "publishedAt": "2026-09-03T17:55:13.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Foil Manufacturer Londian Wason Lists on NYSE, Targeting AI Computing Supply Chain Macau Business",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-03T18:05:48.423Z",
-      "updatedAt": "2026-09-03T18:05:48.423Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "761f3d3065977d9ec14522a62b60b36fe457dd64bb782536e476a7874717c68d",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper foil maker Londian Wason raises $108M in NYSE debut on AI demand",
-      "summary": "Copper foil maker Londian Wason raises $108M in NYSE debut on AI demand Dealroom",
-      "source": "Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa3BVbWhFaDZPQnNNb2dYV3VtSVpQbml0NVNfbzRfRTBNYUV4bWk0MjFSaEJXWHVSYzV4SnZwQkppemNQR3o2SmpwOFZ4azZKSUFQYzhSUmt5Q09qV0VsVEdEVHN3eEdUUWJUcE9QOTBhcnZpVHI0OW9jRDBfbndYTnl0cE9VTmlodlZFajM4cldsLW9TY19nWmhXUXQ3aDV6R255eVhZdw?oc=5",
-      "publishedAt": "2026-09-03T16:58:46.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper foil maker Londian Wason raises $108M in NYSE debut on AI demand Dealroom",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-03T18:05:48.423Z",
-      "updatedAt": "2026-09-03T18:05:48.423Z",
       "analyzedAt": null
     }
   ]
