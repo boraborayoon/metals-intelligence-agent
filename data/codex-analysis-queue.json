@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T09:59:34.613Z",
+  "generatedAt": "2026-09-22T14:56:19.845Z",
   "items": [
     {
       "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
@@ -9599,6 +9599,123 @@
       "analyzedAt": null
     },
     {
+      "id": "5227d13f5320bbb3d357209acb34c20b6de7d907ae44bb0c881e63be7cdb1f28",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "127% Data Center Copper Demand Growth by 2040 Raises Need for New Mines",
+      "summary": "127% Data Center Copper Demand Growth by 2040 Raises Need for New Mines Crux Investor",
+      "source": "Crux Investor",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdHZqNzV5M2NsN25ZUGdDZml5WEc3Mi0telhlaWhBaUFkWi1wSVpOcXpFeFpNNlZTaExqamp1Z3JHMTdGZTkzWU5RTDlWVDd1LVNaaXN0VVRQei12d2EtLUtFaW5Bc25xTTc4Xy1MYWNNQ0tXaVIwazcxMlNncXFzbUQ3UFYtWVBNZVpIM2VkY0ZBM2lRaHBTZ2F6ZlgxY3M3SFd6dWt6aTI?oc=5",
+      "publishedAt": "2026-09-22T12:06:34.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear; Conflicting market signals",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND",
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "127% Data Center Copper Demand Growth by 2040 Raises Need for New Mines Crux Investor",
+        "marketImpactReason": "기사에 가격 상승·하락 방향의 근거가 동시에 있어 규칙만으로 단일 방향을 확정하지 않았습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [
+          "new mine",
+          "demand growth"
+        ],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [
+          "Supply Loosening",
+          "New Capacity",
+          "Price Decline Opportunity",
+          "Demand Up"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-22T14:56:19.845Z",
+      "updatedAt": "2026-09-22T14:56:19.845Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f8290a8de8060c0598fab74f3776ee64825605e0bb339e34cfecc85224d4d870",
+      "commodity": "TIN",
+      "subCommodity": null,
+      "title": "LME Tin Official Day-19 Oct '26 Futures Price History",
+      "summary": "LME Tin Official Day-19 Oct '26 Futures Price History Barchart.com",
+      "source": "Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yNENteEdLalVDeEpZMmdfVXpyUFdZOEZVcTdhMlJYRjg1aXNjUHVYREp0RmhmZklrZXpJc1B2T3RZS25BWGpId1R4Y3pqNXc2Zk5HRHMydWdtX3p5d2tHakhpZ0J3b1JSa2FuaFMzZU8xdUo1NWR3ei0yMA?oc=5",
+      "publishedAt": "2026-09-22T10:38:55.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME Tin Official Day-19 Oct '26 Futures Price History Barchart.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-22T14:56:19.845Z",
+      "updatedAt": "2026-09-22T14:56:19.845Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "a1a391c44844b7aa2b895ecf5b597f981784a2c9c0e18becca8d9b5d5e2c7f52",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Panama’s Giant Copper Mine Is Too Valuable to Waste",
+      "summary": "Panama’s Giant Copper Mine Is Too Valuable to Waste Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMWJ0cWt2dW52VndIVk9hUHYyMzFZTG5ROFpjSEJZT21KaHUwODdsUGttOVR6QVdqaDNENUNhTENUMjkzS1AtQnlhSHBQX2R0MmJ5T3Y1VDBUcWJwWThsOVB4cTR0T19SRXVUTDI2b3NIaUdvYzg0MWZpZDZNWDFqckt4WVpqbWh0dGh4RWYxOWF5LWF0a2QyVjdRTU1vTzAxVDFhTGhES1M?oc=5",
+      "publishedAt": "2026-09-22T10:30:04.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Panama’s Giant Copper Mine Is Too Valuable to Waste Bloomberg.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-22T14:56:19.845Z",
+      "updatedAt": "2026-09-22T14:56:19.845Z",
+      "analyzedAt": null
+    },
+    {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -12355,6 +12472,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-22T04:59:24.343Z",
       "updatedAt": "2026-09-22T04:59:24.343Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "6d5938de62de5ae97d73ac0fcc6ea68bb35e512e56bacf27769265221967559e",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Why Is SHFE Copper’s “Three Highs” Market Intensifying?",
+      "summary": "Why Is SHFE Copper’s “Three Highs” Market Intensifying? Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1Y2TGxMNWRTVTdzLTNjS2oySm5rbUF4ZVR2U1JyNlVqZjhwTkdBWDFCNXlsWFl6U1JDblBWR1A1TmJmNDVEZ0ZPejQ5aXM1MEcwbGh5VlJtVTNWRlRPMU5tQkZackstUzJmejdwNm1IRENISkxnXzUwS1h6NFBacXNoamtsWkdOb1lDYnNkOXVNU3pQaXp5MXduU0Y?oc=5",
+      "publishedAt": "2026-09-22T10:53:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Why Is SHFE Copper’s “Three Highs” Market Intensifying? Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-22T14:56:19.845Z",
+      "updatedAt": "2026-09-22T14:56:19.845Z",
       "analyzedAt": null
     },
     {
@@ -18638,151 +18791,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-02T11:44:38.077Z",
       "updatedAt": "2026-09-02T11:44:38.077Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "8a308a9ea0a93590b90d3ed351a46c4bfb9230c95a814786a1e640c1df735fae",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Southern Copper Corp Stock (SCCO) Moved Up by 3.03% on Sep 2: A Full Analysis",
-      "summary": "Southern Copper Corp Stock (SCCO) Moved Up by 3.03% on Sep 2: A Full Analysis TradingKey",
-      "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcGl2ZFR0Z1Q2ZHh4a0dmT05VbDUya0xRZEtrZDNKOXBsb0dWdjVzSENWd05ESTZDTlNXbURZX2RKVTlYeFN0UUc1Y2xZNERpbHBmRjkwNXV6ZFdYeHVaZHVmUS1yd19FUGpFWXlkOWYwbXRNWnJvZG9tazI1TDVxcndIaGRZbzNQVnR3?oc=5",
-      "publishedAt": "2026-09-02T14:15:21.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Southern Copper Corp Stock (SCCO) Moved Up by 3.03% on Sep 2: A Full Analysis TradingKey",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-02T15:21:12.399Z",
-      "updatedAt": "2026-09-02T15:21:12.399Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "9163d90101a47d366f21ecc6f5da3e7e6b943a74f3409d4d43205dc8be2fc4cb",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Reader Opinion: Copper nickel mining",
-      "summary": "Reader Opinion: Copper nickel mining Brainerd Dispatch",
-      "source": "Brainerd Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXdNeko3Tzc3aGROcXVsMGpRNXBuQjY4ODlPVHlxSW5aU1pSODJ6RmtYLXo2YV9IU3NYYk1zRjAwN3dubXJmcDlwamIxXzFsMjBVcHZHZ1Jsem40SExqSkxIMDFkT19FeDI4b0xPUWhSRExxODJoekNCZnhXMjBuUTFsNzdWQ3FnQk1BaQ?oc=5",
-      "publishedAt": "2026-09-02T17:34:51.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Reader Opinion: Copper nickel mining Brainerd Dispatch",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-02T18:57:40.507Z",
-      "updatedAt": "2026-09-02T18:57:40.507Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "fc7a115dbd2002f53c6be32cf044cba4cf9b0882debce7f7c234a363e4dcdd2a",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Ford Increases F-Series Production Amid Aluminum Supply Challenges",
-      "summary": "Ford Increases F-Series Production Amid Aluminum Supply Challenges GuruFocus",
-      "source": "GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVo4Sy1sWkIzR3NmMTBvNFNFQUM5bXJtSi1Id2ItSjVvNFdidkFobmNnRlg0dWFHVWlfVldrWWtJa0Q4V2pyODVBQy1RV2FNeU81RmpwRHR1RllJNlgyY1BmVFdoN29Kekk2NzlUTW9JSUc5UDVrWGlhWDZLc05BNDJHUFRyRWZKYkxtVEdLS01ZZGM1R0pmVFdvcmtxSHRYN3FQVkhqOA?oc=5",
-      "publishedAt": "2026-09-02T16:03:28.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Ford Increases F-Series Production Amid Aluminum Supply Challenges GuruFocus",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-02T18:57:40.507Z",
-      "updatedAt": "2026-09-02T18:57:40.507Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "3c31c53a412ceaed8518adb7b97effd5dfb1aa79334a9eded117fe6fbd0fddc1",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Freeport-McMoRan Gains as Investors Revisit Copper Leverage Story",
-      "summary": "Freeport-McMoRan Gains as Investors Revisit Copper Leverage Story Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS1ZiRjhEQUFyLU9feXpkNGZXaTJOYjJyTEl1Sk9Ia1VfSFRONWMzVEVHcVdIbXlNeldlZk4tTW9zbmJTUE5KOUlScHFsbHVVbV9zZEFGN296YkF1LW9DLUUxRmdBOXdyaU1sZnI1elFlX0xHanlHUjU0YVJFZjhRMENBZmN4VGdseEN5bk5tX0I0WkhLbHRqSG1VUUR0QUk?oc=5",
-      "publishedAt": "2026-09-02T14:47:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Freeport-McMoRan Gains as Investors Revisit Copper Leverage Story Quiver Quantitative",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-02T18:57:40.507Z",
-      "updatedAt": "2026-09-02T18:57:40.507Z",
       "analyzedAt": null
     }
   ]
