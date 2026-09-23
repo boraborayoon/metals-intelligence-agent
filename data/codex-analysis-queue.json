@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-09-23T15:02:22.893Z",
+  "generatedAt": "2026-09-23T19:04:20.455Z",
   "items": [
+    {
+      "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Fatal accident occurs at BHP's Chile copper mine",
+      "summary": "Fatal accident occurs at BHP's Chile copper mine TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMEt1a1BVOWhRUXoxSUpZa1g3UHQwWUZpQXNNTHRZZU5peEFjWlJodWRMX0paRlBiN3I0bTB4am9pVUdSbldxT19sX2VFbG1qdms3eTlGU0h5QTk1OE10Y0gxNmNiNVJ0YlZPRWxFMVBjeGRYRUxmWEVxdEQxZGw5OUNLM2Q4QjlUZ0d2TXlkOTNsd0ZqTGlIZzc2eEhzajduZnREd1FzNlhBWWp3c3U4NlhsWXAtUU8xRFE?oc=5",
+      "publishedAt": "2026-09-23T18:11:43.000Z",
+      "priority": 74,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Operational Accident",
+        "categories": [
+          "MINE",
+          "ACCIDENT"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Fatal accident occurs at BHP's Chile copper mine TradingView",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "accident"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": true
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-23T19:04:20.455Z",
+      "updatedAt": "2026-09-23T19:04:20.455Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f68b71459b36c249e764ef016a3c9bae7f0932468c44c4e0b3952ba1074830ad",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "BHP 칠레 Escondida 구리 광산서 사망 사고 보고",
+      "summary": "BHP 칠레 Escondida 구리 광산서 사망 사고 보고 Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ueTVUampLMUljdGNiMUo0OXRoLWVmMlpzLTcwMFNSRGhUZTFKbHhjNzdzYmRyY21ZM0VGQ1BYeXdJZkd4aTE5eTNmdmdubXBub3d4MFVfM1dlQjZ6alB6WTh5Q1JGdGYxNnVNamVBWlhuYVRvWVFN?oc=5",
+      "publishedAt": "2026-09-23T17:54:00.000Z",
+      "priority": 73,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Operational Accident",
+        "categories": [
+          "MINE",
+          "ACCIDENT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BHP 칠레 Escondida 구리 광산서 사망 사고 보고 Investing.com 한국어",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "사고"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": true
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-23T19:04:20.455Z",
+      "updatedAt": "2026-09-23T19:04:20.455Z",
+      "analyzedAt": null
+    },
     {
       "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
       "commodity": "ALUMINUM",
@@ -15632,44 +15720,6 @@
       "analyzedAt": null
     },
     {
-      "id": "b6d059a5603000038366e977da585126beedb8cf6a9d327c4dc349bad6a6e835",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Chile’s copper windfall masks a production problem",
-      "summary": "Chile’s copper windfall masks a production problem fDi Intelligence",
-      "source": "fDi Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNczlidTQxOVQ2OFUxd1E0YXdrNHVGdTI2a0t3dXV4bkRucE5TdHJpNjFObXJRQmYxcGZfcVhiNFpWSUpCUjVQb1JCY0ZRTzBCcnQ3MTVGRlA0SGVYZTlBOV9ZQV9fOFJ0LTNzVkVWejR0aEVYVi13eVlMVzcwaXZKMFdn?oc=5",
-      "publishedAt": "2026-09-23T10:53:17.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Chile’s copper windfall masks a production problem fDi Intelligence",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-23T15:02:22.893Z",
-      "updatedAt": "2026-09-23T15:02:22.893Z",
-      "analyzedAt": null
-    },
-    {
       "id": "19d573023277da28a10d7b067af28d2d957a346cd21905eec743e757e3960034",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -18767,42 +18817,6 @@
         "region": "Unclear",
         "regions": [],
         "summary": "Copper Inu Price | COPPERINU Price Today, Live Chart, USD converter, Market Capitalization CryptoRank",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-01T00:38:07.958Z",
-      "updatedAt": "2026-09-01T00:38:07.958Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "4a167175eb387156f255ee3f61ff03537d62c4c7e71ab25cd3308046152964a1",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Inu Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD",
-      "summary": "Copper Inu Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD CryptoRank",
-      "source": "CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zVDJSY2dLRlkybk40LXZxa2JCRWxNVm02Z1FnR2MtSVBKX254Q0JfdVdRUktWMnJFVUxacmYwUlc5OEJ4Wlg2ZGpzbjFQSWYxQ2NnQmxNdnBSTmZDWkpOSFlmSVZLbDh0U3c?oc=5",
-      "publishedAt": "2026-08-31T21:35:55.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Inu Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD CryptoRank",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
