@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T19:04:20.455Z",
+  "generatedAt": "2026-09-23T22:18:31.018Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -219,6 +219,51 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-05T13:03:00.486Z",
       "updatedAt": "2026-09-05T13:03:00.486Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "09b41f0944a6a507418bb64d3a2955cb8e15bdcf68ac816e2d5bf15cd5b89786",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Unions call strike vote at Antofagasta copper mine in Chile",
+      "summary": "Unions call strike vote at Antofagasta copper mine in Chile TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQVV6OGNUNjNQbVJZZEZ4QjkzZV9oTV9VSmR0QTU1TVpZLV9uV0VKd1BsSjFqZ0tIY3JhczByNG81MFNGcWJxTU00YThhZUloRGlWbWVYeUFwTTlhaXpodS1tU28yNS1DeERYTWgxUWsyeDVlSHNZamNYeWNBUDh6RlVfWkI5eElDVW45Z19GSDhlUmZUNThnQWV2YllTMF9QYV9CYmFqZFV2M1ZkeFQzRjRhRUVnYk92cmZBZGMxQm9hVXByR2c0eg?oc=5",
+      "publishedAt": "2026-09-23T19:51:25.000Z",
+      "priority": 64,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Unions call strike vote at Antofagasta copper mine in Chile TradingView",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-23T22:18:31.018Z",
+      "updatedAt": "2026-09-23T22:18:31.018Z",
       "analyzedAt": null
     },
     {
@@ -1145,6 +1190,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-11T21:20:36.434Z",
       "updatedAt": "2026-09-11T21:20:36.434Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "344304422c5d90747af35d4572746d67320ac14bfe06bfbae7b5b37fe93c0d5e",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "World’s largest copper mine halts operations after worker death",
+      "summary": "World’s largest copper mine halts operations after worker death SRN News",
+      "source": "SRN News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTJSUXk0R29mMTY1dWJuR3ZocDNhdHJQMHFRQU1VZ0p1VEVxeXhmM2FISEN2bU9nUDhRU0JNMFl0OVdVb0RJUVM1bTdJZGtDRE1DWVh4dndrNHREcFdKVHFJX1NWbGlGV0FMekczWGpDR3dPWWJjc1FDRFdkeFFmQzNLV3U4Nkw2aFkw?oc=5",
+      "publishedAt": "2026-09-23T21:00:21.000Z",
+      "priority": 53,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply Disruption",
+        "categories": [
+          "MINE",
+          "DISRUPTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "World’s largest copper mine halts operations after worker death SRN News",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-23T22:18:31.018Z",
+      "updatedAt": "2026-09-23T22:18:31.018Z",
       "analyzedAt": null
     },
     {
@@ -18748,80 +18830,6 @@
         "keyEvidence": [],
         "confidence": "LOW",
         "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-01T00:38:07.958Z",
-      "updatedAt": "2026-09-01T00:38:07.958Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "a9937743bce29a7178dbf872428f2753aef4bd909caec80b43616075c65171f0",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Inu to Chinese Yuan Price Today | Live COPPERINU to CNY Converter & Exchange Rate",
-      "summary": "Copper Inu to Chinese Yuan Price Today | Live COPPERINU to CNY Converter & Exchange Rate CryptoRank",
-      "source": "CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CbzdKM01OdUFxQUdPbmJaeFBMVnJVNDdJYXhxUzdQdTgyekNFa0c0bzhpRmEwUkM4c1poU1hCa05EaGlIYjU5SnIzcUM0eW5BQVdDX3Awak16ZEkxT0w3eFJB?oc=5",
-      "publishedAt": "2026-08-31T21:37:56.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "CHINA",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Inu to Chinese Yuan Price Today | Live COPPERINU to CNY Converter & Exchange Rate CryptoRank",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-01T00:38:07.958Z",
-      "updatedAt": "2026-09-01T00:38:07.958Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "a6a3f7e50e63a203cf3010f470ad00950e8a9d1f3d6c92bff1135a5b274768de",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Inu Price | COPPERINU Price Today, Live Chart, USD converter, Market Capitalization",
-      "summary": "Copper Inu Price | COPPERINU Price Today, Live Chart, USD converter, Market Capitalization CryptoRank",
-      "source": "CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14WUgxR1k5V1NWcFJBYTB2VFNscVdac1RmQ1NwdXRaVDlQaUd6TVhMNEJkaGEtaG8taEZCMXNyTlVGRFVDZGV6RU9NMGRnbEN1Q2tNanc4eUl1T0VJ?oc=5",
-      "publishedAt": "2026-08-31T21:35:55.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Inu Price | COPPERINU Price Today, Live Chart, USD converter, Market Capitalization CryptoRank",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
         "signals": [],
         "urgent": false
       },

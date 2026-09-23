@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T19:04:20.455Z",
+  "generatedAt": "2026-09-23T22:18:31.018Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -55,6 +55,16 @@
       "codexStatus": "PENDING",
       "source": "EU Today",
       "publishedAt": "2026-09-05T10:24:23.000Z"
+    },
+    {
+      "id": "09b41f0944a6a507418bb64d3a2955cb8e15bdcf68ac816e2d5bf15cd5b89786",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Unions call strike vote at Antofagasta copper mine in Chile",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-09-23T19:51:25.000Z"
     },
     {
       "id": "e7053e43881549c4581bc9293d0d24cf36999136c9044cf4e8d836d54b02cbe8",
@@ -285,6 +295,16 @@
       "codexStatus": "PENDING",
       "source": "Recycling International",
       "publishedAt": "2026-09-11T10:16:04.000Z"
+    },
+    {
+      "id": "344304422c5d90747af35d4572746d67320ac14bfe06bfbae7b5b37fe93c0d5e",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "World’s largest copper mine halts operations after worker death",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "SRN News",
+      "publishedAt": "2026-09-23T21:00:21.000Z"
     },
     {
       "id": "8d01ebc8ad05c87f2a4b03b3a221f0a7c5a0cbfee3c4096bb7702262ae67e8c0",
@@ -4985,26 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "IndexBox",
       "publishedAt": "2026-08-31T22:20:00.000Z"
-    },
-    {
-      "id": "a9937743bce29a7178dbf872428f2753aef4bd909caec80b43616075c65171f0",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Inu to Chinese Yuan Price Today | Live COPPERINU to CNY Converter & Exchange Rate",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "CryptoRank",
-      "publishedAt": "2026-08-31T21:37:56.000Z"
-    },
-    {
-      "id": "a6a3f7e50e63a203cf3010f470ad00950e8a9d1f3d6c92bff1135a5b274768de",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Inu Price | COPPERINU Price Today, Live Chart, USD converter, Market Capitalization",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "CryptoRank",
-      "publishedAt": "2026-08-31T21:35:55.000Z"
     }
   ]
 }
