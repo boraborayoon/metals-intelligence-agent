@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T17:13:34.061Z",
+  "generatedAt": "2026-09-24T20:31:31.028Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -917,16 +917,6 @@
       "publishedAt": "2026-08-25T21:22:04.000Z"
     },
     {
-      "id": "b024e0d327c55dc634e39e6a2857c950df387372351ad34e12d5c91ce8a243c8",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper Prices Surge to Record Highs on US Tariff Fears and Supply Squeeze - News and Statistics",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-08-25T18:40:00.000Z"
-    },
-    {
       "id": "945ad67d89a3fe6a03b23046757650acfb5a8b98f835170aaa6a5dc26cb851db",
       "commodity": "ALUMINUM",
       "importance": "HIGH",
@@ -1665,16 +1655,6 @@
       "codexStatus": "PENDING",
       "source": "WZMQ 19 News",
       "publishedAt": "2026-08-26T02:14:31.000Z"
-    },
-    {
-      "id": "5fe23d305afdfdb4e8b7c489f71bec487d914fdce8cbccf7f6572f1578d753c5",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Big Annie Statue Unveiling Honors the Legacy of the 1913 Copper Strike and the Spirit of the UP Worker",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "MI AFL-CIO",
-      "publishedAt": "2026-08-25T18:08:55.000Z"
     },
     {
       "id": "e4054ac7ba0d6d2b277c20ef2f7888e1bbd2263aa28f9f0a697a14d592401625",
@@ -2807,6 +2787,26 @@
       "publishedAt": "2026-09-24T02:12:00.000Z"
     },
     {
+      "id": "366285c014ed8c3613643b7b560e4c9e542e1119c3e14e6b65798a82ff7d189c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Price September 25 2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Robinhood",
+      "publishedAt": "2026-09-24T18:15:52.000Z"
+    },
+    {
+      "id": "659e9cccbb3e5270e87de97301e7fc831653ac3748aa0d8e284320d2c8b80e44",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "\"Double Festival\" approaching: Aluminum billet supply disruptions intensify in phases; processing fees return to a tug-of-war after a V-shaped recovery [SMM analysis]",
+      "reasonForCodexReview": "Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-24T12:29:00.000Z"
+    },
+    {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -3615,6 +3615,16 @@
       "codexStatus": "PENDING",
       "source": "Newsquawk",
       "publishedAt": "2026-09-24T12:06:20.000Z"
+    },
+    {
+      "id": "d9ec00bb4fef068856693bf9c26f8bae724b6f2bd808bdcd1a12f622b761fab5",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Aluminium’s Frontline: OEM Edition 2026 launched! Inside the technologies powering aluminium from mine to recycling",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "AL Circle",
+      "publishedAt": "2026-09-24T18:22:30.000Z"
     },
     {
       "id": "eed75731f79879ff7b15b4b9727e94fb9efdd1ceea579dd6f1155f3838a719da",
@@ -4497,26 +4507,6 @@
       "publishedAt": "2026-08-26T05:03:00.000Z"
     },
     {
-      "id": "b7d6d2416be2f6ed77c1863fe101329585029138a20d25f272ff780418e5f97e",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Arizona Copper Mine Approval Draws Lawsuit Over Federal Review",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Bloomberg Law News",
-      "publishedAt": "2026-08-25T19:33:00.000Z"
-    },
-    {
-      "id": "830e015807102afb2c41d1dc712645de2202a0d29950685f059b14811a106e97",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Ivanhoe Secures US$1.1B for Santa Cruz Copper Mine",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing News Network",
-      "publishedAt": "2026-08-25T18:25:00.000Z"
-    },
-    {
       "id": "29e67d4fd584011908de6ae282e7717bdf26352429caaf728a75ca4f7f8f1dec",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -5005,6 +4995,16 @@
       "codexStatus": "PENDING",
       "source": "Proactive financial news",
       "publishedAt": "2026-09-24T14:55:37.000Z"
+    },
+    {
+      "id": "239b0db15ba1d941c4c842b645d59b0dc50306f067b76953ef923f04e2e787fe",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "LON:TIN (TIN) Earnings Date and Reports 2026 $TIN",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "MarketBeat",
+      "publishedAt": "2026-09-24T16:02:06.000Z"
     }
   ]
 }
