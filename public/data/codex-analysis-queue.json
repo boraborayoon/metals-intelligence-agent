@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T00:54:11.426Z",
+  "generatedAt": "2026-09-24T06:11:51.172Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -135,6 +135,16 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-09-12T06:10:16.000Z"
+    },
+    {
+      "id": "260c4eb6a8aeff69848ed09eb209fbc769d33e0d207d37c982ff0d700b5e1978",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Escondida strike risk heats up, ore supply disruptions intensify [SMM Copper Morning Meeting Summary]",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-24T01:06:00.000Z"
     },
     {
       "id": "5bc80f59e417ace7d109d270e4387e1c6008552b8441cd6c77e8f1cd4e8006a0",
@@ -4197,6 +4207,36 @@
       "publishedAt": "2026-09-23T11:01:14.000Z"
     },
     {
+      "id": "1f30dd484066ac6ec7e39136067009fea0081582a5241b7dc8e32204e958fdc7",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "China aluminium extrusion output slumps as property weakness deepens, export boost fades",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "alcircle.com",
+      "publishedAt": "2026-09-24T05:37:30.000Z"
+    },
+    {
+      "id": "97428806be3ee180b6d909ff1724a50bbd4e7aab3f3d6258403e2463447cf1a3",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Inventory hits a new low for the year, spot premiums remain elevated, but spot trades have weakened compared with yesterday [SMM South China spot copper]",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-24T03:38:00.000Z"
+    },
+    {
+      "id": "99571638e78d5ca60b3c9d71178afc8a32d825b1f2bdc9c6c4c84af0c21133a1",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "[SMM Analysis] Myanmar Ore Shipment Recovery Lifts August Raw Material Supply; Tin Metal Stays in Net-Import Territory",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-24T02:16:00.000Z"
+    },
+    {
       "id": "19d573023277da28a10d7b067af28d2d957a346cd21905eec743e757e3960034",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4965,46 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "FXEmpire",
       "publishedAt": "2026-08-31T09:05:00.000Z"
-    },
-    {
-      "id": "25a3c2d03a673e68c30ab9132e8f9fb5a4b1d553de277334a8f78fdeb2e71700",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper price remains bullish– Forecast today – 31-8-2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Economies.com",
-      "publishedAt": "2026-08-31T05:10:00.000Z"
-    },
-    {
-      "id": "ca9d436be4bf70cd2c86bd355c34e479dff0965379488a7bef53fb09588247d0",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Inner Mongolia Xingye Silver & Tin Mining Co., Ltd Proposes Interim Cash Dividend for 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "marketscreener.com",
-      "publishedAt": "2026-08-31T20:36:47.000Z"
-    },
-    {
-      "id": "b8fde80c934a91e98e2d4184798d102f9b6f4fdabf0c3e8c50fe53363c23bbee",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Mine to Market: ALuminium Producers & Manufacturers 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-08-31T20:05:39.000Z"
-    },
-    {
-      "id": "ae5326d8f6d79c2d685f503c4fa8f8ceec831952a9fbb2c4a389efd809568f85",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper price eases nears record",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Northern Miner",
-      "publishedAt": "2026-08-31T13:47:52.000Z"
     }
   ]
 }

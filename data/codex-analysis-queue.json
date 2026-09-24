@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T00:54:11.426Z",
+  "generatedAt": "2026-09-24T06:11:51.172Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -566,6 +566,51 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-12T11:16:35.525Z",
       "updatedAt": "2026-09-12T11:16:35.525Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "260c4eb6a8aeff69848ed09eb209fbc769d33e0d207d37c982ff0d700b5e1978",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Escondida strike risk heats up, ore supply disruptions intensify [SMM Copper Morning Meeting Summary]",
+      "summary": "Escondida strike risk heats up, ore supply disruptions intensify [SMM Copper Morning Meeting Summary] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYkM4RjJCX1NlQ3pYZ2hCeEt4SHYyOHdaaXNyVXBLeFZmQVdvUlk5YWtrUXEtcEZHLTVrY1pNU2txaWdDZlZDZTdfTzFMMm9zSUh6Z1RuOHpNN3NPZFpSSUVaRkw1Rmh6azVFYlN3c1ZZc0VqNnRIY0dtc3J2MHZMQW10T3NtckRERmduaGoxODdPSGE5dGN2ejdPcFhNTjI3Q055b0d1dG5VSmV4d3dZNzRzWlBMcGFnMm1GUi1UcHF6ZG9sY3NBSGVWR1VENjBYMGY3c0VtUUs2dkE?oc=5",
+      "publishedAt": "2026-09-24T01:06:00.000Z",
+      "priority": 57,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "SUPPLY",
+          "DISRUPTION",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Escondida strike risk heats up, ore supply disruptions intensify [SMM Copper Morning Meeting Summary] Shanghai Metals Market",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "supply disruption",
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-24T06:11:51.172Z",
+      "updatedAt": "2026-09-24T06:11:51.172Z",
       "analyzedAt": null
     },
     {
@@ -15882,6 +15927,128 @@
       "analyzedAt": null
     },
     {
+      "id": "1f30dd484066ac6ec7e39136067009fea0081582a5241b7dc8e32204e958fdc7",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "China aluminium extrusion output slumps as property weakness deepens, export boost fades",
+      "summary": "China aluminium extrusion output slumps as property weakness deepens, export boost fades alcircle.com",
+      "source": "alcircle.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGljSFNSUGZBODJCT0FBOVRFSzRhM2N1N0tHeVhPTFJlNkpJbmRsRGFJekY0bExobUd3N29LZ0xnY193VWVBOE9RSmF1VHdtN0xieEdxX1hnc2JPMDdPRXhqLTVMcnk3X2lyeFozUnJmS3ltMjNmLXBOOW1GOTJ0VVFqRFVtTmtOWkpqLWt3RU54NkpSbkp3Z1R3V3pFTDd5MjMzSW01Nmx0SEM5ZHZTdElCOGY0bUZXLXk1dUVNLTBVQQ?oc=5",
+      "publishedAt": "2026-09-24T05:37:30.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION",
+          "LOGISTICS",
+          "EXPORT",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "China aluminium extrusion output slumps as property weakness deepens, export boost fades alcircle.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-24T06:11:51.172Z",
+      "updatedAt": "2026-09-24T06:11:51.172Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "97428806be3ee180b6d909ff1724a50bbd4e7aab3f3d6258403e2463447cf1a3",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Inventory hits a new low for the year, spot premiums remain elevated, but spot trades have weakened compared with yesterday [SMM South China spot copper]",
+      "summary": "Inventory hits a new low for the year, spot premiums remain elevated, but spot trades have weakened compared with yesterday [SMM South China spot copper] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPMnVrOVhUTEFuZkNZSDdnSmhJdUhQNEoxZVdvaFlxY2FsZnhQQlNRa3BkelZOeXlsZ2Qxd2ZMdkY1TW00dmxMcDFQNVNtTTduN3JId2psTGhSdjJELWpNRC0tYkpBQVltV0VlTnV0dnhHTFJzdGJ4cXZ0eHNoczNRbm9Bb3NIQXYwX0xOcHptaFBDNzJhQ2xHbmU3eHc5emJDT2RTa2kzLWhSZEl0VHpkUVVJUWVhTGVhN2NsODBvOFp5Qm10ak5LZkVHNGJRVENURHA5VlgzVzgtc3RCMnBaOUZoYW1oSFY1VGNoZnkyd0FYR2NwOEMzWEVZOGV0ckpGRVQ5eFRjcW9nWkgzc2tBRlBJWUNuR3hYdGlsRjczRQ?oc=5",
+      "publishedAt": "2026-09-24T03:38:00.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "PRICE",
+          "INVENTORY",
+          "TRADE",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Inventory hits a new low for the year, spot premiums remain elevated, but spot trades have weakened compared with yesterday [SMM South China spot copper] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-24T06:11:51.172Z",
+      "updatedAt": "2026-09-24T06:11:51.172Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "99571638e78d5ca60b3c9d71178afc8a32d825b1f2bdc9c6c4c84af0c21133a1",
+      "commodity": "TIN",
+      "subCommodity": null,
+      "title": "[SMM Analysis] Myanmar Ore Shipment Recovery Lifts August Raw Material Supply; Tin Metal Stays in Net-Import Territory",
+      "summary": "[SMM Analysis] Myanmar Ore Shipment Recovery Lifts August Raw Material Supply; Tin Metal Stays in Net-Import Territory Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSWd4UGxLb0o2bEU1Q2NFR3ZkSHFtMXQtMWlrUW9CN0RZLU4zMDJYZ1ViRW0yTVVJVUhXN0dCVlZMZmZBY00yYmN4ekVBcnVHb0ZWd2ZBX2RrNG1Pbk43elRRSzlqMlpEOGJ4emxjZE0zVGoyOEpxR0xJQVhhckx2X3l5TDJXcEJwN0pVVFlDMlBLWkp2SUtGSzF0cEk3V3l6Z0RkU29QbE9nY2pIQ1J4NUU4MWtaUWdxWFZrM1QyaFlyeHdmUEtTQmxHeTM5bXdtWnVBcUtNczNmVGJVcXFyYzlGSkhLNnROTjYxczFJVXN6Zw?oc=5",
+      "publishedAt": "2026-09-24T02:16:00.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY",
+          "LOGISTICS",
+          "IMPORT"
+        ],
+        "region": "Myanmar",
+        "regions": [
+          "Myanmar"
+        ],
+        "summary": "[SMM Analysis] Myanmar Ore Shipment Recovery Lifts August Raw Material Supply; Tin Metal Stays in Net-Import Territory Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-24T06:11:51.172Z",
+      "updatedAt": "2026-09-24T06:11:51.172Z",
+      "analyzedAt": null
+    },
+    {
       "id": "19d573023277da28a10d7b067af28d2d957a346cd21905eec743e757e3960034",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -18697,152 +18864,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-31T15:07:14.091Z",
       "updatedAt": "2026-08-31T20:51:06.458Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "25a3c2d03a673e68c30ab9132e8f9fb5a4b1d553de277334a8f78fdeb2e71700",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper price remains bullish– Forecast today – 31-8-2026",
-      "summary": "Copper price remains bullish– Forecast today – 31-8-2026 Economies.com",
-      "source": "Economies.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa3YwOFZJenpwU1BmT1k3akRwbVNCNS1vUjM5dWdyMkFkdXZ0aHkxUVFuRTRHQnBxX2R4anZZTzNON291MFVCcGpiSFBlcmdzY0I0c2NDMkVRN1hfeExUb2REdDFRa1puX0dxOGQtOTJHTi1yRlZDOEN6X2ROdUtsa1RjWERKTGhSdGZnZjh4S2xmNW0xWWVNWGpwY3FBSUhSZE1ieW81UTRKRTB6b3pLb0lJbHFQUE44V2FFRjFkWU9DOXpTellzSWV1ZExWdw?oc=5",
-      "publishedAt": "2026-08-31T05:10:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper price remains bullish– Forecast today – 31-8-2026 Economies.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-31T15:07:14.091Z",
-      "updatedAt": "2026-08-31T15:07:14.091Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ca9d436be4bf70cd2c86bd355c34e479dff0965379488a7bef53fb09588247d0",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "Inner Mongolia Xingye Silver & Tin Mining Co., Ltd Proposes Interim Cash Dividend for 2026",
-      "summary": "Inner Mongolia Xingye Silver & Tin Mining Co., Ltd Proposes Interim Cash Dividend for 2026 marketscreener.com",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVng4UmNPc29iWjFEVW1fZnhLTW9iaDBad1JJTU1vUmJucUhDWWpTTVhGMlpsNEd5R2Y4XzZNSEg4QXpOTkpNVG11YUc0VlN3Ui1BR1QyRDhuTjg4Y1NUOVRtV0lHbXlmdXEtb3JJcXJjRG81WU5xZU5hLVVJZVNuLTh3NHFySUE4aWFoeGFBYkdzTkZfZ2V2bTVWT204YWlxTmI5c1NuaUtsdkhpTGlrWXBhUmJWU3dNLVVJbVZCWTEzZ3FuU3EtZFFIYzYyRjRFTVV5VFln?oc=5",
-      "publishedAt": "2026-08-31T20:36:47.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Inner Mongolia Xingye Silver & Tin Mining Co., Ltd Proposes Interim Cash Dividend for 2026 marketscreener.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-31T20:51:06.458Z",
-      "updatedAt": "2026-08-31T20:51:06.458Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "b8fde80c934a91e98e2d4184798d102f9b6f4fdabf0c3e8c50fe53363c23bbee",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Mine to Market: ALuminium Producers & Manufacturers 2026",
-      "summary": "Mine to Market: ALuminium Producers & Manufacturers 2026 AL Circle",
-      "source": "AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWo4cTlsc1hqZl82dGdKMGllR1RsS01UYkVFUFhnbFd3LWNwVXg5OVNZWFRsMWJIWVQxUWh4RGc3RkJtZ183bTZFYjFyUnFDOHpfQl8wUkxRZVdMMGxpeUZyTHdfeGNpazkzRGdZOTFabExvQzN1Q0I1YUNoRFRnbzVoRm5ZcjNCRFNXa2VILWFISTZxOFVpRzJGUThsUWM?oc=5",
-      "publishedAt": "2026-08-31T20:05:39.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Mine to Market: ALuminium Producers & Manufacturers 2026 AL Circle",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-31T20:51:06.458Z",
-      "updatedAt": "2026-08-31T20:51:06.458Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ae5326d8f6d79c2d685f503c4fa8f8ceec831952a9fbb2c4a389efd809568f85",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper price eases nears record",
-      "summary": "Copper price eases nears record The Northern Miner",
-      "source": "The Northern Miner",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12S3JybHNZMGRyYW9ER0tWWUk1bVBPd0V3WE5aR082R2xSaE1JeWtZZTFpUGFYUTRLNGt0c3BMdk8yeWhndVUyNm5zZXpQZ09zWlpwclpVbzUzdGMxZFBqaWJmVWhqdnVRaXpWOXhBSWV5SFhzQTBZUnhtemU?oc=5",
-      "publishedAt": "2026-08-31T13:47:52.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "PRICE",
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper price eases nears record The Northern Miner",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-31T20:51:06.458Z",
-      "updatedAt": "2026-09-01T05:42:08.110Z",
       "analyzedAt": null
     }
   ]
