@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:31:31.028Z",
+  "generatedAt": "2026-09-24T23:29:56.351Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -905,26 +905,6 @@
       "codexStatus": "PENDING",
       "source": "Yahoo Finance UK",
       "publishedAt": "2026-08-26T09:26:20.000Z"
-    },
-    {
-      "id": "4a15b4ab0f4826a7b19152dada077bacea4c4368bef462ee43ecd8a727098b92",
-      "commodity": "ALUMINUM",
-      "importance": "HIGH",
-      "title": "캐나다, 美에 200억달러 ‘관세 맞불’…철강·알루미늄 관세 50%로",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "v.daum.net",
-      "publishedAt": "2026-08-25T21:22:04.000Z"
-    },
-    {
-      "id": "945ad67d89a3fe6a03b23046757650acfb5a8b98f835170aaa6a5dc26cb851db",
-      "commodity": "ALUMINUM",
-      "importance": "HIGH",
-      "title": "캐나다, 美에 200억달러 ‘관세 맞불’…철강·알루미늄 관세 50%로",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "이투데이",
-      "publishedAt": "2026-08-25T21:21:00.000Z"
     },
     {
       "id": "160f6ee8fc342e13a212866566c842f65d7470ad4ae4c0a820e3a4b3636d78ea",
@@ -4307,6 +4287,16 @@
       "publishedAt": "2026-09-24T02:16:00.000Z"
     },
     {
+      "id": "53d3034caa4be0746a0e7568ef54aa5cc73a7193239e83b6affdc590cad5b5f4",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Desalinated water and jobs: Tía María's US$ 1.8bn bet to begin copper production in Peru by 2027-28",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "BNamericas",
+      "publishedAt": "2026-09-24T20:30:05.000Z"
+    },
+    {
       "id": "19d573023277da28a10d7b067af28d2d957a346cd21905eec743e757e3960034",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4997,14 +4987,24 @@
       "publishedAt": "2026-09-24T14:55:37.000Z"
     },
     {
-      "id": "239b0db15ba1d941c4c842b645d59b0dc50306f067b76953ef923f04e2e787fe",
-      "commodity": "TIN",
+      "id": "c6c163d6574a8bcccc8ed0b7f7896f2cd9dbe71ca4268b2997cf5eceac3446aa",
+      "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "LON:TIN (TIN) Earnings Date and Reports 2026 $TIN",
+      "title": "White Cliff sees signs of a copper district",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "MarketBeat",
-      "publishedAt": "2026-09-24T16:02:06.000Z"
+      "source": "North of 60 Mining News",
+      "publishedAt": "2026-09-24T22:08:43.000Z"
+    },
+    {
+      "id": "6dae7a8e69b33ec287bb066c76ad4f8b464f7fe9e99d59d3f5f256c5bef78f93",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Codelco cooperates with Chilean prosecutors as watchdog probes alleged copper irregularities",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "BNamericas",
+      "publishedAt": "2026-09-24T21:30:14.000Z"
     }
   ]
 }
