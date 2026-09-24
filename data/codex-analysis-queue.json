@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T22:18:31.018Z",
+  "generatedAt": "2026-09-24T00:54:11.426Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -2876,6 +2876,48 @@
       "analyzedAt": null
     },
     {
+      "id": "6af9870a7ed445876c99aa528429aebe9d328a56831b9ebdeb2d523029413eeb",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "상하이 재고 급감에 구리 가격 급등...1t 1만 4790달러 돌파",
+      "summary": "상하이 재고 급감에 구리 가격 급등...1t 1만 4790달러 돌파 thecommoditiesnews.com",
+      "source": "thecommoditiesnews.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yUnlyMWpvTVZlOU5OcTFjUWhiR2JEb1NRd0tKdTdXM1VKb3Y3Yk40bW15V2NJSzF5Z0RReTluSlhBeUY4cXN6SVVTZ1FHcUdEVWd4X3FfcFRqb1o5d292XzJoN3RVWEdLVzVqaTdQVEFDR2xKaGlN?oc=5",
+      "publishedAt": "2026-09-24T00:01:19.000Z",
+      "priority": 49,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Inventory",
+        "categories": [
+          "PRICE",
+          "INVENTORY",
+          "FX"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "상하이 재고 급감에 구리 가격 급등...1t 1만 4790달러 돌파 thecommoditiesnews.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "재고 급감"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Inventory Down"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-24T00:54:11.426Z",
+      "updatedAt": "2026-09-24T00:54:11.426Z",
+      "analyzedAt": null
+    },
+    {
       "id": "d5d6c56043855a34c1c9a2a084b6da7b1d445fa957a82eab9fef1d83743ae578",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -4666,6 +4708,44 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-22T09:59:34.613Z",
       "updatedAt": "2026-09-22T09:59:34.613Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "d75d0dfd52b9614e94dfde25506e2b6f3945194966dbe57293fc873721897a2f",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "BHP’s Escondida copper mine in Chile’s Atacama Desert announced on Sep",
+      "summary": "BHP’s Escondida copper mine in Chile’s Atacama Desert announced on Sep Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkVQVjZuY2RHUy0wSXBVVzlDbGtCYjRxZVZXMnhUQThzay1xb1c3ZVVZYmZYQVgtRU9ySkRWVWNCRHZKSUNFM29vM2p6RGJNWGRFUm1FbzJoTE11djVWeWF3MGVCclM2dVNzSnNrZThzbk84dnlFZnpzWC1KTURCdzFpLW5fQlhic180cXdjYWZRQV9MWGRtV0UxcG5sSjFmeEkzcVlfS2FPNk03U0Y5T0d5NDJFUUktVEF5YkI2QmswMEJYTTN6cDNCVGxEdzVWQVMxcjBCdTE0NmVhTXNv?oc=5",
+      "publishedAt": "2026-09-23T22:19:00.000Z",
+      "priority": 41,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "BHP’s Escondida copper mine in Chile’s Atacama Desert announced on Sep Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-24T00:54:11.426Z",
+      "updatedAt": "2026-09-24T00:54:11.426Z",
       "analyzedAt": null
     },
     {
@@ -18763,80 +18843,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-31T20:51:06.458Z",
       "updatedAt": "2026-09-01T05:42:08.110Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "4d30652e8f4a4da5e86ce58a2adbb9ca92d8b06db1b9aef86b7f523f24507cf9",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "US Aluminum (AA) Receives $174 Million for Gallium Production Fa",
-      "summary": "US Aluminum (AA) Receives $174 Million for Gallium Production Fa GuruFocus",
-      "source": "GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMi1nb1R3WXU4cTgwS0pTMjNWOEVXbjBGdkdFZWpUSGtpTXp2eDF0RVgzRjk2d1NQWlpfX3lNZGQxbTFtcUpwVjhhcmtkZ3RPRHpfVFRLUTl3Vmx3eXBSemFGS1RramhpSG9od2VWVFJaREoxcUFQTUJOMlBZcVQ1dkw5a0R0enBTMXk1aEhNRHZHY0FLU1hrTHR1Q3ZNeUZJZDhNMnJxNEs0dw?oc=5",
-      "publishedAt": "2026-09-01T00:06:47.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "US Aluminum (AA) Receives $174 Million for Gallium Production Fa GuruFocus",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-01T00:38:07.958Z",
-      "updatedAt": "2026-09-01T00:38:07.958Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "38baa16135d2cb4487b9ba58f7442e2e81532a6fbe4e431eaf618c111205a513",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "US-Canada Trade War Escalates: Steel and Aluminum Tariffs Disrupt North American Supply Chains",
-      "summary": "US-Canada Trade War Escalates: Steel and Aluminum Tariffs Disrupt North American Supply Chains IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOblEyMkFHRmRhY3dFdlp5bEhjcXdWYjlmVTZDYVRqYnlYeHlfcWUtN1hkVmMzV1hKbFowZEVrSXV1Q19tdWxxRlhfOHllOHB0MTM0Y3NhWEF4SzFWR2JhbGNSMlZtXzd0bzhEMXhacFVnalNDOGgwVDNnRkg0OFZXeFQ0QWhEZkVvbjJ1Z0U1WWNvaEFhUVJ3V0pTcjlLZ19HcVZmRzN5NWRDek9oX01scUJjVkZrWGYya19MZWtYcEo?oc=5",
-      "publishedAt": "2026-08-31T22:20:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "SUPPLY",
-          "TRADE",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "US-Canada Trade War Escalates: Steel and Aluminum Tariffs Disrupt North American Supply Chains IndexBox",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-01T00:38:07.958Z",
-      "updatedAt": "2026-09-01T00:38:07.958Z",
       "analyzedAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T22:18:31.018Z",
+  "generatedAt": "2026-09-24T00:54:11.426Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -747,6 +747,16 @@
       "publishedAt": "2026-09-21T12:39:33.000Z"
     },
     {
+      "id": "6af9870a7ed445876c99aa528429aebe9d328a56831b9ebdeb2d523029413eeb",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "상하이 재고 급감에 구리 가격 급등...1t 1만 4790달러 돌파",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "thecommoditiesnews.com",
+      "publishedAt": "2026-09-24T00:01:19.000Z"
+    },
+    {
       "id": "d5d6c56043855a34c1c9a2a084b6da7b1d445fa957a82eab9fef1d83743ae578",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -1195,6 +1205,16 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-09-22T06:45:00.000Z"
+    },
+    {
+      "id": "d75d0dfd52b9614e94dfde25506e2b6f3945194966dbe57293fc873721897a2f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP’s Escondida copper mine in Chile’s Atacama Desert announced on Sep",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-23T22:19:00.000Z"
     },
     {
       "id": "b674f630a077477dbfb367781741c34eb37ac59d175178e234185f823644b231",
@@ -4985,26 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "The Northern Miner",
       "publishedAt": "2026-08-31T13:47:52.000Z"
-    },
-    {
-      "id": "4d30652e8f4a4da5e86ce58a2adbb9ca92d8b06db1b9aef86b7f523f24507cf9",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "US Aluminum (AA) Receives $174 Million for Gallium Production Fa",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "GuruFocus",
-      "publishedAt": "2026-09-01T00:06:47.000Z"
-    },
-    {
-      "id": "38baa16135d2cb4487b9ba58f7442e2e81532a6fbe4e431eaf618c111205a513",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "US-Canada Trade War Escalates: Steel and Aluminum Tariffs Disrupt North American Supply Chains",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-08-31T22:20:00.000Z"
     }
   ]
 }
