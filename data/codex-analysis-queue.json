@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T23:29:56.351Z",
+  "generatedAt": "2026-09-25T01:55:43.263Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -1513,46 +1513,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-15T11:46:13.795Z",
       "updatedAt": "2026-09-15T11:46:13.795Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "6249ec3aabdae574e1b922a2959f7f2447e138ee0e6e07fdcdf0de2b8510a129",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper price sets fresh record: supply, tariffs and project risks for mine planners",
-      "summary": "Copper price sets fresh record: supply, tariffs and project risks for mine planners Geomechanics.io",
-      "source": "Geomechanics.io",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMzd5eklVNV9Sb1ZlR215c3I1ZzdHN2hFX001bDQ3VnpaNmpweUVCSjJFZng5Nm5oTlVvVEZVcnlvSGtjTnQzb05DLWpmQlJhSDQ4YmtuSjlQTGlid2o0ZWlQQ3h3NDVnRFJmeHh1MTBJdTJabF9VQk1XSm9jd0tmVUljeEdOazZseXloSG16X3R6VmFkOU9kTmRuOHFkdklSUWFySGFZUVVpZFBsZGhMNEN1MkVtV09tUmVvbDhOQQ?oc=5",
-      "publishedAt": "2026-08-26T00:01:52.000Z",
-      "priority": 49,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "MINE",
-          "TARIFF",
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper price sets fresh record: supply, tariffs and project risks for mine planners Geomechanics.io",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-26T08:40:19.635Z",
-      "updatedAt": "2026-08-26T10:40:19.626Z",
       "analyzedAt": null
     },
     {
@@ -18877,6 +18837,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-24T23:29:56.351Z",
       "updatedAt": "2026-09-24T23:29:56.351Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "32a163413a0ec25a7114b869ea94adb672d84526cf28f687f4fde3345468ecf8",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Low-carbon aluminium vs copper: Who is really paying the green premium?",
+      "summary": "Low-carbon aluminium vs copper: Who is really paying the green premium? AL Circle",
+      "source": "AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3hERkpDVnk3VW50cGVzTzNLakdoVV9rNmNfWV9XNE5kUWszbjdlQWlidVdoSVhlSkkzVTNLSVBXamp2Um90VFpXQ3U1NWJOeFlwNS1VUktnLXFoZ2NyLVhuaEw3UlJkVWlFRlA1WVcyN1JibEFBYXB0Q1QwUExNdHNpRzFVWTBPcWFYZkdGZWdCMi15aHBqN1VXem9QQmprT0dVTG4wOUhxUQ?oc=5",
+      "publishedAt": "2026-09-24T20:05:45.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Low-carbon aluminium vs copper: Who is really paying the green premium? AL Circle",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-25T01:55:43.263Z",
+      "updatedAt": "2026-09-25T01:55:43.263Z",
       "analyzedAt": null
     }
   ]

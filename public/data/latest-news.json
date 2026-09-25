@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T23:29:56.351Z",
+  "generatedAt": "2026-09-25T01:55:43.263Z",
   "items": [
     {
       "id": "c6c163d6574a8bcccc8ed0b7f7896f2cd9dbe71ca4268b2997cf5eceac3446aa",
@@ -334,7 +334,7 @@
       "source": "Stock Titan",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-24T21:07:18.000Z",
-      "fetchedAt": "2026-09-24T23:29:56.351Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWRCTDZZeWoxa01pZU1ZZTJ4Um5nS09ibUxOWkdlUFN5UVJ6MVVKTkpHQVlhV0FlSFFOaHVjdkRqQV8zVXhBVEhPT29lTGx4M0cyQ3JJampNaHVFTkJlRnprRldzOGtlOHZhUG1CTUNYbDg5Si1MMi0zUXctRE5Nek5aNC1ieE1FdVFpeDBHZ2VQbWJ0WXFfalg5VldZZG9kaDFkQUdZQi1RRnlRUExZ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -663,7 +663,7 @@
       "source": "AL Circle",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-24T20:05:45.000Z",
-      "fetchedAt": "2026-09-24T23:29:56.351Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3hERkpDVnk3VW50cGVzTzNLakdoVV9rNmNfWV9XNE5kUWszbjdlQWlidVdoSVhlSkkzVTNLSVBXamp2Um90VFpXQ3U1NWJOeFlwNS1VUktnLXFoZ2NyLVhuaEw3UlJkVWlFRlA1WVcyN1JibEFBYXB0Q1QwUExNdHNpRzFVWTBPcWFYZkdGZWdCMi15aHBqN1VXem9QQmprT0dVTG4wOUhxUQ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -768,10 +768,10 @@
         "urgent": false
       },
       "priority": 34,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-25T01:55:43.263Z"
     },
     {
       "id": "4d0396c70e29a2fb419369f5890f2ea72dc4db13db28c355b1d806b6a20ac94e",
@@ -783,7 +783,7 @@
       "source": "AL Circle",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-24T19:25:48.000Z",
-      "fetchedAt": "2026-09-24T23:29:56.351Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQREtNMVlNUHhqUWs5b1RqV2kxLXRMckVSa2w5MFdFV0w4bEUtSHdwNHpLblFXVWRZcUNxdTNGUTIyOEpwam9NQkpUbHlVV1RHNWZ0c1NidTFhSnlkYi1LSXh6VnlUbnpGVVhuWWZ0bWw1Rmx2ejlqNXJCS0hzSklZdGxOYXJsQjlPSlBvU19adVMzMFhxVy1SU3p5eFFqNHFneUM4YXFPdFNJOGUzMzVYbDFYa0dXQjlscXJaTWh1LXg?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -877,11 +877,11 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 34,
+      "priority": 30,
       "codexStatus": null,
       "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-09-25T01:55:43.263Z"
     },
     {
       "id": "d9ec00bb4fef068856693bf9c26f8bae724b6f2bd808bdcd1a12f622b761fab5",
@@ -1645,6 +1645,125 @@
       "sentAt": null
     },
     {
+      "id": "38fcc8a03367330af39f9d99d2bf111a08e13375626bbfddbc338aad1e090c94",
+      "titleSourceHash": "d70cd5f02a82cb2e83252acbf8631c03a49c330b4616ceab6e814968ada35651",
+      "eventId": "9de54dca324bef714db908a4d6c42c7a50040da0e601edc942996d7522307c36",
+      "title": "High copper prices support miners in Chile, but investments dent gains",
+      "normalizedTitle": "high copper prices support miners in chile but investments dent gains",
+      "description": "High copper prices support miners in Chile, but investments dent gains TradingView",
+      "source": "TradingView",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-24T15:33:37.000Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMXhXakVRbXJYY3I5NTN0MWxGQncxVEdlbW5ERloxSTBNWmtmdGo3bGFYT0ZNUDRBTWUtRmdnOE9yaURxNC1xVW5fUG9EOW9lc1pJUmd0LVlyS2UxZEVSQ0dsOVhET1Qzc3RNa3lVYS01eEU5T3Jpc2h0MVB0SmNqWTJoTzRabUxpNllpNGtwX3VPX20tcnZSNEN5Qnh1c1Q0U3F2dWdrWl8zRU51VU1FVi00bTVnNk5KREwyaTc1S280N3phZkh5LVBRVzhYTWNMOWRnYzV3?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "Chile"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 8,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "Chile"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "PRICE",
+        "MINE",
+        "LOGISTICS"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "High copper prices support miners in Chile, but investments dent gains",
+      "summaryKo": "High copper prices support miners in Chile, but investments dent gains TradingView",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "Chile"
+      ],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "PRICE",
+          "MINE",
+          "LOGISTICS"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "High copper prices support miners in Chile, but investments dent gains TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "PRICE",
+          "MINE",
+          "LOGISTICS"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "High copper prices support miners in Chile, but investments dent gains TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 14,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
       "id": "3ada84958e6b5bf57fabccc279fecf9e69f37646fe3c00c74565672e3e6cbf22",
       "titleSourceHash": "3b01e485807a60fedfa5feabb88ace0f7ef2bf19fc5161b7f07af208804c1c4f",
       "eventId": "8b8093da7fc2d62f2d1b767c5d140f9db34cbb05e7435d0045339924f7fc5c3f",
@@ -1654,7 +1773,7 @@
       "source": "stonex.com",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-24T15:30:00.000Z",
-      "fetchedAt": "2026-09-24T23:29:56.351Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVW5nX0J5MVRFdlZxQ0ZTMzZEamFLX21KQmctQWprcWZuS0l2ZUZQamlFb2F3UWR5RHhlQTZKV2JTcS03QXhSRzNhNElfRjM5RXdNNFZwVExQWGJXR0tlbG5Sa1NrOEI3dGlQOE9ZT0hYN19DNzBVaEdnS2RiOXF2Yk9ITXV0MUNNWXpNYURBcWFmTjYyRkdONjZtNlg3MUU2NXp4eg?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -1748,8 +1867,8 @@
       "priority": 30,
       "codexStatus": null,
       "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-09-25T01:55:43.263Z"
     },
     {
       "id": "d2a4f6bc106d8c3a3af7096571037cff6eea6eb1f8bd91178a80ac2a6fe5b9fa",
@@ -1761,7 +1880,7 @@
       "source": "IndexBox",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-09-24T15:11:04.000Z",
-      "fetchedAt": "2026-09-24T23:29:56.351Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNm1xblF1T0h1RE1pYThldGRhWVBSODNZejZ5RG00WnpOMHdwbVQ3OU52X0NoSGp1YUdvWmpTdnhELUpfeU13YTI3UnVHb090RWJac3BERUtQOEV1b2s0SjMxNFE2MFJfbWpoNWp6X2pDV2lDeW9NNWt3aTIzNlA2NmxtcTRxVmY3VmpjcHNLbDVZZmkydTNpM2VuZHNYNElWMXI3SXlpV2F6T1J4T3RGel95eHhsSHNkOUIxeWctc0lUQ1RrUFJmeGtNNkdHT0N1?oc=5",
       "language": "ko",
       "commodity": "ALUMINUM",
@@ -1858,8 +1977,8 @@
       "priority": 30,
       "codexStatus": null,
       "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-09-25T01:55:43.263Z"
     },
     {
       "id": "4390c576e2ea1e82a861fd5b03ea5877af9b7f67c410039e1e6116c53a9e75af",
@@ -2198,7 +2317,7 @@
       "source": "BNamericas",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-24T13:22:32.000Z",
-      "fetchedAt": "2026-09-24T23:29:56.351Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVXJmOVlXUV81Y29jOG5CZmUzRHhDUWV3NEtBSmxuWTdUbFdnbmxTdTFTWjFWSk8tUGNPc1NsOEgtdE9BMTRqS09TLW1WZUUyM3JNMXctSlpTdTRHeVlwRC15aW1zTlMwcXlJbThJMFJ1RXpZVU1GYW9lbDZhem9FcDRwa1JROTlLZkpTSGZfZXpGbDFHUDVsWkxZZ2VVNVZ4N0FCaHVGY3JiUmc?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -2292,8 +2411,8 @@
       "priority": 30,
       "codexStatus": null,
       "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-09-25T01:55:43.263Z"
     },
     {
       "id": "65dc0044d70fba0bc38af5bf92d32ea3058a9972866c12ebf1b7f8f02d924e63",
@@ -2305,7 +2424,7 @@
       "source": "TradingView",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-24T13:00:00.000Z",
-      "fetchedAt": "2026-09-24T17:13:34.061Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWWg4SHNreTVmN3YyYzJRSTZlcWlZbndweXV0Tmk3N1VSVTdSZ2RKWDJ4c2N0M0pURk9IUktTVk9DR2N0N2RHa2pSNlZRS3E2b2djd2Q2RE9DV3Zfa3Zfbm1ocjdxOU5wdGZpQlVES05GbjZZTnNKRVE1NkMtbjh2ODBoN3ZCM3h4dlpRTmNVSEc1cFdRbGluQWREeC14bG5uSFpkcGJ0eE1SMkpxd0h3d1NTNE1LbVBvVXNHbTdTSWNCU3lBNTZUdjc1TjY5bGVTZlloZ2d4a1FmaWpma3NFdlVFcW1yOW04WXZJcWNua2JiS2lRYkllcDlncWpfMGh5Y2NiTg?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -2392,7 +2511,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 16,
+      "priority": 12,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -2400,15 +2519,15 @@
     },
     {
       "id": "a93814efe7e3636d351e531613b69b915800216e72ecf350f22d6b35a0b33b96",
-      "titleSourceHash": "2856b8cc5f5b89ac899ec6ec61d9eec02a4f844f53fcb9dd3126e5f5a5697b36",
+      "titleSourceHash": "31d54603ab34b0d660d62b82b6b156ead1996e5c590fc99c3680adda4df34146",
       "eventId": "0bb421532df0901b3ddbbf8c024d3f1ed55e6615b2a3691c8beaa032d406df63",
       "title": "FCX vs. SCCO: Which Copper Mining Giant Should You Bet on?",
       "normalizedTitle": "fcx vs scco which copper mining giant should you bet on",
-      "description": "FCX vs. SCCO: Which Copper Mining Giant Should You Bet on? theglobeandmail.com",
-      "source": "theglobeandmail.com",
+      "description": "FCX vs. SCCO: Which Copper Mining Giant Should You Bet on? The Globe and Mail",
+      "source": "The Globe and Mail",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-24T12:39:13.000Z",
-      "fetchedAt": "2026-09-24T23:29:56.351Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0N2WWVCZW9DYzJvZzlCSHFnTWlITy1MZk03SzRUQ05QM1BWTmxEZ0tpanNwTVdfeUlubWZuZ3NudmU0a0ZpS05NTEFhRnk0OVpyelFqMjBoMno0MHJTWjJhV1lGS0F4UHZNT0pjdE83TVVLWGVOV3czcEkyTHRHT1hqSkhPRmI3ZFNqN1dzN3BWeUhLYkMwUWZGNzBSdXhGc3VraTJoN093RHY4Yy1qeDR4bGRjMGhjTW9kNU9Ka0RrT21wNk5DNEh4aENkSFNuZlNYYWR3?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -2444,7 +2563,7 @@
       ],
       "primaryCategory": "Mine",
       "titleKo": "FCX vs. SCCO: Which Copper Mining Giant Should You Bet on?",
-      "summaryKo": "FCX vs. SCCO: Which Copper Mining Giant Should You Bet on? theglobeandmail.com",
+      "summaryKo": "FCX vs. SCCO: Which Copper Mining Giant Should You Bet on? The Globe and Mail",
       "marketImpact": "Unclear",
       "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
       "procurementImpact": "UNCLEAR",
@@ -2470,7 +2589,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "FCX vs. SCCO: Which Copper Mining Giant Should You Bet on? theglobeandmail.com",
+        "summary": "FCX vs. SCCO: Which Copper Mining Giant Should You Bet on? The Globe and Mail",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -2490,7 +2609,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "FCX vs. SCCO: Which Copper Mining Giant Should You Bet on? theglobeandmail.com",
+        "summary": "FCX vs. SCCO: Which Copper Mining Giant Should You Bet on? The Globe and Mail",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -2515,7 +2634,7 @@
       "source": "TradingView",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-24T12:30:04.000Z",
-      "fetchedAt": "2026-09-24T20:31:31.028Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQMmFwMjE0RVRpY1R1RFJHNVk2a3VKTzVqX1AwbkQxVG1IUXdhWjhBOXJaNDFBWnRZUVNIOFdHMWVOV19kOC1LNTlKWkRGaXpCU1gxVnR4YlZoNjNnb19nX043NVd6UFA3LU43eFh1WDEtWTJOaFJtVG5yOVhOMkRlM2VDZlY0VTNXWEwybThweEgzWHBWYUZ1aVJyVWNxX0doTjBETHFxbi00RE9TYVAteFd3Q3JtUnpLemFXNmtjcHNzU1NUS1NxS25BRzBNbENpUEtyaDJzSGxydjY0RTBoOGE4QmlTVWpfelRvWDdOUGlkRFFYUlVDTmlDMXdzdzJJenRZcUJQdnU2cF9FUHRmMQ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -2985,7 +3104,7 @@
       "source": "Yahoo Finance",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-24T12:00:03.000Z",
-      "fetchedAt": "2026-09-24T23:29:56.351Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORjBLOFZLbTZPWnBKdHZiVXlHY2cyeEg1WDNEWmZFamlPMVRqQm53c0Ffdzg3Q0V1SGtEUUdMVFNVNUMzQmVNZ1BHdTRHQ2RBWTFEb1FEUzluYTJKdUtLVm9rRW9Tb1dyVk5KVjUwU0Ewc09KZGo4aEM5dGNEWm5SZm1NT3lNT25nMVlnVFRwRVJiSnpvZGlLMVY5SjZNM082ZzB4Wk43RkxIM2d4?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -3201,7 +3320,7 @@
       "source": "Shanghai Metals Market",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-24T11:06:00.000Z",
-      "fetchedAt": "2026-09-24T23:29:56.351Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNYW1oN1JsWnc5WjJwRjI2YzY5eTNUdWRNTk01V0V6MS1mNE1JNTNvcEd0Zjc2bHdDdW1nUnJiUkdtQU9lMFJ6S3Vtc0JFbGFSTGVMMVl4TjZtUlF1Zy1xRFVyRXVQbGpNdHRFMUhNeGlILWF1WjBfS2xfb0F0V0QzV3FyT0l3bGVNekdCLTFBOTJhcmRRLVpPcmJCejFKeXRzT0FfelZIczBqdkVGMzN4eFNKSkNfV1E3eGVmS2VoMFdDbEdFOUtyWlFUSjlfdlJ0VTBlTTFaTWhTbGR6ckdBUkJZc0IyT3VYc2pHR2x3MkpRT3ltUnFQR2tJcUZzdGE3WUNhR00zOFBlQTEtTmhuMG9hamVCMEhpNmZSZVhTaFczT3c?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -3417,7 +3536,7 @@
       "source": "TMX Newsfile",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-24T11:00:00.000Z",
-      "fetchedAt": "2026-09-24T23:29:56.351Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNMzVIZnRzOWNvVHZCckQ4SlRQNXo2RUwxNUFCdEowWXdyWXpseF8tbXc3d1NNZE8xc2NkQ0daQ2NfQkZEX2JRSUlibXlDTHlyRkdPcXpKQUdqNVFiZ1hEME5rU0wybFZjaFdoTEt3bXNmVzd5QVV1bnN6b2hZWDZ4ZEd0U05KQWoxZ09NWko4VHpEZzVXTjZaM0g4U1hLNVRoNlZDY0R1bVIweUJsRGNmeWJoOE9GelVVdE4yUVlMMk5tT1cxQWdFd2YxRGJnbFY1QVVaWUtoYmx2YlQ4dEtSWFN0SU16VUlVWFAtSFVyckNERlFKYnBWWFExVW9aUm9COEtQTjVZUjdXcy1Rd0xydm8zZVh3WHp6R0xISmY5UFowdlpIUFIw?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -3523,7 +3642,7 @@
       "source": "AL Circle",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-24T10:46:55.000Z",
-      "fetchedAt": "2026-09-24T23:29:56.351Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWdNWm40M1YxRXI5OHVhdWdkNXg4c1BhR0R2ZkhZa3dyQlMzdlNJOHItdm85dmt3cTNkTW44UHM4UUJnaHE5SmIzZ0F0MUJfQmlvV3VscUFmRzhsMGRXeXhJUm91RWdYWmp6elltcUVLMGNISlVVM1p6TlFPY0tmRjM5NE9JRVdPcF9HYmRaSjlLbzFuaDh0cjlkdUNHR0xfU196d3FDdldjUFhGNTlKOQ?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -3633,7 +3752,7 @@
       "source": "AL Circle",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-24T10:36:54.000Z",
-      "fetchedAt": "2026-09-24T23:29:56.351Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVJpUWhWNHBUclh2OXRab0FLZEgtRzE4WDJMQXpTMWVnYjdUTW50YmRab2E4MUw3cWkxUUxrQy1BY1ZzTDkzUk84dmhMbEpxM2M2NEdkTUZqQzJmVDNIcUt2cWZXQk1zTHQzeWhac0Q1VFJQNGoxVU54b3NaU29yZzFMbGI3Z1YxLWpCSF9makI3MDBiVjNKc1FETWl1SEFuclQ1WldtZDliZUtrNDNBTQ?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -5089,7 +5208,7 @@
       "source": "Proactive financial news",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-24T09:05:00.000Z",
-      "fetchedAt": "2026-09-24T23:29:56.351Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObExQRU00NE9uN3Nfc2NVV2FuazJxaXlNWWdXMGlyb0lQRmxJZ0xRenFNWm9QOXRMbjkwbUsxWUtqeG5EVFdydUZ3TFRiOW0tUlM2enZoN0hZT2RnSUVTM2xXemRPOGhiTk0zeHpITkNadGVRWDFPX0FGZmFEUjI2UmwzcVpfdWZ0YnViU0t2TFE0X3M4TWREc3FKNEVXTmNKSWhjU2pvZmd5c0U5M1lHb2kzZkRvWmJLbW1iX3BsZ1JKS2J6dWdkaUhXNURVYTFvZk81WUwzaVVyQQ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -5652,7 +5771,7 @@
       "source": "Shanghai Metals Market",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-24T07:56:00.000Z",
-      "fetchedAt": "2026-09-24T23:29:56.351Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWGVyRmFBVFBLVEQwT0l2ZDE4UHpiWmdYdXc4U0pHc21DZFZvUEVQbG40LW1KTnF2SmZlOXJOMGpEQ1FheXF5cFNSTEtZVHZVd2FoMmZua3IzemFzVnFoSG5BbzhhYW8wUHo4ZVVKNVZaQjZRTkpWQkVySXhMN2NYWDd2bU9xR3g5NTdMQzVTQ0FTZDlHSnI1T3ViNzRWWDV0cWdHUC1tZmRYVmdvOEdsWllSQ2tENm5CRlJOeWtyR2RJVlY4RnZoVENwOXdFaldxWDlEYmstRUlKWHlLQkdqdkhWLTBzZWM?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -19222,7 +19341,7 @@
       "source": "Georgia Laurie",
       "feedSource": "International Tin Association",
       "publishedAt": "2026-09-22T08:02:39.000Z",
-      "fetchedAt": "2026-09-24T23:29:56.351Z",
+      "fetchedAt": "2026-09-25T01:55:43.263Z",
       "url": "https://www.internationaltin.org/tin-could-help-solar-cells-hold-onto-lost-energy",
       "language": "en",
       "commodity": "TIN",
@@ -33497,113 +33616,6 @@
         "region": "Unclear",
         "regions": [],
         "summary": "Power outage hits Oi Man Estate blocks in Ho Man Tin, water supply also affected The Standard (HK)",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 34,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": true,
-      "sentAt": "2026-09-20T19:46:31.077Z"
-    },
-    {
-      "id": "ffca80e52770a4819695f85586fd3b4fdcfd14aca98faac846b2e705ce92887e",
-      "titleSourceHash": "84f21271bb8c63997568fa3303ea94c5dc99ccaa7da008f184075ca69b010113",
-      "eventId": "70ddc0ad583ac73fc70e6c02072bb567603176b78e590700ceb1e08ec37e6b4c",
-      "title": "알루미늄 레일 마운팅 프로파일 시장 2035년 전망: 태양광 수요가 연평균 8~12% 성장 견인 - 뉴스 및 통계",
-      "normalizedTitle": "알루미늄 레일 마운팅 프로파일 시장 2035년 전망 태양광 수요가 연평균 8~12% 성장 견인 - 뉴스 및 통계",
-      "description": "알루미늄 레일 마운팅 프로파일 시장 2035년 전망: 태양광 수요가 연평균 8~12% 성장 견인 - 뉴스 및 통계 IndexBox",
-      "source": "IndexBox",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-09-20T17:41:20.000Z",
-      "fetchedAt": "2026-09-20T19:46:31.077Z",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnhBS0p0cXA4UHFwM2E2VVFieV9jWlJjUFIyenVackhuUXNiVHphd1JOT3FtZXpNZ2lLTVNOUG80MmNCYVNVTmJMcTFOeGJWM0liYkRFb2RuQ0V4ckl3VGw1d3VkcGtGMXB5YnN6X0ZkOHNvMjN2OHNsRFl5aERiMmNOeGFHOW9qQ2pPUUF6UjBFTzdVb3hWVVN5SjRfNVpLYmFINk9NMVI2TU92UEZPeE4tRnpjVi1uTjV0N1pCUWpvT2xlUDZNTGFuQUk?oc=5",
-      "language": "ko",
-      "commodity": "ALUMINUM",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "알루미늄"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "수요"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "ALUMINUM",
-          "score": 9,
-          "matchedKeywords": [
-            "알루미늄"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "수요"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "DEMAND"
-      ],
-      "primaryCategory": "Demand",
-      "titleKo": "알루미늄 레일 마운팅 프로파일 시장 2035년 전망: 태양광 수요가 연평균 8~12% 성장 견인 - 뉴스 및 통계",
-      "summaryKo": "알루미늄 레일 마운팅 프로파일 시장 2035년 전망: 태양광 수요가 연평균 8~12% 성장 견인 - 뉴스 및 통계 IndexBox",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "알루미늄 레일 마운팅 프로파일 시장 2035년 전망: 태양광 수요가 연평균 8~12% 성장 견인 - 뉴스 및 통계 IndexBox",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "알루미늄 레일 마운팅 프로파일 시장 2035년 전망: 태양광 수요가 연평균 8~12% 성장 견인 - 뉴스 및 통계 IndexBox",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
