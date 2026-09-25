@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-25T13:49:50.751Z",
+  "generatedAt": "2026-09-25T18:38:30.794Z",
   "counts": {
-    "PENDING": 494,
+    "PENDING": 500,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -867,26 +867,6 @@
       "publishedAt": "2026-08-27T00:22:00.000Z"
     },
     {
-      "id": "b1a8e05599c9cef9adef33f3fad4283ee85b80a2f349fefb11b4a76841c58a4d",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Tariff Fears Spark Record Copper Stockpile Surge",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Investing News Network",
-      "publishedAt": "2026-08-26T18:15:00.000Z"
-    },
-    {
-      "id": "91af32f47b1d0fc8c957f13c1808b454eb7a477176340b46c70916ce11ddac4e",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper falls 1% from record levels as US tariff threat risks wiping out global surplus",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Economies.com",
-      "publishedAt": "2026-08-26T15:01:00.000Z"
-    },
-    {
       "id": "160f6ee8fc342e13a212866566c842f65d7470ad4ae4c0a820e3a4b3636d78ea",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -1335,6 +1315,26 @@
       "codexStatus": "PENDING",
       "source": "cnbc.com",
       "publishedAt": "2026-09-15T12:53:52.000Z"
+    },
+    {
+      "id": "df75ba4cd8e8417ecb1a2e320b73602f40204b4c8a33ccc60e5030c22697a4e2",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP’s Escondida restart eases tight copper supply woes",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Northern Miner",
+      "publishedAt": "2026-09-25T17:17:32.000Z"
+    },
+    {
+      "id": "eb3d9f682ddc5887846a580613666f7d1fa67ee9ec2c4ab2cfdea85eac558bc3",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "FILE PHOTO: Workers of BHP Billiton's Escondida, the world's biggest copper mine, are seen in front of the open pit, in Antofagasta,",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Daily News | Texas' Oldest Newspaper",
+      "publishedAt": "2026-09-25T16:54:58.000Z"
     },
     {
       "id": "a719f5432fa5c40801c9dc96cbaa43e9abacb570b266078be557c017a76d5903",
@@ -2877,6 +2877,16 @@
       "publishedAt": "2026-09-25T05:02:26.000Z"
     },
     {
+      "id": "e07ddfffbdb303ef62e69ee3a98dcf5a8ca02a5809e571ddb0184a49caac0449",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Peru Mining Minister says country expects to add about 1mln tonnes per year of copper production within 5-6 years; copper output expected to reach 2.5-2.7mln tonnes this year",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Newsquawk",
+      "publishedAt": "2026-09-25T15:36:33.000Z"
+    },
+    {
       "id": "5e327dadaa7ce536a14386858c02d9821de520961ef0a96dca5e39f0bccc6758",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3525,6 +3535,16 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-09-24T18:22:30.000Z"
+    },
+    {
+      "id": "d7c844d10fe74902080daedbcbbbacb5e7299ac9a0d087478add3d3591a927f1",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Kamoa Copper starts open-pit copper mining",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "africabusinessplus.com",
+      "publishedAt": "2026-09-25T15:16:45.000Z"
     },
     {
       "id": "eed75731f79879ff7b15b4b9727e94fb9efdd1ceea579dd6f1155f3838a719da",
@@ -4197,6 +4217,16 @@
       "publishedAt": "2026-09-25T07:36:27.000Z"
     },
     {
+      "id": "b1fb48ac9f76dfca84eea249522caafc5a175670397475adb38f4ccc902c9a07",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "China Aug aluminium imports down 14.7% Y-o-Y, Russia accounts for 96% of supply",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "alcircle.com",
+      "publishedAt": "2026-09-25T18:00:00.000Z"
+    },
+    {
       "id": "19d573023277da28a10d7b067af28d2d957a346cd21905eec743e757e3960034",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4355,36 +4385,6 @@
       "codexStatus": "PENDING",
       "source": "Ottumwa Courier",
       "publishedAt": "2026-08-26T20:11:59.000Z"
-    },
-    {
-      "id": "c0b5eaed504978ac101bac87c7593b6a46c81fb8a80f31d4f4b6f41cddfa741c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Freedom Broker cuts Western Copper and Gold stock price target on valuation",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com",
-      "publishedAt": "2026-08-26T17:17:03.000Z"
-    },
-    {
-      "id": "94828385d71b63382a1255965a34143b10831f987edc17d925f65cf9159d9c5a",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Clean tech startup scores $35M funding for new aluminum-based energy system",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mining.com",
-      "publishedAt": "2026-08-26T18:27:18.000Z"
-    },
-    {
-      "id": "ec8a2ae986581c2b02185ffe5db7f2b579e58459a8fc89943b030a35f712500a",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Most U.S. aluminum comes from Canada as industry says ‘good luck’ to tariff threats",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "BNN Bloomberg",
-      "publishedAt": "2026-08-26T17:17:35.000Z"
     },
     {
       "id": "342b03fdf6c1f38f712546406a14dc827b82d4031fe0f5244ea2d6e4e4a3a505",
@@ -4867,6 +4867,76 @@
       "publishedAt": "2026-09-25T12:38:22.000Z"
     },
     {
+      "id": "1ca64287ca19207c09a399c9af88156719edfd215620d446a104148a3f44d2e1",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper, Uranium and Lithium Price Forecast: 5% Yields Weigh on Metals",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "FXEmpire",
+      "publishedAt": "2026-09-25T08:39:42.000Z"
+    },
+    {
+      "id": "e44f71fbc57fbb8f7814338c542784f508a32b3889ed5456443e466ca3d51828",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Gunnison Copper Hits Commercial Production, Targets Partner",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Crux Investor",
+      "publishedAt": "2026-09-25T18:09:43.000Z"
+    },
+    {
+      "id": "d435d74da81a46cb34a5d08c826a2655ca50342ffcc80c3c9076cf4ac5f978cd",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "European aluminium premiums diverge as supply tightens",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "CRU Group",
+      "publishedAt": "2026-09-25T17:02:03.000Z"
+    },
+    {
+      "id": "f2bb205cf54701553cfdd4e84379f84badceda22b5a6864f9ad1013cefdff2bb",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Royalties Inc. Reports the Zacatecas Attorney General Formally Serves Capstone Copper's Cozamin Mine with Criminal Document Demand for Production Evidence",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Lelezard",
+      "publishedAt": "2026-09-25T15:38:02.000Z"
+    },
+    {
+      "id": "1e22b90467941b7a9f05f7a82a0e56d2227fcc52e6c99ab0dd677f659d442821",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Freeport-McMoRan (FCX): Can Copper Tightness Outrun Rising Costs?",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Insider Monkey",
+      "publishedAt": "2026-09-25T12:38:44.000Z"
+    },
+    {
+      "id": "08a6cfb6c0099a2e7a359cc27283499133e0244a5bebec312e4a6d0edab1f47f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Chinese, U.S. Firms Line Up for Peru Copper Projects as Government Cuts Red Tape",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "The China-Global South Project",
+      "publishedAt": "2026-09-25T17:53:44.000Z"
+    },
+    {
+      "id": "cd2ed565f46f5b0201ddb5accc91cc27b64e62dd4053f072fd365dd400f07539",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "China's August aluminium extrusion exports hit a YTD high; pullback expected in September amid narrowing price spread",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "alcircle.com",
+      "publishedAt": "2026-09-25T12:04:14.000Z"
+    },
+    {
       "id": "41199d1965ab4295cc8038152ac11a14432624d14367307b4dc163454d9837ae",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4883,18 +4953,8 @@
       "title": "More domestic aluminium, recycling and energy needed to strengthen US supply chain",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-09-25T10:26:37.000Z"
-    },
-    {
-      "id": "1ca64287ca19207c09a399c9af88156719edfd215620d446a104148a3f44d2e1",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper, Uranium and Lithium Price Forecast: 5% Yields Weigh on Metals",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "FXEmpire",
-      "publishedAt": "2026-09-25T08:39:42.000Z"
+      "source": "alcircle.com",
+      "publishedAt": "2026-09-25T10:30:27.000Z"
     },
     {
       "id": "813d78a3bfcba4b70197195377dd783cd4a275758582236a3b1cd4e3e4ecdfaf",
@@ -4944,7 +5004,7 @@
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "Finimize",
-      "publishedAt": "2026-09-24T23:52:14.000Z"
+      "publishedAt": "2026-09-25T07:52:14.000Z"
     }
   ]
 }
