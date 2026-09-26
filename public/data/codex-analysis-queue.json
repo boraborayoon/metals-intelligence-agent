@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-26T18:04:14.504Z",
+  "generatedAt": "2026-09-26T21:12:27.871Z",
   "counts": {
-    "PENDING": 491,
+    "PENDING": 488,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -845,16 +845,6 @@
       "codexStatus": "PENDING",
       "source": "Seoul Economic Daily",
       "publishedAt": "2026-09-08T01:18:01.000Z"
-    },
-    {
-      "id": "14557d5f48386c11140e4636def8bec3fa4032c939471ac5fdb67aa1378ee6bc",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper Nears Record Highs While 675,185 Tons Remain Tied Up Amid U.S. Tariff Standoff",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "TechStock²",
-      "publishedAt": "2026-08-27T19:43:13.000Z"
     },
     {
       "id": "160f6ee8fc342e13a212866566c842f65d7470ad4ae4c0a820e3a4b3636d78ea",
@@ -4257,16 +4247,6 @@
       "publishedAt": "2026-08-28T20:48:00.000Z"
     },
     {
-      "id": "54c203de938d3b40c06d48f96700d437ed6914ba3feba8db1cab1937b161da29",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper futures slip amid supply disruptions and tariff uncertainty.",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "CME Group",
-      "publishedAt": "2026-08-27T20:30:50.000Z"
-    },
-    {
       "id": "06a8191c3415896194e7d8364adfbf1c7879ce79945ea9136349239ddb9e2c3b",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4285,26 +4265,6 @@
       "codexStatus": "PENDING",
       "source": "Mitrade",
       "publishedAt": "2026-08-28T07:28:32.000Z"
-    },
-    {
-      "id": "d3d0774e584fe32653c30a4c0fc7e786712b34e3dcd5d5c09f6c00604222c09f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Controversial Michigan copper mine gets $50M in state grants after years of trying",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "CBS News",
-      "publishedAt": "2026-08-27T18:47:07.000Z"
-    },
-    {
-      "id": "91681a51d8f433aa8b197e59e9d977a212ed8cfbbf2c6ca2d9bee2493d9c0d6a",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "EU, CBAM 세부 이행 지침 확정…한국 철강·알루미늄 수출기업, 탄소비용 전면 대응 불가피",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "유스연합",
-      "publishedAt": "2026-08-27T20:40:06.000Z"
     },
     {
       "id": "e38030e75ca14a4845216dbda287a7dc1126bb64b5e168abd236fb5b11a9f76e",
@@ -4915,6 +4875,16 @@
       "codexStatus": "PENDING",
       "source": "Energy Digital",
       "publishedAt": "2026-09-25T06:14:50.000Z"
+    },
+    {
+      "id": "6cd579ad6403e1fc3ae3baa14ae81d88cfefdd57de1f7f95e498b8b9e2110ac8",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "中 쯔진광업, 구리 가격 상승 사이클 핵심 수혜주",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "thecommoditiesnews.com",
+      "publishedAt": "2026-09-25T03:00:00.000Z"
     }
   ]
 }

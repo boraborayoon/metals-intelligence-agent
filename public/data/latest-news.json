@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T18:04:14.504Z",
+  "generatedAt": "2026-09-26T21:12:27.871Z",
   "items": [
     {
       "id": "16c74c49af9f0f3668b86959ea553d9665ea719966c7f00ee7f4db0a1e6995f2",
@@ -456,6 +456,119 @@
       "codexReviewReason": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
       "sent": true,
       "sentAt": "2026-09-26T18:04:14.504Z"
+    },
+    {
+      "id": "00860394c318374e01967b2c529c200fb077d95792ccbcfc9d965c25c037964c",
+      "titleSourceHash": "056666d33826d688a79a3a9c79a495e1e8a0dd9f9f696504bd4ea073b2d616c5",
+      "eventId": "c8c7ac408f70e2a4f9c2d10510f81fcd42633bc288294d850f50812278f7ea6b",
+      "title": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin",
+      "normalizedTitle": "scmp best bets champion can send punters home a winner at sha tin",
+      "description": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
+      "source": "South China Morning Post",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-26T13:12:05.000Z",
+      "fetchedAt": "2026-09-26T21:12:27.871Z",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOERMNWtWelo0OGlhdi05bUVLMzlQUUF1dEpWZDUzRm1wMHBUSlN5aGNXTTJGWUs1R24tcl90dmotWFVyOWVDS2I0Q19qMTUzSEtyd0l2WHVCaEk4WUlONjRqTm94cjNsYlBDYlQ3elctVTlrUkNkeDhDZFVmX1Racmd5YVNrRWJZZWF3eXM4OWVCTFhJTUMtRldSdEd0OVBLM3RkS0p2dkktNkFLXzd30gGvAUFVX3lxTE84REw1a1Z6WjQ4aWF2LTltRUszOVBRQXV0SlZkNTNGbXAwcFRKU3loY1dNMkZZSzVHbi1yX3R2ai1YVXI5ZUNLYjRDX2oxNTNIS3J3SXZYdUJoSThZSU42NGpOb3hyM2xiUENiVDd6Vy1VOWtSQ2R4OENkVWZfVFpyZ3lhU2tFYlllYXd5czg5ZUJMWElNQy1GV1J0R3Q5UEszdGRLSnZ2SS02QUtfN3c?oc=5",
+      "language": "en",
+      "commodity": "TIN",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "tin"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "China"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "TIN",
+          "score": 8,
+          "matchedKeywords": [
+            "tin"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "China"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "CHINA"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin",
+      "summaryKo": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "China"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 14,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
     },
     {
       "id": "6538f942e5f1a104275172bab355488e2ed7cf60e9d1bf2ba80fa8d96c280dd5",
@@ -6379,7 +6492,7 @@
       "source": "Startup Fortune",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-25T07:33:45.000Z",
-      "fetchedAt": "2026-09-26T18:04:14.504Z",
+      "fetchedAt": "2026-09-26T21:12:27.871Z",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTUlQUjF6dUxzZEN6bHo4TzVLT0FIV2FuOTBFa3ZQX2NZTnJDS3U4QjV3T29KSkdpakt2WXIteHpYY2JuUDNkbUdrRmJXNlJ1aFF0dmRucDZ3Rk9KSTlmU3pQYXpNVGtxTEV1cThMdXl1WmJEOUFUX3R0VjJrMkJUc2kxM3lPUHRqa203VFZkdm9nSWw0R3c?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -6478,8 +6591,8 @@
       "priority": 26,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-09-26T21:12:27.871Z"
     },
     {
       "id": "1e73272988557829d2f8a1f7f8576349b2de7f060a4fa1ad9e1d06b1e273d9c1",
@@ -6820,6 +6933,116 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-09-25T07:51:10.084Z"
+    },
+    {
+      "id": "6cd579ad6403e1fc3ae3baa14ae81d88cfefdd57de1f7f95e498b8b9e2110ac8",
+      "titleSourceHash": "3210763283c952b33c320156abec254f7acb98e9af1b9aeb7f174be0a28c1acf",
+      "eventId": "8426edd33b03b943ff3bc7f528b0f4c5021ef6b4e2c8d8c8f27f03df55954214",
+      "title": "中 쯔진광업, 구리 가격 상승 사이클 핵심 수혜주",
+      "normalizedTitle": "中 쯔진광업 구리 가격 상승 사이클 핵심 수혜주",
+      "description": "中 쯔진광업, 구리 가격 상승 사이클 핵심 수혜주 thecommoditiesnews.com",
+      "source": "thecommoditiesnews.com",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-09-25T03:00:00.000Z",
+      "fetchedAt": "2026-09-26T21:12:27.871Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JRUZ1NjZxeW1yZUpvVkh4VnluMUVFZUdxelJ5TkdOQVJaVlVTVlg5ekpJYzlidjVlSDIyZTZiaWVTbkJxbmdqTFRUd2s4TXBQTVVybHdVRUpzQS1UZzJlYWlRd1BBYnhQaXdtWlB3YVVZWHhjT2xj?oc=5",
+      "language": "ko",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "구리"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "가격"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "구리"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "가격"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE",
+        "MINE"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "中 쯔진광업, 구리 가격 상승 사이클 핵심 수혜주",
+      "summaryKo": "中 쯔진광업, 구리 가격 상승 사이클 핵심 수혜주 thecommoditiesnews.com",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "PRICE",
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "中 쯔진광업, 구리 가격 상승 사이클 핵심 수혜주 thecommoditiesnews.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "PRICE",
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "中 쯔진광업, 구리 가격 상승 사이클 핵심 수혜주 thecommoditiesnews.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 26,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-26T21:12:27.871Z"
     },
     {
       "id": "c6c163d6574a8bcccc8ed0b7f7896f2cd9dbe71ca4268b2997cf5eceac3446aa",
@@ -26480,7 +26703,7 @@
       "source": "Georgia Laurie",
       "feedSource": "International Tin Association",
       "publishedAt": "2026-09-22T08:02:39.000Z",
-      "fetchedAt": "2026-09-26T18:04:14.504Z",
+      "fetchedAt": "2026-09-26T21:12:27.871Z",
       "url": "https://www.internationaltin.org/tin-could-help-solar-cells-hold-onto-lost-energy",
       "language": "en",
       "commodity": "TIN",
@@ -33484,229 +33707,6 @@
       "codexReviewReason": null,
       "sent": false,
       "sentAt": null
-    },
-    {
-      "id": "96482aad4c392032ffe721146d333bef4664b6a7762e62c0d733d6bd8471de3e",
-      "titleSourceHash": "6ef2004e10e117f20b901eafbd0062e9f97099e23b8760262b8e6878aa4fb457",
-      "eventId": "477d5a73409c1a48413e78a500ddf19ac50db6cb927539d2edcfdfab97fa24bd",
-      "title": "White Pine Copper Announces Positive Pre-Feasibility Study to Revive One of America's Legendary Copper Districts",
-      "normalizedTitle": "white pine copper announces positive pre-feasibility study to revive one of america s legendary copper districts",
-      "description": "White Pine Copper Announces Positive Pre-Feasibility Study to Revive One of America's Legendary Copper Districts Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-21T14:00:00.000Z",
-      "fetchedAt": "2026-09-22T04:59:24.343Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTJsT2dNT2ljUkRNbW80RHp3WFFZTUhEdE8tWm54TDh0bjNmajRNSDBDMnd0Y3JBWlJtY2Q1VWdRcm9FT19XSFgwTloxeHFDdnRUeVpKbndBNXNEbTctTUI0c3RwY0ljaU9VRDdYLUJla3dvNzFDUW00OGp1cnJKa280Z0ZzbkppYmVXUGpR?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 6,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PROJECT"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "White Pine Copper Announces Positive Pre-Feasibility Study to Revive One of America's Legendary Copper Districts",
-      "summaryKo": "White Pine Copper Announces Positive Pre-Feasibility Study to Revive One of America's Legendary Copper Districts Yahoo Finance Singapore",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "MEDIUM_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "White Pine Copper Announces Positive Pre-Feasibility Study to Revive One of America's Legendary Copper Districts Yahoo Finance Singapore",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "White Pine Copper Announces Positive Pre-Feasibility Study to Revive One of America's Legendary Copper Districts Yahoo Finance Singapore",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 27,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "ffea629cfa27af841096057f43491d79011708aba0e5eca7226b9e4b2c340155",
-      "titleSourceHash": "24a269773f76bca92651d96095500294c644ea2248f90765df93c5874e858e6c",
-      "eventId": "5b108b70fb260916299f6c33d61962739a7490fa5837269e6f1cbd72327a2074",
-      "title": "Copper Near Records As China’s Restocking Bid Meets Tight Supply",
-      "normalizedTitle": "copper near records as china s restocking bid meets tight supply",
-      "description": "Copper Near Records As China’s Restocking Bid Meets Tight Supply finimize.com",
-      "source": "finimize.com",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-21T13:43:05.000Z",
-      "fetchedAt": "2026-09-21T17:04:38.238Z",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaThRUEJzaFFYdXVsRklOeXRUUDdHYzNteXlGRWtYbFJHRXQ4QU5QbEt1U2hvNk0yMVp5TE5PLTRxc2oxd04tRjBuazRrajhmMlI2NFNvSzFob0dmWlZNMk03cFA1MklYOGQ3MkYtS3ZEQmxWWXp4UVJlMVhfbGhuc1llZHhEZzFLMlVPSkNyVHVxVjRReXRN?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 10,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [
-        "supply"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 10,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [
-            "supply"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "SUPPLY",
-        "CHINA"
-      ],
-      "primaryCategory": "Supply",
-      "titleKo": "Copper Near Records As China’s Restocking Bid Meets Tight Supply",
-      "summaryKo": "Copper Near Records As China’s Restocking Bid Meets Tight Supply finimize.com",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper Near Records As China’s Restocking Bid Meets Tight Supply finimize.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper Near Records As China’s Restocking Bid Meets Tight Supply finimize.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 35,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": true,
-      "sentAt": "2026-09-21T17:04:38.238Z"
     }
   ]
 }

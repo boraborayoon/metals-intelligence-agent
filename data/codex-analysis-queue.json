@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T18:04:14.504Z",
+  "generatedAt": "2026-09-26T21:12:27.871Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -3290,42 +3290,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-08T06:33:02.762Z",
       "updatedAt": "2026-09-08T11:45:32.736Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "14557d5f48386c11140e4636def8bec3fa4032c939471ac5fdb67aa1378ee6bc",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Nears Record Highs While 675,185 Tons Remain Tied Up Amid U.S. Tariff Standoff",
-      "summary": "Copper Nears Record Highs While 675,185 Tons Remain Tied Up Amid U.S. Tariff Standoff TechStock²",
-      "source": "TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdE5nQWRxOGFRcFM2ajNmTkw4Mm1hSE53MVBPZ2M1SEVlVGxFRFhES09hbkhXZmc1TWRDSTlVOGJBRzZuTVpGRE1hVE9VOWxSYS1iZWhUNmQ4V0JKdjFyMlFsUnJ0S3lOLUQ4d09BX2JsQTdhS056SzhSVng5V1lzYS16UGdXZUJVUkhlbHNxN1JvUQ?oc=5",
-      "publishedAt": "2026-08-27T19:43:13.000Z",
-      "priority": 45,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Nears Record Highs While 675,185 Tons Remain Tied Up Amid U.S. Tariff Standoff TechStock²",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-27T21:40:19.754Z",
-      "updatedAt": "2026-08-28T07:10:19.800Z",
       "analyzedAt": null
     },
     {
@@ -16131,50 +16095,6 @@
       "analyzedAt": null
     },
     {
-      "id": "54c203de938d3b40c06d48f96700d437ed6914ba3feba8db1cab1937b161da29",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper futures slip amid supply disruptions and tariff uncertainty.",
-      "summary": "Copper futures slip amid supply disruptions and tariff uncertainty. CME Group",
-      "source": "CME Group",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV1JiMVdfQWJkMXdTTjRYY1ByNmtEbU1lQ2xhWFlWNmZyNUk4V0cyb25mU3UwRHp0Rjd0TG9xOGFoWU42R1pqN3RUNjNKRkg4bXB4SXgycWI3VWxoX0pncUh0dTRJTTZQVlZIcmVBVGVqaXlEVmpsWC1Bcy1mdUZHTndYMXItOFNOaUV3VmlCZXRyUHJPYjNZRGxxM2hSLXVhaDBKU0FudDRxWFlTQ1FQMHhn?oc=5",
-      "publishedAt": "2026-08-27T20:30:50.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Supply Disruption",
-        "categories": [
-          "SUPPLY",
-          "DISRUPTION",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper futures slip amid supply disruptions and tariff uncertainty. CME Group",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "supply disruption"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-27T22:40:19.761Z",
-      "updatedAt": "2026-08-29T03:40:19.925Z",
-      "analyzedAt": null
-    },
-    {
       "id": "06a8191c3415896194e7d8364adfbf1c7879ce79945ea9136349239ddb9e2c3b",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -16246,80 +16166,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-28T12:10:19.837Z",
       "updatedAt": "2026-08-28T13:40:19.855Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "d3d0774e584fe32653c30a4c0fc7e786712b34e3dcd5d5c09f6c00604222c09f",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Controversial Michigan copper mine gets $50M in state grants after years of trying",
-      "summary": "Controversial Michigan copper mine gets $50M in state grants after years of trying CBS News",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTWM3MGhSX290Ulh4Zmpic0VoNEZqanZtUEZmYkpkNGZGWUY3VjhabzJvZ0xjMjB0UzhYdzNZRDJ3RUlmYXZ2Y1A4cjY3cGl2ODZUUU9NZGNaanVrQ0FXVFVVcTMwLWVFN1VtZnRtVjVDTngyVTBtU2VZdmlBeXVSWXdjWXRDUVhuY1UtWkdJX0IwdTN5ODg2Z3FVUmNFSmF1NExlbWVfUl9jSEp4?oc=5",
-      "publishedAt": "2026-08-27T18:47:07.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Controversial Michigan copper mine gets $50M in state grants after years of trying CBS News",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-27T21:10:19.759Z",
-      "updatedAt": "2026-08-28T01:10:19.764Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "91681a51d8f433aa8b197e59e9d977a212ed8cfbbf2c6ca2d9bee2493d9c0d6a",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "EU, CBAM 세부 이행 지침 확정…한국 철강·알루미늄 수출기업, 탄소비용 전면 대응 불가피",
-      "summary": "EU, CBAM 세부 이행 지침 확정…한국 철강·알루미늄 수출기업, 탄소비용 전면 대응 불가피 유스연합",
-      "source": "유스연합",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XUnNfamhQTzFnSTloZzN5M1lPYTdsNlNWSjhaUUNLdERoVV91MjQyWWpyd01ONW9KVXF5OVU2VndfWFFDT0RwV2UtU29DXzd0a3c?oc=5",
-      "publishedAt": "2026-08-27T20:40:06.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND",
-          "EXPORT",
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "EU, CBAM 세부 이행 지침 확정…한국 철강·알루미늄 수출기업, 탄소비용 전면 대응 불가피 유스연합",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-27T21:10:19.759Z",
-      "updatedAt": "2026-08-27T21:10:19.759Z",
       "analyzedAt": null
     },
     {
@@ -18454,7 +18300,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-25T13:49:50.751Z",
-      "updatedAt": "2026-09-26T18:04:14.504Z",
+      "updatedAt": "2026-09-26T21:12:27.871Z",
       "analyzedAt": null
     },
     {
@@ -18566,6 +18412,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-26T18:04:14.504Z",
       "updatedAt": "2026-09-26T18:04:14.504Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "6cd579ad6403e1fc3ae3baa14ae81d88cfefdd57de1f7f95e498b8b9e2110ac8",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "中 쯔진광업, 구리 가격 상승 사이클 핵심 수혜주",
+      "summary": "中 쯔진광업, 구리 가격 상승 사이클 핵심 수혜주 thecommoditiesnews.com",
+      "source": "thecommoditiesnews.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JRUZ1NjZxeW1yZUpvVkh4VnluMUVFZUdxelJ5TkdOQVJaVlVTVlg5ekpJYzlidjVlSDIyZTZiaWVTbkJxbmdqTFRUd2s4TXBQTVVybHdVRUpzQS1UZzJlYWlRd1BBYnhQaXdtWlB3YVVZWHhjT2xj?oc=5",
+      "publishedAt": "2026-09-25T03:00:00.000Z",
+      "priority": 26,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "PRICE",
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "中 쯔진광업, 구리 가격 상승 사이클 핵심 수혜주 thecommoditiesnews.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-26T21:12:27.871Z",
+      "updatedAt": "2026-09-26T21:12:27.871Z",
       "analyzedAt": null
     }
   ]
