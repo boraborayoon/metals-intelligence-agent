@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T21:50:26.539Z",
+  "generatedAt": "2026-09-26T00:38:04.662Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -3326,45 +3326,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-08-27T21:40:19.754Z",
       "updatedAt": "2026-08-28T07:10:19.800Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "fca99bd7879750a45e487db2d47b019077660fb083c80d9380b53c7dca280c72",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "US-Canada Aluminium Trade Talks Fail: 50% Tariff Stays, US Relies on Canadian Imports - News and Statistics",
-      "summary": "US-Canada Aluminium Trade Talks Fail: 50% Tariff Stays, US Relies on Canadian Imports - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMDBQU1ZiLTc1a3NJYm1rb0ZZZGVVTE1aSUtLWEhZOHZ0aWhubVZyaTdrRjQyZnZJdkE1YXlhYlp6WlQwcXhGQnMxajdRRGFTdk9ieTI4MkdocFJRbUJac2Z4bWItYmtaNTByYk5Sc2drVmw3MmRXcWw3cjZ3ckdlcmJBYWR6Zw?oc=5",
-      "publishedAt": "2026-08-27T00:22:00.000Z",
-      "priority": 45,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "LOGISTICS",
-          "IMPORT",
-          "TRADE",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "US-Canada Aluminium Trade Talks Fail: 50% Tariff Stays, US Relies on Canadian Imports - News and Statistics IndexBox",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-27T01:10:19.699Z",
-      "updatedAt": "2026-08-27T13:40:19.725Z",
       "analyzedAt": null
     },
     {
@@ -10428,6 +10389,43 @@
       "analyzedAt": null
     },
     {
+      "id": "3d90e685c783c8d6b66b5c01b97e9c638965878544c2bd371ce5d03fa9c2bcdd",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "New study projects $49 billion impact from Inola aluminum smelter as local debate continue",
+      "summary": "New study projects $49 billion impact from Inola aluminum smelter as local debate continue fox23.com",
+      "source": "fox23.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeFNKTmJqTnBVRHAwSTBObUhlcWpZQmUxblM1Yk0zYnV5QUJBbjk0azJNcV9HUHR2SFRHclJEbUxjUmtjVG5kTWI4cFIyS2FxT1habjZNYnhZWHEwbGJ6QUdKSklqUmRRXy1KVF93bDZwOEg0SHE4VXdldDVTOFIzQUI2Z0NoNEZwVlBxS0dUZHBfVS10OHVxZHJNeVJ0TzI5VHc1NEJqTGh2UXlJUzBmVjhsSndMb002S0dkYzFreUNiVTZrR1V2MA?oc=5",
+      "publishedAt": "2026-09-25T23:48:10.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Smelter",
+        "categories": [
+          "SMELTER",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "New study projects $49 billion impact from Inola aluminum smelter as local debate continue fox23.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-26T00:38:04.662Z",
+      "updatedAt": "2026-09-26T00:38:04.662Z",
+      "analyzedAt": null
+    },
+    {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -16770,45 +16768,6 @@
       "analyzedAt": null
     },
     {
-      "id": "282adc9f18796aef5062fa1a12aa7d3088c7bd6fa4ea0f9caa08fe8fa0adde91",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper price record and retreat: supply squeeze signals for mine project teams",
-      "summary": "Copper price record and retreat: supply squeeze signals for mine project teams Geomechanics.io",
-      "source": "Geomechanics.io",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNblBWN05ZRXN3NWZPeEpFVVgxZlA4eTVCcElzQ0hRUVVrajBUbFk0MmJ0WnNORmJacVlyYlJQRFZZUHh6ZFRFQUE2dThZc0U1T1dzcDltX2lXbFJQMmVMUUNZd0RaT29vVTN1S0hqb1lvdkNZQnYzTDloclVEVUdFMEtrdlhwd3h5cF9BQjRkVmdtekZzM0ZqcV93U1BlWWFaOFJhQjBBNXhPLXJRVlV2WHVVVDI4RHpSTWc?oc=5",
-      "publishedAt": "2026-08-27T00:01:25.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "MINE",
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper price record and retreat: supply squeeze signals for mine project teams Geomechanics.io",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-27T08:10:19.714Z",
-      "updatedAt": "2026-08-27T08:10:19.714Z",
-      "analyzedAt": null
-    },
-    {
       "id": "e1e8e41e7123dd1c6185740b6c716b2b3fe12476dd5a64a2fa1105ee00a3beed",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18242,7 +18201,7 @@
       "summary": "Gunnison Copper Hits Commercial Production, Targets Partner Crux Investor",
       "source": "Crux Investor",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHBCdXVQVUtpLV9VQ1hVdzl4alFKOGtGSnhTWUxWejZIX0lhU1l6QWNoaGZScEl0Y0lDdnpTd3Q5bWFvZVpEXzhtRDkxVnh4LXlrYXgxenlyUkdJN1VlZkFyTDFIRHJ5QUdQbWtCUnVTRDA2RHgyOGwwdW9NTGxIbVFDeHVPS25GYVg1WWtnWlVoZjY3bFBVbA?oc=5",
-      "publishedAt": "2026-09-25T18:09:43.000Z",
+      "publishedAt": "2026-09-25T19:32:36.000Z",
       "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
@@ -18267,44 +18226,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-25T18:38:30.794Z",
-      "updatedAt": "2026-09-25T21:50:26.539Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "d435d74da81a46cb34a5d08c826a2655ca50342ffcc80c3c9076cf4ac5f978cd",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "European aluminium premiums diverge as supply tightens",
-      "summary": "European aluminium premiums diverge as supply tightens crugroup.com",
-      "source": "crugroup.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdTA4MGt4UG5KRFRvWnBJT2Y1aWJXeE5LYXFyQW80NTBvQkFmQTdVNlBRNjVQRTdRRHFpN0VKU2Y3ZC1YQTl2YlZxYTk1d3J5UWxnNEVRMkd1bHp3TURvNldla1dXMHJwRjlGZXJULWl6RDdEM3hUbkp0U1NaR3lEcFZEd1daeERKLUhDQ19sMlJ3dnpZMGlGaEtwV0hUdnZsN2xtY2h5NHl4QzlDcjJqRmVHNWgyM0ZTbklZ?oc=5",
-      "publishedAt": "2026-09-25T17:02:03.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "PRICE",
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "European aluminium premiums diverge as supply tightens crugroup.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-25T18:38:30.794Z",
-      "updatedAt": "2026-09-25T21:50:26.539Z",
+      "updatedAt": "2026-09-26T00:38:04.662Z",
       "analyzedAt": null
     },
     {
@@ -18419,44 +18341,149 @@
       "analyzedAt": null
     },
     {
-      "id": "08a6cfb6c0099a2e7a359cc27283499133e0244a5bebec312e4a6d0edab1f47f",
-      "commodity": "COPPER",
+      "id": "350bfcb6bec9d918b5fcad6472501044b58fef1986b3acb96b1a744849dc1051",
+      "commodity": "ALUMINUM",
       "subCommodity": null,
-      "title": "Chinese, U.S. Firms Line Up for Peru Copper Projects as Government Cuts Red Tape",
-      "summary": "Chinese, U.S. Firms Line Up for Peru Copper Projects as Government Cuts Red Tape The China-Global South Project",
-      "source": "The China-Global South Project",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVGV4cnhOelpVMU1jTkpZZFBGYTBMTUJRcWlXSmN6OGZQVjJGNWktdUlFRG1VOHd6SFNtMnpUMnFQRzA1NExTNXpnbnR5N1pndmJUR0xsblhyNFBUSlhqSEVkRmlvaWd3LXRqcFdjNEV4MmlTNm1RUVBEemZwZGxBZ0VkOERnekZyNFdyX1YyeTF4bnBa?oc=5",
-      "publishedAt": "2026-09-25T17:53:44.000Z",
-      "priority": 33,
+      "title": "Changes in aluminium ingot and billet inventory before and after National Day, 2020-2026",
+      "summary": "Changes in aluminium ingot and billet inventory before and after National Day, 2020-2026 AL Circle",
+      "source": "AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVlXd0FsZlZBOEotM0RsZEdNblBpUGVQY1JuX3JLN1VvVHdSM2ZJNWNZRWN4NXIxNWZWWUZla19tSHV0d2JtSmc3SXlHeWFrVG42enlPNEFwZVB3Snl0VE9fLWdJczNLNzdudzJIbm1JQkJUZ0VjR1plRFZiQWJVRU5WbFVsUHNyWE5Pa2dMRXZFelgzMlQ0cm8zQTR4RmRWZkx1WmRXOUV5bE4wT1gzQjdNR2dyNzc3eVR4RV9MVHJ0UQ?oc=5",
+      "publishedAt": "2026-09-25T23:12:14.000Z",
+      "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Government Policy",
+        "category": "Inventory",
         "categories": [
-          "POLICY",
-          "CHINA",
-          "PROJECT"
+          "INVENTORY"
         ],
-        "region": "Peru",
-        "regions": [
-          "Peru",
-          "China"
-        ],
-        "summary": "Chinese, U.S. Firms Line Up for Peru Copper Projects as Government Cuts Red Tape The China-Global South Project",
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Changes in aluminium ingot and billet inventory before and after National Day, 2020-2026 AL Circle",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
         "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-26T00:38:04.662Z",
+      "updatedAt": "2026-09-26T00:38:04.662Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f31fb97897425a8ac36239bb0b6baf0d9196ebe5526bdb838e1ec3f8f83ca157",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Aluminium prices consolidate ahead of National Day holiday; watch for post-holiday inventory buildup and concentrated arrivals risks",
+      "summary": "Aluminium prices consolidate ahead of National Day holiday; watch for post-holiday inventory buildup and concentrated arrivals risks AL Circle",
+      "source": "AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcVhlY1dHLWgtbGJKekpmdms4RFBJQWpfQ2cwX25QNV9IZnFaYktYRWlUWXVXeUNqd3JKWUJQcGtLZmtTR1NuVTY1eXJGdWV3cEU4WURhZW9tS2x1TmFXcERaMmJkS1pqR2NQUzhaOUhLNWxEMmZqUHFoZDctOUFxbzh3dHBUOW05b3FVeXJwMzkteDVkaG8xZlZJU1N6bk5sTFhEZGQxM2lpNEE3Uzc5REVVNW9DU2Q3V0Y4cHpmaHZwMXVadHpkZXJTSDluSElFUjJtUkZGbzJXQk15ejBMTGtTRnBLSHdramJWZjdHYU9HTEtiU0FqMXdIazI?oc=5",
+      "publishedAt": "2026-09-25T22:52:42.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "PRICE",
+          "INVENTORY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Aluminium prices consolidate ahead of National Day holiday; watch for post-holiday inventory buildup and concentrated arrivals risks AL Circle",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-26T00:38:04.662Z",
+      "updatedAt": "2026-09-26T00:38:04.662Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "e6334c13fe681d0185f568fae1465b569aef9086e096e9b1675461eccfd13ce2",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Rio Tinto Logistics Secures $995M Aluminum Contract, Boosting RI",
+      "summary": "Rio Tinto Logistics Secures $995M Aluminum Contract, Boosting RI GuruFocus",
+      "source": "GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjhVcGp2VWNoTkV5QWFvMXBVeC1uQ1BnbEhYb1BNY19zdWY0QXZTdFN5aG5MdUZmakk1QW83T0REUnJNWVhYWTk3N2VSVUF4WnplWDRuVnlvT3hWQlExRW8yTThsT2FhaVVOMGRGb3k3UjBxSHJheXhiOGdnZHVWam5YTEhrMjdyblJMMXNuLXZEbVdNeTFncU9MVHdwZHFmMnJMTW9tVkdIc0hGSXRUam10a2piNzN3NkJuag?oc=5",
+      "publishedAt": "2026-09-25T22:16:34.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Rio Tinto Logistics Secures $995M Aluminum Contract, Boosting RI GuruFocus",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-26T00:38:04.662Z",
+      "updatedAt": "2026-09-26T00:38:04.662Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "d435d74da81a46cb34a5d08c826a2655ca50342ffcc80c3c9076cf4ac5f978cd",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "European aluminium premiums diverge as supply tightens",
+      "summary": "European aluminium premiums diverge as supply tightens CRU Group",
+      "source": "CRU Group",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdTA4MGt4UG5KRFRvWnBJT2Y1aWJXeE5LYXFyQW80NTBvQkFmQTdVNlBRNjVQRTdRRHFpN0VKU2Y3ZC1YQTl2YlZxYTk1d3J5UWxnNEVRMkd1bHp3TURvNldla1dXMHJwRjlGZXJULWl6RDdEM3hUbkp0U1NaR3lEcFZEd1daeERKLUhDQ19sMlJ3dnpZMGlGaEtwV0hUdnZsN2xtY2h5NHl4QzlDcjJqRmVHNWgyM0ZTbklZ?oc=5",
+      "publishedAt": "2026-09-25T17:02:03.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "PRICE",
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "European aluminium premiums diverge as supply tightens CRU Group",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
         "signals": [],
         "urgent": false
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-25T18:38:30.794Z",
-      "updatedAt": "2026-09-25T21:50:26.539Z",
+      "updatedAt": "2026-09-26T00:38:04.662Z",
       "analyzedAt": null
     },
     {
@@ -18567,7 +18594,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-25T18:38:30.794Z",
-      "updatedAt": "2026-09-25T21:50:26.539Z",
+      "updatedAt": "2026-09-26T00:38:04.662Z",
       "analyzedAt": null
     },
     {
@@ -18604,7 +18631,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-25T13:49:50.751Z",
-      "updatedAt": "2026-09-25T21:50:26.539Z",
+      "updatedAt": "2026-09-26T00:38:04.662Z",
       "analyzedAt": null
     },
     {
@@ -18641,7 +18668,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-25T13:49:50.751Z",
-      "updatedAt": "2026-09-25T21:50:26.539Z",
+      "updatedAt": "2026-09-26T00:38:04.662Z",
       "analyzedAt": null
     },
     {
@@ -18750,7 +18777,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-25T13:49:50.751Z",
-      "updatedAt": "2026-09-25T21:50:26.539Z",
+      "updatedAt": "2026-09-26T00:38:04.662Z",
       "analyzedAt": null
     },
     {
@@ -18787,7 +18814,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-25T13:49:50.751Z",
-      "updatedAt": "2026-09-25T21:50:26.539Z",
+      "updatedAt": "2026-09-26T00:38:04.662Z",
       "analyzedAt": null
     },
     {
@@ -18823,7 +18850,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-25T13:49:50.751Z",
-      "updatedAt": "2026-09-25T21:50:26.539Z",
+      "updatedAt": "2026-09-26T00:38:04.662Z",
       "analyzedAt": null
     },
     {
@@ -18863,43 +18890,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-25T21:50:26.539Z",
-      "updatedAt": "2026-09-25T21:50:26.539Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "cce29a68a87f864c151a6bcc8636d454d22748f88d3d8b6fc049cebc34e1ee34",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper, Uranium and Lithium Price Forecast: 5% Yields Weigh on Metals",
-      "summary": "Copper, Uranium and Lithium Price Forecast: 5% Yields Weigh on Metals FXEmpire",
-      "source": "FXEmpire",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbk9UUHRwcGJpQzdNOGtaY1d1ZmdIT3BrYXltYnQtRWV5Z0VrWEFxTE1uVTRBQXVoeG5TeXJtQzRFME5kVG9wUVg4N0d0cnh6Y1RwbmU1WlZ3Wll4cV9RYUNiTl9GWEF2aUZIR01kTzVQOUxzZThKNVF1ZXNnSVVKQXZqSm5aNUpBSWZ5Q0R3clRydUZ1TklTYnFZX2pfaG9OakZFSTBzclFFeWhqd1lwLXJBb2lGbGp2UXFLN1lVYnhzVVE?oc=5",
-      "publishedAt": "2026-09-25T08:40:05.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper, Uranium and Lithium Price Forecast: 5% Yields Weigh on Metals FXEmpire",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-25T21:50:26.539Z",
-      "updatedAt": "2026-09-25T21:50:26.539Z",
+      "updatedAt": "2026-09-26T00:38:04.662Z",
       "analyzedAt": null
     }
   ]

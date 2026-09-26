@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T21:50:26.539Z",
+  "generatedAt": "2026-09-26T00:38:04.662Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -855,16 +855,6 @@
       "codexStatus": "PENDING",
       "source": "TechStock²",
       "publishedAt": "2026-08-27T19:43:13.000Z"
-    },
-    {
-      "id": "fca99bd7879750a45e487db2d47b019077660fb083c80d9380b53c7dca280c72",
-      "commodity": "ALUMINUM",
-      "importance": "HIGH",
-      "title": "US-Canada Aluminium Trade Talks Fail: 50% Tariff Stays, US Relies on Canadian Imports - News and Statistics",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-08-27T00:22:00.000Z"
     },
     {
       "id": "160f6ee8fc342e13a212866566c842f65d7470ad4ae4c0a820e3a4b3636d78ea",
@@ -2747,6 +2737,16 @@
       "publishedAt": "2026-09-25T18:06:54.000Z"
     },
     {
+      "id": "3d90e685c783c8d6b66b5c01b97e9c638965878544c2bd371ce5d03fa9c2bcdd",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "New study projects $49 billion impact from Inola aluminum smelter as local debate continue",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "fox23.com",
+      "publishedAt": "2026-09-25T23:48:10.000Z"
+    },
+    {
       "id": "ef7d50f6306f41a964e0de3421775721f28bf05dc6d427a1e29758a393e3a00f",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4427,16 +4427,6 @@
       "publishedAt": "2026-08-27T06:57:43.000Z"
     },
     {
-      "id": "282adc9f18796aef5062fa1a12aa7d3088c7bd6fa4ea0f9caa08fe8fa0adde91",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper price record and retreat: supply squeeze signals for mine project teams",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Geomechanics.io",
-      "publishedAt": "2026-08-27T00:01:25.000Z"
-    },
-    {
       "id": "e1e8e41e7123dd1c6185740b6c716b2b3fe12476dd5a64a2fa1105ee00a3beed",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4834,17 +4824,7 @@
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "Crux Investor",
-      "publishedAt": "2026-09-25T18:09:43.000Z"
-    },
-    {
-      "id": "d435d74da81a46cb34a5d08c826a2655ca50342ffcc80c3c9076cf4ac5f978cd",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "European aluminium premiums diverge as supply tightens",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "crugroup.com",
-      "publishedAt": "2026-09-25T17:02:03.000Z"
+      "publishedAt": "2026-09-25T19:32:36.000Z"
     },
     {
       "id": "f2bb205cf54701553cfdd4e84379f84badceda22b5a6864f9ad1013cefdff2bb",
@@ -4877,14 +4857,44 @@
       "publishedAt": "2026-09-25T20:14:16.000Z"
     },
     {
-      "id": "08a6cfb6c0099a2e7a359cc27283499133e0244a5bebec312e4a6d0edab1f47f",
-      "commodity": "COPPER",
+      "id": "350bfcb6bec9d918b5fcad6472501044b58fef1986b3acb96b1a744849dc1051",
+      "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "Chinese, U.S. Firms Line Up for Peru Copper Projects as Government Cuts Red Tape",
+      "title": "Changes in aluminium ingot and billet inventory before and after National Day, 2020-2026",
       "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
       "codexStatus": "PENDING",
-      "source": "The China-Global South Project",
-      "publishedAt": "2026-09-25T17:53:44.000Z"
+      "source": "AL Circle",
+      "publishedAt": "2026-09-25T23:12:14.000Z"
+    },
+    {
+      "id": "f31fb97897425a8ac36239bb0b6baf0d9196ebe5526bdb838e1ec3f8f83ca157",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Aluminium prices consolidate ahead of National Day holiday; watch for post-holiday inventory buildup and concentrated arrivals risks",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "AL Circle",
+      "publishedAt": "2026-09-25T22:52:42.000Z"
+    },
+    {
+      "id": "e6334c13fe681d0185f568fae1465b569aef9086e096e9b1675461eccfd13ce2",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Rio Tinto Logistics Secures $995M Aluminum Contract, Boosting RI",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "GuruFocus",
+      "publishedAt": "2026-09-25T22:16:34.000Z"
+    },
+    {
+      "id": "d435d74da81a46cb34a5d08c826a2655ca50342ffcc80c3c9076cf4ac5f978cd",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "European aluminium premiums diverge as supply tightens",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "CRU Group",
+      "publishedAt": "2026-09-25T17:02:03.000Z"
     },
     {
       "id": "201e4996b4c63a657dafd422c222fe11ef1233f65ab4fef41e63a1f7c99dc4f2",
@@ -4995,16 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-09-25T09:15:15.000Z"
-    },
-    {
-      "id": "cce29a68a87f864c151a6bcc8636d454d22748f88d3d8b6fc049cebc34e1ee34",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper, Uranium and Lithium Price Forecast: 5% Yields Weigh on Metals",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "FXEmpire",
-      "publishedAt": "2026-09-25T08:40:05.000Z"
     }
   ]
 }
