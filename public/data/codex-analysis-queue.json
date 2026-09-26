@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-26T14:44:47.888Z",
+  "generatedAt": "2026-09-26T18:04:14.504Z",
   "counts": {
-    "PENDING": 484,
+    "PENDING": 491,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -1305,6 +1305,16 @@
       "codexStatus": "PENDING",
       "source": "The Daily News | Texas' Oldest Newspaper",
       "publishedAt": "2026-09-25T16:54:58.000Z"
+    },
+    {
+      "id": "16c74c49af9f0f3668b86959ea553d9665ea719966c7f00ee7f4db0a1e6995f2",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "AL Circle Analysis: Bauxite developments, alumina trade & primary aluminium market dynamics across Australia, Guinea, US & India",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "alcircle.com",
+      "publishedAt": "2026-09-26T17:03:45.000Z"
     },
     {
       "id": "78a52d983cd0b7656f95ca861deb36d3520fba8a43b9b3e09161897148d2b19f",
@@ -3507,6 +3517,26 @@
       "publishedAt": "2026-09-26T02:16:00.000Z"
     },
     {
+      "id": "f25688e3ef74cf2362cf85fded2dec3e16357da6bf405ee766abe6f4f5e628d6",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Southern Copper (NYSE:SCCO) In Focus As Copper Extends Record Run",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Kalkine Media",
+      "publishedAt": "2026-09-26T16:00:00.000Z"
+    },
+    {
+      "id": "63629da64494378bc8c52bba9eb0e4f464660cb4af8913a5a2d02df6fdae43c4",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Barrick Mining (NYSE:B) Reaffirms Gold and Copper Guidance as Rebranded Miner Expands Copper Reach",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Kalkine Media",
+      "publishedAt": "2026-09-26T15:55:00.000Z"
+    },
+    {
       "id": "eed75731f79879ff7b15b4b9727e94fb9efdd1ceea579dd6f1155f3838a719da",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4657,6 +4687,26 @@
       "publishedAt": "2026-09-26T06:11:00.000Z"
     },
     {
+      "id": "935e1ae761ef571e568c016bf3f2db9dee8af7ca629e9e19c38a53867619721d",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "The Copper Surplus Mirage: Why A Tariff Rejection Could Be A Buying Opportunity",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-09-26T15:28:15.000Z"
+    },
+    {
+      "id": "916d8e0b36bbbaf28643e78dbfca0f38227fff2d249fb480c1897943cfbf5a53",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Aluminium extrusion industry warns of factory closures as production falls",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-26T12:05:10.000Z"
+    },
+    {
       "id": "7846ca3946e3080a7ab4c6797688a5f4ee37b9afa39bd0c196f396ed4f2702b3",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4737,16 +4787,6 @@
       "publishedAt": "2026-09-24T11:30:42.000Z"
     },
     {
-      "id": "b63a42ee9d651eb56745dffc3f5dcbde9a37b10398ad1993162ec36917fa2902",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Hits a Record $6.83 a Pound as Mine Disasters Choke Supply",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Startup Fortune",
-      "publishedAt": "2026-09-25T07:33:45.000Z"
-    },
-    {
       "id": "f445731a19bbccc4288676d4e9e2e8be720b3eb802be78ed6186f30dcf5cea7a",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4785,6 +4825,16 @@
       "codexStatus": "PENDING",
       "source": "Yahoo Finance",
       "publishedAt": "2026-09-26T08:09:48.000Z"
+    },
+    {
+      "id": "968a5061d017e620284a49429571674792e1aa30664c530cc36063d731d55f21",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Kantra Copper Limited: Performance & Quotes, KAN Stock Price on Australian S.E. Exchange",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-09-26T06:28:19.000Z"
     },
     {
       "id": "08a6cfb6c0099a2e7a359cc27283499133e0244a5bebec312e4a6d0edab1f47f",
@@ -4827,6 +4877,16 @@
       "publishedAt": "2026-09-25T16:03:58.000Z"
     },
     {
+      "id": "b63a42ee9d651eb56745dffc3f5dcbde9a37b10398ad1993162ec36917fa2902",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Hits a Record $6.83 a Pound as Mine Disasters Choke Supply",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Startup Fortune",
+      "publishedAt": "2026-09-25T07:33:45.000Z"
+    },
+    {
       "id": "30abd66b4fdccdfb76f0ccb0b8e2e51b6b6def843590c1861ae5bce7ec50a33a",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4845,6 +4905,16 @@
       "codexStatus": "PENDING",
       "source": "Breakwave Advisors",
       "publishedAt": "2026-09-25T06:17:33.000Z"
+    },
+    {
+      "id": "539e750a88444ce4c47b23a0f9298fd53c25e63c392fe502e577d23bf3be78b1",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Idaho Copper to Present on Idaho Mining Panel at the 2026 Mining and Energy Expo",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Energy Digital",
+      "publishedAt": "2026-09-25T06:14:50.000Z"
     }
   ]
 }
