@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T23:38:22.857Z",
+  "generatedAt": "2026-09-27T01:50:17.208Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -4581,47 +4581,6 @@
       "analyzedAt": null
     },
     {
-      "id": "e01ccbbe081dc8d008670938af82a86c1ca5acfa2d71f56154ed16414281ed0d",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Tight Supply Coupled With a Recovery in Rigid Demand Lifted Spot Premiums for North China Copper Cathode During the Week [SMM North China Spot Copper Cathode Weekly Review]",
-      "summary": "Tight Supply Coupled With a Recovery in Rigid Demand Lifted Spot Premiums for North China Copper Cathode During the Week [SMM North China Spot Copper Cathode Weekly Review] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWjdFMmZwNjBPZzZWTHVvTEZETGpIQXhKRkpFcVlzcjhrYmNZQWNtbEI3TkQ1NEwzOFFIXzBDZXNKX3MzcWsyZkluTGl0Y3Ria1EyVUtvZ1RpWnh5RHNtYUZjT0laRUJLaFI4SVZfOHNISHZ2MzdlbGozZmhTWG8zM1VMVGMzWDl0dmd5NmlFQ3pJbkJ3SjFoM1ZhZ3Q4N1VhLUNZLWthX0Z1Wm41MEpoMTFueXNvTE9kR1lNR2VNeFNkdzNTSW8wbmZub0hadEpsUWcyUUZVem9CbkNtOWVqYy10WUVxenV3cDJkQ3hlY3pYcHZOeXpxbkNsR3I?oc=5",
-      "publishedAt": "2026-08-28T01:25:17.000Z",
-      "priority": 40,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "DEMAND",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Tight Supply Coupled With a Recovery in Rigid Demand Lifted Spot Premiums for North China Copper Cathode During the Week [SMM North China Spot Copper Cathode Weekly Review] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-28T05:40:19.784Z",
-      "updatedAt": "2026-08-28T05:40:19.784Z",
-      "analyzedAt": null
-    },
-    {
       "id": "d4521d38b23502d5dbc246b99ca3169d144cdddeba17e145ef98c59b8036d247",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -6020,48 +5979,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-24T11:48:58.581Z",
       "updatedAt": "2026-09-24T11:48:58.581Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "181a971ddf573e6145e595ce81d6a95ed4dd12f173c85581b65136d5642edb8f",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Woman suing Colorado's Copper Mountain over coaster accident",
-      "summary": "Woman suing Colorado's Copper Mountain over coaster accident CBS News",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcnpHVTY1cXUtNnZSTmhlZHJxWUxLMmVqZ0M2V1BqVzk4ZkJsUFhpUjV3LXVvWEc3X2pMbURJZ1Rjbms3TVBRUGZiZEpUVnhiTWJvQUgzWXY3QVVTRkltTFZVN3QxaFIyYkw0ZmNzVjlYVm5DS3N1Zi1kS3dkdkJhZXBUN21hY0p5d2JDWjBxTEJObHl3d3kteUdhSDBFLXJ0?oc=5",
-      "publishedAt": "2026-08-27T23:56:00.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Operational Accident",
-        "categories": [
-          "ACCIDENT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Woman suing Colorado's Copper Mountain over coaster accident CBS News",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "accident"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-28T00:10:19.764Z",
-      "updatedAt": "2026-08-28T19:10:19.876Z",
       "analyzedAt": null
     },
     {
@@ -16169,43 +16086,6 @@
       "analyzedAt": null
     },
     {
-      "id": "e38030e75ca14a4845216dbda287a7dc1126bb64b5e168abd236fb5b11a9f76e",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "아르헨티나·칠레, 국경 넘는 광산개발 협력 재개…구리 투자 207억 달러 기대",
-      "summary": "아르헨티나·칠레, 국경 넘는 광산개발 협력 재개…구리 투자 207억 달러 기대 더구루",
-      "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53QzhGajNjbGpOc1Vhc3BoSUhYYnhRR2puZS1nVFJrb2ZxOURqV05DZWFXcDdUSWY1Y0xIYm9abXNtQVBRSXRMUzIwYkxIWF9LUWV1aEthVUlLLUZOZ25QNXcyY0t3QQ?oc=5",
-      "publishedAt": "2026-08-28T01:17:14.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "아르헨티나·칠레, 국경 넘는 광산개발 협력 재개…구리 투자 207억 달러 기대 더구루",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-28T01:40:19.769Z",
-      "updatedAt": "2026-08-28T01:40:19.769Z",
-      "analyzedAt": null
-    },
-    {
       "id": "1ac707146d0e794ada5393db26c5bf249316c97cb3ad55fb7ee60472bc203699",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -17625,6 +17505,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-26T23:38:22.857Z",
       "updatedAt": "2026-09-26T23:38:22.857Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "39c273075ed4fde3815eeca19d1d17e31cb3267448757b5397137115bea59453",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "2035년 알루미늄 복합 패널 시장 전망: 방화 클래딩 수요와 도시 건설이 성장 견인 - 뉴스 및 통계",
+      "summary": "2035년 알루미늄 복합 패널 시장 전망: 방화 클래딩 수요와 도시 건설이 성장 견인 - 뉴스 및 통계 indexbox.io",
+      "source": "indexbox.io",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNDhfbi0tM1gydUw0Y3hQTG9UckVqZVpIbFVib0RqQ3lJVUJiTGNDWHUzVklrdXlWc2FpUUFDN19TeEhEcFpFVUNsbmIyUFBHMVFXNVhOSkVPOHFlSnRkSFhFTy1FSGk1YURqSVU5b3RiRFoxN1BuZ1VPa1luZXQ3WFJYcklsY1N6R2xndzNndmNjTFZmczgxSF9LTUl2N3RNRzhhZW5weXlfYnpZbUlVdzhlRVFfUGJNTDM5MlgxYW40VHJNT25KV2pEclhuQkRmckYwWVA0a3dsZw?oc=5",
+      "publishedAt": "2026-09-26T23:11:05.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "2035년 알루미늄 복합 패널 시장 전망: 방화 클래딩 수요와 도시 건설이 성장 견인 - 뉴스 및 통계 indexbox.io",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-27T01:50:17.208Z",
+      "updatedAt": "2026-09-27T01:50:17.208Z",
       "analyzedAt": null
     },
     {
