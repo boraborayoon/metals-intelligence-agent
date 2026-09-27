@@ -1,6 +1,119 @@
 {
-  "generatedAt": "2026-09-27T18:26:09.342Z",
+  "generatedAt": "2026-09-27T21:38:39.332Z",
   "items": [
+    {
+      "id": "66a180a04fcc92c5cdda5fd55b38507b3fadd50e526bf47a75dac60e8ba1af80",
+      "titleSourceHash": "43e778972ff0343678270ecc637967ec832dac04f99e2586cd6b9d1a6e3eb819",
+      "eventId": "8df442bfa124a235296d82730f2a89f9bc6d296acefb9ae9f08fe909b848ba49",
+      "title": "Race Result | 27 Sep 2026 | Sha Tin | Race 1 TROPICBIRD HANDICAP | HK Racing",
+      "normalizedTitle": "race result 27 sep 2026 sha tin race 1 tropicbird handicap hk racing",
+      "description": "Race Result | 27 Sep 2026 | Sha Tin | Race 1 TROPICBIRD HANDICAP | HK Racing South China Morning Post",
+      "source": "South China Morning Post",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-27T19:07:06.000Z",
+      "fetchedAt": "2026-09-27T21:38:39.332Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQdlpVakZFNGNKQXptNU9CTU1HN2toaU80WXJ4WXlNLVh2ZkV5bG5Ib1RqUUFLbm16R0FPVjkzQ3VyMU5rcVB6Y0gwdnFaWTNyRzk3NHNXM2pReWZKdV9qcHhDMVNJUWc?oc=5",
+      "language": "en",
+      "commodity": "TIN",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "tin"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "China"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "TIN",
+          "score": 8,
+          "matchedKeywords": [
+            "tin"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "China"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "CHINA"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Race Result | 27 Sep 2026 | Sha Tin | Race 1 TROPICBIRD HANDICAP | HK Racing",
+      "summaryKo": "Race Result | 27 Sep 2026 | Sha Tin | Race 1 TROPICBIRD HANDICAP | HK Racing South China Morning Post",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "China"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Race Result | 27 Sep 2026 | Sha Tin | Race 1 TROPICBIRD HANDICAP | HK Racing South China Morning Post",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Race Result | 27 Sep 2026 | Sha Tin | Race 1 TROPICBIRD HANDICAP | HK Racing South China Morning Post",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 18,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
     {
       "id": "b70db5dcadddfec2cf7ff7847b39d70676171b3145c01d4c5fddaef92a2740bc",
       "titleSourceHash": "19f2433e348b8e02b9e007decdd92455a8547983ff85f0690ad26b224a44f86c",
@@ -107,119 +220,6 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-09-27T18:26:09.342Z"
-    },
-    {
-      "id": "66a180a04fcc92c5cdda5fd55b38507b3fadd50e526bf47a75dac60e8ba1af80",
-      "titleSourceHash": "43e778972ff0343678270ecc637967ec832dac04f99e2586cd6b9d1a6e3eb819",
-      "eventId": "8df442bfa124a235296d82730f2a89f9bc6d296acefb9ae9f08fe909b848ba49",
-      "title": "Race Result | 27 Sep 2026 | Sha Tin | Race 1 TROPICBIRD HANDICAP | HK Racing",
-      "normalizedTitle": "race result 27 sep 2026 sha tin race 1 tropicbird handicap hk racing",
-      "description": "Race Result | 27 Sep 2026 | Sha Tin | Race 1 TROPICBIRD HANDICAP | HK Racing South China Morning Post",
-      "source": "South China Morning Post",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-27T17:39:53.000Z",
-      "fetchedAt": "2026-09-27T18:26:09.342Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQdlpVakZFNGNKQXptNU9CTU1HN2toaU80WXJ4WXlNLVh2ZkV5bG5Ib1RqUUFLbm16R0FPVjkzQ3VyMU5rcVB6Y0gwdnFaWTNyRzk3NHNXM2pReWZKdV9qcHhDMVNJUWc?oc=5",
-      "language": "en",
-      "commodity": "TIN",
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "tin"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "TIN",
-          "score": 8,
-          "matchedKeywords": [
-            "tin"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "CHINA"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Race Result | 27 Sep 2026 | Sha Tin | Race 1 TROPICBIRD HANDICAP | HK Racing",
-      "summaryKo": "Race Result | 27 Sep 2026 | Sha Tin | Race 1 TROPICBIRD HANDICAP | HK Racing South China Morning Post",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Race Result | 27 Sep 2026 | Sha Tin | Race 1 TROPICBIRD HANDICAP | HK Racing South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Race Result | 27 Sep 2026 | Sha Tin | Race 1 TROPICBIRD HANDICAP | HK Racing South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 18,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
     },
     {
       "id": "a3fb499b938d84402edffce999132edb51f810d704fa2915158b3f3e67129cd6",
@@ -442,6 +442,125 @@
       "sentAt": "2026-09-27T18:26:09.342Z"
     },
     {
+      "id": "456df4a699627a482a7ac18550021b8462299408ad61f5f8bc8c57a13ba51470",
+      "titleSourceHash": "fc5bc537ba7e757a592facbcdd90d7d8cd0f3bd176e3a43e1ac60a62012baf51",
+      "eventId": "e8d5cf0c964e8442eac34e14fb0a1d4478bfa982977278401422f79e24cbe212",
+      "title": "Taranaki firm urges action as cheap aluminium imports from China undercut local products",
+      "normalizedTitle": "taranaki firm urges action as cheap aluminum imports from china undercut local products",
+      "description": "Taranaki firm urges action as cheap aluminium imports from China undercut local products thepost.co.nz",
+      "source": "thepost.co.nz",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-27T15:00:00.000Z",
+      "fetchedAt": "2026-09-27T21:38:39.332Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObFdqUjE0OUdDUWUzUUNibVlIbFZ3ZWlHVngzOGpiVG1ucHpZSFpHVENwM2xMUnFyRDdQbUdITDlVWTFjRi03aUtfYllGMnd6MlJvOGVxRHNXQkc4c0ZDcUJnS1oxRWd4TThkU1lsbHRoR0plRlFtVUc2NmhtS2hMS2s0UVZ4a0NRb0diNjhCcDA0QXJ3QmVXZjFfenZFYk5LNURpS1BXSlF0ZjZUbXQzZGtVb0tkSEJKVm5RdUo2NFZTUQ?oc=5",
+      "language": "en",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "aluminium"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "China"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 8,
+          "matchedKeywords": [
+            "aluminium"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "China"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "LOGISTICS",
+        "IMPORT",
+        "CHINA"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Taranaki firm urges action as cheap aluminium imports from China undercut local products",
+      "summaryKo": "Taranaki firm urges action as cheap aluminium imports from China undercut local products thepost.co.nz",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "China"
+      ],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "LOGISTICS",
+          "IMPORT",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Taranaki firm urges action as cheap aluminium imports from China undercut local products thepost.co.nz",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "LOGISTICS",
+          "IMPORT",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Taranaki firm urges action as cheap aluminium imports from China undercut local products thepost.co.nz",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 29,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-27T21:38:39.332Z"
+    },
+    {
       "id": "64b4a27abcf1f76586bb90831d141e148370c850c96b364acd1bc246a3b18d3d",
       "titleSourceHash": "e0322e2605614bc7cec8d192b9e0f00ce10a65327134593f326bd47bdcaf388a",
       "eventId": "0ee1167b7d3538169802a3df270f3b4c8c350a9a9004fe3b9b088b81d57f1970",
@@ -655,6 +774,109 @@
       "sentAt": null
     },
     {
+      "id": "52f050a0244bf24ef8181647104122e610e9c1ceb7c0ce30352a8cea5e0737cb",
+      "titleSourceHash": "26d6a7a0c6d87a27052f5402ad0e7df3c6a892e2152407d6a64f697e9c0f5c30",
+      "eventId": "f3c9968870cbcd64e37141145fe80f87ac04696fe4245fcf519fa22eeb293da1",
+      "title": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026",
+      "normalizedTitle": "aluminum extrusion msmes need smarter capital lower costs and stronger scale economics - aluminum bharat 2026",
+      "description": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026 BigMint",
+      "source": "BigMint",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-27T13:21:27.000Z",
+      "fetchedAt": "2026-09-27T21:38:39.332Z",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUTJJbU5yajBTMVVKdmtfN0N5WUJ0cDJLVktManpiVFBKZTZQcVZHWDRaQkpBYVFNRUVKOE1fQlJvTUhlSHcwQy03VmQ0Z2hJbk5ZQzh6aEVRbXZkQ0lVRzdwcV8wVVNwRHNpMko1UnBwZzgwUkhYZlQ4cXRoNWVmV3lMdXduT2Q0MnBkaW0wR3lVS0JGTTZIbnI2bTdTWHN0bG5LUm5YRkliSGhOeUF3cmYtN2xJbUpubGV2Qkp1V2s3R2VRLUZKeGc0VGlqZ0VkT0ZvRU83N2JibjhiOFE?oc=5",
+      "language": "en",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "aluminium"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 6,
+          "matchedKeywords": [
+            "aluminium"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "COMPANY"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026",
+      "summaryKo": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026 BigMint",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026 BigMint",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026 BigMint",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 12,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
       "id": "f02d4d7952b30916bb24fbb576efdab81d2e09b429abe7a3bb297dbff01ba4ae",
       "titleSourceHash": "a5d00ac35325870596ecea6c35bd7a359a2b4f470c92deaa71fde36b5dc2cd38",
       "eventId": "4190393182180faf3560ddc0fef5172abb1703a55cedfa60b67897d15831e79b",
@@ -664,7 +886,7 @@
       "source": "Yahoo Finance",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-27T12:02:00.000Z",
-      "fetchedAt": "2026-09-27T18:26:09.342Z",
+      "fetchedAt": "2026-09-27T21:38:39.332Z",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYXpEcU1WYXZzTUhnbUlLTVgyWkZJd1E4UGV0OTRpXzNpSHJfb1B2cTRXaDBDRHJ0RUJfZzg4bFBZOUhJWHA5dERsLXg0MUJzWlNIYjI2OVAtMTZFejIxRVUyY3JmMWtIYUVla0sxRVBVbzdsajk1SXIwN3RoSjZUNFdMR0J1eWkxT1Q2ck50Zk5BOWZPZVJsU3M3c2w4WFBt?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -769,15 +991,15 @@
     },
     {
       "id": "a51adf02dc7a1bc39ed860b9b8830d1a19f8091f4150bffef46aa7867a3f30fb",
-      "titleSourceHash": "02a728597b25dc8e3293567a52d8c07505c84f16f5e7136a577928e02466424a",
+      "titleSourceHash": "92b6ebf8af90d0814c3b5a2b45aafdfa9687205c2edcc31a3bf6c926dea76d91",
       "eventId": "f63f400bca7441c5ae5b2b0510a285e4ea79aa5e10f4850d1a2813b32604923c",
       "title": "Visionary Copper & Gold Phase 2 Drilling to Define Kraken Copper Zone in Pt. Leamington Resource",
       "normalizedTitle": "visionary copper & gold phase 2 drilling to define kraken copper zone in pt leamington resource",
-      "description": "Visionary Copper & Gold Phase 2 Drilling to Define Kraken Copper Zone in Pt. Leamington Resource Crux Investor",
-      "source": "Crux Investor",
+      "description": "Visionary Copper & Gold Phase 2 Drilling to Define Kraken Copper Zone in Pt. Leamington Resource cruxinvestor.com",
+      "source": "cruxinvestor.com",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-27T10:53:16.000Z",
-      "fetchedAt": "2026-09-27T18:26:09.342Z",
+      "fetchedAt": "2026-09-27T21:38:39.332Z",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFhNUUE1cUNrRGp6MGVtdGM4NW5FZnhBTU1MbGd5RVd3Z2dEeVpsbm9kQ3E4cEJTeWdCT256WDZyVklmZ2VsWmk5LXU1MEYwaWR2SnZUNTBqdFp2aWNnZDVIdW9rRmtDVXRUTVJEOXF6N0E3ZVR1UE9IYmRkVnAyaW82TWV3Mno1bmU5U3IyLWFOV25fSkQzU19md21RMTlOekdrYVgydkZkQlM2V0plSTllVUtjYTlZcmJsQjh4Uy1yV0lHVGlr?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -809,7 +1031,7 @@
       ],
       "primaryCategory": "General",
       "titleKo": "Visionary Copper & Gold Phase 2 Drilling to Define Kraken Copper Zone in Pt. Leamington Resource",
-      "summaryKo": "Visionary Copper & Gold Phase 2 Drilling to Define Kraken Copper Zone in Pt. Leamington Resource Crux Investor",
+      "summaryKo": "Visionary Copper & Gold Phase 2 Drilling to Define Kraken Copper Zone in Pt. Leamington Resource cruxinvestor.com",
       "marketImpact": "Unclear",
       "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
       "procurementImpact": "UNCLEAR",
@@ -835,7 +1057,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Visionary Copper & Gold Phase 2 Drilling to Define Kraken Copper Zone in Pt. Leamington Resource Crux Investor",
+        "summary": "Visionary Copper & Gold Phase 2 Drilling to Define Kraken Copper Zone in Pt. Leamington Resource cruxinvestor.com",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -855,7 +1077,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Visionary Copper & Gold Phase 2 Drilling to Define Kraken Copper Zone in Pt. Leamington Resource Crux Investor",
+        "summary": "Visionary Copper & Gold Phase 2 Drilling to Define Kraken Copper Zone in Pt. Leamington Resource cruxinvestor.com",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -28444,7 +28666,7 @@
       "source": "Georgia Laurie",
       "feedSource": "International Tin Association",
       "publishedAt": "2026-09-22T08:02:39.000Z",
-      "fetchedAt": "2026-09-27T18:26:09.342Z",
+      "fetchedAt": "2026-09-27T21:38:39.332Z",
       "url": "https://www.internationaltin.org/tin-could-help-solar-cells-hold-onto-lost-energy",
       "language": "en",
       "commodity": "TIN",
@@ -33452,227 +33674,6 @@
       "codexReviewReason": null,
       "sent": false,
       "sentAt": null
-    },
-    {
-      "id": "207e975ad62d416b036b9dce7a3a1727d84e3457981261fe2e7a2fbfe1f6c84f",
-      "titleSourceHash": "c2683e5e3d5c5f291d585032e9837b46d79e76193ef4438308a51ba766eeb314",
-      "eventId": "1b92e14bc08151f5d68c72f06c5e6573587404caccb4474721371170c0f4a33e",
-      "title": "Southern Copper (SCCO) Increases Yet Falls Behind Market: What Investors Need to Know",
-      "normalizedTitle": "southern copper scco increases yet falls behind market what investors need to know",
-      "description": "Southern Copper (SCCO) Increases Yet Falls Behind Market: What Investors Need to Know Yahoo Finance",
-      "source": "Yahoo Finance",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-21T21:45:04.000Z",
-      "fetchedAt": "2026-09-22T14:56:19.845Z",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNTJkLUxfYVBXemZ6ZUMtQUFqSlpzV3ZpNFhLa0gzSnp6NHhMejBVcEhiY2tNc1FsT3hiZFBQMmFFTmlJWXh6MUJ6X3R4ZWhQRThqVDlCLVVtY3d4R2VNYlpscHA0UXM0TVVpOXQ1ZExlaEVkOUQwNF9XZFVINS1aTGlZT09FbjR2UTJCMU1aMzZacFd4NVRUMkowNHoxQmFp?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [
-        "Southern Copper"
-      ],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [
-            "Southern Copper"
-          ],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "COMPANY"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Southern Copper (SCCO) Increases Yet Falls Behind Market: What Investors Need to Know",
-      "summaryKo": "Southern Copper (SCCO) Increases Yet Falls Behind Market: What Investors Need to Know Yahoo Finance",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [
-        "Southern Copper"
-      ],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Southern Copper (SCCO) Increases Yet Falls Behind Market: What Investors Need to Know Yahoo Finance",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Southern Copper (SCCO) Increases Yet Falls Behind Market: What Investors Need to Know Yahoo Finance",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "948ad24dc47b5cd6776ee855f957e2686dc80c5499745b9ee93e767d79b119b3",
-      "titleSourceHash": "c662d80eb25c544ba0b17fde450ac8fd614063c901dab57538bfcc4350e5ca50",
-      "eventId": "55433c2ec1b18cb07e6306969b1ac4e65c6491b413d11af1e54bf5570db1c318",
-      "title": "Tulsa Ports explores legal action over Inola aluminum smelter initiative",
-      "normalizedTitle": "tulsa ports explores legal action over inola aluminum smelter initiative",
-      "description": "Tulsa Ports explores legal action over Inola aluminum smelter initiative News On 6",
-      "source": "News On 6",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-21T21:03:40.000Z",
-      "fetchedAt": "2026-09-21T21:05:32.674Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEFBZzU4SlpUQktlZEFvQ1VMcDk0SkgxVDJJTHRobkZQSzQzalk4M3QyRHlsUnBseXJtS2lDdHVRN012V3pzbnV3Q0F5SVdOaVNhRVF2WXBBdy00TEI5dW9CNklMeGhrUUYtMmJtN0pTel9PaHV6d2RmS29RUGpPbmVZZWh0ZXlxQnhmQmlrWURQOUQxMHRvSXltdW5yTS01UEh6Nw?oc=5",
-      "language": "en",
-      "commodity": "ALUMINUM",
-      "relevanceScore": 13,
-      "matchedKeywords": [
-        "aluminum",
-        "aluminum smelter"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "smelter"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "ALUMINUM",
-          "score": 13,
-          "matchedKeywords": [
-            "aluminum",
-            "aluminum smelter"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "smelter"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "SMELTER",
-        "LOGISTICS"
-      ],
-      "primaryCategory": "Smelter",
-      "titleKo": "Tulsa Ports explores legal action over Inola aluminum smelter initiative",
-      "summaryKo": "Tulsa Ports explores legal action over Inola aluminum smelter initiative News On 6",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
-        "categories": [
-          "SMELTER",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Tulsa Ports explores legal action over Inola aluminum smelter initiative News On 6",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
-        "categories": [
-          "SMELTER",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Tulsa Ports explores legal action over Inola aluminum smelter initiative News On 6",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 38,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": true,
-      "sentAt": "2026-09-21T21:05:32.674Z"
     }
   ]
 }
