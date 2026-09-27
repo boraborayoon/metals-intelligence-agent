@@ -1,56 +1,60 @@
 {
-  "generatedAt": "2026-09-27T14:00:58.684Z",
+  "generatedAt": "2026-09-27T18:26:09.342Z",
   "items": [
     {
-      "id": "ef7d1e1e716ad7791d418fc2c25b5192f7c366f06a35315958be21574be889b3",
-      "titleSourceHash": "26d6a7a0c6d87a27052f5402ad0e7df3c6a892e2152407d6a64f697e9c0f5c30",
-      "eventId": "f3c9968870cbcd64e37141145fe80f87ac04696fe4245fcf519fa22eeb293da1",
-      "title": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026",
-      "normalizedTitle": "aluminum extrusion msmes need smarter capital lower costs and stronger scale economics - aluminum bharat 2026",
-      "description": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026 BigMint",
+      "id": "b70db5dcadddfec2cf7ff7847b39d70676171b3145c01d4c5fddaef92a2740bc",
+      "titleSourceHash": "19f2433e348b8e02b9e007decdd92455a8547983ff85f0690ad26b224a44f86c",
+      "eventId": "267ba0e0bff4f459a80b4b2de13ed26149f814ddf838dc3eccc269dd2c3bcea1",
+      "title": "Aluminium businesses are moving from price prediction to disciplined risk management - Aluminium Bharat 2026",
+      "normalizedTitle": "aluminum businesses are moving from price prediction to disciplined risk management - aluminum bharat 2026",
+      "description": "Aluminium businesses are moving from price prediction to disciplined risk management - Aluminium Bharat 2026 BigMint",
       "source": "BigMint",
       "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-27T13:31:58.000Z",
-      "fetchedAt": "2026-09-27T14:00:58.684Z",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVUo1d19CbUFwN3NxMUV4dnYtYzQwLU1FYm8zcG84T3NxS1RrZVJsR1BVc0VEZ1AxdFM5bzc2Sk5NX3RiTE8xeF9rMC1UUUdSalIyRS0wMzNBNFR0cGhHWU91NVA4V0pYejBJRWl2eGxHSmxhUXl6UC1LOXMtQTlYbEFrZTBtRUpsY2w2b2hkRmNtRFpBYXJwbk82Rmw4eXJYa2F4MXNQSGxDd3dvU2tXT3JqdVBwcnBYRVFNVi1WalZRTkpVbktpeFJuV0VnUmtOS2FtZHpJVk85WUVGYzc2UUp6SUx3eDEzODQ4?oc=5",
+      "publishedAt": "2026-09-27T18:22:34.000Z",
+      "fetchedAt": "2026-09-27T18:26:09.342Z",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNXNOS0lpMWVYaXg0SnZUWFhPU1RsMXhaRXZCVXhjTnZlRFRILWhfV1diWE80UFNqalZGcnBfRzdJUi1qa0NVMl9MMnRaMFVOSG5MdXJLSV8zRHBGY3hkUXdWS2c4NDJmNjJscFgzbjFFbTFZenZzV1FLei1JNTY5ZzVWSklxaWRDT2VpVUZzNXp6WmJvR2U5cWZLbFZfSnlZYVpVRFNSRnJPTHRHZDl0YlR3Nm95NTNUQlVoMW13aUx3UUE1THFYZVhUWkU5TUNHU1NLUmRpVEVQQmxaQkxaWG5oRDRJZTQ?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
-      "relevanceScore": 6,
+      "relevanceScore": 11,
       "matchedKeywords": [
         "aluminium"
       ],
       "matchedCompanies": [],
       "matchedRegions": [],
-      "matchedMarketTerms": [],
+      "matchedMarketTerms": [
+        "price"
+      ],
       "exclusionReason": null,
       "commodityMatches": [
         {
           "commodity": "ALUMINUM",
-          "score": 6,
+          "score": 11,
           "matchedKeywords": [
             "aluminium"
           ],
           "matchedCompanies": [],
           "matchedRegions": [],
-          "matchedMarketTerms": [],
+          "matchedMarketTerms": [
+            "price"
+          ],
           "exclusionReason": null
         }
       ],
       "subCommodity": null,
-      "importance": "LOW",
+      "importance": "MEDIUM",
       "categories": [
-        "COMPANY"
+        "PRICE"
       ],
       "primaryCategory": "General",
-      "titleKo": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026",
-      "summaryKo": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026 BigMint",
+      "titleKo": "Aluminium businesses are moving from price prediction to disciplined risk management - Aluminium Bharat 2026",
+      "summaryKo": "Aluminium businesses are moving from price prediction to disciplined risk management - Aluminium Bharat 2026 BigMint",
       "marketImpact": "Unclear",
       "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
       "procurementImpact": "UNCLEAR",
       "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
       "regions": [],
       "companies": [],
-      "timeHorizon": "UNCLEAR",
+      "timeHorizon": "SHORT_TERM",
       "confidence": "LOW",
       "signals": [],
       "keyEvidence": [],
@@ -60,49 +64,49 @@
       "analysisMode": "RULE_BASED",
       "analysisSource": "RULE",
       "ruleAnalysis": {
-        "importance": "LOW",
+        "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
         "category": "General",
         "categories": [
-          "COMPANY"
+          "PRICE"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026 BigMint",
+        "summary": "Aluminium businesses are moving from price prediction to disciplined risk management - Aluminium Bharat 2026 BigMint",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
         "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
+        "timeHorizon": "SHORT_TERM",
         "signals": [],
         "urgent": false
       },
       "codexAnalysis": null,
       "effectiveAnalysis": {
-        "importance": "LOW",
+        "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
         "category": "General",
         "categories": [
-          "COMPANY"
+          "PRICE"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026 BigMint",
+        "summary": "Aluminium businesses are moving from price prediction to disciplined risk management - Aluminium Bharat 2026 BigMint",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
         "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
+        "timeHorizon": "SHORT_TERM",
         "signals": [],
         "urgent": false
       },
-      "priority": 16,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "priority": 36,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-27T18:26:09.342Z"
     },
     {
       "id": "66a180a04fcc92c5cdda5fd55b38507b3fadd50e526bf47a75dac60e8ba1af80",
@@ -113,8 +117,8 @@
       "description": "Race Result | 27 Sep 2026 | Sha Tin | Race 1 TROPICBIRD HANDICAP | HK Racing South China Morning Post",
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-27T13:07:06.000Z",
-      "fetchedAt": "2026-09-27T14:00:58.684Z",
+      "publishedAt": "2026-09-27T17:39:53.000Z",
+      "fetchedAt": "2026-09-27T18:26:09.342Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQdlpVakZFNGNKQXptNU9CTU1HN2toaU80WXJ4WXlNLVh2ZkV5bG5Ib1RqUUFLbm16R0FPVjkzQ3VyMU5rcVB6Y0gwdnFaWTNyRzk3NHNXM2pReWZKdV9qcHhDMVNJUWc?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -218,6 +222,552 @@
       "sentAt": null
     },
     {
+      "id": "a3fb499b938d84402edffce999132edb51f810d704fa2915158b3f3e67129cd6",
+      "titleSourceHash": "8dfe902f34e5a71a797e6746991de423b83c206a63af777da034d1733e5e3c99",
+      "eventId": "f6179b8389999a7787124129104e644a423dbc2a8c472f097951d82d363adbc7",
+      "title": "질화알루미늄 세라믹 시장 2035년 전망: SiC·GaN 전력 전자 수요가 성장 가속 - 뉴스 및 통계",
+      "normalizedTitle": "질화알루미늄 세라믹 시장 2035년 전망 sic·gan 전력 전자 수요가 성장 가속 - 뉴스 및 통계",
+      "description": "질화알루미늄 세라믹 시장 2035년 전망: SiC·GaN 전력 전자 수요가 성장 가속 - 뉴스 및 통계 IndexBox",
+      "source": "IndexBox",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-09-27T17:21:04.000Z",
+      "fetchedAt": "2026-09-27T18:26:09.342Z",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaEdySEVDZ0x0cGROYXVjS1pjOEFBMGpydkp2WmNMMTRNQlQtclRDNldoUldpM1ZXZVVIUkJrbGdIbUluZUhjMFdlWW9iOFQtdXNZVXJZRkgxM1lnNkhiT3lyOElhdE5sbGpWZF80a096X1RQRGN5dE0wTzlNXzRmaHBkaTFKdzBVbnFaaHoyWVM3VUE3akZuRlFucV85ZFhqOFA0cjhXZGNoOHpoSENBY0U5MjRiT3phV2tDb05NbjZNampnVTVfT0JtY3pDWGM?oc=5",
+      "language": "ko",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "알루미늄"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "수요"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 9,
+          "matchedKeywords": [
+            "알루미늄"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "수요"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "DEMAND",
+        "ENERGY"
+      ],
+      "primaryCategory": "Demand",
+      "titleKo": "질화알루미늄 세라믹 시장 2035년 전망: SiC·GaN 전력 전자 수요가 성장 가속 - 뉴스 및 통계",
+      "summaryKo": "질화알루미늄 세라믹 시장 2035년 전망: SiC·GaN 전력 전자 수요가 성장 가속 - 뉴스 및 통계 IndexBox",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND",
+          "ENERGY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "질화알루미늄 세라믹 시장 2035년 전망: SiC·GaN 전력 전자 수요가 성장 가속 - 뉴스 및 통계 IndexBox",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND",
+          "ENERGY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "질화알루미늄 세라믹 시장 2035년 전망: SiC·GaN 전력 전자 수요가 성장 가속 - 뉴스 및 통계 IndexBox",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-27T18:26:09.342Z"
+    },
+    {
+      "id": "e95abdb3f533ba5fed22a2a479c4fd312621173493a86e0da6fbc043a582a8fc",
+      "titleSourceHash": "d31dc630770a9f538a398a3f72c38262f4af826cb56e9bf35d03ac2301d75f16",
+      "eventId": "5c84576c391858535090ef299c8c7e3e894c09e5400a7e1d89b1e45ba907376c",
+      "title": "Copper Oxychloride Market To 2035: Crop Protection Demand Drives Expansion - News and Statistics",
+      "normalizedTitle": "copper oxychloride market to 2035 crop protection demand drives expansion - news and statistics",
+      "description": "Copper Oxychloride Market To 2035: Crop Protection Demand Drives Expansion - News and Statistics indexbox.io",
+      "source": "indexbox.io",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-27T16:41:04.000Z",
+      "fetchedAt": "2026-09-27T18:26:09.342Z",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMjVaaHJLNEpBSEhadE1uWm9UQjRNWGhNRTk2V2tPMWJ2a2xPOTFTdFpFNDdXWHBZOVFHTzZuVGM4Z0ZaaDNhLWpTQ2pUSk9iVXZXWk9MdEJBeGpLb3FqTlhsMFZ1ZTVoUDZSRGZiSTlRXzJFZ0M3cE1UZXBTYTB4X0tEMjhtSmRWTkZnMDdNRmo1NjhEOEt3MEl2NXVrTmFTaTNGZUNyUDJYWXl6MFFneWZVSWtMWFlYZjMwUFBNVVVGbFNTQ0E?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "demand"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "demand"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "DEMAND",
+        "CAPACITY"
+      ],
+      "primaryCategory": "Capacity",
+      "titleKo": "Copper Oxychloride Market To 2035: Crop Protection Demand Drives Expansion - News and Statistics",
+      "summaryKo": "Copper Oxychloride Market To 2035: Crop Protection Demand Drives Expansion - News and Statistics indexbox.io",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "MEDIUM_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Capacity",
+        "categories": [
+          "DEMAND",
+          "CAPACITY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Oxychloride Market To 2035: Crop Protection Demand Drives Expansion - News and Statistics indexbox.io",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Capacity",
+        "categories": [
+          "DEMAND",
+          "CAPACITY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Oxychloride Market To 2035: Crop Protection Demand Drives Expansion - News and Statistics indexbox.io",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-27T18:26:09.342Z"
+    },
+    {
+      "id": "64b4a27abcf1f76586bb90831d141e148370c850c96b364acd1bc246a3b18d3d",
+      "titleSourceHash": "e0322e2605614bc7cec8d192b9e0f00ce10a65327134593f326bd47bdcaf388a",
+      "eventId": "0ee1167b7d3538169802a3df270f3b4c8c350a9a9004fe3b9b088b81d57f1970",
+      "title": "Gold, Silver, and Copper Prices Are Gaining Steam: 2 Mining Stocks Back in Favour",
+      "normalizedTitle": "gold silver and copper prices are gaining steam 2 mining stocks back in favour",
+      "description": "Gold, Silver, and Copper Prices Are Gaining Steam: 2 Mining Stocks Back in Favour Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-27T14:00:00.000Z",
+      "fetchedAt": "2026-09-27T18:26:09.342Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTENZTmZSdnZ5Y0pYWFBxUnB4UVcxOE5pUEk3RjZscm03NTB0MHZBdEx4bFVWaVYxNUp5eGZoUFBGZEdjZHJGQkppb2NjNE5RWEpTd0REZ05Td0Vad0ZOVDFyc2dtbHBISGlaZkpUNWhWRnR2a2FzMFRMR09pRGFheWJGU3ZVTVNnWXc?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "mining"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "mining"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE",
+        "MINE"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "Gold, Silver, and Copper Prices Are Gaining Steam: 2 Mining Stocks Back in Favour",
+      "summaryKo": "Gold, Silver, and Copper Prices Are Gaining Steam: 2 Mining Stocks Back in Favour Yahoo! Finance Canada",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "PRICE",
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Gold, Silver, and Copper Prices Are Gaining Steam: 2 Mining Stocks Back in Favour Yahoo! Finance Canada",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "PRICE",
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Gold, Silver, and Copper Prices Are Gaining Steam: 2 Mining Stocks Back in Favour Yahoo! Finance Canada",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-09-27T18:26:09.342Z"
+    },
+    {
+      "id": "ef7d1e1e716ad7791d418fc2c25b5192f7c366f06a35315958be21574be889b3",
+      "titleSourceHash": "26d6a7a0c6d87a27052f5402ad0e7df3c6a892e2152407d6a64f697e9c0f5c30",
+      "eventId": "f3c9968870cbcd64e37141145fe80f87ac04696fe4245fcf519fa22eeb293da1",
+      "title": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026",
+      "normalizedTitle": "aluminum extrusion msmes need smarter capital lower costs and stronger scale economics - aluminum bharat 2026",
+      "description": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026 BigMint",
+      "source": "BigMint",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-27T13:31:58.000Z",
+      "fetchedAt": "2026-09-27T18:26:09.342Z",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVUo1d19CbUFwN3NxMUV4dnYtYzQwLU1FYm8zcG84T3NxS1RrZVJsR1BVc0VEZ1AxdFM5bzc2Sk5NX3RiTE8xeF9rMC1UUUdSalIyRS0wMzNBNFR0cGhHWU91NVA4V0pYejBJRWl2eGxHSmxhUXl6UC1LOXMtQTlYbEFrZTBtRUpsY2w2b2hkRmNtRFpBYXJwbk82Rmw4eXJYa2F4MXNQSGxDd3dvU2tXT3JqdVBwcnBYRVFNVi1WalZRTkpVbktpeFJuV0VnUmtOS2FtZHpJVk85WUVGYzc2UUp6SUx3eDEzODQ4?oc=5",
+      "language": "en",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "aluminium"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 6,
+          "matchedKeywords": [
+            "aluminium"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "COMPANY"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026",
+      "summaryKo": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026 BigMint",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026 BigMint",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Aluminium extrusion MSMEs need smarter capital, lower costs and stronger scale economics - Aluminium Bharat 2026 BigMint",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 16,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "f02d4d7952b30916bb24fbb576efdab81d2e09b429abe7a3bb297dbff01ba4ae",
+      "titleSourceHash": "a5d00ac35325870596ecea6c35bd7a359a2b4f470c92deaa71fde36b5dc2cd38",
+      "eventId": "4190393182180faf3560ddc0fef5172abb1703a55cedfa60b67897d15831e79b",
+      "title": "Peru Wants to Unlock a Copper Boom. Permits Are in the Way.",
+      "normalizedTitle": "peru wants to unlock a copper boom permits are in the way",
+      "description": "Peru Wants to Unlock a Copper Boom. Permits Are in the Way. Yahoo Finance",
+      "source": "Yahoo Finance",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-09-27T12:02:00.000Z",
+      "fetchedAt": "2026-09-27T18:26:09.342Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYXpEcU1WYXZzTUhnbUlLTVgyWkZJd1E4UGV0OTRpXzNpSHJfb1B2cTRXaDBDRHJ0RUJfZzg4bFBZOUhJWHA5dERsLXg0MUJzWlNIYjI2OVAtMTZFejIxRVUyY3JmMWtIYUVla0sxRVBVbzdsajk1SXIwN3RoSjZUNFdMR0J1eWkxT1Q2ck50Zk5BOWZPZVJsU3M3c2w4WFBt?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "Peru"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 8,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "Peru"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "REGULATION"
+      ],
+      "primaryCategory": "Regulation",
+      "titleKo": "Peru Wants to Unlock a Copper Boom. Permits Are in the Way.",
+      "summaryKo": "Peru Wants to Unlock a Copper Boom. Permits Are in the Way. Yahoo Finance",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "Peru"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Regulation",
+        "categories": [
+          "REGULATION"
+        ],
+        "region": "Peru",
+        "regions": [
+          "Peru"
+        ],
+        "summary": "Peru Wants to Unlock a Copper Boom. Permits Are in the Way. Yahoo Finance",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Regulation",
+        "categories": [
+          "REGULATION"
+        ],
+        "region": "Peru",
+        "regions": [
+          "Peru"
+        ],
+        "summary": "Peru Wants to Unlock a Copper Boom. Permits Are in the Way. Yahoo Finance",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 14,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
       "id": "a51adf02dc7a1bc39ed860b9b8830d1a19f8091f4150bffef46aa7867a3f30fb",
       "titleSourceHash": "02a728597b25dc8e3293567a52d8c07505c84f16f5e7136a577928e02466424a",
       "eventId": "f63f400bca7441c5ae5b2b0510a285e4ea79aa5e10f4850d1a2813b32604923c",
@@ -227,7 +777,7 @@
       "source": "Crux Investor",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-27T10:53:16.000Z",
-      "fetchedAt": "2026-09-27T14:00:58.684Z",
+      "fetchedAt": "2026-09-27T18:26:09.342Z",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFhNUUE1cUNrRGp6MGVtdGM4NW5FZnhBTU1MbGd5RVd3Z2dEeVpsbm9kQ3E4cEJTeWdCT256WDZyVklmZ2VsWmk5LXU1MEYwaWR2SnZUNTBqdFp2aWNnZDVIdW9rRmtDVXRUTVJEOXF6N0E3ZVR1UE9IYmRkVnAyaW82TWV3Mno1bmU5U3IyLWFOV25fSkQzU19md21RMTlOekdrYVgydkZkQlM2V0plSTllVUtjYTlZcmJsQjh4Uy1yV0lHVGlr?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -314,7 +864,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 16,
+      "priority": 12,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -27894,7 +28444,7 @@
       "source": "Georgia Laurie",
       "feedSource": "International Tin Association",
       "publishedAt": "2026-09-22T08:02:39.000Z",
-      "fetchedAt": "2026-09-27T14:00:58.684Z",
+      "fetchedAt": "2026-09-27T18:26:09.342Z",
       "url": "https://www.internationaltin.org/tin-could-help-solar-cells-hold-onto-lost-energy",
       "language": "en",
       "commodity": "TIN",
@@ -33123,548 +33673,6 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-09-21T21:05:32.674Z"
-    },
-    {
-      "id": "65c27f99da6d1106fdf4cb5a589c47ecc2741ca8da073780704f63e6e524c102",
-      "titleSourceHash": "de9fd0f67e4877315fe78733a0e1b913a2907d2f47554a8eaaaafce26fa8afb7",
-      "eventId": "09cc74dbd4c3d19e3f42089a89e1b0b62b4369e515d88999decba8dbd687f907",
-      "title": "Luca Mining To Acquire Cozamin Copper-Silver Mine For Up To $385 Million",
-      "normalizedTitle": "luca mining to acquire cozamin copper-silver mine for up to $385 million",
-      "description": "Luca Mining To Acquire Cozamin Copper-Silver Mine For Up To $385 Million pulse2.com",
-      "source": "pulse2.com",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-21T20:47:15.000Z",
-      "fetchedAt": "2026-09-22T09:59:34.613Z",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUc4bmNuYlBOcDRlWDhYNk5pZkV2dnhvVE5rWncwaXJZV3pZMkR6QUxQdlpGSnJET1ZlT3JsektmRnd0Rm1UVmNXc1RoV01ycUQwellmLUdabjMxLUQwZHNncGx5cnNMSDZZY1llOUt1eTRLY2IwUjdKcFdEVmFEeGVCVkdCRTJZbFhfV3ZkSWo1cXdRS2fSAZsBQVVfeXFMTjJ4YjFEbEdQOHJ4T0hqR0FGdU53Ti1uUDhLRUNtck13YU0yZVoyV25URGd0NG41YkE1SXhFbmN3cnYyQTFkSU85ZUN1Y3pSM3FybmZhd1lhMDZnRmpzb3NsS2k3QUlvMlRGb2NmMFJYOXdxdE1vWVBfYV9VOElUeW1FOG9VWFJ3cUl6REh2dElOVHFZSnVUcFJJMHM?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "mine",
-        "mining"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "mine",
-            "mining"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "MINE"
-      ],
-      "primaryCategory": "Mine",
-      "titleKo": "Luca Mining To Acquire Cozamin Copper-Silver Mine For Up To $385 Million",
-      "summaryKo": "Luca Mining To Acquire Cozamin Copper-Silver Mine For Up To $385 Million pulse2.com",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Luca Mining To Acquire Cozamin Copper-Silver Mine For Up To $385 Million pulse2.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Luca Mining To Acquire Cozamin Copper-Silver Mine For Up To $385 Million pulse2.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "e89aab5b11f31b517b133398ccb968834974f8c86382071928e332e6b35ff82c",
-      "titleSourceHash": "5a7befca6efcaedeb15c4cab1f568d6952eb95e82e51c3b1264191606cb7afce",
-      "eventId": "1307fe4bc49abde051ad341aa8f374d875213fd1d345189ceac019d33a4b1e6b",
-      "title": "Brazil: US defense contractors allegedly sourcing tin from White Solder, company facing allegations of illegal mining in the Yanomami Territory",
-      "normalizedTitle": "brazil us defense contractors allegedly sourcing tin from white solder company facing allegations of illegal mining in the yanomami territory",
-      "description": "Brazil: US defense contractors allegedly sourcing tin from White Solder, company facing allegations of illegal mining in the Yanomami Territory Business and Human Rights Centre",
-      "source": "Business and Human Rights Centre",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-21T20:21:22.000Z",
-      "fetchedAt": "2026-09-22T04:59:24.343Z",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNU3NzdGxZQUxlRzJUeHgtY1pnVDZuRFpQX1J5R18xWHMtTXJ1d1FvWVFOQS1SVjBVTFJJLWJLNzBVd2lpUzFfWjBKVmtyM2RYRzVyVUY1Ny1ySVNTUVBoVUJsZnk4NkFjallGeDNkbWszbGhiREE4R1ctZWxCX3VvaGRPOG9wWVdRUmJsLUZFZkJVRXBrN3A2UnhLYzJydWdxeXE4aS0zYUdubnZiVFVCQzZMZE9Kc1AtQlBpbmUyN1lacFFYSktVWXJxZDM0VVhabmFhSEdmQVdOVkJ3Mzg2NW1MbHlIQ1dsTHozcmpaNm9yVlVfamRyamhHWDFCQ3drM3FNczJrbW0?oc=5",
-      "language": "en",
-      "commodity": "TIN",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "tin"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "mining"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "TIN",
-          "score": 9,
-          "matchedKeywords": [
-            "tin"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "mining"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "MINE",
-        "COMPANY"
-      ],
-      "primaryCategory": "Mine",
-      "titleKo": "Brazil: US defense contractors allegedly sourcing tin from White Solder, company facing allegations of illegal mining in the Yanomami Territory",
-      "summaryKo": "Brazil: US defense contractors allegedly sourcing tin from White Solder, company facing allegations of illegal mining in the Yanomami Territory Business and Human Rights Centre",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Brazil: US defense contractors allegedly sourcing tin from White Solder, company facing allegations of illegal mining in the Yanomami Territory Business and Human Rights Centre",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Brazil: US defense contractors allegedly sourcing tin from White Solder, company facing allegations of illegal mining in the Yanomami Territory Business and Human Rights Centre",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "415e09b805ddeec1c637cb55303512ad20a6d970065413b1d435a41f7d3e1241",
-      "titleSourceHash": "52aa996f78447730c4188e09f6eef0169e62ffbac1e4ce8f31d3f8349177d4be",
-      "eventId": "02b51e9211cf0e6e7223cb7855c96645e8888999b86acdee550b08526c48b03b",
-      "title": "Collective Mining Highlights Strong Copper and Tungsten Metallurgical Results; Advances Apollo Flowsheet for 2027 Licensing Submission",
-      "normalizedTitle": "collective mining highlights strong copper and tungsten metallurgical results advances apollo flowsheet for 2027 licensing submission",
-      "description": "Collective Mining Highlights Strong Copper and Tungsten Metallurgical Results; Advances Apollo Flowsheet for 2027 Licensing Submission Investing News Network",
-      "source": "Investing News Network",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-21T20:01:31.000Z",
-      "fetchedAt": "2026-09-22T04:59:24.343Z",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbDVsQko5NTJxYXpERElZdTd0ZFhWcDlUWEFlc1dxb2ZZT19jaEo5LWE5WHRER0VlY25EYktJMlhNU2JLWmUzZXowVkhLclhuQUdMMXhHUFpXTzIwdGREYmNaTDNKbjBkOWRON2NOQ28xbnRVb1RHbUo4RlNrQXhrZTh0VDYxT0gxTXg3WnpXYjBxSmFXWmFCSGNqWWdVbjFYbEh1dmQwSS1Xczl5eWIyUGh2MS1XYTNyNGU2dXltUy1yc1BJekw2SnVETEM3dkNoWEdjWVV1azhjWkRHYU9DMWtMdFVpc1pGVGk0Qk9OaUVndw?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "mining"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "mining"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "MINE"
-      ],
-      "primaryCategory": "Mine",
-      "titleKo": "Collective Mining Highlights Strong Copper and Tungsten Metallurgical Results; Advances Apollo Flowsheet for 2027 Licensing Submission",
-      "summaryKo": "Collective Mining Highlights Strong Copper and Tungsten Metallurgical Results; Advances Apollo Flowsheet for 2027 Licensing Submission Investing News Network",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Collective Mining Highlights Strong Copper and Tungsten Metallurgical Results; Advances Apollo Flowsheet for 2027 Licensing Submission Investing News Network",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Collective Mining Highlights Strong Copper and Tungsten Metallurgical Results; Advances Apollo Flowsheet for 2027 Licensing Submission Investing News Network",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "47474f3133a28a4d8a3d89aa66ca8716e4a4da7cefb96c899acaf7b2a2d973e0",
-      "titleSourceHash": "615f3f55a236b74c1242de8acd0def7d2839b7a24874b858d3f64a19145ffa55",
-      "eventId": "aa4f4cb292964226371547308a2312dbbb0f1261dd708046d83fbd07e10f41af",
-      "title": "Top 5 China Aluminum Window Manufacturers: Products, Certifications, and Supplier Comparison",
-      "normalizedTitle": "top 5 china aluminum window manufacturers products certifications and supplier comparison",
-      "description": "Top 5 China Aluminum Window Manufacturers: Products, Certifications, and Supplier Comparison The National Law Review",
-      "source": "The National Law Review",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-21T19:33:38.000Z",
-      "fetchedAt": "2026-09-22T00:08:20.428Z",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVm9PS1l0ckZEYWVqNkJKaDhvRWIzMVhScEFIeUJMb3Eyd2Vxb1F5N3pNNGFySlIxMzI0dTFtWXF0bzlQZ0d0YVI5dXM2bzRlMklPNm9yN0NISGQ0VEpHTlZyTks3QTNYYkhUQ1hUMWV0c3otR3ZRYlpTN29IckhzNDhCWXJXNm5mVGZWclBJaWI1TjB5V25YYTJIYTlnd1lhZ0xNQ282VTBkVDRnamc?oc=5",
-      "language": "en",
-      "commodity": "ALUMINUM",
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "aluminum"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "ALUMINUM",
-          "score": 8,
-          "matchedKeywords": [
-            "aluminum"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "CHINA"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Top 5 China Aluminum Window Manufacturers: Products, Certifications, and Supplier Comparison",
-      "summaryKo": "Top 5 China Aluminum Window Manufacturers: Products, Certifications, and Supplier Comparison The National Law Review",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Top 5 China Aluminum Window Manufacturers: Products, Certifications, and Supplier Comparison The National Law Review",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Top 5 China Aluminum Window Manufacturers: Products, Certifications, and Supplier Comparison The National Law Review",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 18,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "bf9d4099d1aafbd7354128b06659ce9713fc75c7f0ea1c819850a67459bb2bc3",
-      "titleSourceHash": "ff73ab1199c7ff973e1c98983b08bd1eb97987b508175cba6815577511c3599c",
-      "eventId": "9ff0511d4c3c29aab907dfa573ef6b6f50c9d47dd5d1e9ea7b352d11fe843dc0",
-      "title": "토 람 총서기 겸 주석이 미국 공산당 공동주석을 접견하고 있다.",
-      "normalizedTitle": "토 람 총서기 겸 주석이 미국 공산당 공동주석을 접견하고 있다",
-      "description": "토 람 총서기 겸 주석이 미국 공산당 공동주석을 접견하고 있다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-09-21T19:30:08.000Z",
-      "fetchedAt": "2026-09-22T04:59:24.343Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT1dvSVBtRWc4VkV2WUJJS2xmUHFacFlCMmF4dXVaVk1RVUtwZThKbW03ZDktT2FGMlRLbFFoYnZsa3NyemVkeXZ3VXJJQkNlZjJMSVVPWS05ZTdSNXFaa0t1blBlVE9YX1U2cm1YQWNXNjZlVzE2ZURuanBkckp5QklMcWdIdVloMWd1NVVOY1ZROVpNOEh6eUZJRkpIV2s?oc=5",
-      "language": "ko",
-      "commodity": "TIN",
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "주석"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "TIN",
-          "score": 6,
-          "matchedKeywords": [
-            "주석"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "COMPANY"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "토 람 총서기 겸 주석이 미국 공산당 공동주석을 접견하고 있다.",
-      "summaryKo": "토 람 총서기 겸 주석이 미국 공산당 공동주석을 접견하고 있다. Vietnam.vn",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "토 람 총서기 겸 주석이 미국 공산당 공동주석을 접견하고 있다. Vietnam.vn",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "토 람 총서기 겸 주석이 미국 공산당 공동주석을 접견하고 있다. Vietnam.vn",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 12,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
     }
   ]
 }
