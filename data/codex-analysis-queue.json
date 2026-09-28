@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T23:59:47.736Z",
+  "generatedAt": "2026-09-28T05:26:58.736Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -3808,6 +3808,49 @@
       "analyzedAt": null
     },
     {
+      "id": "40e54bf7227e2cee8ed94862ddb6575bd067fb2591cd6f3cb93ebaf433139ac0",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "구리 현물 1만4700달러대 유지... 中 연휴·칠레 파업 변수[뭔데이 메탈]",
+      "summary": "구리 현물 1만4700달러대 유지... 中 연휴·칠레 파업 변수[뭔데이 메탈] 시장경제신문",
+      "source": "시장경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91TVRyUDhad1VCWWpUR2dYNUhZWnQzN3NCXzllaFo4VWpsU19UWmtoUVZuY1FuVDZvMTNFY1R1UDNDZ3kxVUJwY05hd2w4V2p4VjZnYzZNdFg1LWpMTUU2amVCb1JGcWR5bmhSZ1QyX1Q?oc=5",
+      "publishedAt": "2026-09-28T02:14:43.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE",
+          "FX"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "구리 현물 1만4700달러대 유지... 中 연휴·칠레 파업 변수[뭔데이 메탈] 시장경제신문",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "파업"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-28T05:26:58.736Z",
+      "updatedAt": "2026-09-28T05:26:58.736Z",
+      "analyzedAt": null
+    },
+    {
       "id": "e27de544e2ba21092126e843262a2a7b5850778b2cb37870b47aebd01254c2ba",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -5579,6 +5622,79 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-24T11:48:58.581Z",
       "updatedAt": "2026-09-24T11:48:58.581Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "3b6e71e1e3d1439bfe2faf49a95afa0996af95727a5a8d1f01b01ca07dea11b0",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "US bond fluctuations pressure nonferrous metals valuations, pre-holiday continued destocking supports short-term aluminum price consolidation [SMM Aluminum Morning Meeting Summary]",
+      "summary": "US bond fluctuations pressure nonferrous metals valuations, pre-holiday continued destocking supports short-term aluminum price consolidation [SMM Aluminum Morning Meeting Summary] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOMUVrdDlYaVE5SXZkZ0RHX1BaLWJvNmhiRzVnTjlhcXFmMGlOcFE2UG9ONDRXZEJLS1NjU1B1YVBKRjhLeGhJRG1TMXV2cEhNY3ZQTjBUeFZyVjluYkhfSVJPN2t3alYxbnJ4VzQyNzhjaWpfTks0Q3ppNkFxUnFFaXZGSGxGV2hZZjBKMmJXVTZON3hGR2tBeVllbEM5R2piX2J3UVdJQWtBWlloazBJMm1aTmZRQVR0MWlVNmhPM2pjVkFyX2hYcmJwbzAzZWZZdXprN1pqMUFwRnVDeFdsRnpqWjhMa0lXUmhhSnYtN2IzU1QxbFlJWVV3RE9kTmVILVRGbk9idGhjT0RjdUV3aUJyLUVNVldaVlJheGtlRmFrVDdJR29MS0hIZmVXS3BZaGdDS2NaOG9TM3MyUzZmS1ZPbzM?oc=5",
+      "publishedAt": "2026-09-28T01:54:00.000Z",
+      "priority": 39,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "US bond fluctuations pressure nonferrous metals valuations, pre-holiday continued destocking supports short-term aluminum price consolidation [SMM Aluminum Morning Meeting Summary] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-28T05:26:58.736Z",
+      "updatedAt": "2026-09-28T05:26:58.736Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "ab47565238526c05ee38decfcb98374216bf302c47cafe6de4cc5dbe4ec69dd8",
+      "commodity": "TIN",
+      "subCommodity": null,
+      "title": "LME tin closed at $54,550 on Sep 25, up 1.30%, with LME tin inventory down to 4,590 mt, destocking 85 mt [SMM Tin Morning News]",
+      "summary": "LME tin closed at $54,550 on Sep 25, up 1.30%, with LME tin inventory down to 4,590 mt, destocking 85 mt [SMM Tin Morning News] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNR0pjWWstVFJSeTNXV1l1T0tJZWdWRk1idTlSaEVrUU01SUpZVlhzRVRjWEVhMEhQeE1xZW42X1B0dTJGNDVlcnpFQXpFVURUTzI0SWdySEhjLXhnSmFsTFkwa1Zka0Nid2V0X0Q3SExualZzZEoweHA0WGFodkV0ZTREV1pQUUNHN0VEcmRIRW9KQ19PS2tDckVJbzlfeHp4eGJ0c0hvcjBmT1lidlo5cGVHMGIzRXphSElDTUVodXZJalp2YmgydEZ2VXJFTDhjRXIzaFlBQ1pMUTlIZFZ3SGhfZmVXYnp0WEdrMDJwY2ItUV9J?oc=5",
+      "publishedAt": "2026-09-28T00:51:00.000Z",
+      "priority": 39,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "INVENTORY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME tin closed at $54,550 on Sep 25, up 1.30%, with LME tin inventory down to 4,590 mt, destocking 85 mt [SMM Tin Morning News] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-28T05:26:58.736Z",
+      "updatedAt": "2026-09-28T05:26:58.736Z",
       "analyzedAt": null
     },
     {
@@ -9834,6 +9950,42 @@
       "analyzedAt": null
     },
     {
+      "id": "a6a3cb4f1f00a02a868e2caf1fe1f0448a64c719e2773dd358692a7d3743a6c9",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "국표원, 분광 분석법 용어 KS 폐지 및 알루미늄 제련 분석 표준 제·개정",
+      "summary": "국표원, 분광 분석법 용어 KS 폐지 및 알루미늄 제련 분석 표준 제·개정 철강금속신문",
+      "source": "철강금속신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmTlQ3ZUVJMVI3djFwYkhza3lDR2U3bWVFU19JMDgxTkw4cEFnMVEtNGxHQmRMR3JzTzI3dWo1VU1CenNDMW9uVlpTWms4MmlaN1dEa2NIMm9YWDVsQk5ZNUtscHRxNUVRaUE?oc=5",
+      "publishedAt": "2026-09-28T00:02:33.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Smelter",
+        "categories": [
+          "SMELTER"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "국표원, 분광 분석법 용어 KS 폐지 및 알루미늄 제련 분석 표준 제·개정 철강금속신문",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-28T05:26:58.736Z",
+      "updatedAt": "2026-09-28T05:26:58.736Z",
+      "analyzedAt": null
+    },
+    {
       "id": "15c09ea4de6cf2650ede3a2e0c0b9a9c29bc9f0484a00b9616d798c8f54bc797",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -10292,27 +10444,29 @@
       "analyzedAt": null
     },
     {
-      "id": "2948a1939b1b61451b6e7192cec385d8459b3f06869d7659c7811f0b694e679d",
-      "commodity": "TIN",
+      "id": "2ab708d6f325153c25aa0d85157aa74ef49f401bdeaa1278ad1a1975b19f225b",
+      "commodity": "COPPER",
       "subCommodity": null,
-      "title": "Warsh Turned Hawkish, Gold and Silver Plunged, Base Metals Fell Broadly, LME Tin and SHFE Nickel Led Declines, Alumina Rose Over 2% [Overnight Market]",
-      "summary": "Warsh Turned Hawkish, Gold and Silver Plunged, Base Metals Fell Broadly, LME Tin and SHFE Nickel Led Declines, Alumina Rose Over 2% [Overnight Market] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPOTliaFpLSnRCNFRicFBIY21PM3d2SHNZQ0xhYnp5X01ZUEhNTlZOZ0NzT1JFd2VLanJNZ2RqRzBqaVNBRWZtNTBhdTEzUEEwVnh1dlhIUm1WS3Y2aUxXS05Fdk5vN2hLWEQtREFhSWEzWFRFRkk5N3pLcTk1WEpobjBxb1lUV1NYRHROMV9aMkRaUHh2c0wzRkNvTzUxbmRZYVE0U0VmcXZCUjdlX1p1RHktbFZnWENZaVJCYVFqNTdWZFlQUV9yS0s1ZEllV0h4NTBvbElUSXdWazVtRkxaT2JrMU85cDlYNWJPTWtTaEF0MHdWTkpLREFRQlRIU3VKSEJfeU5pWFJKZUVPYTYxRTd3WnJ2TkZJZWxV?oc=5",
-      "publishedAt": "2026-08-29T02:48:40.000Z",
-      "priority": 36,
+      "title": "Copper Drops As BHP’s Escondida Mine Resumes Operations Progressively In Chile By Kedia Advisory",
+      "summary": "Copper Drops As BHP’s Escondida Mine Resumes Operations Progressively In Chile By Kedia Advisory Investing.com India",
+      "source": "Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObnVQLUxMZk84b0dKVFFLZTlkRDQ2S3JRMHd4WFVvOVJCb205SjlVOW5hQlJNZ1RBSG9PeEdTc0tGSVk2WWxwTjM0TlNSSU94Q1hBRFZGY09rMDNETUVuX29kbWFCS3p3T3VXQ1V6cmNkVWtpbGd5dEs2elA1V1VGUFNJNVhzZ01Vb2pPTTVWWFZ0Z005Z1ZHNkRYeHZjVFJKSWZqaWhTdEZVSl9kTm9RNTVjcm1NdkRzR0U4WlRQSFJTNTRZdENoZlNPSWg?oc=5",
+      "publishedAt": "2026-09-28T04:25:39.000Z",
+      "priority": 37,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "General",
+        "category": "Mine",
         "categories": [
-          "COMPANY"
+          "MINE"
         ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Warsh Turned Hawkish, Gold and Silver Plunged, Base Metals Fell Broadly, LME Tin and SHFE Nickel Led Declines, Alumina Rose Over 2% [Overnight Market] Shanghai Metals Market",
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Copper Drops As BHP’s Escondida Mine Resumes Operations Progressively In Chile By Kedia Advisory Investing.com India",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -10323,8 +10477,49 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-08-29T03:10:19.922Z",
-      "updatedAt": "2026-08-29T08:40:19.943Z",
+      "queuedAt": "2026-09-28T05:26:58.736Z",
+      "updatedAt": "2026-09-28T05:26:58.736Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "4cef8d975aa0d8f913c623054568edff77c154b6b0ab9af9ab356d5ab61f9246",
+      "commodity": "MOLYBDENUM",
+      "subCommodity": null,
+      "title": "Xiamen Tungsten vs China Molybdenum 116M Yuan Lawsuit: Can Policy Compliance Terminate Long-Term Contracts Amid Tungsten Price Surge Supply Suspension?",
+      "summary": "Xiamen Tungsten vs China Molybdenum 116M Yuan Lawsuit: Can Policy Compliance Terminate Long-Term Contracts Amid Tungsten Price Surge Supply Suspension? eu.36kr.com",
+      "source": "eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XV0I1SXB2cTRzQVVLQnJQUUxFVWI2QWgtRWRaUEpUWlkyOUwzTHBVX1gxcTRnX2ZCNXBhVXphVzJQcmlHWmJuUUhNaUtFR1lZMURB?oc=5",
+      "publishedAt": "2026-09-28T01:00:25.000Z",
+      "priority": 37,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Government Policy",
+        "categories": [
+          "PRICE",
+          "SUPPLY",
+          "POLICY",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Xiamen Tungsten vs China Molybdenum 116M Yuan Lawsuit: Can Policy Compliance Terminate Long-Term Contracts Amid Tungsten Price Surge Supply Suspension? eu.36kr.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-28T05:26:58.736Z",
+      "updatedAt": "2026-09-28T05:26:58.736Z",
       "analyzedAt": null
     },
     {
@@ -12810,6 +13005,115 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-27T18:26:09.342Z",
       "updatedAt": "2026-09-27T18:26:09.342Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "c1d1b8a625eea80e73daf6d293243472f9557ae46209c120c098cc9aa2a6bd59",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "LME aluminium may revisit August 20 low of $3,178 this week",
+      "summary": "LME aluminium may revisit August 20 low of $3,178 this week TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWEpUVUMzWGxPdXRKcHVIU0pEUk05TmdCdHhCVklyVWFhVXNiV2VoY1EyVVNWaUg5RXVMLWx4enRYdFdGNkZlM0hmVVVfLTIxcHpGMWZ2MmpLd2xsRFZNRi1Uc3NudWF5dWNDVG5xR3lLV1ktSDZYSUQ3dVZZV183cEhHYkRkS1d1QTIySk9GcDM3NHpHNERtOFViZW1MeEpDT1VxU2t1c0VBLXNpdjBjSDVETzNTN0FnNFl2ZE1SMzJoQ2Y3cExZ?oc=5",
+      "publishedAt": "2026-09-28T04:33:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME aluminium may revisit August 20 low of $3,178 this week TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-28T05:26:58.736Z",
+      "updatedAt": "2026-09-28T05:26:58.736Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "1b71966387a45b4ef9074c5543c65863b30b0b18f44654849d1fcdf44e367801",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Most metals fall; LME copper, SHFE tin, SHFE nickel, and coking coal lead declines; lithium carbonate tops losses; gold, silver, platinum, and palladium plunge [SMM Midday Commentary]",
+      "summary": "Most metals fall; LME copper, SHFE tin, SHFE nickel, and coking coal lead declines; lithium carbonate tops losses; gold, silver, platinum, and palladium plunge [SMM Midday Commentary] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQQ2x0cHFjMU9FVjZOTGUydG1ITDZZdkNLTUg1VXdPbGtHS2ZDRWRlU2Z1dW1nYkd0cXE0ekFCcDRhTE5DLWxMQW5lSlBBdmVLcGJraTlnR1BqSlZfZnJIbzNrSWo1cU44UVB2MEV1LVlFRHU1QV9xRTdvR0JYcFFHTzhUbUNiVXJKY0RpYjBxN3NRdm9oQ0Q5RGUxd3BYRGxPckUybHJQSXpaeXMtSkFXUldZZUY1Z1lCNE9NLWZobk9WTk1zQUlQRHlGbG9FY21STEZoUlZnWTNGNXhVeEhkREE4NmhFMVg2SGV6NzdWMkFrZ0RFWUJYOTJzU1ZYUG5lYmZEZFotT1dmLUR4bXVXM0p5UXBDWlZzb21Qd3VaN0lmNVpQblhLb1ZvWU5VYnl2am11NDZfQlJSR3RlT2c?oc=5",
+      "publishedAt": "2026-09-28T03:55:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Most metals fall; LME copper, SHFE tin, SHFE nickel, and coking coal lead declines; lithium carbonate tops losses; gold, silver, platinum, and palladium plunge [SMM Midday Commentary] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-28T05:26:58.736Z",
+      "updatedAt": "2026-09-28T05:26:58.736Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "ef9a2df75b1ee5417c3fb6dd7f4647510876f2fab0eb231f6a6ce493577a113f",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Social inventory of aluminum alloy shifts from accumulation to depletion; short-term cost support remains strong [SMM Cast Aluminum Alloy Morning Comment]",
+      "summary": "Social inventory of aluminum alloy shifts from accumulation to depletion; short-term cost support remains strong [SMM Cast Aluminum Alloy Morning Comment] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNQUl0QWd0NnJqNFh2SVlaZVZYc3hhaUd0X0VZS0kwS1lMV3ZHV0hTWEVzRUZqZU9KeEc2bWdob1Z3b09makZjYmNqQ1E2clh1ejloa2YyYzRiVjdEc0c1SlV2YTNaa1pSS1d6UzE4MzZHNkM4QTVfbVhoV1Rfa2pJUDBocXpDUnViRTFEVTdaam9HMmtUWmR6d196Rm53MDVqNkZVYUI1U085YnZycVUyYlg2XzY3NEdYZXN5Y2F5N2pYNGdjOTh5TWZXamtZelRsWm5wdDRSdTJ2bExLWnd2RmRycmJGczZ3bnA3XzlWRHE1TVJIR0xIV3FYMF9qZlB2OXJQTmhVUGk1MVllNHR2UDNITzdIejhwSzVPc3pjMk4yQQ?oc=5",
+      "publishedAt": "2026-09-28T01:37:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "INVENTORY",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Social inventory of aluminum alloy shifts from accumulation to depletion; short-term cost support remains strong [SMM Cast Aluminum Alloy Morning Comment] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-28T05:26:58.736Z",
+      "updatedAt": "2026-09-28T05:26:58.736Z",
       "analyzedAt": null
     },
     {
@@ -15425,78 +15729,6 @@
       "analyzedAt": null
     },
     {
-      "id": "69e32758c7dfd1d3026028b65f9be4e1c230473518cf80aa67b966975a15d208",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Jiangxi Copper Company (JIAXF) Receives a Buy from UBS",
-      "summary": "Jiangxi Copper Company (JIAXF) Receives a Buy from UBS The Globe and Mail",
-      "source": "The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMFdQd0VNYXdrR1BuUjJ4RVRvbm5McVd4bHVLd0NJb2lrNFljZzdtMzhBazMwUEs3aHpxeDdPbHROLXZ4VWs2OVZVa2FyU19UNlVXUVo1VWQxTEpLMjg0QVdOYVlvazAwaGk5Q1NLb2pRRXQzZ3p5QThESjZyV3lyQ05HWWRFSVd2ay1WUV9VdlVRVFJxRFdKRHBWcHN4Y1pwVG9MeWhjR0oyRTJWcmttMVNNdWh3aVhfUXduTWVNYzU3T09CR0ZwbWhTRUFSdw?oc=5",
-      "publishedAt": "2026-08-29T00:53:23.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Jiangxi Copper Company (JIAXF) Receives a Buy from UBS The Globe and Mail",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-29T01:10:19.917Z",
-      "updatedAt": "2026-08-29T06:40:19.929Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "19387a10b8b28bdebe8899121a50206551d0efd3054871162197add13c17f498",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "LME Aluminium High Grade Day-27 Nov '26 Futures Price History",
-      "summary": "LME Aluminium High Grade Day-27 Nov '26 Futures Price History Barchart.com",
-      "source": "Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5UjM4aFZsU01lLXdGNHNONWNSbTExM2VibWlTY0RfSE1PMFg0TW1FWFd3akxEY0w0VklWdThFYW12aE85VnFXTFhmbHJaa0kyQjRoWER3UVRUOFp6Q2J2UWFxR1lDTFNIR0RvSFBhbWktTnNOR3NBNVljMA?oc=5",
-      "publishedAt": "2026-08-29T02:54:37.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "LME Aluminium High Grade Day-27 Nov '26 Futures Price History Barchart.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-29T16:40:19.985Z",
-      "updatedAt": "2026-08-29T17:10:19.987Z",
-      "analyzedAt": null
-    },
-    {
       "id": "5bc730324d3143cddea843f52dd5269499e8f40d4f38a2ac120e70a07875a232",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -17027,6 +17259,151 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-27T23:59:47.736Z",
       "updatedAt": "2026-09-27T23:59:47.736Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "9aa34731b48630658b9425cc67d9829deff817bbba5728d470a5fb1b20218557",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Aluminium Gains Amid Tight Supply Conditions In Global Markets By Kedia Advisory",
+      "summary": "Aluminium Gains Amid Tight Supply Conditions In Global Markets By Kedia Advisory Investing.com India",
+      "source": "Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1FsN0tKR0xqS1lWR19GS0xBTkgtZDJTMThaV1ZyQTlHdDNNdWxnczNPcVdPMlFVQlNld0RkV19mbXM4bGNzTkY4N3hLMTNxRE5FVm9KZm9RX3A3NmxuRVF4a0VZbGFPQ2poNTdZMmJJc0RxS3RGcldScktrNE1DU2o4LWtlMmhFTzl5TjdyaWxtRHhpQXI2U21SNTVfSFMtRGZRZFFUTnpaeFo4dnFRNnRTSzM1RVJY?oc=5",
+      "publishedAt": "2026-09-28T04:49:32.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Aluminium Gains Amid Tight Supply Conditions In Global Markets By Kedia Advisory Investing.com India",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-28T05:26:58.736Z",
+      "updatedAt": "2026-09-28T05:26:58.736Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "4514a4ebbe58a5811eb796bede335f00e3f40168d03242c3a4b02b0f925c6b31",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "BOA hits high-grade copper below Ricci Lee",
+      "summary": "BOA hits high-grade copper below Ricci Lee Mining News Net",
+      "source": "Mining News Net",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTlYybld1c3hNa04yd3VGQkdqa3V0STgyMng3NG1JSUVzRW1xR2VibHMteF9jUE9DTkpDNnR1VmN3Z2RWRmk5VHVGTDlYSThBQl9CakJfQTNIXzFBT3VZSlJBcnZFelNySVZDRVVoRVhkMUhlNmNRQWFwOWpKUmFObTNybEcwOWpfR0g0WXdiVDVnakQ3?oc=5",
+      "publishedAt": "2026-09-28T03:18:15.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BOA hits high-grade copper below Ricci Lee Mining News Net",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-28T05:26:58.736Z",
+      "updatedAt": "2026-09-28T05:26:58.736Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "2ba44f770d03a056be89cbe40e39d9ff6f4adbe49a4b775049a13d22d34bff33",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "5 Critical Lessons from BHP Xplor on Copper, AI, and Exploration",
+      "summary": "5 Critical Lessons from BHP Xplor on Copper, AI, and Exploration The Assay",
+      "source": "The Assay",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjdTUDNINFhXalE0azBrMjdpYkZHdXo3bV9kdndEMGlwUlZuUjJCcmZfMkp1ZldJTzFqMWE1ZkFoeTg1TXdIMk5FdUVUSnhidEtsNXd0cTZGZWNQRkg3UGh6N2lrZ2pxcDdpOTRtYjNZaWg3VWZXTGptZWtJbUVhd3p5dTRfQ2tiamZmcEljYnFLYVFZS3ptTEU3dm50dHliQzc1a2c5REpEYXBJVU1NTg?oc=5",
+      "publishedAt": "2026-09-28T02:35:06.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "5 Critical Lessons from BHP Xplor on Copper, AI, and Exploration The Assay",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-28T05:26:58.736Z",
+      "updatedAt": "2026-09-28T05:26:58.736Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "e7637d55a2824dc606f58b52c7c35f8ed66aa579ac2f343f47098bbca01e0402",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Why Copper Prices Soared: AI, Electrification and a Slow Supply Response",
+      "summary": "Why Copper Prices Soared: AI, Electrification and a Slow Supply Response Adept Economics",
+      "source": "Adept Economics",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaTZyNUNvdEt5OVVISUgwaGR6WFBKYmtKNWhfanlzWEZwdUVlSGt3YnE4aHhIMUsyQURfUEwxOUp6Ymc3b2F4Y1hBNEJaekhTVEMwRTVpOGxuZDVCY3VlSFlycVhyX3RkYnNpLXRpUWZTUDhXck9FWVBOaEEtZXR1ck1FamNJMWVzamt0QUdqRTFtMTg0c2ZGVXFrajZ6VUZpanVz?oc=5",
+      "publishedAt": "2026-09-28T02:04:45.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "PRICE",
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Why Copper Prices Soared: AI, Electrification and a Slow Supply Response Adept Economics",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-28T05:26:58.736Z",
+      "updatedAt": "2026-09-28T05:26:58.736Z",
       "analyzedAt": null
     },
     {
