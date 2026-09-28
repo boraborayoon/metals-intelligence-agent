@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-28T05:26:58.736Z",
+  "generatedAt": "2026-09-28T12:00:41.802Z",
   "counts": {
-    "PENDING": 485,
+    "PENDING": 500,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -335,6 +335,16 @@
       "codexStatus": "PENDING",
       "source": "finance.biggo.com",
       "publishedAt": "2026-09-08T03:55:00.000Z"
+    },
+    {
+      "id": "0d072629c5fafc0bae599aba69f98056975828f6c309665e334b31753da79e5f",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "SAHRC Wants Cash Banned From Copper Scrap Deals",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "2oceansvibe News",
+      "publishedAt": "2026-09-28T08:34:15.000Z"
     },
     {
       "id": "eeb5ffc315c596e2f63f9d3d3085a64915d2ac8b729a71a70223a6271a43551b",
@@ -735,6 +745,16 @@
       "codexStatus": "PENDING",
       "source": "101 WIXX",
       "publishedAt": "2026-09-23T21:26:47.000Z"
+    },
+    {
+      "id": "ed29eb6b8c5219d7c54fdfa085f1a61a92c1415462ab951688e494606db42d26",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Camino Receives Environmental Approval for Significant Exploration Expansion at the Costa de Cobre Copper Project in Peru",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "StreetInsider",
+      "publishedAt": "2026-09-28T10:01:03.000Z"
     },
     {
       "id": "ac292392e4bc909c39a14205f35bffd05c04888d559fad3bb7d2d1b689ae1758",
@@ -1207,6 +1227,16 @@
       "publishedAt": "2026-09-26T17:03:45.000Z"
     },
     {
+      "id": "3fe1d69dd330d0ad61ef62f14708e22e6e73da0b38d8702ee8d06dd112460ac3",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Yunnan Tin announces 2026 maintenance",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Freddie Mitchell",
+      "publishedAt": "2026-09-28T10:58:30.000Z"
+    },
+    {
       "id": "78a52d983cd0b7656f95ca861deb36d3520fba8a43b9b3e09161897148d2b19f",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1465,6 +1495,16 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-09-28T00:51:00.000Z"
+    },
+    {
+      "id": "c7736245665ec42f5aefd99553a7fc008f4d3a92d8fe4135c60a4acada13539a",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Price Forecast: Weak China Data Test $6.60 as Escondida Vote Begins",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "FXEmpire",
+      "publishedAt": "2026-09-28T10:53:30.000Z"
     },
     {
       "id": "98d77adfc544f998acc8a65e40a75c96ed790ad2497edf021e5392745b112a2e",
@@ -2637,6 +2677,16 @@
       "publishedAt": "2026-09-28T00:02:33.000Z"
     },
     {
+      "id": "563de777c7a98acaa89984901ceca578ffaa21f9ee34244bf64b0cc08b34b8ec",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "LME aluminium cash bid rises to $3,253/t as Asian reference price gains 0.55% on September 25",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "alcircle.com",
+      "publishedAt": "2026-09-28T08:46:51.000Z"
+    },
+    {
       "id": "15c09ea4de6cf2650ede3a2e0c0b9a9c29bc9f0484a00b9616d798c8f54bc797",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2775,6 +2825,26 @@
       "codexStatus": "PENDING",
       "source": "eu.36kr.com",
       "publishedAt": "2026-09-28T01:00:25.000Z"
+    },
+    {
+      "id": "9649e8a987d434d1e91da78affb03a23fae3087ff1d60a7b0ac56c2f0153ca59",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "SHFE aluminum and alumina both closed in negative territory, all moving averages were broken, and the market is expected to consolidate on a weak note in the short term [SMM aluminum brief review]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-28T10:08:00.000Z"
+    },
+    {
+      "id": "c85382d258b19157ab7083d6ce1a823e9565883c7cf9f36e6821fb32cc035bdb",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "[SMM Analysis] Indonesia's Refined Tin Exports in July",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-28T09:14:00.000Z"
     },
     {
       "id": "c3c0ac18b3023d38e559552e9139d1cc5918e8cf41bfd3f374e87617448534d3",
@@ -3457,16 +3527,6 @@
       "publishedAt": "2026-09-27T18:22:34.000Z"
     },
     {
-      "id": "c1d1b8a625eea80e73daf6d293243472f9557ae46209c120c098cc9aa2a6bd59",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "LME aluminium may revisit August 20 low of $3,178 this week",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-09-28T04:33:00.000Z"
-    },
-    {
       "id": "1b71966387a45b4ef9074c5543c65863b30b0b18f44654849d1fcdf44e367801",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3474,17 +3534,7 @@
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-28T03:55:00.000Z"
-    },
-    {
-      "id": "ef9a2df75b1ee5417c3fb6dd7f4647510876f2fab0eb231f6a6ce493577a113f",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Social inventory of aluminum alloy shifts from accumulation to depletion; short-term cost support remains strong [SMM Cast Aluminum Alloy Morning Comment]",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-28T01:37:00.000Z"
+      "publishedAt": "2026-09-28T06:27:00.000Z"
     },
     {
       "id": "3c450ab10e172f51a88edd1e96fdf33579fe40958a10f97588d8aab16e1b64cb",
@@ -4107,6 +4157,26 @@
       "publishedAt": "2026-09-25T20:26:15.000Z"
     },
     {
+      "id": "788fb160e9546e28d9771e5f698251805d6eabde1284e90a8c432cd7ff3ebbc4",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Yunnan Tin announces 2026 maintenance",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "International Tin Association",
+      "publishedAt": "2026-09-28T11:03:08.000Z"
+    },
+    {
+      "id": "407d554cd8b20d0fea9cfd40a9b85dba602ae807ffc7031f4b708d05298177c6",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "China's refined copper output on track for lowest growth in decades this year, analysts say",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Reuters",
+      "publishedAt": "2026-09-28T08:21:43.000Z"
+    },
+    {
       "id": "19d573023277da28a10d7b067af28d2d957a346cd21905eec743e757e3960034",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4597,16 +4667,6 @@
       "publishedAt": "2026-09-28T03:18:15.000Z"
     },
     {
-      "id": "2ba44f770d03a056be89cbe40e39d9ff6f4adbe49a4b775049a13d22d34bff33",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "5 Critical Lessons from BHP Xplor on Copper, AI, and Exploration",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Assay",
-      "publishedAt": "2026-09-28T02:35:06.000Z"
-    },
-    {
       "id": "e7637d55a2824dc606f58b52c7c35f8ed66aa579ac2f343f47098bbca01e0402",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4617,6 +4677,96 @@
       "publishedAt": "2026-09-28T02:04:45.000Z"
     },
     {
+      "id": "461e8ca01521e22801623b26a427494342c8374ad345a191f8b949ebe01043ec",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Mining giant linked to Africa’s wealthiest king sees profit jump from $40 million to $395 million as 2 mines boost gold and copper output",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Business Insider Africa",
+      "publishedAt": "2026-09-28T11:36:31.000Z"
+    },
+    {
+      "id": "b26b1ca03768f0bbbe93c47d41a9d6aff288ed1103dd4eaad43f8b56709b8bb3",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Centenario Gold Announces the Start up of Maiden Drill Program at the Los Reyes Copper, Moly, Gold Skarn System",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Junior Mining Network",
+      "publishedAt": "2026-09-28T10:59:38.000Z"
+    },
+    {
+      "id": "cc04860f4dc4e0d3e91b6a85efdb4747466681d5806ebf5558e542ae1ae36722",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Taesung in Talks to Supply Copper Plating Equipment for Simmtech's SOCAMM Line",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "thelec.net",
+      "publishedAt": "2026-09-28T09:52:06.000Z"
+    },
+    {
+      "id": "e9b86ad176353adf722ea68055d65f2361cecffb06ef8e84fe095ce967bb4e0c",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Andrada Mining Lifts H1 Tin Output 13% to 576 tonnes in the six months",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Share Talk",
+      "publishedAt": "2026-09-28T09:45:28.000Z"
+    },
+    {
+      "id": "b0c2a36300669909d9db77fb859d92eb43c19e7cc5e4613d7603cf4f1ba0304f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper drops to 1-week low on demand concerns",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "tradingview.com",
+      "publishedAt": "2026-09-28T09:31:01.000Z"
+    },
+    {
+      "id": "30baa70ccc9ee0322fccd6e1c6f4c524f5e0811cd7515f2411d5b37a178cd701",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "New Horizon Copper accelerates workforce growth at Kombat Mine",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "African Mining Market",
+      "publishedAt": "2026-09-28T09:11:59.000Z"
+    },
+    {
+      "id": "f6a9d7364bbab7bf8eecb00b8be7dde325fb61804bd2679968a4c367c59ba3ad",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Konkola Copper Mines (KCM) has restarted mining operations at its Chin",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-28T08:49:00.000Z"
+    },
+    {
+      "id": "28c7c815fe2c312bf0ff3fe04b0447313ddbd165d3f7ffda3b5709c95005ebe2",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "태성, 심텍 SOCAMM용 구리도금 장비 공급 협의",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "디일렉",
+      "publishedAt": "2026-09-28T07:32:10.000Z"
+    },
+    {
+      "id": "d1c82774243746bc3c86be3d7f6146c4ca3bb92df7de2cfcaafdff0d5acd653d",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper price moves away from the high – Forecast today – 28-9-2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Economies.com",
+      "publishedAt": "2026-09-28T05:07:00.000Z"
+    },
+    {
       "id": "7846ca3946e3080a7ab4c6797688a5f4ee37b9afa39bd0c196f396ed4f2702b3",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4625,6 +4775,46 @@
       "codexStatus": "PENDING",
       "source": "marketscreener.com",
       "publishedAt": "2026-09-26T01:35:58.000Z"
+    },
+    {
+      "id": "c1d1b8a625eea80e73daf6d293243472f9557ae46209c120c098cc9aa2a6bd59",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "LME aluminium may revisit August 20 low of $3,178 this week",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "tradingview.com",
+      "publishedAt": "2026-09-28T04:33:00.000Z"
+    },
+    {
+      "id": "ef9a2df75b1ee5417c3fb6dd7f4647510876f2fab0eb231f6a6ce493577a113f",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Social inventory of aluminum alloy shifts from accumulation to depletion; short-term cost support remains strong [SMM Cast Aluminum Alloy Morning Comment]",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-28T01:37:00.000Z"
+    },
+    {
+      "id": "d6243a0e3987a25979dcd7578a6860f4529185b96d20b5696c480ff25800db48",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "LME copper may retrace to $14,235 this week",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "tradingview.com",
+      "publishedAt": "2026-09-28T04:25:00.000Z"
+    },
+    {
+      "id": "2ba44f770d03a056be89cbe40e39d9ff6f4adbe49a4b775049a13d22d34bff33",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "5 Critical Lessons from BHP Xplor on Copper, AI, and Exploration",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Assay",
+      "publishedAt": "2026-09-28T02:35:06.000Z"
     },
     {
       "id": "95635f680d36f36cb36b5e75bc6f1098478d406f1508033bde7911bd928b2df9",
@@ -4757,6 +4947,16 @@
       "publishedAt": "2026-09-26T06:28:19.000Z"
     },
     {
+      "id": "c8c763a638c420d47d9a81a8a418e4b9e0c9d32aa50f321ae85206ffd56cbac5",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "[SMM Aluminum Billet Inventory] According to SMM statistics, 6063 alum",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-28T01:27:00.000Z"
+    },
+    {
       "id": "08a6cfb6c0099a2e7a359cc27283499133e0244a5bebec312e4a6d0edab1f47f",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4805,56 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "thepost.co.nz",
       "publishedAt": "2026-09-27T15:00:00.000Z"
-    },
-    {
-      "id": "b63a42ee9d651eb56745dffc3f5dcbde9a37b10398ad1993162ec36917fa2902",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Hits a Record $6.83 a Pound as Mine Disasters Choke Supply",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Startup Fortune",
-      "publishedAt": "2026-09-25T07:33:45.000Z"
-    },
-    {
-      "id": "30abd66b4fdccdfb76f0ccb0b8e2e51b6b6def843590c1861ae5bce7ec50a33a",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "More domestic aluminium, recycling and energy needed to strengthen US supply chain",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-09-25T10:30:27.000Z"
-    },
-    {
-      "id": "1e73272988557829d2f8a1f7f8576349b2de7f060a4fa1ad9e1d06b1e273d9c1",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper's Rally Is a Supply Story, Not a Demand One",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Breakwave Advisors",
-      "publishedAt": "2026-09-25T06:17:33.000Z"
-    },
-    {
-      "id": "539e750a88444ce4c47b23a0f9298fd53c25e63c392fe502e577d23bf3be78b1",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Idaho Copper to Present on Idaho Mining Panel at the 2026 Mining and Energy Expo",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Energy Digital",
-      "publishedAt": "2026-09-25T06:14:50.000Z"
-    },
-    {
-      "id": "6cd579ad6403e1fc3ae3baa14ae81d88cfefdd57de1f7f95e498b8b9e2110ac8",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "中 쯔진광업, 구리 가격 상승 사이클 핵심 수혜주",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "thecommoditiesnews.com",
-      "publishedAt": "2026-09-25T03:00:00.000Z"
     }
   ]
 }
