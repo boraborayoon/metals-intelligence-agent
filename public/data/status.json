@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-28T19:41:27.176Z",
-  "nextScheduledRun": "2026-09-28T20:11:27.176Z",
+  "lastUpdated": "2026-09-28T23:57:39.179Z",
+  "nextScheduledRun": "2026-09-29T00:27:39.179Z",
   "agentStatus": "OK",
   "telegramStatus": "OK",
   "kakaoStatus": "DISABLED",
@@ -13,15 +13,13 @@
   "sourceStats": [
     {
       "name": "Google News Metals EN",
-      "status": "ERROR",
-      "count": 0,
-      "error": "HTTP 503"
+      "status": "OK",
+      "count": 100
     },
     {
       "name": "Google News Metals KO",
-      "status": "ERROR",
-      "count": 0,
-      "error": "HTTP 503"
+      "status": "OK",
+      "count": 100
     },
     {
       "name": "International Tin Association",
@@ -30,13 +28,13 @@
     }
   ],
   "runStats": {
-    "fetched": 10,
-    "relevant": 8,
-    "duplicates": 7,
-    "analyzed": 1,
-    "ruleAnalyzed": 1,
+    "fetched": 210,
+    "relevant": 44,
+    "duplicates": 13,
+    "analyzed": 31,
+    "ruleAnalyzed": 31,
     "codexPending": 500,
-    "sent": 0,
-    "failed": 2
+    "sent": 5,
+    "failed": 0
   }
 }
