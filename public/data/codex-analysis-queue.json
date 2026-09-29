@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T23:57:39.179Z",
+  "generatedAt": "2026-09-29T05:46:13.243Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -787,16 +787,6 @@
       "publishedAt": "2026-09-08T01:18:01.000Z"
     },
     {
-      "id": "160f6ee8fc342e13a212866566c842f65d7470ad4ae4c0a820e3a4b3636d78ea",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "'관세 50%' 피하려 창고에 긁어모았다…구리값 급등, AI 아니라 미국이 원인 [원자재로 살아남기]",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "네이트",
-      "publishedAt": "2026-08-30T01:32:00.000Z"
-    },
-    {
       "id": "1e1b334d24db35ddf5854e2af01aa1890bb556889448787ef96498b1d51b4886",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -1525,6 +1515,16 @@
       "codexStatus": "PENDING",
       "source": "FXEmpire",
       "publishedAt": "2026-09-28T10:53:30.000Z"
+    },
+    {
+      "id": "ed379cf7e7bff8649cfb33cd2a75c5e6bb30e928d31cf3718a1d3c8b1037413f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "SHFE copper closed, lacking SHFE guidance; LME copper under pressure [SMM Copper Morning Meeting Summary]",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-29T00:56:00.000Z"
     },
     {
       "id": "98d77adfc544f998acc8a65e40a75c96ed790ad2497edf021e5392745b112a2e",
@@ -2737,6 +2737,26 @@
       "publishedAt": "2026-09-28T18:25:01.000Z"
     },
     {
+      "id": "0b61e6b62c4097bc5a94067bd7a61b41a8367a36322fe2afbcc3ce448a787646",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "President Trump addresses tremendous aluminum smelter in Inola",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-29T03:05:00.000Z"
+    },
+    {
+      "id": "3886d93ca407fbe0a225dcec583f62f35be30dc96a85122d6972d1f878aaeff0",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "AI and Power Infrastructure Drive Copper Demand, Australian Mining Sector Embraces New Logic",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "NAI500",
+      "publishedAt": "2026-09-29T02:56:13.000Z"
+    },
+    {
       "id": "15c09ea4de6cf2650ede3a2e0c0b9a9c29bc9f0484a00b9616d798c8f54bc797",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3587,14 +3607,34 @@
       "publishedAt": "2026-09-28T06:27:00.000Z"
     },
     {
-      "id": "3c450ab10e172f51a88edd1e96fdf33579fe40958a10f97588d8aab16e1b64cb",
+      "id": "a98d7853df5a005972af5fb7ae97a462b21ea063975f00f9ad8256a2e85f339b",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "PV aluminium frame operations continue to consolidate on a strong note, aluminium price macro sentiment weakens, and inventory forward oversupply pressure persists",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "title": "Rio Tinto Group Partners With Recycled Aluminum Processor to Expand Low-Carbon Billet Supply in North America",
+      "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-08-30T00:51:34.000Z"
+      "source": "marketscreener.com",
+      "publishedAt": "2026-09-29T01:32:38.000Z"
+    },
+    {
+      "id": "e747f4a57c3c26bef04e2232c3b0e846681e2b191715ae87ac0778c797ee1b9c",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Metals show mixed performance, alumina leads declines, LME lead, LME zinc, LME tin, and LME nickel post the largest drops, COMEX gold and silver plunge [Overnight Market]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-29T00:25:00.000Z"
+    },
+    {
+      "id": "b6917ef9c7ac2cd101c499788b760bc47df2c50f687cbc49ac66e67a8b37f7ed",
+      "commodity": "MOLYBDENUM",
+      "importance": "MEDIUM",
+      "title": "Platts corrects Daily Dealer Molybdenum Oxide rationale for September 25",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "S&P Global",
+      "publishedAt": "2026-09-29T00:11:44.000Z"
     },
     {
       "id": "309e26daf2a34f66ecad5b57a9f2e22d75330a57a916cee4ae7ee9d663c71d8d",
@@ -4777,16 +4817,6 @@
       "publishedAt": "2026-09-28T05:07:00.000Z"
     },
     {
-      "id": "ea3ade6bc7eaeb736d45ad78f4be9c09cb0f9737b921590bcd59ad791a585ed2",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "AIS: Resource upgrades and new projects position for significant copper and gold production growth",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-09-28T23:11:36.000Z"
-    },
-    {
       "id": "5bfd63c66e7c9adf67777722dbb16a710c0ddc40d00a84ca02724f985131938b",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4797,56 +4827,6 @@
       "publishedAt": "2026-09-28T23:01:03.000Z"
     },
     {
-      "id": "739edd5c818577c6f2ab5f1716e168620eb147392d7eac694cd7fd06cb8e1f8a",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "[비철금속 시황] 中 수요 우려에 구리 1.4% 하락…비철금속 일제히 약세",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "산업일보",
-      "publishedAt": "2026-09-28T22:49:08.000Z"
-    },
-    {
-      "id": "6e34944e69a87b807d9edf121bafda3834232ed7cbe5df40cdc7addcafc86736",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "FFM: Large-scale copper-gold project targets 2029 production with strong economics and growth",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-09-28T22:21:07.000Z"
-    },
-    {
-      "id": "ce93ab7825168e6e681d0e7e71f90a2612951dca20da99613bc25d1253c3fb01",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper One Resources Corp. (CEXY) Closes Rooinek Mining Acquisition",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-09-28T22:00:09.000Z"
-    },
-    {
-      "id": "82a6aa6239bb5472f22a86ed2093e4c9827b85caf28b6578835f30b2d7cd47b3",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "SLS: Tier 1 copper project with 55+ year mine life, low costs, and major exploration upside",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-09-28T21:42:57.000Z"
-    },
-    {
-      "id": "4fb536993456bff6993b940f46903a7c5c07f623bc4a7fdf143b3ecabb80232d",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Set to Give Australia’s Mining Stock Rally a New Engine",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Bloomberg.com",
-      "publishedAt": "2026-09-28T21:00:00.000Z"
-    },
-    {
       "id": "556aa2027a9910e573d184a151402e247766c22b4c22d7545113b44db0fe3f34",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4855,6 +4835,36 @@
       "codexStatus": "PENDING",
       "source": "Crux Investor",
       "publishedAt": "2026-09-28T14:00:35.000Z"
+    },
+    {
+      "id": "4dc88fcff7e37580cc19a50055ba8b681552261f5a51c0bf2325d47aaa545d63",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Harmony Gold Mining Eyes Copper Growth After Record FY2026 Results",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "MarketBeat",
+      "publishedAt": "2026-09-29T02:17:27.000Z"
+    },
+    {
+      "id": "a7de9e55aa9a07f5735bda3d5e2a1c3f9ea3acb36ef988d1521d068a9b11d3a7",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[호주 특징주] 호주 광산주, 철광석 넘어 구리 확대…AI·전력망이 새 성장동력",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "뉴스핌",
+      "publishedAt": "2026-09-29T01:58:00.000Z"
+    },
+    {
+      "id": "cee20f36106be070ed4a5ef9dc1f3626317e4b4674907462d4f7bbe73760f343",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Collective Mining Maps Out Separate Copper and Tungsten Circuits for Apollo Ahead of 2027 License Filing",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Finance Colombia",
+      "publishedAt": "2026-09-29T00:43:02.000Z"
     },
     {
       "id": "7846ca3946e3080a7ab4c6797688a5f4ee37b9afa39bd0c196f396ed4f2702b3",
@@ -4937,74 +4947,64 @@
       "publishedAt": "2026-09-28T13:18:53.000Z"
     },
     {
-      "id": "461e8ca01521e22801623b26a427494342c8374ad345a191f8b949ebe01043ec",
+      "id": "ea3ade6bc7eaeb736d45ad78f4be9c09cb0f9737b921590bcd59ad791a585ed2",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Mining giant linked to Africa’s wealthiest king sees profit jump from $40 million to $395 million as 2 mines boost gold and copper output",
+      "title": "AIS: Resource upgrades and new projects position for significant copper and gold production growth",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Business Insider Africa",
-      "publishedAt": "2026-09-28T11:36:31.000Z"
+      "source": "TradingView",
+      "publishedAt": "2026-09-28T23:11:36.000Z"
     },
     {
-      "id": "cc04860f4dc4e0d3e91b6a85efdb4747466681d5806ebf5558e542ae1ae36722",
+      "id": "739edd5c818577c6f2ab5f1716e168620eb147392d7eac694cd7fd06cb8e1f8a",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Taesung in Talks to Supply Copper Plating Equipment for Simmtech's SOCAMM Line",
+      "title": "[비철금속 시황] 中 수요 우려에 구리 1.4% 하락…비철금속 일제히 약세",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "thelec.net",
-      "publishedAt": "2026-09-28T09:52:06.000Z"
+      "source": "산업일보",
+      "publishedAt": "2026-09-28T22:49:08.000Z"
     },
     {
-      "id": "28c7c815fe2c312bf0ff3fe04b0447313ddbd165d3f7ffda3b5709c95005ebe2",
+      "id": "6e34944e69a87b807d9edf121bafda3834232ed7cbe5df40cdc7addcafc86736",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "태성, 심텍 SOCAMM용 구리도금 장비 공급 협의",
+      "title": "FFM: Large-scale copper-gold project targets 2029 production with strong economics and growth",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "디일렉",
-      "publishedAt": "2026-09-28T07:32:10.000Z"
+      "source": "TradingView",
+      "publishedAt": "2026-09-28T22:21:07.000Z"
     },
     {
-      "id": "2ba44f770d03a056be89cbe40e39d9ff6f4adbe49a4b775049a13d22d34bff33",
+      "id": "ce93ab7825168e6e681d0e7e71f90a2612951dca20da99613bc25d1253c3fb01",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "5 Critical Lessons from BHP Xplor on Copper, AI, and Exploration",
+      "title": "Copper One Resources Corp. (CEXY) Closes Rooinek Mining Acquisition",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "The Assay",
-      "publishedAt": "2026-09-28T02:35:06.000Z"
+      "source": "TradingView",
+      "publishedAt": "2026-09-28T22:00:09.000Z"
     },
     {
-      "id": "95635f680d36f36cb36b5e75bc6f1098478d406f1508033bde7911bd928b2df9",
+      "id": "82a6aa6239bb5472f22a86ed2093e4c9827b85caf28b6578835f30b2d7cd47b3",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Southern Copper (SCCO) Could Be 22% Above Fair Value As Dividend Draws Attention",
+      "title": "SLS: Tier 1 copper project with 55+ year mine life, low costs, and major exploration upside",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "simplywall.st",
-      "publishedAt": "2026-09-27T02:52:01.000Z"
+      "source": "TradingView",
+      "publishedAt": "2026-09-28T21:42:57.000Z"
     },
     {
-      "id": "d435d74da81a46cb34a5d08c826a2655ca50342ffcc80c3c9076cf4ac5f978cd",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "European aluminium premiums diverge as supply tightens",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "CRU Group",
-      "publishedAt": "2026-09-25T17:02:03.000Z"
-    },
-    {
-      "id": "201e4996b4c63a657dafd422c222fe11ef1233f65ab4fef41e63a1f7c99dc4f2",
+      "id": "4fb536993456bff6993b940f46903a7c5c07f623bc4a7fdf143b3ecabb80232d",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Royalties Inc. Reports the Zacatecas Attorney General Formally Serves Capstone Copper's Cozamin Mine with Criminal Document Demand for Production Evidence",
+      "title": "Copper Set to Give Australia’s Mining Stock Rally a New Engine",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "PR Newswire Canada",
-      "publishedAt": "2026-09-25T13:10:00.000Z"
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-09-28T21:00:00.000Z"
     }
   ]
 }
