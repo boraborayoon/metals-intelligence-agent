@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T21:24:43.673Z",
+  "generatedAt": "2026-09-30T00:46:32.585Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -480,51 +480,6 @@
       "analyzedAt": null
     },
     {
-      "id": "a23213e991f05581542ba0d98896529607826e711c28fe1369408ca26deed667",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Weekly Recap: DRC flooding may cut copper output and HK$52.20 avg target",
-      "summary": "Weekly Recap: DRC flooding may cut copper output and HK$52.20 avg target TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaklLZnVORklPVkg0T0lIc3QxbDgtSUhqdUxyY2pzeW9iNVI0T0dyekc2UFNCSnZBdzlVT04xLVJlRkR3WER4U1A4X3FYWmd2Y2NucHRaTE9FMEFqQVV6TzN1VmUxNkJURmlMV2tmajNJRktJZzRNdmE4VFlLNUd2dWJoaHZIcW1sX0FSeE5uaVRTTTluR3hxbDUxbHB5RmJBbjZocTBoUnpTbWdLTkZrTV9CZGtOa0JNZEUzcHg0Q0J0cldYb2ZMSW9vc1UyZw?oc=5",
-      "publishedAt": "2026-08-30T23:14:02.000Z",
-      "priority": 58,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Operational Accident",
-        "categories": [
-          "PRODUCTION",
-          "ACCIDENT"
-        ],
-        "region": "DRC",
-        "regions": [
-          "DRC"
-        ],
-        "summary": "Weekly Recap: DRC flooding may cut copper output and HK$52.20 avg target TradingView",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "flood"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-30T23:39:09.196Z",
-      "updatedAt": "2026-08-31T00:21:34.422Z",
-      "analyzedAt": null
-    },
-    {
       "id": "e79d94b0cfa2de823ff760bae1500f321caeba436dfc3c5faea5f486cad07a8b",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -698,6 +653,50 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-25T13:49:50.751Z",
       "updatedAt": "2026-09-25T13:49:50.751Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "5b38c959c0d581a137bd315bedf66e6854f9e79a35bb135c734bf71598ccf4b1",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "[비철금속 시황] 칠레 광산 파업 우려에 구리 낙폭 제한…中 PMI 주목",
+      "summary": "[비철금속 시황] 칠레 광산 파업 우려에 구리 낙폭 제한…中 PMI 주목 산업일보",
+      "source": "산업일보",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1rNC1uaDg1OVo2V2FuMnljSTZXNHJrSFR2Sk9oU2ZpakgyeHJYR1JJRThDMEpJVGtudnRrRnBHLTE1c2k1?oc=5",
+      "publishedAt": "2026-09-29T23:19:46.000Z",
+      "priority": 57,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[비철금속 시황] 칠레 광산 파업 우려에 구리 낙폭 제한…中 PMI 주목 산업일보",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "파업"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-30T00:46:32.585Z",
+      "updatedAt": "2026-09-30T00:46:32.585Z",
       "analyzedAt": null
     },
     {
@@ -4217,6 +4216,50 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-29T21:24:43.673Z",
       "updatedAt": "2026-09-29T21:24:43.673Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "bb367bbbe092fb20aa1546389e19573cb2573a1bc3ae925c343e5decab815fa2",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Oil Prices Drop as Saudi Arabia Increases Supply; Copper Prices Rise Amid Strikes",
+      "summary": "Oil Prices Drop as Saudi Arabia Increases Supply; Copper Prices Rise Amid Strikes GuruFocus",
+      "source": "GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV0UySGx6NjBFMjhqWW5Na1ZvWHU1amZwNUxfZTkxSGZuM1hPdW90Y00xTElQcmNvVU94dlRZR0FQV3czY0daU0M1Z3B2V3dUVnQ2blp5Tmh1ejhRUGpqTG9ETTFFTXNrc3FDNjl4QWJaVDN5VWQta1Zjc2RmVE9tSG1PNWhBU18tbUZRQzJ6MXJ2dTFPdnpndjNtc3MzaDFwLWJCODNFSDlLWkVKd2JNUmVWT2VpNDhlTTRF?oc=5",
+      "publishedAt": "2026-09-29T23:17:48.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "PRICE",
+          "SUPPLY",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Oil Prices Drop as Saudi Arabia Increases Supply; Copper Prices Rise Amid Strikes GuruFocus",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-30T00:46:32.585Z",
+      "updatedAt": "2026-09-30T00:46:32.585Z",
       "analyzedAt": null
     },
     {
@@ -13962,6 +14005,43 @@
       "analyzedAt": null
     },
     {
+      "id": "07957caa210c4fcbdd977fed6084423ac79b5f8dcf178caa7b04b3e33b72d2bb",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "MUX: Los Azules targets regenerative copper mining as gold and copper output and valuation are set to surge",
+      "summary": "MUX: Los Azules targets regenerative copper mining as gold and copper output and valuation are set to surge TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPZG9GUXUtcVloVWRhTzlEeVVpb0Y4LU0zZ1JFLVFFbjZlYXBEUEp2MHRmX1NuUmVnZmc0TlBzZ0IyeVhmRlhoQ2lmXzZvUHNacktPbWd4cnN3OXlLSFpxVnZNZXE3WHUyNjNBTGpaTU0xOHdPTklrNmE0TXZBanZhOThnU3dlb24xajRhMnJtZWJDZTZPcElvc05kYmJsODMtS2M0TGZidXdWMXNzN0Q3SEROOWVSV3dXMnJnX1RXYUd6X3RKaFJ6YzFHOU9WQVBNcXY2V0NZYk45QXktZzVIOW55eENfWm90NVZ1aTFvZ29uMjhyNWhmVXhuNGl2ZTZvMHEzdzNoYjNKd0RpcjRIZTh5a3ZGTnBvZzdoQXdB?oc=5",
+      "publishedAt": "2026-09-29T23:32:38.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "MINE",
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "MUX: Los Azules targets regenerative copper mining as gold and copper output and valuation are set to surge TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-30T00:46:32.585Z",
+      "updatedAt": "2026-09-30T00:46:32.585Z",
+      "analyzedAt": null
+    },
+    {
       "id": "309e26daf2a34f66ecad5b57a9f2e22d75330a57a916cee4ae7ee9d663c71d8d",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -16765,79 +16845,6 @@
       "analyzedAt": null
     },
     {
-      "id": "bf168bbfa8f52acde5f0a29084491929043b8e6c6651b23b07dfecd61bb8d170",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Press Metal sees steady aluminium outlook amid rising supply",
-      "summary": "Press Metal sees steady aluminium outlook amid rising supply The Star",
-      "source": "The Star",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHVVM1FwUHRpNnJFdFBBdzU4c0RuZkF1MHRsOTRXeGt5NjBXamQ3amZseHdMalZGbjZpc25qNW9DMjVtOFFYN0NUeTc0aTVzTzZKb0dPNXRTQkJmSTlvU1REWHh4WUJOdFNTaTdsZmNfcEQ0UVI2YUZyalNlbzdDOWpzbWVURVY4cThxdGhYYWRMTlpLVHU1NGNFWlpCSV95NzVSZWFGc1gxdTdhUVgxbFRwZTdCcGVtVHhadVNB?oc=5",
-      "publishedAt": "2026-08-31T00:29:09.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production Guidance",
-        "categories": [
-          "SUPPLY",
-          "GUIDANCE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Press Metal sees steady aluminium outlook amid rising supply The Star",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-31T00:35:22.877Z",
-      "updatedAt": "2026-08-31T05:55:53.458Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "a3fb15543df99d38789a584511173efa249852b89348e69a482c181d907cdbd0",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "High-grade copper-gold zone takes shape at Nanadie",
-      "summary": "High-grade copper-gold zone takes shape at Nanadie Australian Mining",
-      "source": "Australian Mining",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLU4tNXpYbHF6MjBWQ2NSWjFUVnBndWJxVEZWT1ZBOWtXWS1yV29YNFlFenFWUVFpX1pqMGlDN0hfbkVXNHBldkZPZVozQ2tFMlVjd3A1NmhJdGhpTl81bUJIalpEYTQwT1Q1cGR2OW8wMUpRY0tlRkdiVEFFMFphMTZITG5HN2QxV2dMa0llcDg?oc=5",
-      "publishedAt": "2026-08-31T00:43:14.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "High-grade copper-gold zone takes shape at Nanadie Australian Mining",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-08-31T01:05:22.875Z",
-      "updatedAt": "2026-08-31T01:05:22.875Z",
-      "analyzedAt": null
-    },
-    {
       "id": "da291f5bc4dfe207c72f99860b6b170d14bb62259cb8b3326ba49bdba509560c",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18740,8 +18747,8 @@
       "commodity": "COPPER",
       "subCommodity": null,
       "title": "ELD: Gold and copper output surge and cash flow inflection in 2027 will boost shareholder returns",
-      "summary": "ELD: Gold and copper output surge and cash flow inflection in 2027 will boost shareholder returns tradingview.com",
-      "source": "tradingview.com",
+      "summary": "ELD: Gold and copper output surge and cash flow inflection in 2027 will boost shareholder returns TradingView",
+      "source": "TradingView",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQcDd4WW91MTloRDhZS2pveVZtQXZaTEF5NFBYX3p4cjhpcEdQUktpN0RtUElIYUFFZkdKb2cybjBXMG90ajJYakJKVF9ESzVtQjlMa1NCMUZ3d01jdlYyUkU3NHhwTGIxSHBNcUQ0eHVUNnRWZXIyR0xJVWhCcFJUQUt4TVdBSENkdnd1VldYVE1BdGNtUXlIcFNWdW1SdkMzdy1jcnlLRUFnNGZrM0ZZUC1CRXNCc0R2TW1XTjFFTzIyVUlTZ040c05MOW1ETEtONGVLZ3VVYkx0M1o2QzNTdHRQcFRQanFwS25fREE5WVFIUUNSX2x6VDVBZTdvMGFwYjhvS0tqc1dZZ2NncGFIaw?oc=5",
       "publishedAt": "2026-09-29T20:29:10.000Z",
       "priority": 34,
@@ -18756,7 +18763,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "ELD: Gold and copper output surge and cash flow inflection in 2027 will boost shareholder returns tradingview.com",
+        "summary": "ELD: Gold and copper output surge and cash flow inflection in 2027 will boost shareholder returns TradingView",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -18768,7 +18775,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-29T21:24:43.673Z",
-      "updatedAt": "2026-09-29T21:24:43.673Z",
+      "updatedAt": "2026-09-30T00:46:32.585Z",
       "analyzedAt": null
     },
     {
@@ -18804,71 +18811,31 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-29T21:24:43.673Z",
-      "updatedAt": "2026-09-29T21:24:43.673Z",
+      "updatedAt": "2026-09-30T00:46:32.585Z",
       "analyzedAt": null
     },
     {
-      "id": "7846ca3946e3080a7ab4c6797688a5f4ee37b9afa39bd0c196f396ed4f2702b3",
+      "id": "3330b1b9fe5af59a65db9435bc526222fd86d1359c4ed8cccd28293344f74f45",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "DLP Resources Inc. Commences Diamond Drilling At Esperanza Copper-Gold-Molybdenum Project In Southern Peru",
-      "summary": "DLP Resources Inc. Commences Diamond Drilling At Esperanza Copper-Gold-Molybdenum Project In Southern Peru marketscreener.com",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZFUxck1fVEE3QnIyVlNyam1ReTVWMWZYN2xUdUFHeVFma3lpWXRwc3Z0MXlSRUV0TUR2STlmMktkd3d3X0ZmVTY3dDVRTXdxb0UyUVpjdFIyWWV1Y2RwZ3ZQUVpDT1poSU1MV1M3Z0VFcVA0MXR5SlczRXkxZUZ4MUFBamhOVzltbFRyTXNvYXAzWjJUcm5ZcUhqUXRnZXRoRTFMNVY0TU9sazJGbGRwbXNnemdzdUZOUmVJUlU4Rk1XTEpvdjNHYVk2ZUlydFMxNGV3Q0FsTVE1NTVMVjBxdTJNeXROTVU?oc=5",
-      "publishedAt": "2026-09-26T01:35:58.000Z",
-      "priority": 33,
+      "title": "McEwen Mining at Mining Forum Americas 2026: copper value in focus",
+      "summary": "McEwen Mining at Mining Forum Americas 2026: copper value in focus Investing.com",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaVkxVW0wVnJ0Smx6UmpWbGlzeGd1RGI3dGhxZ2xmdUhDSDQxbDVDZFZ5dUxpbTY3X1pZZ25KQWR0QkROeEd6Vk1FTTVDMnNoMXVwTkdtZ1VVSE1UcDZ1dTVyYkd6WXphWV9pelVjcTJxQnlmeHBQcWl0UUJISjkxUlROWjAwTl9zVXppX0NMXzBORFlULTZuYTJkQnhBOGJQakZmbUN3cHdUOE56YVBrakF2QzRubmVmN3ZuOWVB?oc=5",
+      "publishedAt": "2026-09-29T23:43:33.000Z",
+      "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "General",
+        "category": "Mine",
         "categories": [
-          "PROJECT"
+          "MINE"
         ],
-        "region": "Peru",
-        "regions": [
-          "Peru"
-        ],
-        "summary": "DLP Resources Inc. Commences Diamond Drilling At Esperanza Copper-Gold-Molybdenum Project In Southern Peru marketscreener.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-26T05:32:21.403Z",
-      "updatedAt": "2026-09-26T05:32:21.403Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "14f8103671a721341bcafa5bdcabc33667d09ed7c81a6056c2cf35dc6d690ae7",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "A $19.7M futures gain met losses at United States Copper Index Fund (CPER). August still ended in profit.",
-      "summary": "A $19.7M futures gain met losses at United States Copper Index Fund (CPER). August still ended in profit. Stock Titan",
-      "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSTE0ZzVQcFdxZDhPWDBWamVPNGVXUkFzVDlYbEFfRFNzZVlfX1NrLUM3MnA5RGJZeldVYUZNQmZfN0RQR3BiX3NidXF4YW4tdzdFT1U0SzRtbkZyWkIyNGpmN0haMl9ha2swdzRPOXpOUDZGeFhxOUYxb3BhMEJyMHpERERjaFVkbG5fYm9qUG5PNnlpN2laUHVicWloU1J5RjhWTFhGRXZ6aVFSbEVOb1FPb001Rkxubm1qV2wyYzhXMXE3eDZJeXZB?oc=5",
-      "publishedAt": "2026-09-29T16:42:19.000Z",
-      "priority": 33,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "EARNINGS"
-        ],
-        "region": "United States",
-        "regions": [
-          "United States"
-        ],
-        "summary": "A $19.7M futures gain met losses at United States Copper Index Fund (CPER). August still ended in profit. Stock Titan",
+        "region": "Unclear",
+        "regions": [],
+        "summary": "McEwen Mining at Mining Forum Americas 2026: copper value in focus Investing.com",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -18879,8 +18846,44 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-09-29T17:01:58.200Z",
-      "updatedAt": "2026-09-29T17:01:58.200Z",
+      "queuedAt": "2026-09-30T00:46:32.585Z",
+      "updatedAt": "2026-09-30T00:46:32.585Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "2b693640290b287b36e2d583f2528ee6e3abac4615cdd006feca48b2f4b80629",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Operating margin % of Jiangxi Copper Company Limited Class H – HAN:JIX",
+      "summary": "Operating margin % of Jiangxi Copper Company Limited Class H – HAN:JIX TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR2pXemRweWhrR3VkOTNSRldBdFRWcFJfZTI5bTZYUVZVaVRDWXMyWDBuaU51TlZkQ3BDS29OVmhkOTFXekNPYnFodnRvUlgweGwzZWRGMWswYzBaMzdaZ203X0tmTHp2alhUb09Sb3EyclRjclJRMERXbWRXMXNhYm5DRWJQV1JYUFg5OGJyWjNLcmU3bjk3Qzln?oc=5",
+      "publishedAt": "2026-09-29T21:40:31.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Operating margin % of Jiangxi Copper Company Limited Class H – HAN:JIX TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-09-30T00:46:32.585Z",
+      "updatedAt": "2026-09-30T00:46:32.585Z",
       "analyzedAt": null
     }
   ]

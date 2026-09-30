@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T21:24:43.673Z",
+  "generatedAt": "2026-09-30T00:46:32.585Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -117,16 +117,6 @@
       "publishedAt": "2026-09-07T05:39:06.000Z"
     },
     {
-      "id": "a23213e991f05581542ba0d98896529607826e711c28fe1369408ca26deed667",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Weekly Recap: DRC flooding may cut copper output and HK$52.20 avg target",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-08-30T23:14:02.000Z"
-    },
-    {
       "id": "e79d94b0cfa2de823ff760bae1500f321caeba436dfc3c5faea5f486cad07a8b",
       "commodity": "ALUMINUM",
       "importance": "HIGH",
@@ -165,6 +155,16 @@
       "codexStatus": "PENDING",
       "source": "IndexBox",
       "publishedAt": "2026-09-25T13:20:44.000Z"
+    },
+    {
+      "id": "5b38c959c0d581a137bd315bedf66e6854f9e79a35bb135c734bf71598ccf4b1",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "[비철금속 시황] 칠레 광산 파업 우려에 구리 낙폭 제한…中 PMI 주목",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "산업일보",
+      "publishedAt": "2026-09-29T23:19:46.000Z"
     },
     {
       "id": "5bc80f59e417ace7d109d270e4387e1c6008552b8441cd6c77e8f1cd4e8006a0",
@@ -1065,6 +1065,16 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-09-29T16:29:05.000Z"
+    },
+    {
+      "id": "bb367bbbe092fb20aa1546389e19573cb2573a1bc3ae925c343e5decab815fa2",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Oil Prices Drop as Saudi Arabia Increases Supply; Copper Prices Rise Amid Strikes",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "GuruFocus",
+      "publishedAt": "2026-09-29T23:17:48.000Z"
     },
     {
       "id": "e27de544e2ba21092126e843262a2a7b5850778b2cb37870b47aebd01254c2ba",
@@ -3707,6 +3717,16 @@
       "publishedAt": "2026-09-29T11:32:22.000Z"
     },
     {
+      "id": "07957caa210c4fcbdd977fed6084423ac79b5f8dcf178caa7b04b3e33b72d2bb",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "MUX: Los Azules targets regenerative copper mining as gold and copper output and valuation are set to surge",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-09-29T23:32:38.000Z"
+    },
+    {
       "id": "309e26daf2a34f66ecad5b57a9f2e22d75330a57a916cee4ae7ee9d663c71d8d",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4427,26 +4447,6 @@
       "publishedAt": "2026-09-08T02:15:17.000Z"
     },
     {
-      "id": "bf168bbfa8f52acde5f0a29084491929043b8e6c6651b23b07dfecd61bb8d170",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Press Metal sees steady aluminium outlook amid rising supply",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "The Star",
-      "publishedAt": "2026-08-31T00:29:09.000Z"
-    },
-    {
-      "id": "a3fb15543df99d38789a584511173efa249852b89348e69a482c181d907cdbd0",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "High-grade copper-gold zone takes shape at Nanadie",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Australian Mining",
-      "publishedAt": "2026-08-31T00:43:14.000Z"
-    },
-    {
       "id": "da291f5bc4dfe207c72f99860b6b170d14bb62259cb8b3326ba49bdba509560c",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4973,7 +4973,7 @@
       "title": "ELD: Gold and copper output surge and cash flow inflection in 2027 will boost shareholder returns",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "publishedAt": "2026-09-29T20:29:10.000Z"
     },
     {
@@ -4987,24 +4987,24 @@
       "publishedAt": "2026-09-29T11:00:00.000Z"
     },
     {
-      "id": "7846ca3946e3080a7ab4c6797688a5f4ee37b9afa39bd0c196f396ed4f2702b3",
+      "id": "3330b1b9fe5af59a65db9435bc526222fd86d1359c4ed8cccd28293344f74f45",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "DLP Resources Inc. Commences Diamond Drilling At Esperanza Copper-Gold-Molybdenum Project In Southern Peru",
+      "title": "McEwen Mining at Mining Forum Americas 2026: copper value in focus",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "marketscreener.com",
-      "publishedAt": "2026-09-26T01:35:58.000Z"
+      "source": "Investing.com",
+      "publishedAt": "2026-09-29T23:43:33.000Z"
     },
     {
-      "id": "14f8103671a721341bcafa5bdcabc33667d09ed7c81a6056c2cf35dc6d690ae7",
+      "id": "2b693640290b287b36e2d583f2528ee6e3abac4615cdd006feca48b2f4b80629",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "A $19.7M futures gain met losses at United States Copper Index Fund (CPER). August still ended in profit.",
+      "title": "Operating margin % of Jiangxi Copper Company Limited Class H – HAN:JIX",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Stock Titan",
-      "publishedAt": "2026-09-29T16:42:19.000Z"
+      "source": "TradingView",
+      "publishedAt": "2026-09-29T21:40:31.000Z"
     }
   ]
 }
