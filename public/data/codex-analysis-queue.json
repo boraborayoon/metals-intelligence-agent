@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T06:02:02.757Z",
+  "generatedAt": "2026-09-30T12:37:40.618Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -115,6 +115,16 @@
       "codexStatus": "PENDING",
       "source": "글로벌이코노믹",
       "publishedAt": "2026-09-07T05:39:06.000Z"
+    },
+    {
+      "id": "bf504c989c3b8d5e481efd8799bc9783ce9116e91df7672d5c4682ddae4c01dc",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Chile copper mine strike risks heat up, adding further disruption to ore supply 【SMM Copper Morning Meeting Summary】",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-30T01:11:00.000Z"
     },
     {
       "id": "e79d94b0cfa2de823ff760bae1500f321caeba436dfc3c5faea5f486cad07a8b",
@@ -907,6 +917,26 @@
       "publishedAt": "2026-09-15T11:27:21.000Z"
     },
     {
+      "id": "e556c7478371963ae234c379bb318f3c995a0e32f6ba09d7071d8dc228602d04",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "세계 최대 구리 생산국 칠레서 광산 파업 우려…구리값 소폭 상승",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "더구루",
+      "publishedAt": "2026-09-30T06:47:06.000Z"
+    },
+    {
+      "id": "e19b76142fb1c7e49cd06ebd9ed63ee294f21705751621fd0962528f33361259",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "[Aluminum billet inventory consolidates at highs; production cuts and aluminum price pullback lead to regional divergence in processing fees [SMM Analysis]]",
+      "reasonForCodexReview": "Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-30T05:21:00.000Z"
+    },
+    {
       "id": "441e9e689d10a39bc8f5849ca88a5d0f773da6f728806fec17d3c5635d628114",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1055,6 +1085,16 @@
       "codexStatus": "PENDING",
       "source": "GuruFocus",
       "publishedAt": "2026-09-29T23:17:48.000Z"
+    },
+    {
+      "id": "ed2137e9a87340f7934ce476626e1294dd06445516e826865ebf31c467429427",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Aluminum Processors' Operating Rates Drop During National Day Holiday Due to Maintenance and Production Halts",
+      "reasonForCodexReview": "Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-30T12:30:00.000Z"
     },
     {
       "id": "1af4944312c1a65dbf8302e732f5341debc517600456fed9eb1fab52613c022f",
@@ -1567,14 +1607,14 @@
       "publishedAt": "2026-09-29T00:56:00.000Z"
     },
     {
-      "id": "6d1f9add520b305d001df3f49b40579dd0a3bab693f57941a65b460be992c50a",
-      "commodity": "ALUMINUM",
+      "id": "e2bf80f3c1707129752aa5f9e450d15be21dc734255fcc7ca954e013d0b7d07b",
+      "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Platts publishes intraday values for CIF Main Asian Ports Spot Aluminum Premium",
+      "title": "[SMM Analysis] India Brass Billet Prices to China Fall as LME Copper Dips and Chinese Demand Weakens",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "S&P Global",
-      "publishedAt": "2026-08-31T10:32:20.000Z"
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-30T09:42:00.000Z"
     },
     {
       "id": "19733ff2fc3c6319b66ad1dd8a931fdfee5be67de3202d6b0835458d56afc9db",
@@ -2807,6 +2847,16 @@
       "publishedAt": "2026-09-30T03:21:00.000Z"
     },
     {
+      "id": "d07767a88529c081d73408e0dfcf1e40a410c19030514eaa6fafed11175c18c9",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Panama government to recommend copper mine restart through state tie-up, sources say",
+      "reasonForCodexReview": "Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Reuters",
+      "publishedAt": "2026-09-30T10:07:42.000Z"
+    },
+    {
       "id": "15c09ea4de6cf2650ede3a2e0c0b9a9c29bc9f0484a00b9616d798c8f54bc797",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2965,16 +3015,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-09-28T09:14:00.000Z"
-    },
-    {
-      "id": "c3c0ac18b3023d38e559552e9139d1cc5918e8cf41bfd3f374e87617448534d3",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "LME aluminium prices remain range-bound as exchange stocks remain tight",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "BigMint",
-      "publishedAt": "2026-08-31T10:42:32.000Z"
     },
     {
       "id": "0f0d45d2d4d2721fc13e97f284b1a3545e113840cdbcd8444947f3b87e0a513e",
@@ -3697,24 +3737,24 @@
       "publishedAt": "2026-09-29T23:32:38.000Z"
     },
     {
-      "id": "309e26daf2a34f66ecad5b57a9f2e22d75330a57a916cee4ae7ee9d663c71d8d",
-      "commodity": "ALUMINUM",
+      "id": "650c03b4f10ecd668699de77940f1e16df42992263a07a4f6d424456226026fc",
+      "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Jefferies Adjusts Aluminum Corp. of China's Price Target to HK$11.50 From HK$14.70, Keeps at Buy",
+      "title": "Kobrea Announces Approval of US$4 Million 2026/2027 Exploration Program: BHP-Funded Program to Include Diamond Drilling at El Destino Copper-Gold-Molybdenum Porphyry Prospect - Western Malargüe Mining District - Mendoza Province, Argentina",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "marketscreener.com",
-      "publishedAt": "2026-08-31T10:50:08.000Z"
+      "source": "TMX Newsfile",
+      "publishedAt": "2026-09-30T12:00:00.000Z"
     },
     {
-      "id": "29e3b8fb5a12b905b809ecf99c120ba261137164014206fa02e9f6163d096a68",
+      "id": "47fd45e4351c6620657b1354951a45ad38d6851266e53c967c15f9459b63940c",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "Jefferies Adjusts Aluminum Corp. of China's Price Target to 12.40 Yuan From 15.20 Yuan, Keeps at Buy",
+      "title": "Operating rate declines notably due to holiday; ADC12 price expected to remain strong after the holiday [Weekly Review of Aluminum Scrap and Secondary Aluminum]",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "marketscreener.com",
-      "publishedAt": "2026-08-31T10:49:56.000Z"
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-09-30T09:12:00.000Z"
     },
     {
       "id": "6a9b9840eceba1c3e4d5a8c51fbdb498d38357aacef8946c5b644bd2626e6246",
@@ -4377,6 +4417,36 @@
       "publishedAt": "2026-09-29T12:22:03.000Z"
     },
     {
+      "id": "1d8f6f4abab1d80ce13faeb5ddad9b2462862e95ea351a975538287ddae1bc5e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Chile's copper output, manufacturing production fall in August",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-09-30T12:14:21.000Z"
+    },
+    {
+      "id": "dc751d1f842e71a783eeaeaaf93007427621241ab846c60e7413b90adaf43a13",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "CoTec, Copper Intelligence sign agreement for DRC tailings",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Technology",
+      "publishedAt": "2026-09-30T09:53:40.000Z"
+    },
+    {
+      "id": "4a792a74749ce3f4201d139b291bd5e66984422b7ca8405742736607f362d280",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Jasper to supply furnace to Neuman Aluminium",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Aluminium International Today",
+      "publishedAt": "2026-09-30T07:32:06.000Z"
+    },
+    {
       "id": "19d573023277da28a10d7b067af28d2d957a346cd21905eec743e757e3960034",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4927,84 +4997,14 @@
       "publishedAt": "2026-09-30T00:01:56.000Z"
     },
     {
-      "id": "9c519925189c3bc5136598e89a10ad2d06232c66ff97da30fd30cc8d2365be8c",
+      "id": "44d0ae869218312138864488375a094f6fa93cbaa4b8d421e59c2a225a73ec6d",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Copper Intelligence–CoTec DRC tailings JV: project and process notes for mine engineers",
+      "title": "BHP will fund a $4 million search for copper in Argentina, including drilling.",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Geomechanics.io",
-      "publishedAt": "2026-09-30T00:01:20.000Z"
-    },
-    {
-      "id": "b12216e89d8c02a4282d7c762754ecd8643224eafbaf169381cd4b44bdf5ba6e",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "China Customs Released August Rare Earth Export and Copper Ore Import Data",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-29T13:01:26.000Z"
-    },
-    {
-      "id": "ed1df333e8683531d0eea57a736e61b0f729315184dd2cead24be59e636ed8d4",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "ELD: Gold and copper output surge and cash flow inflection in 2027 will boost shareholder returns",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-09-29T20:29:10.000Z"
-    },
-    {
-      "id": "82fb092bb46b7883966f3c1e3dbfe23d196820e221c9b47fab43f3cf47e7195b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Buenaventura Targets Top-50 Mining Status With San Gabriel, Copper Growth",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-09-29T13:02:14.000Z"
-    },
-    {
-      "id": "57693d7cf961d53302def411065fa08c326a350a30bbf3026c430aa85a9baf9c",
-      "commodity": "MOLYBDENUM",
-      "importance": "MEDIUM",
-      "title": "US-based M2i partners with Polish companies to explore tungsten, molybdenum potential",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mining Weekly",
-      "publishedAt": "2026-09-29T09:35:00.000Z"
-    },
-    {
-      "id": "d369320465d376ebe9cbaa1976ccfc161f659dc5a6ee378d3d3b2c8d26775ca5",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "[SMM 분석] 미국 구리 관세 트레이드가 사그라들고 있지만 아직 끝나지 않았다",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-29T06:37:00.000Z"
-    },
-    {
-      "id": "708d7a6517398d84d2682e8889f1587dcf09ab784a9e2d17d7751fec385ae40a",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "China's Aluminum Fluoride Exports Surge 21.6% YoY in Jan-Aug 2026, Driven by Diversified Markets",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-29T15:57:00.000Z"
-    },
-    {
-      "id": "407d554cd8b20d0fea9cfd40a9b85dba602ae807ffc7031f4b708d05298177c6",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "China's refined copper output on track for lowest growth in decades this year, analysts say",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Reuters",
-      "publishedAt": "2026-09-28T08:21:43.000Z"
+      "source": "Stock Titan",
+      "publishedAt": "2026-09-30T12:00:00.000Z"
     }
   ]
 }
