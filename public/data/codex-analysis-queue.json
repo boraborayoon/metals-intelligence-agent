@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T01:35:57.518Z",
+  "generatedAt": "2026-10-01T07:49:30.192Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -85,6 +85,16 @@
       "codexStatus": "PENDING",
       "source": "Reuters",
       "publishedAt": "2026-09-29T17:53:43.000Z"
+    },
+    {
+      "id": "1d8a82f1719e79bcc9844d9e6ed234f3c030134006473ab27da1a49316f61ce9",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Strike Risk Rises At BHP’s Escondida Copper Mine",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-10-01T03:33:57.000Z"
     },
     {
       "id": "f961cdd89ba3a47510729fb138ac3f2b3e176b0dd7b3c952ef3af859411deb76",
@@ -385,16 +395,6 @@
       "codexStatus": "PENDING",
       "source": "Mining Weekly",
       "publishedAt": "2026-09-15T10:20:00.000Z"
-    },
-    {
-      "id": "5dba83075ae085dcf9cf29a6c7e1b7bda944200b6e19a1e9ea77d881e37fe9af",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "전기동 재고 미국 쏠림…LME는 35.8% 급감",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "이투뉴스",
-      "publishedAt": "2026-09-01T04:34:38.000Z"
     },
     {
       "id": "da3bcd10c03ab1e0a4cca65d891959c6ceb72d3062daa44311e732a8bda0fd4a",
@@ -1637,16 +1637,6 @@
       "publishedAt": "2026-09-30T09:42:00.000Z"
     },
     {
-      "id": "ab70c0aff201f991ddcdea7c69af64c4eb58b31355b63c2a9ce1ce6583b9e49e",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Inola residents file federal suit over aluminum smelter plans",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "2 News Oklahoma KJRH Tulsa",
-      "publishedAt": "2026-09-01T02:30:59.000Z"
-    },
-    {
       "id": "692df6550068e42b0c511afa77f8819247e85c5fd7ce16f183965e391c38c932",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1655,16 +1645,6 @@
       "codexStatus": "PENDING",
       "source": "Lelezard",
       "publishedAt": "2026-09-01T08:20:33.000Z"
-    },
-    {
-      "id": "48b0a23bd97a55a36eaeb0e3fbe2d9f1d89bfc56deea12e286b4380821efb328",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Epiroc Wins Large Equipment Order For Copper Mine In Botswana",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-09-01T06:32:00.000Z"
     },
     {
       "id": "4e9b07daba93700f8fe27613f55cba2ba612c596a7125517c75214488fede4b8",
@@ -2867,34 +2847,34 @@
       "publishedAt": "2026-09-30T23:56:39.000Z"
     },
     {
-      "id": "5a447a0042dfcbf06a822415d2cc03c88fba0d5c2a2dbf123dced07433b88171",
+      "id": "7bb117e77743bf4b93f42a0054f2aad44ac34469eb4a19ed805e2163dd620272",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Community pushback holds up a proposed copper mine on the Navajo Nation",
+      "title": "광해공단 1조 투자한 파나마 구리 광산 \"재가동 후 결국 폐쇄해야\" 의견 나와",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "KNAU",
-      "publishedAt": "2026-09-30T23:31:00.000Z"
+      "source": "더구루",
+      "publishedAt": "2026-10-01T06:36:08.000Z"
     },
     {
-      "id": "20ab0cee211a7030624e7845492f7438cf413d9ebfff96cf54442124967102b7",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Trump praises $4B Inola aluminum smelter amid opposition",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Journal Record",
-      "publishedAt": "2026-09-30T21:01:59.000Z"
-    },
-    {
-      "id": "1ac69ba917e5d53251aa91855f60be7767b123fc575da6d82c26fb6e4ff3ad83",
+      "id": "c2219413f16d49be62f95366165f716f23de5e7eb618d662898d38c0e54e2556",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Commission recommends First Quantum restart copper mine to fund future wind-down",
+      "title": "Copper price needs fresh momentum – Forecast today – 1-10-2026",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Financial Post",
-      "publishedAt": "2026-09-30T20:52:56.000Z"
+      "source": "Economies.com",
+      "publishedAt": "2026-10-01T05:10:00.000Z"
+    },
+    {
+      "id": "53c41e582fc3c6cd807a39a40d5b07fe49b083596e32b899f9cdf136668e0aae",
+      "commodity": "MOLYBDENUM",
+      "importance": "MEDIUM",
+      "title": "USGS reported US molybdenum concentrate production of 3,390 tonnes of",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "news.metal.com",
+      "publishedAt": "2026-10-01T02:49:00.000Z"
     },
     {
       "id": "15c09ea4de6cf2650ede3a2e0c0b9a9c29bc9f0484a00b9616d798c8f54bc797",
@@ -3055,16 +3035,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-09-28T09:14:00.000Z"
-    },
-    {
-      "id": "0f0d45d2d4d2721fc13e97f284b1a3545e113840cdbcd8444947f3b87e0a513e",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Base metals broadly rose, SHFE zinc broke above 27,000! LME tin and zinc led gains, SHFE silver and palladium fell over 2% [SMM Midday Commentary]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "news.metal.com",
-      "publishedAt": "2026-09-01T04:09:20.000Z"
     },
     {
       "id": "b8aed90cee4a07d06a001e3dfb9acf98bb7f527334f2d8728e03203822afa4da",
@@ -3787,46 +3757,6 @@
       "publishedAt": "2026-09-30T07:26:00.000Z"
     },
     {
-      "id": "d546dc64f470b07756b2e57e60e0871477bc7e1b00d7151b097edc1453422bb7",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "[구리 가격] 중국 제조업 PMI 50.1 확장 전환…구리는 보합",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "산업일보",
-      "publishedAt": "2026-09-30T22:51:07.000Z"
-    },
-    {
-      "id": "d0641d90219902bfd3c813cf52cbb892cba3edb4cf4829046c46e58404f70e4c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Intelligence (CUAI) Advances DRC Assets as Copper Hits Highs",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Issuewire",
-      "publishedAt": "2026-09-01T03:11:42.000Z"
-    },
-    {
-      "id": "39237f8e26dfcf92f06a3be26d95f7b40f081238a58d7165a1fcdcc14b9ec030",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "China achieves major breakthrough in copper-gold mine exploration, with ‘largest of its kind’ deposit in Yangtze River",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Global Times",
-      "publishedAt": "2026-09-01T01:58:00.000Z"
-    },
-    {
-      "id": "41dc77ead1aa360013b9a7d6c42200c55ae769fde678153ec9b147d86f9fe87d",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Chile's copper output declines 9.4% in July hit by severe weather",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mining Weekly",
-      "publishedAt": "2026-09-01T07:06:00.000Z"
-    },
-    {
       "id": "130f0ab7e50359d8f8bd5c9bb248d94fe51ac3465c402312807b7341a2b08d85",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4537,6 +4467,46 @@
       "publishedAt": "2026-09-30T19:55:00.000Z"
     },
     {
+      "id": "01acda0619419ab36b807085a415332c9743e91d5ad4fca4d28831a669f25d86",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Rio Tinto reaches Bell Bay Aluminium deal",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Aluminium International Today",
+      "publishedAt": "2026-10-01T06:07:56.000Z"
+    },
+    {
+      "id": "5a447a0042dfcbf06a822415d2cc03c88fba0d5c2a2dbf123dced07433b88171",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Community pushback holds up a proposed copper mine on the Navajo Nation",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "KNAU",
+      "publishedAt": "2026-09-30T23:31:00.000Z"
+    },
+    {
+      "id": "20ab0cee211a7030624e7845492f7438cf413d9ebfff96cf54442124967102b7",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Trump praises $4B Inola aluminum smelter amid opposition",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Journal Record",
+      "publishedAt": "2026-09-30T21:01:59.000Z"
+    },
+    {
+      "id": "1ac69ba917e5d53251aa91855f60be7767b123fc575da6d82c26fb6e4ff3ad83",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Commission recommends First Quantum restart copper mine to fund future wind-down",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Financial Post",
+      "publishedAt": "2026-09-30T20:52:56.000Z"
+    },
+    {
       "id": "d07767a88529c081d73408e0dfcf1e40a410c19030514eaa6fafed11175c18c9",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -5005,6 +4975,36 @@
       "codexStatus": "PENDING",
       "source": "Junior Mining Network",
       "publishedAt": "2026-09-29T11:05:46.000Z"
+    },
+    {
+      "id": "347f77b119f0aaf501d1cbd0ed920a0669aab932a292538c315e088acf6e2a52",
+      "commodity": "MOLYBDENUM",
+      "importance": "MEDIUM",
+      "title": "Elmet Technologies Secures Approximately ¥5.7 Billion Order for Molybdenum and Tungsten Products for U.S. Defense Stockpile",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "finance.biggo.com",
+      "publishedAt": "2026-10-01T06:25:00.000Z"
+    },
+    {
+      "id": "9124abcc725dcaa998d5ed5797800e9754cdecd0584cf226d52be76bfd808d05",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Hydro to supply high recycled content aluminum to GM",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "American Recycler",
+      "publishedAt": "2026-10-01T05:18:15.000Z"
+    },
+    {
+      "id": "5ce50143289e219f0bc044ff6082821877801754eecc503f82f0ed540882c80f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Price October 1 2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Robinhood",
+      "publishedAt": "2026-09-30T17:59:14.000Z"
     }
   ]
 }
