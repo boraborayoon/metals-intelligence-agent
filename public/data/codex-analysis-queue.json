@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T05:48:39.459Z",
+  "generatedAt": "2026-10-02T12:39:07.404Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -365,6 +365,16 @@
       "codexStatus": "PENDING",
       "source": "Mining Weekly",
       "publishedAt": "2026-09-15T10:20:00.000Z"
+    },
+    {
+      "id": "c53db226c93cd15bddace4f096abd59f23d8c21dd96c6504b651d4dd19655f1c",
+      "commodity": "TIN",
+      "importance": "HIGH",
+      "title": "Indonesian government allows PT Timah to buy tin ore from local miners",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Freddie Mitchell",
+      "publishedAt": "2026-08-21T11:38:56.000Z"
     },
     {
       "id": "cbcabe2178373f6fb27596e81a2f2059dc17285569111a36e2765be21a18719b",
@@ -887,16 +897,6 @@
       "publishedAt": "2026-09-30T14:36:00.000Z"
     },
     {
-      "id": "f2969c30403a9909b8408c0c0c35d8b9aae92d4f65e9a99639e5958667595a0e",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리포천 민자고속 요금소 광장부가 사고 1위",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "팩트저널",
-      "publishedAt": "2026-09-02T06:18:15.000Z"
-    },
-    {
       "id": "1d851ec1117255eb4ffe70aab8e246e8be99fed53de01076b4f07a98323c66d6",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1045,6 +1045,16 @@
       "codexStatus": "PENDING",
       "source": "버핏연구소",
       "publishedAt": "2026-10-01T00:26:52.000Z"
+    },
+    {
+      "id": "d071dd2c5ed85555963feb9553114cc96eec5ced50abe1d4bc114e25561b51fc",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Trojan Gold Inc. (TGII) Signs Deal to Acquire Tashota and Strike Copper",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-02T11:00:00.000Z"
     },
     {
       "id": "ed177fced0d09127ebf61ebfd3d854ef0ce9a7ad0d60d2ac371d577a9df990e9",
@@ -1557,14 +1567,14 @@
       "publishedAt": "2026-09-30T09:42:00.000Z"
     },
     {
-      "id": "08d7dbec9a8660b59a5e6b04c3af3bf193ee7ad9d7c1d608a65778b52a1a6d7b",
-      "commodity": "ALUMINUM",
+      "id": "d77625dae9d964b6e652ac726366065cf6738258a24d62bc9353f215ab76ce39",
+      "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Aluminum Premium Talks Cool Off For Japan’s Next Quarter",
+      "title": "EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Finimize",
-      "publishedAt": "2026-09-02T07:35:12.000Z"
+      "source": "Reuters",
+      "publishedAt": "2026-10-02T12:04:58.000Z"
     },
     {
       "id": "d53c6f35a2abbbb190de941b7e7f60c019a18f1f4c70d82032e5eb41fec8c461",
@@ -3607,16 +3617,6 @@
       "publishedAt": "2026-10-01T13:18:28.000Z"
     },
     {
-      "id": "c54561ed7edab7bc527ea7ed7e09c9344df69542059106061fbfcd65a07e7156",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Chile copper thieves are thwarting security measures on mine trains",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Reuters",
-      "publishedAt": "2026-09-02T10:43:46.000Z"
-    },
-    {
       "id": "5c63841465837d8e2c2419d2331aed6b81915e806156f220daa6b2ceaa58a57f",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4967,44 +4967,44 @@
       "publishedAt": "2026-10-02T00:06:00.000Z"
     },
     {
-      "id": "18f706eeb918457ab537b1622a06398fa2f7d9c66923a29436aa9f7c1d936bd5",
+      "id": "4ff55ab4a5d52241e1aa74b072c4a77000826492379009923b60e7488f21e835",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Putin Says Chinese Investors May Join Major Siberian Copper Project",
+      "title": "Freeport reports Q3 copper output in line with estimates By Investing.com",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "The China-Global South Project",
-      "publishedAt": "2026-10-02T00:48:38.000Z"
+      "source": "Investing.com Canada",
+      "publishedAt": "2026-10-02T12:09:18.000Z"
     },
     {
-      "id": "11e0b994da567fb630169985b5fbda06bf9ceb974fdd235659504018e2f5748b",
-      "commodity": "MOLYBDENUM",
-      "importance": "MEDIUM",
-      "title": "Copper-Molybdenum Oxide Interface Unlocks Air-Powered Fuel Desulfurization",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Bioengineer.org",
-      "publishedAt": "2026-10-01T12:10:23.000Z"
-    },
-    {
-      "id": "03f09bd7a9bc72dab91e9fa10c3ef3e7e7a181678cddf87cf1827722e8642d6e",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "ABB to spotlight smarter, more efficient aluminium production at ALUMINIUM 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "ABB",
-      "publishedAt": "2026-10-01T06:05:41.000Z"
-    },
-    {
-      "id": "dbe3d987cea607bb2774f41584511f7d643a4349db78b3ffb7adb2719f0440ef",
+      "id": "b2340fc58ce922a7411629b8b6377f3965bd7815d8fd623959bb87ab298e4e01",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Will Southern Copper (SCCO) Beat Estimates Again in Its Next Earnings Report?",
+      "title": "Opencast And Open Pit Mining Excavators Market To 2035: Copper and Battery-Metal Demand Lifts Equipment Orders - News and Statistics",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-10-01T15:10:05.000Z"
+      "source": "IndexBox",
+      "publishedAt": "2026-10-02T10:36:04.000Z"
+    },
+    {
+      "id": "ace4e82e177548c38cc78dac7312941eb47a0f71f913cf40e2ee55a15e9fb8a2",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper crawls higher on softer dollar, but investors wary about demand",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-02T10:22:29.000Z"
+    },
+    {
+      "id": "2abed00d83767435d7e7bcd763438fe87cfa7603719b2ed35f27caf3577ac6a6",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Mendoza Seeks to Resume Production of Copper Agricultural Inputs with San Romeleo",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Panorama Minero",
+      "publishedAt": "2026-10-02T09:48:01.000Z"
     }
   ]
 }
