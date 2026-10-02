@@ -1,6 +1,696 @@
 {
-  "generatedAt": "2026-10-01T20:32:53.801Z",
+  "generatedAt": "2026-10-02T00:15:11.192Z",
   "items": [
+    {
+      "id": "d635474f8348178f8ea3de7a322fa342fc0ed0d2e0fb1ae77e17258f77106f0a",
+      "titleSourceHash": "4f5f532a69fa76a9747ca40565bcfed88fdeeeffac365277e8687597fec33edb",
+      "eventId": "8eefa75068a303d74eb00a5fb24f444efe508620a1ff2b5af28562007eb107ae",
+      "title": "[알루미늄 가격] 12주 만의 최저…공급 부족 완화 전망에 1.5% 넘게 하락",
+      "normalizedTitle": "알루미늄 가격 12주 만의 최저 공급 부족 완화 전망에 1 5% 넘게 하락",
+      "description": "[알루미늄 가격] 12주 만의 최저…공급 부족 완화 전망에 1.5% 넘게 하락 산업일보",
+      "source": "산업일보",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-10-01T22:32:31.000Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBaOUJWRWh2eHhsOERZckg4MUhHanhYQ2ZSc0hTU1hGVVBwNDdRYlB0OW9EaDQtR2ZtRzg3eGVpZkZ3eFBo?oc=5",
+      "language": "ko",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "알루미늄",
+        "알루미늄 가격"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "가격",
+        "공급"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 13,
+          "matchedKeywords": [
+            "알루미늄",
+            "알루미늄 가격"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "가격",
+            "공급"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE",
+        "SUPPLY"
+      ],
+      "primaryCategory": "Supply",
+      "titleKo": "[알루미늄 가격] 12주 만의 최저…공급 부족 완화 전망에 1.5% 넘게 하락",
+      "summaryKo": "[알루미늄 가격] 12주 만의 최저…공급 부족 완화 전망에 1.5% 넘게 하락 산업일보",
+      "marketImpact": "Bullish",
+      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+      "procurementImpact": "NEGATIVE",
+      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "MEDIUM",
+      "signals": [
+        "Supply Tightening",
+        "Supply Disruption",
+        "Price Increase Risk"
+      ],
+      "keyEvidence": [
+        "공급 부족"
+      ],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Supply",
+        "categories": [
+          "PRICE",
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[알루미늄 가격] 12주 만의 최저…공급 부족 완화 전망에 1.5% 넘게 하락 산업일보",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "공급 부족"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Supply",
+        "categories": [
+          "PRICE",
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[알루미늄 가격] 12주 만의 최저…공급 부족 완화 전망에 1.5% 넘게 하락 산업일보",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "공급 부족"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "priority": 46,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": true,
+      "sentAt": "2026-10-02T00:15:11.192Z"
+    },
+    {
+      "id": "99b6d1e34fbde599ca338a5d7ff907a82c239891680b71caed99d3e732228bd0",
+      "titleSourceHash": "d755e394a8409b014c31d022aa23bb3b29fce111ed2cd682a8933bf1fdd5bfc7",
+      "eventId": "902eede744aa2a37e3e363184a7fa42ab76e9cfb926bee886ae9a68225941ef9",
+      "title": "Race Result | 01 Oct 2026 | Sha Tin | Race 1 NANNING HANDICAP | HK Racing",
+      "normalizedTitle": "race result 01 oct 2026 sha tin race 1 nanning handicap hk racing",
+      "description": "Race Result | 01 Oct 2026 | Sha Tin | Race 1 NANNING HANDICAP | HK Racing South China Morning Post",
+      "source": "South China Morning Post",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-01T21:11:25.000Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jNDIwQl9fXzhCeVhScmNmYlJLNlJBOHdFM2d1M0xrY2ZoS2phNTI3LVJiclplUklfM29iSWtLZlJQV0FUTW12Nk9lYnVQLTBXRkprQmxTZTZLa3ZtUUM0dnRaX2JBOXc?oc=5",
+      "language": "en",
+      "commodity": "TIN",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "tin"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "China"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "TIN",
+          "score": 8,
+          "matchedKeywords": [
+            "tin"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "China"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "CHINA"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Race Result | 01 Oct 2026 | Sha Tin | Race 1 NANNING HANDICAP | HK Racing",
+      "summaryKo": "Race Result | 01 Oct 2026 | Sha Tin | Race 1 NANNING HANDICAP | HK Racing South China Morning Post",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "China"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Race Result | 01 Oct 2026 | Sha Tin | Race 1 NANNING HANDICAP | HK Racing South China Morning Post",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Race Result | 01 Oct 2026 | Sha Tin | Race 1 NANNING HANDICAP | HK Racing South China Morning Post",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 18,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "387fea74d38c0f6b50a29da382614a64950f7799315d32394598ebdaf95d664d",
+      "titleSourceHash": "48500f3fa1f479d23a31faab240af80c25d11085ee1a1fc56e42b13cac0f7b34",
+      "eventId": "5b2e076c3ec96b366a4471fbbe73be09b64aff3fed7e71a22343335e0a047340",
+      "title": "Chakana Copper Corp. (PERU) Adopts Semi-Annual Reporting Under CSA Pilot",
+      "normalizedTitle": "chakana copper corp peru adopts semi-annual reporting under csa pilot",
+      "description": "Chakana Copper Corp. (PERU) Adopts Semi-Annual Reporting Under CSA Pilot tradingview.com",
+      "source": "tradingview.com",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-01T21:00:00.000Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcC0xbUxqTEdqU2JweTVwR0FhRkpVeUxnZ3daY0twS09vNXJGRldYR1RhUjljeWNnOEp5dHFzNm9YOWZWYkRpSEVYa3c4YkU4RnFoYTRUdzBEQ05RUUJ6SmdVeU5oM3ZFaTFWWkxYMTY4bEY5WGlfWnkydzdRWDc5bjFMenpsZFFFVnJXcmhiV2l2UkhZdUJkcDBGMUtsek45RWZxUDVJM19WbGs2U3FYU3hpNXg0OWl3ODBVci1LbXFKTEJULURIc3Rlcw?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "Peru"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 8,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "Peru"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "LOGISTICS"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Chakana Copper Corp. (PERU) Adopts Semi-Annual Reporting Under CSA Pilot",
+      "summaryKo": "Chakana Copper Corp. (PERU) Adopts Semi-Annual Reporting Under CSA Pilot tradingview.com",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "Peru"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "LOGISTICS"
+        ],
+        "region": "Peru",
+        "regions": [
+          "Peru"
+        ],
+        "summary": "Chakana Copper Corp. (PERU) Adopts Semi-Annual Reporting Under CSA Pilot tradingview.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "LOGISTICS"
+        ],
+        "region": "Peru",
+        "regions": [
+          "Peru"
+        ],
+        "summary": "Chakana Copper Corp. (PERU) Adopts Semi-Annual Reporting Under CSA Pilot tradingview.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 18,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "33f61ab8d866dd641e3fe0ccfc8ef9f5a22e0ea286d16886301f4b0e2cb94eec",
+      "titleSourceHash": "4b2c8d448c1ed046bd81974efd891f0c2d3b8c27ba64570004468c284a282de2",
+      "eventId": "fae39741b423a7dd22ae11362691107a716d8930722213b5c7c8ce6d6fd526e2",
+      "title": "Southern Copper (SCCO) Stock Dips While Market Gains: Key Facts",
+      "normalizedTitle": "southern copper scco stock dips while market gains key facts",
+      "description": "Southern Copper (SCCO) Stock Dips While Market Gains: Key Facts Yahoo Finance Australia",
+      "source": "Yahoo Finance Australia",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-01T20:50:05.000Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkFVR1I1dDgyZHZuSm5aV1dQM1VoUzBBZXJaYkxlcHlGLUZHT2hqNzhBdHZxM3dqZ3V3bkFENEV5SHVXTVhzUlA4cldkMHhRREVUY2ZJLWFzemdHY3RpTk5ndEp0UWtGSG5sTGs5cVhzQkF1d0ZSM0s2dFJMZXlOMlVsRG1pWHM?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [
+        "Southern Copper"
+      ],
+      "matchedRegions": [],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [
+            "Southern Copper"
+          ],
+          "matchedRegions": [],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "COMPANY"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Southern Copper (SCCO) Stock Dips While Market Gains: Key Facts",
+      "summaryKo": "Southern Copper (SCCO) Stock Dips While Market Gains: Key Facts Yahoo Finance Australia",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [
+        "Southern Copper"
+      ],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Southern Copper (SCCO) Stock Dips While Market Gains: Key Facts Yahoo Finance Australia",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Southern Copper (SCCO) Stock Dips While Market Gains: Key Facts Yahoo Finance Australia",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-10-02T00:15:11.192Z"
+    },
+    {
+      "id": "7c1f7341b7cc33e9887e25d808f2dde3b774fca1fd5bc80fd180c39d5cf2f2e9",
+      "titleSourceHash": "994bc588364bbb7453de10d17a155a645af57ebc499c476d34ff63d2a0aff17d",
+      "eventId": "8c32b4be9b0d935560311a812970472efbf7b2b59d1be17b6c51fefc5d815515",
+      "title": "Colombia: Peasants criminalized in Jericó for defending their water and land against a copper mining project",
+      "normalizedTitle": "colombia peasants criminalized in jericó for defending their water and land against a copper mining project",
+      "description": "Colombia: Peasants criminalized in Jericó for defending their water and land against a copper mining project Business and Human Rights Centre",
+      "source": "Business and Human Rights Centre",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-01T20:45:08.000Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTUFDNFVUdWV6RHowZjVWb2dpN2lMVWNTLUs5UDNQWS1RT2NrWUdKYko2TlpOaEtUWWoyWGhZeGFiSHg3SmNWX3FaVHhiYS16bVVIX3FwUFVDZVd5VVpTZGNDT2ZtR2MteTU4MDZyck1zTWpLbFFneGRYMWQ5d0hscDBPcHdOeHFBZ3Ftbi1WdzVYTUdoYmpjUDdXSEJwd21sdzF3MWtENXNmWjZkMFJuZFNUSlo2djQteEJLTFdJY2FxcWVYTVZucjVKUG1MRE94aHJ1UlFJbGVHMlNXQjBBa1lreWVRZWVLRm1Sa0diQlA3SzYteEJXTw?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "mining"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "mining"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "MINE",
+        "PROJECT"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "Colombia: Peasants criminalized in Jericó for defending their water and land against a copper mining project",
+      "summaryKo": "Colombia: Peasants criminalized in Jericó for defending their water and land against a copper mining project Business and Human Rights Centre",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "MEDIUM_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Colombia: Peasants criminalized in Jericó for defending their water and land against a copper mining project Business and Human Rights Centre",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Colombia: Peasants criminalized in Jericó for defending their water and land against a copper mining project Business and Human Rights Centre",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-10-02T00:15:11.192Z"
+    },
+    {
+      "id": "a9621fe0881bf048510780c0cb5a0565d3b1101deef968bb7b58145ed83064db",
+      "titleSourceHash": "ef78e637f91f3bf337bb2998fb0f5fe2ff7a811efa682e1cf00f15982aedea8a",
+      "eventId": "eda469572fbb3ffd2c5d213e95c7601f755353c7b598fef09083524aa8e3aa5a",
+      "title": "Copper and cobalt are essential to batteries. Chilean Cobalt is exploring both in Chile.",
+      "normalizedTitle": "copper and cobalt are essential to batteries chile cobalt is exploring both in chile",
+      "description": "Copper and cobalt are essential to batteries. Chilean Cobalt is exploring both in Chile. Stock Titan",
+      "source": "Stock Titan",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-01T20:29:00.000Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQTdFendvM0xaMDlTcXc5bHVhR3hOWVpiMzRGWUdPS25pZnF3bVVTdEZYb0JpTEJGLW82M3J0b2d0aU5jNUpqRWdCTEpNaVRkQVZqNF9qLU1oUmRXNUhlZkxPNXFKRFh4eHh4WHNFSGVuNFRYcXhkZVBLR1UtRklUdkxJeFZzT3RqbFZRbi02YlBfRUJhWXlWc1FzQS1iNm9wbzJNbmV5NklOQWswNW5ySTZVLXRWN25tNUFkbWE4Z3c?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "Chile"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 8,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "Chile"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "COMPANY"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Copper and cobalt are essential to batteries. Chilean Cobalt is exploring both in Chile.",
+      "summaryKo": "Copper and cobalt are essential to batteries. Chilean Cobalt is exploring both in Chile. Stock Titan",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "Chile"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Copper and cobalt are essential to batteries. Chilean Cobalt is exploring both in Chile. Stock Titan",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Copper and cobalt are essential to batteries. Chilean Cobalt is exploring both in Chile. Stock Titan",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 18,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
     {
       "id": "70d5e22a002d1cd46cd29b24ffe190a00092f1138de549eae7722965e563ab65",
       "titleSourceHash": "ca902f610d12392f3126ec1f56d6b2b38b54d57da90b7e6c4806a87430fefc19",
@@ -117,119 +807,6 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-10-01T20:32:53.801Z"
-    },
-    {
-      "id": "99b6d1e34fbde599ca338a5d7ff907a82c239891680b71caed99d3e732228bd0",
-      "titleSourceHash": "d755e394a8409b014c31d022aa23bb3b29fce111ed2cd682a8933bf1fdd5bfc7",
-      "eventId": "902eede744aa2a37e3e363184a7fa42ab76e9cfb926bee886ae9a68225941ef9",
-      "title": "Race Result | 01 Oct 2026 | Sha Tin | Race 1 NANNING HANDICAP | HK Racing",
-      "normalizedTitle": "race result 01 oct 2026 sha tin race 1 nanning handicap hk racing",
-      "description": "Race Result | 01 Oct 2026 | Sha Tin | Race 1 NANNING HANDICAP | HK Racing South China Morning Post",
-      "source": "South China Morning Post",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-10-01T19:41:25.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jNDIwQl9fXzhCeVhScmNmYlJLNlJBOHdFM2d1M0xrY2ZoS2phNTI3LVJiclplUklfM29iSWtLZlJQV0FUTW12Nk9lYnVQLTBXRkprQmxTZTZLa3ZtUUM0dnRaX2JBOXc?oc=5",
-      "language": "en",
-      "commodity": "TIN",
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "tin"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "TIN",
-          "score": 8,
-          "matchedKeywords": [
-            "tin"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "CHINA"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Race Result | 01 Oct 2026 | Sha Tin | Race 1 NANNING HANDICAP | HK Racing",
-      "summaryKo": "Race Result | 01 Oct 2026 | Sha Tin | Race 1 NANNING HANDICAP | HK Racing South China Morning Post",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Race Result | 01 Oct 2026 | Sha Tin | Race 1 NANNING HANDICAP | HK Racing South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Race Result | 01 Oct 2026 | Sha Tin | Race 1 NANNING HANDICAP | HK Racing South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 18,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
     },
     {
       "id": "6dc7931f5b6e788eb2491fa9f0d3119292019885b89a295632817acf8e2bda22",
@@ -449,6 +1026,115 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-10-01T20:32:53.801Z"
+    },
+    {
+      "id": "8102e0bfd969a56c88e51ae118e90a689343bc85ed9f53c8b5febc2e3477c9ac",
+      "titleSourceHash": "b2fead66262703574556cc4d5bbd9ffeddbb4ab0cbd0bb4c45e336984ec80791",
+      "eventId": "3b5ac9db8b45eb0deb112d0b7a53645270a1d616ef9e2847f7319bdde7c8d21e",
+      "title": "Copper Price October 2 2026",
+      "normalizedTitle": "copper price october 2 2026",
+      "description": "Copper Price October 2 2026 robinhood.com",
+      "source": "robinhood.com",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-01T17:58:03.000Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFA4LXdxUWk5Wml3VkNtZjlYTkpwVEJfRVc0WElqaFpJV3piZHFwaWNyc2xCRTh0Y0tKVWVTaEN6QmdtNjRMVDk4OGhNZ2pwX2JZYkxyUnNZUHZveEJpTWFmbDVVREVRTUlYMTlMWUFRUmRjVmN0dTlBcTJXNGxPRnZ4YzRZREVWdExjZ0FBR2tEeG8ybzkwYTRLRjBLMmV1M21N?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "copper",
+        "copper price"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "price"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 13,
+          "matchedKeywords": [
+            "copper",
+            "copper price"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "price"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Copper Price October 2 2026",
+      "summaryKo": "Copper Price October 2 2026 robinhood.com",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Price October 2 2026 robinhood.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Price October 2 2026 robinhood.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-10-02T00:15:11.192Z"
     },
     {
       "id": "c72b7957ef3d3566022e35ae438d72d4490efcebff710adb9a657e7f6bd810dd",
@@ -677,7 +1363,7 @@
       "source": "Proactive financial news",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-01T15:20:39.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORUFLNG1oS0FLZWlFbHRFV1hXUGFQN2hzX2xIanY0UUFlbk8zeXk3Q1J3ZU9yeGFsZkVGTG9sMC1waElaOUJlZkN5S2FoUTlINUVsckNTZUM1YUpJMGQ2ajc1bm0xTlc1YXdaNkw5UjBFcnVDN3NhcF9ybUpxaThndzNBTTM5X2ljR2FTSVRBNkstb1RtY2hXTzlzcHM0RHhMSnlvU2l5NTJRVVFjSzB3dXRja1pnTXNRRlpYNG45YlBkaGlQRFVSWlI2b3lEbHdzTC1nY09ZMGotdlJPUEE?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -774,7 +1460,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 18,
+      "priority": 14,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -903,7 +1589,7 @@
       "source": "Yahoo Finance",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-01T15:10:05.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZll6b2hFY0NXajhHNHVMLTlkNDBJRkZoaVMycFU1bUJsTy1JZl9TbG9vMjRab2dMSTZrdjNsV1FPdmt4OEpjWFdhWHJLa2FQQ2JKUkMxYUVyOGtfbWVhWW1jU0xQVGxHVzZxX3RSdllETnQtVEVhM05oRXhfQWFxenRuNXJIVHNHc2dXTEFuOUx1UFhlMDI5Sk9uRHlEVUtRVnc?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -999,7 +1685,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 34,
+      "priority": 30,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear",
       "sent": false,
@@ -1220,15 +1906,15 @@
     },
     {
       "id": "e3722d9c57af7d2cee278ea339234fca1b6bae7910036e942bcf1d76cb007b6a",
-      "titleSourceHash": "cfd79460bf02cd9d632d516715bb76f10948796d5e2049f6b5e120431df5bd01",
+      "titleSourceHash": "1d12f819f81e9a876d1843737b69b477852cd6fa76e7b2b48f4bead57eff7825",
       "eventId": "3d2d7c7f82db090151f674f9f596096aaa94c241735f638e8f58421ce0285e1f",
       "title": "BofA raises long-term copper forecast on tightening supply outlook",
       "normalizedTitle": "bofa raises long-term copper forecast on tightening supply outlook",
-      "description": "BofA raises long-term copper forecast on tightening supply outlook TradingView",
-      "source": "TradingView",
+      "description": "BofA raises long-term copper forecast on tightening supply outlook tradingview.com",
+      "source": "tradingview.com",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-01T13:45:13.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOE50TDlXLUpWWmtlTU9xUlFITnMwVHJzWm9UbzdpYjB1NzZwTTlReUljQ3k5elVMZm1xeWRnbnZsQnBLTDZzWXZWc09HQXZnRjE5U2YyTlM1U1FETGNHQzM2WDlWTGdsdXZFbllpM3lNRWh6b1dtQXh0ZHIta2dYRTJlczZfWWY1Wktvd2VpU1NQX3hwb29BakJlRnNZX2xpVTB0WmViNVZOTVB3RXhUc1RaZWlaT05LSTBnRmRVeDV1RXVEUVBMYVZFTkNneFU4OHc?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -1265,7 +1951,7 @@
       ],
       "primaryCategory": "Production Guidance",
       "titleKo": "BofA raises long-term copper forecast on tightening supply outlook",
-      "summaryKo": "BofA raises long-term copper forecast on tightening supply outlook TradingView",
+      "summaryKo": "BofA raises long-term copper forecast on tightening supply outlook tradingview.com",
       "marketImpact": "Unclear",
       "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
       "procurementImpact": "UNCLEAR",
@@ -1292,7 +1978,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "BofA raises long-term copper forecast on tightening supply outlook TradingView",
+        "summary": "BofA raises long-term copper forecast on tightening supply outlook tradingview.com",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -1313,7 +1999,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "BofA raises long-term copper forecast on tightening supply outlook TradingView",
+        "summary": "BofA raises long-term copper forecast on tightening supply outlook tradingview.com",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -1445,7 +2131,7 @@
       "source": "Yahoo! Finance Canada",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-01T13:00:00.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeDRlTV9uVkNOX0lZd091LTQ0dllKajBsdk1UczBWMDhiVzZoanNhMlVZeEZ5Y2ZTZURRak1RVFBNVWhKNmhvZkhJMlJndVlHUmFhc1ppZVJMZmIwN3p4STNydHNRUHpHWHRDZ0xXU0dkYXd3Y0RXS2Q0RVVOX3kzSklXU3VsWC10?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -1540,15 +2226,15 @@
     },
     {
       "id": "e833b1707260fb0b2f1e5864483b6617b8c194a185eb17cef21469630585d053",
-      "titleSourceHash": "6125a7397027ff0a3b5e2b0a2ef0fa87b1f46185a891234b28441e11da1e6890",
+      "titleSourceHash": "017db839a708af624322214b2d337c7d991ad5d26e1c8f341746834732a60f5f",
       "eventId": "b40d2ad9ed51efe7fa830d686d4618e427ca6d33ca5ba3edb1b9d5ae8feea362",
       "title": "트리메틸알루미늄 ALD 전구체 시장 2035년 전망: ALD 공정 단계 증가로 수요 가속 - 뉴스 및 통계",
       "normalizedTitle": "트리메틸알루미늄 ald 전구체 시장 2035년 전망 ald 공정 단계 증가로 수요 가속 - 뉴스 및 통계",
-      "description": "트리메틸알루미늄 ALD 전구체 시장 2035년 전망: ALD 공정 단계 증가로 수요 가속 - 뉴스 및 통계 indexbox.io",
-      "source": "indexbox.io",
+      "description": "트리메틸알루미늄 ALD 전구체 시장 2035년 전망: ALD 공정 단계 증가로 수요 가속 - 뉴스 및 통계 IndexBox",
+      "source": "IndexBox",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-01T12:56:04.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM0FTY1l3ZW9pb2dody12ZFZpcmR4MjUydFYtV3dXQ0k0MWVXc2hCSjdSNXIxcE9JNnF6UkFqSmQtbzhGX0Utb1BrQUlLdEJ0SWlwMXc3Um9hSFRDdFR0QTA1Ykt6RDVjN01jVjBsMjZBVlhOQXk5aUctdUtrWVlHWUZLTUVvNU03ck52QXJWTU9PMlVDT0c3OW5kc21BakpfajZacDlvRnhZRDVfRTF6c2lhSXcyT0pRSC1KY2stdVNoZm9LZkhrLWl0ZVMtdw?oc=5",
       "language": "ko",
       "commodity": "ALUMINUM",
@@ -1584,7 +2270,7 @@
       ],
       "primaryCategory": "Demand",
       "titleKo": "트리메틸알루미늄 ALD 전구체 시장 2035년 전망: ALD 공정 단계 증가로 수요 가속 - 뉴스 및 통계",
-      "summaryKo": "트리메틸알루미늄 ALD 전구체 시장 2035년 전망: ALD 공정 단계 증가로 수요 가속 - 뉴스 및 통계 indexbox.io",
+      "summaryKo": "트리메틸알루미늄 ALD 전구체 시장 2035년 전망: ALD 공정 단계 증가로 수요 가속 - 뉴스 및 통계 IndexBox",
       "marketImpact": "Unclear",
       "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
       "procurementImpact": "UNCLEAR",
@@ -1610,7 +2296,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "트리메틸알루미늄 ALD 전구체 시장 2035년 전망: ALD 공정 단계 증가로 수요 가속 - 뉴스 및 통계 indexbox.io",
+        "summary": "트리메틸알루미늄 ALD 전구체 시장 2035년 전망: ALD 공정 단계 증가로 수요 가속 - 뉴스 및 통계 IndexBox",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -1630,7 +2316,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "트리메틸알루미늄 ALD 전구체 시장 2035년 전망: ALD 공정 단계 증가로 수요 가속 - 뉴스 및 통계 indexbox.io",
+        "summary": "트리메틸알루미늄 ALD 전구체 시장 2035년 전망: ALD 공정 단계 증가로 수요 가속 - 뉴스 및 통계 IndexBox",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -1655,7 +2341,7 @@
       "source": "Tech Xplore",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-01T12:40:01.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTGk3blFrR0Zmd09fNW1JcXpRR28zRDRuU243YVRaRUgxVDI0UDFqeWwzbUFDb3A4YjZNZzUwUTIteW1qckVmR3NLUW1HUTNEbVFGcW1lRkwwcWhpUEpNSDB3NndxdFBmc2ZOaHM1eHJJZXBINzE0dXR2emptTkVVTVVn?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -1762,7 +2448,7 @@
       "source": "Steel Times International",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-01T12:26:59.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZGJOM1ZRN3B3YndCUVIzckZwYk5OMkd4MlltS3BBNnZJUnB4YlJVQkEwcE5nVUhBcHQtRmF1eFI5UzdKSWhrb2h2TlhRRE1hMER6NTVGSncwMDdYOGZXTEo5Q3FFU0lzSEJlcnN0Q3hLeWJMb2RkUkliSUJWY2JXaWtQSDhLQ0RtbTlRSklELU4wSDZkSFNQRHJsc19kcU0?oc=5",
       "language": "en",
       "commodity": "MOLYBDENUM",
@@ -1869,7 +2555,7 @@
       "source": "Bioengineer.org",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-01T12:10:23.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTmd3eHBXN0wwUEZlbnZNb25qVk5obUtnblFjMTBrUGRLR2NCM1hfYkdkamV1cXlBZDBBWnJ1Rnd0VU9ndjFuWVB3VFFIX3RydXpqeFdkUWc5ZlFRX1gyY3ZRT2VIcjFQa3l4VnR5M0NGbXQwUW9kOWFiYVFpQVhhYkZuRlhHbHNUcHFrWGdpRXktemwyOWprb2ROWGl2Q1lq?oc=5",
       "language": "en",
       "commodity": "MOLYBDENUM",
@@ -1972,8 +2658,8 @@
       "priority": 32,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-10-02T00:15:11.192Z"
     },
     {
       "id": "7bfea9b641e140662dc54545a9699e2c14777ad88f2b28526cef047c3163e452",
@@ -1985,7 +2671,7 @@
       "source": "IndexBox",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-01T12:06:04.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXZEaVVlWWxlRWZSX2ZLUmYtNk1rT2lnYUUyNlVrSlVmZ3VpRkhDVUF2Q3FvcEFveUktcEJxUXJwNlRQODFJc080WlNRNmtZU0YwLW9UWmNxRldHRlFRTkloOFBJSHBIR0JmcHJZLVpoSVZMQWh1eW80M0d3b1BVM3JQMWlVaklJaUZjYzdpSFFkR2x1UlJaWjVhSTc5c0tUazhGa1k0YzRnQWhnd3NQTVkwTndHbEw1aklZUU5pRkxTeTA?oc=5",
       "language": "en",
       "commodity": "MOLYBDENUM",
@@ -2197,15 +2883,15 @@
     },
     {
       "id": "60de1bc7b35f0608516c8e3b85e2952ebc7988bfaa68c06a9c464926352b7104",
-      "titleSourceHash": "572cf7afd8d98f8b35a40e816208fce48cdf1f562ce472a07002ca8d0f9bfbef",
+      "titleSourceHash": "8f4565a33acd35ad44dfaf1ed0c5f1990499b9527762274ce0f564b41c9830cd",
       "eventId": "0f5b6de3a6988241a704bdbfd1a941a33322bc466054290d65b3e1b83bf40fc7",
       "title": "Copper Intelligence (CUAI) Reports Thicker Copper Intervals at Butembo",
       "normalizedTitle": "copper intelligence cuai reports thicker copper intervals at butembo",
-      "description": "Copper Intelligence (CUAI) Reports Thicker Copper Intervals at Butembo TradingView",
-      "source": "TradingView",
+      "description": "Copper Intelligence (CUAI) Reports Thicker Copper Intervals at Butembo tradingview.com",
+      "source": "tradingview.com",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-01T11:30:00.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNktpQXRQVUNFb19CQ3p6QlFyYXVXbklwRHIwaGxnR19BOEpJdVF0OUZYSFRSOGxrRVJNRUNoTm9FWmpCNl8xaHBYOGRNSGJkckZVTlpMYTNWOGVpVGdZTlMxZ2c0eUNYWmdmeFNtQkktRzllODViVkpfVUEzSW1vZUJ4YzI3MGpKc2tXNXNMbUMzNUo5V3RPdTJCNmJoQ2U2T1hydHlwbk9TV3c0TjVFOGtpN0xpLUxJWFEyeHpwSzlESThRQ0pEaEdn?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -2237,7 +2923,7 @@
       ],
       "primaryCategory": "General",
       "titleKo": "Copper Intelligence (CUAI) Reports Thicker Copper Intervals at Butembo",
-      "summaryKo": "Copper Intelligence (CUAI) Reports Thicker Copper Intervals at Butembo TradingView",
+      "summaryKo": "Copper Intelligence (CUAI) Reports Thicker Copper Intervals at Butembo tradingview.com",
       "marketImpact": "Unclear",
       "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
       "procurementImpact": "UNCLEAR",
@@ -2263,7 +2949,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Copper Intelligence (CUAI) Reports Thicker Copper Intervals at Butembo TradingView",
+        "summary": "Copper Intelligence (CUAI) Reports Thicker Copper Intervals at Butembo tradingview.com",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -2283,7 +2969,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Copper Intelligence (CUAI) Reports Thicker Copper Intervals at Butembo TradingView",
+        "summary": "Copper Intelligence (CUAI) Reports Thicker Copper Intervals at Butembo tradingview.com",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -2753,15 +3439,15 @@
     },
     {
       "id": "1ad8cda62b5c293fbf65b56720b4681ff282f77f07fdeced1663effc0b0ab61e",
-      "titleSourceHash": "5897881eb5fff083f8ab89003042f2160cd9719eec63531d0a9ac3c11d644adb",
+      "titleSourceHash": "d5e27b55d29e24d3e418789e9a683e8511a8bbdbb43a9568ce26c7789911cb62",
       "eventId": "17adf87b9012a24d3a4f2fb8b258d11f9e77c0ecfd2ba5044d0559bd31ed1ddb",
       "title": "질화알루미늄 웨이퍼 시장 2035년 전망: 와이드 밴드갭 수요가 확장 견인 - 뉴스 및 통계",
       "normalizedTitle": "질화알루미늄 웨이퍼 시장 2035년 전망 와이드 밴드갭 수요가 확장 견인 - 뉴스 및 통계",
-      "description": "질화알루미늄 웨이퍼 시장 2035년 전망: 와이드 밴드갭 수요가 확장 견인 - 뉴스 및 통계 indexbox.io",
-      "source": "indexbox.io",
+      "description": "질화알루미늄 웨이퍼 시장 2035년 전망: 와이드 밴드갭 수요가 확장 견인 - 뉴스 및 통계 IndexBox",
+      "source": "IndexBox",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-01T10:31:03.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSi12c2dtaEgxNjM5aXBMNjI5eGtjSlJIQ0phWUVCQXFCMFByY0dKYVdEdEg0TXR5Mkt2UU9BRDlQZnhmYTlWMGhldjAzUjFTQzgzMXladkV2d3o3czBkdHJRbW4tUTNzYUM3RmpBYU1tY09RQWdreFc5TTRDNUw2UWlGaU56elhDZ2pJQTZwSHExcTNIZjB6RE5hNVZlcldoSFpQbTV0SDRxZ2h4Wm0yRjA1SUdDRGZHX1lwTV8xNGNYWUp4RFpkNWdrQ2dGUVdTLVE?oc=5",
       "language": "ko",
       "commodity": "ALUMINUM",
@@ -2797,7 +3483,7 @@
       ],
       "primaryCategory": "Demand",
       "titleKo": "질화알루미늄 웨이퍼 시장 2035년 전망: 와이드 밴드갭 수요가 확장 견인 - 뉴스 및 통계",
-      "summaryKo": "질화알루미늄 웨이퍼 시장 2035년 전망: 와이드 밴드갭 수요가 확장 견인 - 뉴스 및 통계 indexbox.io",
+      "summaryKo": "질화알루미늄 웨이퍼 시장 2035년 전망: 와이드 밴드갭 수요가 확장 견인 - 뉴스 및 통계 IndexBox",
       "marketImpact": "Unclear",
       "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
       "procurementImpact": "UNCLEAR",
@@ -2823,7 +3509,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "질화알루미늄 웨이퍼 시장 2035년 전망: 와이드 밴드갭 수요가 확장 견인 - 뉴스 및 통계 indexbox.io",
+        "summary": "질화알루미늄 웨이퍼 시장 2035년 전망: 와이드 밴드갭 수요가 확장 견인 - 뉴스 및 통계 IndexBox",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -2843,7 +3529,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "질화알루미늄 웨이퍼 시장 2035년 전망: 와이드 밴드갭 수요가 확장 견인 - 뉴스 및 통계 indexbox.io",
+        "summary": "질화알루미늄 웨이퍼 시장 2035년 전망: 와이드 밴드갭 수요가 확장 견인 - 뉴스 및 통계 IndexBox",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -3082,7 +3768,7 @@
       "source": "Vietnam.vn",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-01T09:57:14.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGhsWXQ1Y1JrU21wSkJ0MTBTaUdsZy10OEM3Q1JSSFQ3Mm4tUkp1ejhlT1daVi1iblRkZUlHNWNrZW41T0JQVVFnSFZndVV0U0JHdjRRQVpPd3c1UGdZQ1I3Rmw0aFpubnJLdFZDOEktUFUyMnFPNXRCYUxVdklKYlVzNVN6US1KT2drOVFNeGRKV25kRTZDYXhTaUdtUlJGRC1rZWdfX0NSZUNLZ0ZEUE1B?oc=5",
       "language": "ko",
       "commodity": "TIN",
@@ -3177,15 +3863,15 @@
     },
     {
       "id": "d39864274b4479d517ecc1644748fdebd662174c634ccdb4085936210e5d5f28",
-      "titleSourceHash": "545d454efb06639ac09074a1295cf77537c5cc28449766f01319a47d007b7903",
+      "titleSourceHash": "74602a17c3e3954bb8f290a96f19a76a0ffedb4ba315b7719002715b79472559",
       "eventId": "c0827aa8bb2d459d7628fe02b5be8cacb2fed8abfebcfd426b4e41aa41435dad",
       "title": "Japanese smelter Furukawa plans 3% cut in second-half copper output",
       "normalizedTitle": "japanese smelter furukawa plans 3% cut in second-half copper output",
-      "description": "Japanese smelter Furukawa plans 3% cut in second-half copper output TradingView",
-      "source": "TradingView",
+      "description": "Japanese smelter Furukawa plans 3% cut in second-half copper output tradingview.com",
+      "source": "tradingview.com",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-01T09:47:49.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcG90aFQ3UGxycGdQdzBidkZfMXN2VDlSSzhmem5lUEVKZld5TkRLMnpvTXgwNlAzOE9CUEtENnZ0SGVoOG9JME5ZalNoa0ZtSFZja2lJMmxDTVAxdVlMaVZBczdYVDdIN2E2UE03WlRZODZnanloU0tVUzJuV2w5S3RaUy1SbENnVXdmQ09yR2U2M0NGelhZN2JMLVpuak1CT2ZSMWExOWFDbURhWk9wYjEwOEZJTU51RGpWQmVpbjFqT0JUbHFJX3NiejFtb0NjZnc?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -3224,7 +3910,7 @@
       ],
       "primaryCategory": "Production",
       "titleKo": "Japanese smelter Furukawa plans 3% cut in second-half copper output",
-      "summaryKo": "Japanese smelter Furukawa plans 3% cut in second-half copper output TradingView",
+      "summaryKo": "Japanese smelter Furukawa plans 3% cut in second-half copper output tradingview.com",
       "marketImpact": "Unclear",
       "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
       "procurementImpact": "UNCLEAR",
@@ -3251,7 +3937,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Japanese smelter Furukawa plans 3% cut in second-half copper output TradingView",
+        "summary": "Japanese smelter Furukawa plans 3% cut in second-half copper output tradingview.com",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -3272,7 +3958,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Japanese smelter Furukawa plans 3% cut in second-half copper output TradingView",
+        "summary": "Japanese smelter Furukawa plans 3% cut in second-half copper output tradingview.com",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -3297,7 +3983,7 @@
       "source": "International Tin Association",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-01T09:33:45.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ01QX3VmNjQwMjNxVWFrbGVtRFY2cWtJQ3liM00tWkc2Z0hFWTJjaFByMk5HLXlTdkN2Ukk3cUdUS2ppY2JibjNXSHVWWmc0a1JOVTRUWnBxdXJNZWIyTUFSV1Y5UzJZc3gwS0JXeHFrU1gwblNmYkJCYkNrbld4d0JjUEdKSEtRMWI3b21wcm9oQQ?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -3400,7 +4086,7 @@
       "source": "Georgia Laurie",
       "feedSource": "International Tin Association",
       "publishedAt": "2026-10-01T09:29:13.000Z",
-      "fetchedAt": "2026-10-01T15:28:41.757Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://www.internationaltin.org/patented-process-recovers-high-purity-tin-from-e-waste",
       "language": "en",
       "commodity": "TIN",
@@ -3487,7 +4173,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 16,
+      "priority": 12,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -3939,7 +4625,7 @@
       "source": "매일경제",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-01T08:23:26.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aV2xHVkhIQ3o4OUxXMldjbDhJRXZIV19OZWJKMnFRdTlkN0hqTTB3UGI5MW15OEE4V0tfLUcwVnhBeC1vS0VXRnl1bUJIRkI0U2c?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -4597,7 +5283,7 @@
       "source": "ABB",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-01T06:05:41.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEhoUkMyM1k3RlN5UVRCQTduMDdpeEdrWnVzSU9xUXl5bjhJTjJTTi1FNXpMOWQzdmdqU3JOOVBFVjh2TE01NUtaYWozWnhua2JQcEhVUTBQMkYwTFJldWhzeTR6SUR2ZDh4MXl1SlI0bjJDLVNhU2RUQVlTMEF6Q3lZdXVqbXk5Tkx6WkNyYTZRQzMtV1d5MHdxU1FDTVRUQm9hUGtyd3ZUU0Uxak93YnQwWVNvbVhj?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -5492,7 +6178,7 @@
       "source": "v.daum.net",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-01T01:00:31.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pTE1iWDdVQTQxNGdTakpkU0dhRzdYM3NGZG0yb2lSZXZUaHBrTHZ3cTlnQi1TeXdneWdLaDNGNXBaM3h4TVNGNWFZTmkwQkE?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -6411,7 +7097,7 @@
       "source": "산업일보",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-09-30T22:51:07.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4yUUFTVW0tOGN6dHFvYXA3RUNqa3dvazI5OC1KZHV4M09LdGNtdXRUY240Y2V6QXZZaDZpS2tLekJENWhZ?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -6505,7 +7191,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 32,
+      "priority": 28,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -7066,7 +7752,7 @@
       "source": "머니투데이",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-09-30T19:59:28.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BUXlTU0dfS2RnWThKMWhEa3d1M2JxN2dzQ014eWc4QkhqMHpaWURXdndlMHpScTVONFdVU3dsLVQ4TFJHSEV1YVpZb1JfMUlGVTYtb1V0cEt1ZThOV1BqVVpndGdRbnZm0gFuQVVfeXFMTi1odkhwdmRUSWVrMzNJWXQ4am9jR3FsbGpwZmtsVVRxLXVtUDkwOW91OGw2YVhHc2t5YkJRalBkNUV5eDBPbmdEbzJ2elk2ZkhpZEZvVHB0VzdranhRaVdpVXdVQ2V6OXExNVJOUWc?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -7494,13 +8180,13 @@
       "id": "2c482ef6b793fc1641f13ee1d4f82d220305ebc0ee8a0c9ca2693e7fb9b38f15",
       "titleSourceHash": "97cfa480c382f5764d8a6b7071372fffbf630ec307188996a35f74ce85f9264a",
       "eventId": "f93cd4500ed1012e5642453dab1d4feca88b046e1cdbefd65d420f4af7bb622b",
-      "title": "'구리 최대생산국' 칠레, 15년 만에 최저 생산...공급망 '빨간불'",
+      "title": "'구리 최대생산국' 칠레, 15년 만에 최저 생산…공급망 '빨간불'",
       "normalizedTitle": "구리 최대생산국 칠레 15년 만에 최저 생산 공급망 빨간불",
-      "description": "'구리 최대생산국' 칠레, 15년 만에 최저 생산...공급망 '빨간불' v.daum.net",
+      "description": "'구리 최대생산국' 칠레, 15년 만에 최저 생산…공급망 '빨간불' v.daum.net",
       "source": "v.daum.net",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-09-30T19:03:00.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BNm9LY2R3cHBOZ09JVVptRHVJZnNCYnd4cllldVFjeW5KWTlFSkJYcEZ1TkNPNm9IYVMtRWQzV1paV2dkNTN5TXBtQ0FpbmtKMFVMag?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -7538,8 +8224,8 @@
         "PRODUCTION"
       ],
       "primaryCategory": "Supply",
-      "titleKo": "'구리 최대생산국' 칠레, 15년 만에 최저 생산...공급망 '빨간불'",
-      "summaryKo": "'구리 최대생산국' 칠레, 15년 만에 최저 생산...공급망 '빨간불' v.daum.net",
+      "titleKo": "'구리 최대생산국' 칠레, 15년 만에 최저 생산…공급망 '빨간불'",
+      "summaryKo": "'구리 최대생산국' 칠레, 15년 만에 최저 생산…공급망 '빨간불' v.daum.net",
       "marketImpact": "Unclear",
       "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
       "procurementImpact": "UNCLEAR",
@@ -7566,7 +8252,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "'구리 최대생산국' 칠레, 15년 만에 최저 생산...공급망 '빨간불' v.daum.net",
+        "summary": "'구리 최대생산국' 칠레, 15년 만에 최저 생산…공급망 '빨간불' v.daum.net",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -7587,7 +8273,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "'구리 최대생산국' 칠레, 15년 만에 최저 생산...공급망 '빨간불' v.daum.net",
+        "summary": "'구리 최대생산국' 칠레, 15년 만에 최저 생산…공급망 '빨간불' v.daum.net",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -10623,7 +11309,7 @@
       "source": "Reuters",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-09-30T10:07:42.000Z",
-      "fetchedAt": "2026-10-01T20:32:53.801Z",
+      "fetchedAt": "2026-10-02T00:15:11.192Z",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPclRSVnh0LTNSQklxNk5oRV9lS0RrMmtXVUVqSnR1WHFLeXdvbkFOUnMxNkc4S21oQnZlVVZ6UF9QS1FZZXl6cGl6d3djUVFuRXhPbHM0dnlhckFad0VWelB3ZkNIRnBzS1Y5dThySUl3NHRuVE9VWXF2RGI0Z3hpN2k1eUFHaUp2b1RlSWtHbTE1bGRzTU16UVN3QW1aQkZ3SVBVVlpJWHNRUHd4WTFRVy1mZXpnUXlPc1BRRDFiTW1xZi1NeG5vbXlBSFJkQQ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -33006,668 +33692,6 @@
       "codexReviewReason": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
       "sent": true,
       "sentAt": "2026-09-26T18:04:14.504Z"
-    },
-    {
-      "id": "00860394c318374e01967b2c529c200fb077d95792ccbcfc9d965c25c037964c",
-      "titleSourceHash": "056666d33826d688a79a3a9c79a495e1e8a0dd9f9f696504bd4ea073b2d616c5",
-      "eventId": "c8c7ac408f70e2a4f9c2d10510f81fcd42633bc288294d850f50812278f7ea6b",
-      "title": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin",
-      "normalizedTitle": "scmp best bets champion can send punters home a winner at sha tin",
-      "description": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
-      "source": "South China Morning Post",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-26T13:12:05.000Z",
-      "fetchedAt": "2026-09-27T01:50:17.208Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOERMNWtWelo0OGlhdi05bUVLMzlQUUF1dEpWZDUzRm1wMHBUSlN5aGNXTTJGWUs1R24tcl90dmotWFVyOWVDS2I0Q19qMTUzSEtyd0l2WHVCaEk4WUlONjRqTm94cjNsYlBDYlQ3elctVTlrUkNkeDhDZFVmX1Racmd5YVNrRWJZZWF3eXM4OWVCTFhJTUMtRldSdEd0OVBLM3RkS0p2dkktNkFLXzd30gGvAUFVX3lxTE84REw1a1Z6WjQ4aWF2LTltRUszOVBRQXV0SlZkNTNGbXAwcFRKU3loY1dNMkZZSzVHbi1yX3R2ai1YVXI5ZUNLYjRDX2oxNTNIS3J3SXZYdUJoSThZSU42NGpOb3hyM2xiUENiVDd6Vy1VOWtSQ2R4OENkVWZfVFpyZ3lhU2tFYlllYXd5czg5ZUJMWElNQy1GV1J0R3Q5UEszdGRLSnZ2SS02QUtfN3c?oc=5",
-      "language": "en",
-      "commodity": "TIN",
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "tin"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "TIN",
-          "score": 8,
-          "matchedKeywords": [
-            "tin"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "CHINA"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin",
-      "summaryKo": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 14,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "6538f942e5f1a104275172bab355488e2ed7cf60e9d1bf2ba80fa8d96c280dd5",
-      "titleSourceHash": "056666d33826d688a79a3a9c79a495e1e8a0dd9f9f696504bd4ea073b2d616c5",
-      "eventId": "c8c7ac408f70e2a4f9c2d10510f81fcd42633bc288294d850f50812278f7ea6b",
-      "title": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin",
-      "normalizedTitle": "scmp best bets champion can send punters home a winner at sha tin",
-      "description": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
-      "source": "South China Morning Post",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-26T13:12:05.000Z",
-      "fetchedAt": "2026-09-26T18:04:14.504Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbXpFWm9XTFZCR1FsSkRkNGhkYkdfOGdWUEFxdHdaLUFWYlNLTzlTMWcxWnRvLU5yMThiblB5LUg3VnNhZHNpWnkwWE9xQUhRYldQVF9HTGFRN3Z1R2xMaUlwY3FKVlF0Zmt5czZuMzdSTlFpUW5yYzY4NlQ1M2pjR3pXOVEyVWpLZHVOOGY3eFpUYm9nX1JpNVpPeWdnRGJmczVjRUtPUEQzUERzZmdj0gGvAUFVX3lxTE84REw1a1Z6WjQ4aWF2LTltRUszOVBRQXV0SlZkNTNGbXAwcFRKU3loY1dNMkZZSzVHbi1yX3R2ai1YVXI5ZUNLYjRDX2oxNTNIS3J3SXZYdUJoSThZSU42NGpOb3hyM2xiUENiVDd6Vy1VOWtSQ2R4OENkVWZfVFpyZ3lhU2tFYlllYXd5czg5ZUJMWElNQy1GV1J0R3Q5UEszdGRLSnZ2SS02QUtfN3c?oc=5",
-      "language": "en",
-      "commodity": "TIN",
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "tin"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "TIN",
-          "score": 8,
-          "matchedKeywords": [
-            "tin"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "CHINA"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin",
-      "summaryKo": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 18,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "f0695686b1fb6090f664aead03652554a3bb3cd37c9f2379c3912439a7d8e495",
-      "titleSourceHash": "056666d33826d688a79a3a9c79a495e1e8a0dd9f9f696504bd4ea073b2d616c5",
-      "eventId": "c8c7ac408f70e2a4f9c2d10510f81fcd42633bc288294d850f50812278f7ea6b",
-      "title": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin",
-      "normalizedTitle": "scmp best bets champion can send punters home a winner at sha tin",
-      "description": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
-      "source": "South China Morning Post",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-26T13:12:05.000Z",
-      "fetchedAt": "2026-09-26T14:44:47.888Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbXpFWm9XTFZCR1FsSkRkNGhkYkdfOGdWUEFxdHdaLUFWYlNLTzlTMWcxWnRvLU5yMThiblB5LUg3VnNhZHNpWnkwWE9xQUhRYldQVF9HTGFRN3Z1R2xMaUlwY3FKVlF0Zmt5czZuMzdSTlFpUW5yYzY4NlQ1M2pjR3pXOVEyVWpLZHVOOGY3eFpUYm9nX1JpNVpPeWdnRGJmczVjRUtPUEQzUERzZmdj?oc=5",
-      "language": "en",
-      "commodity": "TIN",
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "tin"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "TIN",
-          "score": 8,
-          "matchedKeywords": [
-            "tin"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "CHINA"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin",
-      "summaryKo": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "SCMP Best Bets: Champion can send punters home a winner at Sha Tin South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 18,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "916d8e0b36bbbaf28643e78dbfca0f38227fff2d249fb480c1897943cfbf5a53",
-      "titleSourceHash": "56298560c4a727fbe3a214485ed17259c481c81d7a95befbaee9f77d294d83b2",
-      "eventId": "185ce222de349804ee2fb185940d97966cb606c6269dd4c5b5abfa3efe13ee82",
-      "title": "Aluminium extrusion industry warns of factory closures as production falls",
-      "normalizedTitle": "aluminum extrusion industry warns of factory closures as production falls",
-      "description": "Aluminium extrusion industry warns of factory closures as production falls BusinessLine",
-      "source": "BusinessLine",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-26T12:05:10.000Z",
-      "fetchedAt": "2026-09-26T18:04:14.504Z",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSGU4TjZjMlRFVlNzOE8tZDRjWW84dzljcmkxWldHQm9aOGhkcWRfTzFfdjR2UlFBMGl3TWx4TWU4ekVXeTJrTENpUEE4eUV4ZDNYQ0J3ZzRWR2MxcVdGQmJwbzltOHBXYy00TnJzR1RXMnU5NlBseEl5MjZiMDNmdHZ1WGhwdWhvazRGT3E1RGJVMk9ubUJEY3hIdkdqUlpIOVVHdFN1OVduaHZYcVk3R3VjN1lUUGd1VFItUDEzd3FabXA4cmY4RElYdDJlNFpXbF9LS01nMEFUb2dUOFJaSWdBa0hIQdIB7AFBVV95cUxPdFJwcGNwTmtDcWV5dG5PQV9XbFpKQzNHdzc5WExTS01BQ2tsaG1VVV9weDlyVi1hZi1ZRXprWmJRQm1OUVg2bTRLMW8wUEo4dXpqRUdUTWNsVnRGRmp0NjhzNUM3RHJzTHpOMUczQXJYZ09GV0J1eU41TFFZeGtkblM3bFVnSTI5VmlwLXY0emVZVHRocWpUNUVLYXVtc2hKSjNzTXdZMEl0Z1NBZWRZVEhDMl9HVms1UVdyUllfQzVtOG9fUXg1ZlhzLUpxM2Z2TmttTEFtZlFNWlZWc21hV2tJc01OZ2tTQjhHMg?oc=5",
-      "language": "en",
-      "commodity": "ALUMINUM",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "aluminium"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "production"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "ALUMINUM",
-          "score": 9,
-          "matchedKeywords": [
-            "aluminium"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "production"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRODUCTION"
-      ],
-      "primaryCategory": "Production",
-      "titleKo": "Aluminium extrusion industry warns of factory closures as production falls",
-      "summaryKo": "Aluminium extrusion industry warns of factory closures as production falls BusinessLine",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aluminium extrusion industry warns of factory closures as production falls BusinessLine",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aluminium extrusion industry warns of factory closures as production falls BusinessLine",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 34,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": true,
-      "sentAt": "2026-09-26T18:04:14.504Z"
-    },
-    {
-      "id": "50583853c78080974f36d933c9746449a93324c4c089b831fec96ffbb9c399b7",
-      "titleSourceHash": "202bb2a3370a01c6f6550d3829ede0cf5740780746dddcdf5d1b6200e81d934a",
-      "eventId": "b5ffa06ef4933c3c8e07fee625834d497f18e35e34e04ad34f685718751bcd94",
-      "title": "Andre Joins Ellwood Aluminum as Production Control Director",
-      "normalizedTitle": "andre joins ellwood aluminum as production control director",
-      "description": "Andre Joins Ellwood Aluminum as Production Control Director Business Journal Daily",
-      "source": "Business Journal Daily",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-26T08:57:00.000Z",
-      "fetchedAt": "2026-09-26T10:17:29.635Z",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX0EwNm5hRXFaZjN4ajl4cW9WOE9vc1BRcnlqQnZjSS1CR09xbzFobmlvV205UzJ6N3pDenMyeXBCODBfR3VNNDJvZlJjYjlxWUJSUXp5YS00QzFPcWNKMy1MSmdZRGFRV2duUkxNbXRGQnhwZkNZc291OEl4TTE1THdJdS1OYUxlX01HQktSQmdadmVTUnpjTA?oc=5",
-      "language": "en",
-      "commodity": "ALUMINUM",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "aluminum"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "production"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "ALUMINUM",
-          "score": 9,
-          "matchedKeywords": [
-            "aluminum"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "production"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRODUCTION"
-      ],
-      "primaryCategory": "Production",
-      "titleKo": "Andre Joins Ellwood Aluminum as Production Control Director",
-      "summaryKo": "Andre Joins Ellwood Aluminum as Production Control Director Business Journal Daily",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Andre Joins Ellwood Aluminum as Production Control Director Business Journal Daily",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Andre Joins Ellwood Aluminum as Production Control Director Business Journal Daily",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 34,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": true,
-      "sentAt": "2026-09-26T10:17:29.635Z"
-    },
-    {
-      "id": "aa77c2705bbe9c896d99c7f5df8ebabe050d4c930a6e8d80416d377dba13b548",
-      "titleSourceHash": "3258bffbdc0433ed64d4285d351b49edd8902b4100cf16f8cfa2de86ed47e0ac",
-      "eventId": "6592edc4355d232e4266b5cd39d33dd051765abea20daad3e998f6ed2a72b05f",
-      "title": "Southern Copper (SCCO) Stock Could Be Overvalued On Current Earnings Strength",
-      "normalizedTitle": "southern copper scco stock could be overvalued on current earnings strength",
-      "description": "Southern Copper (SCCO) Stock Could Be Overvalued On Current Earnings Strength Yahoo Finance",
-      "source": "Yahoo Finance",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-26T08:09:48.000Z",
-      "fetchedAt": "2026-09-26T14:44:47.888Z",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTS1wZnBBWWpFUVY3d3BnX3hPUFVudFcwWUJpS1ZmMGRlZVFWRWh2cUp4Z1RuaUxycG9fR3p0UF9QVFBMUWtoa1hCMURhWC1KVXBwNmdSaDFSOVFsaVJfbGJycWRWUnROa2VTOUtzMnAxbHFQNEtkd3lKUDV5dER4QXVxUlhTeHl6RnUyck83dlJOSE1mTzl2cXJLOEp4dw?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [
-        "Southern Copper"
-      ],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [
-            "Southern Copper"
-          ],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "EARNINGS"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Southern Copper (SCCO) Stock Could Be Overvalued On Current Earnings Strength",
-      "summaryKo": "Southern Copper (SCCO) Stock Could Be Overvalued On Current Earnings Strength Yahoo Finance",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [
-        "Southern Copper"
-      ],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Southern Copper (SCCO) Stock Could Be Overvalued On Current Earnings Strength Yahoo Finance",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Southern Copper (SCCO) Stock Could Be Overvalued On Current Earnings Strength Yahoo Finance",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": true,
-      "sentAt": "2026-09-26T14:44:47.888Z"
     }
   ]
 }
