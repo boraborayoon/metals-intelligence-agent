@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T12:39:07.404Z",
+  "generatedAt": "2026-10-02T18:02:53.769Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -397,48 +397,6 @@
       "analyzedAt": null
     },
     {
-      "id": "91c2864d64e0084bdbff88664fe3c54abfa24e5c7ea9afe44cb5afc3990c2841",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Ukraine Urges EU to Ban Alumina and Aluminum Ore Exports to Russia",
-      "summary": "Ukraine Urges EU to Ban Alumina and Aluminum Ore Exports to Russia Межа. Новини України.",
-      "source": "Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tM2RCWVQxZmQ3TXRBQjVfVU84c0RMX0VUVFl0SnFNUWFoN3FiZUFxc0FkOERzTU81ZnlTMFA2SUctNVl5RGZSNTJsQ2cyWDdGd0ZvSkJpTHBaR3FFdGZueGJsSVR0bFBQ?oc=5",
-      "publishedAt": "2026-09-02T15:04:49.000Z",
-      "priority": 60,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Regulation",
-        "categories": [
-          "LOGISTICS",
-          "EXPORT",
-          "REGULATION"
-        ],
-        "region": "Russia",
-        "regions": [
-          "Russia"
-        ],
-        "summary": "Ukraine Urges EU to Ban Alumina and Aluminum Ore Exports to Russia Межа. Новини України.",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [
-          "Export Restriction"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-02T15:21:12.399Z",
-      "updatedAt": "2026-09-02T15:21:12.399Z",
-      "analyzedAt": null
-    },
-    {
       "id": "f83f4bc0eed2c7941b0e10d45bd57f16c9915a2b999ba1adcd5a15e66a3122b1",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -523,6 +481,51 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-30T12:37:40.618Z",
       "updatedAt": "2026-09-30T12:37:40.618Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "b5348fb2a91157125ca9c7a4db7db7db903be747b43361280fac1cc6da178afc",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Chile's Copper Hits 15-Year Low — and a Mine Strike Could Make It Worse",
+      "summary": "Chile's Copper Hits 15-Year Low — and a Mine Strike Could Make It Worse Latin Times",
+      "source": "Latin Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOemNlQkJWaXJ2UE1wY2lHSUU4V0RRX1cyanRDUEFrRkFfRzNCUUFCd1p4dFBhckFHWnpsLVFwblpXMjVncGtwQnpYMWJTQlFJcVotZXR2RHh6R3llMUNBSXR4QzgwbjFaT3k3SnJsN1FFdkdmdmpHbjY3ZTVfRlVUemp4a3oyQ25zWWFWWGNseERvV3lrX0ZGS1U4RkI?oc=5",
+      "publishedAt": "2026-10-02T17:03:12.000Z",
+      "priority": 58,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Chile's Copper Hits 15-Year Low — and a Mine Strike Could Make It Worse Latin Times",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-02T18:02:53.769Z",
+      "updatedAt": "2026-10-02T18:02:53.769Z",
       "analyzedAt": null
     },
     {
@@ -1483,49 +1486,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-15T11:46:13.795Z",
       "updatedAt": "2026-09-15T11:46:13.795Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "c53db226c93cd15bddace4f096abd59f23d8c21dd96c6504b651d4dd19655f1c",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "Indonesian government allows PT Timah to buy tin ore from local miners",
-      "summary": "The Indonesian government has announced that state-owned tin producer PT Timah (IDX: TINS) will be allowed to purchase tin from local miners in Bangka Belitung. It is hoped that the arrangement will reduce illegal ore and concentrate exports as the country seeks to modify the regulatory framework of the tin industry… Read the full article […] The post Indonesian government allows PT Timah to buy tin ore from local miners appeared first on International Tin Association.",
-      "source": "Freddie Mitchell",
-      "url": "https://www.internationaltin.org/indonesian-government-allows-pt-timah-to-buy-tin-ore-from-local-miners",
-      "publishedAt": "2026-08-21T11:38:56.000Z",
-      "priority": 50,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Regulation",
-        "categories": [
-          "MINE",
-          "LOGISTICS",
-          "EXPORT",
-          "POLICY",
-          "REGULATION",
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "The Indonesian government has announced that state-owned tin producer PT Timah (IDX: TINS) will be allowed to purchase tin from local miners in Bangka Belitung. It is hoped that the arrangement will reduce illegal ore and concentrate exports as the country seeks to modify the regulatory framework of the tin industry… Read the full article […] The post Indonesian government allows PT Timah to buy tin ore from local miners appeared first on International Tin Association.",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [
-          "Export Restriction"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-02T12:39:07.404Z",
-      "updatedAt": "2026-10-02T12:39:07.404Z",
       "analyzedAt": null
     },
     {
@@ -6175,27 +6135,31 @@
       "analyzedAt": null
     },
     {
-      "id": "d53c6f35a2abbbb190de941b7e7f60c019a18f1f4c70d82032e5eb41fec8c461",
+      "id": "955d056de454c26d24a4ce920563a0d0c6178d0bdfe09e471fbae999af2cc712",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "Russia's Udokan launches copper cathode production after fire-related delay",
-      "summary": "Russia's Udokan launches copper cathode production after fire-related delay marketscreener.com",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYmZWQjg0WkcwZk8tZHFVTnBFX05oM1p2NDdOeW9OLUJ6ZExYNHRJVVc4UE1raHhTSElMcmVBUTFMWFRlcGlDVGxheUE4OWt6Y3gyNzlVY2Jia1otVVpTUXdwTW1SZHkzSFN3THRPS2p6ZF8tNm9NUGptQkUtQ1Ricmdya05fRU5PWHplOS1RZWVzOXlqdnplZjZ2TF94QjJMdTU5ZTViTGlnS3NfZUdPVjlOTWdIZlRNVWNnZWVHYm0wZ0RqREFj?oc=5",
-      "publishedAt": "2026-09-02T14:51:33.000Z",
-      "priority": 38,
+      "title": "Update: Market Chatter: Anglo-American Faces China Copper Supply Condition for Approval of Teck Resources Merger",
+      "summary": "Update: Market Chatter: Anglo-American Faces China Copper Supply Condition for Approval of Teck Resources Merger Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWFWUS1oM2pmeGIyNUtmLUJ6ZG9SQXFCTzllZHFTUHRNWjlIcTZsZEd3MVljQWZTZUNFc25iZG9zT2ZNRXJPTlN4UDNhTldEQmltemFoRjVZY2xhR0ZScDM2YXg1eVFrd0syUnpWcy1DU3ZCZnVBd0pDck5tU1czcERzLTJTa2QyRl9KT3AzdjBHbGZ1SnVDTU85Ri15S3VRWkRVeHBGdjc?oc=5",
+      "publishedAt": "2026-10-02T16:22:51.000Z",
+      "priority": 39,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Production",
+        "category": "Supply",
         "categories": [
-          "PRODUCTION"
+          "SUPPLY",
+          "CHINA",
+          "M&A"
         ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Russia's Udokan launches copper cathode production after fire-related delay marketscreener.com",
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Update: Market Chatter: Anglo-American Faces China Copper Supply Condition for Approval of Teck Resources Merger Yahoo Finance",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -6206,8 +6170,8 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-09-02T15:21:12.399Z",
-      "updatedAt": "2026-09-02T15:21:12.399Z",
+      "queuedAt": "2026-10-02T18:02:53.769Z",
+      "updatedAt": "2026-10-02T18:02:53.769Z",
       "analyzedAt": null
     },
     {
@@ -10499,6 +10463,78 @@
       "analyzedAt": null
     },
     {
+      "id": "fd90975ae208898e5382c59aa33ef20d32ae8b60c9354a43ef60d9232ad85215",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Price October 5 2026",
+      "summary": "Copper Price October 5 2026 Robinhood",
+      "source": "Robinhood",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTdjcWY5WnhHdzF0VG9EVjJKN25QWXBicTdnQ2RpckhMU2w4QlRqSUxYQUhBOEx0dXF6OS14UXdVSnM5Q1BDRndnR1A1Q2lHRHJnby1RZE94aU9LbllSS1JZeVVvQXFaZThIb3VTU0dUMkZEa0U2OWJRUDlMV1UyQkRwTTR4V25MQUc4QmRydU8yZTVybV9RYnpJa0ZwdjlqQzZ3?oc=5",
+      "publishedAt": "2026-10-02T17:50:14.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Price October 5 2026 Robinhood",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-02T18:02:53.769Z",
+      "updatedAt": "2026-10-02T18:02:53.769Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "7f21fec30e1f8e580edb47073b949ef361d246b4e15ba476157ebc9c4c033784",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Community pushback holds up a proposed copper mine on the Navajo Nation",
+      "summary": "Community pushback holds up a proposed copper mine on the Navajo Nation KJZZ",
+      "source": "KJZZ",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUVlyWl8teU1VaUFEY3FhbFZjU0FGX3VJVm5MSW5DdTduVTdYTnpTMzBtZ2pNV0IzdF9lRUItdmdiVFRkOS1aVEVnUnJkdzdoaE9qQ3lIMkZ4djZqbTRwRWtVUzlBZF9zQ2xCaDlxdDljRXFxQVIwVkJaZDliSEdBd2hBekwtcVpIcDdNT2NnOU1kOXZNYjN0ZjVHT3lSNlczVHhzcXFWWU01bE9PLU5qRk9GOW1WcDRCa2xYMzZCd0EwS09CemFF?oc=5",
+      "publishedAt": "2026-10-02T12:39:00.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Community pushback holds up a proposed copper mine on the Navajo Nation KJZZ",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-02T18:02:53.769Z",
+      "updatedAt": "2026-10-02T18:02:53.769Z",
+      "analyzedAt": null
+    },
+    {
       "id": "15c09ea4de6cf2650ede3a2e0c0b9a9c29bc9f0484a00b9616d798c8f54bc797",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -11108,42 +11144,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-28T12:00:41.802Z",
       "updatedAt": "2026-09-28T12:00:41.802Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "1913432043babf2175eaee17f4f0bafa8d98edf7c8f01d92004ef937a07061a5",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Putin Starts Russian Udokan Copper Cathode Plant After 2023 Fire",
-      "summary": "Putin Starts Russian Udokan Copper Cathode Plant After 2023 Fire Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWU90X2hQZjZGbkF0VEZ0LUdhUjRVaHlXNUxJOHBTSWRNMUl6UEM0WFo5d2UtR0dEYXlZMjJ2bWVMYzVNVmhCempuZXlvb2oxYlQ2Q01RYjFpY19qY25NY3dpMllfai0yV2dycmVKMmpHbXhmMGZIZGlJU2hhUG5MU3RXM09nVUtMMDNDOEhCNWxIc3lCRHVnekJEcVdxSzdJZlI2ckp6czNRLTZ6ZnBiVGVtV2hPZw?oc=5",
-      "publishedAt": "2026-09-02T14:42:47.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Putin Starts Russian Udokan Copper Cathode Plant After 2023 Fire Bloomberg.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-02T15:21:12.399Z",
-      "updatedAt": "2026-09-02T15:21:12.399Z",
       "analyzedAt": null
     },
     {
@@ -13673,29 +13673,28 @@
       "analyzedAt": null
     },
     {
-      "id": "5c63841465837d8e2c2419d2331aed6b81915e806156f220daa6b2ceaa58a57f",
+      "id": "daf8dab361857399efe0ecaffbd173fa25e43a6bc312bc1e663192b2979f79ef",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "Massive Copper-Gold Deposit Discovered in China's Anhui Province: Over 1 Million Tons of Copper, 200 Tons of Gold",
-      "summary": "Massive Copper-Gold Deposit Discovered in China's Anhui Province: Over 1 Million Tons of Copper, 200 Tons of Gold finance.biggo.com",
-      "source": "finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ralJxN2NsWFl4a3RIWTZkVEY0VEFHSlRUU2hkdmZuNWZzQU51bzRxY3c2NXJjaVZRWEFlNkNpM1dxY1RUblRzOGhsbmZ6VFlJb2NmSmVpb1p4VlFQQjBlQ2FGTldBRXNpeWxkcy1ubi1JdjM2ZVE?oc=5",
-      "publishedAt": "2026-09-02T12:39:10.000Z",
-      "priority": 35,
+      "title": "Freeport-McMoRan Reports Q3 2026 Copper Output in Line with Guid",
+      "summary": "Freeport-McMoRan Reports Q3 2026 Copper Output in Line with Guid GuruFocus",
+      "source": "GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaGhwOVNBdWZ2VWhXSDdlV0phRFFJQTZyZGcxUDZqUTFaR1B4UTMwVnVpMkZXZnZTVkREczJIRWk3a0pwWGpsTDQ0YlJiOVVEYUs1T2hOUXJSYWVtb2VNem80QmV1bGZiR0FoT1BWUmlEblVudkNEaWpYYUdxRUd5dFphS0d6VDFlREcteVZGQnd1X0pyYUgtS2pHRVMzSHp4Wk5JSmJ6NjF3V0F3Rmk0?oc=5",
+      "publishedAt": "2026-10-02T15:47:46.000Z",
+      "priority": 36,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "General",
+        "category": "Production",
         "categories": [
-          "CHINA"
+          "PRODUCTION",
+          "LOGISTICS"
         ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Massive Copper-Gold Deposit Discovered in China's Anhui Province: Over 1 Million Tons of Copper, 200 Tons of Gold finance.biggo.com",
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Freeport-McMoRan Reports Q3 2026 Copper Output in Line with Guid GuruFocus",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -13706,8 +13705,118 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-09-02T15:21:12.399Z",
-      "updatedAt": "2026-09-02T15:21:12.399Z",
+      "queuedAt": "2026-10-02T18:02:53.769Z",
+      "updatedAt": "2026-10-02T18:02:53.769Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "11fef149f73a3cf1c880be3bef4f995f5e7efac4c023689cde993a54a31ed905",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Freeport-McMoRan (FCX) Shares Rise 3.3% on Q3 Copper Production Report",
+      "summary": "Freeport-McMoRan (FCX) Shares Rise 3.3% on Q3 Copper Production Report GuruFocus",
+      "source": "GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazN0a1pyN0ZZVGRiYzBqMzI3cGJKcEUzaUpDbFhJbWFUN0pxSk5kUXlhWWRfZGg1aF9PNGdxWDhjRVlnOEIxYzM2eHYzM3dWYURuRzFvZmpyMmpiMUhGcEdYZGhvSk5OVW5QblZBeWE4VjA4TkJwMUZkWDJxNW1aQ3I1SlhZaUNZR1RyUnR0Rm1nejl4cnhVM0pVV3daaGt4MGstU09TOA?oc=5",
+      "publishedAt": "2026-10-02T15:05:33.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Freeport-McMoRan (FCX) Shares Rise 3.3% on Q3 Copper Production Report GuruFocus",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-02T18:02:53.769Z",
+      "updatedAt": "2026-10-02T18:02:53.769Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "95885cbf5c949096899334fbfdee7c861ae344a265ae0fd7987a5a51b24687bc",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Freeport-McMoRan hits Q3 copper targets; copper futures head for weekly loss (FCX:NYSE)",
+      "summary": "Freeport-McMoRan hits Q3 copper targets; copper futures head for weekly loss (FCX:NYSE) Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMU5QSDhsSGkybjVaTXJQNDdzbUt4YTRBaWx5VlY2enBVdkE3ajJuXzR2UkNndTMyOUpteGFOY0ptQ2RBQzcxNXRVb194NlRSN09pNzBJc3Q1dU1PTkVnOVFSb2t5OEV2c2NSQWhlNVppdFpRSFlYRF9oR2d5MlVCbWlhZ0l5XzhtU1hiV3lvTWFvWmo5U0IxazZoQTVqS0JHYjBaRmVxZ3hRdnRUV21RT2V3dw?oc=5",
+      "publishedAt": "2026-10-02T13:52:43.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Freeport-McMoRan hits Q3 copper targets; copper futures head for weekly loss (FCX:NYSE) Seeking Alpha",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-02T18:02:53.769Z",
+      "updatedAt": "2026-10-02T18:02:53.769Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "ca6af1eef41a2b5639e51ac1e55801c9b2500735b91e33414743277f4e42e38e",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Freeport-McMoRan Reports Q3 Copper, Gold Production",
+      "summary": "Freeport-McMoRan Reports Q3 Copper, Gold Production marketscreener.com",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQclcybkFBZi1aZ2ZEcEpSdk14aXMyQWhjUjh4UjhvWFpIMnZCd1dGNXFDZWNMbWZhSHJJSUIzTmJSZ2M5aTU0S20wVnBTcWkxTHlCYXZEYkNzOXAzZ1FCWnFrdEVwbmV2NVB0NFJySmlRY3RTLThQVC1aVXZVaE01OFdyOEt2MFJtRnNyOGpURlNvTjlfYWxaUWNmWURGQUZVX29SOVNB?oc=5",
+      "publishedAt": "2026-10-02T12:37:30.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Freeport-McMoRan Reports Q3 Copper, Gold Production marketscreener.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-02T18:02:53.769Z",
+      "updatedAt": "2026-10-02T18:02:53.769Z",
       "analyzedAt": null
     },
     {
@@ -16482,6 +16591,45 @@
       "analyzedAt": null
     },
     {
+      "id": "a8979d7da4f900aee160a29be0806c4beb487d9ca4bfabd10bcba94a9c1faca4",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "South China A00 aluminium ingot premium expected to ease from highs after national day holiday",
+      "summary": "South China A00 aluminium ingot premium expected to ease from highs after national day holiday AL Circle",
+      "source": "AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLWVabXZjS1JkZlhrZDV4LS1TRXdtZVZOa2RNME96VEhzdWJQd3JXS1E3NU1mOGZFTzVBTUNkcE9OQTh5WU85X0s5YkprWV9XaDYya1RKSXFEajl1UXdWS2tZYS1fdXcxa3BESnNiQlVrVUtUMXZ4TUxMNTRWc3EyLUtKQnAtUjhBV1NSWTl2UDJtalBlRWJPZ0F4bHg0Skl5UWQxcUR0dmRETU5DdVpRV3NpYVYzV1JsT284Sk5oSWVrVGRQcVkwQ3E5dw?oc=5",
+      "publishedAt": "2026-10-02T12:07:58.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "South China A00 aluminium ingot premium expected to ease from highs after national day holiday AL Circle",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-02T18:02:53.769Z",
+      "updatedAt": "2026-10-02T18:02:53.769Z",
+      "analyzedAt": null
+    },
+    {
       "id": "5a447a0042dfcbf06a822415d2cc03c88fba0d5c2a2dbf123dced07433b88171",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18772,154 +18920,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-02T05:48:39.459Z",
       "updatedAt": "2026-10-02T05:48:39.459Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "4ff55ab4a5d52241e1aa74b072c4a77000826492379009923b60e7488f21e835",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Freeport reports Q3 copper output in line with estimates By Investing.com",
-      "summary": "Freeport reports Q3 copper output in line with estimates By Investing.com Investing.com Canada",
-      "source": "Investing.com Canada",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFNlWWtGN2FBM1lPNE0tWFN3SDVEWWhXX2pZUlpYdTFNUWs4bUNuX21vNm1HZEhWbWtsWVNtb19YYTZmMlViNlI0NlJGM3FZSWlna1FiSm02ODdPSXJNNmwzNEQ0YVgzX1FjV1dXSHF6SzhZdUlXY1pTUjNSX2ZHT1p4ekh5ZWRjY3c1cDdveU5fczJHbVk1VlI2Ync5dnNGUndQUE5mS3RVcUNfOGJSaGdjOGVzSzRQ?oc=5",
-      "publishedAt": "2026-10-02T12:09:18.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Freeport reports Q3 copper output in line with estimates By Investing.com Investing.com Canada",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-02T12:39:07.404Z",
-      "updatedAt": "2026-10-02T12:39:07.404Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "b2340fc58ce922a7411629b8b6377f3965bd7815d8fd623959bb87ab298e4e01",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Opencast And Open Pit Mining Excavators Market To 2035: Copper and Battery-Metal Demand Lifts Equipment Orders - News and Statistics",
-      "summary": "Opencast And Open Pit Mining Excavators Market To 2035: Copper and Battery-Metal Demand Lifts Equipment Orders - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZWd5LV9jYWVFMUd3ckJqaGpTdXB4RUtaZklORVNnQ0VJN25PUmJJT3JNT2pJcFpJOWVMVU0zOWNsSEdHYkp6cTRBVGhTX1pvb2tKWGtxLUt1R2o1RWJoazh3T3dWRVZJdVN1amxHczU3X25nX3RHZHJ6SjNzOVNkT0pUbGZ4NnRwX3ZyZWdRY2JyOC0xeWplQ3J3MkdTQzM0SVZEWnJWZkJMOXNkVDhHSEw0TDhXaHJ2cS1OU0JaVEFUNll4d2ZiU3UtUXRudF93clVhNXU1cDNOTy1OUVlmNm4tT2hDSkJ5VnBBcHpiZldYQQ?oc=5",
-      "publishedAt": "2026-10-02T10:36:04.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND",
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Opencast And Open Pit Mining Excavators Market To 2035: Copper and Battery-Metal Demand Lifts Equipment Orders - News and Statistics IndexBox",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-02T12:39:07.404Z",
-      "updatedAt": "2026-10-02T12:39:07.404Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ace4e82e177548c38cc78dac7312941eb47a0f71f913cf40e2ee55a15e9fb8a2",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper crawls higher on softer dollar, but investors wary about demand",
-      "summary": "Copper crawls higher on softer dollar, but investors wary about demand TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUXpnTklWa3RjRzZqYktjYmU5Vk5lN29MMGhtR2RQLWhSZlhDZW1YNm9VRDJNbVYxVmt5aklhMTJxSWxLSXJzN29mZWlSUENqNzFBTjNkeFU1Q3NKOGFwYmNBbWlBcVc5TFJObGhNOFVJOE5KLU5GZm93dkc5OWEtZGY4N2Rmdl9UTDJMc2xCd21vempaaG9CdUMydUd0UHFkc016cWhmZGRYekpjQWhPREZPZHp0NmVWVkg1NUthclBkaVFmc3c4Wm1xUk1EU2RQd3BPY29R?oc=5",
-      "publishedAt": "2026-10-02T10:22:29.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper crawls higher on softer dollar, but investors wary about demand TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-02T12:39:07.404Z",
-      "updatedAt": "2026-10-02T12:39:07.404Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "2abed00d83767435d7e7bcd763438fe87cfa7603719b2ed35f27caf3577ac6a6",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Mendoza Seeks to Resume Production of Copper Agricultural Inputs with San Romeleo",
-      "summary": "Mendoza Seeks to Resume Production of Copper Agricultural Inputs with San Romeleo Panorama Minero",
-      "source": "Panorama Minero",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcFFIeGhzWGN3UDdmQ0x6bm1YWkIwTzg2UjYyZUdJQ1ZtWUUtX2pPV1oydWVWbVhaNXJ1U3FjVEcwTG5YeUctS01DQXNSclNVNDlERjJrYktGOXBOMEZMOExGUFR0ampENmo0R1RQOU9jSExaWlpWVjd3RFZYRlNLSnhGbTRmNE81TmI4bTBGZnFQay1hSm83MF9IeEFlLTY4ZFBWOFFmSEdNdFhLbllhYXVUOUZWZVZPbV9teWlB?oc=5",
-      "publishedAt": "2026-10-02T09:48:01.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "MINE",
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Mendoza Seeks to Resume Production of Copper Agricultural Inputs with San Romeleo Panorama Minero",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-02T12:39:07.404Z",
-      "updatedAt": "2026-10-02T12:39:07.404Z",
       "analyzedAt": null
     }
   ]

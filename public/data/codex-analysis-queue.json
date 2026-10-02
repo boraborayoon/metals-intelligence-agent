@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T12:39:07.404Z",
+  "generatedAt": "2026-10-02T18:02:53.769Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -97,16 +97,6 @@
       "publishedAt": "2026-09-07T23:22:51.000Z"
     },
     {
-      "id": "91c2864d64e0084bdbff88664fe3c54abfa24e5c7ea9afe44cb5afc3990c2841",
-      "commodity": "ALUMINUM",
-      "importance": "HIGH",
-      "title": "Ukraine Urges EU to Ban Alumina and Aluminum Ore Exports to Russia",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Межа. Новини України.",
-      "publishedAt": "2026-09-02T15:04:49.000Z"
-    },
-    {
       "id": "f83f4bc0eed2c7941b0e10d45bd57f16c9915a2b999ba1adcd5a15e66a3122b1",
       "commodity": "ALUMINUM",
       "importance": "HIGH",
@@ -125,6 +115,16 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-09-30T01:11:00.000Z"
+    },
+    {
+      "id": "b5348fb2a91157125ca9c7a4db7db7db903be747b43361280fac1cc6da178afc",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Chile's Copper Hits 15-Year Low — and a Mine Strike Could Make It Worse",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Latin Times",
+      "publishedAt": "2026-10-02T17:03:12.000Z"
     },
     {
       "id": "e79d94b0cfa2de823ff760bae1500f321caeba436dfc3c5faea5f486cad07a8b",
@@ -365,16 +365,6 @@
       "codexStatus": "PENDING",
       "source": "Mining Weekly",
       "publishedAt": "2026-09-15T10:20:00.000Z"
-    },
-    {
-      "id": "c53db226c93cd15bddace4f096abd59f23d8c21dd96c6504b651d4dd19655f1c",
-      "commodity": "TIN",
-      "importance": "HIGH",
-      "title": "Indonesian government allows PT Timah to buy tin ore from local miners",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Freddie Mitchell",
-      "publishedAt": "2026-08-21T11:38:56.000Z"
     },
     {
       "id": "cbcabe2178373f6fb27596e81a2f2059dc17285569111a36e2765be21a18719b",
@@ -1577,14 +1567,14 @@
       "publishedAt": "2026-10-02T12:04:58.000Z"
     },
     {
-      "id": "d53c6f35a2abbbb190de941b7e7f60c019a18f1f4c70d82032e5eb41fec8c461",
+      "id": "955d056de454c26d24a4ce920563a0d0c6178d0bdfe09e471fbae999af2cc712",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Russia's Udokan launches copper cathode production after fire-related delay",
+      "title": "Update: Market Chatter: Anglo-American Faces China Copper Supply Condition for Approval of Teck Resources Merger",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "marketscreener.com",
-      "publishedAt": "2026-09-02T14:51:33.000Z"
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-02T16:22:51.000Z"
     },
     {
       "id": "dda447e9d5eee406cf1b7311dcc683d2a8e866dde464b607de1fd21b36829005",
@@ -2757,6 +2747,26 @@
       "publishedAt": "2026-10-01T02:49:00.000Z"
     },
     {
+      "id": "fd90975ae208898e5382c59aa33ef20d32ae8b60c9354a43ef60d9232ad85215",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Price October 5 2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Robinhood",
+      "publishedAt": "2026-10-02T17:50:14.000Z"
+    },
+    {
+      "id": "7f21fec30e1f8e580edb47073b949ef361d246b4e15ba476157ebc9c4c033784",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Community pushback holds up a proposed copper mine on the Navajo Nation",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "KJZZ",
+      "publishedAt": "2026-10-02T12:39:00.000Z"
+    },
+    {
       "id": "15c09ea4de6cf2650ede3a2e0c0b9a9c29bc9f0484a00b9616d798c8f54bc797",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2915,16 +2925,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-09-28T09:14:00.000Z"
-    },
-    {
-      "id": "1913432043babf2175eaee17f4f0bafa8d98edf7c8f01d92004ef937a07061a5",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Putin Starts Russian Udokan Copper Cathode Plant After 2023 Fire",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Bloomberg.com",
-      "publishedAt": "2026-09-02T14:42:47.000Z"
     },
     {
       "id": "feb7d54a8678e4bea447e572587f62a8c51572d1e619a60441ef1df35a1d9852",
@@ -3617,14 +3617,44 @@
       "publishedAt": "2026-10-01T13:18:28.000Z"
     },
     {
-      "id": "5c63841465837d8e2c2419d2331aed6b81915e806156f220daa6b2ceaa58a57f",
+      "id": "daf8dab361857399efe0ecaffbd173fa25e43a6bc312bc1e663192b2979f79ef",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Massive Copper-Gold Deposit Discovered in China's Anhui Province: Over 1 Million Tons of Copper, 200 Tons of Gold",
+      "title": "Freeport-McMoRan Reports Q3 2026 Copper Output in Line with Guid",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "finance.biggo.com",
-      "publishedAt": "2026-09-02T12:39:10.000Z"
+      "source": "GuruFocus",
+      "publishedAt": "2026-10-02T15:47:46.000Z"
+    },
+    {
+      "id": "11fef149f73a3cf1c880be3bef4f995f5e7efac4c023689cde993a54a31ed905",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Freeport-McMoRan (FCX) Shares Rise 3.3% on Q3 Copper Production Report",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "GuruFocus",
+      "publishedAt": "2026-10-02T15:05:33.000Z"
+    },
+    {
+      "id": "95885cbf5c949096899334fbfdee7c861ae344a265ae0fd7987a5a51b24687bc",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Freeport-McMoRan hits Q3 copper targets; copper futures head for weekly loss (FCX:NYSE)",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-10-02T13:52:43.000Z"
+    },
+    {
+      "id": "ca6af1eef41a2b5639e51ac1e55801c9b2500735b91e33414743277f4e42e38e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Freeport-McMoRan Reports Q3 Copper, Gold Production",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-10-02T12:37:30.000Z"
     },
     {
       "id": "958568b7ba9b3b431d927f881f9359fd58100b789e5dfbb170fd3501ee00a8fd",
@@ -4337,6 +4367,16 @@
       "publishedAt": "2026-10-01T19:43:37.000Z"
     },
     {
+      "id": "a8979d7da4f900aee160a29be0806c4beb487d9ca4bfabd10bcba94a9c1faca4",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "South China A00 aluminium ingot premium expected to ease from highs after national day holiday",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "AL Circle",
+      "publishedAt": "2026-10-02T12:07:58.000Z"
+    },
+    {
       "id": "5a447a0042dfcbf06a822415d2cc03c88fba0d5c2a2dbf123dced07433b88171",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4965,46 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Investing.com 한국어",
       "publishedAt": "2026-10-02T00:06:00.000Z"
-    },
-    {
-      "id": "4ff55ab4a5d52241e1aa74b072c4a77000826492379009923b60e7488f21e835",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Freeport reports Q3 copper output in line with estimates By Investing.com",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com Canada",
-      "publishedAt": "2026-10-02T12:09:18.000Z"
-    },
-    {
-      "id": "b2340fc58ce922a7411629b8b6377f3965bd7815d8fd623959bb87ab298e4e01",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Opencast And Open Pit Mining Excavators Market To 2035: Copper and Battery-Metal Demand Lifts Equipment Orders - News and Statistics",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-10-02T10:36:04.000Z"
-    },
-    {
-      "id": "ace4e82e177548c38cc78dac7312941eb47a0f71f913cf40e2ee55a15e9fb8a2",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper crawls higher on softer dollar, but investors wary about demand",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-02T10:22:29.000Z"
-    },
-    {
-      "id": "2abed00d83767435d7e7bcd763438fe87cfa7603719b2ed35f27caf3577ac6a6",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Mendoza Seeks to Resume Production of Copper Agricultural Inputs with San Romeleo",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Panorama Minero",
-      "publishedAt": "2026-10-02T09:48:01.000Z"
     }
   ]
 }
