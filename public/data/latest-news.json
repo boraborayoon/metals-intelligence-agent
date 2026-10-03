@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T16:19:28.845Z",
+  "generatedAt": "2026-10-03T19:28:58.204Z",
   "items": [
     {
       "id": "a2a658a4be268f0509b52a55edeac02ab4885b18fda0e9794f5a36a02457b40b",
@@ -234,7 +234,7 @@
       "source": "ChartMill",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-03T11:11:11.000Z",
-      "fetchedAt": "2026-10-03T16:19:28.845Z",
+      "fetchedAt": "2026-10-03T19:28:58.204Z",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWk9CNUhMVWRZSU55UFZnaDdWVzJIWV9rZnAwN0NQTXRDLW9TcXZjVzFkaGZLVXlxVTVIdURHaUdxeWJJTGwtMk01bTNSMnR0dmwxa1RhMmJYT2dEQnFxclVXM0FubnF5aURJTm81T0xub3JxUkJQeFhRWnZxanp6WkJMNWItNFdEYVlqdHVZVHpGblZndFh0Vy04c2NnQVZOR1pyUXp2OHh6NmhtcGRydEpLd0xUSVE3Nmc?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -327,11 +327,11 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 34,
+      "priority": 30,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-10-03T19:28:58.204Z"
     },
     {
       "id": "536332a59126873655a870f0341e26325e2f26a71a315812b50a7c639b9bb8dc",
@@ -5007,7 +5007,7 @@
       "source": "느린인뉴스",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-02T11:24:12.000Z",
-      "fetchedAt": "2026-10-03T16:19:28.845Z",
+      "fetchedAt": "2026-10-03T19:28:58.204Z",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pbzlVN2JzQldwN3pTa2k1MEhVY00tQWxPcXMtSnBpTHlmM1JJRnBYYjltNVNObzZkQ0VhdmhCeWdWWnpuYzBmdjlIZW9Ycl96V0Z0Mm1hOGFCWVVRakVZYlZBZ2JCZ1hRbE5uUktYWW8zZw?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -6227,6 +6227,125 @@
       "sentAt": null
     },
     {
+      "id": "1d120a91cda55af711a61131af465fd2ca418c5c35a6ede07ee2ec71fd2275a2",
+      "titleSourceHash": "831250575899516c1551478186185963f370413749d5444021c31fd2df5cca1c",
+      "eventId": "f792b761450c992f40eb4cd508d86968205a37618d70193a405ba3982119df54",
+      "title": "LME 전기동 2개월 연속 상승…中 제조업 개선·재고 감소 영향",
+      "normalizedTitle": "lme 전기동 2개월 연속 상승 中 제조업 개선·재고 감소 영향",
+      "description": "LME 전기동 2개월 연속 상승…中 제조업 개선·재고 감소 영향 snmnews.com",
+      "source": "snmnews.com",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-10-02T06:50:51.000Z",
+      "fetchedAt": "2026-10-03T19:28:58.204Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcU9ta3VZaEU1LTV3RDBCaS1CNjcxejRCQkFrekJLOERJY2FuazNGVlBKbXl1OVI1bTJiTmc2YVVMd0JRZmhCUGFjY2FJdkZ5eDJYcmFocUtZd1RQTE82S0I0T004Vm5M?oc=5",
+      "language": "ko",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "전기동"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "재고"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "전기동"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "재고"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "INVENTORY"
+      ],
+      "primaryCategory": "Inventory",
+      "titleKo": "LME 전기동 2개월 연속 상승…中 제조업 개선·재고 감소 영향",
+      "summaryKo": "LME 전기동 2개월 연속 상승…中 제조업 개선·재고 감소 영향 snmnews.com",
+      "marketImpact": "Bullish",
+      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+      "procurementImpact": "NEGATIVE",
+      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "MEDIUM",
+      "signals": [
+        "Inventory Down"
+      ],
+      "keyEvidence": [
+        "재고 감소"
+      ],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Inventory",
+        "categories": [
+          "INVENTORY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME 전기동 2개월 연속 상승…中 제조업 개선·재고 감소 영향 snmnews.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "재고 감소"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Inventory Down"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Inventory",
+        "categories": [
+          "INVENTORY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME 전기동 2개월 연속 상승…中 제조업 개선·재고 감소 영향 snmnews.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "재고 감소"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Inventory Down"
+        ],
+        "urgent": false
+      },
+      "priority": 26,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Material event taxonomy",
+      "sent": true,
+      "sentAt": "2026-10-03T19:28:58.204Z"
+    },
+    {
       "id": "14f067b6d95b3916c98f0c211afc981099d44a73e67813d29f36ee421fcb97ac",
       "titleSourceHash": "c596418f37e004031d9bcbbd5ad7fc813593cf70ccd20b41a9c557cd216dc50d",
       "eventId": "f792b761450c992f40eb4cd508d86968205a37618d70193a405ba3982119df54",
@@ -6340,125 +6459,6 @@
         "urgent": false
       },
       "priority": 26,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "1d120a91cda55af711a61131af465fd2ca418c5c35a6ede07ee2ec71fd2275a2",
-      "titleSourceHash": "c596418f37e004031d9bcbbd5ad7fc813593cf70ccd20b41a9c557cd216dc50d",
-      "eventId": "f792b761450c992f40eb4cd508d86968205a37618d70193a405ba3982119df54",
-      "title": "LME 전기동 2개월 연속 상승…中 제조업 개선·재고 감소 영향",
-      "normalizedTitle": "lme 전기동 2개월 연속 상승 中 제조업 개선·재고 감소 영향",
-      "description": "LME 전기동 2개월 연속 상승…中 제조업 개선·재고 감소 영향 철강금속신문",
-      "source": "철강금속신문",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-10-02T06:50:51.000Z",
-      "fetchedAt": "2026-10-02T12:39:07.404Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcU9ta3VZaEU1LTV3RDBCaS1CNjcxejRCQkFrekJLOERJY2FuazNGVlBKbXl1OVI1bTJiTmc2YVVMd0JRZmhCUGFjY2FJdkZ5eDJYcmFocUtZd1RQTE82S0I0T004Vm5M?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "전기동"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "재고"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "전기동"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "재고"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "INVENTORY"
-      ],
-      "primaryCategory": "Inventory",
-      "titleKo": "LME 전기동 2개월 연속 상승…中 제조업 개선·재고 감소 영향",
-      "summaryKo": "LME 전기동 2개월 연속 상승…中 제조업 개선·재고 감소 영향 철강금속신문",
-      "marketImpact": "Bullish",
-      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-      "procurementImpact": "NEGATIVE",
-      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "MEDIUM",
-      "signals": [
-        "Inventory Down"
-      ],
-      "keyEvidence": [
-        "재고 감소"
-      ],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Inventory",
-        "categories": [
-          "INVENTORY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "LME 전기동 2개월 연속 상승…中 제조업 개선·재고 감소 영향 철강금속신문",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "재고 감소"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [
-          "Inventory Down"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Inventory",
-        "categories": [
-          "INVENTORY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "LME 전기동 2개월 연속 상승…中 제조업 개선·재고 감소 영향 철강금속신문",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "재고 감소"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [
-          "Inventory Down"
-        ],
-        "urgent": false
-      },
-      "priority": 34,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -6798,8 +6798,8 @@
       "description": "COMMENTARY: Hindalco aims to kick-start an alumina pricing revolution Reuters",
       "source": "Reuters",
       "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-10-02T06:00:00.000Z",
-      "fetchedAt": "2026-10-03T16:19:28.845Z",
+      "publishedAt": "2026-10-02T06:16:16.000Z",
+      "fetchedAt": "2026-10-03T19:28:58.204Z",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObktjNmZ2elJEN25rcm13RGxsR0UtNmF6QnhHT1d1eHlBZ0dmN0VWMU11Vng3LW5XMXNjb2UzaEVQazZYcXUwN1pWX25pSjhISXgxQW1YT3c1LXZjMHBWM0ZVbG14b18xbi0wQVNTMl9qeHhUSTN3WnY4U2NqOFg1VkhQVDRJRk1NbWpRTkppN2N6OTFIRXRyY1pGYmRmdnVHdHdWSmdrSGx4SEtYelZZaWxGU1c2cGlhYlJaelp1VzQ?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -6902,7 +6902,7 @@
       "source": "뉴스핌",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-02T05:59:00.000Z",
-      "fetchedAt": "2026-10-03T16:19:28.845Z",
+      "fetchedAt": "2026-10-03T19:28:58.204Z",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YZDdoU183ZmpLNHlwZW95TWxnc0s3RG1qRV9zNXNlajhBV2QtMHhDbVRlQ2d2dTdXcDJwcC1EMnpFRDV3Tk9MbUJlZnIwQ3k1ZHNybmZaUEU1bG5Z?oc=5",
       "language": "ko",
       "commodity": "MOLYBDENUM",
@@ -6996,8 +6996,8 @@
       "priority": 26,
       "codexStatus": null,
       "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-10-03T19:28:58.204Z"
     },
     {
       "id": "a9e241d4b6079b854d17cb085bd9197a2c915476931c368e81cc071780a7337c",
@@ -7323,6 +7323,116 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-10-02T05:48:39.459Z"
+    },
+    {
+      "id": "ec7ed071ac5d90fc0150bbb542519a393ae764a8d9fe53a0557c87d95ed87b2c",
+      "titleSourceHash": "6025d129b4b724d43108aafa9450bac2c45ead2df6564a909bbbbf0da6e0334b",
+      "eventId": "0173f7816e544001110032a17d920198c3cc2b01469387753ee9cfa70dcb5afd",
+      "title": "4월 이후 가공비 중심이 상승한 반면, 알루미늄 빌렛 공급 측은 안정적인 실적을 유지했습니다 [SMM 분석]",
+      "normalizedTitle": "4월 이후 가공비 중심이 상승한 반면 알루미늄 빌렛 공급 측은 안정적인 실적을 유지했습니다 smm 분석",
+      "description": "4월 이후 가공비 중심이 상승한 반면, 알루미늄 빌렛 공급 측은 안정적인 실적을 유지했습니다 [SMM 분석] news.metal.com",
+      "source": "news.metal.com",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-10-02T02:52:00.000Z",
+      "fetchedAt": "2026-10-03T19:28:58.204Z",
+      "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxOVEVwZlhvOERCS2JRYTY2QjNuRTJ3c1R5NUdUTjQwaFlITmYtQTRwMG94cW1HWDdsLU4wWVpPNzVQZmc0cW5IazV0cHhUTzZ3Wl9ZRjBGcXdQWjhTNGZvX0hXQ09IRll3eHA1RHh2RzVYREFISmVWYzZ5dXBSWFBhcFp2NHlGcVFfYm1tQ3NMdEFCOTlnX1lxRkgzZ1RyYTU2Q3NhNlBBV1FCci02Sk5La1o2MVo3VkhNTS1MbGxTMDVRaDk4VEhKazg2UjVMTjRub2ZtUUVCYVlieGVZc0hUTjR2ekVzQUlFZ2lzSG0xeTU2WFMxa2g2cmZyUl85X09kYUZBclNLWDZJUUx4ODlrVzNsYTJoaW9va2p6bEgzRFNCbmpaa2FZYkY2SGpka3JJanVvdGdyTGZzTDRUQ202S0NUSTJnN2JIeEoweHlscU9hV1lIUmJZSkZLRXVncDRCNUI1OWVRS1pEQ1F6bGp5UTU3MTdtNUJCZXA0YnE4M3d2NEQ4NEl6enMxS3VUMkc4Qk80WGVyaC1fNjhvenpiRXkxelp5TFpFYjNpcFFxMGFDanV4T2lXck54TTJDQTRtYl9BVkVwQ0tuMkhLMlJVYmdPT1VOdlVsNnBfMk1GVDFKdmx0MzhnSW8teDNyUmNqWnE1LUdaZ3JTaEtWdFlsVDJ6a1Q4SU8xNkU1eDFyakJBN0FKNnEySHRYRzF6TFZGSG15VG9DS2FFM1k5TW1CbFRYTW5IYUpyblg4TTVJRkNjT0N0Si1USA?oc=5",
+      "language": "ko",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "알루미늄"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "공급"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 9,
+          "matchedKeywords": [
+            "알루미늄"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "공급"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "SUPPLY",
+        "EARNINGS"
+      ],
+      "primaryCategory": "Supply",
+      "titleKo": "4월 이후 가공비 중심이 상승한 반면, 알루미늄 빌렛 공급 측은 안정적인 실적을 유지했습니다 [SMM 분석]",
+      "summaryKo": "4월 이후 가공비 중심이 상승한 반면, 알루미늄 빌렛 공급 측은 안정적인 실적을 유지했습니다 [SMM 분석] news.metal.com",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY",
+          "EARNINGS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "4월 이후 가공비 중심이 상승한 반면, 알루미늄 빌렛 공급 측은 안정적인 실적을 유지했습니다 [SMM 분석] news.metal.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY",
+          "EARNINGS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "4월 이후 가공비 중심이 상승한 반면, 알루미늄 빌렛 공급 측은 안정적인 실적을 유지했습니다 [SMM 분석] news.metal.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 26,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": true,
+      "sentAt": "2026-10-03T19:28:58.204Z"
     },
     {
       "id": "18f706eeb918457ab537b1622a06398fa2f7d9c66923a29436aa9f7c1d936bd5",
@@ -11519,7 +11629,7 @@
       "source": "Georgia Laurie",
       "feedSource": "International Tin Association",
       "publishedAt": "2026-10-01T09:29:13.000Z",
-      "fetchedAt": "2026-10-03T16:19:28.845Z",
+      "fetchedAt": "2026-10-03T19:28:58.204Z",
       "url": "https://www.internationaltin.org/patented-process-recovers-high-purity-tin-from-e-waste",
       "language": "en",
       "commodity": "TIN",
@@ -33659,113 +33769,6 @@
       "priority": 34,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "8d5890dc4ebc14348f7b06cac9cbf8b03291f139e263d884e45c62f4174dd172",
-      "titleSourceHash": "245d05bcf82334c510322688dfa922ec4f8f1809d922770f100f2b5f5d000fc2",
-      "eventId": "078fe3b54df50b46d45443130a0d5ba2a50c5bdbea395ab3c3f537166a1e2c89",
-      "title": "구리 가격이 일주일 만에 최저 수준으로 떨어졌습니다.",
-      "normalizedTitle": "구리 가격이 일주일 만에 최저 수준으로 떨어졌습니다",
-      "description": "구리 가격이 일주일 만에 최저 수준으로 떨어졌습니다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-09-28T13:34:46.000Z",
-      "fetchedAt": "2026-09-29T05:46:13.243Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMWlWYXprUkJHMTdDNEd1ZGdodGo4eXYtUEtmMlBqSlBqYnQ4ajZTbENCTWZZeEJhakxnQzdwRnZqdV81dTVCR244RkRndS1TUG94SGJHeHZTMk01Q1hsWVhLTDVzVGt0WWJYU1BpaHo0ckVvN0xlQ3VJejNvOS11djRR?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "가격"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "가격"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "구리 가격이 일주일 만에 최저 수준으로 떨어졌습니다.",
-      "summaryKo": "구리 가격이 일주일 만에 최저 수준으로 떨어졌습니다. Vietnam.vn",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "구리 가격이 일주일 만에 최저 수준으로 떨어졌습니다. Vietnam.vn",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "구리 가격이 일주일 만에 최저 수준으로 떨어졌습니다. Vietnam.vn",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": null,
-      "codexReviewReason": null,
       "sent": false,
       "sentAt": null
     }
