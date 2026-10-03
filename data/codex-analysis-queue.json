@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T12:03:45.940Z",
+  "generatedAt": "2026-10-03T16:19:28.845Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -941,42 +941,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-21T11:07:41.084Z",
       "updatedAt": "2026-09-21T11:07:41.084Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "85f4d0b2bea32eb62f2bb4777c0a495b00c98e13729b6a4913f4cc4811eee770",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "LME copper holds above $14,200 but ANZ predicts record as tariff concerns distort market",
-      "summary": "LME copper holds above $14,200 but ANZ predicts record as tariff concerns distort market Seeking Alpha",
-      "source": "Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWV6YWUtTGlBUjNBY2hjTlR6ekNiMkhrM2NqejFJazVpS21jZjVPRVZ3dl9BRnQyTTdXR2pkVjVoakJDd2dIeUUtYUdBVTluUFp5RkpXZzMzUThPNEFzNEZEMi1QU3RfNm16WmNyNXhCOE84NkVKN2tDcDRhS1lMdFJqbGZBYWpNQjZzelBoQzBTRVMzN01xb05NeWpuWDNzWGFNNWYyWEVHY3ByRV9ISV9ZLUo2ejRPODMzdU5LRlltZw?oc=5",
-      "publishedAt": "2026-09-03T13:44:41.000Z",
-      "priority": 53,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "LME copper holds above $14,200 but ANZ predicts record as tariff concerns distort market Seeking Alpha",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-03T18:05:48.423Z",
-      "updatedAt": "2026-09-03T18:05:48.423Z",
       "analyzedAt": null
     },
     {
@@ -3439,48 +3403,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-30T18:08:37.104Z",
       "updatedAt": "2026-09-30T18:08:37.104Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "1d851ec1117255eb4ffe70aab8e246e8be99fed53de01076b4f07a98323c66d6",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Sterling Increases Strike of MEPS Discovery to 1.3km and Discovers Molybdenum-Copper Porphyry Stock at Depth",
-      "summary": "Sterling Increases Strike of MEPS Discovery to 1.3km and Discovers Molybdenum-Copper Porphyry Stock at Depth Investing News Network",
-      "source": "Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ3VpUk9fTm04OWhGbzlGUm45bTN4OU9wamhFMnFEWHJoUW5QSENwV2VCbkVBS2FiYjg4dFliSHpBVVczZE44SUs0TzI5WkYzajNaSlpYRFpvVktHck5UNWJqNkQ5YUZXR0x0a2FHc29JRW5iM0NmcDBPbkdvOUx5eTRDbmM0UUtMd2dfcC1hem8zajYzRTJNNDVGenJqN0dJUGh1b2JoYXJ6dUctUmM5MTQ2QzdSV0FfODdlaGR5bWdGWWU4Q0hpQjRYWVRPeVNs?oc=5",
-      "publishedAt": "2026-09-03T13:43:27.000Z",
-      "priority": 42,
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "STRIKE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Sterling Increases Strike of MEPS Discovery to 1.3km and Discovers Molybdenum-Copper Porphyry Stock at Depth Investing News Network",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-03T18:05:48.423Z",
-      "updatedAt": "2026-09-03T18:05:48.423Z",
       "analyzedAt": null
     },
     {
@@ -18846,6 +18768,79 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-03T12:03:45.940Z",
       "updatedAt": "2026-10-03T12:03:45.940Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "8c058d0f448bc47a4c2314b0825157193445c59d99d0d646ebc40dee23cf011f",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Global X Copper Miners ETF - Backpack Securities Price, COPX Price, Live Charts, and Marketcap",
+      "summary": "Global X Copper Miners ETF - Backpack Securities Price, COPX Price, Live Charts, and Marketcap Coinbase",
+      "source": "Coinbase",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa09QQkJCZUh3NUp0WTNfMXhkNFM3YWpkS3dJMUJiX3pOZlZtcEN1bjd0aG55S0ZiTVcyeF9YTllFYXk3ckdQelNINF9KMEwwVEVIQ284ZUwyeVpwNW9pLVdiQTdpd25iV3dZamFfRTYyalBBdTYyX0NDVXBIS093YU5LTU9KN00weUR4QlY1aVhwS2U1Zml3Z1N1Z1RMOFlxNWs3ZDd6bERXcHhlVWtwY01teDFEb1NlbWs1LWRHTjFuRFpxOFl6MkxPQ1dPa3NXOW5z?oc=5",
+      "publishedAt": "2026-10-03T12:04:36.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "PRICE",
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Global X Copper Miners ETF - Backpack Securities Price, COPX Price, Live Charts, and Marketcap Coinbase",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-03T16:19:28.845Z",
+      "updatedAt": "2026-10-03T16:19:28.845Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "e7466e0cab55cc10d55a0e8fb7c64d40496d5a9f9b79d2a748dd4fd55dfaf0c2",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Southern Copper (NYSE:SCCO): High Growth Momentum Meets Breakout Setup",
+      "summary": "Southern Copper (NYSE:SCCO): High Growth Momentum Meets Breakout Setup ChartMill",
+      "source": "ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWk9CNUhMVWRZSU55UFZnaDdWVzJIWV9rZnAwN0NQTXRDLW9TcXZjVzFkaGZLVXlxVTVIdURHaUdxeWJJTGwtMk01bTNSMnR0dmwxa1RhMmJYT2dEQnFxclVXM0FubnF5aURJTm81T0xub3JxUkJQeFhRWnZxanp6WkJMNWItNFdEYVlqdHVZVHpGblZndFh0Vy04c2NnQVZOR1pyUXp2OHh6NmhtcGRydEpLd0xUSVE3Nmc?oc=5",
+      "publishedAt": "2026-10-03T11:11:11.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Southern Copper (NYSE:SCCO): High Growth Momentum Meets Breakout Setup ChartMill",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-03T16:19:28.845Z",
+      "updatedAt": "2026-10-03T16:19:28.845Z",
       "analyzedAt": null
     },
     {
