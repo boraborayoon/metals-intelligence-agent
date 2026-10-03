@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T06:36:06.486Z",
+  "generatedAt": "2026-10-03T12:03:45.940Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -1486,42 +1486,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-15T11:46:13.795Z",
       "updatedAt": "2026-09-15T11:46:13.795Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "cbcabe2178373f6fb27596e81a2f2059dc17285569111a36e2765be21a18719b",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper to hit record as tariff concerns distort market, ANZ says",
-      "summary": "Copper to hit record as tariff concerns distort market, ANZ says The Edge Malaysia",
-      "source": "The Edge Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12S1I0cF8yZGdQYnctSlYxbzVYWjk1eTdFN1RnbXNCclhNaklKOHJzT01JT0NEUTJ4Zk02NFdFMEtXb09QRXc2ajdFczd6VF9G?oc=5",
-      "publishedAt": "2026-09-03T07:26:57.000Z",
-      "priority": 49,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper to hit record as tariff concerns distort market, ANZ says The Edge Malaysia",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-03T09:52:33.609Z",
-      "updatedAt": "2026-09-03T09:52:33.609Z",
       "analyzedAt": null
     },
     {
@@ -16406,6 +16370,47 @@
       "analyzedAt": null
     },
     {
+      "id": "4611e8636f39f62ac2d86b91cc0f02abe81b051fb5b790608483fd4ccff136f8",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Exclusive-China demands copper supply commitments for Anglo Teck merger approval, sources say",
+      "summary": "Exclusive-China demands copper supply commitments for Anglo Teck merger approval, sources say 102.7 WBOW",
+      "source": "102.7 WBOW",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVlpWExKVnY2T0tTdDBNdnpfMlJGR21JRjVra05JcEs0eWJESDZfcS1haE5aRjgxQXZUZWcwckZ5Zll1MzRoSmpzTWxvS0FnUU1VMFRrWDRLT1otakszSTF6U1ZWX09PR3o4YVlibjJhSkdlQTRwSzA3c0g5ZXdoN0ltTmx6bXA1Qnp5X3dEQmo5Q3BGbmdwbHZNZm9uNk1aMjRKbHZIWXUwT0lyU3RFck1zUElrLTYyQWNyVkdUdVJkZU0?oc=5",
+      "publishedAt": "2026-10-02T19:07:04.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "SUPPLY",
+          "DEMAND",
+          "CHINA",
+          "M&A"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Exclusive-China demands copper supply commitments for Anglo Teck merger approval, sources say 102.7 WBOW",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-03T12:03:45.940Z",
+      "updatedAt": "2026-10-03T12:03:45.940Z",
+      "analyzedAt": null
+    },
+    {
       "id": "5a447a0042dfcbf06a822415d2cc03c88fba0d5c2a2dbf123dced07433b88171",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18807,6 +18812,43 @@
       "analyzedAt": null
     },
     {
+      "id": "0281754c7092cde04ececf61b19acaa4c75d0b3215ca7ae41a68f48ae93a0d8b",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "5083 aluminium holds durable growth potential, but real demand will hinge on marine, transport and defence programmes",
+      "summary": "5083 aluminium holds durable growth potential, but real demand will hinge on marine, transport and defence programmes AL Circle",
+      "source": "AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTFotUXJxLWdwb0VZNXVmb3V6djhBRndaSk44VlVhRVBBaDVua1FpSDJFLXcydEItamNraktZWFd6VG8ydDItMzM5eXJ0WnQtakVqNVZtYlZvQnI5ZU9ubWpzQUcwUWxvY0dDdGtuQmhBOXljRFJtcl9qdWdLcWtVdmdXdzZTRkg5OVpGbmU2M25nZWFaWXl5YVNvZXlTRlJ1TGZ0NFU2LXl6RERVdlBFX1lZeUhhSXpva3ByOEc3bTVDV3Nzb1NKSW1KV1pRZWo3TVA0WktFRnpCaXQ5LTY0OEJtX2lZQXYwdXg4SWV6NUV5ZEYz?oc=5",
+      "publishedAt": "2026-10-03T08:20:29.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "5083 aluminium holds durable growth potential, but real demand will hinge on marine, transport and defence programmes AL Circle",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-03T12:03:45.940Z",
+      "updatedAt": "2026-10-03T12:03:45.940Z",
+      "analyzedAt": null
+    },
+    {
       "id": "bc8377d0d487cd5f71852aceb4ccad7ca7a3c99fc53992b47746023e4f3b7059",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18867,42 +18909,6 @@
         "region": "Unclear",
         "regions": [],
         "summary": "Keynote Presentation: Copper Market Outlook: Supply and Demand Dynamics Benchmark Mineral Intelligence",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-03T06:36:06.486Z",
-      "updatedAt": "2026-10-03T06:36:06.486Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "1322850c5489172c96d6a186670e63577a2dc86f0ab97ce0b470cb286a57e54e",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper-Nickel Alloy Powders Market To 2035: Additive Manufacturing Demand Drives Growth - News and Statistics",
-      "summary": "Copper-Nickel Alloy Powders Market To 2035: Additive Manufacturing Demand Drives Growth - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLXJydmg5U29Vem0yNkp5b3pqMnVsZUhRM1kxOGpqdGc0eTNWeWE5elo0OWV6cmtRWlVVUVJPTTNJUkxaU0tRMjZ2alowdWEwVkpGbVh5VXc4QnVqdXRJOTU1RGFieVUyRmluZ3RZTGhZdmxvMVExLUdRcGM3Wk1zbnRwd0Jhb2J1a2lDOHdlSTVhczFBTjdSRk9RNm51UGpIbzRsOFpfSDZWb2x0cEJVNDdvS01IVzFzbGhHbk8zSTVOTTQ?oc=5",
-      "publishedAt": "2026-10-02T15:51:04.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper-Nickel Alloy Powders Market To 2035: Additive Manufacturing Demand Drives Growth - News and Statistics IndexBox",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
