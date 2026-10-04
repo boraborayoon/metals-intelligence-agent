@@ -1,6 +1,115 @@
 {
-  "generatedAt": "2026-10-04T18:23:42.917Z",
+  "generatedAt": "2026-10-04T21:57:59.676Z",
   "items": [
+    {
+      "id": "aa299b249e96defb6dcaf576a05e3da406bf6c4f7beef1f06bcab9240e6f7e5f",
+      "titleSourceHash": "1443f3f64bb00d890391219d2dec6b363bbfbc2bc8b312540b66116eb7be825d",
+      "eventId": "fb07c7624aabcf65ab710a30980e6d43fe431751f6984db024effc0fd4207b9a",
+      "title": "Former Glencore property showing big copper, zinc potential in the Sudbury basin",
+      "normalizedTitle": "former glencore property showing big copper zinc potential in the sudbury basin",
+      "description": "Former Glencore property showing big copper, zinc potential in the Sudbury basin ElliotLakeToday.com",
+      "source": "ElliotLakeToday.com",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-04T20:05:23.000Z",
+      "fetchedAt": "2026-10-04T21:57:59.676Z",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHEzTXdEODZFdXpESlZLcWVySThjVm1Eb0hOZ3dLM05ua1Fyd2VSR0ljZXozcDNvUnVxMXo5REl2TDhSWDA0djBiZVdZYlp5eEJhODBQTzRCcTJMYzF6S2FsRGxWdlE1V0I5WHpCOWlWR0tEcFFXTjMzQ3p6RUs0VmFOTGEwaFVqVE55ZlZHYUFjT2M4Vk5uczlDYnNQblZpc0EwQmRNcHdLaVhtLXROYkhaME8zcW90b3V5cFlsbHd3Qks2akt1Z1pzVQ?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [
+        "Glencore"
+      ],
+      "matchedRegions": [],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [
+            "Glencore"
+          ],
+          "matchedRegions": [],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "COMPANY"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Former Glencore property showing big copper, zinc potential in the Sudbury basin",
+      "summaryKo": "Former Glencore property showing big copper, zinc potential in the Sudbury basin ElliotLakeToday.com",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [
+        "Glencore"
+      ],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Former Glencore property showing big copper, zinc potential in the Sudbury basin ElliotLakeToday.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Former Glencore property showing big copper, zinc potential in the Sudbury basin ElliotLakeToday.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-10-04T21:57:59.676Z"
+    },
     {
       "id": "f763f4b65172b26acfa3ab51735e229bec13833a078cc87bf3b59dc39b2a781b",
       "titleSourceHash": "5928358d9b3f2feb79c34e6bb83e8bd938c956ee9ded81209cd5d7dca1a1342e",
@@ -356,7 +465,7 @@
       "source": "IntelliNews",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-04T16:25:26.000Z",
-      "fetchedAt": "2026-10-04T18:23:42.917Z",
+      "fetchedAt": "2026-10-04T21:57:59.676Z",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbE16SEl1cmZsNmc4V1FYS0RxMUstSGM3NGVzZVNMVDRTa2o5U01VUU96S3A4cklOTVNJMGZRcVJMTWEydlFWVVhndU9wVHQ2M1l2N3RUakdzajdVb1dlOGlXWHB0clFjSGgwZURydDIwdVY0UGdTUHJ4NUFRUDl4S0w3REdVblhwSTZOaTk5b3RvbXozdmdXVWcwbGoxdXB4VWZoRXQwVE9vVFEzNWJqQ3FwU2xzenI0ZFNJdER6dXZybGVBaHU5NQ?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -576,7 +685,7 @@
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-04T11:59:02.000Z",
-      "fetchedAt": "2026-10-04T18:23:42.917Z",
+      "fetchedAt": "2026-10-04T21:57:59.676Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YOGQtM2g1dFRCTzg1NlVlQ3Atc3gzc3dIb0x0MDhRb2FpMkZsbnFQMDJxWkNhMm1JMUwwOHJ1T2UzXzRQZUs3RXl2cTFsYmhjdEVQbHd3eXQ2R1JHVHlsN251YkFmZkU?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -802,7 +911,7 @@
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-04T11:25:59.000Z",
-      "fetchedAt": "2026-10-04T18:23:42.917Z",
+      "fetchedAt": "2026-10-04T21:57:59.676Z",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZTlHdHBad1NYNzEyaGRXeUQ4MHpOVV9TZkxUUVZrOE45N2ZYLUdHU00tN2NENmxZc0hFY3FhcjZOMFE1cWMwUFBaeW83ZkRnc01xeENDZUMzaTljMGh0S05WRlhtUE4wWWNJQXEwVWNUQkJRNXdJa0NJM1U1SWR6TUlOOXlTTVF3em5ZMXBNYmxuNlgxOVY3Y1VQNlduemVKMkdRLWJJbHVSdm1oRzJNNVpnQzNMVHFXckY1b0czdHB0TlJDSEVN?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -907,6 +1016,115 @@
       "codexReviewReason": null,
       "sent": false,
       "sentAt": null
+    },
+    {
+      "id": "9b69a71f78778734bb1d84ecefce5873906c7f983711be37f7e2466f5cb9a1b3",
+      "titleSourceHash": "608a489ca9fd61d9331dd02c64af7cf72c676602decec3f7357ad9add0086eac",
+      "eventId": "64c0f189fa659768c473ef3061239be117811355af083f4aa70a13a3c1b5fcef",
+      "title": "Mulapeta’s Salt Marshes Must Not Be Sacrificed for an Aluminium Smelter",
+      "normalizedTitle": "mulapeta s salt marshes must not be sacrificed for an aluminum smelter",
+      "description": "Mulapeta’s Salt Marshes Must Not Be Sacrificed for an Aluminium Smelter Countercurrents.org",
+      "source": "Countercurrents.org",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-04T09:09:49.000Z",
+      "fetchedAt": "2026-10-04T21:57:59.676Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSER3ZUtRcjJhbHNqYTFGV2RCUDZodGRYZ0pOaUxtbVFoQUh5ZFFEQzRNdjBwNWZPNDJnWFdnTS1QanQ4VGxSVlIxazQxeFVSM0Z3Z3dERkVudkVEYm5OQVh4UHlhM0dMbVJpd2NzRWt4alBxRVJjYWhhS2RXYmJLZEVTaHk1MVRoQ3lYTklkc0tKZGlkNUVzeUNrRmhUQ1ZFUmRyYkNNZGxpNUU?oc=5",
+      "language": "en",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "aluminium",
+        "aluminium smelter"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "smelter"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 13,
+          "matchedKeywords": [
+            "aluminium",
+            "aluminium smelter"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "smelter"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "SMELTER"
+      ],
+      "primaryCategory": "Smelter",
+      "titleKo": "Mulapeta’s Salt Marshes Must Not Be Sacrificed for an Aluminium Smelter",
+      "summaryKo": "Mulapeta’s Salt Marshes Must Not Be Sacrificed for an Aluminium Smelter Countercurrents.org",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Smelter",
+        "categories": [
+          "SMELTER"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Mulapeta’s Salt Marshes Must Not Be Sacrificed for an Aluminium Smelter Countercurrents.org",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Smelter",
+        "categories": [
+          "SMELTER"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Mulapeta’s Salt Marshes Must Not Be Sacrificed for an Aluminium Smelter Countercurrents.org",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-10-04T21:57:59.676Z"
     },
     {
       "id": "5aa3e92479ab7df724e3bf375952a1afcd4f57261e825fe446a08f2bb7e771e1",
@@ -1674,7 +1892,7 @@
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-03T12:33:05.000Z",
-      "fetchedAt": "2026-10-04T08:28:27.595Z",
+      "fetchedAt": "2026-10-04T21:57:59.676Z",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMWw5LTZPYUQwRGI4N3NuckxFQVh1MEJIR2h4Y1lQMGdROWY0aVROdGR3VWluaDNjQ212UlBSVG54UlBKcTBLQ3o0YlFObzEyV2lEUFZ4OG5iVlZSTkdEY0ZwclpWazNpX2pRTEwxUGhXeGI3VmdlYmhkR1ZnUUdjUU42Vk1GbllRZE5HRmJuaW1ieTlLNDJNdENMbi12Y0ZYTHRJ0gGjAUFVX3lxTFAxbDktNk9hRDBEYjg3c25yTEVBWHUwQkhHaHhjWVAwZ1E5ZjRpVE50ZHdVaW5oM2NDbXZSUFJUbnhSUEpxMEtDejRiUU5vMTJXaURQVng4bmJWVlJOR0RjRnByWlZrM2lfalFMTDFQaFd4YjdWZ2ViaGRHVmdRR2NRTjZWTUZuWVFkTkdGYm5pbWJ5OUs0Mk10Q0xuLXZjRlhMdEk?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -1771,7 +1989,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 14,
+      "priority": 10,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -2006,7 +2224,7 @@
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-03T09:00:10.000Z",
-      "fetchedAt": "2026-10-04T18:23:42.917Z",
+      "fetchedAt": "2026-10-04T21:57:59.676Z",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYmlCQlluZjBhMzByUk0wUTBJMjNmak14eU96dmY1SU13Z0xlN0hVXzBUbDg0aXZYVHpPMVc2d0pnV0dCdkNUUkJEbVhJbkg5ajRmeS1yamhqMVR4eHlfZlI5Y2JsNHNzQTJvdjItclY4UXlwdTc5TWJJeDk5aElCVURweGpqemtYbm53U0lGYU1halJQWmRVRE54M19MdTViMW5wZmdZTFA3WjI4UnlYaU9tN205TE1EWHlINkdScULSAcABQVVfeXFMTW05OWpUb08wWThJZmZrRS1FTU5qQnlEM2xMSEFQVVl3TWFFSlloX1lsbFJ3dlF1ZkQ3TnVIRnN0ci1lOHpPV29QbUNyY1lSNGVCZW5QOTNEVm4yd3JnTk5uQjhlVV9GejJWYjhJNHg4dDZJQ2RqT2pLTE9rYmx0c2kzV2Zac3VNVHV4VHBPcmxHY3ZTbU8yRm55NzNaUWhpZDNOdDFhVnFDMDRvbC1TMXV0NXNOOXlRMnctLS1FS2t0?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -2449,7 +2667,7 @@
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-03T03:48:31.000Z",
-      "fetchedAt": "2026-10-03T22:26:42.148Z",
+      "fetchedAt": "2026-10-04T21:57:59.676Z",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0VuUFlnYTFrcU9fRjJnVnFoYWRpMDZDLV9jYUw1R21GRFRmMFBYc3ZYcWZxSXg0ZlE1ck5ZTzNlaGhlR0x6WHhlbWZqWUpxWnB1blJlSkNkVFB6REVYLWg4XzNWTDVpUF9uWDVZanZXR2FrcklVODJMXzBHanA0YU9ycG0zYndqQkQtV0Fkc2NhRVo3bFlqbUFta1puNEtiLVpvbmhqWXVlRWVFTFU0RkNJQdIBswFBVV95cUxPV0VuUFlnYTFrcU9fRjJnVnFoYWRpMDZDLV9jYUw1R21GRFRmMFBYc3ZYcWZxSXg0ZlE1ck5ZTzNlaGhlR0x6WHhlbWZqWUpxWnB1blJlSkNkVFB6REVYLWg4XzNWTDVpUF9uWDVZanZXR2FrcklVODJMXzBHanA0YU9ycG0zYndqQkQtV0Fkc2NhRVo3bFlqbUFta1puNEtiLVpvbmhqWXVlRWVFTFU0RkNJQQ?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -2546,7 +2764,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 14,
+      "priority": 10,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -13399,7 +13617,7 @@
       "source": "Georgia Laurie",
       "feedSource": "International Tin Association",
       "publishedAt": "2026-10-01T09:29:13.000Z",
-      "fetchedAt": "2026-10-04T18:23:42.917Z",
+      "fetchedAt": "2026-10-04T21:57:59.676Z",
       "url": "https://www.internationaltin.org/patented-process-recovers-high-purity-tin-from-e-waste",
       "language": "en",
       "commodity": "TIN",
@@ -33553,223 +33771,6 @@
         "urgent": false
       },
       "priority": 34,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "739edd5c818577c6f2ab5f1716e168620eb147392d7eac694cd7fd06cb8e1f8a",
-      "titleSourceHash": "33d0019cf8b9df100da4f431da9872e67996dfec459498acd5343a118c2ddc79",
-      "eventId": "451467773724937b4aebfae573a4db04b84439a80177e10902cf342f400d4dc7",
-      "title": "[비철금속 시황] 中 수요 우려에 구리 1.4% 하락…비철금속 일제히 약세",
-      "normalizedTitle": "비철금속 시황 中 수요 우려에 구리 1 4% 하락 비철금속 일제히 약세",
-      "description": "[비철금속 시황] 中 수요 우려에 구리 1.4% 하락…비철금속 일제히 약세 kidd.co.kr",
-      "source": "kidd.co.kr",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-09-28T22:49:08.000Z",
-      "fetchedAt": "2026-09-30T18:08:37.104Z",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5MZVc2VENkVWNobGZ0TWNLaVBrZEp0OGZlSjZtX1ZITEtMLUpPdkU1VVVzQW9tOUoxT2JiaVctcldUeFFa?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "수요"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "수요"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "DEMAND"
-      ],
-      "primaryCategory": "Demand",
-      "titleKo": "[비철금속 시황] 中 수요 우려에 구리 1.4% 하락…비철금속 일제히 약세",
-      "summaryKo": "[비철금속 시황] 中 수요 우려에 구리 1.4% 하락…비철금속 일제히 약세 kidd.co.kr",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "[비철금속 시황] 中 수요 우려에 구리 1.4% 하락…비철금속 일제히 약세 kidd.co.kr",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "[비철금속 시황] 中 수요 우려에 구리 1.4% 하락…비철금속 일제히 약세 kidd.co.kr",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 26,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "6e34944e69a87b807d9edf121bafda3834232ed7cbe5df40cdc7addcafc86736",
-      "titleSourceHash": "ef93f9c0f65b07d3156be6cf93061e82b589d2eb01084bd76308780ab2fe77c7",
-      "eventId": "c887e7da4feec4b5e1404df7bbd9a0a98dd58aa94921dcca25208a1590b18949",
-      "title": "FFM: Large-scale copper-gold project targets 2029 production with strong economics and growth",
-      "normalizedTitle": "ffm large-scale copper-gold project targets 2029 production with strong economics and growth",
-      "description": "FFM: Large-scale copper-gold project targets 2029 production with strong economics and growth TradingView",
-      "source": "TradingView",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-28T22:21:07.000Z",
-      "fetchedAt": "2026-09-29T05:46:13.243Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWGpkMy15VUF2TnB5d2hWR1FQT19kUlBlY0tsaWtXNzFla1oyWS1lNGRXaktyNUk3dTM1TVVkdW4xSEgwdXlYYl9DQTdOSTRIWUVnaWp3V29MSHVfX1Jud2dNMlBobTZTVHVHRDlJYno3ZVNpdVJoYzNDQVc3OG1yRkNXa3UzeHlKbHJJQWZNRlh5NlB1ajVaemlRaHJOMlQ3TnpDUEI5V3Z0UWhEbmUxbzQ4MGo0N3I5a1NaWjVaNzQ4VGR6TXdHeVJLRExfamlJX1NaVjBMMl9JRlF3QjF6Vk02elBNdmcwR1dqYkx1UlJGZ2k4dFRqaG02UjZna0tYT3g3Q1JlQ09DNGM?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "production"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "production"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRODUCTION",
-        "PROJECT"
-      ],
-      "primaryCategory": "Production",
-      "titleKo": "FFM: Large-scale copper-gold project targets 2029 production with strong economics and growth",
-      "summaryKo": "FFM: Large-scale copper-gold project targets 2029 production with strong economics and growth TradingView",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "LONG_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION",
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "FFM: Large-scale copper-gold project targets 2029 production with strong economics and growth TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "LONG_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION",
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "FFM: Large-scale copper-gold project targets 2029 production with strong economics and growth TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "LONG_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear",
       "sent": false,
