@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T16:02:55.856Z",
+  "generatedAt": "2026-10-05T22:39:13.559Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -4050,6 +4050,51 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-05T00:57:03.294Z",
       "updatedAt": "2026-10-05T00:57:03.294Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "36d4d07be7b4c0a2963ba76868a408a6f8f458c6bc3fa2ae9a1c2211ede62237",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "[구리 가격] 칠레 광산 파업 우려에 상승…中 국경절 이후 수요 주목",
+      "summary": "[구리 가격] 칠레 광산 파업 우려에 상승…中 국경절 이후 수요 주목 kidd.co.kr",
+      "source": "kidd.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBlWHQ3eDJpLVozUjZFUGRmX0Z0Z1hnamFrUDBkMmEyUmJmaU5pcTBaUHNvaDVTTjIzR2pYSm02X1lZYi1i?oc=5",
+      "publishedAt": "2026-10-05T22:25:44.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "PRICE",
+          "DEMAND",
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[구리 가격] 칠레 광산 파업 우려에 상승…中 국경절 이후 수요 주목 kidd.co.kr",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "파업"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-05T22:39:13.559Z",
+      "updatedAt": "2026-10-05T22:39:13.559Z",
       "analyzedAt": null
     },
     {
@@ -9865,6 +9910,42 @@
       "analyzedAt": null
     },
     {
+      "id": "754a1c04042e7b9a09e7f9ff8b430e7940ce72900088038b25b7266d60f31f10",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Price October 6 2026",
+      "summary": "Copper Price October 6 2026 robinhood.com",
+      "source": "robinhood.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUwyNENxbU5TZWpMMGJwbk81YnlLa01LSnVuckJWaXBUYW8wTWVWR0QxQ2FUMVJvZWtldG0zVFpHRE13bGt6YUdKUkZxUU54TTM5SWxRbWdBVDJUbHlRXzRhRm9vVE1jOGxxTkJOSi16TGEtelc1bURJZ1dwN2NRTUplSW5saTlwRTJZbTJpR2hfOE1DUzBYOEN0UV83c0V1c3M0?oc=5",
+      "publishedAt": "2026-10-05T18:27:40.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Price October 6 2026 robinhood.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-05T22:39:13.559Z",
+      "updatedAt": "2026-10-05T22:39:13.559Z",
+      "analyzedAt": null
+    },
+    {
       "id": "15c09ea4de6cf2650ede3a2e0c0b9a9c29bc9f0484a00b9616d798c8f54bc797",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -13150,6 +13231,42 @@
       "analyzedAt": null
     },
     {
+      "id": "704218262c223ddf9701f3fb13b383955106cd8f5b4c2384165f2496051515d7",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Why is Alcoa (NYSE:AA) stock in focus as aluminum demand and a deal align?",
+      "summary": "Why is Alcoa (NYSE:AA) stock in focus as aluminum demand and a deal align? Kalkine Media",
+      "source": "Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2ozMm1zT2pxNjdHbjU5UlJKemZWWEVYNkxnZDg3N19tSHpWTmE4OXV4Z3VWSnFGaE9YR0c5OXMxQjlXTVgzc3JIdDVXSjVVcmltZUlIdENUM0dFcFNEd3NkSWJMTWdtRGxqd3BtM2dxNXFKYUZaQmZYbFlXZGNLdTVZOWdDU1RTMXd0UVE0cFBPLUFFVThhRjR2SjVJN3JKRUNIam04dE5kWWRaNFhjYlRacjVoMmgxakxxeDVOSQ?oc=5",
+      "publishedAt": "2026-10-05T18:12:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Why is Alcoa (NYSE:AA) stock in focus as aluminum demand and a deal align? Kalkine Media",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-05T22:39:13.559Z",
+      "updatedAt": "2026-10-05T22:39:13.559Z",
+      "analyzedAt": null
+    },
+    {
       "id": "649baa7534578408d21954269bee7b1481d5ef03d401878ce7491cf14677e719",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -15843,6 +15960,46 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-03T12:03:45.940Z",
       "updatedAt": "2026-10-03T12:03:45.940Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "61f6d6dec2d971e09210f6bf051935d080617f7917e1a9dc5f183c7e84c0161d",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Peru has a copper opportunity, but each mining project requires 265 procedures",
+      "summary": "Peru has a copper opportunity, but each mining project requires 265 procedures bnamericas.com",
+      "source": "bnamericas.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWTZPZkdQSzg1b0xWVzI0MWJMc0dLeTdtVWZlVFBNVkJuQ050Sk4zTlJXeWZIQVVyZ0ktX3RteDJyd2o0MVc1a2FLcFVrMDVXeGJNMVhyWThUVmNCYmduWG9aT0ExR25uZGFMZjhiOVF3Tm1IUkE3dXU1M2tkdlNXM3lEX19wZjU1bVlqaWc5bDV4dWZOejBTdTdnRzRGYm9TVmlicjFRcV9SLXV1Rk9Ec3RSNUJ0TUk?oc=5",
+      "publishedAt": "2026-10-05T20:44:52.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "LOGISTICS",
+          "PROJECT"
+        ],
+        "region": "Peru",
+        "regions": [
+          "Peru"
+        ],
+        "summary": "Peru has a copper opportunity, but each mining project requires 265 procedures bnamericas.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-05T22:39:13.559Z",
+      "updatedAt": "2026-10-05T22:39:13.559Z",
       "analyzedAt": null
     },
     {
@@ -18739,150 +18896,6 @@
         "region": "Unclear",
         "regions": [],
         "summary": "Southern Copper stock pre-market at EUR 183.00: plus 0.28 percent AD HOC NEWS",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-05T07:05:07.911Z",
-      "updatedAt": "2026-10-05T07:05:07.911Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "d32b5a8db572b76967671b6ee8c5193336604c9eb298c24cad2a24a758805450",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "BHP Group Limited (ASX:BHP): Copper Expansion Shapes Its Growth Priorities",
-      "summary": "BHP Group Limited (ASX:BHP): Copper Expansion Shapes Its Growth Priorities Kalkine",
-      "source": "Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR0NHV29EYjhUNWRBNDA0ZnRIbnozSjlNNGl0RWlNTDE5YndNQXVkTHJHWGlXTkh4ejRHVFFobEtmYkhJa3gwX1J0ODF0TGdTMDdGZW52V2YyZ1ZTVGhGYWpsOTg4Y25RMzFpWV9DZk5BemxSNGw5TnpKZzBMVEF0dE1DTzMyYjdLZmVZNVI1N3ZOTGFVcXA3WjlQaTJpVUdhYmZBaWQ5SWE?oc=5",
-      "publishedAt": "2026-10-05T05:20:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Capacity",
-        "categories": [
-          "CAPACITY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "BHP Group Limited (ASX:BHP): Copper Expansion Shapes Its Growth Priorities Kalkine",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-05T07:05:07.911Z",
-      "updatedAt": "2026-10-05T07:05:07.911Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "afe9a94d08e54726c265fe137400d17d569fca745796ee87e364eba763137dbf",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Aluminium Falls As Easing Middle East Tensions Raise Hopes Of Better Supply Now By Kedia Advisory",
-      "summary": "Aluminium Falls As Easing Middle East Tensions Raise Hopes Of Better Supply Now By Kedia Advisory Investing.com India",
-      "source": "Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTEhtdXp4d2s5STM0eVlaZm1Pdi0xSEQtd0o0UlBMaDlCNm43QlhTT3NUZGVORG5uSnJvVVFpTFQ0SEY5MjBtN1RESUlaM182QWRTX2ctd0V1bFRzc1BFWHVyRlB2czhuak1NcGh5Um8tZDY1bndDOTdHYmRDeFY5b1JobzhCWTdVRjlMQ3lVaE9rY1d0NE1WNkR2Q2FIQUU4a1ZfM2ZoZEtwdHo3VDBDTjJBbGNxYmxGRmd4TkdqdGVTd2EzaUtOdjE4VnlJRUk?oc=5",
-      "publishedAt": "2026-10-05T05:03:45.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aluminium Falls As Easing Middle East Tensions Raise Hopes Of Better Supply Now By Kedia Advisory Investing.com India",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-05T07:05:07.911Z",
-      "updatedAt": "2026-10-05T07:05:07.911Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ef90c14ad236b485079f12049af1411b523c6c41b0474aca82f29d0426faaeac",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Does Evolution Mining's Duchess Deal Add Copper (ASX:EVN)?",
-      "summary": "Does Evolution Mining's Duchess Deal Add Copper (ASX:EVN)? Kalkine Media",
-      "source": "Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlQyRExJeVJNclBEdnpGaG9OSWxLNUN2aTB2SXB2UEJLcWY1cDlRYWlGdGwwQ3dJbXhtZ3FoalgwOUd5SzMycHRCUktISjQ5YmFvd0xlUnh3MTE0eUdkODJheUFpNTZWLUhWUkdVX3RULTNGSTFidWN5MXRMTnFhWmtacFBmVFdPb1VhSHpUcmZabHVVcmUydQ?oc=5",
-      "publishedAt": "2026-10-05T04:53:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Does Evolution Mining's Duchess Deal Add Copper (ASX:EVN)? Kalkine Media",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-05T07:05:07.911Z",
-      "updatedAt": "2026-10-05T07:05:07.911Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "82d6c8f54df56596babc75e8863f90639fb9628419f8e9e3be71425835acfea0",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "LME Lens: Copper posts largest weekly loss since May",
-      "summary": "LME Lens: Copper posts largest weekly loss since May Mining News Net",
-      "source": "Mining News Net",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRkp0NFBzRnJkbnZaQmpQM1Z1N250MlRNOHpaekVXQmdILUpwT2FhbEh3SG03SnpORTZaUnZpbEpiVGtmYXE5YkJjQUM2LVhaNHN4RjJLS25BeHdpMkVBQ05aNnBJWnBaeUJQZEg4M0ZVenhFRXlDQzdZbW05YVA3M1hPbGNGaDJvc0VEUDBmVlcwUW9ZU1o2SzlpMA?oc=5",
-      "publishedAt": "2026-10-05T03:24:40.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "LME Lens: Copper posts largest weekly loss since May Mining News Net",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
