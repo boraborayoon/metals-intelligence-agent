@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T21:57:59.676Z",
+  "generatedAt": "2026-10-05T00:57:03.294Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -4016,6 +4016,49 @@
       "analyzedAt": null
     },
     {
+      "id": "f94362c634835f1444b836721bf09ddafed2a7b44f512b6d29c53268663ed434",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Somerset Minerals Extends Talisker Copper-Silver Mineralisation Over 1.6km Strike",
+      "summary": "Somerset Minerals Extends Talisker Copper-Silver Mineralisation Over 1.6km Strike Kalkine",
+      "source": "Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHhRcTNCbVZ6VWZhS0lKT0prMURuY00tLWtvQUR3QmlLbFpncDFCdlliWGY1MGRzMWZhX1Y5RzZrRmtPUkdidm44WmtPS1hxQ19fWF9xYURGcW5iaW1jRXdQSUdYdmtaeXlLaHBqMW1TVFNsRTFsaEtwSnJRbGRsMjJmaURmNnRUNU1VZmM1NVQtZnZleUFMdmdlU3h4YmVDOVZaeEw2UG8xYXNwd1dWTVpyYzF0LW9vcU5UMDF0aw?oc=5",
+      "publishedAt": "2026-10-04T23:15:03.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Somerset Minerals Extends Talisker Copper-Silver Mineralisation Over 1.6km Strike Kalkine",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-05T00:57:03.294Z",
+      "updatedAt": "2026-10-05T00:57:03.294Z",
+      "analyzedAt": null
+    },
+    {
       "id": "ed177fced0d09127ebf61ebfd3d854ef0ce9a7ad0d60d2ac371d577a9df990e9",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -5899,79 +5942,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-03T06:36:06.486Z",
       "updatedAt": "2026-10-03T06:36:06.486Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "d44a2838e0f8ce729ac2eb8b6507342337693254f5fdd08b6d8b85706ab0aba5",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Company behind proposed Inola aluminum smelter lowers fluoride emissions limit by 37%",
-      "summary": "Company behind proposed Inola aluminum smelter lowers fluoride emissions limit by 37% fox23.com",
-      "source": "fox23.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMzh0XzdEWGRKNExtRlp5OWhUQ2JGakwyVXptR2t3SE10alRXYUVzaXd1V3BaTTJxN3VaMDd5XzZEd0xjVmdoSUVGTkdHZWxuU253WDNuWDlKUG0yNkM1YVI5eDdTcUhUczE0VlRYbGRzUTVLTndUNHFKdy1mLWd6TDIydndINlJsMDNPaXR6UGlldTBtWTNDOG9FN0ZhLUVibzRaZEFoQVhUT0Z3RVpaeU02RQ?oc=5",
-      "publishedAt": "2026-09-05T00:20:35.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
-        "categories": [
-          "SMELTER",
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Company behind proposed Inola aluminum smelter lowers fluoride emissions limit by 37% fox23.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-05T00:58:55.755Z",
-      "updatedAt": "2026-09-05T00:58:55.755Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "535f736c4e39ec50adbfb58b8969318932286e8588c8d3199e6982608ad709e3",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Why was Inola, Oklahoma chosen for aluminum smelter?",
-      "summary": "Why was Inola, Oklahoma chosen for aluminum smelter? News On 6",
-      "source": "News On 6",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNenlrd2tiZGhZaWZYUGRJTF90Wlk3QTB2YkQ4UlhDczRhenZlYmI4eWE3MzJkdVNYTW91eTRNLUt1ZnVaZHFTaGw2aDY2VXZfVTBKVkFoc3ZGOEJNc1ptYTBaaGt1T2ZYOUVfMVEwMW43OGdpSmc0ZXo3ZEQtbjJmTGU2dk1LRlE?oc=5",
-      "publishedAt": "2026-09-05T00:04:03.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
-        "categories": [
-          "SMELTER"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Why was Inola, Oklahoma chosen for aluminum smelter? News On 6",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-05T00:58:55.755Z",
-      "updatedAt": "2026-09-05T00:58:55.755Z",
       "analyzedAt": null
     },
     {
@@ -18571,6 +18541,42 @@
       "analyzedAt": null
     },
     {
+      "id": "2d59e0f14c5b54aca0288369190c64dd42cd35689b5887bfaf497943c5eb67cd",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper One starts third hole in 2,400m Redonda drill program",
+      "summary": "Copper One starts third hole in 2,400m Redonda drill program Mining.com.au",
+      "source": "Mining.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTh3b2JTS0xqcWIyc1RabDZRWlZid2lZd2FCUnBrMEh0V2NRcGpXcUQzV0t3S1N3ZWpmenJWa3lzV184YTJ2TnNYY3BoUXVTeWdRTDRoMlVSdTNaTmQyVHVFLXljOFBNVE1Rcm5LLS1OYWF2OVRZZXhFSTRvLWIteDd4V3FTUVdZYWc?oc=5",
+      "publishedAt": "2026-10-04T22:31:01.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper One starts third hole in 2,400m Redonda drill program Mining.com.au",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-05T00:57:03.294Z",
+      "updatedAt": "2026-10-05T00:57:03.294Z",
+      "analyzedAt": null
+    },
+    {
       "id": "e7466e0cab55cc10d55a0e8fb7c64d40496d5a9f9b79d2a748dd4fd55dfaf0c2",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18751,44 +18757,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-04T08:28:27.595Z",
       "updatedAt": "2026-10-04T08:28:27.595Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "badffcd25bc892b89c1da9a57fc1b46adc2027a9c25ed0ced0e2d7d9a571db6d",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "New Taronga DFS confirms low-cost open pit with simple processing flowsheet",
-      "summary": "British tin explorer First Tin (LON: 1SN) has published an updated DFS for its Taronga project in New South Wales, confirming low-cost open pit mining and a simple processing flowsheet. The mine would see average production of 3,100 tonnes tin-in-concentrate per year over the 10 year mine life, with potential to… Read the full article […] The post New Taronga DFS confirms low-cost open pit with simple processing flowsheet appeared first on International Tin Association.",
-      "source": "Freddie Mitchell",
-      "url": "https://www.internationaltin.org/new-taronga-dfs-confirms-low-cost-open-pit-with-simple-processing-flowsheet",
-      "publishedAt": "2026-08-19T15:05:40.000Z",
-      "priority": 21,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "MINE",
-          "PRODUCTION",
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "British tin explorer First Tin (LON: 1SN) has published an updated DFS for its Taronga project in New South Wales, confirming low-cost open pit mining and a simple processing flowsheet. The mine would see average production of 3,100 tonnes tin-in-concentrate per year over the 10 year mine life, with potential to… Read the full article […] The post New Taronga DFS confirms low-cost open pit with simple processing flowsheet appeared first on International Tin Association.",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "LONG_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-04T21:57:59.676Z",
-      "updatedAt": "2026-10-04T21:57:59.676Z",
       "analyzedAt": null
     }
   ]
