@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T07:05:07.911Z",
+  "generatedAt": "2026-10-05T16:02:55.856Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -35,16 +35,6 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-09-14T19:15:12.000Z"
-    },
-    {
-      "id": "810ab916afe2aeb469879947d3e9f47b8928f3acdef01b6176c15bd80df440cf",
-      "commodity": "ALUMINUM",
-      "importance": "HIGH",
-      "title": "Commission turns from aluminium levy to wider waste-export ban",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "EU Today",
-      "publishedAt": "2026-09-05T10:24:23.000Z"
     },
     {
       "id": "09b41f0944a6a507418bb64d3a2955cb8e15bdcf68ac816e2d5bf15cd5b89786",
@@ -675,6 +665,16 @@
       "codexStatus": "PENDING",
       "source": "Crux Investor",
       "publishedAt": "2026-09-29T15:06:39.000Z"
+    },
+    {
+      "id": "b732774a500a27d6404024e42828c5edcb444e861450a98a8d62c61baffbf9b4",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "World Bank backs $1.4B for Chile’s copper giant",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "The Northern Miner",
+      "publishedAt": "2026-10-05T15:11:26.000Z"
     },
     {
       "id": "ac292392e4bc909c39a14205f35bffd05c04888d559fad3bb7d2d1b689ae1758",
@@ -1505,16 +1505,6 @@
       "codexStatus": "PENDING",
       "source": "The Times of India",
       "publishedAt": "2026-10-03T02:30:00.000Z"
-    },
-    {
-      "id": "dc0d84b0f787429b8f20c5a8b0cbc0779156432014432fedd75a6d645db7bff4",
-      "commodity": "MOLYBDENUM",
-      "importance": "MEDIUM",
-      "title": "Dynamic Frontier Holdings Receives Approvals To Acquire 100% Of Teghout Copper-Molybdenum Mine Operator",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Pulse 2.0",
-      "publishedAt": "2026-09-05T15:54:46.000Z"
     },
     {
       "id": "fcc4f23c11ac0d327fdcb3db8b54a80678c50a13f2f91b0f8cab350032659a1e",
@@ -3457,6 +3447,36 @@
       "publishedAt": "2026-10-05T06:41:00.000Z"
     },
     {
+      "id": "73400d451109bc3fe9ea6fe222ae8ffe36bbfac30aee8b6ee04c6de7d617ac8a",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Bottomed: Glencore's Blockbuster H1 Surge",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Digital",
+      "publishedAt": "2026-10-05T15:05:57.000Z"
+    },
+    {
+      "id": "7ffa360b0c8880548e78b1beb092c1207bbbdad4204040d2eccb832b57d9cd7e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Freeport-McMoRan Reports Q3 Copper Output, Advances Grasberg Recovery",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "finance.yahoo.com",
+      "publishedAt": "2026-10-05T11:11:00.000Z"
+    },
+    {
+      "id": "ad2b1a01c32ff086e1ef56ee9e44625b85579e8331e29b0364b6b04c0919f356",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Gunnison Copper plans NYSE American listing to expand U.S. investor access and boost copper production.",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Pluang",
+      "publishedAt": "2026-10-05T10:15:37.000Z"
+    },
+    {
       "id": "649baa7534578408d21954269bee7b1481d5ef03d401878ce7491cf14677e719",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4947,16 +4967,6 @@
       "publishedAt": "2026-10-05T06:36:58.000Z"
     },
     {
-      "id": "68d255fda52651db564fefb429042f2be2145af47a281382e50ce4c1dbcdcc92",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Timeline: Copper Flat Mine",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Santa Fe New Mexican",
-      "publishedAt": "2026-10-05T05:30:00.000Z"
-    },
-    {
       "id": "d32b5a8db572b76967671b6ee8c5193336604c9eb298c24cad2a24a758805450",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4985,16 +4995,6 @@
       "codexStatus": "PENDING",
       "source": "Kalkine Media",
       "publishedAt": "2026-10-05T04:53:00.000Z"
-    },
-    {
-      "id": "db6c2e69bfbd7050e2ecaa0741de5e2a851c9e6c588db6f790453dce4f9d3e49",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Simple Capacity Cap Tames Swelling Tin Anodes in Sodium-Ion Batteries",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Bioengineer.org",
-      "publishedAt": "2026-10-05T03:29:46.000Z"
     },
     {
       "id": "82d6c8f54df56596babc75e8863f90639fb9628419f8e9e3be71425835acfea0",

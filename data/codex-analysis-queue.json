@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T07:05:07.911Z",
+  "generatedAt": "2026-10-05T16:02:55.856Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -130,51 +130,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-15T00:58:43.666Z",
       "updatedAt": "2026-09-15T00:58:43.666Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "810ab916afe2aeb469879947d3e9f47b8928f3acdef01b6176c15bd80df440cf",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Commission turns from aluminium levy to wider waste-export ban",
-      "summary": "Commission turns from aluminium levy to wider waste-export ban EU Today",
-      "source": "EU Today",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iUE4tOW5wTllPMER1eVdhNmNtSEJkS2hZbVhHY0U4U0Y4b3pFQkY3X1JGNmoyTkVtcHdYenNmNGFoRHNfYXowellLTm44Qmxkc2V5ZVd6OWFmYkZ1R29Pdks4N0lRRnVyMHZkMjFoWTFRTHc?oc=5",
-      "publishedAt": "2026-09-05T10:24:23.000Z",
-      "priority": 67,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Regulation",
-        "categories": [
-          "LOGISTICS",
-          "EXPORT",
-          "REGULATION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Commission turns from aluminium levy to wider waste-export ban EU Today",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "export ban"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk",
-          "Export Restriction"
-        ],
-        "urgent": true
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-05T13:03:00.486Z",
-      "updatedAt": "2026-09-05T13:03:00.486Z",
       "analyzedAt": null
     },
     {
@@ -2634,6 +2589,45 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-29T17:01:58.200Z",
       "updatedAt": "2026-09-29T17:01:58.200Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "b732774a500a27d6404024e42828c5edcb444e861450a98a8d62c61baffbf9b4",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "World Bank backs $1.4B for Chile’s copper giant",
+      "summary": "World Bank backs $1.4B for Chile’s copper giant The Northern Miner",
+      "source": "The Northern Miner",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMzFtOVZJT1M2R2V1ejJmVlpFQXpMcndmR3EzbjdZTXJtQ2J5MVFfLWh2Y2FjbVRFMG9MdzY1NHJhS0Q3VjRSRFItdnJMWUZGQkdBNG56SzM1Q09RRDVNSUpsQkpwWnVESVZ1OVREU3FJZS1zX3JSMDlzZVdqZWtSYTZHdWZRaXg2NEZDX0FtdndxcHZGTEE?oc=5",
+      "publishedAt": "2026-10-05T15:11:26.000Z",
+      "priority": 48,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Regulation",
+        "categories": [
+          "MINE",
+          "REGULATION"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "World Bank backs $1.4B for Chile’s copper giant The Northern Miner",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-05T16:02:55.856Z",
+      "updatedAt": "2026-10-05T16:02:55.856Z",
       "analyzedAt": null
     },
     {
@@ -5906,42 +5900,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-03T06:36:06.486Z",
       "updatedAt": "2026-10-03T06:36:06.486Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "dc0d84b0f787429b8f20c5a8b0cbc0779156432014432fedd75a6d645db7bff4",
-      "commodity": "MOLYBDENUM",
-      "subCommodity": null,
-      "title": "Dynamic Frontier Holdings Receives Approvals To Acquire 100% Of Teghout Copper-Molybdenum Mine Operator",
-      "summary": "Dynamic Frontier Holdings Receives Approvals To Acquire 100% Of Teghout Copper-Molybdenum Mine Operator Pulse 2.0",
-      "source": "Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdEpxaVIycDFhTTZuN0laOWtpV3k2MUh0emthejh5T0VYZlRIbURNczJyVEVrZ09SNTA2ZW1SbTNWV2M2VFpSSDVZOGVxSHN0MGRDdXUtN2ROSnpLTGhlMVhLZ0c1OGhnTTNza2Y5bmpPNjdnOFZ5M19zVG5EcTlXeFpqYWFoVTYydGxFMl9wYVZydGx1M19Idkdla3V6azBRM0RDcDVkWXhlOGNhdEE3XzgxT3djdnFVNXl2LXVtZ9IBxAFBVV95cUxQNzItRWI0SWxQUXpGay04em1JYTR4TmhwQ2ZfVjd6LTU4Mk5ma2lNYVQ5YWdqTWh0Mjc1XzZnRXI5dVpTWFlVODlSV3BQVFJJWVNRTk82SjJVX002YUFfYzhxYVVUaUhDY3IxcjJMQTBHV1NOM2poOW51ZC1Ec2E3WGFxWWh0ZHp5eGs5dEdCbG5nNDdtWGdtaDBocGs5clNTSEp3X2d3a0RrZlpzNUQtaUxZbUVKcTV0cTFtTEFvNjdiaFlV?oc=5",
-      "publishedAt": "2026-09-05T15:54:46.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Dynamic Frontier Holdings Receives Approvals To Acquire 100% Of Teghout Copper-Molybdenum Mine Operator Pulse 2.0",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-05T16:06:13.424Z",
-      "updatedAt": "2026-09-05T16:06:13.424Z",
       "analyzedAt": null
     },
     {
@@ -13083,6 +13041,115 @@
       "analyzedAt": null
     },
     {
+      "id": "73400d451109bc3fe9ea6fe222ae8ffe36bbfac30aee8b6ee04c6de7d617ac8a",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Bottomed: Glencore's Blockbuster H1 Surge",
+      "summary": "Copper Bottomed: Glencore's Blockbuster H1 Surge Mining Digital",
+      "source": "Mining Digital",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjdja2wtWkx4TG5Cdl83ZndFVzVRYndoWjB3ZVlmMWdiUXdDSTJJa2ZwSkFyVTBpN1NOODdFQjZBTUFFU0pDcTZuRnBYSWhyWGhfaHIyUzJpa08yOG9aZEZNa3psNTQxV1FGamFWS3haNWM2T2pRUXdGR0JMUEJ2aGVxU2w4U09J?oc=5",
+      "publishedAt": "2026-10-05T15:05:57.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Bottomed: Glencore's Blockbuster H1 Surge Mining Digital",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-05T16:02:55.856Z",
+      "updatedAt": "2026-10-05T16:02:55.856Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "7ffa360b0c8880548e78b1beb092c1207bbbdad4204040d2eccb832b57d9cd7e",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Freeport-McMoRan Reports Q3 Copper Output, Advances Grasberg Recovery",
+      "summary": "Freeport-McMoRan Reports Q3 Copper Output, Advances Grasberg Recovery finance.yahoo.com",
+      "source": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRDJOTS1UdFhsWG9VUG9vRDlabDJfWXJqTHFCVTI4WURWbU02NEwwQUNpaC1XZ2JjcGJIa2lLTWNuT0F1MWpTMEZhbkNpbkVyVlluVjNDeHFYbTJTRVRpVUVYZkhJY3ZwN3VQZjVpdUJhUmRvR0JjYUcwd2dyZE5mR0FvRS1RN1NlZThSaW51RUVKNWxnTHRFOW4xd0tJMUU4SnFYWG9CYw?oc=5",
+      "publishedAt": "2026-10-05T11:11:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Freeport-McMoRan Reports Q3 Copper Output, Advances Grasberg Recovery finance.yahoo.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-05T16:02:55.856Z",
+      "updatedAt": "2026-10-05T16:02:55.856Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "ad2b1a01c32ff086e1ef56ee9e44625b85579e8331e29b0364b6b04c0919f356",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Gunnison Copper plans NYSE American listing to expand U.S. investor access and boost copper production.",
+      "summary": "Gunnison Copper plans NYSE American listing to expand U.S. investor access and boost copper production. Pluang",
+      "source": "Pluang",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmdyOFJBTVB0VWp5SW9BRmpHWC0xN0VQRGRyRlVRNVpkNk8wTGRkZE9WS29jLWdENzVmN2E5Q2g2aTJxdG5iVnY1UlBXclp5dDE5c2JxN0JtaWJLaTNyTEFYQkVvNjYyWFpDdmFma1hZd2ozUlp2U3YtdTlmQU5NMGhNWG1Ia1BxSGN6QkU0Nnd3ZFZsMEVaTDQwdDhsRk5OemdxNF9PaG5Hb2FzUFFCOVhn?oc=5",
+      "publishedAt": "2026-10-05T10:15:37.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Gunnison Copper plans NYSE American listing to expand U.S. investor access and boost copper production. Pluang",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-05T16:02:55.856Z",
+      "updatedAt": "2026-10-05T16:02:55.856Z",
+      "analyzedAt": null
+    },
+    {
       "id": "649baa7534578408d21954269bee7b1481d5ef03d401878ce7491cf14677e719",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18687,42 +18754,6 @@
       "analyzedAt": null
     },
     {
-      "id": "68d255fda52651db564fefb429042f2be2145af47a281382e50ce4c1dbcdcc92",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Timeline: Copper Flat Mine",
-      "summary": "Timeline: Copper Flat Mine Santa Fe New Mexican",
-      "source": "Santa Fe New Mexican",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXpjQTRDLVpTaVBsaGJ5bGJzcERpdXpuS3FTQUZyN1hzenBCUXNxc3BWaDRtTVAzMkR4UDRyS3NtM0pjajJPdW1VcU5HTWw1Vnhpc0YxTklFNGMxcVpoZ0hVTXFET1hVY0cwc2pOWE5rUlJkYTcySC0tVXFGSm5yNndvVFdkVVVaVC1LZ2ZUbDRpeUQtbTVqeG1Kbk91NnVINm52YjhsZVdlNk1Yd0EydXEwem1DN0dsZFU0TklpenNYVDd2VXhSal9MUlQ?oc=5",
-      "publishedAt": "2026-10-05T05:30:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Timeline: Copper Flat Mine Santa Fe New Mexican",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-05T07:05:07.911Z",
-      "updatedAt": "2026-10-05T07:05:07.911Z",
-      "analyzedAt": null
-    },
-    {
       "id": "d32b5a8db572b76967671b6ee8c5193336604c9eb298c24cad2a24a758805450",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18821,42 +18852,6 @@
         "keyEvidence": [],
         "confidence": "LOW",
         "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-05T07:05:07.911Z",
-      "updatedAt": "2026-10-05T07:05:07.911Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "db6c2e69bfbd7050e2ecaa0741de5e2a851c9e6c588db6f790453dce4f9d3e49",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "Simple Capacity Cap Tames Swelling Tin Anodes in Sodium-Ion Batteries",
-      "summary": "Simple Capacity Cap Tames Swelling Tin Anodes in Sodium-Ion Batteries Bioengineer.org",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNml2VFA3T1VJQ1A5c1ZsblNldXBHdEhzZE1Pd3hPS0xmOXdBM25KSW5uc3lyeTRuQlVvci16cFk4Q0p0X3FCU1pTSkJNTEhQekpLMXFrU0F5SzV2alR5cGdpb1lyU0lTNC01NFpTWTk3clNyXzNsRXpLY1cxZXRoZDVGOEctWTZ5NFRXYkgtcE1hREpsdXl0b1Zn?oc=5",
-      "publishedAt": "2026-10-05T03:29:46.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Capacity",
-        "categories": [
-          "CAPACITY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Simple Capacity Cap Tames Swelling Tin Anodes in Sodium-Ion Batteries Bioengineer.org",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
         "signals": [],
         "urgent": false
       },
