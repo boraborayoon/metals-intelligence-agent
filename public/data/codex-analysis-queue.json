@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T09:26:21.392Z",
+  "generatedAt": "2026-10-06T16:17:05.092Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -35,6 +35,16 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-09-14T19:15:12.000Z"
+    },
+    {
+      "id": "4450df20feb172e0803f4955fd915639dac6da448d6f6244f1e24a2879aa998b",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Japan's METI Expands Export Ban on Russia, Adding Copper Products and Tungsten to Sanctions List",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "finance.biggo.com",
+      "publishedAt": "2026-10-06T11:55:00.000Z"
     },
     {
       "id": "09b41f0944a6a507418bb64d3a2955cb8e15bdcf68ac816e2d5bf15cd5b89786",
@@ -85,6 +95,16 @@
       "codexStatus": "PENDING",
       "source": "Moomoo",
       "publishedAt": "2026-09-07T23:22:51.000Z"
+    },
+    {
+      "id": "6709b9d7dda463ef7e497de8294a5a5fb5cefac84f834ef06b43e754b16e8610",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Union says workers at Chile's centinela copper mine say still no contract agreement; strike could be triggered",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Newsquawk",
+      "publishedAt": "2026-10-06T15:40:35.000Z"
     },
     {
       "id": "f83f4bc0eed2c7941b0e10d45bd57f16c9915a2b999ba1adcd5a15e66a3122b1",
@@ -837,6 +857,16 @@
       "publishedAt": "2026-09-30T06:47:06.000Z"
     },
     {
+      "id": "de262dd33cfca84fe6923f800b71fe913f078b515a55a48b24f4f6246f377a4a",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Intelligence Inc. Expands Butembo Copper Project with Strategic 3 km Strike Extension Following Continued Exploration Success",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-10-06T13:59:06.000Z"
+    },
+    {
       "id": "e19b76142fb1c7e49cd06ebd9ed63ee294f21705751621fd0962528f33361259",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -1025,6 +1055,16 @@
       "codexStatus": "PENDING",
       "source": "kidd.co.kr",
       "publishedAt": "2026-10-05T22:25:44.000Z"
+    },
+    {
+      "id": "548f7cf689a97ed3ff8cc15fcc6fdc58898f29f6c46d556a6676e832228a3235",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Intelligence Inc. (CUAI) Extends Butembo Strike by ~3 km After 16/16 Cu Hits",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-06T13:57:00.000Z"
     },
     {
       "id": "ed177fced0d09127ebf61ebfd3d854ef0ce9a7ad0d60d2ac371d577a9df990e9",
@@ -2817,16 +2857,6 @@
       "publishedAt": "2026-09-28T09:14:00.000Z"
     },
     {
-      "id": "b6ec4c86490f88480b9d87524989cf105a315365f7616f437a81642f20c7115c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Scrap Market Faces High Spreads, Low Transactions, and Invoice Constraints in August 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-06T14:06:59.000Z"
-    },
-    {
       "id": "4c1dee6579222cbd73a57fbe42601e56c87c904b7b5aa3fb3e6799a9ded21dfe",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4264,7 +4294,7 @@
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "Industrial Info",
-      "publishedAt": "2026-10-06T08:17:50.000Z"
+      "publishedAt": "2026-10-06T12:43:30.000Z"
     },
     {
       "id": "5a447a0042dfcbf06a822415d2cc03c88fba0d5c2a2dbf123dced07433b88171",
@@ -4975,36 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Stock Traders Daily",
       "publishedAt": "2026-10-03T20:20:01.000Z"
-    },
-    {
-      "id": "978883ccd976416a4c43e609b5e3eb28c98daa5372b1f61e3eb019efd24e3035",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Ero Copper, 구리 가격 강세에 4.7% 상승",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "데일리바이트(DAILY BYTE)",
-      "publishedAt": "2026-10-03T16:49:09.000Z"
-    },
-    {
-      "id": "5aa3e92479ab7df724e3bf375952a1afcd4f57261e825fe446a08f2bb7e771e1",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Aluminum Forecast Raised To US$3,150 On Slower Gulf Production Recovery",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "businesstoday.com.my",
-      "publishedAt": "2026-10-04T03:58:35.000Z"
-    },
-    {
-      "id": "ac1368368130220cea430b0ce407b3e373eef20ba5b671f77c465058f8a2495a",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Tin-Copper Solder Wire Market Forecast to 2035: Electronics Miniaturization to Propel Demand - News and Statistics",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-10-04T17:31:04.000Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T09:26:21.392Z",
+  "generatedAt": "2026-10-06T16:17:05.092Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -130,6 +130,54 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-15T00:58:43.666Z",
       "updatedAt": "2026-09-15T00:58:43.666Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "4450df20feb172e0803f4955fd915639dac6da448d6f6244f1e24a2879aa998b",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Japan's METI Expands Export Ban on Russia, Adding Copper Products and Tungsten to Sanctions List",
+      "summary": "Japan's METI Expands Export Ban on Russia, Adding Copper Products and Tungsten to Sanctions List finance.biggo.com",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OUGxnc043b180Ty1Dc000V203Tzc4ejYtZzhtNlZzeTFWTVEzem94U2dEMHdfYlFreVVvT2p2RWQ0SDdrczZqT3d6dlZ2N0lsMlJQY3F5SFphUVl6LV9BQXdBS1NrelVFSWVYbVU2bi1zajR6UkE?oc=5",
+      "publishedAt": "2026-10-06T11:55:00.000Z",
+      "priority": 67,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Sanctions",
+        "categories": [
+          "LOGISTICS",
+          "EXPORT",
+          "SANCTION",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Japan's METI Expands Export Ban on Russia, Adding Copper Products and Tungsten to Sanctions List finance.biggo.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "export ban",
+          "sanction"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk",
+          "Export Restriction",
+          "Sanctions"
+        ],
+        "urgent": true
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-06T16:17:05.092Z",
+      "updatedAt": "2026-10-06T16:17:05.092Z",
       "analyzedAt": null
     },
     {
@@ -349,6 +397,51 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-07T23:47:06.298Z",
       "updatedAt": "2026-09-07T23:47:06.298Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "6709b9d7dda463ef7e497de8294a5a5fb5cefac84f834ef06b43e754b16e8610",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Union says workers at Chile's centinela copper mine say still no contract agreement; strike could be triggered",
+      "summary": "Union says workers at Chile's centinela copper mine say still no contract agreement; strike could be triggered Newsquawk",
+      "source": "Newsquawk",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR2RscTNabWh2Z1V3LW5sRGpCYUJrOWtCal9EMGhkbWZINDJLNnhEcnJhanJyNTNDczhLdVZ0MVByQ20zTHVWQVJySGpXZ29KcEs1YlNsbFVVX2UzaUdWM1RwRnRIT0dUT2s2bE5zb1ZrdEF3UW92NVcxWGRpMElKbE9pdEx0SkpHU2Q4c3RQX2pDYmNlRDRURG5PU09uSUNuNFd1X29FczRPd2JiLUJxLXA2azFNTFNDbUppWk1kZ0NEZ3Z0VVYzQzFCSWR0LXEzMWdiMUNoN1o1ZXZi?oc=5",
+      "publishedAt": "2026-10-06T15:40:35.000Z",
+      "priority": 62,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Union says workers at Chile's centinela copper mine say still no contract agreement; strike could be triggered Newsquawk",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-06T16:17:05.092Z",
+      "updatedAt": "2026-10-06T16:17:05.092Z",
       "analyzedAt": null
     },
     {
@@ -3265,6 +3358,49 @@
       "analyzedAt": null
     },
     {
+      "id": "de262dd33cfca84fe6923f800b71fe913f078b515a55a48b24f4f6246f377a4a",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Intelligence Inc. Expands Butembo Copper Project with Strategic 3 km Strike Extension Following Continued Exploration Success",
+      "summary": "Copper Intelligence Inc. Expands Butembo Copper Project with Strategic 3 km Strike Extension Following Continued Exploration Success marketscreener.com",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeThEaGpZLV9OZUlYejdhT2xBMmFIam5yQmQzR3VlS0tESUtCNWs5S1B2a3hQSmduWmhaYmRJQURDNmM3MnRUeVduUmQtY1JZaUNJRmVPWTZybE5XVF9uUERGODBpZjUwYXFMMzdfMzJwSC05ZEEzZ2lhRVZwWU1hU1ZyVEdMN2NFZFR6OHFlWjB2dXN1MElyYndrY0hybmNibllaWVZJajdjTkhtUDZqakRtSTBReFlqeWgxbTBvX09FTlZ4R1h2TDlpQTE2SWRnWko1UmRlMWpndnE4Y1RIS1kwVGRjT1k?oc=5",
+      "publishedAt": "2026-10-06T13:59:06.000Z",
+      "priority": 44,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Intelligence Inc. Expands Butembo Copper Project with Strategic 3 km Strike Extension Following Continued Exploration Success marketscreener.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-06T16:17:05.092Z",
+      "updatedAt": "2026-10-06T16:17:05.092Z",
+      "analyzedAt": null
+    },
+    {
       "id": "e19b76142fb1c7e49cd06ebd9ed63ee294f21705751621fd0962528f33361259",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -4095,6 +4231,48 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-05T22:39:13.559Z",
       "updatedAt": "2026-10-05T22:39:13.559Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "548f7cf689a97ed3ff8cc15fcc6fdc58898f29f6c46d556a6676e832228a3235",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Intelligence Inc. (CUAI) Extends Butembo Strike by ~3 km After 16/16 Cu Hits",
+      "summary": "Copper Intelligence Inc. (CUAI) Extends Butembo Strike by ~3 km After 16/16 Cu Hits TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTDJ0NU95V1JZajNELWFGc0hBYkg0bEMxa3VCS0d0NHlqNW9QdjcwRm15RV9aOVhPVUNsYXB4cWlKd2hxaDdNMFVRRE14bUozWGFNdVBmbWx2UUhaTkNEZ2Z4OGhySmVVa1I1Tm9DVElNOVRnZFJCR0tZTnh0SGhqWUpJSWtYWk5EaTRtckV0UUxaU3lObEpZNXNtR3pCdm5zb0dqTlg3cEhrX3l6WWhZbl95QVFjV09ESVR4ZG1JNnFBV2dMQUxySGwzblFkR0dKNllTOGhmWVE?oc=5",
+      "publishedAt": "2026-10-06T13:57:00.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Intelligence Inc. (CUAI) Extends Butembo Strike by ~3 km After 16/16 Cu Hits TradingView",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-06T16:17:05.092Z",
+      "updatedAt": "2026-10-06T16:17:05.092Z",
       "analyzedAt": null
     },
     {
@@ -10739,42 +10917,6 @@
       "analyzedAt": null
     },
     {
-      "id": "b6ec4c86490f88480b9d87524989cf105a315365f7616f437a81642f20c7115c",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Scrap Market Faces High Spreads, Low Transactions, and Invoice Constraints in August 2026",
-      "summary": "Copper Scrap Market Faces High Spreads, Low Transactions, and Invoice Constraints in August 2026 Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRWE5VVJHQ1l0NUNSZTRUc1hmN2FJbWZTRmVFdkljQmVjdFVocVZoMTItX3Q0V2JMYndjbENLRThaYUw5dU9uN0dYR09mTTZ6UjgyRWQ1bFIybXpyWkJHOC14YzZETmlyTloyQzIyTVFtQ2tFVEEybnU3RnB0Qm8xcTh4VW14a1FfOWVEdXFMcFUxZldwelpVZFpBUFFRd1R3MTJxUHlBMlR2NE1rcmJwZ2ZXbEhzc2o3ZEZ2SFViakExbFJTaG9jMjA3VUhCV1l6VmFkdDZn?oc=5",
-      "publishedAt": "2026-09-06T14:06:59.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Scrap Market Faces High Spreads, Low Transactions, and Invoice Constraints in August 2026 Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-06T18:39:06.218Z",
-      "updatedAt": "2026-09-06T18:39:06.218Z",
-      "analyzedAt": null
-    },
-    {
       "id": "4c1dee6579222cbd73a57fbe42601e56c87c904b7b5aa3fb3e6799a9ded21dfe",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -16191,7 +16333,7 @@
       "summary": "Peru Turns to Grassroot Projects to Boost Copper Output Industrial Info",
       "source": "Industrial Info",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMlU5S2UtZHdjekRRczg0Uml3Z3cwV0tsRHBhaml2MmhYejg1TUFpcnN3aXp1cS1ibWxtOTRESTg1WGkwNXFneml5VGhNR2JmbVRNRlQ0MDhHYl9CcXlITHpLNVRxWnE3UU94OHcyWGJLMTFDNVl5SkNUazVheFBlWWJCS1BKaGpWQWdsaDZYbUY4WGdJaXBzcHVKc084elpLenQ5V0hDRFNNLTg?oc=5",
-      "publishedAt": "2026-10-06T08:17:50.000Z",
+      "publishedAt": "2026-10-06T12:43:30.000Z",
       "priority": 35,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
@@ -16219,7 +16361,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-06T09:26:21.392Z",
-      "updatedAt": "2026-10-06T09:26:21.392Z",
+      "updatedAt": "2026-10-06T16:17:05.092Z",
       "analyzedAt": null
     },
     {
@@ -18804,114 +18946,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-04T02:00:08.144Z",
       "updatedAt": "2026-10-04T02:00:08.144Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "978883ccd976416a4c43e609b5e3eb28c98daa5372b1f61e3eb019efd24e3035",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Ero Copper, 구리 가격 강세에 4.7% 상승",
-      "summary": "Ero Copper, 구리 가격 강세에 4.7% 상승 데일리바이트(DAILY BYTE)",
-      "source": "데일리바이트(DAILY BYTE)",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd1FOT3hLbUQzZ0lhQXVlT3hJcFNkOGVoM0lLUkZEaDM2OGpPU1dSdktXR3Ryb1hFZm9ET3pHdVQxcnlnRU9IQ0lRdnZ2Q0VIVVBmcE1MdHhFdEFMT0dKYUNMVVQ1ODVoLXdqTm9xQ2RDakhhLXFDVUtRV3NmN1RpU2dxT1VXUmd2UDZrRXV4cUVTZw?oc=5",
-      "publishedAt": "2026-10-03T16:49:09.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Ero Copper, 구리 가격 강세에 4.7% 상승 데일리바이트(DAILY BYTE)",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-04T02:00:08.144Z",
-      "updatedAt": "2026-10-04T02:00:08.144Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "5aa3e92479ab7df724e3bf375952a1afcd4f57261e825fe446a08f2bb7e771e1",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Aluminum Forecast Raised To US$3,150 On Slower Gulf Production Recovery",
-      "summary": "Aluminum Forecast Raised To US$3,150 On Slower Gulf Production Recovery businesstoday.com.my",
-      "source": "businesstoday.com.my",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcnE5dzhUYkMzaUlyWm1XNVQzSlQ5RHBaT1BwQjNzcW9SYlZlT0Y5Z1dNbmhhU01mR3U5ZUhMX3BTYjBUc05XVlljX0RoQTZwUnNzazlzRWZBTzd4S1JtUEZkRTE3eFg1MUhaNkF2OGJDSFdpZXhvdktjUE1DYzE2MkdJUTItTWlVRWhkeGFmSW5BRkcwYkZ4VHhXUzN2TWlnUnM2VW4ya0lTdVJFa2toaE9TMFk?oc=5",
-      "publishedAt": "2026-10-04T03:58:35.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aluminum Forecast Raised To US$3,150 On Slower Gulf Production Recovery businesstoday.com.my",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-04T08:28:27.595Z",
-      "updatedAt": "2026-10-04T08:28:27.595Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ac1368368130220cea430b0ce407b3e373eef20ba5b671f77c465058f8a2495a",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Tin-Copper Solder Wire Market Forecast to 2035: Electronics Miniaturization to Propel Demand - News and Statistics",
-      "summary": "Tin-Copper Solder Wire Market Forecast to 2035: Electronics Miniaturization to Propel Demand - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcGpmUktHbGhxVC1sYXk1S2ZQemVLT2RvSTBfb3VRZnFELUxoUnpDTnlWOV9fbTFkdTVHRHV2U3d0QnBZdEZXZkVJX1FXNXhzRm91ZUctNERtT2pCSTdycUFqcEN3UThFUTRrZkJwRmNZbzhkR01iSEZYdlJHbjJhdWl6SjhYblEwbUUzVWpMTzk0cmNZY2Q4cHRrMElKVHdiSEhBSm9zbTFaeEUyYW44dXl4MjdNVjFfRjcxMnVnWWVJcnlkZ3RtTXhuT3c?oc=5",
-      "publishedAt": "2026-10-04T17:31:04.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Tin-Copper Solder Wire Market Forecast to 2035: Electronics Miniaturization to Propel Demand - News and Statistics IndexBox",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-04T18:23:42.917Z",
-      "updatedAt": "2026-10-04T18:23:42.917Z",
       "analyzedAt": null
     }
   ]

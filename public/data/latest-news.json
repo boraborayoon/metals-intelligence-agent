@@ -1,6 +1,821 @@
 {
-  "generatedAt": "2026-10-06T09:26:21.392Z",
+  "generatedAt": "2026-10-06T16:17:05.092Z",
   "items": [
+    {
+      "id": "6709b9d7dda463ef7e497de8294a5a5fb5cefac84f834ef06b43e754b16e8610",
+      "titleSourceHash": "496110d9f33c7d3d731dadf7cc74cd9649aa47cc081409b0e166f8eb461d0b91",
+      "eventId": "fddeeb5746958a0e87697cf8d8748979fd79ec2ce90d84146221b1133b257190",
+      "title": "Union says workers at Chile's centinela copper mine say still no contract agreement; strike could be triggered",
+      "normalizedTitle": "union says workers at chile s centinela copper mine say still no contract agreement strike could be triggered",
+      "description": "Union says workers at Chile's centinela copper mine say still no contract agreement; strike could be triggered Newsquawk",
+      "source": "Newsquawk",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-06T15:40:35.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR2RscTNabWh2Z1V3LW5sRGpCYUJrOWtCal9EMGhkbWZINDJLNnhEcnJhanJyNTNDczhLdVZ0MVByQ20zTHVWQVJySGpXZ29KcEs1YlNsbFVVX2UzaUdWM1RwRnRIT0dUT2s2bE5zb1ZrdEF3UW92NVcxWGRpMElKbE9pdEx0SkpHU2Q4c3RQX2pDYmNlRDRURG5PU09uSUNuNFd1X29FczRPd2JiLUJxLXA2azFNTFNDbUppWk1kZ0NEZ3Z0VVYzQzFCSWR0LXEzMWdiMUNoN1o1ZXZi?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "copper",
+        "copper mine"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "Chile"
+      ],
+      "matchedMarketTerms": [
+        "mine",
+        "strike"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 14,
+          "matchedKeywords": [
+            "copper",
+            "copper mine"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "Chile"
+          ],
+          "matchedMarketTerms": [
+            "mine",
+            "strike"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "HIGH",
+      "categories": [
+        "MINE",
+        "STRIKE"
+      ],
+      "primaryCategory": "Labor Disruption",
+      "titleKo": "Union says workers at Chile's centinela copper mine say still no contract agreement; strike could be triggered",
+      "summaryKo": "Union says workers at Chile's centinela copper mine say still no contract agreement; strike could be triggered Newsquawk",
+      "marketImpact": "Bullish",
+      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+      "procurementImpact": "NEGATIVE",
+      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+      "regions": [
+        "Chile"
+      ],
+      "companies": [],
+      "timeHorizon": "IMMEDIATE",
+      "confidence": "MEDIUM",
+      "signals": [
+        "Supply Tightening",
+        "Supply Disruption",
+        "Price Increase Risk"
+      ],
+      "keyEvidence": [
+        "strike"
+      ],
+      "conflictingSignals": false,
+      "codexReviewEvent": true,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Union says workers at Chile's centinela copper mine say still no contract agreement; strike could be triggered Newsquawk",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Union says workers at Chile's centinela copper mine say still no contract agreement; strike could be triggered Newsquawk",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "priority": 62,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "sent": true,
+      "sentAt": "2026-10-06T16:17:05.092Z"
+    },
+    {
+      "id": "542380562c6f9e6b13e594fa29000f4e0bc725df897ca3f0e3a77e947f4cb7c4",
+      "titleSourceHash": "b00b366bb375aae78a13931d1d041ceff5bae3e2481a1322f5ab8be529912ce0",
+      "eventId": "d62fc58e0f772cb9befc403201cb52505ca15e8c697190015e8c4f1f159c9bd3",
+      "title": "Intrepid Metals Outlines New Copper-Gold Target at Corral Copper in Arizona",
+      "normalizedTitle": "intrepid metals outlines new copper-gold target at corral copper in arizona",
+      "description": "Intrepid Metals Outlines New Copper-Gold Target at Corral Copper in Arizona Investing News Network",
+      "source": "Investing News Network",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-06T14:30:41.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMVJDUzlRb0FrelVkeFVvaU9yeVE3ME1hTnBrTUNoRHR2V3N4ZlRHZmoyU3VRSnVqZjExSk95VHVIQWJzckV4NWhSaTJXaTRkODdxeEwwYWVoMVVVRmZRaTR3MmlKWnVKRjFvTVBKSnJJbF9Md253aER0RHVfX3dLaVZ5aTFqSUxkSUZWVWxkSWJJY3doVGszT0Z6UERZQ2JWSjYxZw?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 6,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "COMPANY"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Intrepid Metals Outlines New Copper-Gold Target at Corral Copper in Arizona",
+      "summaryKo": "Intrepid Metals Outlines New Copper-Gold Target at Corral Copper in Arizona Investing News Network",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Intrepid Metals Outlines New Copper-Gold Target at Corral Copper in Arizona Investing News Network",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Intrepid Metals Outlines New Copper-Gold Target at Corral Copper in Arizona Investing News Network",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 16,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "298692493e27665564306c3d32298de91b38ed13ee5397844bee7d65de3e9753",
+      "titleSourceHash": "040d80e2d9e94209a094c8b2ba08d24216d199e999016dd4c4080e8202e86f13",
+      "eventId": "f72583e35f40e8615d4f36586780b0315e3de04bc192c729298840326be8e71e",
+      "title": "10월 6일 시 인민위원회, 주석 및 부주석의 주요 지시사항 및 조치사항.",
+      "normalizedTitle": "10월 6일 시 인민위원회 주석 및 부주석의 주요 지시사항 및 조치사항",
+      "description": "10월 6일 시 인민위원회, 주석 및 부주석의 주요 지시사항 및 조치사항. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-10-06T14:15:58.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLTEzdVZlQ2RZZlpFZTdWbWcyc2IyRTRXVmpHZEY4U2MyNmFYNk5KWjlNbXF6Zm9nTUw1cWVZX3RpNWx0cW80MnFGRWhobndKX054WTZLc3VITThjcERZUG5aeUwyX3NlUW93NHRqZFo2eHhsLXo5dk5YMF9iRE01WVZoTnlZOWU0NkJoZDNvcGVWWjJHOXA4NlhqNkFvcEExQXhjUWtvbk1pTTZuYU5qbjJ3?oc=5",
+      "language": "ko",
+      "commodity": "TIN",
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "주석"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "TIN",
+          "score": 6,
+          "matchedKeywords": [
+            "주석"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "COMPANY"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "10월 6일 시 인민위원회, 주석 및 부주석의 주요 지시사항 및 조치사항.",
+      "summaryKo": "10월 6일 시 인민위원회, 주석 및 부주석의 주요 지시사항 및 조치사항. Vietnam.vn",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "10월 6일 시 인민위원회, 주석 및 부주석의 주요 지시사항 및 조치사항. Vietnam.vn",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "10월 6일 시 인민위원회, 주석 및 부주석의 주요 지시사항 및 조치사항. Vietnam.vn",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 16,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "ab22005c846e6851e9e0367cc2968c2bd8c227a4f5124e94dd774c38bbd68dc2",
+      "titleSourceHash": "4d1b25085641730f5b5d5783ba5797ced46e562c4e82b8c4623f9454c051435a",
+      "eventId": "a30d53b23401007250c7a8bfac9a909ebc398b0f5bfbb301fee4c09362f6d402",
+      "title": "Three Points Copper Inc. (RLC0.F) Stock Price, News, Quote & History",
+      "normalizedTitle": "three points copper inc rlc0 f stock price news quote & history",
+      "description": "Three Points Copper Inc. (RLC0.F) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-06T14:02:30.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rZEh4a21XT0FYUUYwTjYyR3lqWTJQM0pxUG81WDlXNUtqcnhDbXpRVWF4YVhEWklCdUNIRnhSTGZxOFJqdVc2YjcwUGxhSDlmN2RRNA?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "price"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "price"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Three Points Copper Inc. (RLC0.F) Stock Price, News, Quote & History",
+      "summaryKo": "Three Points Copper Inc. (RLC0.F) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Three Points Copper Inc. (RLC0.F) Stock Price, News, Quote & History Yahoo! Finance Canada",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Three Points Copper Inc. (RLC0.F) Stock Price, News, Quote & History Yahoo! Finance Canada",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "de262dd33cfca84fe6923f800b71fe913f078b515a55a48b24f4f6246f377a4a",
+      "titleSourceHash": "a5c7c894a70930f7d81851b4612a57d9c123f471c6c6a4498f4af2377e56e1c2",
+      "eventId": "a8682fa55e396f940083df973c2be2fb6b1f2b1dfa05e5f05d87ec2e44d25990",
+      "title": "Copper Intelligence Inc. Expands Butembo Copper Project with Strategic 3 km Strike Extension Following Continued Exploration Success",
+      "normalizedTitle": "copper intelligence inc expands butembo copper project with strategic 3 km strike extension following continued exploration success",
+      "description": "Copper Intelligence Inc. Expands Butembo Copper Project with Strategic 3 km Strike Extension Following Continued Exploration Success marketscreener.com",
+      "source": "marketscreener.com",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-06T13:59:06.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeThEaGpZLV9OZUlYejdhT2xBMmFIam5yQmQzR3VlS0tESUtCNWs5S1B2a3hQSmduWmhaYmRJQURDNmM3MnRUeVduUmQtY1JZaUNJRmVPWTZybE5XVF9uUERGODBpZjUwYXFMMzdfMzJwSC05ZEEzZ2lhRVZwWU1hU1ZyVEdMN2NFZFR6OHFlWjB2dXN1MElyYndrY0hybmNibllaWVZJajdjTkhtUDZqakRtSTBReFlqeWgxbTBvX09FTlZ4R1h2TDlpQTE2SWRnWko1UmRlMWpndnE4Y1RIS1kwVGRjT1k?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "strike"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 11,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "strike"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "STRIKE",
+        "PROJECT"
+      ],
+      "primaryCategory": "Labor Disruption",
+      "titleKo": "Copper Intelligence Inc. Expands Butembo Copper Project with Strategic 3 km Strike Extension Following Continued Exploration Success",
+      "summaryKo": "Copper Intelligence Inc. Expands Butembo Copper Project with Strategic 3 km Strike Extension Following Continued Exploration Success marketscreener.com",
+      "marketImpact": "Bullish",
+      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+      "procurementImpact": "NEGATIVE",
+      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "IMMEDIATE",
+      "confidence": "MEDIUM",
+      "signals": [
+        "Supply Tightening",
+        "Supply Disruption",
+        "Price Increase Risk"
+      ],
+      "keyEvidence": [
+        "strike"
+      ],
+      "conflictingSignals": false,
+      "codexReviewEvent": true,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Intelligence Inc. Expands Butembo Copper Project with Strategic 3 km Strike Extension Following Continued Exploration Success marketscreener.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Intelligence Inc. Expands Butembo Copper Project with Strategic 3 km Strike Extension Following Continued Exploration Success marketscreener.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "priority": 44,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Material event taxonomy; High-impact event requires evidence review",
+      "sent": true,
+      "sentAt": "2026-10-06T16:17:05.092Z"
+    },
+    {
+      "id": "548f7cf689a97ed3ff8cc15fcc6fdc58898f29f6c46d556a6676e832228a3235",
+      "titleSourceHash": "acd2c51f9a67b08fa48d2d37cb4d47c2bcdfc2b4f2fe0a844b59ab8f03d4a79f",
+      "eventId": "6266113696ecb91f95a55bbd053637f03c277fce9a3ee19b9b7fb1db8a242692",
+      "title": "Copper Intelligence Inc. (CUAI) Extends Butembo Strike by ~3 km After 16/16 Cu Hits",
+      "normalizedTitle": "copper intelligence inc cuai extends butembo strike by ~3 km after 16 16 cu hits",
+      "description": "Copper Intelligence Inc. (CUAI) Extends Butembo Strike by ~3 km After 16/16 Cu Hits TradingView",
+      "source": "TradingView",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-06T13:57:00.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTDJ0NU95V1JZajNELWFGc0hBYkg0bEMxa3VCS0d0NHlqNW9QdjcwRm15RV9aOVhPVUNsYXB4cWlKd2hxaDdNMFVRRE14bUozWGFNdVBmbWx2UUhaTkNEZ2Z4OGhySmVVa1I1Tm9DVElNOVRnZFJCR0tZTnh0SGhqWUpJSWtYWk5EaTRtckV0UUxaU3lObEpZNXNtR3pCdm5zb0dqTlg3cEhrX3l6WWhZbl95QVFjV09ESVR4ZG1JNnFBV2dMQUxySGwzblFkR0dKNllTOGhmWVE?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "strike"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "strike"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "STRIKE"
+      ],
+      "primaryCategory": "Labor Disruption",
+      "titleKo": "Copper Intelligence Inc. (CUAI) Extends Butembo Strike by ~3 km After 16/16 Cu Hits",
+      "summaryKo": "Copper Intelligence Inc. (CUAI) Extends Butembo Strike by ~3 km After 16/16 Cu Hits TradingView",
+      "marketImpact": "Bullish",
+      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+      "procurementImpact": "NEGATIVE",
+      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "IMMEDIATE",
+      "confidence": "MEDIUM",
+      "signals": [
+        "Supply Tightening",
+        "Supply Disruption",
+        "Price Increase Risk"
+      ],
+      "keyEvidence": [
+        "strike"
+      ],
+      "conflictingSignals": false,
+      "codexReviewEvent": true,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Intelligence Inc. (CUAI) Extends Butembo Strike by ~3 km After 16/16 Cu Hits TradingView",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Intelligence Inc. (CUAI) Extends Butembo Strike by ~3 km After 16/16 Cu Hits TradingView",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "priority": 42,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Material event taxonomy; High-impact event requires evidence review",
+      "sent": true,
+      "sentAt": "2026-10-06T16:17:05.092Z"
+    },
+    {
+      "id": "a245514495cb750adccd0173dedb95a8422f81b6df6ed2d20116339cd7ad0f53",
+      "titleSourceHash": "eb0255fe19c5de41ddf2eb6f0d15c6141c62b0554fa9b036ead4775b2733faff",
+      "eventId": "5e0d133bac0f488d4d406b9194df41430f71efb14d23d87d47eb3ef5074d614d",
+      "title": "Bulgarian copper miner gets EUR-55m EBRD loan for mine, solar",
+      "normalizedTitle": "bulgarian copper miner gets eur-55m ebrd loan for mine solar",
+      "description": "Bulgarian copper miner gets EUR-55m EBRD loan for mine, solar Renewables Now",
+      "source": "Renewables Now",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-06T13:51:49.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQWlyUzVvck1HM1lsSmkxS1B0WVVrcXhmSjFjbFE2TlRRRlA1T19ZSU5NMDhHWkJMalB4SzhTX2R1Zzh5RHJfU3hILXVUZTMxUjZZSzRQSThJVDNzMHdsbTVZNkhibktjSFJ1WXRDMEpqNnZrcU5mRktQc2RIbG1sOHZja0NBUmtnQ1BDcTRsZTFDZmx1V29JRlJYZ0t4Z3B5TXc?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "mine"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "mine"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "MINE"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "Bulgarian copper miner gets EUR-55m EBRD loan for mine, solar",
+      "summaryKo": "Bulgarian copper miner gets EUR-55m EBRD loan for mine, solar Renewables Now",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Bulgarian copper miner gets EUR-55m EBRD loan for mine, solar Renewables Now",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Bulgarian copper miner gets EUR-55m EBRD loan for mine, solar Renewables Now",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
     {
       "id": "483c5eb9b034b3a0e1f6e1430c9d5f3dbba8a0fca23929615e5bc8691c62e869",
       "titleSourceHash": "b0a0f105749f0044f9d173d4f9e7cb004ed0cecca300510e79db40c2eef212ba",
@@ -10,8 +825,8 @@
       "description": "Peru Turns to Grassroot Projects to Boost Copper Output Industrial Info",
       "source": "Industrial Info",
       "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-10-06T08:17:50.000Z",
-      "fetchedAt": "2026-10-06T09:26:21.392Z",
+      "publishedAt": "2026-10-06T12:43:30.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMlU5S2UtZHdjekRRczg0Uml3Z3cwV0tsRHBhaml2MmhYejg1TUFpcnN3aXp1cS1ibWxtOTRESTg1WGkwNXFneml5VGhNR2JmbVRNRlQ0MDhHYl9CcXlITHpLNVRxWnE3UU94OHcyWGJLMTFDNVl5SkNUazVheFBlWWJCS1BKaGpWQWdsaDZYbUY4WGdJaXBzcHVKc084elpLenQ5V0hDRFNNLTg?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -118,6 +933,923 @@
       "priority": 35,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-10-06T16:17:05.092Z"
+    },
+    {
+      "id": "6aa94450a4066a33e9a6a50ef44a2d839f4cdff327776f8a1baaff7eeb73f887",
+      "titleSourceHash": "ca3b167e4e57e88a1584716a9673e41804659f91d7ec7c1b09120d386050f6b8",
+      "eventId": "eafa929fde07ff3304c39f5d78d87955cf2601291feccc2d7fb228f22caed6f6",
+      "title": "BHP Group (BHP): Copper Strength Drives 18% Quarter Rally to All-Time Highs",
+      "normalizedTitle": "bhp group bhp copper strength drives 18% quarter rally to all-time highs",
+      "description": "BHP Group (BHP): Copper Strength Drives 18% Quarter Rally to All-Time Highs Yahoo Finance",
+      "source": "Yahoo Finance",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-06T12:42:10.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHpDQ3N1M2NpcDBFQ3JfRmpialA0ZHByVFZiWks4U2tmRlRuZnNCa25zajgxQV9BWFZPWlRTc1REX3NmU0dwN1ZNYnExZ1Y2aE5PZl84UG9NR0xJVGxOcnQwYnFxR1MzN0lUNWZJYnJ2TjJldW5DelNqekt5WWpSSS1ud3QzY29MUWJaOWVaZEp1OHJPUVVubmV3?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [
+        "BHP"
+      ],
+      "matchedRegions": [],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [
+            "BHP"
+          ],
+          "matchedRegions": [],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "COMPANY"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "BHP Group (BHP): Copper Strength Drives 18% Quarter Rally to All-Time Highs",
+      "summaryKo": "BHP Group (BHP): Copper Strength Drives 18% Quarter Rally to All-Time Highs Yahoo Finance",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [
+        "BHP"
+      ],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BHP Group (BHP): Copper Strength Drives 18% Quarter Rally to All-Time Highs Yahoo Finance",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BHP Group (BHP): Copper Strength Drives 18% Quarter Rally to All-Time Highs Yahoo Finance",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "5442b5e750c6e6b1025383ee549abede82c6907adbaa85eff8598d3e920bbca7",
+      "titleSourceHash": "225089c19e8f2277b55d4effefaff433fca5808d17000cf4076c15cc5787ca57",
+      "eventId": "e24a198b33bc5c50a4e2a55494ad05afbd4837fc849a7ada01d4e30d8c6d173c",
+      "title": "Gunnison Copper Targets NYSE American Debut as US Supply Push Grows",
+      "normalizedTitle": "gunnison copper targets nyse american debut as us supply push grows",
+      "description": "Gunnison Copper Targets NYSE American Debut as US Supply Push Grows ChemAnalyst",
+      "source": "ChemAnalyst",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-06T12:31:27.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemJzREtjQTB6T0N4QVpNS09icG5DT1N3REtmdzV6eVZMT2pCY2tqbElfZEEwakJCTUxZWTZKbWI0aWdtNEFrYmExX0R2WHJiRk9ubFBPU0wxb2gyUWdJekxFaHRXeVBMYWY3SXRoS1RmLTNsclF6bThYUGQ2SW5hdGlCWUV4MlhNc2hlaG1mTnVsSTR0SDhBY0xzajR0aGlKcjlYV0FNdGxPeWREb0ZTUVAzajBvdw?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "supply"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "supply"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "SUPPLY"
+      ],
+      "primaryCategory": "Supply",
+      "titleKo": "Gunnison Copper Targets NYSE American Debut as US Supply Push Grows",
+      "summaryKo": "Gunnison Copper Targets NYSE American Debut as US Supply Push Grows ChemAnalyst",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Gunnison Copper Targets NYSE American Debut as US Supply Push Grows ChemAnalyst",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Gunnison Copper Targets NYSE American Debut as US Supply Push Grows ChemAnalyst",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "b26e88bfef64bdda7a13a433dcb57e3c67ed1cd99b480dcf66d0e060e4143e5e",
+      "titleSourceHash": "f55d1a9c58dab513568852540e5e72d5b836b22bdefbb227498ea7295d17f06b",
+      "eventId": "03263b5659502d60f5b4e348d1500f35ca76c701e7d6f78680ba446f7c6fb356",
+      "title": "Does Chile Asset Consolidation Change The Bull Case For Capstone Copper Stock?",
+      "normalizedTitle": "does chile asset consolidation change the bull case for capstone copper stock",
+      "description": "Does Chile Asset Consolidation Change The Bull Case For Capstone Copper Stock? Simply Wall Street",
+      "source": "Simply Wall Street",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-06T12:22:27.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX1pMQWN3d3BsVTV2THVvMkRKczNwdWUtQ1prVWUxUmFEVVh1Yk4yTjgxRTVUUnJldDh4RWFrY2U4LUFHU3M2NnpzZFV3bW1iWUxWcDh5RUtJd0pGRDcxMlZROWVsc21wY1BYWk10RXI1YmRmd0tXRmNLMXp5OVpSS2pKNmlodFVNTjRtOGtoVXlxMUVuU01hRy03R1U3bTYwTlNQRnVEVWFJSE9rbXhqVVBHNW5UYkFUZS16NWp2YkpzSm5vRURYS2s3SnFxUW92azJMTUxyUk3SAdgBQVVfeXFMTl9aTEFjd3dwbFU1dkx1bzJESnMzcHVlLUNaa1VlMVJhRFVYdWJOMk44MUU1VFJyZXQ4eEVha2NlOC1BR1NzNjZ6c2RVd21tYllMVnA4eUVLSXdKRkQ3MTJWUTllbHNtcGNQWFpNdEVyNWJkZndLV0ZjSzF6eTlaUktqSjZpaHRVTU40bThraFV5cTFFblNNYUctN0dVN202ME5TUEZ1RFVhSUhPa214alVQRzVuVGJBVGUtejVqdmJKc0pub0VEWEtrN0pxcVFvdmsyTE1MclJN?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "Chile"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 8,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "Chile"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "COMPANY"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Does Chile Asset Consolidation Change The Bull Case For Capstone Copper Stock?",
+      "summaryKo": "Does Chile Asset Consolidation Change The Bull Case For Capstone Copper Stock? Simply Wall Street",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "Chile"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Does Chile Asset Consolidation Change The Bull Case For Capstone Copper Stock? Simply Wall Street",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Does Chile Asset Consolidation Change The Bull Case For Capstone Copper Stock? Simply Wall Street",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 18,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "a0c4ff77968aafbd33747baa28ba7c919347988de2880f8e84da44846eefcb64",
+      "titleSourceHash": "628d35679790f19747d79df3e77b51e7d19359e5c08da2897327d2435db89936",
+      "eventId": "42584971e316041cf5c17d19f7d36f935a94a96c98f7af9b8e2f9db080f9afe0",
+      "title": "Hammer Metals takeover: Mount Isa copper project impacts for mine planners",
+      "normalizedTitle": "hammer metals takeover mount isa copper project impacts for mine planners",
+      "description": "Hammer Metals takeover: Mount Isa copper project impacts for mine planners Geomechanics.io",
+      "source": "Geomechanics.io",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-06T12:08:31.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRms5UnVONnpKQmVHX2RNcE9NQU9aNENac2NUTEUzZHlud3pXQlo0SnR1S1o1T2lFcXZCc1Y5RnFtQzlHazZyUG5fLVlZcTA1clg2WWZicmUzT2pVTmNkR1B1VzlsYXpPeEZPMGU5R2d1ZlhjUGp3MlJvZ1JFaWt0aHF0ZV9nMXZjaDFuSGNsSXNpZTY5emZOR0h3OURnVzA0dkZxNDFIam94MVBhckg5UVRJQU0?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "mine"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "mine"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "MINE",
+        "M&A",
+        "PROJECT"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "Hammer Metals takeover: Mount Isa copper project impacts for mine planners",
+      "summaryKo": "Hammer Metals takeover: Mount Isa copper project impacts for mine planners Geomechanics.io",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "MEDIUM_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "M&A",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Hammer Metals takeover: Mount Isa copper project impacts for mine planners Geomechanics.io",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "M&A",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Hammer Metals takeover: Mount Isa copper project impacts for mine planners Geomechanics.io",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "4450df20feb172e0803f4955fd915639dac6da448d6f6244f1e24a2879aa998b",
+      "titleSourceHash": "9751d0cf7999f6a1bcb109a13969660b894b3f725ac938c16b08391d13dfd517",
+      "eventId": "eb9b64d16dfdf506887db8f8e0c16517f65438b1cf90ce442eada9b12f79aeb6",
+      "title": "Japan's METI Expands Export Ban on Russia, Adding Copper Products and Tungsten to Sanctions List",
+      "normalizedTitle": "japan s meti expands export ban on russia adding copper products and tungsten to sanctions list",
+      "description": "Japan's METI Expands Export Ban on Russia, Adding Copper Products and Tungsten to Sanctions List finance.biggo.com",
+      "source": "finance.biggo.com",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-06T11:55:00.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OUGxnc043b180Ty1Dc000V203Tzc4ejYtZzhtNlZzeTFWTVEzem94U2dEMHdfYlFreVVvT2p2RWQ0SDdrczZqT3d6dlZ2N0lsMlJQY3F5SFphUVl6LV9BQXdBS1NrelVFSWVYbVU2bi1zajR6UkE?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "export"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "export"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "HIGH",
+      "categories": [
+        "LOGISTICS",
+        "EXPORT",
+        "SANCTION",
+        "REGULATION"
+      ],
+      "primaryCategory": "Sanctions",
+      "titleKo": "Japan's METI Expands Export Ban on Russia, Adding Copper Products and Tungsten to Sanctions List",
+      "summaryKo": "Japan's METI Expands Export Ban on Russia, Adding Copper Products and Tungsten to Sanctions List finance.biggo.com",
+      "marketImpact": "Bullish",
+      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+      "procurementImpact": "NEGATIVE",
+      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "IMMEDIATE",
+      "confidence": "MEDIUM",
+      "signals": [
+        "Supply Tightening",
+        "Supply Disruption",
+        "Price Increase Risk",
+        "Export Restriction",
+        "Sanctions"
+      ],
+      "keyEvidence": [
+        "export ban",
+        "sanction"
+      ],
+      "conflictingSignals": false,
+      "codexReviewEvent": true,
+      "urgent": true,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Sanctions",
+        "categories": [
+          "LOGISTICS",
+          "EXPORT",
+          "SANCTION",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Japan's METI Expands Export Ban on Russia, Adding Copper Products and Tungsten to Sanctions List finance.biggo.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "export ban",
+          "sanction"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk",
+          "Export Restriction",
+          "Sanctions"
+        ],
+        "urgent": true
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Sanctions",
+        "categories": [
+          "LOGISTICS",
+          "EXPORT",
+          "SANCTION",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Japan's METI Expands Export Ban on Russia, Adding Copper Products and Tungsten to Sanctions List finance.biggo.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "export ban",
+          "sanction"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk",
+          "Export Restriction",
+          "Sanctions"
+        ],
+        "urgent": true
+      },
+      "priority": 67,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "sent": true,
+      "sentAt": "2026-10-06T16:17:05.092Z"
+    },
+    {
+      "id": "db24deb02ffa83d76781fb9c7ea2d8ea493eac887b516bff1c429b515384a73f",
+      "titleSourceHash": "d7560aa9dfda9dd5ec273ceea12eac950d4c5fb5ea7508f6bbdd6eb6db30c3f5",
+      "eventId": "c1c25ee842e961376c4eb3e50a67807be8507b15f5556d0cb4a3dfab9624ba78",
+      "title": "GoldMining Intersects 400 Metres of Continuous Gold-Copper Mineralization at the Yarumalito Project, Colombia",
+      "normalizedTitle": "goldmining intersects 400 metres of continuous gold-copper mineralization at the yarumalito project colombia",
+      "description": "GoldMining Intersects 400 Metres of Continuous Gold-Copper Mineralization at the Yarumalito Project, Colombia Junior Mining Network",
+      "source": "Junior Mining Network",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-06T10:34:44.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQMzhJUkFsZVVHOHgwczEzeFFXMUNpVWJrOWZQNUV3STNOeEozOENYYXFVdXFfRzFfOGlHLTJaMUNuTE1WVTAwc3lUaS1xRUtBMHdiejl6Nlp6UDBaRTB3LXRfVnd2eEZuUGN5SUVmRUxLUmR2Z0JfTVUyVThSU2tWZHFMVTFRY0UzQ0pOVjBmUElSTnRJM2Fid1YzdnpkdHUtYnFRdkcyR2M3LXRfTThzUWRWQkJTaUV1bnhWd1VLM3BoR0Mtcy14RG1sbXVGT1I2ZFVoaW9KcFFibjR1d3lGVmdJZkZJalAybnVRZWdVZE1IcmZ5ZjhDdFdLR21ZRlk4b3NFTzlkNmRPTnlyVU5zM0REUFRWcC1sNjRJdW1hWElNOTJ1d29zMGZn?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "mining"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "mining"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "MINE",
+        "PROJECT"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "GoldMining Intersects 400 Metres of Continuous Gold-Copper Mineralization at the Yarumalito Project, Colombia",
+      "summaryKo": "GoldMining Intersects 400 Metres of Continuous Gold-Copper Mineralization at the Yarumalito Project, Colombia Junior Mining Network",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "MEDIUM_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "GoldMining Intersects 400 Metres of Continuous Gold-Copper Mineralization at the Yarumalito Project, Colombia Junior Mining Network",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "GoldMining Intersects 400 Metres of Continuous Gold-Copper Mineralization at the Yarumalito Project, Colombia Junior Mining Network",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "ba7b2eef758c76485735b6dccc5fc7930ce38c014e664e4a61660867b923d6f2",
+      "titleSourceHash": "cbe462a6010b323cdc8a3a0bb42c15556b1be6251abea07d0528857177886e90",
+      "eventId": "4fd428aba46af74286c4c42ec0a037feea8943630d40712b719858f10d376b95",
+      "title": "Middle East’s largest aluminium producer secures deal to ship up to 4.9 million tonnes of bauxite from Guinea every year until 2044",
+      "normalizedTitle": "middle east s largest aluminum producer secures deal to ship up to 4 9 million tonnes of bauxite from guinea every year until 2044",
+      "description": "Middle East’s largest aluminium producer secures deal to ship up to 4.9 million tonnes of bauxite from Guinea every year until 2044 Business Insider Africa",
+      "source": "Business Insider Africa",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-06T10:13:20.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdXJhNG1mVGw0aDVLclhCWFFxM0pldkdJLVNQX3hqdDlOd2JxUmo4VENxMXQwS2xmbHZfbl9xbzc2LUZ5d1ZoTkhBVGhhMFlQOUNpQU5XX2FPcjdyd2dwRnJTVFNwVGgzNmRXRzZ1OXJPY0JXX3RFWjZjdFBzZXYwYlQ4dUM0Q2p4ODZBZ213WmVlTnlxcU00T1hXMkUtY0ZBb001SVpVbGtLOXVMbmNMT2hRa2o4SlFvMHBQVXpCb1Z1Vkt2UFlmVmstb3dKMlhKMU9fUUpPblk?oc=5",
+      "language": "en",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "aluminium",
+        "bauxite"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "Guinea"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 12,
+          "matchedKeywords": [
+            "aluminium",
+            "bauxite"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "Guinea"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "COMPANY"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Middle East’s largest aluminium producer secures deal to ship up to 4.9 million tonnes of bauxite from Guinea every year until 2044",
+      "summaryKo": "Middle East’s largest aluminium producer secures deal to ship up to 4.9 million tonnes of bauxite from Guinea every year until 2044 Business Insider Africa",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "Guinea"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Guinea",
+        "regions": [
+          "Guinea"
+        ],
+        "summary": "Middle East’s largest aluminium producer secures deal to ship up to 4.9 million tonnes of bauxite from Guinea every year until 2044 Business Insider Africa",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Guinea",
+        "regions": [
+          "Guinea"
+        ],
+        "summary": "Middle East’s largest aluminium producer secures deal to ship up to 4.9 million tonnes of bauxite from Guinea every year until 2044 Business Insider Africa",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 33,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "67f94e9bd5839a22ed0989f7937c425aa3948905b00c8ad1f04312afb8b4f512",
+      "titleSourceHash": "a6e5f886ae2fcb707c5c808ba661539a27ea32aeee6015a6fe3c411fb1b447d4",
+      "eventId": "6c08cce1f66c44eb9d6a987343ac04c8e5463ea1f8b12eca905a244c339b1dd8",
+      "title": "EBRD provides up to $62m for greener Bulgarian copper mining",
+      "normalizedTitle": "ebrd provides up to $62m for greener bulgarian copper mining",
+      "description": "EBRD provides up to $62m for greener Bulgarian copper mining Mining Technology",
+      "source": "Mining Technology",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-06T10:03:46.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YMnpoa19RdlM1eXg4dm55ZFZvRGVhTUJ6SWdMcFUxcjNzaGJEUWFvb1NuUGp3Z2YwZEFYWDJTT256X1RoTHljTWM3Nl9OanAwdm5BUmtPQkFCOFhIZ0ZRV2JKOUlsaEY4cVVyWUNsNmVxeUEzMzgzNkppdm0?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "mining"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "mining"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "MINE"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "EBRD provides up to $62m for greener Bulgarian copper mining",
+      "summaryKo": "EBRD provides up to $62m for greener Bulgarian copper mining Mining Technology",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "EBRD provides up to $62m for greener Bulgarian copper mining Mining Technology",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "EBRD provides up to $62m for greener Bulgarian copper mining Mining Technology",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 30,
+      "codexStatus": null,
+      "codexReviewReason": null,
       "sent": false,
       "sentAt": null
     },
@@ -131,7 +1863,7 @@
       "source": "Offshore Energy",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-06T08:12:08.000Z",
-      "fetchedAt": "2026-10-06T09:26:21.392Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMC1wdjNQYlpzOTNRbHhLX3c3Ml9uUVpBU0pBWVNDazlmM0RkemVLZEJkVXZuWlIxaFQ0VmJBbkdROUo1QWJWcW9aRFVzX0dVd1N1NWhUenhpY1JLSGthZjg0NU9sY2xoWFBNUTlNbnZHZ0FxRVBmMkZ1YXJqa2NQR09KTFlZOXJPcGZlQmZkbVhLdGtkbkE0UG1mTVhOX2lhZThUbDNkTmN6ak54bjJELUxR?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -225,7 +1957,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 34,
+      "priority": 30,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -241,7 +1973,7 @@
       "source": "Mining Weekly",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-06T07:39:00.000Z",
-      "fetchedAt": "2026-10-06T09:26:21.392Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTVhFWGdhakp3bTVhSjdpMHRFMWR2S3d3ZEluSEVhbTFicVFHWXV0cDhNR3I4a3hiY2JMT3ZUVXROcnpfbGtUQUxGZVI4NVc5T2pNMnFiUDYxVXVtMm9MRk00bV9qbTFpa2NUbzlrSVdLUEVhS3YzVG8zZTFjNVBVdUVYV0pGUDhqSzd3NUhQT09oV1hKeGtqWVNzc0wtQjU0TnByRWpldjdSXzFwMjZRbmpkR1lFTWdGR19mR3ZYQWx5aWhWdFpocWVBR1E?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -332,7 +2064,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 34,
+      "priority": 30,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -348,7 +2080,7 @@
       "source": "TradingView",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-06T07:37:10.000Z",
-      "fetchedAt": "2026-10-06T09:26:21.392Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcTJreEk2VFQ3b1lRZUNoSG5wclU2YXVQaTlHVldfZ1JBaUltWXhnUVktdGozaTFfYmx0WHZ5UnpxZXpqMTVOdE5OVDZDMXBFbGg4REdSWmZzcVIyanVYS1VQY01lZGtCUXkxU1oxMUk2di1sNGUzYTRVUlVIZHkzdk5EOEQ2T3RyeXFEaE9TV3pNUG9Xd0NodVVOSmZQYUtveXM4alJxdUlxbW9Wc0NMbU1vM2pyQWp1SnpPQWFqbVFycjEt?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -448,7 +2180,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 18,
+      "priority": 14,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -573,7 +2305,7 @@
       "source": "Crux Investor",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-06T06:47:51.000Z",
-      "fetchedAt": "2026-10-06T09:26:21.392Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVlyY2FKWEV5SHgwR1hRQmJnSFBMWmN6SElMbjJHenJLeVBZMEVPaTd1V1RnRmJ4dmxLRnJFN09wenVWLTZlOFUtVVY1RTBGLS1LN3ozUEk0ZVM3TkNMcUVFM2JPWVFZSGJWeXFUaWd4RjVHN3loQkFBR1ZyN0ZpRFdvQXFhbHc1T0Q0V25fQ2ExbURiMmp1WDBaeDg1Y0RTQS1QVzIxX0xKUQ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -670,7 +2402,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 18,
+      "priority": 14,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -808,7 +2540,7 @@
       "source": "더구루",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-06T05:54:35.000Z",
-      "fetchedAt": "2026-10-06T09:26:21.392Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JMkU4OEVmNEhETkxGaG9SMXNES093YW5fYklZbTJZYUd0UTQ4bC1VdE1TMnoxeHdrUGRWVjNkZ3ZNb2ViNm1vTUc5WUdQN0c2VkZmT005dmtYWFB0ak5YaUVSQQ?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -902,7 +2634,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 34,
+      "priority": 30,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -1243,6 +2975,115 @@
       "sentAt": "2026-10-06T09:26:21.392Z"
     },
     {
+      "id": "e28a279e1f414e7b78afc600a62dc9adf6a5dfd270fbd846acef4ce5a06a072d",
+      "titleSourceHash": "65b9bee50df0fbaafdc8a5a7384efd51477202a8b99b2bdbb878052b1e97d41d",
+      "eventId": "cc8fda0f2c93eeee50d53c1813b9ba8f835e621e732db2e606ce718217292b33",
+      "title": "A Decade of Showing Up",
+      "normalizedTitle": "a decade of showing up",
+      "description": "A Decade of Showing Up Resolution Copper mine",
+      "source": "Resolution Copper mine",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-06T04:09:20.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QNzJtUVlDZXB0aE02bmhqcWUxUVlYejRzN3JBT1JtWFExMG9nWm9pTmlPOFZYOG5BUXh1ckNGMHhOV0I5SHdiUTNEaWZIVUh5UWZJRlV5VW1HMmxCSVNtRzJR?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "copper",
+        "copper mine"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "mine"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 5,
+          "matchedKeywords": [
+            "copper",
+            "copper mine"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "mine"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "MINE"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "A Decade of Showing Up",
+      "summaryKo": "A Decade of Showing Up Resolution Copper mine",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "A Decade of Showing Up Resolution Copper mine",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "A Decade of Showing Up Resolution Copper mine",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 11,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
       "id": "8032c6642831d6e432e458d629e123f1c4c37bf1ec2e1c23562da93fd98b9124",
       "titleSourceHash": "f27c22bc3f82afc54751d4bf27366294cb2f373cb9a6065b2479b76294940985",
       "eventId": "852abbe7323ba4d59731f41926539279c02e2e45e38079dcd619b242af3eb5d6",
@@ -1252,7 +3093,7 @@
       "source": "Yamaha Motor Co., Ltd.",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-06T04:01:11.000Z",
-      "fetchedAt": "2026-10-06T09:26:21.392Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TTUw2aHdFc3pocFBGS0FLRlRodTk1UW15WS1QbEFMZFQxTUpDV29HSEFtOGhmSkR1MXlpWGUzZ2dZQ1B1WVNxTHFnOExoeHYyTE1ENUJXeUlnYTQ4UklLdkJwbnJKd3Y2TTUtamVlVzRJcTh1?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -1339,7 +3180,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 16,
+      "priority": 12,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -1355,7 +3196,7 @@
       "source": "Yahoo Finance",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-06T03:10:00.000Z",
-      "fetchedAt": "2026-10-06T09:26:21.392Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemhQMWxtTXV1Y0xnTzNfTWdaS2Y3YWhwMm4xUHUyMW9sbFV6NnJuSVRTdlFHQVFPRGZhbE10bmN4SjJqSzBtV19VY1JVaURFOThRMW81dHM3bkVjUm9XbVFFUFRqMHdubHZGbzQ5V1JFdUxfTzVGbmt5eHAwaExzcHNCdlNDVEhsaElTTmtld0JkbWY0Ymhz?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -1445,6 +3286,113 @@
         "keyEvidence": [],
         "confidence": "LOW",
         "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 30,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "30e2116fc4144d611dbc5860c1c4877e9f5df57ff7b53db1df255ffb21060207",
+      "titleSourceHash": "bc5dd85abee7ceb9889a9911202d52df94c952e15d0eec64ec5c7268d2168d4e",
+      "eventId": "7e1c803883e89f431705f6079ebbf3f5d6f2db7f5658f0ace05273011dab8066",
+      "title": "Copper Rallies as AI Hype Boosts Demand",
+      "normalizedTitle": "copper rallies as ai hype boosts demand",
+      "description": "Copper Rallies as AI Hype Boosts Demand Briefs Finance",
+      "source": "Briefs Finance",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-05T23:51:00.000Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTzd2RVczOUJXc3cwNEpxNktLX3Nxdld1TkI4TTF0OEh3V3lYQTNFWTh1c0lFNHJ6amV6V1h6UWJOcEIxNnR6SklaQWZBWmlFeTJnTHdTcU1RTDNFang5WUtFdHBfUVRDMGZCdWFjajhIVTBUc1p3Vl9YZzExSkxWb2x6cXdDbUlJRWRyMDJ6WEowUQ?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "demand"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "demand"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "DEMAND"
+      ],
+      "primaryCategory": "Demand",
+      "titleKo": "Copper Rallies as AI Hype Boosts Demand",
+      "summaryKo": "Copper Rallies as AI Hype Boosts Demand Briefs Finance",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Rallies as AI Hype Boosts Demand Briefs Finance",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Rallies as AI Hype Boosts Demand Briefs Finance",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
         "signals": [],
         "urgent": false
       },
@@ -21172,7 +23120,7 @@
       "source": "Georgia Laurie",
       "feedSource": "International Tin Association",
       "publishedAt": "2026-10-01T09:29:13.000Z",
-      "fetchedAt": "2026-10-06T09:26:21.392Z",
+      "fetchedAt": "2026-10-06T16:17:05.092Z",
       "url": "https://www.internationaltin.org/patented-process-recovers-high-purity-tin-from-e-waste",
       "language": "en",
       "commodity": "TIN",
@@ -31729,1937 +33677,6 @@
         "urgent": false
       },
       "priority": 14,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "5bfd0bf462d26502882b170a43b49aabc6e9fd65dafc7046b17d807608a063fc",
-      "titleSourceHash": "6c71c2e0d88c5f13e59e4325aa9134e48f4f3e15c4eda6a54fd4b63e9cd81c2e",
-      "eventId": "58edff7f27893c09e598c3ee468166fa0b86f00e6d8a7eddac7560a2be8a9526",
-      "title": "Sparse market trading before the holiday; watch for spot inventory changes after the holiday [SMM Shandong copper cathode spot weekly review]",
-      "normalizedTitle": "sparse market trading before the holiday watch for spot inventory changes after the holiday smm shandong copper cathode spot weekly review",
-      "description": "Sparse market trading before the holiday; watch for spot inventory changes after the holiday [SMM Shandong copper cathode spot weekly review] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-30T03:21:00.000Z",
-      "fetchedAt": "2026-09-30T06:02:02.757Z",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNG5xZHpkc01YNEFoZjY3NjBDa09DQVdGakxqU1UwN2N0eGIyMmZSLTF6eTZQc0ZHamlwcFhFYWRuemNyLW9GQ1NfX29TMURrNkg3ZlRwajdMYUZTVDlTa0tZenFINXhKVXlkc2FJUjVNdG1JaE9mbHJITU1DamFScHRmMkswN1d6VmdSZ0hkcVRPRVIzWUlqNTFpQUI5aVZETGMwSmFmbldWMlc5Qm9TbDIyX0l1RjcySnd3NGtVOTNxQzdDM19LM0UySUFEWFdveC05RnR0emJGZVYtQVl5RTBYYmxtWDZPY1B1cUg3emVrV3paeUp0MnVCTFRZeXRlcHVONDc0T04zMjV4X1I0YQ?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 13,
-      "matchedKeywords": [
-        "copper",
-        "copper cathode"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "inventory"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 13,
-          "matchedKeywords": [
-            "copper",
-            "copper cathode"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "inventory"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "INVENTORY"
-      ],
-      "primaryCategory": "Inventory",
-      "titleKo": "Sparse market trading before the holiday; watch for spot inventory changes after the holiday [SMM Shandong copper cathode spot weekly review]",
-      "summaryKo": "Sparse market trading before the holiday; watch for spot inventory changes after the holiday [SMM Shandong copper cathode spot weekly review] Shanghai Metals Market",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Inventory",
-        "categories": [
-          "INVENTORY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Sparse market trading before the holiday; watch for spot inventory changes after the holiday [SMM Shandong copper cathode spot weekly review] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Inventory",
-        "categories": [
-          "INVENTORY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Sparse market trading before the holiday; watch for spot inventory changes after the holiday [SMM Shandong copper cathode spot weekly review] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 38,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear; Material event taxonomy",
-      "sent": true,
-      "sentAt": "2026-09-30T06:02:02.757Z"
-    },
-    {
-      "id": "0e1aa2dc63036a9fd3d9a39569d8e5ba049e8a0e9032e62cf772f24ecbc46e18",
-      "titleSourceHash": "4b6d0b3c42ff51f7974d685d13e164d8f8f1aa0df33670cd4d9ffe65373d3bb8",
-      "eventId": "7b110a577bce878db01f3b8063bc367d1e7b473c1b57a4d8922100539b41a01c",
-      "title": "China's copper scrap pricing coefficients moved broadly higher this we",
-      "normalizedTitle": "china s copper scrap pricing coefficients moved broadly higher this we",
-      "description": "China's copper scrap pricing coefficients moved broadly higher this we Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-30T03:13:00.000Z",
-      "fetchedAt": "2026-09-30T12:37:40.618Z",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYUR0bTFtUGJ0WGZJRVRpano0NVk2bS1YNkIxU2pPcllOek4xakpMQW43U2U4QzRjOHZfYV9DZlo0Wnk3bFNqanVhYVlGYTRGSE1KcUliX3Z1RlVOZTJxY3oyY3E2MC1yYzdsYUJpYldJUHJkc1VPRFdNRkdrRVBYT1JZSDRMaTUtejhLTF90c05KbFhvaU1yaU5seThQeWsyb21TVUF0eFVvNFQ2Mk9iUWFLWDV6OTh0b0lXbUxvaXA0bFNNcmFLS195VQ?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 12,
-      "matchedKeywords": [
-        "copper",
-        "copper scrap"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 12,
-          "matchedKeywords": [
-            "copper",
-            "copper scrap"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "CHINA"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "China's copper scrap pricing coefficients moved broadly higher this we",
-      "summaryKo": "China's copper scrap pricing coefficients moved broadly higher this we Shanghai Metals Market",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "China's copper scrap pricing coefficients moved broadly higher this we Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "China's copper scrap pricing coefficients moved broadly higher this we Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 33,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "1c21a470b89a56732a1c18c4cfda9baebebab2d2027f24e6c0410290bc715200",
-      "titleSourceHash": "a2d5802ceddab1f0906721ee5e6d235caee0807c6ae787e7dbe8abcc19efbaae",
-      "eventId": "db5b2c417c6e400e53c1f8495a4413e99a060794dd587720aa312b32a27a8096",
-      "title": "TGS서 가능성 본 너구리 RPG… 너굴랩, 모바일 신작 '구리구리왕국' 국내 출시",
-      "normalizedTitle": "tgs서 가능성 본 너구리 rpg 너굴랩 모바일 신작 구리구리왕국 국내 출시",
-      "description": "TGS서 가능성 본 너구리 RPG… 너굴랩, 모바일 신작 '구리구리왕국' 국내 출시 에이빙",
-      "source": "에이빙",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-09-30T02:43:40.000Z",
-      "fetchedAt": "2026-10-01T07:49:30.192Z",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xXzhWb1pkTTAxWVo0V1JURkVQRlV4WFJFVmRvUHBGNjltNTIxMDVENnhyU1ZsR2w1VnBiYWRNa29HWkFUMHI0cE5yRDhxVFZOcUtHLXJRenpIU2FqWjh3NkxLcF8zUUQ5RWNn0gFrQVVfeXFMTnFfOFZvWmRNMDFZWjRXUlRGRVBGVXhYUkVWZG9QcEY2OW01MjEwNUQ2eHJTVmxHbDVWcGJhZE1rb0daQVQwcjRwTnJEOHFUVk5xS0ctclF6ekhTYWpaOHc2TEtwXzNRRDlFY2c?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 7,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "COMPANY"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "TGS서 가능성 본 너구리 RPG… 너굴랩, 모바일 신작 '구리구리왕국' 국내 출시",
-      "summaryKo": "TGS서 가능성 본 너구리 RPG… 너굴랩, 모바일 신작 '구리구리왕국' 국내 출시 에이빙",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "TGS서 가능성 본 너구리 RPG… 너굴랩, 모바일 신작 '구리구리왕국' 국내 출시 에이빙",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "TGS서 가능성 본 너구리 RPG… 너굴랩, 모바일 신작 '구리구리왕국' 국내 출시 에이빙",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 9,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "ca01aeea20e8bfd1b58fe177913c410acd30ccd20759cdad1ed3ab8d7d099e88",
-      "titleSourceHash": "4b049c14afadd88ea76af6d6665b9f92ec27f141692fce2614675cceb803edb5",
-      "eventId": "e9ece8af8f6f97510c354ceb5210d3b7d6c2cdda0495fbd955bed3538cdde349",
-      "title": "도쿄게임쇼서 주목받은 토종 모바일 RPG ‘구리구리왕국’, 정식 서비스 돌입",
-      "normalizedTitle": "도쿄게임쇼서 주목받은 토종 모바일 rpg 구리구리왕국 정식 서비스 돌입",
-      "description": "도쿄게임쇼서 주목받은 토종 모바일 RPG ‘구리구리왕국’, 정식 서비스 돌입 경향게임스",
-      "source": "경향게임스",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-09-30T02:34:14.000Z",
-      "fetchedAt": "2026-09-30T06:02:02.757Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43NEZNWjRBRElzLUtIdWc3enFwUFE0RHVjWlpxc2lOajFjMjFWSTRIZHpMYTdLR3VPRkk3ZG1mcEs2aFdBeDNwbGtrMXFKSGJJeVRqTFRTY0ROZDg2Ul9jOFJGdlpfd3NoM1k5Sg?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 6,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "COMPANY"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "도쿄게임쇼서 주목받은 토종 모바일 RPG ‘구리구리왕국’, 정식 서비스 돌입",
-      "summaryKo": "도쿄게임쇼서 주목받은 토종 모바일 RPG ‘구리구리왕국’, 정식 서비스 돌입 경향게임스",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "도쿄게임쇼서 주목받은 토종 모바일 RPG ‘구리구리왕국’, 정식 서비스 돌입 경향게임스",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "도쿄게임쇼서 주목받은 토종 모바일 RPG ‘구리구리왕국’, 정식 서비스 돌입 경향게임스",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 16,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "38e6481469c984ad03c4e03c8c2a84101563c87b9d92c07bbbab7964bfaa3c0c",
-      "titleSourceHash": "0cc308c1a82d373dde1139a4a41e59d188b89bc88b0b174ce1cb1733688ee843",
-      "eventId": "f68a0bba70a0f49477f900131e5bc362d40de6b2b8842cc65c1920265ce0b5b8",
-      "title": "Jiangxi Copper (SEHK:358) The Latest Update Raises A Bigger Question",
-      "normalizedTitle": "jiangxi copper sehk 358 the latest update raises a bigger question",
-      "description": "Jiangxi Copper (SEHK:358) The Latest Update Raises A Bigger Question simplywall.st",
-      "source": "simplywall.st",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-30T02:24:41.000Z",
-      "fetchedAt": "2026-09-30T06:02:02.757Z",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeFZxMGRMN1RQZVV4eGFCbjZVd1RremU0VkNPaXc5a2VPLXlqcXRRamRhRlpJY3RSWWRTTFZUQ0tUNmViVFp4YUdTVFVZT1o5QW1OczVqcGZ2b3YzVjdaeUdJX0dVbWNTcWFfcDQzUm1sNkxNOW9aeUlPdFpNU05NYU43TThsSFRqM2ZQY0FDQVBVOEdzMTI3NDVIdHlpVWFWRkpOOFFUVlZkclpPRzl1NjFtVEQ2TlVJeGhaUzI5ZEx6VWFBZmV5bG9QM2JCUG1xVy11amNqN1XSAdgBQVVfeXFMUHhWcTBkTDdUUGVVeHhhQm42VXdUa3plNFZDT2l3OWtlTy15anF0UWpkYUZaSWN0UllkU0xWVENLVDZlYlRaeGFHU1RVWU9aOUFtTnM1anBmdm92M1Y3WnlHSV9HVW1jU3FhX3A0M1JtbDZMTTlvWnlJT3RaTVNOTWFON004bEhUajNmUGNBQ0FQVThHczEyNzQ1SHR5aVVhVkZKTjhRVFZWZHJaT0c5dTYxbVRENk5VSXhoWlMyOWRMelVhQWZleWxvUDNiQlBtcVctdWpjajdV?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [
-        "Jiangxi Copper"
-      ],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [
-            "Jiangxi Copper"
-          ],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "COMPANY"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Jiangxi Copper (SEHK:358) The Latest Update Raises A Bigger Question",
-      "summaryKo": "Jiangxi Copper (SEHK:358) The Latest Update Raises A Bigger Question simplywall.st",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [
-        "Jiangxi Copper"
-      ],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Jiangxi Copper (SEHK:358) The Latest Update Raises A Bigger Question simplywall.st",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Jiangxi Copper (SEHK:358) The Latest Update Raises A Bigger Question simplywall.st",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 34,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": true,
-      "sentAt": "2026-09-30T06:02:02.757Z"
-    },
-    {
-      "id": "e6194acb8fcc8fb8701f9f12fc08483c49871642c31da97b6f573ef43d42c4ee",
-      "titleSourceHash": "b7de7e4baeb39df9dbbdd9fca54d95404b897b4cbff2884dd3f7fb951c56a24e",
-      "eventId": "7d0d76c96de6d977a9ad0e2834c1b32d8ca1e5c38779b3e9c6c875f7ba595646",
-      "title": "중국 세계 제련능력의 56% 장악, 구리 시장 지배력 굳건",
-      "normalizedTitle": "중국 세계 제련능력의 56% 장악 구리 시장 지배력 굳건",
-      "description": "중국 세계 제련능력의 56% 장악, 구리 시장 지배력 굳건 thecommoditiesnews.com",
-      "source": "thecommoditiesnews.com",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-09-30T02:22:14.000Z",
-      "fetchedAt": "2026-09-30T06:02:02.757Z",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZM180ZkdXTnktV1pzVURhZm0xaEllQWFoNU5XWUZOblAyM3I4NTFpaTBiZng5X0VzMG5NQXhnMURXZzlTZ3JJXzRvWlNTTl80SHdpMXNCa3p6TnVQQ1huWGdFT3EzcDFnc3huaVFrVkJqWWN3WmJR?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "제련"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "제련"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "SMELTER",
-        "CHINA"
-      ],
-      "primaryCategory": "Smelter",
-      "titleKo": "중국 세계 제련능력의 56% 장악, 구리 시장 지배력 굳건",
-      "summaryKo": "중국 세계 제련능력의 56% 장악, 구리 시장 지배력 굳건 thecommoditiesnews.com",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
-        "categories": [
-          "SMELTER",
-          "CHINA"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "중국 세계 제련능력의 56% 장악, 구리 시장 지배력 굳건 thecommoditiesnews.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
-        "categories": [
-          "SMELTER",
-          "CHINA"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "중국 세계 제련능력의 56% 장악, 구리 시장 지배력 굳건 thecommoditiesnews.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 34,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": true,
-      "sentAt": "2026-09-30T06:02:02.757Z"
-    },
-    {
-      "id": "387c5bb0f6cad35f632e83286a0b83fb8909a0bc777a424f68a3134656dec403",
-      "titleSourceHash": "d4d75fba4e2caf8257c2e015a3228a7e909196c8b592e51d5ed3523ef2cbd9cd",
-      "eventId": "a0af5232ba786b667179a431e1c8adb0af70b9c07cc5779209a585868d1e7a92",
-      "title": "Inventory Changes of Aluminum Ingots and Billets Around the 2026 National Day [SMM Data]",
-      "normalizedTitle": "inventory changes of aluminum ingots and billets around the 2026 national day smm data",
-      "description": "Inventory Changes of Aluminum Ingots and Billets Around the 2026 National Day [SMM Data] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-30T02:13:00.000Z",
-      "fetchedAt": "2026-09-30T12:37:40.618Z",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcHlROVl6djVleVpBVldzWTZkYXJsZDRJdkpHVlRYd0xrMTEta3Vkd09PSXhqMDJseWg4RlFZTkprVFBycjlWa1FSa24wbzYwNUhmSFZTbzdCMnIwbk1fenFBNTlTMVZ0SnpXY3pYVGd1ZmtucGtpeEg1cnNNUG8tUEVabXZ2aURub0ktSzF1R1RDdzBvODRaOXVPU1lTcV9adko1aGNyYjhfcEJxeFdPLTVsNm9UM1hlVjZTemZKeFBQVTZrRmxjWnd6QQ?oc=5",
-      "language": "en",
-      "commodity": "ALUMINUM",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "aluminum"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "inventory"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "ALUMINUM",
-          "score": 9,
-          "matchedKeywords": [
-            "aluminum"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "inventory"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "INVENTORY"
-      ],
-      "primaryCategory": "Inventory",
-      "titleKo": "Inventory Changes of Aluminum Ingots and Billets Around the 2026 National Day [SMM Data]",
-      "summaryKo": "Inventory Changes of Aluminum Ingots and Billets Around the 2026 National Day [SMM Data] Shanghai Metals Market",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Inventory",
-        "categories": [
-          "INVENTORY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Inventory Changes of Aluminum Ingots and Billets Around the 2026 National Day [SMM Data] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Inventory",
-        "categories": [
-          "INVENTORY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Inventory Changes of Aluminum Ingots and Billets Around the 2026 National Day [SMM Data] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "6cdf4567571d84ce26b71ac39844ee329f3d3dfda0da3b3697e331c836c6a799",
-      "titleSourceHash": "6b328c10b55017aa994048c9c50bdda4082dacfc9fafa7067f0cf05848c30d6d",
-      "eventId": "d1cda40652aab399a2ee31228b4fb2391260140e48c40f582a3f0a885697a7a6",
-      "title": "Restoration for one smelter in Middle East Initially Completed; YoY Decline in Aluminium Output Narrows to 2.4%",
-      "normalizedTitle": "restoration for one smelter in middle east initially completed yoy decline in aluminum output narrows to 2 4%",
-      "description": "Restoration for one smelter in Middle East Initially Completed; YoY Decline in Aluminium Output Narrows to 2.4% Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-30T02:00:00.000Z",
-      "fetchedAt": "2026-09-30T06:02:02.757Z",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbXpvb1ljZkMyTW5GeUljR1MybHNQamk1eWVBQkY3akxBN2J0dkR4eDVMY2xOQXVmSUx4bFktQ24tRWNtSmFFaVZBR1lJVk5hYWZLcm1MY004VmFrOGlGdHcyVTVLMGVkWnViYWZjVWZMaUluS29lRERwSkthSksxRFc3S2pUdmVJc19rRTRITGNwTHhVQjZwTGJvcl9lZHcwdFNPWTdIMmJsWUdnQVlSLXc2aFdkT3B6RG1zYThEellzbF9tUGNBZFVDclBTUVhveWFFSHBnZkc3YWpUMFVtWlBXeU1CSEs1X3RoWg?oc=5",
-      "language": "en",
-      "commodity": "ALUMINUM",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "aluminium"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "smelter",
-        "output"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "ALUMINUM",
-          "score": 9,
-          "matchedKeywords": [
-            "aluminium"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "smelter",
-            "output"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "SMELTER",
-        "PRODUCTION"
-      ],
-      "primaryCategory": "Production",
-      "titleKo": "Restoration for one smelter in Middle East Initially Completed; YoY Decline in Aluminium Output Narrows to 2.4%",
-      "summaryKo": "Restoration for one smelter in Middle East Initially Completed; YoY Decline in Aluminium Output Narrows to 2.4% Shanghai Metals Market",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "SMELTER",
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Restoration for one smelter in Middle East Initially Completed; YoY Decline in Aluminium Output Narrows to 2.4% Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "SMELTER",
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Restoration for one smelter in Middle East Initially Completed; YoY Decline in Aluminium Output Narrows to 2.4% Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 34,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": true,
-      "sentAt": "2026-09-30T06:02:02.757Z"
-    },
-    {
-      "id": "94d9ec288f033fd2c1897266c74ad04e93a1fa43e29050e6954db7ec7579adc7",
-      "titleSourceHash": "a2d5802ceddab1f0906721ee5e6d235caee0807c6ae787e7dbe8abcc19efbaae",
-      "eventId": "db5b2c417c6e400e53c1f8495a4413e99a060794dd587720aa312b32a27a8096",
-      "title": "TGS서 가능성 본 너구리 RPG… 너굴랩, 모바일 신작 '구리구리왕국' 국내 출시",
-      "normalizedTitle": "tgs서 가능성 본 너구리 rpg 너굴랩 모바일 신작 구리구리왕국 국내 출시",
-      "description": "TGS서 가능성 본 너구리 RPG… 너굴랩, 모바일 신작 '구리구리왕국' 국내 출시 에이빙",
-      "source": "에이빙",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-09-30T01:51:10.000Z",
-      "fetchedAt": "2026-10-01T01:35:57.518Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyV3FfLUVTel9ka0VSeEptUDJWb0gwa0lVcWUtaGFQRVQxU0xYVmRwTExZbm91cGYzZ25zbFM5S2ZvOUtRbFNNeEVyeXFGYVdnS0I2MHpvM2s5bHQ0d1NCYWRjQXZmOW_SAWtBVV95cUxOcV84Vm9aZE0wMVlaNFdSVEZFUEZVeFhSRVZkb1BwRjY5bTUyMTA1RDZ4clNWbEdsNVZwYmFkTWtvR1pBVDByNHBOckQ4cVRWTnFLRy1yUXp6SFNhalo4dzZMS3BfM1FEOUVjZw?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 7,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "COMPANY"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "TGS서 가능성 본 너구리 RPG… 너굴랩, 모바일 신작 '구리구리왕국' 국내 출시",
-      "summaryKo": "TGS서 가능성 본 너구리 RPG… 너굴랩, 모바일 신작 '구리구리왕국' 국내 출시 에이빙",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "TGS서 가능성 본 너구리 RPG… 너굴랩, 모바일 신작 '구리구리왕국' 국내 출시 에이빙",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "TGS서 가능성 본 너구리 RPG… 너굴랩, 모바일 신작 '구리구리왕국' 국내 출시 에이빙",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 13,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "43d5ac6c4e2d89128374c04e1f2f0dc0d639fcc2d80320d9200becdab7de1c30",
-      "titleSourceHash": "de03c86dcea2f7b975df6ef34a5cfae3a758c7561cf54a13c3eda27da98a2fa8",
-      "eventId": "1b82f3aaefa332ff0a77180b62bb71ddc51d7ea16ad42a1a9f4b53292ed1146d",
-      "title": "Family of 4 in hospital after fire at Sha Tin public housing estate",
-      "normalizedTitle": "family of 4 in hospital after fire at sha tin public housing estate",
-      "description": "Family of 4 in hospital after fire at Sha Tin public housing estate South China Morning Post",
-      "source": "South China Morning Post",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-30T01:24:22.000Z",
-      "fetchedAt": "2026-09-30T12:37:40.618Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWml6dFo5Z1ZaaXlXcjRpR1Jra19wcDhKM191aURkUjhaTGFQMDNISHNxU1hvU2laNzVwSnZOV3Fub0RfWU1NcW41a1Q5U01DQV92SXpsQkFjVFpyWGg3ZWtTOS13RFFFdTFId3NXb0pKTFMteFBqR0FDVmtjQmpxS1M4YjJjbEJxWDh4UkFUOVBfTHhsRUhHNmRHSDJ5eG9pci1uaEtrQy01U2tfbUJEZUZUeXMwc2lTcGfSAboBQVVfeXFMUHQzYVJqWmYxNUFzWENWb0xsb09taGlCODRBajVmaFpNcGwtS19LTTdnb2RqU3YzSGpLdGhFLU1ZbEpyV1o1MkwweWtod1FLWWZHWU9MSmowUkt3UVhEYlJNM3Fybm5JVG01MlQ5RE1MTmR4Z2RiOXRtYV92RUxKRlpZVlRGc1c5Z0lnb1k4YnRQQVNYNnJ0YUQwU2NKUW01VVJWbDlGaE90ZlRvdFpjSmt0VU83d05TY0J3?oc=5",
-      "language": "en",
-      "commodity": "TIN",
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "tin"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "TIN",
-          "score": 8,
-          "matchedKeywords": [
-            "tin"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "CHINA"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Family of 4 in hospital after fire at Sha Tin public housing estate",
-      "summaryKo": "Family of 4 in hospital after fire at Sha Tin public housing estate South China Morning Post",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Family of 4 in hospital after fire at Sha Tin public housing estate South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Family of 4 in hospital after fire at Sha Tin public housing estate South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 14,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "bf504c989c3b8d5e481efd8799bc9783ce9116e91df7672d5c4682ddae4c01dc",
-      "titleSourceHash": "6cdc7f2046d8b5c3e8fb5b98fb85d11624c235beb7b8f862da188a2000c180c4",
-      "eventId": "0250cefc81c70fb9863d4f5169d91244d726019972efd0d600cc0c3bb226490c",
-      "title": "Chile copper mine strike risks heat up, adding further disruption to ore supply 【SMM Copper Morning Meeting Summary】",
-      "normalizedTitle": "chile copper mine strike risks heat up adding further disruption to ore supply 【smm copper morning meeting summary】",
-      "description": "Chile copper mine strike risks heat up, adding further disruption to ore supply 【SMM Copper Morning Meeting Summary】 Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-30T01:11:00.000Z",
-      "fetchedAt": "2026-09-30T12:37:40.618Z",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOThVN00wU0FDdzlxU1VUc2czZkg5WWZleHpzMUx4YkF1ZDBCYVBLM21CekhQc2ZsTklhcFVNMWQ3bWlkN2ZTYXRWRlZkbFgwb2ZyUUJycHY5Q1Y2cEJGVW40RGJJSHg3azJZSHAwVFo2TjkyMU5Ma19wMnlTWDlIR1d6eXhrTUVpNE5QQ25fSjQ0SnVCQVBnRUU2QW5KS0hfQjFWSUloVW9lYnlncDREUEFmLUpLT3JHQmtBTTVuNWJraTFPUVFsNWJzY04zREFNVVFGVkxfZllXbEowOU5BRV8weHRlQ3otX1Y3cExCNA?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 15,
-      "matchedKeywords": [
-        "copper",
-        "copper mine"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "Chile"
-      ],
-      "matchedMarketTerms": [
-        "supply",
-        "mine",
-        "strike",
-        "disruption"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 15,
-          "matchedKeywords": [
-            "copper",
-            "copper mine"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "Chile"
-          ],
-          "matchedMarketTerms": [
-            "supply",
-            "mine",
-            "strike",
-            "disruption"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "HIGH",
-      "categories": [
-        "SUPPLY",
-        "MINE",
-        "DISRUPTION",
-        "STRIKE"
-      ],
-      "primaryCategory": "Labor Disruption",
-      "titleKo": "Chile copper mine strike risks heat up, adding further disruption to ore supply 【SMM Copper Morning Meeting Summary】",
-      "summaryKo": "Chile copper mine strike risks heat up, adding further disruption to ore supply 【SMM Copper Morning Meeting Summary】 Shanghai Metals Market",
-      "marketImpact": "Bullish",
-      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-      "procurementImpact": "NEGATIVE",
-      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-      "regions": [
-        "Chile"
-      ],
-      "companies": [],
-      "timeHorizon": "IMMEDIATE",
-      "confidence": "MEDIUM",
-      "signals": [
-        "Supply Tightening",
-        "Supply Disruption",
-        "Price Increase Risk"
-      ],
-      "keyEvidence": [
-        "strike"
-      ],
-      "conflictingSignals": false,
-      "codexReviewEvent": true,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "SUPPLY",
-          "MINE",
-          "DISRUPTION",
-          "STRIKE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Chile copper mine strike risks heat up, adding further disruption to ore supply 【SMM Copper Morning Meeting Summary】 Shanghai Metals Market",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "SUPPLY",
-          "MINE",
-          "DISRUPTION",
-          "STRIKE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Chile copper mine strike risks heat up, adding further disruption to ore supply 【SMM Copper Morning Meeting Summary】 Shanghai Metals Market",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "priority": 59,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "sent": true,
-      "sentAt": "2026-09-30T12:37:40.618Z"
-    },
-    {
-      "id": "794575f61e40a87f20f63b0206c5275de11754f8d3b4defc7f41db510414608c",
-      "titleSourceHash": "e05ccb7b42bf932e24f625ddacaf50b4cb1cb98e5b092db344728f55867af85c",
-      "eventId": "41c34551d0c9d9448207753dfa09784c4c4cf7e2b1a1c1f87d53b2abb78db737",
-      "title": "Sumitomo’s Dos Amigos copper strategy in Chile: design and risk notes for engineers",
-      "normalizedTitle": "sumitomo s dos amigos copper strategy in chile design and risk notes for engineers",
-      "description": "Sumitomo’s Dos Amigos copper strategy in Chile: design and risk notes for engineers Geomechanics.io",
-      "source": "Geomechanics.io",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-30T00:16:18.000Z",
-      "fetchedAt": "2026-09-30T06:02:02.757Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQjBkMDhFb2htRTFicjJRTUtLSzJ5QUZ0eHpkbFVHY2R3LVJlMmV1NFdMa1puTklfYU1KTVBYMXJuQm5JX1FSSDhzdkl5bC1lSkwzOWo3TFZiZ0xkSk5LQlRNYlpWX1k2cDR1WGpCTF9udV9kSFowRnQxZlpBVFRfX24xaG02Yl91cDJKclIzTjQxR250bFNiQ0Jualg0RTNtTWt0OUQ3eVlXZ29Pb1JpYVQyMnhvb1p4bDY2UjF5aw?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "Chile"
-      ],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 8,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "Chile"
-          ],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "COMPANY"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Sumitomo’s Dos Amigos copper strategy in Chile: design and risk notes for engineers",
-      "summaryKo": "Sumitomo’s Dos Amigos copper strategy in Chile: design and risk notes for engineers Geomechanics.io",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "Chile"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Sumitomo’s Dos Amigos copper strategy in Chile: design and risk notes for engineers Geomechanics.io",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Sumitomo’s Dos Amigos copper strategy in Chile: design and risk notes for engineers Geomechanics.io",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 18,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "6f9ffc711b1dea83b2a3377f090d7bda3029522422bb460e4b6701ccb665b79a",
-      "titleSourceHash": "bb5ffff5cab59537a196542d09c5b429b2bb6c568cf52398de69264698666825",
-      "eventId": "93f025054a80b528dcbdf9d4294226441705ecf79c1772f06a23e4baeae7fe54",
-      "title": "너굴랩 구리구리왕국, 구글·애플 앱스토어서 무료 배포",
-      "normalizedTitle": "너굴랩 구리구리왕국 구글·애플 앱스토어서 무료 배포",
-      "description": "너굴랩 구리구리왕국, 구글·애플 앱스토어서 무료 배포 스페셜타임스",
-      "source": "스페셜타임스",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-09-30T00:14:30.000Z",
-      "fetchedAt": "2026-09-30T00:46:32.585Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3RVlzRk0zbXNoNEFPakpiV2ZBZUdDSEhXVk9zWlg4eUY5aTRMb3RIdEw0VUpmMzRYWTlwUEJWQmdHTW9aNDZsQm92OGljSmhPVW9HMFpaRl94MjQtTE9HaVk4cG4yaTRveGRwN3dkb1pzQQ?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 6,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "COMPANY"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "너굴랩 구리구리왕국, 구글·애플 앱스토어서 무료 배포",
-      "summaryKo": "너굴랩 구리구리왕국, 구글·애플 앱스토어서 무료 배포 스페셜타임스",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "너굴랩 구리구리왕국, 구글·애플 앱스토어서 무료 배포 스페셜타임스",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "너굴랩 구리구리왕국, 구글·애플 앱스토어서 무료 배포 스페셜타임스",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 16,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "b534b997fe64b1d856edde152d369fece445db8572d617acf5cadf4a7740b451",
-      "titleSourceHash": "02f34fb7d24ce6b4cd9b1954163858593bae1571de88edd44c2d5159fdc33f74",
-      "eventId": "5612771d58c31147697fa07d1f45c82d8cc00cff64a11b067e880a013296d606",
-      "title": "리탐 파트너스 컨퍼런스에서 Trekor Metals: Florence 생산 확대, 구리 공급 부족 지속",
-      "normalizedTitle": "리탐 파트너스 컨퍼런스에서 trekor metals florence 생산 확대 구리 공급 부족 지속",
-      "description": "리탐 파트너스 컨퍼런스에서 Trekor Metals: Florence 생산 확대, 구리 공급 부족 지속 Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-09-30T00:08:00.000Z",
-      "fetchedAt": "2026-09-30T18:08:37.104Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nczI1Wkp6Nkl5UEJzaDBUVXdkVWhzNWxzRW1nb2s3MGhlb1FOU3dBRHZzcU1IQnhJNE5QR0JWMWhXQzh0aV9rVkptYWVyT0pTNGk4NlhvTE9HYmphZnI3QWJGLVZ0cHhKSzNtVFhJQQ?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 13,
-      "matchedKeywords": [
-        "구리",
-        "구리 공급"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "공급",
-        "생산"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 13,
-          "matchedKeywords": [
-            "구리",
-            "구리 공급"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "공급",
-            "생산"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "SUPPLY",
-        "PRODUCTION"
-      ],
-      "primaryCategory": "Supply",
-      "titleKo": "리탐 파트너스 컨퍼런스에서 Trekor Metals: Florence 생산 확대, 구리 공급 부족 지속",
-      "summaryKo": "리탐 파트너스 컨퍼런스에서 Trekor Metals: Florence 생산 확대, 구리 공급 부족 지속 Investing.com 한국어",
-      "marketImpact": "Bullish",
-      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-      "procurementImpact": "NEGATIVE",
-      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "MEDIUM",
-      "signals": [
-        "Supply Tightening",
-        "Supply Disruption",
-        "Price Increase Risk"
-      ],
-      "keyEvidence": [
-        "공급 부족"
-      ],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "리탐 파트너스 컨퍼런스에서 Trekor Metals: Florence 생산 확대, 구리 공급 부족 지속 Investing.com 한국어",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "공급 부족"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "UNCLEAR",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "리탐 파트너스 컨퍼런스에서 Trekor Metals: Florence 생산 확대, 구리 공급 부족 지속 Investing.com 한국어",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "공급 부족"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "UNCLEAR",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "priority": 42,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": true,
-      "sentAt": "2026-09-30T18:08:37.104Z"
-    },
-    {
-      "id": "8b9649b4b177c891c53eff787f4ec030e653bcbc7628146502a27a813ff7ee8e",
-      "titleSourceHash": "b9281000d9bf14d937ad53b0c5869acab07f6e278c73b9217e3aec8a154658b7",
-      "eventId": "0e203a25b0b04920abca9d6bda88f5fb93bd994b775c3bb2cdf07300712f125d",
-      "title": "Copper price holds above $14,400: supply–demand risks mapped for mine planners",
-      "normalizedTitle": "copper price holds above $14 400 supply demand risks mapped for mine planners",
-      "description": "Copper price holds above $14,400: supply–demand risks mapped for mine planners Geomechanics.io",
-      "source": "Geomechanics.io",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-30T00:01:56.000Z",
-      "fetchedAt": "2026-09-30T06:02:02.757Z",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1ZLaTF6d1B6UU5xMm5Ob1RnWVRTSWw4RTdKcENTZ2k3N0dldGdzeHo4Y2NpQncwSUh6enRobWJaZ08xV0xfS1NNcHBsVFZrR1hhc2REU3FVMWR4RXhkdVFsRE1yVTJyZTdYM1l6NXpGRHc5c2hIa1lzMWE0NTVjeEhIaU82UUZhakhvQ2hONF9pbE1UOHBpa2prNXptWG9zajhCdXN5MWZMUWV6aUhrd0pLSHdxZw?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 13,
-      "matchedKeywords": [
-        "copper",
-        "copper price"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "price",
-        "supply",
-        "demand",
-        "mine"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 13,
-          "matchedKeywords": [
-            "copper",
-            "copper price"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "price",
-            "supply",
-            "demand",
-            "mine"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "SUPPLY",
-        "DEMAND",
-        "MINE"
-      ],
-      "primaryCategory": "Demand",
-      "titleKo": "Copper price holds above $14,400: supply–demand risks mapped for mine planners",
-      "summaryKo": "Copper price holds above $14,400: supply–demand risks mapped for mine planners Geomechanics.io",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "DEMAND",
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper price holds above $14,400: supply–demand risks mapped for mine planners Geomechanics.io",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "DEMAND",
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper price holds above $14,400: supply–demand risks mapped for mine planners Geomechanics.io",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 34,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": true,
-      "sentAt": "2026-09-30T06:02:02.757Z"
-    },
-    {
-      "id": "9c519925189c3bc5136598e89a10ad2d06232c66ff97da30fd30cc8d2365be8c",
-      "titleSourceHash": "561cfd3da431574d49b434bb707bd562cddaa0185bde09c0b0a7468c46534387",
-      "eventId": "cee887dbc475f5118ee3934fff3f57eca6fe1c9dcc9c537edf639fba0e706678",
-      "title": "Copper Intelligence–CoTec DRC tailings JV: project and process notes for mine engineers",
-      "normalizedTitle": "copper intelligence cotec drc tailings jv project and process notes for mine engineers",
-      "description": "Copper Intelligence–CoTec DRC tailings JV: project and process notes for mine engineers Geomechanics.io",
-      "source": "Geomechanics.io",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-09-30T00:01:20.000Z",
-      "fetchedAt": "2026-09-30T06:02:02.757Z",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNlczOHpCeGRfWDlmdVNxclpiTmJCNkhNMmE3U3QySDVEZk44VGtNeVk5OURQeVI3QXl4RlFQdTk0Y2wtc3hpU2l4X1RCMDRVWlMwZ01sZE1BM3lyVWpWR0dhRC1tNXhPMnowQXZrRDRaRUhtMVV1ZzlSUU9TdDFBNnBwRGVMWFV3TU9CNTU5Y1FpcU9PRXZZUVRJOG4tQUhBbEt0eVZ1czBUaS1sa0Y1LWMyVTMtdWRNRVFsM25ZWGNBczRy?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 10,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "DRC"
-      ],
-      "matchedMarketTerms": [
-        "mine"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 10,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "DRC"
-          ],
-          "matchedMarketTerms": [
-            "mine"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "MINE",
-        "PROJECT"
-      ],
-      "primaryCategory": "Mine",
-      "titleKo": "Copper Intelligence–CoTec DRC tailings JV: project and process notes for mine engineers",
-      "summaryKo": "Copper Intelligence–CoTec DRC tailings JV: project and process notes for mine engineers Geomechanics.io",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "DRC"
-      ],
-      "companies": [],
-      "timeHorizon": "MEDIUM_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "PROJECT"
-        ],
-        "region": "DRC",
-        "regions": [
-          "DRC"
-        ],
-        "summary": "Copper Intelligence–CoTec DRC tailings JV: project and process notes for mine engineers Geomechanics.io",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "PROJECT"
-        ],
-        "region": "DRC",
-        "regions": [
-          "DRC"
-        ],
-        "summary": "Copper Intelligence–CoTec DRC tailings JV: project and process notes for mine engineers Geomechanics.io",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 31,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "9a9ed1d887a745014f7cd59f477e4275c53a51f023040d468b0ba8a649984d68",
-      "titleSourceHash": "8e5bb008c367b067a3277672ac86b156859f38641e406ae7df860c9e84117fef",
-      "eventId": "c219bd53781b364cadf3aa71a2de5bb4236ace371615af122a4f65943b80a6cb",
-      "title": "너굴랩, 모바일 RPG ‘구리구리왕국’ 9월 30일 국내 출시",
-      "normalizedTitle": "너굴랩 모바일 rpg 구리구리왕국 9월 30일 국내 출시",
-      "description": "너굴랩, 모바일 RPG ‘구리구리왕국’ 9월 30일 국내 출시 뉴스와이어",
-      "source": "뉴스와이어",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "fetchedAt": "2026-10-01T07:49:30.192Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhdjl2MHdqYkJoWWJsa18xbjV1RE5JWWlGR3BSVmI5RTBmT29ENGluMVdXTGVESjFWY3V3ekNXWEw3UjRxVW5YZ0tEb3dCdVl4MkJqT29TZHQtd05QVXdZ?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 6,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "COMPANY"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "너굴랩, 모바일 RPG ‘구리구리왕국’ 9월 30일 국내 출시",
-      "summaryKo": "너굴랩, 모바일 RPG ‘구리구리왕국’ 9월 30일 국내 출시 뉴스와이어",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "너굴랩, 모바일 RPG ‘구리구리왕국’ 9월 30일 국내 출시 뉴스와이어",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "너굴랩, 모바일 RPG ‘구리구리왕국’ 9월 30일 국내 출시 뉴스와이어",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 8,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
