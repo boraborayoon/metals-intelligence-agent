@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T22:39:13.559Z",
+  "generatedAt": "2026-10-06T02:31:16.015Z",
   "items": [
     {
       "id": "36d4d07be7b4c0a2963ba76868a408a6f8f458c6bc3fa2ae9a1c2211ede62237",
@@ -606,7 +606,7 @@
       "source": "Dealroom",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-05T18:05:10.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdUpycXRiMXV3ZjFkTkt0RDdjaUlpRUc4YUxwNE9yekVxQVJLdVpOUUxuUkpsSG4yTXpvRFdsY3hJandtcGp5MW1mOUlJOGU1bmFlalFMdkVxRHBsYkhZeWQ0OUQ2Y3BZQi0xYnU5MlBRcjNrSl9tX3FLQmR3VXUzdzNUbFczNTl5al90aXRnS24tNTRDWTZtQ3BiaGRlSjh2eHhoTTR6dVNGdnBXVlBnakxUTUJ6OTVUMlNtTldR?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -697,11 +697,11 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 34,
+      "priority": 30,
       "codexStatus": null,
       "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-10-06T02:31:16.015Z"
     },
     {
       "id": "fbac6fecd0486f1e89ce652dfeca3be84205896c6cd15de6f1c43541f8a04079",
@@ -832,7 +832,7 @@
       "source": "Azernews.az",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-05T16:14:00.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5waEFyQkk3SV9keHBKdFhHWmtZVmN2MTNTbFhvd09CUXB1YWtYUkhoMWVGZVdMVm9GVnJ6WE00enpiUHk2cTU5SHlOZE42aWRuUy01TzZCUQ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -945,8 +945,115 @@
       "priority": 31,
       "codexStatus": null,
       "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-10-06T02:31:16.015Z"
+    },
+    {
+      "id": "2688eb6dcbed97cc310f5a8d9a78bbcbd7140e91cca3bcac4c0d3082959b85b9",
+      "titleSourceHash": "52d6de2c5e356075f118abac7ee7652bb782e4d9b07625bdc3e1b83983ae35f4",
+      "eventId": "53bed3fbd1ee3f50e0af5c16ca62cbd695679fe7f13dfe9afed22171aac82533",
+      "title": "Copper Canyon vs Carl Hayden - Boys Freshman Football 10/28/2026 | Watch Live & On Demand",
+      "normalizedTitle": "copper canyon vs carl hayden - boys freshman football 10 28 2026 watch live & on demand",
+      "description": "Copper Canyon vs Carl Hayden - Boys Freshman Football 10/28/2026 | Watch Live & On Demand NFHS Network",
+      "source": "NFHS Network",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-05T15:29:58.000Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRm5rNElnQmJWNmJGamdNZGg1TkZWV1Q5X0U0LVh0R0J0Z01TUVNvZGN4MUVETFBTZXJLSWFmNWFRbC1UdmVHSU1PX21uYkRmdHY3YkN1cjlUSXJOR240WjJmb24wSTRhaVZteFBrVHd2SDh6WTZLWkRCc3Rzcko0b25MNlNrTHRPRHMtUFlyWQ?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "demand"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "demand"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "DEMAND"
+      ],
+      "primaryCategory": "Demand",
+      "titleKo": "Copper Canyon vs Carl Hayden - Boys Freshman Football 10/28/2026 | Watch Live & On Demand",
+      "summaryKo": "Copper Canyon vs Carl Hayden - Boys Freshman Football 10/28/2026 | Watch Live & On Demand NFHS Network",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Canyon vs Carl Hayden - Boys Freshman Football 10/28/2026 | Watch Live & On Demand NFHS Network",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Canyon vs Carl Hayden - Boys Freshman Football 10/28/2026 | Watch Live & On Demand NFHS Network",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 30,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": true,
+      "sentAt": "2026-10-06T02:31:16.015Z"
     },
     {
       "id": "b732774a500a27d6404024e42828c5edcb444e861450a98a8d62c61baffbf9b4",
@@ -1187,7 +1294,7 @@
       "source": "Shanghai Metals Market",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-05T15:00:00.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWXBRVW41TWJnTUtuQ1hja01FbURPbnJVWjdUb1l6amQ3Tm00SkgtWlRrZWxDY2Y5emxWOVIyeFJ0WFpjbzR1NXpnTFoxaWRlQl94VjZqYjFnNGlDcDV5VzVOS1A0eTdnZkRhSTVfR0hqbDZHai0wS2E0VVk4clIybHU4Z2docGRfS0JieFpFNXd5a25uVkgyMVJTSHdVZjY5SndyMkI5VXVWNW1fOWFNTE9QUm0xcWYtY1NRMENtZ3FNYnJM?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -1283,8 +1390,8 @@
       "priority": 34,
       "codexStatus": null,
       "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-10-06T02:31:16.015Z"
     },
     {
       "id": "3adcd96a40ea4889a405d4df7d8e7118fcbace44ee4f9d7e46ee023c80fbe9d1",
@@ -1403,7 +1510,7 @@
       "source": "Newsquawk",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-05T13:58:37.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMWV0ZXdRSzRoSUo4ZzZjaW1WMF9xYTdzQlhsb1E1RmFrcW0xM1FqRHFySm0yYXZwbGFzOVB4MTZHRXNVQ3l5MWhRV2pfLU45X3pfd25oamw0V2dfQl81YmtsY1FEQVRfbjBHb1dWdzlQS3hPYjVWT2ZEajZhRHJxYmo1elR4TWdudXNVQzFad1ZyRV82Yk5rU1d4MVllTmtLdTNvdWxyalpJS1R3RmZ3VEFpZjFNNnlMendDNkNvb1BXRFZBbDFzTHh2YjczbXdUUTNCRExTWWpjcFd4cHdkSWJjUW81YW9YOFhOMHVB?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -1515,7 +1622,7 @@
       "source": "Finimize",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-05T13:11:58.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSno4VkpqOEhYZC02dlVQcGE2SDFUQVhwSFplRHVSak05M3hWQ2RZMGFBb3EzeEx3Sy05RVdwb3c1X2xnOFoydHdvbkpKLVZuS0RGQ0ZwWnd2a0Q5OXhUd0FpYXkwSzZhYm5mcHdzZTZROUxfWlU3elZfa0JGTkxva0ZheG9JUEljdEF3dWhR?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -1738,7 +1845,7 @@
       "source": "Vietnam.vn",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-05T12:12:39.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWWQwNHJxblhVRmZDdmJfWDd4VlhDVkxpcmo4TFpGbUg4X2xhclpIS2lHOWtfby1kRmZ4WTdwbzBzZ2MyaFR5d2E2bUhELUwxMUgxczYzbzBkbGsxQnJmVzJReHJrRDBVcko0ZGIwOWF4MzhOSE4yVnZVX1R0MlFaVmh6YWF5Zw?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -2077,7 +2184,7 @@
       "source": "Stock Titan",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-05T11:00:00.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnNIS3lseHUydWNUUDl1VWNtOG1VTXFiOG1oWG1XT0xvZU8yZldldmlHWTNid3JXNmsxZ3lMOFV4QkZlZEFxamlsQ1ZnRHg5R0lmREtVMUVxRlRHNnVXQ18zTktTbU1ta3FCd3YxQmhHckZvdDFCdWg0T0ZlcVg3Vk5ndjU2RmxMZkdnbUZMZjd1WHZueGZfUHBxanJtN21pbHFNc0xOTTlEMnhETHptV2ZLWHNhVGpRUTAzaERhOA?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -2283,15 +2390,15 @@
     },
     {
       "id": "37e95086f2d0d6d72415449933ed1e4fe04337a8896fa42cc4644d73c0185410",
-      "titleSourceHash": "d0b9d7ca2c214151eda86b0c06668ddc952e19bdb41c1c371727992a1ac6820d",
+      "titleSourceHash": "0309aa2c0b9e0777bdd86ba7495b00fb25ae7360f27a7b4ea40f1086f0b33277",
       "eventId": "e067fbe98e8ad30dbf28c11791a39c5b3391860fe612584a309ddb8cad6f7179",
       "title": "Puquios Copper Project in Chile Satisfies USD$1.7M Bond Security for Key Water Management Infrastructure",
       "normalizedTitle": "puquios copper project in chile satisfies usd$1 7m bond security for key water management infrastructure",
-      "description": "Puquios Copper Project in Chile Satisfies USD$1.7M Bond Security for Key Water Management Infrastructure mycarrollcountynews.com",
-      "source": "mycarrollcountynews.com",
+      "description": "Puquios Copper Project in Chile Satisfies USD$1.7M Bond Security for Key Water Management Infrastructure Carroll County Mirror-Democrat",
+      "source": "Carroll County Mirror-Democrat",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-05T10:00:00.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUZCbEIxdElab19WcDk3QmdjWDZWVWNsUUlRT0pLa0Y4YkxwRnM4eDFJblNudDVmbWoza1d0c09IWlN5OHFIT2VuRy1qYll4eFFyZTE2WTByMzhxMGFJZFpSRy01ZHk0RUh1YWI0UkFmTWxtaEZfbHc5M3g4ZjBOSDVrU3lFZl9nbFVmYnpPZ2lvamsxWE9FbkU1ZzN6NGZaRFpxWDVveGM0VE5oTUVKanhONk9leTg?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -2327,7 +2434,7 @@
       ],
       "primaryCategory": "General",
       "titleKo": "Puquios Copper Project in Chile Satisfies USD$1.7M Bond Security for Key Water Management Infrastructure",
-      "summaryKo": "Puquios Copper Project in Chile Satisfies USD$1.7M Bond Security for Key Water Management Infrastructure mycarrollcountynews.com",
+      "summaryKo": "Puquios Copper Project in Chile Satisfies USD$1.7M Bond Security for Key Water Management Infrastructure Carroll County Mirror-Democrat",
       "marketImpact": "Unclear",
       "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
       "procurementImpact": "UNCLEAR",
@@ -2357,7 +2464,7 @@
         "regions": [
           "Chile"
         ],
-        "summary": "Puquios Copper Project in Chile Satisfies USD$1.7M Bond Security for Key Water Management Infrastructure mycarrollcountynews.com",
+        "summary": "Puquios Copper Project in Chile Satisfies USD$1.7M Bond Security for Key Water Management Infrastructure Carroll County Mirror-Democrat",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -2379,7 +2486,7 @@
         "regions": [
           "Chile"
         ],
-        "summary": "Puquios Copper Project in Chile Satisfies USD$1.7M Bond Security for Key Water Management Infrastructure mycarrollcountynews.com",
+        "summary": "Puquios Copper Project in Chile Satisfies USD$1.7M Bond Security for Key Water Management Infrastructure Carroll County Mirror-Democrat",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -2389,6 +2496,109 @@
         "urgent": false
       },
       "priority": 29,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
+      "id": "665ecf4db2186d7880e6add40334d52003ce57aded536b014b29337f7d9300ff",
+      "titleSourceHash": "5cdd35b230d3d17c2f4c876b7200315dc7b05b3ff250e3d50dc4d8d8792ebe0d",
+      "eventId": "6b057c63384ae67dc1968d17516caec618dae7c9d8be9afd12d6fb151d3a75b7",
+      "title": "Gunnison Copper Advances Toward NYSE American Listing as Copper Reaches Record Highs",
+      "normalizedTitle": "gunnison copper advances toward nyse american listing as copper reaches record highs",
+      "description": "Gunnison Copper Advances Toward NYSE American Listing as Copper Reaches Record Highs Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-05T10:00:00.000Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGNsVTcyWU1IMVc2LTJwSU9SYmlBSElJTGhDX04xYXpoN0Q4d3ZBN2ZWNWN6WmdVbXlrUzRRV1NaTXRTT2xTS09sMlhQOHo2cjdnaklRR29nOEFvdmcxZWxuQ0JTNjhJRHY3VlhRdVgtU1B3T25aRFd2NHhQUGJnTVNnSjhUVm1OLTRYTm5B?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 6,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "COMPANY"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Gunnison Copper Advances Toward NYSE American Listing as Copper Reaches Record Highs",
+      "summaryKo": "Gunnison Copper Advances Toward NYSE American Listing as Copper Reaches Record Highs Yahoo! Finance Canada",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Gunnison Copper Advances Toward NYSE American Listing as Copper Reaches Record Highs Yahoo! Finance Canada",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Gunnison Copper Advances Toward NYSE American Listing as Copper Reaches Record Highs Yahoo! Finance Canada",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 12,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -2508,109 +2718,6 @@
       "sentAt": null
     },
     {
-      "id": "665ecf4db2186d7880e6add40334d52003ce57aded536b014b29337f7d9300ff",
-      "titleSourceHash": "5cdd35b230d3d17c2f4c876b7200315dc7b05b3ff250e3d50dc4d8d8792ebe0d",
-      "eventId": "6b057c63384ae67dc1968d17516caec618dae7c9d8be9afd12d6fb151d3a75b7",
-      "title": "Gunnison Copper Advances Toward NYSE American Listing as Copper Reaches Record Highs",
-      "normalizedTitle": "gunnison copper advances toward nyse american listing as copper reaches record highs",
-      "description": "Gunnison Copper Advances Toward NYSE American Listing as Copper Reaches Record Highs Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-10-05T10:00:00.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGNsVTcyWU1IMVc2LTJwSU9SYmlBSElJTGhDX04xYXpoN0Q4d3ZBN2ZWNWN6WmdVbXlrUzRRV1NaTXRTT2xTS09sMlhQOHo2cjdnaklRR29nOEFvdmcxZWxuQ0JTNjhJRHY3VlhRdVgtU1B3T25aRFd2NHhQUGJnTVNnSjhUVm1OLTRYTm5B?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 6,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "COMPANY"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Gunnison Copper Advances Toward NYSE American Listing as Copper Reaches Record Highs",
-      "summaryKo": "Gunnison Copper Advances Toward NYSE American Listing as Copper Reaches Record Highs Yahoo! Finance Canada",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Gunnison Copper Advances Toward NYSE American Listing as Copper Reaches Record Highs Yahoo! Finance Canada",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Gunnison Copper Advances Toward NYSE American Listing as Copper Reaches Record Highs Yahoo! Finance Canada",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 12,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
       "id": "72f560db31384a9a185afda47605ff4d6eda25d78355eecc147109aaaef20104",
       "titleSourceHash": "348854365c0beb7b181296d11ee9df527440c27d40fbc483eb7f60cb43f03387",
       "eventId": "6f55d1e1402e87bcc99d2a4e7c4e4343fde0a58f15d9440f98de5ecd5f48404d",
@@ -2620,7 +2727,7 @@
       "source": "FXEmpire",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-05T09:17:23.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPanFhQUFnV1k5VTVaZzhvV20yWnMxWkRYdjhnV1ZGQlljSzZmeXJEbUQ5OWJjNlNYQURZVXFPQTJ4LVpnZ0YzYlloa2FWalUzM1FuQzVJN0thWXRvcC1FX0xTUHpQMzNCSjUtZ3hwOGxfT1lLbm9zMVpZYXl2LWoyallzWkhlOTZWLWJOcEJxcjQ0YXpob0ExOFpSVWljdUhTT2p2M09HYnF4SGtycUE1Q0lfVmZFNTJCWmdtNWpGVTJiNE8xeXNJ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -2724,8 +2831,8 @@
       "priority": 34,
       "codexStatus": null,
       "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-10-06T02:31:16.015Z"
     },
     {
       "id": "caa4381f909b7fbf7e765b6a6d1bbcb505193b1409cf8fdb2d773dc62e961715",
@@ -3270,7 +3377,7 @@
       "source": "The Mining Gazette",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-05T06:55:41.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcUE4VVVET3JPQlVxd1h4OVBJcm93ZHRtYVlEUG9UVXJnYU9RNVpmdm9YYS1NNGU0a0I4R3dMdGxUQS1yVTY1aTJ4V2NEUGNKQkxYMEVaZ3BmTFlrY0RKamFuUHVBTXhjUjNVb1BZTDVHYjhwSC1yc00zQmRNQjhfWnB1V3M1eXJDSFlvbnlkXzBYMFRkMWU3cm56WmN1UFVLNU9pUHFaX2pTb1pJRHR6d0VB?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -3484,15 +3591,15 @@
     },
     {
       "id": "cdaf9360e6f3e5e07570bfe3c3822bc3cd320185a750d67ad21b5585ff465656",
-      "titleSourceHash": "4511d46733597429bbeaa4ff4d1efe3ae55e5e9a33568a99dc5bda7a09fce1b9",
+      "titleSourceHash": "2e6d59d3d7aa8d8c63147716cb9f265e1782e015f1981203225b69800625d108",
       "eventId": "bd33f15af8355922979b5e98a76e541d275665d2b610f1619e9cf0185a39ecff",
       "title": "Oklahoma primary aluminium releases economic impact study for USD 4 billion smelter project",
       "normalizedTitle": "oklahoma primary aluminum releases economic impact study for usd 4 billion smelter project",
-      "description": "Oklahoma primary aluminium releases economic impact study for USD 4 billion smelter project alcircle.com",
-      "source": "alcircle.com",
+      "description": "Oklahoma primary aluminium releases economic impact study for USD 4 billion smelter project AL Circle",
+      "source": "AL Circle",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-05T06:42:58.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQkJGRDlJZkswTm11MDdSdVJveUVHOGlDa0lvbXVialMyM0I4ZUdVbzZJSElSelctUzMwYUVjQmpQY1NfNi1aZ3lBTkZ5cXNlaVNnVFZneHJoeDhXbFVKVFc3ZHZsaWdCd1FORGZwU2NuS3hyYUhqN1pCUU9KWTA5MEtfMnBUenlwcHNRYnB0MmFRVmtxbDI3ZXRDVzZ0aWZ2R2lPVXJJWjJOMy1vTnQ2Y1BCV3hackpkWDRZcWdOeUd5M3J4M29n?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -3529,7 +3636,7 @@
       ],
       "primaryCategory": "Smelter",
       "titleKo": "Oklahoma primary aluminium releases economic impact study for USD 4 billion smelter project",
-      "summaryKo": "Oklahoma primary aluminium releases economic impact study for USD 4 billion smelter project alcircle.com",
+      "summaryKo": "Oklahoma primary aluminium releases economic impact study for USD 4 billion smelter project AL Circle",
       "marketImpact": "Unclear",
       "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
       "procurementImpact": "UNCLEAR",
@@ -3556,7 +3663,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Oklahoma primary aluminium releases economic impact study for USD 4 billion smelter project alcircle.com",
+        "summary": "Oklahoma primary aluminium releases economic impact study for USD 4 billion smelter project AL Circle",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -3577,7 +3684,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Oklahoma primary aluminium releases economic impact study for USD 4 billion smelter project alcircle.com",
+        "summary": "Oklahoma primary aluminium releases economic impact study for USD 4 billion smelter project AL Circle",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -3923,7 +4030,7 @@
       "source": "Santa Fe New Mexican",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-05T05:30:00.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXpjQTRDLVpTaVBsaGJ5bGJzcERpdXpuS3FTQUZyN1hzenBCUXNxc3BWaDRtTVAzMkR4UDRyS3NtM0pjajJPdW1VcU5HTWw1Vnhpc0YxTklFNGMxcVpoZ0hVTXFET1hVY0cwc2pOWE5rUlJkYTcySC0tVXFGSm5yNndvVFdkVVVaVC1LZ2ZUbDRpeUQtbTVqeG1Kbk91NnVINm52YjhsZVdlNk1Yd0EydXEwem1DN0dsZFU0TklpenNYVDd2VXhSal9MUlQ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -4904,7 +5011,7 @@
       "source": "우먼타임스",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-05T03:00:00.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11SHJvZzZjT0txWWgzcGE2WVliZTZ4TzV2UmN0YWNmQ0xpWWFJVmNjX09TY2hvQmNaN2dYNFN0cDRFQThGZmV1Vkpual8xQVIyOFkwZEJteTFLQmlHb1V6Z2NoM0MzMkdNQ3dVbmtGYTbSAXRBVV95cUxPSGJlTHVpUWxSVE0zMlVKU19mTDZxMnZac0c5VUFxdGdoUDdRUV8yVWNsRkl4UmlGMHljdzNUNVR5clYwVmtwN1ZWZktSRkI2ZGVOMm9iTDAzZEdxbFJkLXNIWjJGMHhmc2J3Nms1ZV95eHJhSg?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -6023,7 +6130,7 @@
       "source": "Simply Wall Street",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-04T17:15:59.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVZoT0t1SW1ybWpyTml1RmZmRmltQ01pQVFmY2lHYlFQd1ByZU5zbmg3RF9sV3NvX1hySnNVTDFGZ1lHZmc4NnU5WG9qYWxqZThaOVJudWNNREprNHJ0UXYxX0VUaDVxZUZWOGs1OGk4YWtYLUZVMGx6NzVYc2lGRE9qRDRtSHRidk5vS2o0OWdtYVpla3NETU9lVdIBmwFBVV95cUxPLVZoT0t1SW1ybWpyTml1RmZmRmltQ01pQVFmY2lHYlFQd1ByZU5zbmg3RF9sV3NvX1hySnNVTDFGZ1lHZmc4NnU5WG9qYWxqZThaOVJudWNNREprNHJ0UXYxX0VUaDVxZUZWOGs1OGk4YWtYLUZVMGx6NzVYc2lGRE9qRDRtSHRidk5vS2o0OWdtYVpla3NETU9lVQ?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -19505,7 +19612,7 @@
       "source": "Georgia Laurie",
       "feedSource": "International Tin Association",
       "publishedAt": "2026-10-01T09:29:13.000Z",
-      "fetchedAt": "2026-10-05T22:39:13.559Z",
+      "fetchedAt": "2026-10-06T02:31:16.015Z",
       "url": "https://www.internationaltin.org/patented-process-recovers-high-purity-tin-from-e-waste",
       "language": "en",
       "commodity": "TIN",
@@ -33624,144 +33731,6 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-09-29T17:01:58.200Z"
-    },
-    {
-      "id": "78eaacfb1a234775f2d540041a6bae8b586a569ee90d3d950fb85713cc31e1a1",
-      "titleSourceHash": "bb6055e8fa43ef06b6c728172817171afa21b2b3b27230b0ecf13152e48704ad",
-      "eventId": "c481347c9425a168d62f0193727a569b7a44379290c5b3bcb11d1b7cc8c4a06f",
-      "title": "광산 파업 위협이 달러와 유가 강세를 상쇄하면서 구리 가격은 안정세를 보이고 있다",
-      "normalizedTitle": "광산 파업 위협이 달러와 유가 강세를 상쇄하면서 구리 가격은 안정세를 보이고 있다",
-      "description": "광산 파업 위협이 달러와 유가 강세를 상쇄하면서 구리 가격은 안정세를 보이고 있다 TradingView",
-      "source": "TradingView",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-09-29T16:29:05.000Z",
-      "fetchedAt": "2026-09-29T21:24:43.673Z",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HYUZxYjJDU0JFVGJsbTdUNDFNeVdkT0xpRUVPamNrN1BnWjBOb1F4ZG5WN28zUXhQOTRRZTBiRnVVWFM3R245Y21waUxXMXRlY0gxMTBKdUhneEtqR3Bsdkc4R3ZTdlNXT2p6b1F6dFJLcUgwMlFCMw?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "가격",
-        "광산",
-        "파업"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "가격",
-            "광산",
-            "파업"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "MINE",
-        "STRIKE",
-        "FX"
-      ],
-      "primaryCategory": "Labor Disruption",
-      "titleKo": "광산 파업 위협이 달러와 유가 강세를 상쇄하면서 구리 가격은 안정세를 보이고 있다",
-      "summaryKo": "광산 파업 위협이 달러와 유가 강세를 상쇄하면서 구리 가격은 안정세를 보이고 있다 TradingView",
-      "marketImpact": "Bullish",
-      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-      "procurementImpact": "NEGATIVE",
-      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "IMMEDIATE",
-      "confidence": "MEDIUM",
-      "signals": [
-        "Supply Tightening",
-        "Supply Disruption",
-        "Price Increase Risk"
-      ],
-      "keyEvidence": [
-        "파업"
-      ],
-      "conflictingSignals": false,
-      "codexReviewEvent": true,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "PRICE",
-          "MINE",
-          "STRIKE",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "광산 파업 위협이 달러와 유가 강세를 상쇄하면서 구리 가격은 안정세를 보이고 있다 TradingView",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "파업"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "PRICE",
-          "MINE",
-          "STRIKE",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "광산 파업 위협이 달러와 유가 강세를 상쇄하면서 구리 가격은 안정세를 보이고 있다 TradingView",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "파업"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "priority": 42,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Material event taxonomy; High-impact event requires evidence review",
-      "sent": true,
-      "sentAt": "2026-09-29T21:24:43.673Z"
     }
   ]
 }
