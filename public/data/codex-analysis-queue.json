@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T21:03:10.462Z",
+  "generatedAt": "2026-10-07T00:44:11.970Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -1065,6 +1065,16 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-06T13:57:00.000Z"
+    },
+    {
+      "id": "9260cbe5e7b6f683cf23dec1380465c68b7a1179be0af826d21b769cc54266b3",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[속보] 구리포천고속도로 목동교 인근 화물차 사고 발생",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "이투데이",
+      "publishedAt": "2026-10-06T23:35:00.000Z"
     },
     {
       "id": "ed177fced0d09127ebf61ebfd3d854ef0ce9a7ad0d60d2ac371d577a9df990e9",
@@ -2727,6 +2737,16 @@
       "publishedAt": "2026-10-06T16:46:44.000Z"
     },
     {
+      "id": "7d8b818eb770dd35717b14f8db1172bb74c0ba059a8e634381ee5e9a52183c34",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "This Arizona copper mine doesn’t have an open pit",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Eastern Arizona Courier",
+      "publishedAt": "2026-10-07T00:00:00.000Z"
+    },
+    {
       "id": "15c09ea4de6cf2650ede3a2e0c0b9a9c29bc9f0484a00b9616d798c8f54bc797",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3635,6 +3655,16 @@
       "codexStatus": "PENDING",
       "source": "Kalkine Media",
       "publishedAt": "2026-10-05T18:12:00.000Z"
+    },
+    {
+      "id": "1b86d8c1fdf29c12026d32e707397a3c66e700745d959c190b1c2c1d96b66cef",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Chilean Codelco hands prosecutors evidence of suspected double-counted copper output",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "BNamericas",
+      "publishedAt": "2026-10-06T20:59:42.000Z"
     },
     {
       "id": "649baa7534578408d21954269bee7b1481d5ef03d401878ce7491cf14677e719",
@@ -4975,36 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Investing.com 한국어",
       "publishedAt": "2026-10-02T00:06:00.000Z"
-    },
-    {
-      "id": "6e43a1f0fa21cb8d546fa7b171e60a51e839fc8738d6771f4a7887e10803d07a",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Southern Copper Corp (SCCO) Shares Surge 3.2% -- What GF Score o",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "GuruFocus",
-      "publishedAt": "2026-10-02T21:33:45.000Z"
-    },
-    {
-      "id": "8319abe6abac91d1f80abe0e69f2241cf67751ed0e993364a47c9ca620d7f97f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Southern Copper Corp Stock (SCCO) Closed Up by 3.17% on Oct 2: Facts Behind the Movement",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingKey",
-      "publishedAt": "2026-10-02T20:15:19.000Z"
-    },
-    {
-      "id": "afdd19522ad2d519c1113e222984564e4df5b47ac9902ec526c52f56eec71a16",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper mining left 200 million tons of waste in Michigan's Torch Lake, and crews are now removing contami",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-03T04:10:00.000Z"
     }
   ]
 }

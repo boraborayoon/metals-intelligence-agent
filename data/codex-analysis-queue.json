@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T21:03:10.462Z",
+  "generatedAt": "2026-10-07T00:44:11.970Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -4273,6 +4273,48 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-06T16:17:05.092Z",
       "updatedAt": "2026-10-06T16:17:05.092Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "9260cbe5e7b6f683cf23dec1380465c68b7a1179be0af826d21b769cc54266b3",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "[속보] 구리포천고속도로 목동교 인근 화물차 사고 발생",
+      "summary": "[속보] 구리포천고속도로 목동교 인근 화물차 사고 발생 이투데이",
+      "source": "이투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LQTl6aEZjNkNvY2JaR0d3MWpBMGllQV83bXVURkNqc1VjSU1zM0NMQllkYU9zSV8wZExpQV9YM21Ycy1yQWZXQU5RU0gzSzE4aTQyd0JIU0VnazZZVDgyaWEzdDVMTzdtR0xObWxEbHFwRGI1?oc=5",
+      "publishedAt": "2026-10-06T23:35:00.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Operational Accident",
+        "categories": [
+          "ACCIDENT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[속보] 구리포천고속도로 목동교 인근 화물차 사고 발생 이투데이",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "사고"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-07T00:44:11.970Z",
+      "updatedAt": "2026-10-07T00:44:11.970Z",
       "analyzedAt": null
     },
     {
@@ -10416,6 +10458,42 @@
       "analyzedAt": null
     },
     {
+      "id": "7d8b818eb770dd35717b14f8db1172bb74c0ba059a8e634381ee5e9a52183c34",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "This Arizona copper mine doesn’t have an open pit",
+      "summary": "This Arizona copper mine doesn’t have an open pit Eastern Arizona Courier",
+      "source": "Eastern Arizona Courier",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQzRoYnd4LUFLU3A5TmozUjBpdUxxX3NVZnI0ZHlzRnhNcmd1eG5nLW5vQWhxbFVBaUYzUkFOWWZ1WjhFQU52U29fV1hESktqRFBQMjhLYVo3c1ZyaE9lUGY2bkllVkdfNDVJbEJpMk42OHJqY2dHNzZLOU1SU01QRVR5WTExUWJnVDkzMnY3RElGTFk0amNGSFZFdzFoTDMxX3RUR1BGQ09ZTGU3QWpKYTNYalpXeFU2OFJpcTJGUlUxOTBwdjUyc091bw?oc=5",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "This Arizona copper mine doesn’t have an open pit Eastern Arizona Courier",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-07T00:44:11.970Z",
+      "updatedAt": "2026-10-07T00:44:11.970Z",
+      "analyzedAt": null
+    },
+    {
       "id": "15c09ea4de6cf2650ede3a2e0c0b9a9c29bc9f0484a00b9616d798c8f54bc797",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -13774,6 +13852,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-05T22:39:13.559Z",
       "updatedAt": "2026-10-05T22:39:13.559Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "1b86d8c1fdf29c12026d32e707397a3c66e700745d959c190b1c2c1d96b66cef",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Chilean Codelco hands prosecutors evidence of suspected double-counted copper output",
+      "summary": "Chilean Codelco hands prosecutors evidence of suspected double-counted copper output BNamericas",
+      "source": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWkVzOUZFMklNYUsyaWw5LUQzaDI1MG1ha001WVpOTzltZDZTZERZbWY1UXZ4R2hhS29ILWZGQVF6SW5veTdwcklTVXNXVkJKRDVoOXgza3pqRVU0TFBYb0k0XzRiUGdKcW90cVpqWXVnZnVWcnhma1pmVUYteHVOOGNaM2RCMm1iQXZCRmtKWThKTF9raHgwUkZsZ09BZzk1OHRlMGR1Z2tJTzk0Y3NaTTZMcTNuTlVONUFv?oc=5",
+      "publishedAt": "2026-10-06T20:59:42.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Chilean Codelco hands prosecutors evidence of suspected double-counted copper output BNamericas",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-07T00:44:11.970Z",
+      "updatedAt": "2026-10-07T00:44:11.970Z",
       "analyzedAt": null
     },
     {
@@ -18842,114 +18956,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-02T05:48:39.459Z",
       "updatedAt": "2026-10-02T05:48:39.459Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "6e43a1f0fa21cb8d546fa7b171e60a51e839fc8738d6771f4a7887e10803d07a",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Southern Copper Corp (SCCO) Shares Surge 3.2% -- What GF Score o",
-      "summary": "Southern Copper Corp (SCCO) Shares Surge 3.2% -- What GF Score o GuruFocus",
-      "source": "GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSnc0clJMNVpobXZIYVBfbmNwSVEtT1NkZHh3UDg3LW8tX2NkUjZ4Ukt3bkJ2Z2VnelZSUTJmdzkzNW5Ea2lCdTlSTG5YbmtnYTJ6eFEzVzdXb3ZwTi1IYTVlT2pWM0ExQW1XbnZtX3lSMmRRaVcyTFY1Z1JiMllrNDVlRUxkeURNUElheW9oc0pPNWNFSURweVNOR21BdEtKSUJvQ0IyelpjTlVzeFlBVXZUTzBHWEE?oc=5",
-      "publishedAt": "2026-10-02T21:33:45.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Southern Copper Corp (SCCO) Shares Surge 3.2% -- What GF Score o GuruFocus",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-02T22:15:59.361Z",
-      "updatedAt": "2026-10-02T22:15:59.361Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "8319abe6abac91d1f80abe0e69f2241cf67751ed0e993364a47c9ca620d7f97f",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Southern Copper Corp Stock (SCCO) Closed Up by 3.17% on Oct 2: Facts Behind the Movement",
-      "summary": "Southern Copper Corp Stock (SCCO) Closed Up by 3.17% on Oct 2: Facts Behind the Movement TradingKey",
-      "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX0F0QUtUZnBNQzlTZktDbTg1aDJwQUhVSmRfQjNFX0hmNlFvTHNDRmFpZXRPR3NWVjZ4Tjh0M29pUl91bWd3X1ZDUXlFRXBOdVdac2lKN1dQWWNmNDVDUmF6cTlzSUVhUE1ZRzRIcXJfU1Jra2czYnlEdjdwMW5kNENKb1lPcThDZnFR?oc=5",
-      "publishedAt": "2026-10-02T20:15:19.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Southern Copper Corp Stock (SCCO) Closed Up by 3.17% on Oct 2: Facts Behind the Movement TradingKey",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-02T22:15:59.361Z",
-      "updatedAt": "2026-10-02T22:15:59.361Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "afdd19522ad2d519c1113e222984564e4df5b47ac9902ec526c52f56eec71a16",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper mining left 200 million tons of waste in Michigan's Torch Lake, and crews are now removing contami",
-      "summary": "Copper mining left 200 million tons of waste in Michigan's Torch Lake, and crews are now removing contami The Times of India",
-      "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxObTJJdG82ak1rcFFjX0JLdUlsZEd0UGtMR0p1SHpQay1kdU82VmEzY3lQYjZ4NjZjMlVUYVljUC1BQmIxYVdad3BuUFZVWjBSVzR3eTVkY2Q5Y2FMR2FNUTI0cUs4OXFRVEM0UnVrYU16Q0FYMFlsX3c1bFJWeWNFcEJqa3RkVF9PMjVkeG1nbWdXZE91N2ZHa0h3VE02cV9GTjNHcFdmWlpobnppdkZUX25hOHpGd2pZbUNKMUl1b1hRSnJQVm9vTjZ5dklQTGRQZ0pkRzh0RWpPVG1XS3ZhQjNSNmtWcGh0b0txLXUzNFdWQmNBYVBQWlhuVjY4cGZkS0FDUm1ZbjYxVmlacFNLWk0zWUZVUnJkYUxwZGlmc0lXUzFidFA1R093VWxYNmp3WkxXODBOdk0tR1FXbFhOedIBxgJBVV95cUxONEd6MDZGckQ4TFdqZlRwNndfbDl4Y0ZxVHA3WWExVDZzZzc3Z1lrWEx3X2NSM3Fsckh3b3piTWNkUmpUMmdJcEFqbEQ0d0hpckJub2VuUlplcDQtYVUtQXdYcVZhcTlkMnFyY0JPYlRsN1QyN0JhdTVuYUdDWl9hR2pub2RKSmpBSnBrVXJZOUl2QzhZTzg0anNrOHk1Vzhwc1I0V1d4UWU2M09CUXNmTUo0RDUySXFtUzlhaXZyeDB5RlpGT2Q1MkEwUnltOXBZNEJBdVVvM3EtZUVTcDJ6d2Y1WWdxS0VzSkdCVVFUc21YZTU3NnhDV29Mc0NjUVoyb3R0anFmdWlONXdMemNmTnBENEpfUWRTZWJKUmRVNDdYeFNZSEUwcHRkR3ZnWDREZ1BYYUgxczg1ZkVjczJ5QVZ0cC1lQQ?oc=5",
-      "publishedAt": "2026-10-03T04:10:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper mining left 200 million tons of waste in Michigan's Torch Lake, and crews are now removing contami The Times of India",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-03T06:36:06.486Z",
-      "updatedAt": "2026-10-03T06:36:06.486Z",
       "analyzedAt": null
     }
   ]
