@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T13:58:24.659Z",
+  "generatedAt": "2026-10-07T19:59:32.520Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -147,6 +147,16 @@
       "publishedAt": "2026-10-07T10:32:34.000Z"
     },
     {
+      "id": "7459951cb9971a0d47337857b8157b2bdd83d0f678500fad602fb13cc9f4db74",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Antofagasta copper miners set to strike after labor talks fail (ANFGF:OTCMKTS)",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-10-07T19:25:10.000Z"
+    },
+    {
       "id": "b5348fb2a91157125ca9c7a4db7db7db903be747b43361280fac1cc6da178afc",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -207,16 +217,6 @@
       "publishedAt": "2026-10-07T02:39:57.000Z"
     },
     {
-      "id": "5bc80f59e417ace7d109d270e4387e1c6008552b8441cd6c77e8f1cd4e8006a0",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper surges 17% YoY to all-time high amid global tariff turmoil | LME Copper 3-month futures rose 0.8% | Inshorts",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Inshorts",
-      "publishedAt": "2026-09-07T17:20:25.000Z"
-    },
-    {
       "id": "4f4aeb5a96b65814afe12987ab93ece2dbd104a5928c7116fcbed58d5974a8fc",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -255,16 +255,6 @@
       "codexStatus": "PENDING",
       "source": "FXEmpire",
       "publishedAt": "2026-09-21T09:50:31.000Z"
-    },
-    {
-      "id": "583eb3d0fa9b0829662f8a9b217565f2bf615abdd294a2345398a9ac1cc21358",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "LME Copper Prices Hit Record on Supply Issues, U.S. Tariff Concerns",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "WSJ",
-      "publishedAt": "2026-09-07T16:42:00.000Z"
     },
     {
       "id": "a010a75b3f96d2ab537024f5979b2b29adbdc70cb883a1c0c2a4e93bde7f9ad4",
@@ -387,16 +377,6 @@
       "publishedAt": "2026-09-15T10:20:00.000Z"
     },
     {
-      "id": "24b1c6f8040258fc4b689e372a3ba4ba90d47b4ac8365defd5b16ef426068036",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper Surges to All-Time High as Tariff Turmoil Rocks Market",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Bloomberg.com",
-      "publishedAt": "2026-09-07T15:08:36.000Z"
-    },
-    {
       "id": "844a6a3a6067f0e7a134f5884e0f214aea99f38cf4cddce268327329b23def76",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -405,16 +385,6 @@
       "codexStatus": "PENDING",
       "source": "finance.biggo.com",
       "publishedAt": "2026-09-07T20:35:00.000Z"
-    },
-    {
-      "id": "335cf1e02fa9b7daadac526858e1106c4544375ba0ed67c40cd29748cf9f4d33",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper Hits Record High at $14,533 per Ton on Tariff Concerns",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "아시아경제",
-      "publishedAt": "2026-09-07T18:16:43.000Z"
     },
     {
       "id": "0df7ec39dc19b6437f23e87db642391fd4e20894a758bcc892a45b133333f365",
@@ -915,6 +885,16 @@
       "codexStatus": "PENDING",
       "source": "Economies.com",
       "publishedAt": "2026-09-30T14:36:00.000Z"
+    },
+    {
+      "id": "25506bbfb40a7c62ffead844ba4f1629ca1ac2bfb2201ad83e960717bf147508",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Steadies As Chile Strike Keeps Supply In Focus",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-10-07T15:27:30.000Z"
     },
     {
       "id": "feb3ea7dbaf2f178ed01250564cd926a3b6479e6979058af4a6fb67ab4e66ea9",
@@ -3697,16 +3677,6 @@
       "publishedAt": "2026-10-07T08:21:01.000Z"
     },
     {
-      "id": "e4f6fda77ff484c089010913c33bee56ddba969bd9bc0626d590630a7a351147",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Chile trade surplus narrows in August, raising pressure on the peso and copper-linked markets",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "vtmarkets.com",
-      "publishedAt": "2026-09-07T18:24:30.000Z"
-    },
-    {
       "id": "7d8a75f5d1222733beffd3a1c03adf6dc7fb1eee8d6a7bce210838e0bb5ae01c",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4397,6 +4367,16 @@
       "publishedAt": "2026-10-06T12:43:30.000Z"
     },
     {
+      "id": "0824abc46e84db390b6be700a8b8d91e7f2334ca4b1a456c134890a38080069f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Anglo American’s Teck Deal Runs Into China’s Copper Demands",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-10-07T18:09:17.000Z"
+    },
+    {
       "id": "5a447a0042dfcbf06a822415d2cc03c88fba0d5c2a2dbf123dced07433b88171",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -5005,6 +4985,26 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-02T04:15:00.000Z"
+    },
+    {
+      "id": "d590f0bc0af0ac5a4894511e2c967d52ecbc7a9164fa9b328cdb65a575fff5c3",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Vizsla Copper logs high-grade silver at Alaska project",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Canadian Mining Journal",
+      "publishedAt": "2026-10-07T18:05:52.000Z"
+    },
+    {
+      "id": "ca0bccae662630dc0cb41a046802205c15f3c84f9a59ca7ae7b31609e49cc886",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "How Gold Shipment Deferrals and Steady Copper Output Could Shape Freeport-McMoRan’s (FCX) Risk Profile",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-07T00:16:00.000Z"
     }
   ]
 }

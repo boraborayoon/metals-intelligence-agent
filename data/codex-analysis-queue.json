@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T13:58:24.659Z",
+  "generatedAt": "2026-10-07T19:59:32.520Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -627,6 +627,49 @@
       "analyzedAt": null
     },
     {
+      "id": "7459951cb9971a0d47337857b8157b2bdd83d0f678500fad602fb13cc9f4db74",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Antofagasta copper miners set to strike after labor talks fail (ANFGF:OTCMKTS)",
+      "summary": "Antofagasta copper miners set to strike after labor talks fail (ANFGF:OTCMKTS) Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUpiNEdCc1BIYzQyUWlDYWdhMDZSdWExeW9rWVIxUXRtUnhCR2d5aHl3SGNyM3phd1NHeDVHS3dnUWJjdmYxWW4ycDlRNi1wT1J1QzQyc3dKckJENGhFbTJTa21vYjg1ZlRmYk11SUFzQW9MdkJ2TTlsM2FtY2Jlb1lmNGRvYndJMUFXNWNRMThxQm9ZTGVSV3ZKSDMtUGctYWc?oc=5",
+      "publishedAt": "2026-10-07T19:25:10.000Z",
+      "priority": 59,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Antofagasta copper miners set to strike after labor talks fail (ANFGF:OTCMKTS) Seeking Alpha",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-07T19:59:32.520Z",
+      "updatedAt": "2026-10-07T19:59:32.520Z",
+      "analyzedAt": null
+    },
+    {
       "id": "b5348fb2a91157125ca9c7a4db7db7db903be747b43361280fac1cc6da178afc",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -887,42 +930,6 @@
       "analyzedAt": null
     },
     {
-      "id": "5bc80f59e417ace7d109d270e4387e1c6008552b8441cd6c77e8f1cd4e8006a0",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper surges 17% YoY to all-time high amid global tariff turmoil | LME Copper 3-month futures rose 0.8% | Inshorts",
-      "summary": "Copper surges 17% YoY to all-time high amid global tariff turmoil | LME Copper 3-month futures rose 0.8% | Inshorts Inshorts",
-      "source": "Inshorts",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUN4Vmk0NVc1alFFdW8tMnNjeTdDY0tiZlU1SFFJYUxJdUlVNHhDbWRxWEVySlc0azNyb0l6SXFvaExweExteFJpOXIzdzRiNHVPNkdScGJhSDI3anltdjR5Ni0yS0lRZWQzZG1uclJGQmQzcW5aUkJSRmFEUjJvVWNpeENoWHVpb3pNZFNJQ2hKVjIyRE5VVUJGRG9acG9sN25xb3I1dnlBS1840gGyAUFVX3lxTE1LRXVPeVNOMmxMSU0xdmdrTTR0UXRlbGgxWEViVVpOZi00dDUtN0d4dlhHeFdqd3k2Rnlhd242M3FBTHpxbVZKb2VJSEZ2RlltaEcxNjNfXzFPUUQzRVZNOVBHWmVWWi0xRVJ5eUtRWUdFMGQ3c3E5bjhNcXd2VHpQNW9FbU8tbkFobGRkNGJURWExSjVfMzd5OWhtcmFyOGNJRk5DOWI3QlJ5NjVVMk1XLVE?oc=5",
-      "publishedAt": "2026-09-07T17:20:25.000Z",
-      "priority": 54,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper surges 17% YoY to all-time high amid global tariff turmoil | LME Copper 3-month futures rose 0.8% | Inshorts Inshorts",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T17:55:54.559Z",
-      "updatedAt": "2026-09-07T17:55:54.559Z",
-      "analyzedAt": null
-    },
-    {
       "id": "4f4aeb5a96b65814afe12987ab93ece2dbd104a5928c7116fcbed58d5974a8fc",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -1079,44 +1086,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-21T11:07:41.084Z",
       "updatedAt": "2026-09-21T11:07:41.084Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "583eb3d0fa9b0829662f8a9b217565f2bf615abdd294a2345398a9ac1cc21358",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "LME Copper Prices Hit Record on Supply Issues, U.S. Tariff Concerns",
-      "summary": "LME Copper Prices Hit Record on Supply Issues, U.S. Tariff Concerns WSJ",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0laWnVlTGVBTnJhSmRlT3Z2T3VPWlU0MXJoMVNGYmlKcDZhMktSMmJUTV9NSjBkU1FHRUhJT21mT2RLdFdsRzRJSE1rd0ZkUFRWUkZtbWVLUjRVLXBRdzVNMWVRQnlHRnhCYUp6MGFqdl82NTdua3hnN24xd1ctUHktVDRidHVfN2NQNGFJdVZIRER2c0lON29hY21GeTVOcVpucExXam1zbkNYTUo3T20yRHNpNFN1QzByYS15NA?oc=5",
-      "publishedAt": "2026-09-07T16:42:00.000Z",
-      "priority": 53,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "LME Copper Prices Hit Record on Supply Issues, U.S. Tariff Concerns WSJ",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T17:55:54.559Z",
-      "updatedAt": "2026-09-07T17:55:54.559Z",
       "analyzedAt": null
     },
     {
@@ -1591,42 +1560,6 @@
       "analyzedAt": null
     },
     {
-      "id": "24b1c6f8040258fc4b689e372a3ba4ba90d47b4ac8365defd5b16ef426068036",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Surges to All-Time High as Tariff Turmoil Rocks Market",
-      "summary": "Copper Surges to All-Time High as Tariff Turmoil Rocks Market Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR1M3UXdwQTNIeXpDUDlEUWVIbFFvZkRtWWJESWt6T1BjQU01UkhDd1ZfSmNOcnhvSVNsWTRaV1ZEODJGbVNoY3dvUmw3WTVrbEkxRXhLNFlNRjlJNzJXMjZwZE5GZjM0MmxZVFZqT21ObUVYcVQ4eEZKZUNHeTJZeXAyLXp1Tk9UU3k3YmV2MFFiNThmVEJPNkRlOVZaWWFjbzlWNWp6cm1vVHhTLTF4eEtBV2tLRnI0NmI4dkxpZlpWU3ZzaGdPejQybERHdw?oc=5",
-      "publishedAt": "2026-09-07T15:08:36.000Z",
-      "priority": 49,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Surges to All-Time High as Tariff Turmoil Rocks Market Bloomberg.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T17:55:54.559Z",
-      "updatedAt": "2026-09-07T17:55:54.559Z",
-      "analyzedAt": null
-    },
-    {
       "id": "844a6a3a6067f0e7a134f5884e0f214aea99f38cf4cddce268327329b23def76",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -1650,42 +1583,6 @@
         "region": "Unclear",
         "regions": [],
         "summary": "London Copper Surges to Record High as Tariff Arbitrage Drains Inventories and Mine Output Declines finance.biggo.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T21:32:32.707Z",
-      "updatedAt": "2026-09-07T21:32:32.707Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "335cf1e02fa9b7daadac526858e1106c4544375ba0ed67c40cd29748cf9f4d33",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Hits Record High at $14,533 per Ton on Tariff Concerns",
-      "summary": "Copper Hits Record High at $14,533 per Ton on Tariff Concerns 아시아경제",
-      "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fMU9zU2hfQ0V5Z3VwNWpudUJBTGZtTXB0bllZM3JDOE9xN2tMdEpUN1pvRW1BdnlsdERkd2RTNHA2cmtRc2lSNnZIaHZqeDZNTTgxc0I4SkNHWmlOSXRMMUhlSkRvSVdkUGZ1dU5ucEYwT1Q5ZDdB?oc=5",
-      "publishedAt": "2026-09-07T18:16:43.000Z",
-      "priority": 49,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Hits Record High at $14,533 per Ton on Tariff Concerns 아시아경제",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -3622,6 +3519,51 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-30T18:08:37.104Z",
       "updatedAt": "2026-09-30T18:08:37.104Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "25506bbfb40a7c62ffead844ba4f1629ca1ac2bfb2201ad83e960717bf147508",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Steadies As Chile Strike Keeps Supply In Focus",
+      "summary": "Copper Steadies As Chile Strike Keeps Supply In Focus Finimize",
+      "source": "Finimize",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaFVsQXNhRmFQWGtvNTZldHlVRXZuNXBWR0RtcWxyT3k0TDJuRzR6UnB3TGNOTVBNeEQ5Q0xkZThWZk9iUHkyUzR6WEdIRFE1NTVlUDhVUGdKWlFBVEFmU1EySUh0TFZQSTVMbW1kUHY2enRFSGE0VnNCRk9Ecjh5Q0RoU0RvVXdNZVE?oc=5",
+      "publishedAt": "2026-10-07T15:27:30.000Z",
+      "priority": 43,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "SUPPLY",
+          "STRIKE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Copper Steadies As Chile Strike Keeps Supply In Focus Finimize",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-07T19:59:32.520Z",
+      "updatedAt": "2026-10-07T19:59:32.520Z",
       "analyzedAt": null
     },
     {
@@ -14024,45 +13966,6 @@
       "analyzedAt": null
     },
     {
-      "id": "e4f6fda77ff484c089010913c33bee56ddba969bd9bc0626d590630a7a351147",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Chile trade surplus narrows in August, raising pressure on the peso and copper-linked markets",
-      "summary": "Chile trade surplus narrows in August, raising pressure on the peso and copper-linked markets vtmarkets.com",
-      "source": "vtmarkets.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTWdEWVRkRWYtSFpMQ05jSmk2QVhWODJ5MmxQQ1EyVWRXRGJONzlCQkZnYnZrV2xEeTRoVjZsT3N5dWZ0Y0hWWmpfeWhOUEE2Y2wyNnFmem1GanotVVVkVURiNmhPRDZkWG9uVUF4Z3l1UWNaVms3Mm4wYkhFREJMUDJkeTl5aEZGOUd0T09LQnJxUldfZE9NZ1psNzFackdPdUp3ZGo3anMyQjJNRnBGRVh6S1NhTkl6UFRJbmxRb0RDTFFaaENHczVMMnBJN0FPZHRqaA?oc=5",
-      "publishedAt": "2026-09-07T18:24:30.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "TRADE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Chile trade surplus narrows in August, raising pressure on the peso and copper-linked markets vtmarkets.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T21:32:32.707Z",
-      "updatedAt": "2026-09-07T23:47:06.298Z",
-      "analyzedAt": null
-    },
-    {
       "id": "7d8a75f5d1222733beffd3a1c03adf6dc7fb1eee8d6a7bce210838e0bb5ae01c",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -16760,6 +16663,45 @@
       "analyzedAt": null
     },
     {
+      "id": "0824abc46e84db390b6be700a8b8d91e7f2334ca4b1a456c134890a38080069f",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Anglo American’s Teck Deal Runs Into China’s Copper Demands",
+      "summary": "Anglo American’s Teck Deal Runs Into China’s Copper Demands Finimize",
+      "source": "Finimize",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUxxRG1uck1vRDE2Z25CUWlwTUNfYlc0bW9OMjVFODJJQkxjT2hTeUs1eHRERHBBRnBBbVJZNmtrUlZxbjIzSnZycllpX3pXdUxmY005X1lEb1dNb04wYUpTRjhUOUZzdkdXLWktdDhUNG5VUkV5SmNqWWlVNndZQ3AxRVhHSG95bDVWOGo0Yw?oc=5",
+      "publishedAt": "2026-10-07T18:09:17.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Anglo American’s Teck Deal Runs Into China’s Copper Demands Finimize",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-07T19:59:32.520Z",
+      "updatedAt": "2026-10-07T19:59:32.520Z",
+      "analyzedAt": null
+    },
+    {
       "id": "5a447a0042dfcbf06a822415d2cc03c88fba0d5c2a2dbf123dced07433b88171",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18977,6 +18919,80 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-02T05:48:39.459Z",
       "updatedAt": "2026-10-02T05:48:39.459Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "d590f0bc0af0ac5a4894511e2c967d52ecbc7a9164fa9b328cdb65a575fff5c3",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Vizsla Copper logs high-grade silver at Alaska project",
+      "summary": "Vizsla Copper logs high-grade silver at Alaska project Canadian Mining Journal",
+      "source": "Canadian Mining Journal",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdzI5YkNmWm14Wk5qYWJNLWM5ZjV1cnlvb0w5X2lxeXVMMDJXc3dSeW16R0ZuLTRFNmg1SV9BYmU0eXBGTF9GQ0dVUmFXUHByWFhyZHJ0YUluXzl5MXJmcDludnliWVBaTWdFOUlMN2JqeU5hZlFKOXpQQXdRN20zMW5WY1FVU09sN1VRd3lBRFEyN3pyYjhGS2N2VlZMcDQ?oc=5",
+      "publishedAt": "2026-10-07T18:05:52.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Vizsla Copper logs high-grade silver at Alaska project Canadian Mining Journal",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-07T19:59:32.520Z",
+      "updatedAt": "2026-10-07T19:59:32.520Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "ca0bccae662630dc0cb41a046802205c15f3c84f9a59ca7ae7b31609e49cc886",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "How Gold Shipment Deferrals and Steady Copper Output Could Shape Freeport-McMoRan’s (FCX) Risk Profile",
+      "summary": "How Gold Shipment Deferrals and Steady Copper Output Could Shape Freeport-McMoRan’s (FCX) Risk Profile Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWlQSHI3UU10d1FVMFUteGRuVmtpZjVGWXpfN0VXUUxrcF9sSjZ6SzBySFlpazAxUndneUZWcERrcnlXaFpSS2l5RXU3djExQ1gyNGxCakM5b192dFJBT2JpaE1oOW1wNFpMeFRJcU5mRlZ2Tk9tWjFDTkR1S1RpbDM3LUNSeDRabzh4LV9oTkg0ZXN6b0huZFczNXJBYjdYZDdMZV8yWlFlMU0?oc=5",
+      "publishedAt": "2026-10-07T00:16:00.000Z",
+      "priority": 32,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "How Gold Shipment Deferrals and Steady Copper Output Could Shape Freeport-McMoRan’s (FCX) Risk Profile Yahoo Finance",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-07T19:59:32.520Z",
+      "updatedAt": "2026-10-07T19:59:32.520Z",
       "analyzedAt": null
     }
   ]
