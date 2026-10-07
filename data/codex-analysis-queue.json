@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T00:44:11.970Z",
+  "generatedAt": "2026-10-07T06:33:03.671Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -445,43 +445,48 @@
       "analyzedAt": null
     },
     {
-      "id": "f83f4bc0eed2c7941b0e10d45bd57f16c9915a2b999ba1adcd5a15e66a3122b1",
-      "commodity": "ALUMINUM",
+      "id": "8289592716037e614fe9cb17e4e2cbc5ee95caab8a770fb21d4e011f354df989",
+      "commodity": "COPPER",
       "subCommodity": null,
-      "title": "EU, 알루미늄 폐기물 OECD 비회원국 수출 전면 금지 추진...알루미늄 스크랩 가격 상승 불가피",
-      "summary": "EU, 알루미늄 폐기물 OECD 비회원국 수출 전면 금지 추진...알루미늄 스크랩 가격 상승 불가피 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd1hsLS1sRUtGT0ROVnhRWHBtQkxQTmVPOEVuWHhqa1lQZzVycFQwYjZady1YdEQ2U1RmTXBaUFlzclhJNE9qc1dQdVRnRDQzNV9qSFhCS2RlSDdqRHo5Mm5PbXhuUDZRMUp2aTJZMy1WZVJaclRyR2h6NDU5UjE5NTRJRmVIUWpT?oc=5",
-      "publishedAt": "2026-09-07T05:39:06.000Z",
-      "priority": 59,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "title": "Workers at Chile's Centinela copper mine set to strike after talks fail",
+      "summary": "Workers at Chile's Centinela copper mine set to strike after talks fail TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0lYdndyQVI3d2N2ZklUMnBCR29JQUEtRDlfQVpLS1kzd3U0akRhZHFzWll5TFdGTHZxNTQwaWlDWjBzQlBJdy0yT196QXdEQi11MlNZRF9zcXNwbEdOejRWMEJRTjJSR1BLXy1zWnJkZWFNRXQzWnlJWVpRbXBYYjZFZ21fRDZJX3FzbENaaHd2U19RRlF2MHVNOVVXUVhSbVRJS21JSmpEMGpISnRGQzBtWVY0b1c3NFlUd21kX0F4YndSUkQ5bmM0WktsdzVzanpjVVBrZGk?oc=5",
+      "publishedAt": "2026-10-07T04:37:00.000Z",
+      "priority": 62,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
       "ruleAnalysis": {
         "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Regulation",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
         "categories": [
-          "PRICE",
-          "EXPORT",
-          "REGULATION"
+          "MINE",
+          "STRIKE"
         ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "EU, 알루미늄 폐기물 OECD 비회원국 수출 전면 금지 추진...알루미늄 스크랩 가격 상승 불가피 글로벌이코노믹",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Workers at Chile's Centinela copper mine set to strike after talks fail TradingView",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
         "signals": [
-          "Export Restriction"
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
         ],
         "urgent": false
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T06:08:15.787Z",
-      "updatedAt": "2026-09-07T06:08:15.787Z",
+      "queuedAt": "2026-10-07T06:33:03.671Z",
+      "updatedAt": "2026-10-07T06:33:03.671Z",
       "analyzedAt": null
     },
     {
@@ -748,6 +753,47 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-30T00:46:32.585Z",
       "updatedAt": "2026-09-30T00:46:32.585Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "1cb1fee4acb62a4968d4f6e46ca21fb47018073e33b04e5fe0954c9f88e29e93",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "McEwen Copper seeks funds from export-import banks",
+      "summary": "McEwen Copper seeks funds from export-import banks LatinFinance",
+      "source": "LatinFinance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0N1UURLU2xPU1pfbVBCTk9Tcy1pbFZpbzhvSWNEM0pOMEpKSWxBS3JEbDNPelUwX3NJbTk0Z0pOREtQVFBEOEo5VmZqNEJHVmdwY0lKdHBEOERTcGFXUzJkTzY3cVpueUtPb2U1cFpqdFFIb2JYcDZFTG1pUGRNR2RaeWNGeFgtNllCNnd6UGo4WU1JVlVZX2Yyb1lIdkZw?oc=5",
+      "publishedAt": "2026-10-07T02:39:57.000Z",
+      "priority": 57,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Regulation",
+        "categories": [
+          "LOGISTICS",
+          "EXPORT",
+          "IMPORT",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "McEwen Copper seeks funds from export-import banks LatinFinance",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Export Restriction"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-07T06:33:03.671Z",
+      "updatedAt": "2026-10-07T06:33:03.671Z",
       "analyzedAt": null
     },
     {
@@ -5096,44 +5142,6 @@
       "analyzedAt": null
     },
     {
-      "id": "3a56f9202ee5033d185220a7f54d15f0041bafc4b0cb4ea999e64ea05441daba",
-      "commodity": "MOLYBDENUM",
-      "subCommodity": null,
-      "title": "Chile's Caserones copper-molybdenum mine was previously affected by ex",
-      "summary": "Chile's Caserones copper-molybdenum mine was previously affected by ex news.metal.com",
-      "source": "news.metal.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ0NrOTFJdVh6VGxJelFYYkgtZ0NpYUtQZ3dZYU55a2wtWWZxaWdsUGE4SHMzeVpGOGpUSXRsLVVFUmJMM192dFdqRnVUZEdNN3BsUG43Q2hFbURybjVIS3FaQ3g3M1M1M0ZuWlMzVHZqUi11bzAyelA5b2hzZ3VRY0s1dGRfbHRaMFU5dkhQN0UtQV9PLVRLc1lPYjB6Q1BSV0FBclZKRUZwY0pJVjZqSE9uUTFHTF95VVBDMk13dlVzWWtYSDYwS0RoaFI5ZHA5WHFzWkhXTVRUanc3ai1pUFFR?oc=5",
-      "publishedAt": "2026-09-07T01:29:08.000Z",
-      "priority": 39,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Chile's Caserones copper-molybdenum mine was previously affected by ex news.metal.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T06:08:15.787Z",
-      "updatedAt": "2026-09-07T06:08:15.787Z",
-      "analyzedAt": null
-    },
-    {
       "id": "8e19774208b2da9e7e9b3d6ae98dce203414299c6a63d95639f560f3f7dac0d3",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -6277,42 +6285,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-06T21:03:10.462Z",
       "updatedAt": "2026-10-06T21:03:10.462Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "fcc4f23c11ac0d327fdcb3db8b54a80678c50a13f2f91b0f8cab350032659a1e",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Price Inflection To 14,000 USD/Ton And Three Stocks To Play It",
-      "summary": "Copper Price Inflection To 14,000 USD/Ton And Three Stocks To Play It Smartkarma",
-      "source": "Smartkarma",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXQ1VGdLMVdnaEFqMGEyNkhORkRJSU1jM0VJaWxWMnlveGpvYm81eVlHUVZVYWpRNmtvdUN4ZFlaQld3dXgyVFMwbUcwTUpWeFBwQTZ4ZnlXYlZHQzFDcExVU3FJVGNBMWdtR1JkY0g2bmZHZE13eFB2RFA5clptS09ETy1UNnA1b3diOXR6RkRTMkkyXy1pMURFOWlNTzVUR0VxeFBkV28?oc=5",
-      "publishedAt": "2026-09-07T02:11:02.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Price Inflection To 14,000 USD/Ton And Three Stocks To Play It Smartkarma",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T06:08:15.787Z",
-      "updatedAt": "2026-09-07T06:08:15.787Z",
       "analyzedAt": null
     },
     {
@@ -10494,6 +10466,78 @@
       "analyzedAt": null
     },
     {
+      "id": "6dfd5991b0cac6ef14b38b75b6c1f1b4fcc8074f75b9e20da651f0ad4c173f6b",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Vedanta Sets Q2 FY2027 Records in Aluminium, Alumina; Oil and Gas Output Drops",
+      "summary": "Vedanta Sets Q2 FY2027 Records in Aluminium, Alumina; Oil and Gas Output Drops Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTk02QnZybUIwT0JnQV91TGpPVjJTMTVZbjZvdHpkaDNBZ2FrYXloZVUyS1NOVktSSlJwRGxDZUZrVXd0WUJTY01ST3lUaHZvTWN6N1c3d3hfb2hKRjg5M1R1RXhZOGtRSHk2a1E2Nk1WOHFUSENJS0habUxQeThpeWRsZHFGQ1U0R2ZmbUIzd0NWOWZCdGFVRVhoUkhnRS1fdEZYXzhkTnNBS1l6Sk05NnJIZXpaRnZydWZkekVoWTFDUQ?oc=5",
+      "publishedAt": "2026-10-07T04:49:00.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Vedanta Sets Q2 FY2027 Records in Aluminium, Alumina; Oil and Gas Output Drops Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-07T06:33:03.671Z",
+      "updatedAt": "2026-10-07T06:33:03.671Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "a8c72194c4a90b6132464eb6a2c63f604967b21479047f2f6666ffc7e2e4cc9d",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper price hovers near key resistance– Forecast today – 7-10-2026",
+      "summary": "Copper price hovers near key resistance– Forecast today – 7-10-2026 Economies.com",
+      "source": "Economies.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHNCV283THM3VGtRcU1zUU1sazRwZHJRSmQ3X3V3dU5XSVhzbU15eDRpSkk1dnZDM2FYLTYza3VzYWxZejF5TlNaMmxicVRWOHRWcms0cl80MkR3Ny1hNldwT0h4MTBjMUhDbUlYSjN4Z0RULUdoR2NrXzNndEw2M3BlYVBISDlwdENHMnBJSmNRREN5eGk5ZnUyNl9ERTdTSGJLQ0RXT1cwTzh1Y3drUDVCbkFiakZJcW1wSUZ0ODJaZkUtUWtuSkZCdDhrbWQ3cmdMQVMxbG5iWE1L?oc=5",
+      "publishedAt": "2026-10-07T04:31:00.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper price hovers near key resistance– Forecast today – 7-10-2026 Economies.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-07T06:33:03.671Z",
+      "updatedAt": "2026-10-07T06:33:03.671Z",
+      "analyzedAt": null
+    },
+    {
       "id": "15c09ea4de6cf2650ede3a2e0c0b9a9c29bc9f0484a00b9616d798c8f54bc797",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -13891,42 +13935,39 @@
       "analyzedAt": null
     },
     {
-      "id": "649baa7534578408d21954269bee7b1481d5ef03d401878ce7491cf14677e719",
+      "id": "5102ca87af941e3c7ea8780756c3553f83a7b4d22f28c5d2a42e7f2620542fd7",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "Price spread between futures contracts constrains purchases, spot premiums under pressure and pulling back [SMM North China spot copper]",
-      "summary": "Price spread between futures contracts constrains purchases, spot premiums under pressure and pulling back [SMM North China spot copper] news.metal.com",
-      "source": "news.metal.com",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObWVPdG1UZ3RfUWwwcGVYWFJyX1RXclI0S0E0MVQybU5DbkJOa2VIT2NjXzdjMHBtNlFadXNkSG5fSlJFeEZadTczVHc2ZUdxZ0ZsUWJ2ZWxXaUtxeEdIVVNBd25lTmRqOHd0emVqU2hleGpTRnVTSHhESUFCSzFONnBJU2k5UkdWa3E3VzRBVUZaa2hWUm5Xdmc0UUw0VE02VEt5THVXSlRxNmh6YjhnaEpYR0hqWnJnSU1ITWd6ZVhZUDc0WDBUVksyNTZEakp2enRRTnoxWThvSGtDMS1MQmVvQmNuSEpiOVAtUVFrYVdGdVlOZVdKbjZmNnViWmJMbTdQTTFWZUl2Um5zSFE?oc=5",
-      "publishedAt": "2026-09-07T03:44:33.000Z",
-      "priority": 35,
+      "title": "Florence Copper begins commercial production, the first new US copper source in nearly two decades",
+      "summary": "Florence Copper begins commercial production, the first new US copper source in nearly two decades 12News",
+      "source": "12News",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQjJXVndRT2ZzNmpVQmVUMDg1bXM4amRHbUI5VEpsTE56TmJXMGZwUjJBNWxLVFExUW9TYS1Xb3pabW95Q2dRdUlrM2M4b1B4WXBPdEppTEtkY2VabEJLN05hWVdnTEV1VFBkc0RTTGJpek9YbG80dnp3MUM0WjhoZW41RXpFaWdyTU9mLXZkOEFlS2RhbTJvSmFXSGxteHdxb3U2d0VjbkpFdWdGUnkyWmJjSmxlZVJGN2p4R1l6V3hqblhnY0tBcGhkNE41bktuWlhOMWZzbU8tYlJKQmlRUlFnaEJQOGtRRkNkWTJRZzFHUjg0d19QeVVjTUtvUWZqeXJKR0dCd3RIYW5KbFhEUVVSTnNYTTVUR1U2RXlVTkY?oc=5",
+      "publishedAt": "2026-10-07T01:53:00.000Z",
+      "priority": 36,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "General",
+        "category": "Production",
         "categories": [
-          "PRICE",
-          "CHINA"
+          "PRODUCTION"
         ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Price spread between futures contracts constrains purchases, spot premiums under pressure and pulling back [SMM North China spot copper] news.metal.com",
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Florence Copper begins commercial production, the first new US copper source in nearly two decades 12News",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
         "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
+        "timeHorizon": "UNCLEAR",
         "signals": [],
         "urgent": false
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-09-07T06:08:15.787Z",
-      "updatedAt": "2026-09-07T06:08:15.787Z",
+      "queuedAt": "2026-10-07T06:33:03.671Z",
+      "updatedAt": "2026-10-07T06:33:03.671Z",
       "analyzedAt": null
     },
     {
@@ -18908,42 +18949,6 @@
         "region": "Unclear",
         "regions": [],
         "summary": "Copper Heads for Weekly Loss as High Energy Costs Limit Demand Bloomberg.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-02T05:48:39.459Z",
-      "updatedAt": "2026-10-02T05:48:39.459Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "4ebdd3ab3416d85174e3fdcee83c40bba067c1f9e37d36c0a25a2cc2c0751a13",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "비철 시황 - 중동 생산 재개에 알루미늄 하락세 지속",
-      "summary": "비철 시황 - 중동 생산 재개에 알루미늄 하락세 지속 Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JYkI5TXotazM1ZzdTdmNldkoxQ194dXFNRndMWk1xTDF6bGJ1QWdvYzlNaU1OXzVpMVBwRHF5QmRHYjRsemY5a2NiRGtvdGFUZDMyM09pM2FSbnFITFMzWA?oc=5",
-      "publishedAt": "2026-10-02T00:06:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "비철 시황 - 중동 생산 재개에 알루미늄 하락세 지속 Investing.com 한국어",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
