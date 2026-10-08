@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T13:33:32.387Z",
+  "generatedAt": "2026-10-08T19:28:47.906Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -257,16 +257,6 @@
       "publishedAt": "2026-10-08T05:41:44.000Z"
     },
     {
-      "id": "a010a75b3f96d2ab537024f5979b2b29adbdc70cb883a1c0c2a4e93bde7f9ad4",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper Stocks Gain, Freeport-McMoRan Surges 7% as Copper Hits Record High Amid Tariff Expectations Reshaping Global Supply",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "TradingKey",
-      "publishedAt": "2026-09-08T15:33:33.000Z"
-    },
-    {
       "id": "6291b133009e473424c68101b3176139e1535f615c2e9156d7b360d97df17333",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -347,16 +337,6 @@
       "publishedAt": "2026-09-28T08:34:15.000Z"
     },
     {
-      "id": "eeb5ffc315c596e2f63f9d3d3085a64915d2ac8b729a71a70223a6271a43551b",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper: Record prices and Chile supply issues – Commerzbank",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "FXStreet",
-      "publishedAt": "2026-09-08T13:57:57.000Z"
-    },
-    {
       "id": "cdfa9161b4b3e31783bc4e2b0477b067efe2ada4e0208e61ce550753c59bfd58",
       "commodity": "ALUMINUM",
       "importance": "HIGH",
@@ -365,16 +345,6 @@
       "codexStatus": "PENDING",
       "source": "Mining Weekly",
       "publishedAt": "2026-09-15T10:20:00.000Z"
-    },
-    {
-      "id": "0dbae45b51eb13b8e851f412172a294b3fe21322b28f81d58ccdb08d7a4f5df1",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper Hits Record High as US Tariff Delay Divides Producers",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Crux Investor",
-      "publishedAt": "2026-09-08T16:59:21.000Z"
     },
     {
       "id": "23f04bf7cddde8dd541352eef9bb2602c7da16d2838f5acdc5073d44f96645f4",
@@ -805,6 +775,16 @@
       "codexStatus": "PENDING",
       "source": "Finimize",
       "publishedAt": "2026-10-07T15:27:30.000Z"
+    },
+    {
+      "id": "b5db51bdf9773f05f9b1baefcddc87d1255b0c2a31e61049aec2ef05ba88cd20",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Rises as Chile Strike Adds to Supply Jitters Ahead of China Buying",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "NAI500",
+      "publishedAt": "2026-10-08T14:12:38.000Z"
     },
     {
       "id": "3fbc01d74faf88eed5c8651afe451ed31a07f50c78506a1ebfb049b13fe5b931",
@@ -1435,16 +1415,6 @@
       "codexStatus": "PENDING",
       "source": "Newsquawk",
       "publishedAt": "2026-10-06T16:07:30.000Z"
-    },
-    {
-      "id": "9fe03a7d2388019152f680a7853541eac1293b45e714297272995dc764e81325",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Price September 9 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Robinhood",
-      "publishedAt": "2026-09-08T18:02:35.000Z"
     },
     {
       "id": "e1b47f7e79570e9d1748a52a8ca357e3858b9b6ef03be632cfb7baf802e9936c",
@@ -2597,6 +2567,16 @@
       "publishedAt": "2026-10-07T18:14:17.000Z"
     },
     {
+      "id": "dc64810f972c5a9f8db9e5215e0aa5d00b8323598bdc7d15d24181fa81ca0410",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Old Copper Smelter Town Now Site of Research into Fiber Optic Impact on Microgrids",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Microgrid Knowledge",
+      "publishedAt": "2026-10-08T15:00:13.000Z"
+    },
+    {
       "id": "0a2fc0446672ccb1214b9a156cb3787d1c6139d7dff9e89c9f9aa6a2ebd529f4",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2765,26 +2745,6 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-06T18:26:13.000Z"
-    },
-    {
-      "id": "f71d427ad2b87e94969f6432370fa98e6eb65865d1a20d015878a54f1a846727",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리(Copper) CEO 아마르 쿠치나드(Amar Kuchinad), 인수 후보자 탐색 중 2년 만에 사임",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "coindesk.com",
-      "publishedAt": "2026-09-08T15:23:46.000Z"
-    },
-    {
-      "id": "b11c17058cfe65481775c910b13722fd1d74cf7bc16230c2f6261667b4fc9b63",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리 가격 사상 최고치 $14,694/톤 돌파…Freeport-McMoRan 급등",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com 한국어",
-      "publishedAt": "2026-09-08T14:29:00.000Z"
     },
     {
       "id": "0e8da5a0c6cc6d6e402258945abdcbeddf2e2b6788a9a02973ff1ae437b78f56",
@@ -3517,14 +3477,14 @@
       "publishedAt": "2026-10-08T10:45:50.000Z"
     },
     {
-      "id": "99cca6c082f84894cfbb57a9a0b2414725df64fce36b5c94674ae8fa7a67a21e",
+      "id": "b6ea4949f02d05196caee35df8af612e5d0b5456835b9944d50fdde16ec011f8",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "China Expands Overseas Aluminum Projects as Domestic Production Hits Its Capacity Ceiling",
+      "title": "How Is Alcoa (NYSE:AA) Reacting to Supply Shifts as Aluminum Demand Broadens?",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Межа. Новини України.",
-      "publishedAt": "2026-09-08T15:34:01.000Z"
+      "source": "Kalkine Media",
+      "publishedAt": "2026-10-08T18:24:00.000Z"
     },
     {
       "id": "02b9f6e731017de543113de124d2cca96990c48363a2b5fa5b6e828428d65e68",
@@ -4824,27 +4784,7 @@
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "ChemAnalyst",
-      "publishedAt": "2026-10-08T13:03:10.000Z"
-    },
-    {
-      "id": "1194aa6aeee31fef0a514edafcfbabaec140b9eb313e7a11ea20eb96cd8e036a",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Ivanhoe’s Kamoa-Kakula Lifted Copper Output, But Kept Guidance",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Finimize",
-      "publishedAt": "2026-10-08T12:49:46.000Z"
-    },
-    {
-      "id": "9cd1c3b3f6749c09cda541b6af902fb5040896702ecde033b90641983e222184",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Barlow’s Research Roundup: Top picks in copper miners as commodity price hits new highs",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Globe and Mail",
-      "publishedAt": "2026-10-08T12:18:42.000Z"
+      "publishedAt": "2026-10-08T13:31:27.000Z"
     },
     {
       "id": "c91a89b79e16328d19b3bf4a2e9e8e0b7b007958aa690a5917b9c318a619c9c7",
@@ -4867,14 +4807,34 @@
       "publishedAt": "2026-10-08T11:06:19.000Z"
     },
     {
-      "id": "273f36db096136d4a63781659193c322a176281fb38b4c32a765cc5c116d43b7",
+      "id": "ab0faf5c47a6f5920dc02cdb0fd8b1d320d6d1c2eb30e77c6ac8c63964b5f4e4",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Copper holds firm on tight supply as dollar and oil weigh on industrial metals",
-      "reasonForCodexReview": "Rule direction is unclear",
+      "title": "Ivanhoe Mines posts higher Q3 copper output but sees full year at low end of guidance",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
       "codexStatus": "PENDING",
       "source": "TradingView",
-      "publishedAt": "2026-10-08T10:35:21.000Z"
+      "publishedAt": "2026-10-08T16:35:22.000Z"
+    },
+    {
+      "id": "e6f8cb94c7354d912bfd3ea504793933ff5713e21ea03d5798b6406b3cb91da0",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Semiconductor Demand Drains Tin Stocks With No New Supply Before 2029",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Crux Investor",
+      "publishedAt": "2026-10-08T14:52:37.000Z"
+    },
+    {
+      "id": "8bfeb0eee62290d5079c92843eedeacdcd9fde4e79ba4f2ee0907f746e5d7a4d",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Aluminium Ion Battery Market To 2035: Stationary Storage Demand Drives 28.5% CAGR - News and Statistics",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-10-08T14:01:04.000Z"
     },
     {
       "id": "ca0bccae662630dc0cb41a046802205c15f3c84f9a59ca7ae7b31609e49cc886",
@@ -4907,6 +4867,36 @@
       "publishedAt": "2026-10-08T04:25:00.000Z"
     },
     {
+      "id": "1194aa6aeee31fef0a514edafcfbabaec140b9eb313e7a11ea20eb96cd8e036a",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Ivanhoe’s Kamoa-Kakula Lifted Copper Output, But Kept Guidance",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-10-08T12:49:46.000Z"
+    },
+    {
+      "id": "9cd1c3b3f6749c09cda541b6af902fb5040896702ecde033b90641983e222184",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Barlow’s Research Roundup: Top picks in copper miners as commodity price hits new highs",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Globe and Mail",
+      "publishedAt": "2026-10-08T12:18:42.000Z"
+    },
+    {
+      "id": "273f36db096136d4a63781659193c322a176281fb38b4c32a765cc5c116d43b7",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper holds firm on tight supply as dollar and oil weigh on industrial metals",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-08T10:35:21.000Z"
+    },
+    {
       "id": "bbcfa15cfd48dc71110cb52cb3173d17b2978be693dfe2312a13175f1ee2a688",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4915,16 +4905,6 @@
       "codexStatus": "PENDING",
       "source": "Yahoo Finance",
       "publishedAt": "2026-10-07T20:50:04.000Z"
-    },
-    {
-      "id": "c4eb38bc89d79d501f843b2489644462f6fbd7b978692250f88ae80a63407caf",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "COMMENTARY: Tin rides the AI investment wave to a new price dimension",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Reuters",
-      "publishedAt": "2026-10-07T13:36:00.000Z"
     },
     {
       "id": "6e1f01bc17deaa9af188d9aa7bc56e70ad579b1ac1dc9605c39482a21ef118f7",
@@ -4987,6 +4967,26 @@
       "publishedAt": "2026-10-08T00:50:22.000Z"
     },
     {
+      "id": "020effa961161c0226244c73e356247f84e30f9a978d80ac29509133c311b4e9",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Ivanhoe's Congo copper production jumps 19% in third quarter",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-08T12:35:34.000Z"
+    },
+    {
+      "id": "8547b26517927668d52264b609412de4350b010a8f5d303b8f69e8cb11ae2f5d",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Trekor Metals - Raises Gibraltar Copper Production Guidance To 115-120 Million Pounds For 2026",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-08T12:07:33.000Z"
+    },
+    {
       "id": "1cde2579000a93d583f4c4f6813fa362d75dc6ecd4f4187d844d63e2710b760c",
       "commodity": "TIN",
       "importance": "MEDIUM",
@@ -4997,14 +4997,14 @@
       "publishedAt": "2026-10-07T13:27:29.000Z"
     },
     {
-      "id": "d0ddbe98acf4c75a65dbc1b60b0aefe94bd75cec404457607c0caa383b0642dd",
+      "id": "c582fda6477b807ec473ce790b2b5bb8801a6f0e90cafade7ea72704a1b3d4b5",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "[수출입] 8월 비철 원자재 수출입 동반 감소…전년比 전기동·아연 수출 부진",
+      "title": "Marimaca Copper Promotes Peter Garner-Winship to CFO as Copper Project Advances Toward Construction",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "철강금속신문",
-      "publishedAt": "2026-10-07T05:07:13.000Z"
+      "source": "citybiz",
+      "publishedAt": "2026-10-08T13:12:07.000Z"
     }
   ]
 }
