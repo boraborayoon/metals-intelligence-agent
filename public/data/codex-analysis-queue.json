@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T19:28:47.906Z",
+  "generatedAt": "2026-10-08T23:58:09.295Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -645,6 +645,16 @@
       "codexStatus": "PENDING",
       "source": "Межа. Новини України.",
       "publishedAt": "2026-09-29T18:25:24.000Z"
+    },
+    {
+      "id": "0dc5b25e0efff06cc3a11195540e2c33fd76b2edd8173b9eec30ad0eb5a4eea4",
+      "commodity": "TIN",
+      "importance": "HIGH",
+      "title": "The 1918 Rescue That Gave Hollywood Rin Tin Tin, the Dog Credited with Saving Warner Bros. from Bankruptcy",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "People.com",
+      "publishedAt": "2026-10-08T22:21:00.000Z"
     },
     {
       "id": "1e1b334d24db35ddf5854e2af01aa1890bb556889448787ef96498b1d51b4886",
@@ -2577,6 +2587,26 @@
       "publishedAt": "2026-10-08T15:00:13.000Z"
     },
     {
+      "id": "e3e0717028aecfd54097615aa47da7757fb824209b94f9ee323ef76dbee2f8e4",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Drummond asks DEQ to revise proposed rules, continues fight against Inola aluminum smelter",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Oklahoma Farm Report",
+      "publishedAt": "2026-10-08T20:03:21.000Z"
+    },
+    {
+      "id": "45408eba863349023f53273e7041d79e0bf4ab9c26da20c658048d5aa67f3eac",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Price October 9 2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Robinhood",
+      "publishedAt": "2026-10-08T18:02:07.000Z"
+    },
+    {
       "id": "0a2fc0446672ccb1214b9a156cb3787d1c6139d7dff9e89c9f9aa6a2ebd529f4",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2745,16 +2775,6 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-06T18:26:13.000Z"
-    },
-    {
-      "id": "0e8da5a0c6cc6d6e402258945abdcbeddf2e2b6788a9a02973ff1ae437b78f56",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "A Look at Southern Copper Corp (SCCO) After 4.9% Gain -- GF Value $143.22 vs Price $208.56",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "GuruFocus",
-      "publishedAt": "2026-09-08T21:29:39.000Z"
     },
     {
       "id": "909a9748620f6c945a89dd2a57b01e1cbb1328d0c376ddbd0833f83eb399ea9d",
@@ -3485,16 +3505,6 @@
       "codexStatus": "PENDING",
       "source": "Kalkine Media",
       "publishedAt": "2026-10-08T18:24:00.000Z"
-    },
-    {
-      "id": "02b9f6e731017de543113de124d2cca96990c48363a2b5fa5b6e828428d65e68",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "CUAI - Copper Intelligence Extensive Drilling Program Continues to Validate Significant Copper System at Butembo, Eastern DRC",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing News Network",
-      "publishedAt": "2026-09-08T19:35:18.000Z"
     },
     {
       "id": "7727ce9843b3e72f0f9d840e5813576481528c24d55f3223189882262bb219fe",
@@ -4827,14 +4837,34 @@
       "publishedAt": "2026-10-08T14:52:37.000Z"
     },
     {
-      "id": "8bfeb0eee62290d5079c92843eedeacdcd9fde4e79ba4f2ee0907f746e5d7a4d",
-      "commodity": "ALUMINUM",
+      "id": "a6e35d35840b0982264f1a2242ee9e00482d66fae87a3bcd2f9124ad558945ed",
+      "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Aluminium Ion Battery Market To 2035: Stationary Storage Demand Drives 28.5% CAGR - News and Statistics",
+      "title": "With town dispute settled, Florence Copper opens new domestic mining production",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-10-08T14:01:04.000Z"
+      "source": "Cronkite News",
+      "publishedAt": "2026-10-08T23:13:19.000Z"
+    },
+    {
+      "id": "c62bb6b1681e2048b36b47ed23c842fff62e056c948ba609e01e137ef2149356",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "CME : Copper futures slide over 1% as Fed minutes dampen demand.",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "www.marketscreener.com",
+      "publishedAt": "2026-10-08T21:20:12.000Z"
+    },
+    {
+      "id": "6f53359833264a04546c441d5be255123f02c65d2a23c9f3f89f1ca0f3e11e2c",
+      "commodity": "MOLYBDENUM",
+      "importance": "MEDIUM",
+      "title": "Molybdenum heads for 6th straight deficit, record prices: BMO",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining.com",
+      "publishedAt": "2026-10-08T20:44:45.000Z"
     },
     {
       "id": "ca0bccae662630dc0cb41a046802205c15f3c84f9a59ca7ae7b31609e49cc886",
@@ -4865,6 +4895,16 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-08T04:25:00.000Z"
+    },
+    {
+      "id": "8bfeb0eee62290d5079c92843eedeacdcd9fde4e79ba4f2ee0907f746e5d7a4d",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Aluminium Ion Battery Market To 2035: Stationary Storage Demand Drives 28.5% CAGR - News and Statistics",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-10-08T14:01:04.000Z"
     },
     {
       "id": "1194aa6aeee31fef0a514edafcfbabaec140b9eb313e7a11ea20eb96cd8e036a",
@@ -4965,46 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "버핏연구소",
       "publishedAt": "2026-10-08T00:50:22.000Z"
-    },
-    {
-      "id": "020effa961161c0226244c73e356247f84e30f9a978d80ac29509133c311b4e9",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Ivanhoe's Congo copper production jumps 19% in third quarter",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-08T12:35:34.000Z"
-    },
-    {
-      "id": "8547b26517927668d52264b609412de4350b010a8f5d303b8f69e8cb11ae2f5d",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Trekor Metals - Raises Gibraltar Copper Production Guidance To 115-120 Million Pounds For 2026",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-08T12:07:33.000Z"
-    },
-    {
-      "id": "1cde2579000a93d583f4c4f6813fa362d75dc6ecd4f4187d844d63e2710b760c",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Alphamin focuses on exploration as Q3 output steady",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Freddie Mitchell",
-      "publishedAt": "2026-10-07T13:27:29.000Z"
-    },
-    {
-      "id": "c582fda6477b807ec473ce790b2b5bb8801a6f0e90cafade7ea72704a1b3d4b5",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Marimaca Copper Promotes Peter Garner-Winship to CFO as Copper Project Advances Toward Construction",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "citybiz",
-      "publishedAt": "2026-10-08T13:12:07.000Z"
     }
   ]
 }
