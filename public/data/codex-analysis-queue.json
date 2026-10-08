@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T06:10:32.124Z",
+  "generatedAt": "2026-10-08T13:33:32.387Z",
   "counts": {
-    "PENDING": 490,
+    "PENDING": 500,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -237,6 +237,26 @@
       "publishedAt": "2026-09-21T09:50:31.000Z"
     },
     {
+      "id": "454b0796e22958deef038f5de546e0ee7864a5af10e31f32b401e79e532d00fb",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Copper squeeze: Copper inventory sentiment signalled tightening ahead of Q3’s return to backwardation",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Disruption Banking",
+      "publishedAt": "2026-10-08T08:24:06.000Z"
+    },
+    {
+      "id": "79069d275b643dec1de337b7192a5c90b731ba583c60d9187e9b790e6c3a2219",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Copper Climbs As China Restocking Meets Fresh Mine Strike Risks",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-10-08T05:41:44.000Z"
+    },
+    {
       "id": "a010a75b3f96d2ab537024f5979b2b29adbdc70cb883a1c0c2a4e93bde7f9ad4",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -345,56 +365,6 @@
       "codexStatus": "PENDING",
       "source": "Mining Weekly",
       "publishedAt": "2026-09-15T10:20:00.000Z"
-    },
-    {
-      "id": "1221e7c430d3f42e71a87155a47d7e5701f824d196e4b88f7f1903a96eb8a63d",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper Hits Record $14,617 as US Tariff Fears Trigger Stockpiling",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Share Talk",
-      "publishedAt": "2026-09-08T08:10:36.000Z"
-    },
-    {
-      "id": "ba267b3f1c99a2f6beb5028969a81de24217d00017875ddb531eec5271a1d25b",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper's record rally fuelled by US tariff fears, supply crunch, Experts see further upside",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "ANI News",
-      "publishedAt": "2026-09-08T07:27:00.000Z"
-    },
-    {
-      "id": "b17bdcfeb69fd68b62647a83399890b0e21a8100465b9d72f3d3843d67fa0604",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper climbs to new record high on tariff fears, tight supply (CPER:NYSEARCA)",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Seeking Alpha",
-      "publishedAt": "2026-09-08T12:35:25.000Z"
-    },
-    {
-      "id": "101599c80765a2c990bee08c846f35bbb5a1cb76d15737afcb4f1a8cbe44ea4a",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper rally sets record LME price as US tariff fears fuel supply ‘scramble’",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "scmp.com",
-      "publishedAt": "2026-09-08T12:00:13.000Z"
-    },
-    {
-      "id": "53ea2519f4f7af4af57840008eea236c9d836000140e1813b2c98013595e8956",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "How US Tariff Fears Are Driving Record Copper Prices",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Bloomberg.com",
-      "publishedAt": "2026-09-08T11:59:00.000Z"
     },
     {
       "id": "0dbae45b51eb13b8e851f412172a294b3fe21322b28f81d58ccdb08d7a4f5df1",
@@ -595,6 +565,26 @@
       "codexStatus": "PENDING",
       "source": "101 WIXX",
       "publishedAt": "2026-09-23T21:26:47.000Z"
+    },
+    {
+      "id": "b76dc803847158ce19e20cea91c296af2dec763505b289b619ce6e9e53d64dc0",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "KeyBanc lowers Kaiser Aluminum stock price target on valuation",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Investing.com",
+      "publishedAt": "2026-10-08T12:17:21.000Z"
+    },
+    {
+      "id": "e21ccc55e721d956cc1631f1a60e2a0033f5ad367cab6d06169e2d6d223d2949",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Chilean Centinela Copper Mine Workers Strike, Adding Further Uncertainty to Global Copper Supply",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "NAI500",
+      "publishedAt": "2026-10-08T08:06:30.000Z"
     },
     {
       "id": "ed29eb6b8c5219d7c54fdfa085f1a61a92c1415462ab951688e494606db42d26",
@@ -1167,24 +1157,14 @@
       "publishedAt": "2026-09-30T21:28:19.000Z"
     },
     {
-      "id": "1e10fcb33fa174aa93ab0b772a43dd61096184dfb3a62b18be6a9eee70627b19",
+      "id": "ba1c14506e5b5d984c852ec24ecc6359b7048bb7d9e03244bd40e8eb7e090df5",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "High Copper Prices and Weakening Demand Dampen Production Enthusiasm at Copper Cathode Rod Enterprises [SMM Analysis]",
-      "reasonForCodexReview": "Rule direction is unclear",
+      "title": "칠레 구리광산 파업에 공급 차질 우려…구리값 또 상승",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
       "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-08T10:05:40.000Z"
-    },
-    {
-      "id": "1584cb260f8633ed3530943ec0ccf82a64e8691bc1f26827cb38b2ee3582630a",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Metals broadly rose, LME copper hit a record high, SHFE zinc gained over 2%, SHFE silver, SHFE copper, and coking coal rose more than 1% [SMM midday comment]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-08T06:49:59.000Z"
+      "source": "더구루",
+      "publishedAt": "2026-10-08T04:48:53.000Z"
     },
     {
       "id": "c8a50a02e70eaba524f2a429ba51d71bff5776b6b62c231b8b5929b64da5ff46",
@@ -3527,24 +3507,14 @@
       "publishedAt": "2026-10-07T08:21:01.000Z"
     },
     {
-      "id": "b047d312267bdeb359d37c4afb85c7c38c458898661fc0bfbf4a9a9f7e12490e",
-      "commodity": "COPPER",
+      "id": "1c1cf9044a1cb58972a58e03ef4fa852408dcd632b33d8749436a8face9d8b14",
+      "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "Chile should improve copper smelters before building more, Cochilco says",
+      "title": "람동성 출신 국회의원 대표단은 보크사이트-알루미늄 프로젝트로 인해 발생하는 토지 관련 문제를 조사했습니다.",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Mining Weekly",
-      "publishedAt": "2026-09-08T06:56:00.000Z"
-    },
-    {
-      "id": "a666ae526b4e1d9eab367235789d36fe4ae56ba205034e671c2439626bb56cbf",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "CUAI - Copper Intelligence Extensive Drilling Program Continues to Validate Significant Copper System at Butembo, Eastern DRC",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-09-08T12:01:00.000Z"
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-08T10:45:50.000Z"
     },
     {
       "id": "99cca6c082f84894cfbb57a9a0b2414725df64fce36b5c94674ae8fa7a67a21e",
@@ -4847,14 +4817,64 @@
       "publishedAt": "2026-10-07T21:00:51.000Z"
     },
     {
-      "id": "bbcfa15cfd48dc71110cb52cb3173d17b2978be693dfe2312a13175f1ee2a688",
+      "id": "38fce32ea1e0c5a728ce5e26e7e20db9e7b7bc40c7298ff66a1b1e1070623a6b",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Here's Why Southern Copper (SCCO) Fell More Than Broader Market",
+      "title": "Ivanhoe Mines’ Q3 Copper Output Surges as Zinc Hits Record High",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-10-07T20:50:04.000Z"
+      "source": "ChemAnalyst",
+      "publishedAt": "2026-10-08T13:03:10.000Z"
+    },
+    {
+      "id": "1194aa6aeee31fef0a514edafcfbabaec140b9eb313e7a11ea20eb96cd8e036a",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Ivanhoe’s Kamoa-Kakula Lifted Copper Output, But Kept Guidance",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-10-08T12:49:46.000Z"
+    },
+    {
+      "id": "9cd1c3b3f6749c09cda541b6af902fb5040896702ecde033b90641983e222184",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Barlow’s Research Roundup: Top picks in copper miners as commodity price hits new highs",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Globe and Mail",
+      "publishedAt": "2026-10-08T12:18:42.000Z"
+    },
+    {
+      "id": "c91a89b79e16328d19b3bf4a2e9e8e0b7b007958aa690a5917b9c318a619c9c7",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Heemskirk tin zone extension: design and stope implications for mine engineers",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Geomechanics.io",
+      "publishedAt": "2026-10-08T12:16:36.000Z"
+    },
+    {
+      "id": "290720dde98e79c236e33546f831dd6d2fa1fa8a4d97cf4fbab02290ac9490ef",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Pacific Ridge Exploration Signs Exploration Agreements with Tsay Keh Dene Nation for the Kliyul and RDP Copper-Gold Projects",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Junior Mining Network",
+      "publishedAt": "2026-10-08T11:06:19.000Z"
+    },
+    {
+      "id": "273f36db096136d4a63781659193c322a176281fb38b4c32a765cc5c116d43b7",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper holds firm on tight supply as dollar and oil weigh on industrial metals",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-08T10:35:21.000Z"
     },
     {
       "id": "ca0bccae662630dc0cb41a046802205c15f3c84f9a59ca7ae7b31609e49cc886",
@@ -4867,6 +4887,36 @@
       "publishedAt": "2026-10-07T00:16:00.000Z"
     },
     {
+      "id": "d38d72a9c260a2c21aed1d7a612420f5fa37257b2d198407479cb95bfa925cbc",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Great Southern Copper Secures £2 Mln Funding To Advance Mostaza Copper-Silver Discovery",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-08T06:38:00.000Z"
+    },
+    {
+      "id": "7ed05e096de5b3ea029184101458df31fbe19a1ab3e828ac02bdfcb000145616",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper rallies on mine supply fears, China's return from holiday",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-08T04:25:00.000Z"
+    },
+    {
+      "id": "bbcfa15cfd48dc71110cb52cb3173d17b2978be693dfe2312a13175f1ee2a688",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Here's Why Southern Copper (SCCO) Fell More Than Broader Market",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-07T20:50:04.000Z"
+    },
+    {
       "id": "c4eb38bc89d79d501f843b2489644462f6fbd7b978692250f88ae80a63407caf",
       "commodity": "TIN",
       "importance": "MEDIUM",
@@ -4874,7 +4924,7 @@
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "Reuters",
-      "publishedAt": "2026-10-07T13:39:05.000Z"
+      "publishedAt": "2026-10-07T13:36:00.000Z"
     },
     {
       "id": "6e1f01bc17deaa9af188d9aa7bc56e70ad579b1ac1dc9605c39482a21ef118f7",
@@ -4897,6 +4947,46 @@
       "publishedAt": "2026-10-07T12:20:34.000Z"
     },
     {
+      "id": "f709ff1052f0eb7cfdbe54285d204662d34fe527a0128552fa921cffe32ea9f0",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "LS Cable & System Invests Additional ₩20 Billion in Korea Future Materials to Expand North American Copper Recycling Supply Chain",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "BigGo Finance",
+      "publishedAt": "2026-10-08T07:05:00.000Z"
+    },
+    {
+      "id": "fd7445c62d502cf8fab33f2e1f187e661930ce526edb8e849a3f66aef1f98eb7",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Great Southern Copper raises £2 million to advance Mostaza towards a resource",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Vox Markets",
+      "publishedAt": "2026-10-08T06:54:03.000Z"
+    },
+    {
+      "id": "6d62e8837e4d5d0c5fc82c3503fb2739b4fecb748e79cbd555c725afc9e4883c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Kings volleyball swings past Gremlins",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Mining Gazette",
+      "publishedAt": "2026-10-08T05:51:27.000Z"
+    },
+    {
+      "id": "bb7d65cbc0669cdbb0e2d0ed4153cc238a066d7917007070ee01918ce7c75fb2",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[원자재] 코델코, 구리 생산량 부풀렸나… 2개 사업부 과대계상 정황",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "버핏연구소",
+      "publishedAt": "2026-10-08T00:50:22.000Z"
+    },
+    {
       "id": "1cde2579000a93d583f4c4f6813fa362d75dc6ecd4f4187d844d63e2710b760c",
       "commodity": "TIN",
       "importance": "MEDIUM",
@@ -4905,6 +4995,16 @@
       "codexStatus": "PENDING",
       "source": "Freddie Mitchell",
       "publishedAt": "2026-10-07T13:27:29.000Z"
+    },
+    {
+      "id": "d0ddbe98acf4c75a65dbc1b60b0aefe94bd75cec404457607c0caa383b0642dd",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[수출입] 8월 비철 원자재 수출입 동반 감소…전년比 전기동·아연 수출 부진",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "철강금속신문",
+      "publishedAt": "2026-10-07T05:07:13.000Z"
     }
   ]
 }
