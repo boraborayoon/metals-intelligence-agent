@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T00:13:17.370Z",
+  "generatedAt": "2026-10-08T06:10:32.124Z",
   "counts": {
-    "PENDING": 500,
+    "PENDING": 490,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -207,16 +207,6 @@
       "publishedAt": "2026-10-07T02:39:57.000Z"
     },
     {
-      "id": "4f4aeb5a96b65814afe12987ab93ece2dbd104a5928c7116fcbed58d5974a8fc",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper Prices Surge as Tariff Arbitrage Triggers LME Copper Short Squeeze [SMM Copper Morning Meeting Summary]",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "SMM Metal",
-      "publishedAt": "2026-09-08T01:41:15.000Z"
-    },
-    {
       "id": "9f4529d3e5281aa818912051a2d67cf6ab7013854f114d7009c9c96fffebbb64",
       "commodity": "TIN",
       "importance": "HIGH",
@@ -327,16 +317,6 @@
       "publishedAt": "2026-09-23T21:00:21.000Z"
     },
     {
-      "id": "e696a4120e946f7553186cdaa7308181c9f44373ed6f6347e1c6dc4be49f38f3",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Oil and Copper Prices Surge in Tandem as US-Iran Conflict and Tariff Expectations Converge — Copper Hits Record High",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "finance.biggo.com",
-      "publishedAt": "2026-09-08T03:55:00.000Z"
-    },
-    {
       "id": "0d072629c5fafc0bae599aba69f98056975828f6c309665e334b31753da79e5f",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -365,36 +345,6 @@
       "codexStatus": "PENDING",
       "source": "Mining Weekly",
       "publishedAt": "2026-09-15T10:20:00.000Z"
-    },
-    {
-      "id": "0df7ec39dc19b6437f23e87db642391fd4e20894a758bcc892a45b133333f365",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper Prices Hit Record High Amid US Tariff Risks and Mine Collapse",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "news.sbs.co.kr",
-      "publishedAt": "2026-09-08T05:14:00.000Z"
-    },
-    {
-      "id": "93cc7e5ecd4bb52571e5323153a5928b0392ef5edbbfc453520ce3c5a6576932",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "1년새 47% 오른 반도체 핵심 원자재 ‘구리’…미 관세 영향에 또 급등",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "매일경제",
-      "publishedAt": "2026-09-08T04:11:45.000Z"
-    },
-    {
-      "id": "7c03a74be861b4b1af5ada6c6dcb90b776ac357a49df6c397fefff574ed10bd9",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper Hits New Record on LME as US Tariff Fears Reroute Metal and Pinch Supply",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Briefs Finance",
-      "publishedAt": "2026-09-08T01:33:01.000Z"
     },
     {
       "id": "1221e7c430d3f42e71a87155a47d7e5701f824d196e4b88f7f1903a96eb8a63d",
@@ -737,16 +687,6 @@
       "publishedAt": "2026-09-29T18:25:24.000Z"
     },
     {
-      "id": "13247119aaa30fb082aaaa10b14907568357d9995446fd76832056cd895034e1",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper Hits Record High as U.S. Tariff Fears Drain Global Supply",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Seoul Economic Daily",
-      "publishedAt": "2026-09-08T01:18:01.000Z"
-    },
-    {
       "id": "1e1b334d24db35ddf5854e2af01aa1890bb556889448787ef96498b1d51b4886",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -875,26 +815,6 @@
       "codexStatus": "PENDING",
       "source": "Finimize",
       "publishedAt": "2026-10-07T15:27:30.000Z"
-    },
-    {
-      "id": "ab49e0e8ae2061f7235505e5ce94f30a27ba059c02a35398e1ac7288aca17d24",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "美관세 우려에 칠레 공급 차질까지...구리값 사상 최고",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "중앙이코노미뉴스",
-      "publishedAt": "2026-09-08T00:22:38.000Z"
-    },
-    {
-      "id": "008ba1280a2f3953e02897ebefe00f6771e142eb92c5c58e1b90647e6c723b6c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Advances As Supply Shortage Outlook And Softer Dollar Lift Sentiment By Kedia Advisory",
-      "reasonForCodexReview": "Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Investing.com India",
-      "publishedAt": "2026-09-08T05:25:51.000Z"
     },
     {
       "id": "3fbc01d74faf88eed5c8651afe451ed31a07f50c78506a1ebfb049b13fe5b931",
@@ -2867,16 +2787,6 @@
       "publishedAt": "2026-10-06T18:26:13.000Z"
     },
     {
-      "id": "b8890ee99d11800d8e1048c8349bb857e23c2d8f5b260e0c09923e33fbc82102",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Hindustan Copper Share Price Rises 4% As Copper Hits Record High; Valuation Now Key",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "NDTV Profit",
-      "publishedAt": "2026-09-08T04:00:42.000Z"
-    },
-    {
       "id": "f71d427ad2b87e94969f6432370fa98e6eb65865d1a20d015878a54f1a846727",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4357,26 +4267,6 @@
       "publishedAt": "2026-09-14T12:03:00.000Z"
     },
     {
-      "id": "c124b1ca28a82b4ec2fa50370721b0e70ebfcbd7ce714b05abd51c1b49f14b41",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper price begins to rise– Forecast today – 8-9-2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Economies.com",
-      "publishedAt": "2026-09-08T05:09:00.000Z"
-    },
-    {
-      "id": "467191ede14f7c2e41301830334e6d2383f37aa3e21a59dc76def536a8ba072f",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "알멕 11%·이구산업 8%↑…구리·알루미늄 가격 상승에 비철금속株 '불기둥'",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "핀포인트뉴스",
-      "publishedAt": "2026-09-08T02:15:17.000Z"
-    },
-    {
       "id": "673b4a3a10f54ec9ed861703e687c65aebd82046d8dcb8956b6defd738260429",
       "commodity": "TIN",
       "importance": "MEDIUM",
@@ -5005,6 +4895,16 @@
       "codexStatus": "PENDING",
       "source": "IndexBox",
       "publishedAt": "2026-10-07T12:20:34.000Z"
+    },
+    {
+      "id": "1cde2579000a93d583f4c4f6813fa362d75dc6ecd4f4187d844d63e2710b760c",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Alphamin focuses on exploration as Q3 output steady",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Freddie Mitchell",
+      "publishedAt": "2026-10-07T13:27:29.000Z"
     }
   ]
 }
