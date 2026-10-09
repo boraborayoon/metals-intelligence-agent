@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T19:01:23.031Z",
+  "generatedAt": "2026-10-09T23:17:04.714Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -155,6 +155,16 @@
       "codexStatus": "PENDING",
       "source": "Seeking Alpha",
       "publishedAt": "2026-10-07T19:25:10.000Z"
+    },
+    {
+      "id": "d9625ace5db3acf6d71a4da540c21488989aaf2052d91d3207dff844723aa849",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Antofagasta Miners Escalate Copper Strike With Hunger Protest",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-10-09T18:31:54.000Z"
     },
     {
       "id": "b5348fb2a91157125ca9c7a4db7db7db903be747b43361280fac1cc6da178afc",
@@ -1455,16 +1465,6 @@
       "codexStatus": "PENDING",
       "source": "International Mining",
       "publishedAt": "2026-10-09T07:33:40.000Z"
-    },
-    {
-      "id": "353ee671d84f1aeb4ff7d790553f9cacc91c47e301ab6ca501fcfc74b4ccfb17",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Supply Faces First Annual Decline Since 2017",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "USFunds",
-      "publishedAt": "2026-09-09T19:46:16.000Z"
     },
     {
       "id": "ef3a5a5271f624aaa05af127918acf125e032f6135af202487c2a4f7d5b7c5af",
@@ -3497,6 +3497,26 @@
       "publishedAt": "2026-10-09T16:19:00.000Z"
     },
     {
+      "id": "58081fd0cceac11d97228d401a7c7f77e82cc0e8c34644d3ed2307fefb138314",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Southern Copper Jumps as Copper Rally Lifts Miner Shares",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Quiver Quantitative",
+      "publishedAt": "2026-10-09T21:20:00.000Z"
+    },
+    {
+      "id": "2e89a0309eb5f9ab8a203c36f4d64a9e2981158a0a024fee5c1edf9fc0edcb84",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "How Investors May Respond To Jiangxi Copper Stock (SEHK:358) Supply Deal With JCC Group",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Simply Wall Street",
+      "publishedAt": "2026-10-09T19:40:13.000Z"
+    },
+    {
       "id": "8281e1be2fe998cf4caaec3d24a950ddbc89d142d5d8791fccf4a6bb78849b0c",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4907,16 +4927,6 @@
       "publishedAt": "2026-10-09T18:32:22.000Z"
     },
     {
-      "id": "4898aa5ac0faa2913de4e0484e310a5ae0a2c9a5f3a0187972064396ce7fce87",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper rebounds from losses despite renewed demand concerns",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Economies.com",
-      "publishedAt": "2026-10-09T13:27:00.000Z"
-    },
-    {
       "id": "026173a28aa5ad1c31ce70e6f5598912a4b3a65e3853445d858a8cdb5923e896",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4925,6 +4935,16 @@
       "codexStatus": "PENDING",
       "source": "Mining Weekly",
       "publishedAt": "2026-10-09T10:41:00.000Z"
+    },
+    {
+      "id": "c3d352453be1cd06886d0958620b6f200fcc8303de200cd84f86e224f98498fa",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "First copper mining operation in U.S. since 2008 officially launches in Florence",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Tucson Sentinel",
+      "publishedAt": "2026-10-09T21:25:00.000Z"
     },
     {
       "id": "3d730318612a432bc0f8c4655950518549b404c114564754838ce5e17932fbb0",
@@ -4985,26 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-10-09T05:30:00.000Z"
-    },
-    {
-      "id": "fe39962eab1b598515a4a76a2855b142b3c9918daa24700e89fedfc9cd6e62f7",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper, Uranium and Lithium Forecast: China Buying Fuels Copper Rebound",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "FXEmpire",
-      "publishedAt": "2026-10-09T09:21:12.000Z"
-    },
-    {
-      "id": "5da6ec553aa3a6fb0828de625836dac66425daf82cdec06b358456e3453a941e",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper rebounds as supply risks, China demand lend support",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-09T03:49:00.000Z"
     }
   ]
 }

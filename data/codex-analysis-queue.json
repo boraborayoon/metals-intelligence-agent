@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T19:01:23.031Z",
+  "generatedAt": "2026-10-09T23:17:04.714Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -668,6 +668,49 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-07T19:59:32.520Z",
       "updatedAt": "2026-10-07T19:59:32.520Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "d9625ace5db3acf6d71a4da540c21488989aaf2052d91d3207dff844723aa849",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Antofagasta Miners Escalate Copper Strike With Hunger Protest",
+      "summary": "Antofagasta Miners Escalate Copper Strike With Hunger Protest Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkFFYTd6Szc1ZDdhRnN2bFNDaF9PUXJNbmVueHJ0ZkhabXRJbnJjRkxZQWlfcGpEVldsX3ZoT2dfYXI5TWZHMkY5Qk4wWUozeEtka3VQdWFxMWJobl9UQi02RzJNOVBzdVRpd1BtVXhlZDZ1UndvdGd2TnNTeGJDaVN4Wm1EMU9GU0pWVGZpc1R4b0xfbUQ0WEY2S1ExM3FXaVdiQVFoOVVmWXhSTkNnbzNR?oc=5",
+      "publishedAt": "2026-10-09T18:31:54.000Z",
+      "priority": 59,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Antofagasta Miners Escalate Copper Strike With Hunger Protest Bloomberg.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-09T23:17:04.714Z",
+      "updatedAt": "2026-10-09T23:17:04.714Z",
       "analyzedAt": null
     },
     {
@@ -5811,42 +5854,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-09T13:20:27.131Z",
       "updatedAt": "2026-10-09T13:20:27.131Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "353ee671d84f1aeb4ff7d790553f9cacc91c47e301ab6ca501fcfc74b4ccfb17",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Supply Faces First Annual Decline Since 2017",
-      "summary": "Copper Supply Faces First Annual Decline Since 2017 USFunds",
-      "source": "USFunds",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblBxNi12cUdlcW1CZGx3MzFTbUxlN3RfTXozWlM5RUQ0SHBwSTQ2ZUlnT0FHcF9DekRmVEJiZW52RXFsQlVnLWFNMHlLRTJXVDM0WkJ3cmFueW1hLS1aLWdwYVVfeVpUUlBBeEFpOWota09NdGNZeV9XT3BueVVBVGhEaV9makduTDFCcmxB?oc=5",
-      "publishedAt": "2026-09-09T19:46:16.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Supply Faces First Annual Decline Since 2017 USFunds",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-09T20:57:21.953Z",
-      "updatedAt": "2026-09-09T20:57:21.953Z",
       "analyzedAt": null
     },
     {
@@ -13311,6 +13318,78 @@
       "analyzedAt": null
     },
     {
+      "id": "58081fd0cceac11d97228d401a7c7f77e82cc0e8c34644d3ed2307fefb138314",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Southern Copper Jumps as Copper Rally Lifts Miner Shares",
+      "summary": "Southern Copper Jumps as Copper Rally Lifts Miner Shares Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkFyNjlOdWdQSUpXRlp5VU5WZE5tckxBU281cWIyanB3Ul85YklJdWMwT0lGZXB6MHJaMVZQNUs5bllRaUxSQ0RGU3FkeWJCejAzeC1ueUY2Wl9kSTFiNU11NEZKT3B5bm5qU0cwakNiUXE2Vnp5dzJUNm4xNmJONVRYYjVLN1BHS25YNnhiUXhFZGs?oc=5",
+      "publishedAt": "2026-10-09T21:20:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Southern Copper Jumps as Copper Rally Lifts Miner Shares Quiver Quantitative",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-09T23:17:04.714Z",
+      "updatedAt": "2026-10-09T23:17:04.714Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "2e89a0309eb5f9ab8a203c36f4d64a9e2981158a0a024fee5c1edf9fc0edcb84",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "How Investors May Respond To Jiangxi Copper Stock (SEHK:358) Supply Deal With JCC Group",
+      "summary": "How Investors May Respond To Jiangxi Copper Stock (SEHK:358) Supply Deal With JCC Group Simply Wall Street",
+      "source": "Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUy0zb0FkbFdoWl9Qc2JYajU0cXk0Um1YQ2M1WjdUQ1RFZjBreU8wTXZlMzhaNUhUY3FCelZrSHNJVjMwMUJMTUU0M3NBNmZndjBWcm1aVUhlbC00TTRvS1ViM20wYmQyOEg4Z0dIYXhYLWVpcnZycTQ5NlZEVnFfLTJmMEVzMTYtYW9vS3pYMzNSUHYtUlM2TGFQUzQyTlNwUUQyVnhleVJiN1ZZUWdUalYxSkViWmxES0pLUFNWRWY5Z3FsamNJWXRxWjNQTFp1QW5F0gHYAUFVX3lxTFBXLUJURkJoeS16bzN4c1Q5aTFhRktZZUVDU0NrZXNhZllVMlBJZ1VTSkJyRHNFXzBBZkRXN0x1UU5FU0pZWEcteGt2ZVU0WlhUR2hZeHVLa0R1eVFwN2g3NDZXU1RZMjJHLUJKRzFPcHlpU0dXZzEzOURJczJoZ09oUUtJMkcwRHl4a0M5SURVbXNQOWJvZS1lMFpGVHVTYlo1eURtaFFkZUFGclJHREhXUTNpVGtOUXIzZzBsOG14QkxRbjV1V080alVmd3hIWXItVXY0VDV0UA?oc=5",
+      "publishedAt": "2026-10-09T19:40:13.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "How Investors May Respond To Jiangxi Copper Stock (SEHK:358) Supply Deal With JCC Group Simply Wall Street",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-09T23:17:04.714Z",
+      "updatedAt": "2026-10-09T23:17:04.714Z",
+      "analyzedAt": null
+    },
+    {
       "id": "8281e1be2fe998cf4caaec3d24a950ddbc89d142d5d8791fccf4a6bb78849b0c",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18618,43 +18697,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-09T19:01:23.031Z",
-      "updatedAt": "2026-10-09T19:01:23.031Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "4898aa5ac0faa2913de4e0484e310a5ae0a2c9a5f3a0187972064396ce7fce87",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper rebounds from losses despite renewed demand concerns",
-      "summary": "Copper rebounds from losses despite renewed demand concerns Economies.com",
-      "source": "Economies.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3lEcWJhYmoyYXBySHRCa0pXQW1jUDFFUk50S0x0blI5TDhTSG5iWXYyUHNHalFxTVdISXRBLVI3TlhRSkVVV0x4X2Z2UlRfMTA0dFJ5QlcwUkptN1VSakZYeXBnNzFEbDcwREpwR3FHbmtlTW9HMTRXMkJjRVVJakppOXdOQlB3eTg5bXlTN0wtMEZjTldQU25VeG90eG9pU2xRQVFWLW15Vi1qM2dHRlJ2ZEc0dw?oc=5",
-      "publishedAt": "2026-10-09T13:27:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper rebounds from losses despite renewed demand concerns Economies.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-09T19:01:23.031Z",
-      "updatedAt": "2026-10-09T19:01:23.031Z",
+      "updatedAt": "2026-10-09T23:17:04.714Z",
       "analyzedAt": null
     },
     {
@@ -18691,6 +18734,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-09T19:01:23.031Z",
       "updatedAt": "2026-10-09T19:01:23.031Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "c3d352453be1cd06886d0958620b6f200fcc8303de200cd84f86e224f98498fa",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "First copper mining operation in U.S. since 2008 officially launches in Florence",
+      "summary": "First copper mining operation in U.S. since 2008 officially launches in Florence Tucson Sentinel",
+      "source": "Tucson Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZXF0V0Z1ZnRyRnE0ZHZRTko4eFlDM0MxeHVuSEJkeWxGVUwyV1Q3MDBuLTNEakRTUDVzQ0dWd0FGb0wtVnpHeEtGT0JfMWxWMVUxTEZQeVhiQU4zS3gtdzdoRUpRX0RXQnd6czl2MHpOeF9iUHg0QTlMWmFtTDlWN285T0dIbEZzTjFjLWpPRTJHUWtWdTMyVkNGSnZxVnp3ZWo0dVIzR2YwQWlURm1Dd3U2RmtJT0F5am9xV2lLMmJPeU16cW9KYUJ5SzBKd0otTUE1eHVqSQ?oc=5",
+      "publishedAt": "2026-10-09T21:25:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "First copper mining operation in U.S. since 2008 officially launches in Florence Tucson Sentinel",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-09T23:17:04.714Z",
+      "updatedAt": "2026-10-09T23:17:04.714Z",
       "analyzedAt": null
     },
     {
@@ -18764,7 +18843,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-09T13:20:27.131Z",
-      "updatedAt": "2026-10-09T19:01:23.031Z",
+      "updatedAt": "2026-10-09T23:17:04.714Z",
       "analyzedAt": null
     },
     {
@@ -18911,85 +18990,6 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-09T13:20:27.131Z",
-      "updatedAt": "2026-10-09T13:20:27.131Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "fe39962eab1b598515a4a76a2855b142b3c9918daa24700e89fedfc9cd6e62f7",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper, Uranium and Lithium Forecast: China Buying Fuels Copper Rebound",
-      "summary": "Copper, Uranium and Lithium Forecast: China Buying Fuels Copper Rebound FXEmpire",
-      "source": "FXEmpire",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMFk4NnRKbUlOcFpoTDBsUlRHd2ZiWVphSHRlcEtOdl9TbmZjZFBNbGlOZmgzbU9uOW5LY3QxNXdUVUVjOFlVUHRhcWpNV0wtamhmQWY3RVBfc0RBVGx5V2xvWjRhMGdGN0FvOGY1YXJPRHZWVjNkSVRXcWV3LTh5MTRibjJ3SEl1QWRYNVgxM1JtMzJEMXlqMVp6M2tselJ2LVplRG9zcHZEVExicnNKMTY4bHFMSWhTS3Y5WkIwcUdTbHo2MlRz?oc=5",
-      "publishedAt": "2026-10-09T09:21:12.000Z",
-      "priority": 31,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper, Uranium and Lithium Forecast: China Buying Fuels Copper Rebound FXEmpire",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-09T13:20:27.131Z",
-      "updatedAt": "2026-10-09T19:01:23.031Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "5da6ec553aa3a6fb0828de625836dac66425daf82cdec06b358456e3453a941e",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper rebounds as supply risks, China demand lend support",
-      "summary": "Copper rebounds as supply risks, China demand lend support TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDE3ZTlFbXpfSXFoOFNTZDQtV0wtc2NKZXUydml3SVpIalhjZ09KTUZjbng5UnowY1NWa2UyQm5QMGhoVlZBRm5WZVBIczE1cU0tbDJYdXBPV2QtRmJfaDBiRU5MN1ZDQUpPSXluNkZOcEhMRlMyeEZCUHhUNF9fSFlaNG53dmZYOGFxLWtJXzJodkVSdnk0YmxtUXE3dWNjdmpjemMtdkl6b0hFbGd4Y25TSUpxWmVqZTJBVkNtaWhuY2tDZUE?oc=5",
-      "publishedAt": "2026-10-09T03:49:00.000Z",
-      "priority": 31,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "SUPPLY",
-          "DEMAND",
-          "LOGISTICS",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper rebounds as supply risks, China demand lend support TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-09T06:11:51.260Z",
       "updatedAt": "2026-10-09T13:20:27.131Z",
       "analyzedAt": null
     }
