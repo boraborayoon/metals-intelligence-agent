@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T06:11:51.260Z",
+  "generatedAt": "2026-10-09T13:20:27.131Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -337,6 +337,16 @@
       "publishedAt": "2026-09-23T21:00:21.000Z"
     },
     {
+      "id": "7dae8edd8bb7ee97864401d7094077c4ece2c2ae51f6e5945123abeefa2bbda4",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Deutsche Bank: Historic copper shortage – gold outperforms silver!",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-09T05:39:00.000Z"
+    },
+    {
       "id": "0d072629c5fafc0bae599aba69f98056975828f6c309665e334b31753da79e5f",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -355,16 +365,6 @@
       "codexStatus": "PENDING",
       "source": "Mining Weekly",
       "publishedAt": "2026-09-15T10:20:00.000Z"
-    },
-    {
-      "id": "23f04bf7cddde8dd541352eef9bb2602c7da16d2838f5acdc5073d44f96645f4",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper: Record highs driven by tariff uncertainty – ING",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "FXStreet",
-      "publishedAt": "2026-09-09T09:23:16.000Z"
     },
     {
       "id": "0e3d29bcbed663156fc599c82b7b2301ed6a5c6069f948a94e1b1a4419dcfad7",
@@ -957,16 +957,6 @@
       "publishedAt": "2026-10-09T04:18:00.000Z"
     },
     {
-      "id": "de98721295e3f16b9b9cc9d9220e1777b840d1a2749242bfa66f88befa987177",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Alcoa Corporation Announces Proposed Debt Offering to Finance Cash Consideration for Acquisition of South32’s Bauxite, Alumina and Aluminum Assets",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Business Wire",
-      "publishedAt": "2026-09-09T12:10:00.000Z"
-    },
-    {
       "id": "b522cc512b44d8e7af4537a49703c0e3309ed60af40aa052b013b5cd4d7994ad",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -1437,24 +1427,24 @@
       "publishedAt": "2026-10-06T16:07:30.000Z"
     },
     {
-      "id": "e1b47f7e79570e9d1748a52a8ca357e3858b9b6ef03be632cfb7baf802e9936c",
+      "id": "fabe803d27a6471d0226fb467dbc7f4ec3f82abad10e99725d1b27bbbeb0d9cb",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "The Cheapest Way to Own a Copper Mine Is to Let Someone Else Build It",
+      "title": "FLSmidth secures $54m order for copper mine project in Chile",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "PR Newswire",
-      "publishedAt": "2026-09-09T13:06:00.000Z"
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-09T11:05:01.000Z"
     },
     {
-      "id": "a73c8b3b1b7b1a7444fbe1d94e00457e1b447adb50dc35b3d1382e0d959690ba",
+      "id": "e96b918763d7d50b7d4ad5a3fe03610a87c5171881607b7e57cae31aba1dfc1e",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Eldorado produces first gold, copper concentrate at Skouries in Greece",
+      "title": "FLS wins another copper mine order in Chile for grinding tech including HPGR & ball mill",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Mining Weekly",
-      "publishedAt": "2026-09-09T08:54:00.000Z"
+      "source": "International Mining",
+      "publishedAt": "2026-10-09T07:33:40.000Z"
     },
     {
       "id": "d4fbe247332e86d1ee374e03d5762a351537a272184470ea1a00f45aae5c6952",
@@ -2807,26 +2797,6 @@
       "publishedAt": "2026-10-06T18:26:13.000Z"
     },
     {
-      "id": "202a8d3c6a89b7eb0e2cb9cd3f429be68ec68a2a616f793888efefb93e2c3c9c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Culico Metals and Kharrouba Copper Company Announce Merger To Create High-Grade Moroccan Copper Mining and Exploration Company",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Junior Mining Network",
-      "publishedAt": "2026-09-09T11:52:22.000Z"
-    },
-    {
-      "id": "c3e2e221420fd27884f652e72ed2fa60d369d19fe5daf378ff1f1970683cafc9",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Great Southern Copper shares rise after geophysics survey begins at Chilean copper prospect",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance UK",
-      "publishedAt": "2026-09-09T09:50:00.000Z"
-    },
-    {
       "id": "f47338b75e423c0bd8e1f3766a5da281625dcfb7061cbda31a48c19dadb3ac0d",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3497,24 +3467,24 @@
       "publishedAt": "2026-10-08T18:24:00.000Z"
     },
     {
-      "id": "f4babe7db06293a79dbddaed06cd78efb067cc0af4d66f6dea31fbcfa5796c85",
+      "id": "cc7b99201e1d50930752a16c0161e430617626e1967a521407fe5e9ec50a9499",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Dollar crude oil weakens, base metals overseas market outperforms domestic market, SHFE tin plunges, LME copper, aluminum, tin, and gold futures lead gains [SMM Midday Review]",
+      "title": "Urgent Restocking Demand, Secondary Copper Rod Enterprises Quote More Actively [SMM Secondary Copper Daily Review]",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-09T03:59:00.000Z"
+      "publishedAt": "2026-10-09T08:12:00.000Z"
     },
     {
-      "id": "f06a2861eb539d7af7003c6d1f9878d2b38efae2d0c3c920c3506ec48111cc57",
+      "id": "87e8457731221e38606165f39bd3759b6b2f00138f4f93828d14bdba3339906b",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "Capped at home, China extends its aluminium dominance abroad, Reuters says",
+      "title": "람동은 보크사이트-알루미늄 산업 사슬의 가치를 향상시키는 것을 목표로 합니다.",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Mining Weekly",
-      "publishedAt": "2026-09-09T06:58:00.000Z"
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-09T08:09:40.000Z"
     },
     {
       "id": "e97c52fb655eab6a24e5761fb03d8f203fc61d990459fce92d341f13d71f1463",
@@ -4137,14 +4107,34 @@
       "publishedAt": "2026-10-07T18:09:17.000Z"
     },
     {
-      "id": "5da6ec553aa3a6fb0828de625836dac66425daf82cdec06b358456e3453a941e",
+      "id": "1de3aab3151bd4e5b0f3312730440298f80adc4a2ebaf0fb03ddcb7ad48342c8",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Copper rebounds as supply risks, China demand lend support",
+      "title": "Copper heads for a weekly gain on mine supply risks, China demand",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-10-09T10:16:07.000Z"
+    },
+    {
+      "id": "fe39962eab1b598515a4a76a2855b142b3c9918daa24700e89fedfc9cd6e62f7",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper, Uranium and Lithium Forecast: China Buying Fuels Copper Rebound",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "FXEmpire",
+      "publishedAt": "2026-10-09T09:21:12.000Z"
+    },
+    {
+      "id": "916fe6a4b2a2f0f0956e8273eb0660e8a730f7baf0850da26c94ad498bddd340",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "London copper rises on supply risks, China buying",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "TradingView",
-      "publishedAt": "2026-10-09T03:49:00.000Z"
+      "publishedAt": "2026-10-09T08:00:05.000Z"
     },
     {
       "id": "5a447a0042dfcbf06a822415d2cc03c88fba0d5c2a2dbf123dced07433b88171",
@@ -4877,24 +4867,54 @@
       "publishedAt": "2026-10-09T04:36:00.000Z"
     },
     {
-      "id": "566e6bdcee062eb9a4b737530192919474fce4c19d5859b7b69aeed099a202ae",
+      "id": "2ad52b671470492c128d1ff79e95ae03fe6c56e1e3d7b0ce42bc4d4fbd078d1f",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Copper Prices Rebound As Supply Risks Keep Building",
+      "title": "Ivanhoe reports 19% increase in copper production",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Finimize",
-      "publishedAt": "2026-10-09T03:55:08.000Z"
+      "source": "www.mining-journal.com",
+      "publishedAt": "2026-10-09T12:33:25.000Z"
     },
     {
-      "id": "4aa9c7c61cb0ebf165ab1a0b85a603e8c34000cd1d89c2d9219c0e15c5657bb1",
+      "id": "313827a861e6c23bd0f450fb4cdb7aee727c7c6d3da0a0f376015ef2867e04a9",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Copper Mining in the Democratic Republic of the Congo",
+      "title": "Maintenance demand and supply invoice bottlenecks keep anode copper market imbalance unresolved [SMM Analysis]",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "International Institute for Sustainable Development",
-      "publishedAt": "2026-10-09T00:46:32.000Z"
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-09T10:00:00.000Z"
+    },
+    {
+      "id": "ddbd5782adf0ea92e5767cb98e7d1cf26c40a99a1be7af4c3980039b7723f82c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Florence Copper Celebrates Opening as Production Ramps Up",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Real Estate Daily News",
+      "publishedAt": "2026-10-09T07:30:11.000Z"
+    },
+    {
+      "id": "3d84c2a573a505a49886da569a7038af1f3a4870c4effa013f1044d47b1f873b",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "DAILY: Post-holiday copper price re...",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mysteel",
+      "publishedAt": "2026-10-09T01:36:08.000Z"
+    },
+    {
+      "id": "f4babe7db06293a79dbddaed06cd78efb067cc0af4d66f6dea31fbcfa5796c85",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Dollar crude oil weakens, base metals overseas market outperforms domestic market, SHFE tin plunges, LME copper, aluminum, tin, and gold futures lead gains [SMM Midday Review]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-09T06:26:00.000Z"
     },
     {
       "id": "ca0bccae662630dc0cb41a046802205c15f3c84f9a59ca7ae7b31609e49cc886",
@@ -4917,6 +4937,26 @@
       "publishedAt": "2026-10-08T06:38:00.000Z"
     },
     {
+      "id": "c674c49ca76e90d03b2ffec8538b634c0bb1480fe8f83b1d3f24ce6acd64c0dd",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "SHFE/LME price ratio recovers, spot premiums for imported copper shot up [SMM Yangshan spot copper]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-09T05:30:00.000Z"
+    },
+    {
+      "id": "5da6ec553aa3a6fb0828de625836dac66425daf82cdec06b358456e3453a941e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper rebounds as supply risks, China demand lend support",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-09T03:49:00.000Z"
+    },
+    {
       "id": "7ed05e096de5b3ea029184101458df31fbe19a1ab3e828ac02bdfcb000145616",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4925,6 +4965,26 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-08T04:25:00.000Z"
+    },
+    {
+      "id": "566e6bdcee062eb9a4b737530192919474fce4c19d5859b7b69aeed099a202ae",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Prices Rebound As Supply Risks Keep Building",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-10-09T04:55:08.000Z"
+    },
+    {
+      "id": "4aa9c7c61cb0ebf165ab1a0b85a603e8c34000cd1d89c2d9219c0e15c5657bb1",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Mining in the Democratic Republic of the Congo",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "International Institute for Sustainable Development",
+      "publishedAt": "2026-10-09T00:46:32.000Z"
     },
     {
       "id": "6f53359833264a04546c441d5be255123f02c65d2a23c9f3f89f1ca0f3e11e2c",
@@ -4945,66 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "IndexBox",
       "publishedAt": "2026-10-08T14:01:04.000Z"
-    },
-    {
-      "id": "1194aa6aeee31fef0a514edafcfbabaec140b9eb313e7a11ea20eb96cd8e036a",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Ivanhoe’s Kamoa-Kakula Lifted Copper Output, But Kept Guidance",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Finimize",
-      "publishedAt": "2026-10-08T12:49:46.000Z"
-    },
-    {
-      "id": "9cd1c3b3f6749c09cda541b6af902fb5040896702ecde033b90641983e222184",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Barlow’s Research Roundup: Top picks in copper miners as commodity price hits new highs",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Globe and Mail",
-      "publishedAt": "2026-10-08T12:18:42.000Z"
-    },
-    {
-      "id": "273f36db096136d4a63781659193c322a176281fb38b4c32a765cc5c116d43b7",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper holds firm on tight supply as dollar and oil weigh on industrial metals",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-08T10:35:21.000Z"
-    },
-    {
-      "id": "bbcfa15cfd48dc71110cb52cb3173d17b2978be693dfe2312a13175f1ee2a688",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Here's Why Southern Copper (SCCO) Fell More Than Broader Market",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-10-07T20:50:04.000Z"
-    },
-    {
-      "id": "6e1f01bc17deaa9af188d9aa7bc56e70ad579b1ac1dc9605c39482a21ef118f7",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "See historic photos of one of Arizona's oldest copper mining towns",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "azcentral.com and The Arizona Republic",
-      "publishedAt": "2026-10-07T13:26:00.000Z"
-    },
-    {
-      "id": "88112ec79d0e9d5d6c73835f86ef61bc95767051840afd8c90bb055be19ccd74",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Alphamin Q3 Tin Output 5,030 t; Dividend Declared - News and Statistics",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-10-07T12:20:34.000Z"
     }
   ]
 }
