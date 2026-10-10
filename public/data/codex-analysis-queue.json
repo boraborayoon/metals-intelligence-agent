@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T09:04:01.897Z",
+  "generatedAt": "2026-10-10T15:23:53.883Z",
   "counts": {
-    "PENDING": 500,
+    "PENDING": 497,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -115,6 +115,16 @@
       "codexStatus": "PENDING",
       "source": "BigGo Finance",
       "publishedAt": "2026-10-09T14:35:00.000Z"
+    },
+    {
+      "id": "fb018cc3ba9208e7c95c979a7e9dc2dd50014811f83c449b3ce04e4c89ea7492",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Copper Price Forecast: Copper Nears Record High, Chilean Mine Strike Hits Supply, Could It Break $15,000?",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "TradingKey",
+      "publishedAt": "2026-10-10T12:02:46.000Z"
     },
     {
       "id": "406f6adb2ac27f46874f9045322c3142334c9215ba004b85cb3afe01dddbf771",
@@ -277,26 +287,6 @@
       "publishedAt": "2026-10-08T05:41:44.000Z"
     },
     {
-      "id": "6291b133009e473424c68101b3176139e1535f615c2e9156d7b360d97df17333",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper Stocks Tumble as Tariff Doubt Reverses Record Rally: Freeport-McMoRan Sinks 8%, Teck Resources and Southern Copper Drop 7%",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "AOL.com",
-      "publishedAt": "2026-09-10T14:43:21.000Z"
-    },
-    {
-      "id": "92304de32e84d449d4fa2504ebbfb6304e2202cce78e2fc6d7ca412ccdcef5a6",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper Stocks Tumble as Tariff Doubt Reverses Record Rally: Freeport-McMoRan Sinks 8%, Teck Resources and Southern Copper Drop 7%",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "24/7 Wall St.",
-      "publishedAt": "2026-09-10T14:43:00.000Z"
-    },
-    {
       "id": "5b9db55bcabe6e00cdcfccd818a4d0d95299eb5a6981445b0e3d1099be11dae0",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -375,16 +365,6 @@
       "codexStatus": "PENDING",
       "source": "Mining Weekly",
       "publishedAt": "2026-09-15T10:20:00.000Z"
-    },
-    {
-      "id": "0e3d29bcbed663156fc599c82b7b2301ed6a5c6069f948a94e1b1a4419dcfad7",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "The AI boom and tariff uncertainty are pushing copper prices to record highs",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "CNN",
-      "publishedAt": "2026-09-10T14:25:41.000Z"
     },
     {
       "id": "6aaea9e09307e5faceb8ca4d42e25cf26e063cc666f83bda6962ee897547509c",
@@ -665,16 +645,6 @@
       "codexStatus": "PENDING",
       "source": "People.com",
       "publishedAt": "2026-10-08T22:21:00.000Z"
-    },
-    {
-      "id": "1e1b334d24db35ddf5854e2af01aa1890bb556889448787ef96498b1d51b4886",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper, FCX Stock Plunge On Tariff Report, Surging Yields; Silver, Gold Also Fall",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-09-10T13:13:00.000Z"
     },
     {
       "id": "1cb9270309ccaaabebde44d53f26ce9b78c2eaf75b03a55795ed00ddf6dbb990",
@@ -967,16 +937,6 @@
       "publishedAt": "2026-10-09T04:18:00.000Z"
     },
     {
-      "id": "b522cc512b44d8e7af4537a49703c0e3309ed60af40aa052b013b5cd4d7994ad",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Alcoa prices $2.6b senior notes for South32 bauxite, alumina and aluminium deal",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-09-10T10:56:16.000Z"
-    },
-    {
       "id": "4a5c61ba70323d97d86986bf2e9a1929e664fb5638a6026aae4612e487e3877d",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -1165,6 +1125,16 @@
       "codexStatus": "PENDING",
       "source": "더구루",
       "publishedAt": "2026-10-08T04:48:53.000Z"
+    },
+    {
+      "id": "64b6a84ff62d6457363ecd58f5009a18cb50978ca053abd9f03b0fabc08a00c9",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리 가격 전망: 구리 사상 최고치 육박, 칠레 광산 파업으로 공급 타격, 15,000달러 돌파할까?",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "TradingKey",
+      "publishedAt": "2026-10-09T19:57:00.000Z"
     },
     {
       "id": "d86b72c7b21dc9c1866a08ef6a4c80fe2260670149f43d1b4bbcd3af5ccb7695",
@@ -1425,26 +1395,6 @@
       "codexStatus": "PENDING",
       "source": "International Mining",
       "publishedAt": "2026-10-09T07:33:40.000Z"
-    },
-    {
-      "id": "d65d7ea0804e8a73618ad3ab89d8e31763b408736fd1ecb392da56f94bc66ad4",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "US copper price premium sinks on report that tariff plan stalls",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Mining Weekly",
-      "publishedAt": "2026-09-10T14:18:00.000Z"
-    },
-    {
-      "id": "ec3c32b2119d09fd92e467dca9ca68fcbbbef0c1d5f81b9c52fd21bd2ebd25fa",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper prices continued to rise, market wait-and-see sentiment was strong, and spot premiums fell [SMM South China copper cathode spot weekly review]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-10T13:58:38.000Z"
     },
     {
       "id": "315b4ef273020fe69b6f6661fe5e4e0fa5734c6375584efb902529a89dfe8f20",
@@ -2577,6 +2527,16 @@
       "publishedAt": "2026-10-09T14:40:15.000Z"
     },
     {
+      "id": "8c9d401ce3a74ff0a766ce86ee3c48a4a1b1e0c9f9755b7ca94ac5ff05e042da",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "UBS Forecasts Copper Supply Deficit of 379,000 Metric Tons in 2027, Targets $15,500 per Ton",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-10T13:04:00.000Z"
+    },
+    {
       "id": "0a2fc0446672ccb1214b9a156cb3787d1c6139d7dff9e89c9f9aa6a2ebd529f4",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2765,36 +2725,6 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-10-10T04:54:22.000Z"
-    },
-    {
-      "id": "d7a0c4dcc5ccf4623c3f697009d483529fc7990e78d1f17e151b2a477a0a9d0c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper (COPPER) Is down by 2.15% on Sep 10: Is the Demand Outlook Changing?",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "tradingkey.com",
-      "publishedAt": "2026-09-10T10:30:17.000Z"
-    },
-    {
-      "id": "71f0866e948ce14c8acb3238ccdbf28a79d054c414b5059bde8726626ba712c9",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Rio Tinto secures Aboriginal cooperation on newest copper project Winu",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mining Weekly",
-      "publishedAt": "2026-09-10T09:13:00.000Z"
-    },
-    {
-      "id": "bdfb684adfaff694ace55b870f6480e42a921cdfaa3db1f454292c6ed799afb1",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "LME Copper Prices Plunge: What Happened?",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Moomoo",
-      "publishedAt": "2026-09-10T11:05:38.000Z"
     },
     {
       "id": "cec213a117be10cfe455fe6ebbf32348c7db6cea84bcb04d1c2d635e17dd3f41",
@@ -4927,6 +4857,16 @@
       "publishedAt": "2026-10-10T05:14:00.000Z"
     },
     {
+      "id": "f2488f8d25faabe1aab26fb1a797871550032e5bcdd7169ea099d41a05496fcc",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Southern Copper (SCCO) Could Be 22% Overvalued As Its Project Pipeline Gets Priced In",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-10T10:14:31.000Z"
+    },
+    {
       "id": "3d730318612a432bc0f8c4655950518549b404c114564754838ce5e17932fbb0",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4987,6 +4927,16 @@
       "publishedAt": "2026-10-08T06:38:00.000Z"
     },
     {
+      "id": "e866076f8ff32caf1d27c7ef5e74956a462e7ebae9e393b50823e527812c22e5",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "[SMM Aluminum Express News] Vietnam proposes lowering aluminum export",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-10T09:08:00.000Z"
+    },
+    {
       "id": "23d513b19dba9ebc162636c0efcadea25038d46bb766e36a72d932e9831c5d3b",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -5005,6 +4955,26 @@
       "codexStatus": "PENDING",
       "source": "GuruFocus",
       "publishedAt": "2026-10-09T21:18:28.000Z"
+    },
+    {
+      "id": "e018cb9d6562148b6ea9bfa3912bd63f8c63e48b248bda818776e989c8f87727",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "EU grants strategic status to $2.4bn KGHM copper projects",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Weekly",
+      "publishedAt": "2026-10-09T10:15:00.000Z"
+    },
+    {
+      "id": "e8355dfe317776031f6e7801376c060c3080a64f945a5ee6b04f2b3654c681b2",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP Group(ASX:BHP), 아르헨티나 구리 탐사 계약 이후 밸류에이션은 이미 앞서갔나",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Simply Wall Street",
+      "publishedAt": "2026-10-08T22:42:20.000Z"
     }
   ]
 }
