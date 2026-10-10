@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T02:25:45.845Z",
+  "generatedAt": "2026-10-10T09:04:01.897Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -235,16 +235,6 @@
       "codexStatus": "PENDING",
       "source": "LatinFinance",
       "publishedAt": "2026-10-07T02:39:57.000Z"
-    },
-    {
-      "id": "9f4529d3e5281aa818912051a2d67cf6ab7013854f114d7009c9c96fffebbb64",
-      "commodity": "TIN",
-      "importance": "HIGH",
-      "title": "Myanmar tin mega-mine restarts operations",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "bangkokpost.com",
-      "publishedAt": "2026-09-10T02:45:00.000Z"
     },
     {
       "id": "ff16da8e312ea50c60b586b2cebd6388608760a15d9ebaf0fb858b87d33fdf04",
@@ -1177,36 +1167,6 @@
       "publishedAt": "2026-10-08T04:48:53.000Z"
     },
     {
-      "id": "c8a50a02e70eaba524f2a429ba51d71bff5776b6b62c231b8b5929b64da5ff46",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "High copper prices combined with weak supply and demand keep SHFE copper spot premiums falling under pressure [SMM SHFE Copper Spot]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-10T04:11:17.000Z"
-    },
-    {
-      "id": "e7d20f6f197f19537a4e2580cf64debb5840189950072006ab054e13f26424ac",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "High Copper Prices Combined with Wide Price Spread Between Futures Contracts, Market Transactions in Stalemate [SMM Shandong Copper Cathode Spot Weekly Review]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-10T03:51:14.000Z"
-    },
-    {
-      "id": "602696361eb4ebb1072d1e35532b9a115b473b242b621e1a4697868c35b1fac4",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Kodiak Copper strikes high-grade copper and gold at Ketchan",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "The Armchair Trader",
-      "publishedAt": "2026-09-10T07:18:01.000Z"
-    },
-    {
       "id": "d86b72c7b21dc9c1866a08ef6a4c80fe2260670149f43d1b4bbcd3af5ccb7695",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1465,16 +1425,6 @@
       "codexStatus": "PENDING",
       "source": "International Mining",
       "publishedAt": "2026-10-09T07:33:40.000Z"
-    },
-    {
-      "id": "ef3a5a5271f624aaa05af127918acf125e032f6135af202487c2a4f7d5b7c5af",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-10T07:29:00.000Z"
     },
     {
       "id": "d65d7ea0804e8a73618ad3ab89d8e31763b408736fd1ecb392da56f94bc66ad4",
@@ -2805,6 +2755,16 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-09T16:37:03.000Z"
+    },
+    {
+      "id": "37b80adf9cb3d9214281ef75e1e24555570302b1a68b8557a6c8711a999f9997",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "AL Circle Analysis: From Guinea to Gulf, how bauxite, tariffs and logistics redraw aluminium map",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "AL Circle",
+      "publishedAt": "2026-10-10T04:54:22.000Z"
     },
     {
       "id": "d7a0c4dcc5ccf4623c3f697009d483529fc7990e78d1f17e151b2a477a0a9d0c",
@@ -4957,6 +4917,16 @@
       "publishedAt": "2026-10-10T00:01:18.000Z"
     },
     {
+      "id": "9b383afbe665c84d09f9a0af5dcb0cc0806c9e862926e4de64b678c750a074ef",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Is Jiangxi Copper (SEHK:358) Undervalued Following Its New Three Year JCC Group Deal?",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-10T05:14:00.000Z"
+    },
+    {
       "id": "3d730318612a432bc0f8c4655950518549b404c114564754838ce5e17932fbb0",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4965,6 +4935,16 @@
       "codexStatus": "PENDING",
       "source": "ChemAnalyst",
       "publishedAt": "2026-10-09T13:26:28.000Z"
+    },
+    {
+      "id": "e4ec2b8c034d4a82606e9282adcb7ace13d33fe0bd52cfaa88a0923c66d28d82",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "[SMM Aluminum Express News] Borneo Alumina Indonesia records highest m",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-10T01:15:00.000Z"
     },
     {
       "id": "87e8457731221e38606165f39bd3759b6b2f00138f4f93828d14bdba3339906b",
@@ -5005,6 +4985,26 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-08T06:38:00.000Z"
+    },
+    {
+      "id": "23d513b19dba9ebc162636c0efcadea25038d46bb766e36a72d932e9831c5d3b",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "\"구리 가격 우상향 랠리 계속, 2028년 1t 2만 달러\"한투證",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "www.thecommoditiesnews.com",
+      "publishedAt": "2026-10-10T03:00:00.000Z"
+    },
+    {
+      "id": "0079675b7ee32518cb55af2fc5a19f130d23c98fddcff8516a3ef6bcffbd4ada",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Southern Copper Corp (SCCO) Stock Up 5.3% but GF Value Says Over",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "GuruFocus",
+      "publishedAt": "2026-10-09T21:18:28.000Z"
     }
   ]
 }
