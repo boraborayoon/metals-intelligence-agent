@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T19:32:52.798Z",
+  "generatedAt": "2026-10-10T22:57:57.730Z",
   "counts": {
-    "PENDING": 486,
+    "PENDING": 484,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -125,6 +125,16 @@
       "codexStatus": "PENDING",
       "source": "TradingKey",
       "publishedAt": "2026-10-10T12:02:46.000Z"
+    },
+    {
+      "id": "9aabfabc338f5d07135f3d5d2a16bb7a8d67cbefed6c7ca175cf043dc7c63b8f",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Chile's Centinela copper mine, unions to resume talks Tuesday amid strike",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-10T22:27:47.000Z"
     },
     {
       "id": "406f6adb2ac27f46874f9045322c3142334c9215ba004b85cb3afe01dddbf771",
@@ -355,16 +365,6 @@
       "codexStatus": "PENDING",
       "source": "Mining Weekly",
       "publishedAt": "2026-09-15T10:20:00.000Z"
-    },
-    {
-      "id": "292ff7fb6f6bcc703a1377a16875a1ee4bd6cd3d99c3f9e12b29d8f2985eea19",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "The AI boom and tariff uncertainty are pushing copper prices to record highs",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "KMTV 3 News Now Omaha",
-      "publishedAt": "2026-09-10T22:49:56.000Z"
     },
     {
       "id": "dfd22a768d30154c9f8ea676de28a094ed1b23ca65d8636209592c9a6f43d710",
@@ -975,16 +975,6 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-10-06T05:43:01.000Z"
-    },
-    {
-      "id": "a3245f5460154b685b5380e6efb643e14ec332d4dc1b89bc7670dfc69084e9d6",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Alcoa says U.S. aluminum premium to stay high despite tariff cut",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Investing.com",
-      "publishedAt": "2026-09-10T19:44:58.000Z"
     },
     {
       "id": "7d016334f735cd55451df9acf7edc88724cd66e74798b6be1fc9cdf8c006ea4e",
@@ -2605,16 +2595,6 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-10-10T04:54:22.000Z"
-    },
-    {
-      "id": "a25ab48339ca47ef80c8c80d8f60ab21b9da66e6431aecc0b49789888a732d02",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Codelco copper output drops 5% in July amid operational issues",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com",
-      "publishedAt": "2026-09-10T20:17:21.000Z"
     },
     {
       "id": "75940666fd3f9604878d43b07347ae0e0c80e536ffe8e9255b8e92b2b22d3ed5",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T19:32:52.798Z",
+  "generatedAt": "2026-10-10T22:57:57.730Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -533,6 +533,51 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-10T15:23:53.883Z",
       "updatedAt": "2026-10-10T15:23:53.883Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "9aabfabc338f5d07135f3d5d2a16bb7a8d67cbefed6c7ca175cf043dc7c63b8f",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Chile's Centinela copper mine, unions to resume talks Tuesday amid strike",
+      "summary": "Chile's Centinela copper mine, unions to resume talks Tuesday amid strike TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSXA2THBPZnAxZmVIcWl4MUJLSVJzYkFoY3lROFBwa2hMdDdzSzgyUHFtZU5namRwTlVlOEFWdzBmQlh0MXJfaV9Xam96bnVGdGlVMVNSOTI5a1hwNnJ3UTJkeWdvM0c0MUxXRUZ0SHVid2hCU1FLaGE4MEZMeW5fNGVCT2VMRUhfMzhia19EbHNEN1RrcWN5cEtKN1hKSEpLaU1uRlQ1MUxJZXc4QVRUT3hhQ09lZ3VJa09IbmZrNFhRZUowbzZfZFFhV195WmFRSF91ZVdOOVRqdw?oc=5",
+      "publishedAt": "2026-10-10T22:27:47.000Z",
+      "priority": 62,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Chile's Centinela copper mine, unions to resume talks Tuesday amid strike TradingView",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-10T22:57:57.730Z",
+      "updatedAt": "2026-10-10T22:57:57.730Z",
       "analyzedAt": null
     },
     {
@@ -1510,43 +1555,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-15T11:46:13.795Z",
       "updatedAt": "2026-09-15T11:46:13.795Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "292ff7fb6f6bcc703a1377a16875a1ee4bd6cd3d99c3f9e12b29d8f2985eea19",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "The AI boom and tariff uncertainty are pushing copper prices to record highs",
-      "summary": "The AI boom and tariff uncertainty are pushing copper prices to record highs KMTV 3 News Now Omaha",
-      "source": "KMTV 3 News Now Omaha",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcy0xZm9XbFZaTlJOUHJsckloT1g2bUVwMUk3dEd3ZEdOOUluMUxUSEpmQ2pGY1hHVGF2ejI1M1JkNGdwb05QQVgyY1kyemhNbFZxM3RfeGRvdkNObDA5aTZtSE5rVGEzX0QxeGdMNjQ5bW1VcmJEMkpCOVg2Tk45TlRLU2F6U1hBSnBqUmR4YTl2ckJqdHhKd0RfMlRvX3dtSkhkQm5TUFZib2xycVNFaHRRSm4?oc=5",
-      "publishedAt": "2026-09-10T22:49:56.000Z",
-      "priority": 49,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "PRICE",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "The AI boom and tariff uncertainty are pushing copper prices to record highs KMTV 3 News Now Omaha",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-10T23:12:29.544Z",
-      "updatedAt": "2026-09-10T23:12:29.544Z",
       "analyzedAt": null
     },
     {
@@ -3994,43 +4002,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-06T09:26:21.392Z",
       "updatedAt": "2026-10-06T09:26:21.392Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "a3245f5460154b685b5380e6efb643e14ec332d4dc1b89bc7670dfc69084e9d6",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Alcoa says U.S. aluminum premium to stay high despite tariff cut",
-      "summary": "Alcoa says U.S. aluminum premium to stay high despite tariff cut Investing.com",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTm0yMVlGeEFQdFRPbW1zcDladk14UWViZ2xpS1BNYW5NNEMtYUFOVVg2ZTR2UFo0S0Z6ekVRTU53R1VmM3JIcTZlNjdRRkNBWWFtUDBCd1RIay1FbDllSXVrYW1wX1BjRjBHbW8xMmVyRjVsLXVDRDh6Q1NDNHdmM180QUkya1VRcWczWmpiQ2N3c0VfVVpBWWJzejJTb3BMZEtfSnlpZkJjSFJ4ZkFkLWpfWWN0RlpBMUFiN3Zka0dGQQ?oc=5",
-      "publishedAt": "2026-09-10T19:44:58.000Z",
-      "priority": 40,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "PRICE",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Alcoa says U.S. aluminum premium to stay high despite tariff cut Investing.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-10T21:13:22.630Z",
-      "updatedAt": "2026-09-10T21:13:22.630Z",
       "analyzedAt": null
     },
     {
@@ -10061,42 +10032,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-10T09:04:01.897Z",
       "updatedAt": "2026-10-10T09:04:01.897Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "a25ab48339ca47ef80c8c80d8f60ab21b9da66e6431aecc0b49789888a732d02",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Codelco copper output drops 5% in July amid operational issues",
-      "summary": "Codelco copper output drops 5% in July amid operational issues Investing.com",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaS12dG1pYnJlSWFvZmlOLVlsUDdjUV94S1ZnZmxHdUNxWFVwWFdTdm9XdVkwSXY3Y3VrZnlLTFFmcmt0RDZ5dVVHWVJVemxKWjNSU2EtSHg5cWlsR3dnYUxhQTB5NHQyOTJCMlc4T2E4MEpyMnoxdlZRZFktREx6NU5uS01qMTRVWjBrNVBaX2RaOGlxMWxnMzY1ZWZuZ2ZkdnJ4MEgxeVhLY25YcFlFSU45empTQ3laX3JjYUNQTQ?oc=5",
-      "publishedAt": "2026-09-10T20:17:21.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Codelco copper output drops 5% in July amid operational issues Investing.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-10T21:13:22.630Z",
-      "updatedAt": "2026-09-10T23:12:29.544Z",
       "analyzedAt": null
     },
     {
