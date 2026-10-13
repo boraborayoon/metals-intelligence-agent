@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T08:29:16.311Z",
+  "generatedAt": "2026-10-13T16:27:54.485Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -467,6 +467,16 @@
       "publishedAt": "2026-10-12T06:32:05.000Z"
     },
     {
+      "id": "7762e74771dca635bf71424da559b303505b4f67c95ba72a525304a32b8be2ed",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Glencore’s copper growth supports Deutsche Bank’s 680p target",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance UK",
+      "publishedAt": "2026-10-13T13:00:00.000Z"
+    },
+    {
       "id": "ed29eb6b8c5219d7c54fdfa085f1a61a92c1415462ab951688e494606db42d26",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -565,6 +575,16 @@
       "codexStatus": "PENDING",
       "source": "더구루",
       "publishedAt": "2026-10-12T06:46:27.000Z"
+    },
+    {
+      "id": "f7c607d1c884c267fab0ba24a26e53bd8e0686b59ac0db6ac64f57d5ca623748",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "World’s Top Copper Mine in Final Bid to Avert Strike as Prices Rally",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-10-13T14:13:20.000Z"
     },
     {
       "id": "d4938ce069ae973d376629da32d594d5e24bdd957e748eae8825e0b1da3c188c",
@@ -1337,24 +1357,14 @@
       "publishedAt": "2026-10-12T19:45:00.000Z"
     },
     {
-      "id": "c03953c01afa0635050c42625b3bf938357d80c803276f1aa258cc45c5573b78",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Hundreds rally against Inola aluminum smelter on Hay Day: 'It won’t be the same if this comes in'",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "KJRH",
-      "publishedAt": "2026-09-13T12:05:05.000Z"
-    },
-    {
-      "id": "f26cd0ded3c42de734819aa4e79f96511dde9eb56a605cbf793370a68e5ccb9b",
+      "id": "3c4c009bf3cc2fc369b32c14fd93f17f6cd46bf78d73b5ef2d84b9596b787f21",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "왜 마이크론 테크놀로지(MU) 투자자들은 AI 구리 공급망을 주목해야 할까?",
+      "title": "Avalanche adds to Chile’s copper supply pressures",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "simplywall.st",
-      "publishedAt": "2026-09-13T11:13:01.000Z"
+      "source": "The Northern Miner",
+      "publishedAt": "2026-10-13T14:27:25.000Z"
     },
     {
       "id": "c49873fea0deadc0cf05236c892bc157be34aa7d3991940ff8b967c3c1bb634e",
@@ -2425,6 +2435,16 @@
       "codexStatus": "PENDING",
       "source": "더구루",
       "publishedAt": "2026-10-13T02:11:00.000Z"
+    },
+    {
+      "id": "3350ca223997a4ea5159408b1e1f3469935d1a6fce337c5459263d74744b1db2",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리, 공급 차질 우려로 2주래 최고",
+      "reasonForCodexReview": "Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-12T22:14:33.000Z"
     },
     {
       "id": "b618daa86c9315bd693e60ffe85f4b7c64200bc38395b0b36d136bceaa9f80af",
@@ -3867,14 +3887,24 @@
       "publishedAt": "2026-10-12T10:15:34.000Z"
     },
     {
-      "id": "0172cc71daf391959275618bbf0eb0c42bbffa2cd36c870d105bdf21936e1afa",
+      "id": "04dd9c7de3d84c590471ba7101a00e875d43fa505f45dbe867a6c0e6246d6ae7",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Copper steadies as dollar strength counters Chile supply worries",
+      "title": "Chile Inventory Indices August 2026: Commerce Up 2.3%, Copper Mining Up 2.0%, Manufacturing Down 0.3%",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-10-13T12:50:28.000Z"
+    },
+    {
+      "id": "3c58299c1a0e868ddc916cc756acd3165d01ebde7286e88d5eeebd88b259100a",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Tin’s growing role in future hydrogen production",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-13T07:09:05.000Z"
+      "source": "International Tin Association",
+      "publishedAt": "2026-10-13T12:30:16.000Z"
     },
     {
       "id": "5a447a0042dfcbf06a822415d2cc03c88fba0d5c2a2dbf123dced07433b88171",
@@ -4917,94 +4947,64 @@
       "publishedAt": "2026-10-13T06:12:48.000Z"
     },
     {
-      "id": "17e5b65e35e511284b8a1b07e3eca79aa317fde9f1746632833ec3ff10fc471f",
+      "id": "29b23c535265650cb9747fb09846669476e0466b6c2680a62eb5b9b2a2c98f3d",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Mega Mining Mergers Could Create Gold And Copper Giants",
+      "title": "Ivanhoe Q3 Copper Output Rises But Yearly Target Slips",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Forbes",
-      "publishedAt": "2026-10-13T03:23:19.000Z"
+      "source": "Investing News Network",
+      "publishedAt": "2026-10-13T14:38:56.000Z"
     },
     {
-      "id": "3d730318612a432bc0f8c4655950518549b404c114564754838ce5e17932fbb0",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "FLS Wins $25 Million Chile Copper Expansion Order for Grinding Tech",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "ChemAnalyst",
-      "publishedAt": "2026-10-09T13:26:28.000Z"
-    },
-    {
-      "id": "e4ec2b8c034d4a82606e9282adcb7ace13d33fe0bd52cfaa88a0923c66d28d82",
+      "id": "135b8704836fd6cf57896f68b6b0c207e52e46be2e960bf4a2ec1b5d9a948fd0",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "[SMM Aluminum Express News] Borneo Alumina Indonesia records highest m",
+      "title": "Golden Aluminum gains benefits from SMS technology",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-10T01:15:00.000Z"
+      "source": "Aluminium International Today",
+      "publishedAt": "2026-10-13T14:01:14.000Z"
     },
     {
-      "id": "35d62d6716baa8450f1c8f04fcfcbe54e2cbb81a961237b4c57dc0e5b061a407",
+      "id": "3d695bb5bb7a60f14803e9bf37021a1fa716ff82644871d27674aa32fedb1675",
       "commodity": "TIN",
       "importance": "MEDIUM",
-      "title": "SHFE tin SN2610 fell 4.50% overnight, breaking below 390,000 yuan to a three-month low. LME tin closed at $53,000/mt on October 9 [SMM Tin Morning Meeting Summary]",
+      "title": "Tin in Hydrogen Production: Water Splitting, Electrolysis & Methane Pyrolysis - News and Statistics",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-12T00:53:00.000Z"
+      "source": "IndexBox",
+      "publishedAt": "2026-10-13T12:51:09.000Z"
     },
     {
-      "id": "6235b4729a5ed7c9088abc80395b18430a485bb260577c1442cee3a2d5b780b5",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "China aluminium spot prices extend decline on persistent oversupply, holiday lull",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-10-13T04:12:03.000Z"
-    },
-    {
-      "id": "395d031d4f156dfb0147ebc2871f6b87ff68a44bc4807b3d372fe56367e86e9f",
+      "id": "95e46b89d410718c0db4b7171bfebae2150658585e49a397b3d50006b0b10eb2",
       "commodity": "TIN",
       "importance": "MEDIUM",
-      "title": "The most-traded SHFE tin SN2611 contract closed at 396,810 yuan/mt in the daytime session, up 1.44%, while LME tin edged up $200 to $53,209/mt [SMM Tin Morning Meeting Summary]",
+      "title": "수소 생산에서의 주석: 물 분해, 전기분해 및 메탄 열분해 - 뉴스 및 통계",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-13T00:53:00.000Z"
+      "source": "IndexBox",
+      "publishedAt": "2026-10-13T12:51:09.000Z"
     },
     {
-      "id": "d5d4a819a3d8915d7b65278c6165a814b0aeb75f0fecc5d32d38a5f0b29220f5",
+      "id": "19ab3f8d98ffd50c7559e13f0559e7ae0daaad0ba6ae1ed266b468fc2ca584f9",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Cobre Limited (ASX:CBE) Targets 25,000TPA Copper Cathode, Upside to 50,000 TPA",
+      "title": "Copper: El Niño risks cap African supply growth – Societe Generale",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "ABN Newswire",
-      "publishedAt": "2026-10-12T22:17:58.000Z"
+      "source": "FXStreet",
+      "publishedAt": "2026-10-13T12:31:59.000Z"
     },
     {
-      "id": "c24fbe1b09fcd8e58ab67819fe077905a1f85d07d8ae0702df11c2c3ca4e0270",
+      "id": "b6f7844a8b57197e22118a9689cc5ac647069940d4e76dddcf32d696661bb799",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Metals broadly rose, lithium carbonate fell below the 110,000 mark, SHFE copper, SHFE zinc, SHFE tin, and SHFE gold led the gains, SHFE silver led the rally [SMM midday comment]",
+      "title": "Florence Copper's uses processes without pulling ore, using smelter",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-12T03:53:00.000Z"
-    },
-    {
-      "id": "87e8457731221e38606165f39bd3759b6b2f00138f4f93828d14bdba3339906b",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "람동은 보크사이트-알루미늄 산업 사슬의 가치를 향상시키는 것을 목표로 합니다.",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-09T08:09:40.000Z"
+      "source": "azcentral.com and The Arizona Republic",
+      "publishedAt": "2026-10-13T11:03:00.000Z"
     }
   ]
 }

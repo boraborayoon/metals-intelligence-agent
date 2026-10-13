@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T08:29:16.311Z",
+  "generatedAt": "2026-10-13T16:27:54.485Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -1933,6 +1933,43 @@
       "analyzedAt": null
     },
     {
+      "id": "7762e74771dca635bf71424da559b303505b4f67c95ba72a525304a32b8be2ed",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Glencore’s copper growth supports Deutsche Bank’s 680p target",
+      "summary": "Glencore’s copper growth supports Deutsche Bank’s 680p target Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVDUtdG0wSlJabEZSVzE3MzAtb1BMUldwR3pZWVBjMjdva3VsOUlTYi0yZ3JRa1RPUTBYM1F5WlZrWTE3QzlCWnd1cFY2VWJvVzgzakthQlhrREQ4NFF4bldsVFJwa1ItVnRFM2ZkWm10d2ZPVy1KMDhLcVg3QkI0VEdiajRFT3JxYTJ3SmYwOTB5Q0k?oc=5",
+      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "priority": 49,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Regulation",
+        "categories": [
+          "LOGISTICS",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Glencore’s copper growth supports Deutsche Bank’s 680p target Yahoo Finance UK",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-13T16:27:54.485Z",
+      "updatedAt": "2026-10-13T16:27:54.485Z",
+      "analyzedAt": null
+    },
+    {
       "id": "ed29eb6b8c5219d7c54fdfa085f1a61a92c1415462ab951688e494606db42d26",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -2333,6 +2370,50 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-12T09:47:10.014Z",
       "updatedAt": "2026-10-12T09:47:10.014Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f7c607d1c884c267fab0ba24a26e53bd8e0686b59ac0db6ac64f57d5ca623748",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "World’s Top Copper Mine in Final Bid to Avert Strike as Prices Rally",
+      "summary": "World’s Top Copper Mine in Final Bid to Avert Strike as Prices Rally Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTNCbDJYbFlQbDBKV0c2Znh2T3U2WEN6Vmt1bDdQbnhLWnc2VVZXek9qM0FDX3pWM3JZb3F0WXVjU29BM01lSUpERDNLeEczajJjNTh2REI5YU95ZWpwMGlTYVA2eHFnel9zTS0zNlAyUlA2a2FvLXFST3JubmozY085UHdvRTNuUUFMU3R5LXFTeHVDdmVRelZtT25Cb1VpQWpoUlo5aDY3WXBOcU5ITG43Tnk1X0xXakE?oc=5",
+      "publishedAt": "2026-10-13T14:13:20.000Z",
+      "priority": 46,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "PRICE",
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "World’s Top Copper Mine in Final Bid to Avert Strike as Prices Rally Bloomberg.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-13T16:27:54.485Z",
+      "updatedAt": "2026-10-13T16:27:54.485Z",
       "analyzedAt": null
     },
     {
@@ -5417,51 +5498,15 @@
       "analyzedAt": null
     },
     {
-      "id": "c03953c01afa0635050c42625b3bf938357d80c803276f1aa258cc45c5573b78",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Hundreds rally against Inola aluminum smelter on Hay Day: 'It won’t be the same if this comes in'",
-      "summary": "Hundreds rally against Inola aluminum smelter on Hay Day: 'It won’t be the same if this comes in' KJRH",
-      "source": "KJRH",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVXZKRE1fY0xWdWVwc24tSS1lWDdpbEFxVGY3eGJ3RVdYZ2pDbnNRdF9qcXlOSFBVRU1JbmotTkJyNzBPSFo3VlJCMUJ3VjJQR1pzLUZ2M0NwVWRaSEI0VEtjVTdIX3oycExVbVRvSlBMa3ZXMVlFS21ZNW1ZZ25PdHlzZ2x6QVZZRWNzcklWemRBVzltUURxdVhNa19FSmlENENacnBsckxvRFY0MnBFTXlrdEN2SmxOa0xqa3VoTQ?oc=5",
-      "publishedAt": "2026-09-13T12:05:05.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
-        "categories": [
-          "SMELTER"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Hundreds rally against Inola aluminum smelter on Hay Day: 'It won’t be the same if this comes in' KJRH",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-13T16:39:21.431Z",
-      "updatedAt": "2026-09-13T16:39:21.431Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "f26cd0ded3c42de734819aa4e79f96511dde9eb56a605cbf793370a68e5ccb9b",
+      "id": "3c4c009bf3cc2fc369b32c14fd93f17f6cd46bf78d73b5ef2d84b9596b787f21",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "왜 마이크론 테크놀로지(MU) 투자자들은 AI 구리 공급망을 주목해야 할까?",
-      "summary": "왜 마이크론 테크놀로지(MU) 투자자들은 AI 구리 공급망을 주목해야 할까? simplywall.st",
-      "source": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeTBqdW9mUlIwS2ZxLUl5Q0I5UnpfNEo3SHh5X3h6c3pPZnVIZmh4UDl2TUxSUW5YLWpmOXVTR3Q5cWxlUzBsRkcwYlhCVjVRUlpEWnhudEdUMXUtZjBSdEFBdXVvQ0JyM1o0VjJiNzEtOWJFMFF5R3dxaVVtTWlWUTN2VjNmOTVIdC1RWVE2UHpFMkZxYjR4cHhBM1Nyc0ZmXzFBdG9B0gGmAUFVX3lxTE15MGp1b2ZSUjBLZnEtSXlDQjlSel80SjdIeHlfeHpzek9mdUhmaHhQOXZNTFJRblgtamY5dVNHdDlxbGVTMGxGRzBiWEJWNVFSWkRaeG50R1QxdS1mMFJ0QUF1dW9DQnIzWjRWMmI3MS05YkUwUXlHd3FpVW1NaVZRM3ZWM2Y5NUh0LVFZUTZQekUyRnFiNHhweEEzU3JzRmZfMUF0b0E?oc=5",
-      "publishedAt": "2026-09-13T11:13:01.000Z",
-      "priority": 38,
+      "title": "Avalanche adds to Chile’s copper supply pressures",
+      "summary": "Avalanche adds to Chile’s copper supply pressures The Northern Miner",
+      "source": "The Northern Miner",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFhYaGZ2cklhdWgwY0U4UllnMnlZdE51c1VRcjJOdHM0amMyQVlZY2hJa0ZlMzltVnJMRVliX041WjdGeG95clhweEgyQmg5bVVJQmhSbkRzbExtN05GY1hHeDI2ejBmYjFxZlZxQWhYaE5PbEplMk01TFJYeVhhODdFMEZSUXlkOG9sQXpIay1XbndLM1M4eTZsSQ?oc=5",
+      "publishedAt": "2026-10-13T14:27:25.000Z",
+      "priority": 39,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
@@ -5469,11 +5514,14 @@
         "procurementImpact": "UNCLEAR",
         "category": "Supply",
         "categories": [
-          "SUPPLY"
+          "SUPPLY",
+          "MINE"
         ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "왜 마이크론 테크놀로지(MU) 투자자들은 AI 구리 공급망을 주목해야 할까? simplywall.st",
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Avalanche adds to Chile’s copper supply pressures The Northern Miner",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -5484,8 +5532,8 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-09-13T16:39:21.431Z",
-      "updatedAt": "2026-09-13T16:39:21.431Z",
+      "queuedAt": "2026-10-13T16:27:54.485Z",
+      "updatedAt": "2026-10-13T16:27:54.485Z",
       "analyzedAt": null
     },
     {
@@ -9413,6 +9461,49 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-13T08:29:16.311Z",
       "updatedAt": "2026-10-13T08:29:16.311Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "3350ca223997a4ea5159408b1e1f3469935d1a6fce337c5459263d74744b1db2",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "구리, 공급 차질 우려로 2주래 최고",
+      "summary": "구리, 공급 차질 우려로 2주래 최고 TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13dzNqNS1VMUVUbUhFLUdyOVFsUmxhMlFGZDhkZnRCOGpJNU9DelJhTk1QM0tDNWFyZ1NDTXJuRFgzcER2U1BnVl9PUnZiRDBpeEFKUEhkWnVqc0c5Mmd5SHBNeFJUZndMZHdTOHNjQ3BmWnlmaUlreQ?oc=5",
+      "publishedAt": "2026-10-12T22:14:33.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Supply Disruption",
+        "categories": [
+          "SUPPLY",
+          "DISRUPTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "구리, 공급 차질 우려로 2주래 최고 TradingView",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "공급 차질"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-13T16:27:54.485Z",
+      "updatedAt": "2026-10-13T16:27:54.485Z",
       "analyzedAt": null
     },
     {
@@ -14884,30 +14975,66 @@
       "analyzedAt": null
     },
     {
-      "id": "0172cc71daf391959275618bbf0eb0c42bbffa2cd36c870d105bdf21936e1afa",
+      "id": "04dd9c7de3d84c590471ba7101a00e875d43fa505f45dbe867a6c0e6246d6ae7",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "Copper steadies as dollar strength counters Chile supply worries",
-      "summary": "Copper steadies as dollar strength counters Chile supply worries TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlNyS0pUTTdpN2ZfWkVaV01IcGRCMEpTcUNBS2JUNGdHaW5YUS1UbTBGOXN5YUtyZDlhWWZEMEtfRFJSVUQyTFNDSG4wUFNLai1xRFVhb0xrWXVKSGNScG5QTDBqRXUtV3AxQk82Y2RocHVpOVJuZnh0UVZ4UUxxNXljSERwa1AyQThJSkszVldreVd6SWFMeVktTGctVUcwelp2LWFLVDFjQ0JNUDRZRDlBR005ZWgxXzNKLVc1bFNPRU5oU0RsU09nV1Q0bk0?oc=5",
-      "publishedAt": "2026-10-13T07:09:05.000Z",
+      "title": "Chile Inventory Indices August 2026: Commerce Up 2.3%, Copper Mining Up 2.0%, Manufacturing Down 0.3%",
+      "summary": "Chile Inventory Indices August 2026: Commerce Up 2.3%, Copper Mining Up 2.0%, Manufacturing Down 0.3% IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ1BUUlBwQ01SMWxsRF9SQTkyOGczaUwyc0dGemVTbHAxcmZGV0x3UjJOZHBTLWV4bV9tZWxKMlFXeEw5R2pUNm9COElVQTFpRHVZeHlCck0xVE9aSUpXaUdVVk51TDhGMzExRklycTJKejFQWkFOVVlYb3RCWVdHR0FxTkdqUnVXd3R2aVRIam4xbUJMcjBYSm5jNy1LT0VaSnE5UE9neXhUTE1zNVVfdFVhS2RHV0dfZ2xrdDMtUQ?oc=5",
+      "publishedAt": "2026-10-13T12:50:28.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "INVENTORY",
+          "MINE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Chile Inventory Indices August 2026: Commerce Up 2.3%, Copper Mining Up 2.0%, Manufacturing Down 0.3% IndexBox",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-13T16:27:54.485Z",
+      "updatedAt": "2026-10-13T16:27:54.485Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "3c58299c1a0e868ddc916cc756acd3165d01ebde7286e88d5eeebd88b259100a",
+      "commodity": "TIN",
+      "subCommodity": null,
+      "title": "Tin’s growing role in future hydrogen production",
+      "summary": "Tin’s growing role in future hydrogen production International Tin Association",
+      "source": "International Tin Association",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY25CTDR0aFJkemJkQXM4RVM2MElaYVA2Z3R5eE1WcVJmVmJaZUljMy1Gd1E3ekF5WkJMVE80ZGlLa2ctTmFaRER4ZDM3c0F2Z0t6VThsS3REVWpXWlBjcnRYRWdEN1U0SWs4RlpxNGtlVnd0QVZwcjM4ZWg3N1VqdW1RWnV6LWFi?oc=5",
+      "publishedAt": "2026-10-13T12:30:16.000Z",
       "priority": 35,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Supply",
+        "category": "Production",
         "categories": [
-          "SUPPLY",
-          "FX"
+          "PRODUCTION"
         ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Copper steadies as dollar strength counters Chile supply worries TradingView",
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Tin’s growing role in future hydrogen production International Tin Association",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -14918,8 +15045,8 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-10-13T08:29:16.311Z",
-      "updatedAt": "2026-10-13T08:29:16.311Z",
+      "queuedAt": "2026-10-13T16:27:54.485Z",
+      "updatedAt": "2026-10-13T16:27:54.485Z",
       "analyzedAt": null
     },
     {
@@ -18717,28 +18844,27 @@
       "analyzedAt": null
     },
     {
-      "id": "17e5b65e35e511284b8a1b07e3eca79aa317fde9f1746632833ec3ff10fc471f",
+      "id": "29b23c535265650cb9747fb09846669476e0466b6c2680a62eb5b9b2a2c98f3d",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "Mega Mining Mergers Could Create Gold And Copper Giants",
-      "summary": "Mega Mining Mergers Could Create Gold And Copper Giants Forbes",
-      "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbnV4Vld3Y19yS09VTkJBdjZuWEhrNjBjRnFQWTFCSHRjVUdDTnJ1c3RXSWg3THVTRGVRMkQzMndhTDBRQWhfOXAzbzdZaWVnZ1BoS3RpZTJJakgyZHVoZ2ZIeDNvZTVEU3JQLTBsYzVLV1U2bGpZR2hJSC1JdWVRM0VpVEZFVHJMSTloMWpESl80bHFaLTlQQ2kxM1d3eUlIMnYwQW9hOG44MVBrM1E?oc=5",
-      "publishedAt": "2026-10-13T03:23:19.000Z",
+      "title": "Ivanhoe Q3 Copper Output Rises But Yearly Target Slips",
+      "summary": "Ivanhoe Q3 Copper Output Rises But Yearly Target Slips Investing News Network",
+      "source": "Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ENVpwZnVlOFlHWHBIN2RtcHlFcDl2X2p0LTlhNktGZGx4ZjB3ZW8zYW5FRDYtZjZWWkg3MklrTmZuR2J1MklvaENiQ1RPYktMcjZkOU9DQ2RPa2djX1lJ?oc=5",
+      "publishedAt": "2026-10-13T14:38:56.000Z",
       "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Mine",
+        "category": "Production",
         "categories": [
-          "MINE",
-          "M&A"
+          "PRODUCTION"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Mega Mining Mergers Could Create Gold And Copper Giants Forbes",
+        "summary": "Ivanhoe Q3 Copper Output Rises But Yearly Target Slips Investing News Network",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -18749,58 +18875,20 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-10-13T08:29:16.311Z",
-      "updatedAt": "2026-10-13T08:29:16.311Z",
+      "queuedAt": "2026-10-13T16:27:54.485Z",
+      "updatedAt": "2026-10-13T16:27:54.485Z",
       "analyzedAt": null
     },
     {
-      "id": "3d730318612a432bc0f8c4655950518549b404c114564754838ce5e17932fbb0",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "FLS Wins $25 Million Chile Copper Expansion Order for Grinding Tech",
-      "summary": "FLS Wins $25 Million Chile Copper Expansion Order for Grinding Tech ChemAnalyst",
-      "source": "ChemAnalyst",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzFYazkwOUhCUFdWekZVSWFpblFHSTdwT3ZIVmEzeXh1N2duNmNBZGdmV1JHQ2x5dzhHOTViQVdaNTNERno2R09rR3VjTGZqZGFvR0x4WlBQdUFHZlFPZUJmUXpvNlhBdHphTmNsQ0N1a0VZbE1nT0V1QVlJdHZSRnVRUXQ1RmVBNl8tM0ZCaDFPbV9ubHZoV0FEMjQweFBwVjUwRlZiMEhjR283ZkdqUkNIb0lRTzZzQmhFZA?oc=5",
-      "publishedAt": "2026-10-09T13:26:28.000Z",
-      "priority": 33,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Capacity",
-        "categories": [
-          "CAPACITY"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "FLS Wins $25 Million Chile Copper Expansion Order for Grinding Tech ChemAnalyst",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-09T19:01:23.031Z",
-      "updatedAt": "2026-10-09T19:01:23.031Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "e4ec2b8c034d4a82606e9282adcb7ace13d33fe0bd52cfaa88a0923c66d28d82",
+      "id": "135b8704836fd6cf57896f68b6b0c207e52e46be2e960bf4a2ec1b5d9a948fd0",
       "commodity": "ALUMINUM",
       "subCommodity": null,
-      "title": "[SMM Aluminum Express News] Borneo Alumina Indonesia records highest m",
-      "summary": "[SMM Aluminum Express News] Borneo Alumina Indonesia records highest m Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaGxWQVY1WUpVTGFOWGRoS3RwNXhUblJVWW00cGROT3pROHdUV0Vha2tqUFByclVfV2FscFhPb2s1ZDdIN3k3U2ZzLUhwdWlubHpoWkVLdVdranlNZnYxQndETWIyeWdrN1RKMHBLblpYTTJsUEh0ZVJIQl9OWF9nckxhUDJTNUhpX3lEeGVqUy1TYTRTZkUzNE81bmZQWkVDT1RnNGRDQWFpeW9ycFVHd2JBZ3h1Vk8zbVdKM2s1N2wzZW9zLXZpanFqVHotQ1E?oc=5",
-      "publishedAt": "2026-10-10T01:15:00.000Z",
-      "priority": 33,
+      "title": "Golden Aluminum gains benefits from SMS technology",
+      "summary": "Golden Aluminum gains benefits from SMS technology Aluminium International Today",
+      "source": "Aluminium International Today",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQmw1QjJUWTk0NVlFWWdMdTlYWXFqdGVPc19mdmNSZ09IS1VpWUwxRzY5ZU12VnpfQUg1ajBvOF9Kb0U5MURYRTRCSmFzalpFZjREbTAyZDlWVUFTcGVZY21ZcXZBLXJORFFBT1JodTI5NFlHLW8zSXBzdmdpcVdnRC1xNlhxdVRpN1E?oc=5",
+      "publishedAt": "2026-10-13T14:01:14.000Z",
+      "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
@@ -18810,11 +18898,9 @@
         "categories": [
           "COMPANY"
         ],
-        "region": "Indonesia",
-        "regions": [
-          "Indonesia"
-        ],
-        "summary": "[SMM Aluminum Express News] Borneo Alumina Indonesia records highest m Shanghai Metals Market",
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Golden Aluminum gains benefits from SMS technology Aluminium International Today",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -18825,32 +18911,32 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-10-10T09:04:01.897Z",
-      "updatedAt": "2026-10-10T09:04:01.897Z",
+      "queuedAt": "2026-10-13T16:27:54.485Z",
+      "updatedAt": "2026-10-13T16:27:54.485Z",
       "analyzedAt": null
     },
     {
-      "id": "35d62d6716baa8450f1c8f04fcfcbe54e2cbb81a961237b4c57dc0e5b061a407",
+      "id": "3d695bb5bb7a60f14803e9bf37021a1fa716ff82644871d27674aa32fedb1675",
       "commodity": "TIN",
       "subCommodity": null,
-      "title": "SHFE tin SN2610 fell 4.50% overnight, breaking below 390,000 yuan to a three-month low. LME tin closed at $53,000/mt on October 9 [SMM Tin Morning Meeting Summary]",
-      "summary": "SHFE tin SN2610 fell 4.50% overnight, breaking below 390,000 yuan to a three-month low. LME tin closed at $53,000/mt on October 9 [SMM Tin Morning Meeting Summary] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPOXNZMFNYdDNNTktKRVlNNkVaUHVvTDFMdE9YTEFaNlZBRHN2ZmhhZ3kxa2E0VmxLTGkxZGJxcjNuelgxYjRPZzBkYW1rZGJ2b1FaaUtWN0QzWUJldWVvR0Nlc0d0VnBKLWNJUXc4OTdZWkhJakFZNWFQaGRVZEtZWWdSV3IxOVNMYmZaZTlteFVRdVgzQS12VUg4Y2RGRVZQVXhnVUxza3RtR1JxMUNsdXZMSURMa0dDVjVWc2pJNG5KRjNlaktQRlNlV3otemNZY0RiQ3BUalZSS25vZEk5aVRTQktTREhicFNrandMamp0QVhKM1oxRndKLVN0bzd1TFZtaXNWblZjY1ZXeHBuTDVFelMyZ0pFRjNZR3p5V1Vya3RTSDhabQ?oc=5",
-      "publishedAt": "2026-10-12T00:53:00.000Z",
-      "priority": 33,
+      "title": "Tin in Hydrogen Production: Water Splitting, Electrolysis & Methane Pyrolysis - News and Statistics",
+      "summary": "Tin in Hydrogen Production: Water Splitting, Electrolysis & Methane Pyrolysis - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd1NmNjJZcTZnVzZwMExWbTh4SmxQZWZramlKQ2s0SzBzb0QwWmFTajhCQ2wtV25fLTJrOWUyb203VnBLS0NvekJSNFVHR0gwLVNfWGstckw5MUp5MEVQQnR3MFdpUTJvYTBoLXlIZmxHY2g0UWNoUktPR2hDblBLaWJ4TjVVUU12MWppN3V6US1sTjFxMWIyUg?oc=5",
+      "publishedAt": "2026-10-13T12:51:09.000Z",
+      "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "General",
+        "category": "Production",
         "categories": [
-          "COMPANY"
+          "PRODUCTION"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "SHFE tin SN2610 fell 4.50% overnight, breaking below 390,000 yuan to a three-month low. LME tin closed at $53,000/mt on October 9 [SMM Tin Morning Meeting Summary] Shanghai Metals Market",
+        "summary": "Tin in Hydrogen Production: Water Splitting, Electrolysis & Methane Pyrolysis - News and Statistics IndexBox",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -18861,20 +18947,56 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-10-12T09:47:10.014Z",
-      "updatedAt": "2026-10-12T09:47:10.014Z",
+      "queuedAt": "2026-10-13T16:27:54.485Z",
+      "updatedAt": "2026-10-13T16:27:54.485Z",
       "analyzedAt": null
     },
     {
-      "id": "6235b4729a5ed7c9088abc80395b18430a485bb260577c1442cee3a2d5b780b5",
-      "commodity": "ALUMINUM",
+      "id": "95e46b89d410718c0db4b7171bfebae2150658585e49a397b3d50006b0b10eb2",
+      "commodity": "TIN",
       "subCommodity": null,
-      "title": "China aluminium spot prices extend decline on persistent oversupply, holiday lull",
-      "summary": "China aluminium spot prices extend decline on persistent oversupply, holiday lull AL Circle",
-      "source": "AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZldEWEpZaVNtR2xjUUpQWkZ1RGJQUnZHd2tiVFZFc203MGNsSzJSbHVnMkVSRGo2a2Q4UjVIN2FPdTBGcV96Q3Z2ZU5OQmNjM3lJdmFPaTR4U1MxcVhXZzU1T3E2Qy1VbC1palZpNHpXajFJVFFsSFpjQlUwZ3BOX2pBZi1KME5PYnp4NzNRR2s4aDdmdXFfcVRjc21Ib3FvSFpRUFlaSHVVc2QyVnF1aTNnSXNVTDJv?oc=5",
-      "publishedAt": "2026-10-13T04:12:03.000Z",
-      "priority": 33,
+      "title": "수소 생산에서의 주석: 물 분해, 전기분해 및 메탄 열분해 - 뉴스 및 통계",
+      "summary": "수소 생산에서의 주석: 물 분해, 전기분해 및 메탄 열분해 - 뉴스 및 통계 IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOekVLWW5NaUVZemJMcTk3MVVpclBuU0Q4QXlMQjBwb21jNVlNT0RselNTTEVEVVZZemUzV2l6QjZCZlZJUTFJcF9FUDFBMHFheXBwMXdVbFdpZWhNdWRRcVJIRHl4NHE4LTFndV8yWURFbmZQaUhWalQ1Q0o3YjMxY21TQ01jbkJicVhyLUpQNUpkd2x1bldxY1ZVaWc?oc=5",
+      "publishedAt": "2026-10-13T12:51:09.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "수소 생산에서의 주석: 물 분해, 전기분해 및 메탄 열분해 - 뉴스 및 통계 IndexBox",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-13T16:27:54.485Z",
+      "updatedAt": "2026-10-13T16:27:54.485Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "19ab3f8d98ffd50c7559e13f0559e7ae0daaad0ba6ae1ed266b468fc2ca584f9",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper: El Niño risks cap African supply growth – Societe Generale",
+      "summary": "Copper: El Niño risks cap African supply growth – Societe Generale FXStreet",
+      "source": "FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVTZESHFOdzZHak1fcEdsb3Q3MGRoeHVOMzFFVll3LUVST0VtTndZcUR5b1o4cTlzUHdPU2xETS1WX0R4YjZmYVR3OFpac0ROb2ZNRlZaeTZsb2xybXhvaVZOb3NBM3B2em11MW8tT2IzWE5PTUMtYkUzbVpDQk1BOUJ4eFNGckRJOEhYbXRLR2h6M2ZiS0hEN0xtM0t6RW52YWcxRzJocUx6UQ?oc=5",
+      "publishedAt": "2026-10-13T12:31:59.000Z",
+      "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
@@ -18882,51 +19004,11 @@
         "procurementImpact": "UNCLEAR",
         "category": "Supply",
         "categories": [
-          "PRICE",
-          "SUPPLY",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "China aluminium spot prices extend decline on persistent oversupply, holiday lull AL Circle",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-13T08:29:16.311Z",
-      "updatedAt": "2026-10-13T08:29:16.311Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "395d031d4f156dfb0147ebc2871f6b87ff68a44bc4807b3d372fe56367e86e9f",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "The most-traded SHFE tin SN2611 contract closed at 396,810 yuan/mt in the daytime session, up 1.44%, while LME tin edged up $200 to $53,209/mt [SMM Tin Morning Meeting Summary]",
-      "summary": "The most-traded SHFE tin SN2611 contract closed at 396,810 yuan/mt in the daytime session, up 1.44%, while LME tin edged up $200 to $53,209/mt [SMM Tin Morning Meeting Summary] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQVTJjWWpsbUVNUDR3VzlNa1hvX2RlQzVxajZOaWhWVGEtM3NpaFVNWXQtRTZYMHA2RHVLY3p5OVFVVkxDTUNUR0R4QXNpWVRFM3htb0FwbmlKY1hHZ3JuU1BST2FfS3hNVFM1R2ZUZFpnc1kxUExEYnV2X2g1LWVjSHc4NmxMWnZ1ZVlaZ2p1bXVvOWExdDRGd01Id09Hb2MtVHpxbEVTM0RMVmJoenlUNEZqN01sNW1Tc19pZzdMbU1hVWFEZ185SlhPVUZwMkNPdkVWZWhqZkhacHg4Yk1nNENWUmJHdEpfYXZJQlQ1TmdyNUozRGV3bjA2VS03WjNXdmRaMVUyNTVVcml4aG9FZDh4UDlZd2hkZGxuX2lra2JZNk1kZnNPc1JOSFNqcTZZaVhB?oc=5",
-      "publishedAt": "2026-10-13T00:53:00.000Z",
-      "priority": 33,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "TRADE"
+          "SUPPLY"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "The most-traded SHFE tin SN2611 contract closed at 396,810 yuan/mt in the daytime session, up 1.44%, while LME tin edged up $200 to $53,209/mt [SMM Tin Morning Meeting Summary] Shanghai Metals Market",
+        "summary": "Copper: El Niño risks cap African supply growth – Societe Generale FXStreet",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -18937,32 +19019,32 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-10-13T08:29:16.311Z",
-      "updatedAt": "2026-10-13T08:29:16.311Z",
+      "queuedAt": "2026-10-13T16:27:54.485Z",
+      "updatedAt": "2026-10-13T16:27:54.485Z",
       "analyzedAt": null
     },
     {
-      "id": "d5d4a819a3d8915d7b65278c6165a814b0aeb75f0fecc5d32d38a5f0b29220f5",
+      "id": "b6f7844a8b57197e22118a9689cc5ac647069940d4e76dddcf32d696661bb799",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "Cobre Limited (ASX:CBE) Targets 25,000TPA Copper Cathode, Upside to 50,000 TPA",
-      "summary": "Cobre Limited (ASX:CBE) Targets 25,000TPA Copper Cathode, Upside to 50,000 TPA ABN Newswire",
-      "source": "ABN Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdDZuTXhIWFFldGNwQUNkVzBuY3BybUNxb2RoRHI0dXdYd1E3elFoZjFuOU9EcnZkQS1TcnZqUERBZDRCSXpuWm1NMFBXWW1NRWpMMVMtSWZaUXlVYWtJTmZmd0o2R1JIMVNLRXdxd2pWY0dKWUJ3UE1IeXlGMTJ6ODJ3X1J4NFZoUUE1Z1ozakRBOTQ2Zml0aTRjY0U5RXRoMlMxRFFfTHBMZ2xiXy1Pa0FxcDFEVnVZOENtVmlxNmZJZw?oc=5",
-      "publishedAt": "2026-10-12T22:17:58.000Z",
-      "priority": 32,
+      "title": "Florence Copper's uses processes without pulling ore, using smelter",
+      "summary": "Florence Copper's uses processes without pulling ore, using smelter azcentral.com and The Arizona Republic",
+      "source": "azcentral.com and The Arizona Republic",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUm1BcGd3ZS1SNjdWWG5DZk9PVDdwR3Zibk1JcHI0Z0NrRkd3UTNtc2JMMjRGYUxBdVVUZi03alNkaTNXeUFNLXZod2gtTkowN3NUZE5SbURDQjEzbngxX3JxbEIzQUZ2NC15ZjZsb2tCU3M1bndVM0hQdTBONEk3V2MzbDVUS01mRDhHc2huWTBEb3ozazJZcFRqZksyVTZuLWp2cGJvRjRjcVlYbkJsVk9UMjFNOGc4Y3c1eQ?oc=5",
+      "publishedAt": "2026-10-13T11:03:00.000Z",
+      "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "General",
+        "category": "Smelter",
         "categories": [
-          "COMPANY"
+          "SMELTER"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Cobre Limited (ASX:CBE) Targets 25,000TPA Copper Cathode, Upside to 50,000 TPA ABN Newswire",
+        "summary": "Florence Copper's uses processes without pulling ore, using smelter azcentral.com and The Arizona Republic",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -18973,80 +19055,8 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-10-13T01:38:05.241Z",
-      "updatedAt": "2026-10-13T08:29:16.311Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "c24fbe1b09fcd8e58ab67819fe077905a1f85d07d8ae0702df11c2c3ca4e0270",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Metals broadly rose, lithium carbonate fell below the 110,000 mark, SHFE copper, SHFE zinc, SHFE tin, and SHFE gold led the gains, SHFE silver led the rally [SMM midday comment]",
-      "summary": "Metals broadly rose, lithium carbonate fell below the 110,000 mark, SHFE copper, SHFE zinc, SHFE tin, and SHFE gold led the gains, SHFE silver led the rally [SMM midday comment] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNaklvYTVpQ0VkRUNuT3JDNlZlSFJOQms4bFNINExZYkJ5RkhucWd2eHpVV2N3T3dOdVJvQVBiZkRrY25iczBEWWVKVlBUSFE5WVkxblkzajNLdzF5UFhBTU5TcEJLOXBIYldKdVNuSFp4WndndHE3VllFVng3U3I0cjBmOUxabzAxUWgyejdXMWxubnBtNWVqUzhRVjUyQ3BxOHJ1SllQeEF5d1BMaTluQVBVeUcwY1VpYVZCZ2ZOQk5FcDFDNWRjdGc2SmV0RWZjbFhIeVd5ZjJsR3ZUN1YxWDRQdnUtc201UzJpMlYycDY2bHNyNWJzMHQ3RjFPamM3N282cjVMNlNjN2dfRW5sWmVPS2JiUEpEaHEzUzJySXdNbHc4aXN5UlNpZDg5UVJNRXJjYnU4ajJaOTls?oc=5",
-      "publishedAt": "2026-10-12T03:53:00.000Z",
-      "priority": 32,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Metals broadly rose, lithium carbonate fell below the 110,000 mark, SHFE copper, SHFE zinc, SHFE tin, and SHFE gold led the gains, SHFE silver led the rally [SMM midday comment] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-12T09:47:10.014Z",
-      "updatedAt": "2026-10-12T19:24:05.266Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "87e8457731221e38606165f39bd3759b6b2f00138f4f93828d14bdba3339906b",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "람동은 보크사이트-알루미늄 산업 사슬의 가치를 향상시키는 것을 목표로 합니다.",
-      "summary": "람동은 보크사이트-알루미늄 산업 사슬의 가치를 향상시키는 것을 목표로 합니다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdk16Z2thbkl3QUFOalAtcWEzMVU2TEIzbkswYm9tWXRqbW5EalVUZW1sT045ODRPQjVFWVczRzB1dGZrSHJ6YmFuVDNJcFBKZzl6bDRHa2N3TXFGNkpxWGhucXkxUW00dTViai1zdVZFb2ZUS1R6ZkNySTBOdUVwTUJpeHROZk5kaVFKNmJLYzJPcXNlcWpZ?oc=5",
-      "publishedAt": "2026-10-09T08:09:40.000Z",
-      "priority": 32,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "람동은 보크사이트-알루미늄 산업 사슬의 가치를 향상시키는 것을 목표로 합니다. Vietnam.vn",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-09T13:20:27.131Z",
-      "updatedAt": "2026-10-10T02:25:45.845Z",
+      "queuedAt": "2026-10-13T16:27:54.485Z",
+      "updatedAt": "2026-10-13T16:27:54.485Z",
       "analyzedAt": null
     }
   ]
