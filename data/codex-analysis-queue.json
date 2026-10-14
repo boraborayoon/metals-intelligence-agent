@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T10:38:11.291Z",
+  "generatedAt": "2026-10-14T15:31:05.946Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -439,6 +439,50 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-14T05:26:25.153Z",
       "updatedAt": "2026-10-14T05:26:25.153Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "81267d834d20e7047a2137d72bcc682646f9f4d92e205b8d2cf0264cf9105893",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "BHP's Escondida Mine Averts Strike Amid Copper Price Strength (B",
+      "summary": "BHP's Escondida Mine Averts Strike Amid Copper Price Strength (B GuruFocus",
+      "source": "GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaXpRcGJyQS1MZHcwZThRS013QWVXaWZ1SDJkaVZpZmVrbk9jS1VsdWZoYS15bE1NRzFiYmJscS1rR05HU2JfdVdOMm16VkJ3NGc1VTJEYm5WcVNYYVV3VUdERkhGNk1FTjdyYjltaHVpeTFrTTc0dGg1UDBUc2pObXRBMkxPeGNJdElKNkZfMk9vSEp3cUNpdG9sN0V0ZzFyZ0FteWVB?oc=5",
+      "publishedAt": "2026-10-14T13:14:02.000Z",
+      "priority": 63,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "PRICE",
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BHP's Escondida Mine Averts Strike Amid Copper Price Strength (B GuruFocus",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-14T15:31:05.946Z",
+      "updatedAt": "2026-10-14T15:31:05.946Z",
       "analyzedAt": null
     },
     {
@@ -1119,6 +1163,52 @@
       "analyzedAt": null
     },
     {
+      "id": "dd968e61b883d2e9a4fcf48aea3e344912e4acc4e0437199f5550d991a2b2650",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper prices near record highs over threat of Chile mine strike",
+      "summary": "Copper prices near record highs over threat of Chile mine strike Semafor",
+      "source": "Semafor",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXg3LVFjMnlxbE5CbkkwcVhXaktqbWNSQnI5b250QjRGQkxvTERLQ0o3a0lhdXlsSW1NTERkUXhTRUFDYTBjb3I1aEtGQzlrSVZqckZ4dnphVlRBQW9HY2duX1hCNmFFd25LV2FMUnlyTE42Z1E5cFdpbVQyRm5RZFE2eGVYeDdULTgyM0E4QU9BMTdzcUtleGhaUk80d2c4YmNoMGpKWmt5OWM?oc=5",
+      "publishedAt": "2026-10-14T11:30:00.000Z",
+      "priority": 58,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "PRICE",
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Copper prices near record highs over threat of Chile mine strike Semafor",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-14T15:31:05.946Z",
+      "updatedAt": "2026-10-14T15:31:05.946Z",
+      "analyzedAt": null
+    },
+    {
       "id": "260c4eb6a8aeff69848ed09eb209fbc769d33e0d207d37c982ff0d700b5e1978",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -1616,79 +1706,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-15T11:46:13.795Z",
       "updatedAt": "2026-09-15T11:46:13.795Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "8cb97e48868cc00ed797b0b41959ef92e611697f03eda7f2c1d1a1753c9c2275",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "LME Cancels Suspension Of Tin Brand Banka, Produced By Pt Timah Tbk",
-      "summary": "LME Cancels Suspension Of Tin Brand Banka, Produced By Pt Timah Tbk TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQklxZVZzSXJWc0dqZ2RjYUJ6azBid3dpUy1idy1jZkJVMVFMd0daM0s2Zzc4SXFyR1VNTTFJeDZQcVRMRkpENVBna1FDa2cwazZnV01CaHFhTzJsZTBhTGhfZ2tqOUx2RHZ3a3JIWnNqSFMteW1kaUtpemgwajRxTWFDYXNlcXBXM1JDeld0NzZrM3dtRVNvTzlYOWhZSlFrS1Rna2piVnVZMXhHSXlFYm5kUWRfcF9GSDhmbm9YOXIxem1WWWlYWDFnMTVEQUpZbVE?oc=5",
-      "publishedAt": "2026-09-14T12:35:20.000Z",
-      "priority": 49,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Regulation",
-        "categories": [
-          "REGULATION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "LME Cancels Suspension Of Tin Brand Banka, Produced By Pt Timah Tbk TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-14T14:05:51.827Z",
-      "updatedAt": "2026-09-14T14:05:51.827Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "51b8032e9aec12f6187b80a554d0b315651ebefbbe6a30077662e77610bc2e76",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Inola Board of Trustees will decide to extend pause on aluminum smelter construction, ordinance to ban smelting in town",
-      "summary": "Inola Board of Trustees will decide to extend pause on aluminum smelter construction, ordinance to ban smelting in town Public Radio Tulsa",
-      "source": "Public Radio Tulsa",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQnZKdGdXelhVQXlrdUtIbFBjbFViTjlxTEdlVER0LTllbUJTN2ZhTXplYmhObDZiZGFfb0UxYVBWMVpzYWl6SDJlbl9jbEx1UlVlR2VqVTQyX2RWZXZPdGtFdDFxU214dy1yMVhTUXowM1hjN19SNXlmZDVTYkNIQkhQcUxXSXlhT0hud3VoMUphVmR3RDB3LUNaNDBNUnUtOXhub0ltaTRHb25CbWJLbktRaFpqenlKeVczWE56Q2JkRWhWSUQxMk14VVJ0NjdpZ1JDSGppZ3UzN2htZkdyb0xKV0J6YWlUYnlKeFMtRkx4bzJOY25CbDBUT3NTdUtsUWdUMHZB?oc=5",
-      "publishedAt": "2026-09-14T12:50:00.000Z",
-      "priority": 49,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Regulation",
-        "categories": [
-          "SMELTER",
-          "REGULATION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Inola Board of Trustees will decide to extend pause on aluminum smelter construction, ordinance to ban smelting in town Public Radio Tulsa",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-14T19:23:35.079Z",
-      "updatedAt": "2026-09-14T19:23:35.079Z",
       "analyzedAt": null
     },
     {
@@ -3095,6 +3112,50 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-08T19:28:47.906Z",
       "updatedAt": "2026-10-08T19:28:47.906Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "40d6c2ceaf2e3bdbe28c3cb51cad483589cdc50d701002b6c0c6e121aa2cfdb2",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Escondida’s Tentative Deal Is Only a Reprieve—Chile’s Copper Risks Go Far Beyond One Strike",
+      "summary": "Escondida’s Tentative Deal Is Only a Reprieve—Chile’s Copper Risks Go Far Beyond One Strike NAI500",
+      "source": "NAI500",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEYyN1QwQXdtM1hEdnBVRk9zdm9SNkFhMHU1aXlnM3dzZF91YzhaNVlad3g4Q1BfZFhOVUpFSVdhcnJOOF96SFdwUl9BTEdCYnR3VlhmUWloY1phZWdPU0VueFI3eXIxVS1QTlpIV3hVUzhhMEZqQ0sxVnpZZU1aQlFIOUhqaTRfTDZqVzBpODNEZ3lOazBOa1NSSktxblB0TGVCUlhZN29sa21tSXdBSzBDUXNxeEJVX21jTDVWOA?oc=5",
+      "publishedAt": "2026-10-14T13:56:08.000Z",
+      "priority": 43,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Escondida’s Tentative Deal Is Only a Reprieve—Chile’s Copper Risks Go Far Beyond One Strike NAI500",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-14T15:31:05.946Z",
+      "updatedAt": "2026-10-14T15:31:05.946Z",
       "analyzedAt": null
     },
     {
@@ -5730,81 +5791,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-13T16:27:54.485Z",
       "updatedAt": "2026-10-13T16:27:54.485Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "8cdde86c64c27a2e92bb9346bf8acc3e1790bb5062b9378481469c4808516734",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Rising Copper Demand is Projected to Meet a 25% Supply Gap in 2035",
-      "summary": "Rising Copper Demand is Projected to Meet a 25% Supply Gap in 2035 Crux Investor",
-      "source": "Crux Investor",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX19BaU1zQ2tuOVJrNXFsYUZFU1d1MFVpS2V0a2ZjVlhkVXRZYUR3VVgwcEFPRDVmZ0J5TUFvNE45NEhCeHhfZVpuVUlzRTdPXzhiX0RnQUVVNGRTV0dJdC11U3VnaUxhODVSSkxMZ3ctX2xRYzh2SXdMM2JYaFI4R1A5QkkyeGhETFM0SWgwb1VWZC11SVJhLUpOTDBKSDhIc0E?oc=5",
-      "publishedAt": "2026-09-14T13:29:23.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "SUPPLY",
-          "DEMAND",
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Rising Copper Demand is Projected to Meet a 25% Supply Gap in 2035 Crux Investor",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-14T14:05:51.827Z",
-      "updatedAt": "2026-09-14T14:05:51.827Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "649baa47ab55429ab0158fa2f1fd46dc2a13dcbac61e9f2794632f715deb00df",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Mercuria, Glencore explore Venalum aluminium smelter deal as Venezuela eyes production revival",
-      "summary": "Mercuria, Glencore explore Venalum aluminium smelter deal as Venezuela eyes production revival AL Circle",
-      "source": "AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTHNpOW1kaWF3aFZsUHZ5cjRmSTh5TEtiV1Y5Qm01ZG1hOEdTQjh1MS13R1ZHNHhVODJPam5HUnp2RDFlMjRwQlFqaVZpU1hCMWdKcWNMbkxSVGtKbTlBVGlRRzNodkRFQ05zZVA1NUlYOEtTT0hEZzl2cl90bjhwOE9yYzJGempoa09PUjd2Wm52d1AxWWs1czVHNzNmbktWQ3RyWXljWkQtSmRucUtRaDlILTh6ZFpic0NOYzdGZUQ5UU9lQ1VkT1VR?oc=5",
-      "publishedAt": "2026-09-14T14:44:30.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "SMELTER",
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Mercuria, Glencore explore Venalum aluminium smelter deal as Venezuela eyes production revival AL Circle",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-14T19:23:35.079Z",
-      "updatedAt": "2026-09-14T19:23:35.079Z",
       "analyzedAt": null
     },
     {
@@ -9756,6 +9742,43 @@
       "analyzedAt": null
     },
     {
+      "id": "2e824d23c82820319517f37c6a4757f2aba84ab9ddf2122eebf4bf4a4782dc22",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "트럼프의 관세 위협으로 미국에 구리 재고가 산더미처럼 쌓였지만, 그 영향은 점차 사라지고 있다",
+      "summary": "트럼프의 관세 위협으로 미국에 구리 재고가 산더미처럼 쌓였지만, 그 영향은 점차 사라지고 있다 TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WZzJoSVNza0RwdEpUWC1LS1kyeUF2Nl8tWG9uUjMzS1BfNkVhdnBKc0VkUjN5c0NpN21RUzJVSFBMOU42OF9Kang0NXJSeHR6N0ZqWnNPWmxzbHcyOUxjcU5EXy1CUXhMZ3JXVElTblluQXdmbmEwOQ?oc=5",
+      "publishedAt": "2026-10-14T11:20:09.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "INVENTORY",
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "트럼프의 관세 위협으로 미국에 구리 재고가 산더미처럼 쌓였지만, 그 영향은 점차 사라지고 있다 TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-14T15:31:05.946Z",
+      "updatedAt": "2026-10-14T15:31:05.946Z",
+      "analyzedAt": null
+    },
+    {
       "id": "b618daa86c9315bd693e60ffe85f4b7c64200bc38395b0b36d136bceaa9f80af",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -12891,6 +12914,80 @@
       "analyzedAt": null
     },
     {
+      "id": "ab00698e7ba4f7571eca41975b1f2762d3777df1e491b622a65b6d4c3ae4ee17",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Cariboo Rose Resources: 220.9 m grading 0.30% Copper Equivalent including 43.0m grading 0.57% Copper Equivalent Intersected at Cowtrail",
+      "summary": "Cariboo Rose Resources: 220.9 m grading 0.30% Copper Equivalent including 43.0m grading 0.57% Copper Equivalent Intersected at Cowtrail Junior Mining Network",
+      "source": "Junior Mining Network",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNWnpnZERvQlpaQlJHZlE1dEVIdllDZ19xNVZKTFFDalU4WjdqMWZzYVEwUVZSdnN5V1oxRVNkMzdGRzRHSl9OU0ZfbmliSHlCT19aMkc1SWhBUTBXYWhiRjZDNmRaeUU0cmlOM2N4UUVEQkZFSlhiWUctQmNBejBhMzNwQWxpckl3REZSS2ZKalZjcGtaZERFemFxcVMxcFlGQzN5QUFzRDRiTzFNbzNHTlM3ejVNakFNM1hBS1ZSWkRmM0dBUDV1TnBYYkpJMHIxa0ZNaVBtNERMOGxLM01WVmVOOFVGRGUtUDhTT1lSemZGOW5PYjBSYU5fc1FFTjNEclVBdUVHOHN3dUI5T29fZGxvWWJiQWFVYS1KU250dlpOd2Zoc2ZzS084Y1A1U1lZMXpQcQ?oc=5",
+      "publishedAt": "2026-10-14T13:25:06.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Cariboo Rose Resources: 220.9 m grading 0.30% Copper Equivalent including 43.0m grading 0.57% Copper Equivalent Intersected at Cowtrail Junior Mining Network",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-14T15:31:05.946Z",
+      "updatedAt": "2026-10-14T15:31:05.946Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "fea492a76cd8ef871357213e6e875714a446062cd55457091ffbb0b815a04176",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Rio Tinto keeps 2026 guidance as Oyu Tolgoi copper output rises 27%",
+      "summary": "Rio Tinto keeps 2026 guidance as Oyu Tolgoi copper output rises 27% Mugglehead Investment Magazine",
+      "source": "Mugglehead Investment Magazine",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yVmI3a1VUMmhuQ1lqNzJHQVlURFpsUFg3S1ZxQXBqTGxtU0tkWFViVldSblNXX1JXdTVkY0ZQZjdZTkNGSlRFX2dSMXZyb3ZkWXZ4OS1YcDA0OWNwMy1aMHNMbC1CZGxUaFlmREh2V3RFRVJib0xSZWRVN1hEZ3M?oc=5",
+      "publishedAt": "2026-10-14T09:52:06.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production Guidance",
+        "categories": [
+          "PRODUCTION",
+          "GUIDANCE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Rio Tinto keeps 2026 guidance as Oyu Tolgoi copper output rises 27% Mugglehead Investment Magazine",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-14T15:31:05.946Z",
+      "updatedAt": "2026-10-14T15:31:05.946Z",
+      "analyzedAt": null
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -15579,80 +15676,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-01T01:35:57.518Z",
       "updatedAt": "2026-10-01T07:49:30.192Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "19d573023277da28a10d7b067af28d2d957a346cd21905eec743e757e3960034",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Inola trustees to decide whether to extend aluminum smelter moratorium",
-      "summary": "Inola trustees to decide whether to extend aluminum smelter moratorium News On 6",
-      "source": "News On 6",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeEs0ZW5RSFc4TThwWGtxVlhJdHMzXzZJelpiQzhiN1V4ajZHQ3lVSUphZG1FMXYwSWYxay0tczlwUjlIaXd3VWUzVEdxMW5CcExWSXRsYm9WWDVFbWItdk53Y1dhcGJqeDFVRF93TkRyYjNELWt6bUdJNWVxZjJ4aklKRTFJUUtOSHRFR3NING1Mc1AtMnZXQzF2dGxQQTZLeTFaRGdoRElLNGxSa0l0SmNnMGM?oc=5",
-      "publishedAt": "2026-09-14T10:45:59.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
-        "categories": [
-          "SMELTER"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Inola trustees to decide whether to extend aluminum smelter moratorium News On 6",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-14T14:05:51.827Z",
-      "updatedAt": "2026-09-15T00:58:43.666Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "7053ac6fd90ca7050a4e700b05cfdbb791daf188c7a0776b44c5b36968d4adb7",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "BMI raises tin price forecast amid steady demand for semiconductors",
-      "summary": "BMI raises tin price forecast amid steady demand for semiconductors Mining Weekly",
-      "source": "Mining Weekly",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVJMZFJKYXRxdTBIV2RLUzVvTzBhbUZaVUI1S29zZDJ2RFZ2WkQ1X3F0eWdyS29NUmpSQ29TUzktc3hnNVE0TDlDMzFKeXFSM3NqWmktVXo0N2JTRXFNb2Z3Qldna0VYa1pabENVWnY5cU5jeTQ2TUJ0azNDb041ZTJ3dVdjT1ZCR2ItUGdJaEp5aXBWSjZ2SmNqcDN5UlRVcW1wVkFvVUFKOXVJQ1F1QjZDYXFjdw?oc=5",
-      "publishedAt": "2026-09-14T12:03:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "PRICE",
-          "DEMAND",
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "BMI raises tin price forecast amid steady demand for semiconductors Mining Weekly",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-14T14:05:51.827Z",
-      "updatedAt": "2026-09-15T00:58:43.666Z",
       "analyzedAt": null
     },
     {
