@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T19:42:31.347Z",
+  "generatedAt": "2026-10-14T22:40:34.332Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -115,6 +115,16 @@
       "codexStatus": "PENDING",
       "source": "Reuters",
       "publishedAt": "2026-10-14T15:21:37.000Z"
+    },
+    {
+      "id": "007e68459455f579b7382bcb3c3c454b0de58db7bd310cdd14bc13c3b7497085",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "BHP averts strike at world’s biggest copper mine",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "The Northern Miner",
+      "publishedAt": "2026-10-14T20:20:25.000Z"
     },
     {
       "id": "6709b9d7dda463ef7e497de8294a5a5fb5cefac84f834ef06b43e754b16e8610",
@@ -2707,16 +2717,6 @@
       "publishedAt": "2026-10-14T09:09:46.000Z"
     },
     {
-      "id": "eb5d4cdab1e492a65e928e195569eda54c110171cac9bd2c0e9dfae0be75fbbc",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Eyeing copper, mining giant BHP returns to Alaska",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "alaskabeacon.com",
-      "publishedAt": "2026-09-14T20:51:33.000Z"
-    },
-    {
       "id": "165ecfabeb9f434ee79a73aa5ebb1a94e21ec83583b7906e89b393582c9f3db9",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3377,6 +3377,26 @@
       "publishedAt": "2026-10-14T09:52:06.000Z"
     },
     {
+      "id": "2cc8a45a83273ad9541d45f5ea1ad522b9ba717c715a6cb9e0c4cc371c21c5f5",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Glencore upgraded at J.P. Morgan on copper growth pipeline; Antofagasta top copper pick",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-14T19:59:13.000Z"
+    },
+    {
+      "id": "9ff086e292ce1b1c5f8865bdf0c4a55c05dd864d0a8bcc39060eb6afebddef70",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Alcoa, Kaiser Aluminum started Overweight at Barclays in a positive near-term aluminum outlook",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-14T19:31:47.000Z"
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4025,6 +4045,16 @@
       "codexStatus": "PENDING",
       "source": "FXEmpire",
       "publishedAt": "2026-10-12T10:15:34.000Z"
+    },
+    {
+      "id": "150d39c437f66c127a0f8b4066bde0bbeddcfb5992d366ffcb6ece8446130a50",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Xigem Signs LOI for Proposed Reverse Takeover by Condor Copper - Never-Drilled, Drill-Ready Copper Project in Chile; and C$1.5-2.0 Million Financing to Fund Maiden Drill Program",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-14T21:05:00.000Z"
     },
     {
       "id": "90fb5ca9b3c130603b1e56c995755a1394ca8f0e6715736a8785ec0b4327cc11",
@@ -4975,36 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "www.marketscreener.com",
       "publishedAt": "2026-10-12T08:05:32.000Z"
-    },
-    {
-      "id": "ecad87b0b9c53412a318fd7a81690d0be51803d02b1497f203162aab18adcc0c",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Can Firm Aluminum Prices Help Alcoa (NYSE:AA) Before Its Quarterly Update?",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Kalkine Media",
-      "publishedAt": "2026-10-12T07:07:00.000Z"
-    },
-    {
-      "id": "1ba8ecd2ba2898c0baaaea007279b91b78ab2eff1d1bcf921383432a4b513f9c",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "[SMM Aluminum Flash] According to CAAM data, automobile production and",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-12T06:53:00.000Z"
-    },
-    {
-      "id": "bd09ff6f445314649bbc9de49494da10fdab1c5a48c0eacffa9867568722d957",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Insights Report on Aluminum Alloys for Aerospace: Examining Demand Patterns and Competitive Landscape",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "EIN News",
-      "publishedAt": "2026-10-12T06:24:00.000Z"
     }
   ]
 }
