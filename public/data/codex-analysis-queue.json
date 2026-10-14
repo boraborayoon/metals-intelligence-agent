@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T05:26:25.153Z",
+  "generatedAt": "2026-10-14T10:38:11.291Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -155,6 +155,16 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-10T22:27:47.000Z"
+    },
+    {
+      "id": "28a4e1d10db5401962b900a6655c48832559ce1b585129a7e52a51b4dbc9b8aa",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Strike announced at the world’s largest copper mine in Chile — The Rio Times",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "UA.NEWS",
+      "publishedAt": "2026-10-14T07:50:49.000Z"
     },
     {
       "id": "406f6adb2ac27f46874f9045322c3142334c9215ba004b85cb3afe01dddbf771",
@@ -627,16 +637,6 @@
       "publishedAt": "2026-10-13T14:13:20.000Z"
     },
     {
-      "id": "d4938ce069ae973d376629da32d594d5e24bdd957e748eae8825e0b1da3c188c",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "DAILY: Copper prices plunge on Fed rate-hike bets and U.S. tariff uncertainty",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Mysteel",
-      "publishedAt": "2026-09-14T06:09:02.000Z"
-    },
-    {
       "id": "4df9eaee82b8e31a80a7e0089ce748395403bbfa7f36e714f7f9314a53d7660e",
       "commodity": "ALUMINUM",
       "importance": "HIGH",
@@ -675,16 +675,6 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-12T11:50:35.000Z"
-    },
-    {
-      "id": "36e4ae11c4ce36b0faf6c054384368995b7a80d31b5982771d1f69b160fbb359",
-      "commodity": "TIN",
-      "importance": "HIGH",
-      "title": "US sets 66.61% preliminary countervailing duty on China’s tin mill products",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Yieh Corp.",
-      "publishedAt": "2026-09-14T06:49:21.000Z"
     },
     {
       "id": "50a697ff064422ccff51c95732759bbba0f05279d7d42b7cb9bc96056dbba582",
@@ -967,6 +957,16 @@
       "publishedAt": "2026-10-14T04:15:00.000Z"
     },
     {
+      "id": "c224c7fcbd5b2055e8bb14b042c81959a53cb37e1017404cfa7fe33819a1dab6",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "세계 최대 구리광산 멈추나⋯노조, 임금협상 결렬로 파업 예고",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "이투데이",
+      "publishedAt": "2026-10-14T07:13:00.000Z"
+    },
+    {
       "id": "4a5c61ba70323d97d86986bf2e9a1929e664fb5638a6026aae4612e487e3877d",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -1145,16 +1145,6 @@
       "codexStatus": "PENDING",
       "source": "Startup Fortune",
       "publishedAt": "2026-10-12T04:10:34.000Z"
-    },
-    {
-      "id": "62a8eb73de2f5bdb01c6ce5a826e745fcd173b1e97f8bb52926750730eafb3cc",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "CrossBoundary Energy powers up 233MW solar-plus-storage site at DRC copper mine",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "PV Tech",
-      "publishedAt": "2026-09-14T10:30:59.000Z"
     },
     {
       "id": "6b97810f09b0fd4ced8c5b71ce2f6a17272d5e9e959cbebf726e1a58b4e412d1",
@@ -1415,16 +1405,6 @@
       "codexStatus": "PENDING",
       "source": "The Northern Miner",
       "publishedAt": "2026-10-13T14:27:25.000Z"
-    },
-    {
-      "id": "a29e409eff4d9b8b12bc9381bd31e9efd8f14ec654c0dc959aa126964f3a7d37",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "LME aluminium cash bid price drops 2.06% to $3,273/tonne as stocks decline to 244,350t",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-09-14T06:09:46.000Z"
     },
     {
       "id": "8cdde86c64c27a2e92bb9346bf8acc3e1790bb5062b9378481469c4808516734",
@@ -2507,14 +2487,14 @@
       "publishedAt": "2026-10-13T09:52:03.000Z"
     },
     {
-      "id": "90fb5ca9b3c130603b1e56c995755a1394ca8f0e6715736a8785ec0b4327cc11",
-      "commodity": "ALUMINUM",
+      "id": "816e3d018c568db2bbd2fd4d31ac7abcc002fe51fc068309f7a9ff8570335204",
+      "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Citi lowers three-month aluminium price forecast",
+      "title": "Aurubis raises 2027 European copper premium to record $347 a ton, sources say",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "TradingView",
-      "publishedAt": "2026-10-14T04:05:00.000Z"
+      "publishedAt": "2026-10-14T09:33:31.000Z"
     },
     {
       "id": "b618daa86c9315bd693e60ffe85f4b7c64200bc38395b0b36d136bceaa9f80af",
@@ -2705,6 +2685,16 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-10-14T00:57:00.000Z"
+    },
+    {
+      "id": "c1fd3c028004341db91a0186b11a0a1a7a8ce69abf0f865dffd81d8fe1f91d55",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Rio Tinto reports slight decline in aluminium production",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Aluminium International Today",
+      "publishedAt": "2026-10-14T09:09:46.000Z"
     },
     {
       "id": "eb5d4cdab1e492a65e928e195569eda54c110171cac9bd2c0e9dfae0be75fbbc",
@@ -3335,6 +3325,26 @@
       "codexStatus": "PENDING",
       "source": "marketscreener.com",
       "publishedAt": "2026-10-14T03:55:10.000Z"
+    },
+    {
+      "id": "419e3f40d70a2f7505b8f322b55dd0b0c97fa9cbdddf1443996670f208f606f1",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "JP모건, 구리 생산 확대 전망에 Glencore 투자의견 ‘비중확대’로 상향",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com 한국어",
+      "publishedAt": "2026-10-14T08:07:00.000Z"
+    },
+    {
+      "id": "7361dd6ba6cdc0b5747d11b119990c92bbb892f0b29f8760ad4982dfa3979764",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "LME backwardation structure narrows, SHFE/LME price ratio recovers, registered copper premiums stay high [SMM Yangshan spot copper]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-14T05:23:00.000Z"
     },
     {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
@@ -3985,6 +3995,16 @@
       "codexStatus": "PENDING",
       "source": "FXEmpire",
       "publishedAt": "2026-10-12T10:15:34.000Z"
+    },
+    {
+      "id": "90fb5ca9b3c130603b1e56c995755a1394ca8f0e6715736a8785ec0b4327cc11",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Citi lowers three-month aluminium price forecast",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-14T04:05:00.000Z"
     },
     {
       "id": "5a447a0042dfcbf06a822415d2cc03c88fba0d5c2a2dbf123dced07433b88171",
@@ -4985,26 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "KOSU",
       "publishedAt": "2026-10-12T11:02:00.000Z"
-    },
-    {
-      "id": "49231ee23bbed06c4e36b51c6e688ffdce6c0e08b061b387def658c43bb75daf",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Cooper Metals targets major Philippines copper project",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mining Magazine Australia",
-      "publishedAt": "2026-10-13T01:01:32.000Z"
-    },
-    {
-      "id": "9faab9ce0072287526fff5b4e32c6a11e6c1bb603d91fd074272d38fc14bd435",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Silver One's ZTEM Airborne Geophysical Survey Identifies 7 Additional Silver Targets and 6 Potential Porphyry Copper-Silver-Gold Systems at the Candelaria Project, Nevada",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Junior Mining Network",
-      "publishedAt": "2026-10-13T07:18:20.000Z"
     }
   ]
 }
