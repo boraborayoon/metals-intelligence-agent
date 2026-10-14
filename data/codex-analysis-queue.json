@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:31:05.946Z",
+  "generatedAt": "2026-10-14T19:42:31.347Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -87,49 +87,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-23T19:04:20.455Z",
       "updatedAt": "2026-09-23T19:04:20.455Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "H1’26 LME aluminium stocks dip 31.82%: Russian sanctions & Gulf crisis pack a double blow",
-      "summary": "H1’26 LME aluminium stocks dip 31.82%: Russian sanctions & Gulf crisis pack a double blow AL Circle",
-      "source": "AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUFoNTZZRnVsSE5MTEhCd2owVGo4WE9FVG9IMExZQmtCV0VUblhlbU13YmZQZHpQdHNLX1lsUXFXTk9VZGdkVzhtQVFkcTdEdlRMMEJ5ZURJT0NlZzIySWpGanNFYy16VmZJTDBSaVNuNmd2Rk1jNlh4NDZ2c19SYVVZbkdFUjhNNm5paGRHcWotbm5xbmU3WG1sR2FERWVHSXp0WElrM3FTaTB6SHhwY2d1U200ZmFqNThJNTNB?oc=5",
-      "publishedAt": "2026-09-14T19:15:12.000Z",
-      "priority": 69,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Sanctions",
-        "categories": [
-          "SANCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "H1’26 LME aluminium stocks dip 31.82%: Russian sanctions & Gulf crisis pack a double blow AL Circle",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "sanction"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk",
-          "Sanctions"
-        ],
-        "urgent": true
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-15T00:58:43.666Z",
-      "updatedAt": "2026-09-15T00:58:43.666Z",
       "analyzedAt": null
     },
     {
@@ -483,6 +440,49 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-14T15:31:05.946Z",
       "updatedAt": "2026-10-14T15:31:05.946Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "99eef25f52c45a3c30eb247d01059c16800a307ef2c6c8b11117626885c364f3",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "BHP, Escondida supervisors reach preliminary deal to avert strike at top copper mine",
+      "summary": "BHP, Escondida supervisors reach preliminary deal to avert strike at top copper mine Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ2RzSVhvZXM2bl9Dc25SQlhkS2lEaW1abl8xNkVqMEROU0lpa0tiNlRPMW81TUdoMW1hVHhuaXNQNDJtUm1VWHRRdk1fYTJJZFZyMWN0dU9pMWhucDhPQTE0a0FHTWVXajEtbjhZS25uLWh3YzJDUzJkTGg5TnZPS2lhY3hMZnJVLUNJV3FITElKTmg4enM4WmZ4S2V1TjBjS0JMWWY5YllzMmJtRXIyMEJqZkF3Vi1VX3JoWm8zZkRkTGdJT2w5Tk9pcw?oc=5",
+      "publishedAt": "2026-10-14T15:21:37.000Z",
+      "priority": 63,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BHP, Escondida supervisors reach preliminary deal to avert strike at top copper mine Reuters",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-14T19:42:31.347Z",
+      "updatedAt": "2026-10-14T19:42:31.347Z",
       "analyzedAt": null
     },
     {
@@ -5794,42 +5794,6 @@
       "analyzedAt": null
     },
     {
-      "id": "0b343acb1f0d2d7884c3f3650a8b4e83da6a9b3b654d18ebf817849291007d3f",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Price September 15 2026",
-      "summary": "Copper Price September 15 2026 Robinhood",
-      "source": "Robinhood",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY21pLVB1bThJbmZSNmV5VFlJX2JwOTJOemVqbnEyRjNhRjkyUU1kT19JR25Zd0Z2WlBwbnM1M010WEw5LXdFV1IwMS1SVG9PWTZPamVvdGNldG9Rb0RVWVVuenI0bzRLaC1GMFpJblZWLVc4RHEwOEZtUW9CeTlGdHhfMHNZUWdTTmJmUVVrTlNFbkhObG1RNk9xcDhHcGpoLVotdFJjWQ?oc=5",
-      "publishedAt": "2026-09-14T18:08:38.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Price September 15 2026 Robinhood",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-14T22:45:52.693Z",
-      "updatedAt": "2026-09-14T22:45:52.693Z",
-      "analyzedAt": null
-    },
-    {
       "id": "a2fe5fb84d4df3cce141a6335703adb76efc3112e9149484c31cd1b657513018",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -9776,6 +9740,79 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-14T15:31:05.946Z",
       "updatedAt": "2026-10-14T15:31:05.946Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "c84fbfd80d83a4ea21654c14f64ac084b894ffff4de1e2ebfd218b1c6d1dde75",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "맥킨지 \"구리 광산·제련업체 수익성 엇갈려\"…투자는 어느 쪽?",
+      "summary": "맥킨지 \"구리 광산·제련업체 수익성 엇갈려\"…투자는 어느 쪽? 이데일리",
+      "source": "이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdVNMWktSQzhUNVRiTXNVcVA5TWJBQlh0YWs4dTNTRjhER1pSb1BYc1JOdDB2QUtXRmNwRXhkcXNVYWZnT2xmSzBGcklTaFR3R1JtcUMtdHRtZGNyVXcyT2tuVjFla0MteFdmMnEzOWN2ZjZEVjRlRWpmeVhyUFJJSA?oc=5",
+      "publishedAt": "2026-10-14T17:45:33.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "SMELTER"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "맥킨지 \"구리 광산·제련업체 수익성 엇갈려\"…투자는 어느 쪽? 이데일리",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-14T19:42:31.347Z",
+      "updatedAt": "2026-10-14T19:42:31.347Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f6ce7116d8ede1b2719323e5cc385097c4e5a3f92144bd324ad49923e791334d",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Luca Mining lands C$211M to fund $290M Cozamin copper mine buy",
+      "summary": "Luca Mining lands C$211M to fund $290M Cozamin copper mine buy Dealroom",
+      "source": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTFQybWhvcFFaY1A2MWtsb0JGNmltT1JGLVE0aktIeWVPUm1xMlNGcldzOGFZWk04M2txUFItTHVyVU5RUE51UnY0d0Jhb0JmSUtlSUhHRmdvUTIwTzd3WW5lVEcwOXJONDhfNkQ4OG9uNmNBbVFvaVRTLWtpYTNSbkNkZjhpcnRlSEtoR0RuVVBIWkt0dGRwRms5Yw?oc=5",
+      "publishedAt": "2026-10-14T15:57:57.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Luca Mining lands C$211M to fund $290M Cozamin copper mine buy Dealroom",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-14T19:42:31.347Z",
+      "updatedAt": "2026-10-14T19:42:31.347Z",
       "analyzedAt": null
     },
     {
@@ -19105,42 +19142,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-12T09:47:10.014Z",
       "updatedAt": "2026-10-12T09:47:10.014Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "b2286706b6e61f9b2b586252e33b6e1fc1cca80c58a09e2a09b8f02559f57262",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Headlines: Aluminum smelter air quality, AI election predictions & “Here comes Bullet”",
-      "summary": "Headlines: Aluminum smelter air quality, AI election predictions & “Here comes Bullet” KOSU",
-      "source": "KOSU",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQejR1MGtSWkdCelJLUTFjOEMzZlFDY21BZUk3UU1qQlpZNmNMRkNjRkxNbkRiaFhDV3hkbTlPREIwVUFoTkNBb3gyMUR4djBWbkNCX3dvaDl1Ujl0Z0trMXVnbDI2RWItNkhxdVlwRV9UQ1h2OG9CWWl2S3pjSTdXRTRhczduRHd3aER0S09VZFd6SUdFVHBOUG1sbU02VXhDcHM5cUIzNU1PbWtPbnRxclo0Ykc1d2tUUWN1T2hpTQ?oc=5",
-      "publishedAt": "2026-10-12T11:02:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
-        "categories": [
-          "SMELTER"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Headlines: Aluminum smelter air quality, AI election predictions & “Here comes Bullet” KOSU",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-12T19:24:05.266Z",
-      "updatedAt": "2026-10-13T08:29:16.311Z",
       "analyzedAt": null
     }
   ]

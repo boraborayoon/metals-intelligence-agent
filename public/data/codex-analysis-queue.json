@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:31:05.946Z",
+  "generatedAt": "2026-10-14T19:42:31.347Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -25,16 +25,6 @@
       "codexStatus": "PENDING",
       "source": "Investing.com 한국어",
       "publishedAt": "2026-09-23T17:54:00.000Z"
-    },
-    {
-      "id": "cccf95afc24ce3b6eda4cd95d4a5cef349785dffd199a6726b26b88e0722f6a3",
-      "commodity": "ALUMINUM",
-      "importance": "HIGH",
-      "title": "H1’26 LME aluminium stocks dip 31.82%: Russian sanctions & Gulf crisis pack a double blow",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-09-14T19:15:12.000Z"
     },
     {
       "id": "4450df20feb172e0803f4955fd915639dac6da448d6f6244f1e24a2879aa998b",
@@ -115,6 +105,16 @@
       "codexStatus": "PENDING",
       "source": "GuruFocus",
       "publishedAt": "2026-10-14T13:14:02.000Z"
+    },
+    {
+      "id": "99eef25f52c45a3c30eb247d01059c16800a307ef2c6c8b11117626885c364f3",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "BHP, Escondida supervisors reach preliminary deal to avert strike at top copper mine",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Reuters",
+      "publishedAt": "2026-10-14T15:21:37.000Z"
     },
     {
       "id": "6709b9d7dda463ef7e497de8294a5a5fb5cefac84f834ef06b43e754b16e8610",
@@ -1417,16 +1417,6 @@
       "publishedAt": "2026-10-13T14:27:25.000Z"
     },
     {
-      "id": "0b343acb1f0d2d7884c3f3650a8b4e83da6a9b3b654d18ebf817849291007d3f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Price September 15 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Robinhood",
-      "publishedAt": "2026-09-14T18:08:38.000Z"
-    },
-    {
       "id": "a2fe5fb84d4df3cce141a6335703adb76efc3112e9149484c31cd1b657513018",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -2495,6 +2485,26 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-14T11:20:09.000Z"
+    },
+    {
+      "id": "c84fbfd80d83a4ea21654c14f64ac084b894ffff4de1e2ebfd218b1c6d1dde75",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "맥킨지 \"구리 광산·제련업체 수익성 엇갈려\"…투자는 어느 쪽?",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "이데일리",
+      "publishedAt": "2026-10-14T17:45:33.000Z"
+    },
+    {
+      "id": "f6ce7116d8ede1b2719323e5cc385097c4e5a3f92144bd324ad49923e791334d",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Luca Mining lands C$211M to fund $290M Cozamin copper mine buy",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Dealroom",
+      "publishedAt": "2026-10-14T15:57:57.000Z"
     },
     {
       "id": "b618daa86c9315bd693e60ffe85f4b7c64200bc38395b0b36d136bceaa9f80af",
@@ -4995,16 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "EIN News",
       "publishedAt": "2026-10-12T06:24:00.000Z"
-    },
-    {
-      "id": "b2286706b6e61f9b2b586252e33b6e1fc1cca80c58a09e2a09b8f02559f57262",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Headlines: Aluminum smelter air quality, AI election predictions & “Here comes Bullet”",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "KOSU",
-      "publishedAt": "2026-10-12T11:02:00.000Z"
     }
   ]
 }
