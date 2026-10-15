@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T15:45:00.067Z",
+  "generatedAt": "2026-10-15T19:27:22.427Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -45,6 +45,16 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-09-23T19:51:25.000Z"
+    },
+    {
+      "id": "766eb60a63818c31ec175dc363f8030f5f1f69f43769e1e0bb297dd79a821063",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "BHP (BHP) reportedly to sue union at Chile Spence copper mine over illegal stoppage",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Newsquawk",
+      "publishedAt": "2026-10-15T18:27:37.000Z"
     },
     {
       "id": "e7053e43881549c4581bc9293d0d24cf36999136c9044cf4e8d836d54b02cbe8",
@@ -355,6 +365,16 @@
       "codexStatus": "PENDING",
       "source": "World Socialist Web Site",
       "publishedAt": "2026-10-13T01:35:29.000Z"
+    },
+    {
+      "id": "779feda6529d698cae5895f8aeb7693b33cce335b72580c468ef2df1cb219008",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "BHP sues union at Spence copper mine over 'illegal' production stoppages, lawsuit shows",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Reuters",
+      "publishedAt": "2026-10-15T18:57:43.000Z"
     },
     {
       "id": "55b1679c794aafde8f4efef9f646ed7a3ddf15d713a478895bc37751e056c4e5",
@@ -1007,6 +1027,16 @@
       "publishedAt": "2026-10-14T23:58:00.000Z"
     },
     {
+      "id": "9fae63bfa65cf6a2f55e5390fe12314a85b52a6942825aee88aaae810850bd64",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Zijin Halts Processing at Copper-Zinc Mine Due to Fuel Shortage",
+      "reasonForCodexReview": "Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-10-15T14:01:54.000Z"
+    },
+    {
       "id": "8fc400cb12ee4d806ee2873fadd8cb9ea3a2ea3908dd85a030ef832099f18b21",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1437,26 +1467,6 @@
       "publishedAt": "2026-10-13T14:27:25.000Z"
     },
     {
-      "id": "f61099ecb222a221dc59733f0fa95046c80a07464911751365f2d1f8285b80c8",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Inola council pauses aluminum smelter vote until April 2027",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "KJRH",
-      "publishedAt": "2026-09-15T17:16:05.000Z"
-    },
-    {
-      "id": "f0ef435e08e4ea593bf9a5631f6a70b1dfdfa0e95da71b91348ea7f93870dcd8",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Aluminium price risk management Why recyclers need to know about hedging now",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-09-15T16:45:36.000Z"
-    },
-    {
       "id": "6c9534ea1128f961564836055472699d4bc6b8ff3aa55e21bf29f9c8fbf5850b",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1465,16 +1475,6 @@
       "codexStatus": "PENDING",
       "source": "einpresswire.com",
       "publishedAt": "2026-09-15T20:55:00.000Z"
-    },
-    {
-      "id": "7c1a653d3c1dce527c26c6e838491769777d9a58006746bc2c4209c673a0ebaf",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Price September 16 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Robinhood",
-      "publishedAt": "2026-09-15T17:48:21.000Z"
     },
     {
       "id": "ba6877fd1c27bcc27245351bc3cd0a5e5953ecda8b0b29d5074ce0d2f93afa8f",
@@ -2497,6 +2497,26 @@
       "publishedAt": "2026-10-15T13:47:57.000Z"
     },
     {
+      "id": "9d51d7866b7f5c1fae10da6b76753d27674f8e718124939cb571d3c6fe1d0e5c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Luca Mining raises US$150mn toward Mexican copper mine purchase",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "BNamericas",
+      "publishedAt": "2026-10-15T18:21:33.000Z"
+    },
+    {
+      "id": "70f86379eedde90fcf2a6cca522d63ecd32325fc91ce78a54d5e0bd8816d7302",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "2035년 핵심 광물 위기: 리튬·코발트·구리 공급 리스크 - 뉴스 및 통계",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-10-15T16:23:32.000Z"
+    },
+    {
       "id": "4330edd60cd8669c31a8718797d3c0c51737ad2dad3b1a139c6f1e9939154736",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3377,24 +3397,14 @@
       "publishedAt": "2026-10-15T13:57:00.000Z"
     },
     {
-      "id": "e85f470ee155ca2a49c1f4b6681d577fea85e5b8917cafcdbee6903397e8fe7c",
+      "id": "96909cc3220b4e376db414c2a2da5946b2935aab19022a2590369edb2cad83f4",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Antofagasta Q3 Copper Output Up 7%, Keeps 2026 Guidance - News and Statistics",
+      "title": "Antofagasta says Q3 copper output rose 7% but issues weak guidance (ANFGF:OTCMKTS)",
       "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
       "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-10-15T11:20:34.000Z"
-    },
-    {
-      "id": "eaf5d6fac90b7ea9c16d08793a80e26c6f99df100c73889ecbe41d5ea471fac7",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "PV Aluminum Frame Enterprises See Divergent Operating Rates with Leading Players Holding Steady; Aluminum Prices Expected to Consolidate on a Subdued Note Amid Macro and Production Resumption Expectations [SMM Analysis]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-15T10:22:00.000Z"
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-10-15T16:29:23.000Z"
     },
     {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
@@ -4055,6 +4065,16 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-10-15T07:44:00.000Z"
+    },
+    {
+      "id": "db5e0a0dbbc2a463a1d589da73020136aff6ae88900de2962c3eb41cbd459ce7",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "CoTec, Battery Mineral Resources eye partnership to increase copper production in Chile",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Canadian Mining Journal",
+      "publishedAt": "2026-10-15T16:05:49.000Z"
     },
     {
       "id": "90fb5ca9b3c130603b1e56c995755a1394ca8f0e6715736a8785ec0b4327cc11",
@@ -4985,26 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Kalkine Media",
       "publishedAt": "2026-10-12T09:06:00.000Z"
-    },
-    {
-      "id": "209b90ca3f2d81d24e3a8ca3d229926689e178b064c7bb31978dd8b2a14f3fb4",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper rises on supply risks, demand optimism",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Business Recorder",
-      "publishedAt": "2026-10-12T08:10:48.000Z"
-    },
-    {
-      "id": "4e34429431f63903cb343827112626ef1bd16ecb7c841601479897c788c8fa5d",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Atalaya Mining Copper, S.A. Through Cobre San Rafael Announces Proyecto Touro Strategic Project Designation Under EU Critical Raw Materials Act",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "www.marketscreener.com",
-      "publishedAt": "2026-10-12T08:05:32.000Z"
     }
   ]
 }
