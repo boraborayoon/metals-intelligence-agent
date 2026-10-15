@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T11:32:37.053Z",
+  "generatedAt": "2026-10-15T15:45:00.067Z",
   "counts": {
-    "PENDING": 492,
+    "PENDING": 500,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -125,6 +125,26 @@
       "codexStatus": "PENDING",
       "source": "The Northern Miner",
       "publishedAt": "2026-10-14T20:20:25.000Z"
+    },
+    {
+      "id": "6f32fb1ebeb7423ed114de4c126364b18f5f3dcd08794c77bae8ec40534f53ee",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "BHP, Escondida Union Reach Contract Deal, Averting Copper Mine Strike - News and Statistics",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-10-15T12:10:31.000Z"
+    },
+    {
+      "id": "6e5077c5c013c5174e6b5b4297dc0d2afe69b6bd3759b4a5bb7b93b9a43c6a74",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "BHP·Escondida 노조, 계약 합의로 구리 광산 파업 막아 - 뉴스 및 통계",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-10-15T12:10:31.000Z"
     },
     {
       "id": "6709b9d7dda463ef7e497de8294a5a5fb5cefac84f834ef06b43e754b16e8610",
@@ -525,6 +545,16 @@
       "codexStatus": "PENDING",
       "source": "The Northern Miner",
       "publishedAt": "2026-10-05T15:11:26.000Z"
+    },
+    {
+      "id": "1f1cff1ac56e52366c06bde41037ef8d4f4bb9d615c4017ac4b4094b9aac0862",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "China Aluminum International Q3 net profit slumps, hurt by unit bankruptcy",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-15T14:17:21.000Z"
     },
     {
       "id": "8043aa3c3ba006ae9e1cbdfeb76099cc661fb99c542121694f1cb5c35796db9c",
@@ -967,6 +997,16 @@
       "publishedAt": "2026-10-14T11:21:01.000Z"
     },
     {
+      "id": "53b805c94ebe231c3284b295f0d47b3152534e76ad1aed7bf20b2d0cde7bb6e3",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "비철 시황 - 세계 최대 구리 광산 파업 모면",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Investing.com 한국어",
+      "publishedAt": "2026-10-14T23:58:00.000Z"
+    },
+    {
       "id": "8fc400cb12ee4d806ee2873fadd8cb9ea3a2ea3908dd85a030ef832099f18b21",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1047,16 +1087,6 @@
       "publishedAt": "2026-10-13T06:00:00.000Z"
     },
     {
-      "id": "f8f63baa7e1a27a4953dd628dafb3777cdedb10eb7b89bbce9636abb8c874eac",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Antofagasta CEO: Copper supply has lagged growth in demand for a while",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "cnbc.com",
-      "publishedAt": "2026-09-15T12:53:52.000Z"
-    },
-    {
       "id": "df75ba4cd8e8417ecb1a2e320b73602f40204b4c8a33ccc60e5030c22697a4e2",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1135,6 +1165,16 @@
       "codexStatus": "PENDING",
       "source": "Startup Fortune",
       "publishedAt": "2026-10-12T04:10:34.000Z"
+    },
+    {
+      "id": "30daf1dd64811ca49806e5ce25f49ba415632c8a48c5b5d9dc58e0797b8425b7",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "No breakthrough in talks at Antofagasta's striking Centinela copper mine, unions say",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-15T14:30:37.000Z"
     },
     {
       "id": "6b97810f09b0fd4ced8c5b71ce2f6a17272d5e9e959cbebf726e1a58b4e412d1",
@@ -2447,6 +2487,16 @@
       "publishedAt": "2026-10-14T15:57:57.000Z"
     },
     {
+      "id": "070701010e2af424ccb84bc9dde633561a9683143b2efbf7b5489ac6ce5aff6a",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Alcoa earnings on deck: Can aluminum offset alumina weakness?",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com",
+      "publishedAt": "2026-10-15T13:47:57.000Z"
+    },
+    {
       "id": "4330edd60cd8669c31a8718797d3c0c51737ad2dad3b1a139c6f1e9939154736",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3317,6 +3367,36 @@
       "publishedAt": "2026-10-14T22:43:16.000Z"
     },
     {
+      "id": "9a8df4df57fc0cbc5abe4af498f803bd9e4595762eafd933a81ba325254880b2",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "알코아 실적 발표 앞둬…알루미늄 강세가 알루미나 부진 상쇄할까?",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com 한국어",
+      "publishedAt": "2026-10-15T13:57:00.000Z"
+    },
+    {
+      "id": "e85f470ee155ca2a49c1f4b6681d577fea85e5b8917cafcdbee6903397e8fe7c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Antofagasta Q3 Copper Output Up 7%, Keeps 2026 Guidance - News and Statistics",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-10-15T11:20:34.000Z"
+    },
+    {
+      "id": "eaf5d6fac90b7ea9c16d08793a80e26c6f99df100c73889ecbe41d5ea471fac7",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "PV Aluminum Frame Enterprises See Divergent Operating Rates with Leading Players Holding Steady; Aluminum Prices Expected to Consolidate on a Subdued Note Amid Macro and Production Resumption Expectations [SMM Analysis]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-15T10:22:00.000Z"
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -3955,6 +4035,26 @@
       "codexStatus": "PENDING",
       "source": "Simply Wall Street",
       "publishedAt": "2026-10-15T04:56:01.000Z"
+    },
+    {
+      "id": "ee5980953abc6a147d11f12a7a301699038ec6a5714a2bd9d2d9f2b4915884a5",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "South32 shareholders approve Alcoa aluminium deal",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Aluminium International Today",
+      "publishedAt": "2026-10-15T14:06:41.000Z"
+    },
+    {
+      "id": "df4f80e5b6676b7ca92e4d09f39c5657c5ca41ce0c022fcbf564abd51738d1f6",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Macro and production resumption expectations jointly weigh on aluminum prices, which consolidate on a subdued note [SMM Aluminum Price Weekly Review]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-15T07:44:00.000Z"
     },
     {
       "id": "90fb5ca9b3c130603b1e56c995755a1394ca8f0e6715736a8785ec0b4327cc11",
@@ -4905,26 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "www.marketscreener.com",
       "publishedAt": "2026-10-12T08:05:32.000Z"
-    },
-    {
-      "id": "5ff4a09b5290da3f7d64cf6211b7fa9a6af616fdbd60823ec6a0bffdbae1a41a",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Glencore lists in Australia, eyeing A$4.4T pension pool for copper push",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Dealroom",
-      "publishedAt": "2026-10-15T00:42:35.000Z"
-    },
-    {
-      "id": "cc3357e7dd683a92b4e37208fbdb8318ef383339786af010305931e9c64ee914",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Kingfisher Mining raises $2.25M for Copper Blow",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-10-15T02:16:00.000Z"
     }
   ]
 }

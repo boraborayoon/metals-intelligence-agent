@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:32:37.053Z",
+  "generatedAt": "2026-10-15T15:45:00.067Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -526,6 +526,92 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-14T22:40:34.332Z",
       "updatedAt": "2026-10-14T22:40:34.332Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "6f32fb1ebeb7423ed114de4c126364b18f5f3dcd08794c77bae8ec40534f53ee",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "BHP, Escondida Union Reach Contract Deal, Averting Copper Mine Strike - News and Statistics",
+      "summary": "BHP, Escondida Union Reach Contract Deal, Averting Copper Mine Strike - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNakt6a3QwaXhLTkFKbHgtQ2Y5RVhNNmIzaHgzTWJBTllzQTZ2WmNESmlQcTRST05fbkZJOWtjT2Q5SGxPZUdBZmlVbXl3M3YtUTBWY3RkSHJoYV83VjVRdnl3OFhVWm1lOXFjLVN5WjR1VGNZM215MUFPTGtQNGY3aUh2YVdvVmNhcDVCSkljMXdsN3NPdXd5ZXRvMzlSUkl3ZGVCVFRYM2VBX09jMWxR?oc=5",
+      "publishedAt": "2026-10-15T12:10:31.000Z",
+      "priority": 63,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BHP, Escondida Union Reach Contract Deal, Averting Copper Mine Strike - News and Statistics IndexBox",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T15:45:00.067Z",
+      "updatedAt": "2026-10-15T15:45:00.067Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "6e5077c5c013c5174e6b5b4297dc0d2afe69b6bd3759b4a5bb7b93b9a43c6a74",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "BHP·Escondida 노조, 계약 합의로 구리 광산 파업 막아 - 뉴스 및 통계",
+      "summary": "BHP·Escondida 노조, 계약 합의로 구리 광산 파업 막아 - 뉴스 및 통계 IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQai01T2dNcTRkTjRkazF2dFpFa2JWX3BRLTQ1VkptU01kUkh6anB0d3JTMFZFZGN6dmlsSVI4YU45eFNNUnhDcjE0M19paUVJNkxLT1g5Z3VOeUd2UTVMTWp1SWI5aE13NXk3cUtmOTI4SDhMS05MX2xtNV8zQWNieVdmeWRDaW9sRDgtd0tGVWM4R0d3SE5qdHF2RVl3eV9nVkJHQm00VlBPSXdlT3dJUHYzVQ?oc=5",
+      "publishedAt": "2026-10-15T12:10:31.000Z",
+      "priority": 63,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BHP·Escondida 노조, 계약 합의로 구리 광산 파업 막아 - 뉴스 및 통계 IndexBox",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "파업"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T15:45:00.067Z",
+      "updatedAt": "2026-10-15T15:45:00.067Z",
       "analyzedAt": null
     },
     {
@@ -2207,6 +2293,46 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-05T16:02:55.856Z",
       "updatedAt": "2026-10-05T16:02:55.856Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "1f1cff1ac56e52366c06bde41037ef8d4f4bb9d615c4017ac4b4094b9aac0862",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "China Aluminum International Q3 net profit slumps, hurt by unit bankruptcy",
+      "summary": "China Aluminum International Q3 net profit slumps, hurt by unit bankruptcy TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWWV0QnBpUFY4ZkJuY0hQVmx5TDgxd29hTXh5VDltS3EybElpZk5YLXc5UW1LWVlTQUo4dFNfQkVHR19KNHh0WGJKb0FpaFF5ZDItT1ZzVjZMVWs4a1J1emVzSXh5NkZLZXRuQU5rUU9UeGhxYkpEYktiSUxUWTJUOC1jbE1DWUFXQmp4c2hiQ0RzVDRPWURUT0l0OUxzWDFvYXR1NFEzLVJ0cklFY3h1SlNXX09jaTFFUXl1OHVzNXpkZVNGcy11NDFZY1EyVVJ2WXZ6dG1Wc21neGM?oc=5",
+      "publishedAt": "2026-10-15T14:17:21.000Z",
+      "priority": 48,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Regulation",
+        "categories": [
+          "REGULATION",
+          "CHINA",
+          "EARNINGS"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "China Aluminum International Q3 net profit slumps, hurt by unit bankruptcy TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T15:45:00.067Z",
+      "updatedAt": "2026-10-15T15:45:00.067Z",
       "analyzedAt": null
     },
     {
@@ -4094,6 +4220,49 @@
       "analyzedAt": null
     },
     {
+      "id": "53b805c94ebe231c3284b295f0d47b3152534e76ad1aed7bf20b2d0cde7bb6e3",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "비철 시황 - 세계 최대 구리 광산 파업 모면",
+      "summary": "비철 시황 - 세계 최대 구리 광산 파업 모면 Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5RmVXRGljbC1QRzhUWGkycy02dmpicDVhSlNuOVp2X185TmFEaHpGTTBjb2w2cm04aGYyVHNuSkpGWWptTC1ONDgxeWVCZ2tvOUM2b0QzSUE4WVlDSFRJTw?oc=5",
+      "publishedAt": "2026-10-14T23:58:00.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "비철 시황 - 세계 최대 구리 광산 파업 모면 Investing.com 한국어",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "파업"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T15:45:00.067Z",
+      "updatedAt": "2026-10-15T15:45:00.067Z",
+      "analyzedAt": null
+    },
+    {
       "id": "8fc400cb12ee4d806ee2873fadd8cb9ea3a2ea3908dd85a030ef832099f18b21",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -4384,43 +4553,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-13T08:29:16.311Z",
       "updatedAt": "2026-10-13T08:29:16.311Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "f8f63baa7e1a27a4953dd628dafb3777cdedb10eb7b89bbce9636abb8c874eac",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Antofagasta CEO: Copper supply has lagged growth in demand for a while",
-      "summary": "Antofagasta CEO: Copper supply has lagged growth in demand for a while cnbc.com",
-      "source": "cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlJDSU9NSmRhOXRBWXZCdkhXQ2ZuUFZ5NGVvRFR3ZWNlQjF2UWptUlo1SGIxYU5sc1Zzdmtmaksxd1lOX2VyWXdjYkpKQW5WWE9wd3VxLWVnQTJfOFFiUWUtdkpoUm5NVTN1UWFQeWc2MTJaZHZxT1p5RnVJdVBxVnFUN0ZVaDBySWVzUDZXYlI5VWRGbVh4UXp2Y0JYVXFzZkN3aFpNVU5TcTlDY0ZycWVR?oc=5",
-      "publishedAt": "2026-09-15T12:53:52.000Z",
-      "priority": 40,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "SUPPLY",
-          "DEMAND"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Antofagasta CEO: Copper supply has lagged growth in demand for a while cnbc.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-15T15:44:00.321Z",
-      "updatedAt": "2026-09-15T15:44:00.321Z",
       "analyzedAt": null
     },
     {
@@ -4734,6 +4866,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-12T09:47:10.014Z",
       "updatedAt": "2026-10-12T09:47:10.014Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "30daf1dd64811ca49806e5ce25f49ba415632c8a48c5b5d9dc58e0797b8425b7",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "No breakthrough in talks at Antofagasta's striking Centinela copper mine, unions say",
+      "summary": "No breakthrough in talks at Antofagasta's striking Centinela copper mine, unions say TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZXN6dGstdFlqUnRfVlA3MVV4UVk4djdWVmJfQW92ZXhhRjNoYUZjV3h4VnZRNjhWZ3gybzNDaWpkRklJUjk4N2wxNXFFdXdtS0Y5R0M0WmYwRlZTbzBUUW9UVTdOWW9JM1phVGZFTHVSMDhCcDJqUEFKS1hQN0wxYUhyVmpjdmVFYldLbElBMTNwOXp2Wl9GWnpsOXFrS1ZDcGhqTWRNYUhLeFRrSWdCaDJrUmlXMVdBM1BLZy1iamJlTlFqMFh4NWd6VWpHSTdZVGVkZ1RFczMtQWpQQVE1a21SNGhGVGhQ?oc=5",
+      "publishedAt": "2026-10-15T14:30:37.000Z",
+      "priority": 40,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "No breakthrough in talks at Antofagasta's striking Centinela copper mine, unions say TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T15:45:00.067Z",
+      "updatedAt": "2026-10-15T15:45:00.067Z",
       "analyzedAt": null
     },
     {
@@ -9609,6 +9777,42 @@
       "analyzedAt": null
     },
     {
+      "id": "070701010e2af424ccb84bc9dde633561a9683143b2efbf7b5489ac6ce5aff6a",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Alcoa earnings on deck: Can aluminum offset alumina weakness?",
+      "summary": "Alcoa earnings on deck: Can aluminum offset alumina weakness? Investing.com",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONkJuUlVOZldWWWdBckMzWFkxblhHd2VIYlRfZVpLNXRpZ1dtcEpNWVJzRC1oUWFiQzl5b3hKR05KMS1Ca2t1bFRHVUZKQm9jRkZ0LUhvTFpKZzQzbkkxWHlKWjNFbHhnN3FBeHNNRjZ1TG1MTWQtT1ZZTWp6eFlrVTdvQ09zWTM2NWM3XzM4aG02Ym9qZFNJN0tFRmZ3MW9LQTFMdWlnT3V0S0ZDS1dHWnRB?oc=5",
+      "publishedAt": "2026-10-15T13:47:57.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "EARNINGS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Alcoa earnings on deck: Can aluminum offset alumina weakness? Investing.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T15:45:00.067Z",
+      "updatedAt": "2026-10-15T15:45:00.067Z",
+      "analyzedAt": null
+    },
+    {
       "id": "4330edd60cd8669c31a8718797d3c0c51737ad2dad3b1a139c6f1e9939154736",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -12817,6 +13021,116 @@
       "analyzedAt": null
     },
     {
+      "id": "9a8df4df57fc0cbc5abe4af498f803bd9e4595762eafd933a81ba325254880b2",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "알코아 실적 발표 앞둬…알루미늄 강세가 알루미나 부진 상쇄할까?",
+      "summary": "알코아 실적 발표 앞둬…알루미늄 강세가 알루미나 부진 상쇄할까? Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11LUlfeGk3MDdpWDJpd0ZsQ3ZDbDN4Z0FhTkh4ZnFuWmNKaW13bUdKTWl0VEFYVjFVeWE4ajJLb1BxemkzWXd1OTdoby1MT1pBeHZsZ25aemZ1MnJld1ZwbkhVRTJLZmJZRVJr?oc=5",
+      "publishedAt": "2026-10-15T13:57:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "EARNINGS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "알코아 실적 발표 앞둬…알루미늄 강세가 알루미나 부진 상쇄할까? Investing.com 한국어",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T15:45:00.067Z",
+      "updatedAt": "2026-10-15T15:45:00.067Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "e85f470ee155ca2a49c1f4b6681d577fea85e5b8917cafcdbee6903397e8fe7c",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Antofagasta Q3 Copper Output Up 7%, Keeps 2026 Guidance - News and Statistics",
+      "summary": "Antofagasta Q3 Copper Output Up 7%, Keeps 2026 Guidance - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOVJEcE9wVm5yLTQ5b3k0a3ZhZVhVcnVTbkpYVWNTZ2IyZ01sTVFPOVRXMWVhVDNIVW9GRjhPRm1LZ2E3bVFkbWRVdlN6dHNaZG5PLWNwMEgyTTkxakRfNTRoZ0RLRU13bXBxTXVsYUc1U25lck13MWxUUm9kanFvRWFsd0NKQ1k0Q0piY1BKbHFhUFdWR2JlY3RuZW1TTktObTBtaGxxSEVXYXBl?oc=5",
+      "publishedAt": "2026-10-15T11:20:34.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production Guidance",
+        "categories": [
+          "PRODUCTION",
+          "GUIDANCE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Antofagasta Q3 Copper Output Up 7%, Keeps 2026 Guidance - News and Statistics IndexBox",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T15:45:00.067Z",
+      "updatedAt": "2026-10-15T15:45:00.067Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "eaf5d6fac90b7ea9c16d08793a80e26c6f99df100c73889ecbe41d5ea471fac7",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "PV Aluminum Frame Enterprises See Divergent Operating Rates with Leading Players Holding Steady; Aluminum Prices Expected to Consolidate on a Subdued Note Amid Macro and Production Resumption Expectations [SMM Analysis]",
+      "summary": "PV Aluminum Frame Enterprises See Divergent Operating Rates with Leading Players Holding Steady; Aluminum Prices Expected to Consolidate on a Subdued Note Amid Macro and Production Resumption Expectations [SMM Analysis] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNd1dZemJTcTNQeWZjVUpUZTU4dFg5dGNwa2xqNGdmd1FwdDhpTGNpVkhqajVjdnZ0MXNpaDRKNWY3Q0U4b0tPaEhibFJIdVBLUnJxWEN1dkJIWlg5d0VhZGszMGJDUk1OM3BBTDBLWWtIRHJaMGl6UlN2QVBvZGI4cEFMejQ4eFBnTnhDanlkMHVNOW1meUJEaEl3UGxaMkUxbkdiSFJkY1FDeFA1VV8wemlsSndSRW9VRHRNS2JqNjJiRWpBeUxxLVZ0ZWRaTllkRFFMclV0X3VzQ1o3b3ViaEJid250SGVPSVRFV0FobGkyOGl6bGZPOVozYS1CUGRHMUJ2Q3BYQVlnUUdnZjdRREhOMnJlWFo3XzJtdDYxMkhjZlQ2N3lPenktNUh3V0ExMkhnaVhFRENMakd4TFNZS1hnc0tsVzBEbHR5Z19qMUdDNkJJdDlVc2lRY01rRUFXUFZTUkpRcFFfT213LVYtVHRKV1d6ZEVC?oc=5",
+      "publishedAt": "2026-10-15T10:22:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRICE",
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "PV Aluminum Frame Enterprises See Divergent Operating Rates with Leading Players Holding Steady; Aluminum Prices Expected to Consolidate on a Subdued Note Amid Macro and Production Resumption Expectations [SMM Analysis] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T15:45:00.067Z",
+      "updatedAt": "2026-10-15T15:45:00.067Z",
+      "analyzedAt": null
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -15317,6 +15631,79 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-15T05:55:26.844Z",
       "updatedAt": "2026-10-15T05:55:26.844Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "ee5980953abc6a147d11f12a7a301699038ec6a5714a2bd9d2d9f2b4915884a5",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "South32 shareholders approve Alcoa aluminium deal",
+      "summary": "South32 shareholders approve Alcoa aluminium deal Aluminium International Today",
+      "source": "Aluminium International Today",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGU1UVdpM1hCNDRfUWtjbDRIT3BucWlDSThWQ1E3UWhocFhJYTdkSHJoWUl0aWZvemZnaFdnQnRURW9ZeHJiNHNDOTg5OHQxMEdBa0IyaEEwQ0dYOTByME90b29WMlhCdDdiY3RGZFVNeEJLUzBNT1cyUmszeTFBRXNWaXc5Vm9q?oc=5",
+      "publishedAt": "2026-10-15T14:06:41.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "South32 shareholders approve Alcoa aluminium deal Aluminium International Today",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T15:45:00.067Z",
+      "updatedAt": "2026-10-15T15:45:00.067Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "df4f80e5b6676b7ca92e4d09f39c5657c5ca41ce0c022fcbf564abd51738d1f6",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Macro and production resumption expectations jointly weigh on aluminum prices, which consolidate on a subdued note [SMM Aluminum Price Weekly Review]",
+      "summary": "Macro and production resumption expectations jointly weigh on aluminum prices, which consolidate on a subdued note [SMM Aluminum Price Weekly Review] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNVBxU2E5R0FZYzlRN3NFQmxORHM2aEthQ0ZhcmpjMHo5MXFFNEJvcHMzT3dUaHc3ZFR2RVR0VUlXSWNsQldKTFZ5UDFiUTI0dFF3R3FfXy1tem45eWxkNWlhaGc4eWg3YkxkbEctT3gxVFM4Y2wyQlBCQllzUWxVUF9qVGVGUTU2bS1MOVBsQW9qM2hyZldhLXg3RnJvZWJqQkhHTXRBY2c4dmxfaGprbVoxdzY2UlVSdXFKa1VqR3UxTjNKRFh0YUpxM2V3bXhKSDlhcTNhUzFnVTB6TklrTVYyLXhvWDdzcEIzdExabzNtMFp0RnpXN3puNnJzZ0YzMVEzQXlZa2VHdFBQakY2N2lncER3bzc4MWx3?oc=5",
+      "publishedAt": "2026-10-15T07:44:00.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRICE",
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Macro and production resumption expectations jointly weigh on aluminum prices, which consolidate on a subdued note [SMM Aluminum Price Weekly Review] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T15:45:00.067Z",
+      "updatedAt": "2026-10-15T15:45:00.067Z",
       "analyzedAt": null
     },
     {
@@ -18780,78 +19167,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-12T09:47:10.014Z",
       "updatedAt": "2026-10-12T09:47:10.014Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "5ff4a09b5290da3f7d64cf6211b7fa9a6af616fdbd60823ec6a0bffdbae1a41a",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Glencore lists in Australia, eyeing A$4.4T pension pool for copper push",
-      "summary": "Glencore lists in Australia, eyeing A$4.4T pension pool for copper push Dealroom",
-      "source": "Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVjdQcEc1ME4wSWN1aGZDcVI3NmRodkdxelRmcmtDSWN6ai0zOVU1NEpudmt6N0poY0N2alFibUZmSDRPYWNLdzltRTQ5cDI0dDM4T3BsS1BHRkE1QnJFb0VMRGNGR2pUcUJtQi04c1ItN3BwUjJubGhlLXA3U0RzalRGZXdFYzJQMFl0MGpsa0FtM1J4M2FLQmJtZTRvQ2ZwLUhsajdYRQ?oc=5",
-      "publishedAt": "2026-10-15T00:42:35.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Glencore lists in Australia, eyeing A$4.4T pension pool for copper push Dealroom",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-15T00:55:42.470Z",
-      "updatedAt": "2026-10-15T00:55:42.470Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "cc3357e7dd683a92b4e37208fbdb8318ef383339786af010305931e9c64ee914",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Kingfisher Mining raises $2.25M for Copper Blow",
-      "summary": "Kingfisher Mining raises $2.25M for Copper Blow Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONkdzVUVwTXIzQ0Z3SnlmdjhMYXVkM0haMzAtOU85cHZoX1hRU1pyRmU5Nlc4RnBBUU9ncVFVWld0OHAtSUFISVp4ZEdianVNWWxjdVBXekN6SVZpeWVYZW5GNVZKbnppWFFfWEcyZlZNTGtIb1hmOU1yYjJNN01uM3U1aw?oc=5",
-      "publishedAt": "2026-10-15T02:16:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Kingfisher Mining raises $2.25M for Copper Blow Yahoo Finance",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-15T05:55:26.844Z",
-      "updatedAt": "2026-10-15T05:55:26.844Z",
       "analyzedAt": null
     }
   ]
