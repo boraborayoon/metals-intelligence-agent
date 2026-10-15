@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T22:40:34.332Z",
+  "generatedAt": "2026-10-15T00:55:42.470Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -405,26 +405,6 @@
       "codexStatus": "PENDING",
       "source": "Mining Weekly",
       "publishedAt": "2026-09-15T10:20:00.000Z"
-    },
-    {
-      "id": "ca9959f78fb12dc0c4713752aa3cf4d67509c11a4f37c41bb9b97c6ed9b0f889",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "한화證 “구리 관세 보류에 풍산 단기 부담…LS전선은 영향 제한”",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "v.daum.net",
-      "publishedAt": "2026-09-14T23:16:03.000Z"
-    },
-    {
-      "id": "0a31240c318da7bd59bb37ba2221aca6d6c2b1bee81bed686c24b42a385ead64",
-      "commodity": "ALUMINUM",
-      "importance": "HIGH",
-      "title": "Aluminium Nitride Thermal Substrates Market To 2035: Wide-Bandgap Semiconductor Demand Fuels Growth - News and Statistics",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-09-14T22:51:17.000Z"
     },
     {
       "id": "4bf24bd11bf0ab407cfd03d93322e98bd338e1a9440fc718d18e6580802f78eb",
@@ -3397,6 +3377,16 @@
       "publishedAt": "2026-10-14T19:31:47.000Z"
     },
     {
+      "id": "43fb009daa5340ac3a753a6d6fc87fa63491f328b0e6cb76461bfff75d90e1c8",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[구리 가격] 미국 CPI 발표 후 0.3% 하락…LME 구리 1만4,532달러",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "산업일보",
+      "publishedAt": "2026-10-14T22:43:16.000Z"
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -5005,6 +4995,16 @@
       "codexStatus": "PENDING",
       "source": "www.marketscreener.com",
       "publishedAt": "2026-10-12T08:05:32.000Z"
+    },
+    {
+      "id": "5ff4a09b5290da3f7d64cf6211b7fa9a6af616fdbd60823ec6a0bffdbae1a41a",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Glencore lists in Australia, eyeing A$4.4T pension pool for copper push",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Dealroom",
+      "publishedAt": "2026-10-15T00:42:35.000Z"
     }
   ]
 }
