@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:55:42.470Z",
+  "generatedAt": "2026-10-15T05:55:26.844Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -2370,6 +2370,51 @@
       "analyzedAt": null
     },
     {
+      "id": "92c24ffbab6975fb37370db22f2db22b957712148d6f27c63c3841cdc601bb89",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "세계 최대 구리 광산 파업 모면에 구리 가격 하락…공급 불안은 지속",
+      "summary": "세계 최대 구리 광산 파업 모면에 구리 가격 하락…공급 불안은 지속 더구루",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZdkdORzhla1VnMnpjd1lSYkxPdV9EZExtUEF3M2xZcXdrcXlCb2VHU0RZTlQyMmZDNnJQdEhBT0IwcWpoalMtcFVRZFp4RXFkNVkweUkzUXNwcHF4eDY3YmRDcw?oc=5",
+      "publishedAt": "2026-10-15T04:02:07.000Z",
+      "priority": 47,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "PRICE",
+          "SUPPLY",
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "세계 최대 구리 광산 파업 모면에 구리 가격 하락…공급 불안은 지속 더구루",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "파업"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T05:55:26.844Z",
+      "updatedAt": "2026-10-15T05:55:26.844Z",
+      "analyzedAt": null
+    },
+    {
       "id": "7e212b78936734c279b9efea56a05734f5c043ce3b70ed3d1fabe517646808b0",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -4089,6 +4134,49 @@
       "analyzedAt": null
     },
     {
+      "id": "ef7dd0e81083b4189fcbddc3394e9379445c5485d82f00b4a72686e3445dddaf",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "센티넬라 구리 광산 파업: 노조, 중재 협상 재개",
+      "summary": "센티넬라 구리 광산 파업: 노조, 중재 협상 재개 IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOUZ0Y0ZuQWRTOU1keG9oUUZ6czdFMHl4bEx1d29CLWFMVU1YUHBWMjMzMTBwNkE1VUh3bXdQeG9Ob1dnTS1qS1hFQmN3VVBGMFJWdk81c3I4VjdiNmRxQ2FKOWgtb1FJQnJtclRITzRkR3NnWnFWWE1ReWRWbEZBM1lMSDZBeWxfbzl1cHJ1UDNVX3VRX2c?oc=5",
+      "publishedAt": "2026-10-14T11:21:01.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "센티넬라 구리 광산 파업: 노조, 중재 협상 재개 IndexBox",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "파업"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T05:55:26.844Z",
+      "updatedAt": "2026-10-15T05:55:26.844Z",
+      "analyzedAt": null
+    },
+    {
       "id": "4a5c61ba70323d97d86986bf2e9a1929e664fb5638a6026aae4612e487e3877d",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -5760,78 +5848,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-13T16:27:54.485Z",
       "updatedAt": "2026-10-13T16:27:54.485Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "a2fe5fb84d4df3cce141a6335703adb76efc3112e9149484c31cd1b657513018",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Inola trustees extend aluminum smelter moratorium to April 7",
-      "summary": "Inola trustees extend aluminum smelter moratorium to April 7 news9.com",
-      "source": "news9.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXFkeUNEemhNZ0o2Q0VPd3QtSE5WeThMQzJQdXRCc19nbXZYM29Gb25UT1VkdHM0R3F0LTFNVkFMUXFzSGpDMlZEWnh5azZhYXk3cDVnMFVKOVg2eVJibVRTbnJ3MjA5Nk1fU2pvbnE4c2psNlhELUg1alk2cW9Fak56ZHVJWnZwWTM5YmplakdnX1poX1hXTzlNSDd3di1CMWtJ?oc=5",
-      "publishedAt": "2026-09-15T03:20:20.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
-        "categories": [
-          "SMELTER"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Inola trustees extend aluminum smelter moratorium to April 7 news9.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-15T06:11:00.571Z",
-      "updatedAt": "2026-09-15T06:11:00.571Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "3b7a9dff5ab7eeacc426702b15411b00c4ebabb4158921ea5ed6cdcf79ae49a1",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "DAILY: Tin price drop heats up mark...",
-      "summary": "DAILY: Tin price drop heats up mark... Mysteel",
-      "source": "Mysteel",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzR3N0w2Ym1pTllpcUNfTVg3U3N2UTVvVU42N2Yzd05rX0lvdm14emM4OEJsRWdTeU9wTHlrQklMcmY5My13eTZOOWMwQWlvd3BBSjRidXdGekhuY3dKeGxtemJxYjFSV2ZocS0zLTdJWmR2UmJBTGxiMUxlYWlyOWJBWmRKZ01KUXRpN2V3?oc=5",
-      "publishedAt": "2026-09-15T01:02:56.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "DAILY: Tin price drop heats up mark... Mysteel",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-15T06:11:00.571Z",
-      "updatedAt": "2026-09-15T06:11:00.571Z",
       "analyzedAt": null
     },
     {
@@ -13105,125 +13121,6 @@
       "analyzedAt": null
     },
     {
-      "id": "8777c9560fced01b9b59a44d4320166ef17705c4df4f4168a65419511c2a5bc2",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Contract rollover releases rigid demand; discounts in North China narrow and rise [SMM North China Spot Copper]",
-      "summary": "Contract rollover releases rigid demand; discounts in North China narrow and rise [SMM North China Spot Copper] SMM Metal",
-      "source": "SMM Metal",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRUZwNkpoRHA2Mko5c2I1aVBSaGVtMHBwbmNsenNZeHA4bi11Sy0xZFBuN0J2V3BuYWRZSmNaYXpIaUljVVUtZzMzTVRsejJmcEtIOGhkTTBSVzdXWTNrMzc2Wjg4VWdKcnpUWEo0dGF4d01GcXlORDBtMm5xQWNfSHNEb3E3RXhQYkNNdUxONW5ya2ZiT2tKOWV4ZlZuU281cFhlS19jMEl1NHl6QjI2ZXZHTHN5RWozV0VkVzZ2UThTa0Fpd2VrdFI4SkVsNkVodFBtVDhtYnlNYWU1QS11ZkNWQzBHUm5ZY2g2SQ?oc=5",
-      "publishedAt": "2026-09-15T04:06:10.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Contract rollover releases rigid demand; discounts in North China narrow and rise [SMM North China Spot Copper] SMM Metal",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-15T06:11:00.571Z",
-      "updatedAt": "2026-09-15T06:11:00.571Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "8ef3ed582c1a5462a2462629d6ad539ddba62d1e9e2953e56905ebe7ac3200fc",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Large price spread between futures contracts on delivery day; spot trades sluggish [SMM South China spot copper]",
-      "summary": "Large price spread between futures contracts on delivery day; spot trades sluggish [SMM South China spot copper] SMM Metal",
-      "source": "SMM Metal",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON0k3dXMyTzZrdWY1aFNnUXFNaUo4T25HWFRBcFU3ZlQwbGlvUUJmNUFIV1pYekExekx2SktLR0duSTJnZ3kxQnlCdlR6blJBTXNTbUZhN0xqQmRXY1RLWXNOYlU5OTM5bjVQakVIdHk1d0ZGNHE4bUx1YTk1MV9wWmkyWnp6cm5CVjIwdExwUnRZZGluT2ZlV3FLQmJNQjZNZ2xIYmJRUHdYZTNveDJ4MUxnQkF3QVBvMlFnVXJGU1BMeVNHZDA0ZGhZVXlydHgxcHhYWUJxV1JCSk1MNUVsb09Jb0lRNVBLNnM4Y0ln?oc=5",
-      "publishedAt": "2026-09-15T03:36:09.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "TRADE",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Large price spread between futures contracts on delivery day; spot trades sluggish [SMM South China spot copper] SMM Metal",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-15T06:11:00.571Z",
-      "updatedAt": "2026-09-15T06:11:00.571Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "c5e7b16e0593d127de3f9d3490cf19339cf7e0e8de33806515d6beca7221ba26",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "China’s Aluminum Output Hits Record as Government Limit Looms",
-      "summary": "China’s Aluminum Output Hits Record as Government Limit Looms Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWJzRms0a0VDcmdVZ1o1bkQzTkhQNmRhMVNzTkZWWlhEdUJWX1BUOHo1bi1LVW9zcnY1ejZZRkhsSWt4ODdNMmQ3OThsTWhMZFlQUmNhUTk2MEJuMzdoSlFvUE1SRXN3WVJFUk04Zi00VG9UcEY1cXhieC1oRFU5RG9uZFB0TlFrZnN1OTA2YVIwNThWRmVLS0lzOWlsNTFWNXJ2RjVGQkphbGZ5VWRYOXdn?oc=5",
-      "publishedAt": "2026-09-15T02:47:00.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Government Policy",
-        "categories": [
-          "PRODUCTION",
-          "POLICY",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "China’s Aluminum Output Hits Record as Government Limit Looms Bloomberg.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-15T06:11:00.571Z",
-      "updatedAt": "2026-09-15T06:11:00.571Z",
-      "analyzedAt": null
-    },
-    {
       "id": "078d8f2e5486a87280434b561df1ebc2b4382475ea39c580d5582ff56e695e01",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -15650,6 +15547,81 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-14T22:40:34.332Z",
       "updatedAt": "2026-10-14T22:40:34.332Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "a0532028ebd4d7e147e5ad4113c4c7231ede02d887e6e6cccb69a75401abe0d6",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Hydrogen successfully used in aluminium production trials",
+      "summary": "Hydrogen successfully used in aluminium production trials Aluminium International Today",
+      "source": "Aluminium International Today",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0w3YXoxcmVVbnQwZWZ2NmtXamU3VWNZLTJTX2hCQWJwV2FtZUZJbEFrOUEtYjB4QzRGVnZBTGpfYWZ2dmhkR3kyWHQzb3ptWV9Zc1pKdVEteUlGaEk2R3BURlZWQk45U3BiWHNpVGpCUHR5Vk9ULUlDTmUyLThBaUNvd0FMbGVjRVRZT0V1RG1vOFE?oc=5",
+      "publishedAt": "2026-10-15T05:30:04.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Hydrogen successfully used in aluminium production trials Aluminium International Today",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T05:55:26.844Z",
+      "updatedAt": "2026-10-15T05:55:26.844Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "71f6892692c181d6f465205850b90aeef7fa2f7c57af531ab4ca36655dae6cd0",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Stocks in Focus as Chile Supply Risks Reshape the Global Miners Screen",
+      "summary": "Copper Stocks in Focus as Chile Supply Risks Reshape the Global Miners Screen Simply Wall Street",
+      "source": "Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcWZ6VlVxYXg2OVJ3emhrOTJHbEdOMVNZeWhCd2dlQmZoTHFyYWlIQ25MR25lSVdCX3pGRUJRelMySGJwZEJGQ2FWSWVVXzV2eVFqamFoS2R5SHNLWWZ1REVZekVXejlERnZ6SkktQVhxZG9ZUGlmaTVSa1ZzeVctcjVWaVdJVDMxeWhEcXJoUGUwdHEyLTc5aHV6TjJwRFFldTRWUWwwZTFtbnpzbjJmMG01Y3dRcWMzNF9EZERrajFyLTVsWDlQUGVkaHMzd9IB0wFBVV95cUxPS0NfX0t4dmdiU1pvbkczMVJjWF8yemlhcWNfMTZydncxWHNZOXNzLTlIQ3BIeGx2bkxVcWtRVFZHSEUxMUs1eXV5WGY2ZjRWcHJYeUNJYXlneUtPZk5VcUJDNlRTekFiZUZZbk1sWHM1WkJzak5ETy1SbDlHQ1o4SWJISkZKUHhyeU96R1ZkbkFyMnFjMS16OWJoUENYblU0eFQ3bXBIb0t6Z3RoTEZsZkwxRzFwY1k3RGlTM2NieTVFV0RFX3dnS096NkpGaWlZWTFn?oc=5",
+      "publishedAt": "2026-10-15T04:56:01.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY",
+          "MINE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Copper Stocks in Focus as Chile Supply Risks Reshape the Global Miners Screen Simply Wall Street",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T05:55:26.844Z",
+      "updatedAt": "2026-10-15T05:55:26.844Z",
       "analyzedAt": null
     },
     {
@@ -19149,6 +19121,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-15T00:55:42.470Z",
       "updatedAt": "2026-10-15T00:55:42.470Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "cc3357e7dd683a92b4e37208fbdb8318ef383339786af010305931e9c64ee914",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Kingfisher Mining raises $2.25M for Copper Blow",
+      "summary": "Kingfisher Mining raises $2.25M for Copper Blow Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONkdzVUVwTXIzQ0Z3SnlmdjhMYXVkM0haMzAtOU85cHZoX1hRU1pyRmU5Nlc4RnBBUU9ncVFVWld0OHAtSUFISVp4ZEdianVNWWxjdVBXekN6SVZpeWVYZW5GNVZKbnppWFFfWEcyZlZNTGtIb1hmOU1yYjJNN01uM3U1aw?oc=5",
+      "publishedAt": "2026-10-15T02:16:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Kingfisher Mining raises $2.25M for Copper Blow Yahoo Finance",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-15T05:55:26.844Z",
+      "updatedAt": "2026-10-15T05:55:26.844Z",
       "analyzedAt": null
     }
   ]

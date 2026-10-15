@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:55:42.470Z",
+  "generatedAt": "2026-10-15T05:55:26.844Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -567,6 +567,16 @@
       "publishedAt": "2026-10-14T02:46:00.000Z"
     },
     {
+      "id": "92c24ffbab6975fb37370db22f2db22b957712148d6f27c63c3841cdc601bb89",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "세계 최대 구리 광산 파업 모면에 구리 가격 하락…공급 불안은 지속",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "더구루",
+      "publishedAt": "2026-10-15T04:02:07.000Z"
+    },
+    {
       "id": "7e212b78936734c279b9efea56a05734f5c043ce3b70ed3d1fabe517646808b0",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -965,6 +975,16 @@
       "codexStatus": "PENDING",
       "source": "이투데이",
       "publishedAt": "2026-10-14T07:13:00.000Z"
+    },
+    {
+      "id": "ef7dd0e81083b4189fcbddc3394e9379445c5485d82f00b4a72686e3445dddaf",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "센티넬라 구리 광산 파업: 노조, 중재 협상 재개",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-10-14T11:21:01.000Z"
     },
     {
       "id": "4a5c61ba70323d97d86986bf2e9a1929e664fb5638a6026aae4612e487e3877d",
@@ -1405,26 +1425,6 @@
       "codexStatus": "PENDING",
       "source": "The Northern Miner",
       "publishedAt": "2026-10-13T14:27:25.000Z"
-    },
-    {
-      "id": "a2fe5fb84d4df3cce141a6335703adb76efc3112e9149484c31cd1b657513018",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Inola trustees extend aluminum smelter moratorium to April 7",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "news9.com",
-      "publishedAt": "2026-09-15T03:20:20.000Z"
-    },
-    {
-      "id": "3b7a9dff5ab7eeacc426702b15411b00c4ebabb4158921ea5ed6cdcf79ae49a1",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "DAILY: Tin price drop heats up mark...",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mysteel",
-      "publishedAt": "2026-09-15T01:02:56.000Z"
     },
     {
       "id": "d299ba097429973b9fef5ba214d488a67ce04274356e745d3e5fc3eaf09e9526",
@@ -3397,36 +3397,6 @@
       "publishedAt": "2026-10-12T05:56:38.000Z"
     },
     {
-      "id": "8777c9560fced01b9b59a44d4320166ef17705c4df4f4168a65419511c2a5bc2",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Contract rollover releases rigid demand; discounts in North China narrow and rise [SMM North China Spot Copper]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "SMM Metal",
-      "publishedAt": "2026-09-15T04:06:10.000Z"
-    },
-    {
-      "id": "8ef3ed582c1a5462a2462629d6ad539ddba62d1e9e2953e56905ebe7ac3200fc",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Large price spread between futures contracts on delivery day; spot trades sluggish [SMM South China spot copper]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "SMM Metal",
-      "publishedAt": "2026-09-15T03:36:09.000Z"
-    },
-    {
-      "id": "c5e7b16e0593d127de3f9d3490cf19339cf7e0e8de33806515d6beca7221ba26",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "China’s Aluminum Output Hits Record as Government Limit Looms",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Bloomberg.com",
-      "publishedAt": "2026-09-15T02:47:00.000Z"
-    },
-    {
       "id": "078d8f2e5486a87280434b561df1ebc2b4382475ea39c580d5582ff56e695e01",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4045,6 +4015,26 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-14T21:05:00.000Z"
+    },
+    {
+      "id": "a0532028ebd4d7e147e5ad4113c4c7231ede02d887e6e6cccb69a75401abe0d6",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Hydrogen successfully used in aluminium production trials",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Aluminium International Today",
+      "publishedAt": "2026-10-15T05:30:04.000Z"
+    },
+    {
+      "id": "71f6892692c181d6f465205850b90aeef7fa2f7c57af531ab4ca36655dae6cd0",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Stocks in Focus as Chile Supply Risks Reshape the Global Miners Screen",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Simply Wall Street",
+      "publishedAt": "2026-10-15T04:56:01.000Z"
     },
     {
       "id": "90fb5ca9b3c130603b1e56c995755a1394ca8f0e6715736a8785ec0b4327cc11",
@@ -5005,6 +4995,16 @@
       "codexStatus": "PENDING",
       "source": "Dealroom",
       "publishedAt": "2026-10-15T00:42:35.000Z"
+    },
+    {
+      "id": "cc3357e7dd683a92b4e37208fbdb8318ef383339786af010305931e9c64ee914",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Kingfisher Mining raises $2.25M for Copper Blow",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-15T02:16:00.000Z"
     }
   ]
 }
