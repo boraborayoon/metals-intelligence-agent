@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T19:27:22.427Z",
+  "generatedAt": "2026-10-15T22:41:16.086Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -437,16 +437,6 @@
       "publishedAt": "2026-09-28T08:34:15.000Z"
     },
     {
-      "id": "4bf24bd11bf0ab407cfd03d93322e98bd338e1a9440fc718d18e6580802f78eb",
-      "commodity": "ALUMINUM",
-      "importance": "HIGH",
-      "title": "Inola extends smelter ban; Oklahoma Primary Aluminum hints at legal action",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Tulsa World",
-      "publishedAt": "2026-09-15T20:33:14.000Z"
-    },
-    {
       "id": "218de763f0433b567e97149ad8f57badee12cab1caf44087cffe0a4051093d56",
       "commodity": "ALUMINUM",
       "importance": "HIGH",
@@ -675,6 +665,16 @@
       "codexStatus": "PENDING",
       "source": "Bloomberg.com",
       "publishedAt": "2026-10-13T14:13:20.000Z"
+    },
+    {
+      "id": "3826912532f7f54a36ff8201ec6a0e649b0e3f93d650752d81c54244cd133b5e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "막판 멈춰 선 파업 시계… 세계 최대 구리 광산 생산 중단 위기 넘겼다",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "글로벌이코노믹",
+      "publishedAt": "2026-10-15T21:57:36.000Z"
     },
     {
       "id": "4df9eaee82b8e31a80a7e0089ce748395403bbfa7f36e714f7f9314a53d7660e",
@@ -1465,16 +1465,6 @@
       "codexStatus": "PENDING",
       "source": "The Northern Miner",
       "publishedAt": "2026-10-13T14:27:25.000Z"
-    },
-    {
-      "id": "6c9534ea1128f961564836055472699d4bc6b8ff3aa55e21bf29f9c8fbf5850b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Largo Plumber Reveals 3 Clues Copper Supply Lines Are Aging Out",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "einpresswire.com",
-      "publishedAt": "2026-09-15T20:55:00.000Z"
     },
     {
       "id": "ba6877fd1c27bcc27245351bc3cd0a5e5953ecda8b0b29d5074ce0d2f93afa8f",
@@ -2494,7 +2484,7 @@
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "Investing.com",
-      "publishedAt": "2026-10-15T13:47:57.000Z"
+      "publishedAt": "2026-10-15T18:46:36.000Z"
     },
     {
       "id": "9d51d7866b7f5c1fae10da6b76753d27674f8e718124939cb571d3c6fe1d0e5c",
@@ -2515,6 +2505,16 @@
       "codexStatus": "PENDING",
       "source": "IndexBox",
       "publishedAt": "2026-10-15T16:23:32.000Z"
+    },
+    {
+      "id": "6a0fc4ae31f82b30791d5ad9a04643d5c295003b139dd8763004c152770e1d83",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Price October 16 2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Robinhood",
+      "publishedAt": "2026-10-15T18:08:34.000Z"
     },
     {
       "id": "4330edd60cd8669c31a8718797d3c0c51737ad2dad3b1a139c6f1e9939154736",
@@ -3387,24 +3387,24 @@
       "publishedAt": "2026-10-14T22:43:16.000Z"
     },
     {
-      "id": "9a8df4df57fc0cbc5abe4af498f803bd9e4595762eafd933a81ba325254880b2",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "알코아 실적 발표 앞둬…알루미늄 강세가 알루미나 부진 상쇄할까?",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com 한국어",
-      "publishedAt": "2026-10-15T13:57:00.000Z"
-    },
-    {
-      "id": "96909cc3220b4e376db414c2a2da5946b2935aab19022a2590369edb2cad83f4",
+      "id": "55ada1b839a70637946852f4eb450f9fd77a5b77a76912addf02e8d7d65197c9",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Antofagasta says Q3 copper output rose 7% but issues weak guidance (ANFGF:OTCMKTS)",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "title": "[구리 가격] 칠레 광산 공급 우려 완화에 2주 최저…LME 구리 1만4,256달러",
+      "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Seeking Alpha",
-      "publishedAt": "2026-10-15T16:29:23.000Z"
+      "source": "산업일보",
+      "publishedAt": "2026-10-15T22:31:58.000Z"
+    },
+    {
+      "id": "d0f7ef88b80f380c61605e887edc2234c2afc9023ecce818dea86b976ab9fc42",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Aluminum maker Alcoa Q3 revenue misses estimates on lower aluminum prices, shipments",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-15T20:23:50.000Z"
     },
     {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
@@ -4054,7 +4054,7 @@
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "Aluminium International Today",
-      "publishedAt": "2026-10-15T14:06:41.000Z"
+      "publishedAt": "2026-10-15T17:24:23.000Z"
     },
     {
       "id": "df4f80e5b6676b7ca92e4d09f39c5657c5ca41ce0c022fcbf564abd51738d1f6",
@@ -4074,7 +4074,7 @@
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "Canadian Mining Journal",
-      "publishedAt": "2026-10-15T16:05:49.000Z"
+      "publishedAt": "2026-10-15T17:31:34.000Z"
     },
     {
       "id": "90fb5ca9b3c130603b1e56c995755a1394ca8f0e6715736a8785ec0b4327cc11",
