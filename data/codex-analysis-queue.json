@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:47:23.789Z",
+  "generatedAt": "2026-10-16T05:52:56.515Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -13229,6 +13229,42 @@
       "analyzedAt": null
     },
     {
+      "id": "5f58242ad56ee78f426ffb1dc2bba64ba2ccb7c7777c4bd396cba14c030a935c",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "SMM, October 16: After the SHFE copper contract rollover, futures pull",
+      "summary": "SMM, October 16: After the SHFE copper contract rollover, futures pull Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmpYT1hFbldwWWJzQUlSeVAwM203YlZxMkFVR21RV0VTUGRSRldqSWVuMWZZN3d3RmlrSXZGS0FxelVNMkRaZmFMRnRoYkljNFVBYnNyWkpVSTBHLXJIV0xLVmYwNjhUZUYtUXlpUC1Cd2VVSnRCSEtpWjFGVHp3clpfMndLSVUxVUZLbGZuRmhmenoxZS1YWU12bXdMNlZJTm5TQkZhX1gteHJ1WUw0cC1LSGg2aS1oRGxDZTNvcno2OEJfdmdoTWJPeUFRU0RGdGRpbHZ3?oc=5",
+      "publishedAt": "2026-10-16T01:52:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "SMM, October 16: After the SHFE copper contract rollover, futures pull Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-16T05:52:56.515Z",
+      "updatedAt": "2026-10-16T05:52:56.515Z",
+      "analyzedAt": null
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -13344,42 +13380,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-16T11:37:53.096Z",
       "updatedAt": "2026-09-16T15:33:26.276Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "951a9c6388a857f7bdeabac653566f560df80681285dea6815d6caaf31dc1b3d",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "LME tin inventory 4,890 mt, down 230 mt; September FOMC rate hike almost certain, watch for decision [SMM Tin Morning News]",
-      "summary": "LME tin inventory 4,890 mt, down 230 mt; September FOMC rate hike almost certain, watch for decision [SMM Tin Morning News] SMM Metal",
-      "source": "SMM Metal",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbW9UWDlIa0R5Q0stWVFnV0hUTmktdW52YnVldDhGWGRkekZaYlpld1Uzd1AwRVlLQmQwOVVVM2JpdjlZM0NxeEdSem9YMWY1bk82bnZLWlhxMFVhT1VOaktIdEU4YV8teUR3T0l6TFQ3d0VxbE5fdlJzaUhSRWNfdHMxUG1EQjFPTmxraWloYmdRSmZ2THgzRmZHelBZbGZmd0hqclI5OVBZQm1GN2RHUWpBMTIzd29qMzBXbWhIRVRwR3JJV3VUMFNaSkZ1VUstMGpQeUpRa3JLVTJhT0lBM0xDWkduVVRRWUdQSGYwTV9vYVUy?oc=5",
-      "publishedAt": "2026-09-16T01:07:24.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Inventory",
-        "categories": [
-          "INVENTORY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "LME tin inventory 4,890 mt, down 230 mt; September FOMC rate hike almost certain, watch for decision [SMM Tin Morning News] SMM Metal",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-16T11:37:53.096Z",
-      "updatedAt": "2026-09-16T11:37:53.096Z",
       "analyzedAt": null
     },
     {
@@ -15766,6 +15766,45 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-15T15:45:00.067Z",
       "updatedAt": "2026-10-15T15:45:00.067Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "4c329e105f27fddbb2a4c335c04fb8c28dc38902ab72a698d6f96a2f879bd86f",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Spot premiums rose sharply after delivery, and downstream enterprises increased procurement volume as copper prices declined [SMM South China spot copper]",
+      "summary": "Spot premiums rose sharply after delivery, and downstream enterprises increased procurement volume as copper prices declined [SMM South China spot copper] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQaUVRSWlNbzIxelU5OGNjODUyaGtjUzhEMDNTamNhODhfdFp6LTBIX2ZHWmpvVmpwWWE3ejNxYTU4Nk1kMTBqQ0NKRTFhcURaY2ViMV9TT29KQ25kUmluMnZudjcxdVV2d3pSdlNQNlVSbk9UN2UyUkRITFVibmJzUlBhVERocENQckxPX2NQWkt5cmRVV2pUbm45cWNyX1FpYXV2dmRZdEdlVGJvaVYtWkhlQ0tKY2lvaW1sdXMzUk5HTE9MdUNhbHFuMkM4dXVETTRRUUpRUS0wLTJEcjg4OE5SU09sZWFYalVidVFQTlRkRWoxc0o5N2NBZDdNSVNKYnltWUdaV3ZFZVBoRkdPOGMzUG1YYkloa3FPNUZXcE5kdw?oc=5",
+      "publishedAt": "2026-10-16T03:49:00.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Spot premiums rose sharply after delivery, and downstream enterprises increased procurement volume as copper prices declined [SMM South China spot copper] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-16T05:52:56.515Z",
+      "updatedAt": "2026-10-16T05:52:56.515Z",
       "analyzedAt": null
     },
     {
@@ -19155,43 +19194,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-12T09:47:10.014Z",
       "updatedAt": "2026-10-12T09:47:10.014Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "9393c75d15ba7b307811a8a408452803251fa53259d29ed2ea804c6f39786946",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "하나증권 \"구리 가격 역사점 고점에 공급도 부족, 수혜주 풍산 LS 대한전선\"",
-      "summary": "하나증권 \"구리 가격 역사점 고점에 공급도 부족, 수혜주 풍산 LS 대한전선\" 비즈니스포스트",
-      "source": "비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pUXc4bTZfOFJsOUhVa0JnZ0ZDMlIzZHM2ZGczT3ZoUXM1TUpiUzFIN0UxUUFmeUlYZzRKSWRQYVFiSWpjZkhETHptRlNEYmJ2VUNHQjdLRjFCc3dmWmVtRVNUaG96Tl9Nd25WbDh4djdCM3M?oc=5",
-      "publishedAt": "2026-10-15T23:53:19.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "PRICE",
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "하나증권 \"구리 가격 역사점 고점에 공급도 부족, 수혜주 풍산 LS 대한전선\" 비즈니스포스트",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-16T00:47:23.789Z",
-      "updatedAt": "2026-10-16T00:47:23.789Z",
       "analyzedAt": null
     }
   ]
