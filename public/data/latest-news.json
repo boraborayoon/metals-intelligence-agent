@@ -1,6 +1,113 @@
 {
-  "generatedAt": "2026-10-17T00:30:53.175Z",
+  "generatedAt": "2026-10-17T05:01:27.067Z",
   "items": [
+    {
+      "id": "c65f8026cc5e0678055162379a4c904920161a843fdaea6a28aa303a893b9799",
+      "titleSourceHash": "ab71f9b722b9f59aff132140042e2be6fed98759fde5d82b12aea5744bdd9d73",
+      "eventId": "37d680be8f9c9de0c416784e0855933e76c2564ee9a6f5d6e3aec595f4c855cd",
+      "title": "ICSG\"2027년 세계 전기동 공급과잉 36만 8000t\"",
+      "normalizedTitle": "icsg 2027년 세계 전기동 공급과잉 36만 8000t",
+      "description": "ICSG\"2027년 세계 전기동 공급과잉 36만 8000t\" CNews",
+      "source": "CNews",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-10-17T00:51:26.000Z",
+      "fetchedAt": "2026-10-17T05:01:27.067Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mX1lVbWZiRDlRMzd6X0VZdUFockRya3JHTERnU0NUNjdmYU90MkpGbWdzV18wZkczUVh4UUNnUmxyS0djSm5uRW9FTlVBZ2NCWUNIbnlYcFVTckM3S09WYThNSkZJUW0wRmhkWFNlaTdTU1RRQTJr?oc=5",
+      "language": "ko",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "전기동"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "공급"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "전기동"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "공급"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "SUPPLY"
+      ],
+      "primaryCategory": "Supply",
+      "titleKo": "ICSG\"2027년 세계 전기동 공급과잉 36만 8000t\"",
+      "summaryKo": "ICSG\"2027년 세계 전기동 공급과잉 36만 8000t\" CNews",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "ICSG\"2027년 세계 전기동 공급과잉 36만 8000t\" CNews",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "ICSG\"2027년 세계 전기동 공급과잉 36만 8000t\" CNews",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-10-17T05:01:27.067Z"
+    },
     {
       "id": "0cc30f97ab79f9d268592add5c5a3b53c27e98386ef261c254eff20dd5cc12c4",
       "titleSourceHash": "95ceac57947e2442e121e1db6ffd19d833a8a6ce2c102bdc7871b46f79cc77a4",
@@ -456,7 +563,7 @@
       "source": "TradingView",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-16T22:15:03.000Z",
-      "fetchedAt": "2026-10-17T00:30:53.175Z",
+      "fetchedAt": "2026-10-17T05:01:27.067Z",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORGxUVkctZ2xyc2t0ZUlPUnNXODRfNG95QzZzLVE0b3ZKZDhac1ZaX3RXblFfR1NvTko1RG1NWk15MHc4eWdjQm8ybXdwemhnNHZHZnM1V1VYcmtwekwzNXhXNVBRRjJJbl9qYzRwV2NjOGVSTHFBUmZDX19EQzNhWmdiSEtZS2o5cFJYLVh0T3lqRFlVV0g2UUM4ZV84NWdZUlBQdWZHdms4TGxzcW9WclVkaTFEWjNnM3lHZFBsRFU3WFdmT0hWYzhRcU5rOVRCS3FHMGVqMTczVzVlWWc?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -543,7 +650,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 16,
+      "priority": 12,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -770,6 +877,126 @@
       "codexReviewReason": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
       "sent": true,
       "sentAt": "2026-10-17T00:30:53.175Z"
+    },
+    {
+      "id": "0d35351172b0bfbcb580572a76e1140a4ac8269170aca94555dff2184834e3bd",
+      "titleSourceHash": "5db62aeadd8d7975520c1b9f094ded7828a5dd9cc0f04b4381733a1926824cdf",
+      "eventId": "882df605024b8dcb8e6d2abbfc065c4b3daa4dc34499556509873456c1d238a3",
+      "title": "Quimbaya Gold Defines a Copper-Molybdenum Porphyry System at Tahami Center",
+      "normalizedTitle": "quimbaya gold defines a copper-molybdenum porphyry system at tahami center",
+      "description": "Quimbaya Gold Defines a Copper-Molybdenum Porphyry System at Tahami Center Junior Mining Network",
+      "source": "Junior Mining Network",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-16T21:02:55.000Z",
+      "fetchedAt": "2026-10-17T05:01:27.067Z",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMGtXODN2SzNvZ1VNanJodlRBcjhnYmR2SVQxZ3JYUzdMMjVIYUhJUXhfMlU4a3pmbWlXZGJCMHVodHFvQ29CTUo2dU82RkpQbE16Ukh0enVNYU0zVWZyNkNsS2sxUkdrSVFpcG9PM0RpNDIybUkwaGszTjdHckpvMUFzR2huVHNBTWZqVjY2LXBmM0o0MWs3aVZYYmQ1dW93dEt4aV9rbVl6Yk0wTnVwcFN5YTNReEVuZEFscTlnamliV2VzRW9Ta1laYTJjVzVCY3FaU01hY3FYUS10ZmpFMjNKeTdXVGszbGRiYW1xMHBwVjVQOExuMFR2ZUs?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "mining"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "mining"
+          ],
+          "exclusionReason": null
+        },
+        {
+          "commodity": "MOLYBDENUM",
+          "score": 9,
+          "matchedKeywords": [
+            "molybdenum"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "mining"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "MINE"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "Quimbaya Gold Defines a Copper-Molybdenum Porphyry System at Tahami Center",
+      "summaryKo": "Quimbaya Gold Defines a Copper-Molybdenum Porphyry System at Tahami Center Junior Mining Network",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Quimbaya Gold Defines a Copper-Molybdenum Porphyry System at Tahami Center Junior Mining Network",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Quimbaya Gold Defines a Copper-Molybdenum Porphyry System at Tahami Center Junior Mining Network",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 30,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": true,
+      "sentAt": "2026-10-17T05:01:27.067Z"
     },
     {
       "id": "c44fc78819aa9155b62b1a7deff31811de1b321b084f83a2f35c1f46dc5fe77f",
@@ -1108,7 +1335,7 @@
       "source": "Yahoo Finance",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-16T17:59:00.000Z",
-      "fetchedAt": "2026-10-17T00:30:53.175Z",
+      "fetchedAt": "2026-10-17T05:01:27.067Z",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbW9saWN2SzVIZTlyVTVHYWp5NDlYbGduejBzNmpVUGdoNnFHc3BYTVVrNHgyekVMdTgzWnNVaHVWQVo5OUFIb0JKbGppOXJuOUYzZWlkLW80bzJtbTAxQVc5cmlwNWVEN1ZWTms2X0h1XzNrYmVsMGZpRXRiTFVmeXlpcklBVC1oUEdWcjJ6eTlmYmNWX3F0LXp2UmVBVXExM3ZadGRHNzNUR2c?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -1999,7 +2226,7 @@
       "source": "Missoula Current",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-16T15:07:30.000Z",
-      "fetchedAt": "2026-10-17T00:30:53.175Z",
+      "fetchedAt": "2026-10-17T05:01:27.067Z",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wQm9FLUdQOEl1MXluU3lpbXplWUhHbDRKVVhPTTdsYmxvdDBaeG9rOFdiYjN5eXFjWWhCd0lvaklmU0x4OXozbEdKeDBxR2wwZVpJa2VXWmkzZmM?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -2093,8 +2320,8 @@
       "priority": 30,
       "codexStatus": null,
       "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-10-17T05:01:27.067Z"
     },
     {
       "id": "cb3dfba905251d3b51183344abee260a30779db979dd75e004e55a55c95bb915",
@@ -2233,7 +2460,7 @@
       "source": "IndexBox",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-16T14:51:04.000Z",
-      "fetchedAt": "2026-10-17T00:30:53.175Z",
+      "fetchedAt": "2026-10-17T05:01:27.067Z",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEc3aUs2amxXZExDR01KLVBwOUs4d3UzVUxIR0lnbVhoNWlCLXJab3dDNnpNT2ZYQVV5WkN4ZTFLVDh0R25kanZHMEpacnhQMUVQaFpvaW8xRWQ1ZkNvcnhBLW5FUTAwTFRwX1hYd1lCTTFscFRrdXUyX3h1OFJITkNHTVpmb19rSFFfNlQ0YWJiczhjMmdLZnNvcVphT25Qdi1mejBwbTRFeUFkUGlGMUhXQ2dBSE5L?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -2330,8 +2557,8 @@
       "priority": 30,
       "codexStatus": null,
       "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-10-17T05:01:27.067Z"
     },
     {
       "id": "400d805e2880e4555d538c36b9f962ba8718cf83598739283bb6110fef400e2c",
@@ -2769,7 +2996,7 @@
       "source": "Money Morning",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-16T13:07:42.000Z",
-      "fetchedAt": "2026-10-17T00:30:53.175Z",
+      "fetchedAt": "2026-10-17T05:01:27.067Z",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOUZwU2x5VFdXSkoxeGVpOE1ZdlpoYkt5bUdFdkQ2cWgyd3Ffcm9wRmYtNEhPTGlTZWQ1UzN1b1BKRVpfTUxaYXhEMlBIQm1sdE9ZVFhxVV9sWFpXRU50OHNvOF9scGQ5VGFxV2NYalBiUjFObHZaSm1rNGJsY1VDOWFIVFYxOExsTVZvNDQwYkVGTzhX?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -3217,7 +3444,7 @@
       "source": "Investing.com 한국어",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-16T11:45:00.000Z",
-      "fetchedAt": "2026-10-17T00:30:53.175Z",
+      "fetchedAt": "2026-10-17T05:01:27.067Z",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wNGI1ZlV6YmFkT1czdUlvaTkwT0hHTHQ1RHozdlJWWjJSekR2SmRIRW9FT1dXeXAwemxwZ0VQamhOR0Nhanh6b2N5VTAzd3JuMkZrdGx1THJoLTI0V0ZRdVVodWJuSGFzRXAxVXRITTM?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -4159,7 +4386,7 @@
       "source": "Reuters",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-16T10:20:15.000Z",
-      "fetchedAt": "2026-10-17T00:30:53.175Z",
+      "fetchedAt": "2026-10-17T05:01:27.067Z",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSm9ya250OUF2VWo2QzNYMDB2MjJjb0dMS1Vhc0pIMndnUTY4bnE2MDVnNkRDWjhhVnk2eDZCWVluOEdPanlGUjZ4ekc2RjRkY2NHdXdVYWtPUFowYk5henNCLU9KWjdhZHVSZmtGdS1kVWpPS3BQelNMWGdoZldXMVYwUFJ5eUlta0NMY2ZfME1oV0JTY1lXX2ZGdFBGN0t6cXVyMjNPa2hiZFE0TVBFMFMta2NOQQ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -4268,8 +4495,8 @@
       "priority": 31,
       "codexStatus": null,
       "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-10-17T05:01:27.067Z"
     },
     {
       "id": "34fe1dc16c555cbb4cf132f1214103d9f612cdac0abc82875e9370f3d06b0f5e",
@@ -4827,7 +5054,7 @@
       "source": "Streetwise Reports",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-16T09:27:55.000Z",
-      "fetchedAt": "2026-10-17T00:30:53.175Z",
+      "fetchedAt": "2026-10-17T05:01:27.067Z",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHBxbWhtMWFrU1NUV3hOb0dhRV9rQlJfQmNUR2NpOW9IMkpTM1ZBNDRSUWNnQmFvLXRFYWp5ZUFPYmVORU1rMlZwY1U2TEl5TWhXd3hueHNFTjViXzgyS2lMMDNod044UzFDaUNHZ216NEFXTFUwanNjNk9XT3B5XzR2QUZoRXBmTldxMm14WEhJYkpCNjV1eDhDa29PUjhHMFdFV0VoN2dxeVRzSXItZEQtUjZaWUZxZ1RnTlZmRElBOEhhY0ZiNmU0OA?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -14621,7 +14848,7 @@
       "source": "철강금속신문",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-15T08:54:50.000Z",
-      "fetchedAt": "2026-10-17T00:30:53.175Z",
+      "fetchedAt": "2026-10-17T05:01:27.067Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Od2dnN2tqVi0yTm91MmZLNmdfNTc4OUxvcE5weEpUckhSMTVjb1Mwb2gxMVYxS3NYcE03b0NGNGpIb3lTakIzb2l0SGxDalZkSHJYVUJaeXQtTG9yMUlMU1o5akJFVjQ5MkE?oc=5",
       "language": "ko",
       "commodity": "ALUMINUM",
@@ -15167,7 +15394,7 @@
       "source": "서울일보",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-15T07:49:39.000Z",
-      "fetchedAt": "2026-10-17T00:30:53.175Z",
+      "fetchedAt": "2026-10-17T05:01:27.067Z",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QWHkwQnB6TmpMbXM5NXhHZ0F5dTJHS0FXU3JBNG1QLTR1TVhFSGdHdlNrdGFEODVYcTQzd1JtSFVFdTFaMWtjMzZHVUxnM1Y0OGN6enhWb3dZenVDNjJ1R2VjMXBOZFRqMEo40gFvQVVfeXFMTjI5c3BDejBrZzhLdXZ3bVNOdFAtVE11UlZYYnQ5RnZCcS1zM2I0M0M2bXk2M2JJazRQa1JYRlRHN0I1OFdzOUxNMFBfd05hVUJvMUtCX0tTa0ZseHh0OEtBUHhBUjhRRVY3SzkzV1dZ?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -29371,7 +29598,7 @@
       "source": "Georgia Laurie",
       "feedSource": "International Tin Association",
       "publishedAt": "2026-10-13T12:25:39.000Z",
-      "fetchedAt": "2026-10-17T00:30:53.175Z",
+      "fetchedAt": "2026-10-17T05:01:27.067Z",
       "url": "https://www.internationaltin.org/tins-growing-role-in-future-hydrogen-production",
       "language": "en",
       "commodity": "TIN",
@@ -33753,225 +33980,6 @@
       "codexReviewReason": "Material event taxonomy",
       "sent": true,
       "sentAt": "2026-10-13T21:34:18.121Z"
-    },
-    {
-      "id": "edee9325bf2dfe0406a755b07f0c00c62c5fafa535b7d6c3f553a456727d4be5",
-      "titleSourceHash": "c875423f48ad796390d7cecfe50338b94007c2581f39c64372ff5ee7cbf3f685",
-      "eventId": "9a1fd234867738e8c10eeafaba79a4a93c12156ceab160ace42ea6a80e14f75a",
-      "title": "Oil Prices Rise Amid Supply Concerns; Gold and Copper Markets Re",
-      "normalizedTitle": "oil prices rise amid supply concerns gold and copper markets re",
-      "description": "Oil Prices Rise Amid Supply Concerns; Gold and Copper Markets Re GuruFocus",
-      "source": "GuruFocus",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-10-12T21:31:11.000Z",
-      "fetchedAt": "2026-10-13T08:29:16.311Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRi1ob2NmamVPeWowOEZKMC1qb0JiNlhuODM5QnNTOGVCeUtNVUJFXzZta3VHbExtdFpmRVNLQ3IzY1E4UWJWOXlUVG1LdVpSUUJta1pKWFYyZTNXdnZPZnZBNWtjckF0XzA0TEo3enZGbnZXckZVbEVlblZLWkJGUWh2dzl2UzBrT09Rb0tibVhiQk1sSjh4UUpSWDUtRjV4MzY0d2RFZ2Y?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "supply"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "supply"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "SUPPLY"
-      ],
-      "primaryCategory": "Supply",
-      "titleKo": "Oil Prices Rise Amid Supply Concerns; Gold and Copper Markets Re",
-      "summaryKo": "Oil Prices Rise Amid Supply Concerns; Gold and Copper Markets Re GuruFocus",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "PRICE",
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Oil Prices Rise Amid Supply Concerns; Gold and Copper Markets Re GuruFocus",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "PRICE",
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Oil Prices Rise Amid Supply Concerns; Gold and Copper Markets Re GuruFocus",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "01072586a58deccf303a909789580e99326009f485c39fcc19e797761aa934ca",
-      "titleSourceHash": "f526356c26d17b959bf9b3d81a6e25a8dbfe47b2dc90f00cf2bc136dec66ae3a",
-      "eventId": "4a076851a2196bbf94d028ad56a4b150fce08ae545a3a62174ca07f4bcd46f42",
-      "title": "Site near Batchawana Bay could become massive copper mine",
-      "normalizedTitle": "site near batchawana bay could become massive copper mine",
-      "description": "Site near Batchawana Bay could become massive copper mine SooToday.com",
-      "source": "SooToday.com",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-10-12T20:16:21.000Z",
-      "fetchedAt": "2026-10-13T01:38:05.241Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmNFQkFvS0IzUHFNdEtmTUsxWGxnMk5ubHBkR2tXTUU4QTF5SXluNVY1QVV2d0FPMVBFSTdmemNsMy1HZkhCWC0xZ09Wdkw4R1R5bjQ4a2MtU1E1NWZFZFp2S2ZnaVM5a3pzUVdkQ3B1ZmMwRGZDUElnN1RoT2tOTWdlUlBCT3Q1M05NN2FIVGYxVDBEVDhmT2NheTlMV0ppNW4zQQ?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 13,
-      "matchedKeywords": [
-        "copper",
-        "copper mine"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "mine"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 13,
-          "matchedKeywords": [
-            "copper",
-            "copper mine"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "mine"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "MINE"
-      ],
-      "primaryCategory": "Mine",
-      "titleKo": "Site near Batchawana Bay could become massive copper mine",
-      "summaryKo": "Site near Batchawana Bay could become massive copper mine SooToday.com",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Site near Batchawana Bay could become massive copper mine SooToday.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Site near Batchawana Bay could become massive copper mine SooToday.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 38,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": true,
-      "sentAt": "2026-10-13T01:38:05.241Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:30:53.175Z",
+  "generatedAt": "2026-10-17T05:01:27.067Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -13604,45 +13604,6 @@
       "analyzedAt": null
     },
     {
-      "id": "1466adf717e29f9ec5f4f462b7d51bdb23c91e5f3542fe8ff4be56a279069c97",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper rises as improving China demand counters Fed rate hike",
-      "summary": "Copper rises as improving China demand counters Fed rate hike TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0dEb2VxVUtaTl9UTEJGVkFoLUhKcnplaVZ0akNaTDVna2ViT29CVk9yYi1ZNGw0cmhFODRyVjJTVXZpOW1uekJJME54ZjF4X2ZNc05sVHBCMWtubEUzdHZHenJRVmRPWFZYUzVnT0VWWERpd2ZjblRRZW4yS3M0d3N2ZFEydFRMSjVuaVF2X3E0LWt3bXhPMkRFMjdfUU83NGs3a3hxd3BBc3BveG0ybGEzeHIwbWNsREszdVEzc0dzMnNacFFBejlhOA?oc=5",
-      "publishedAt": "2026-09-17T03:47:25.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper rises as improving China demand counters Fed rate hike TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-17T05:27:57.658Z",
-      "updatedAt": "2026-09-17T05:27:57.658Z",
-      "analyzedAt": null
-    },
-    {
       "id": "d4724ef9b8e25da41c6f17421fb527a0faddef1fb3da5d7cb0266a8e5baab94f",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -19196,6 +19157,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-11T19:44:29.015Z",
       "updatedAt": "2026-10-11T19:44:29.015Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "c65f8026cc5e0678055162379a4c904920161a843fdaea6a28aa303a893b9799",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "ICSG\"2027년 세계 전기동 공급과잉 36만 8000t\"",
+      "summary": "ICSG\"2027년 세계 전기동 공급과잉 36만 8000t\" CNews",
+      "source": "CNews",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mX1lVbWZiRDlRMzd6X0VZdUFockRya3JHTERnU0NUNjdmYU90MkpGbWdzV18wZkczUVh4UUNnUmxyS0djSm5uRW9FTlVBZ2NCWUNIbnlYcFVTckM3S09WYThNSkZJUW0wRmhkWFNlaTdTU1RRQTJr?oc=5",
+      "publishedAt": "2026-10-17T00:51:26.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "ICSG\"2027년 세계 전기동 공급과잉 36만 8000t\" CNews",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-17T05:01:27.067Z",
+      "updatedAt": "2026-10-17T05:01:27.067Z",
       "analyzedAt": null
     }
   ]
