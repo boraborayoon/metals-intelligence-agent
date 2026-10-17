@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T13:14:50.294Z",
+  "generatedAt": "2026-10-17T16:29:08.211Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -745,6 +745,16 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-12T11:50:35.000Z"
+    },
+    {
+      "id": "771b60fbc8da46565c33e00bf194f4a55706ffe4f3f98d593550585c7cef4bef",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Antofagasta Workers to End Strike, Easing Chile Copper Tensions",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-10-17T15:07:53.000Z"
     },
     {
       "id": "e556c7478371963ae234c379bb318f3c995a0e32f6ba09d7071d8dc228602d04",
@@ -2577,6 +2587,16 @@
       "publishedAt": "2026-10-16T21:45:40.000Z"
     },
     {
+      "id": "14150d2b99e4626cef306147f465c2dc14f29e876c1367b3b89179ba7420964b",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "LME Aluminium Premium Duty Paid European (Fastmarkets MB) Futures (Mar 2029) Trade Ideas — LME:EDH2029",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-17T13:51:30.000Z"
+    },
+    {
       "id": "4330edd60cd8669c31a8718797d3c0c51737ad2dad3b1a139c6f1e9939154736",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3485,16 +3505,6 @@
       "codexStatus": "PENDING",
       "source": "S&P Global",
       "publishedAt": "2026-10-12T05:56:38.000Z"
-    },
-    {
-      "id": "c7b7f330e055f80dd63dda5f795a9ed4e985fee1f3a8373421742ddcaa3e02a4",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper hit a record as Chile expects output to fall 2.6%",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Stock Titan",
-      "publishedAt": "2026-09-17T14:04:00.000Z"
     },
     {
       "id": "80d4fcb7476a77f93693cae76acb93d8e5165d6173ac02c3fd46523ff75ac5d5",
@@ -4967,6 +4977,16 @@
       "publishedAt": "2026-10-17T00:51:26.000Z"
     },
     {
+      "id": "7881ecd836bb2729529b4494efe9e8dda6916637bcd5e0d8ff7a287ef5095892",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "LME Aluminium Alloy Day-25 Oct '26 Futures Price History",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Barchart.com",
+      "publishedAt": "2026-10-17T08:04:36.000Z"
+    },
+    {
       "id": "bd39d56e6e54b767129cc452e73f18367bdd8e0e9af7428cc09fb15048acc9e5",
       "commodity": "MOLYBDENUM",
       "importance": "MEDIUM",
@@ -4985,26 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Yahoo! Finance Canada",
       "publishedAt": "2026-10-17T00:20:46.000Z"
-    },
-    {
-      "id": "a6d83596aee40a4e311fcd5323f7d4bdf0143485a757cb43c29e7dae2283be00",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Alcoa Beat on Cash and Ops. Aluminum Still Does the Heavy Lifting.",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Money Morning",
-      "publishedAt": "2026-10-16T13:07:42.000Z"
-    },
-    {
-      "id": "6683ba296fb87dca1a053d9c28eb169abb9b5a4492d0298ee856af9a08cd66c9",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Anglo Asian Mining, 3분기 구리 생산량 전년 대비 141% 증가",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com 한국어",
-      "publishedAt": "2026-10-16T11:45:00.000Z"
     }
   ]
 }

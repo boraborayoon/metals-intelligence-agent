@@ -1,6 +1,371 @@
 {
-  "generatedAt": "2026-10-17T13:14:50.294Z",
+  "generatedAt": "2026-10-17T16:29:08.211Z",
   "items": [
+    {
+      "id": "771b60fbc8da46565c33e00bf194f4a55706ffe4f3f98d593550585c7cef4bef",
+      "titleSourceHash": "cc6e946627d85eae633798656ec4988151beefdf139e7c5fa58248b6e2c45ba7",
+      "eventId": "da947546cbb672153f996b3ac7681e987efdbbac6fcceda18a50330f269b6baf",
+      "title": "Antofagasta Workers to End Strike, Easing Chile Copper Tensions",
+      "normalizedTitle": "antofagasta workers to end strike easing chile copper tensions",
+      "description": "Antofagasta Workers to End Strike, Easing Chile Copper Tensions Bloomberg.com",
+      "source": "Bloomberg.com",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-17T15:07:53.000Z",
+      "fetchedAt": "2026-10-17T16:29:08.211Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmtMSlNqNzRUajJtWlV5ajJFZmRaWUgxMGt3Y0NkX0NtZlkyMENvY0VVOVJOTzNXX3d2Q2FTM3VOYkxTNnAzRWd2QVk2b01QNUFGV25YTjNNTndIdzU3akh4THJ1c0dZTUFXaGFBUExxcllhcGhETjg1cERSTmE3STU3NjRCSFFqTnd0QnZOLW1lMTFBMjRSS21RWjEwa1F3Q1c0VGYwR293d243dVFZUmxYTQ?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [
+        "Antofagasta"
+      ],
+      "matchedRegions": [
+        "Chile"
+      ],
+      "matchedMarketTerms": [
+        "strike"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 12,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [
+            "Antofagasta"
+          ],
+          "matchedRegions": [
+            "Chile"
+          ],
+          "matchedMarketTerms": [
+            "strike"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "STRIKE"
+      ],
+      "primaryCategory": "Labor Disruption",
+      "titleKo": "Antofagasta Workers to End Strike, Easing Chile Copper Tensions",
+      "summaryKo": "Antofagasta Workers to End Strike, Easing Chile Copper Tensions Bloomberg.com",
+      "marketImpact": "Bullish",
+      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+      "procurementImpact": "NEGATIVE",
+      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+      "regions": [
+        "Chile"
+      ],
+      "companies": [
+        "Antofagasta"
+      ],
+      "timeHorizon": "IMMEDIATE",
+      "confidence": "MEDIUM",
+      "signals": [
+        "Supply Tightening",
+        "Supply Disruption",
+        "Price Increase Risk"
+      ],
+      "keyEvidence": [
+        "strike"
+      ],
+      "conflictingSignals": false,
+      "codexReviewEvent": true,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Antofagasta Workers to End Strike, Easing Chile Copper Tensions Bloomberg.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Antofagasta Workers to End Strike, Easing Chile Copper Tensions Bloomberg.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "priority": 45,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Material event taxonomy; High-impact event requires evidence review",
+      "sent": true,
+      "sentAt": "2026-10-17T16:29:08.211Z"
+    },
+    {
+      "id": "14150d2b99e4626cef306147f465c2dc14f29e876c1367b3b89179ba7420964b",
+      "titleSourceHash": "eca958b13d1ab9efff348486c4aa2f9e87cfdc9961e8419e736be616a73cce98",
+      "eventId": "8a43c4d7e0a431cc54f7a7ce737926ae968d56abd1580b8e5f7daaf1366dc40d",
+      "title": "LME Aluminium Premium Duty Paid European (Fastmarkets MB) Futures (Mar 2029) Trade Ideas — LME:EDH2029",
+      "normalizedTitle": "lme aluminum premium duty paid european fastmarkets mb futures mar 2029 trade ideas lme edh2029",
+      "description": "LME Aluminium Premium Duty Paid European (Fastmarkets MB) Futures (Mar 2029) Trade Ideas — LME:EDH2029 TradingView",
+      "source": "TradingView",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-17T13:51:30.000Z",
+      "fetchedAt": "2026-10-17T16:29:08.211Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBod1RSSnUzcG5LbklsWmRyMlJZc0pvN0tzb0ItR0FuN2dUcjVmRk9paldsM08zLUJ3TGxWbXR3UngycmppcWV1cnNXYUVEZnBRcm5UWlkzNUZ4M2ZlOVEtclhvMjdlQWFIbVROTXVrVE1nVjdNaVp3?oc=5",
+      "language": "en",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "aluminium",
+        "LME aluminium"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "premium"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 13,
+          "matchedKeywords": [
+            "aluminium",
+            "LME aluminium"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "premium"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE",
+        "TRADE",
+        "TARIFF"
+      ],
+      "primaryCategory": "Tariff",
+      "titleKo": "LME Aluminium Premium Duty Paid European (Fastmarkets MB) Futures (Mar 2029) Trade Ideas — LME:EDH2029",
+      "summaryKo": "LME Aluminium Premium Duty Paid European (Fastmarkets MB) Futures (Mar 2029) Trade Ideas — LME:EDH2029 TradingView",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "PRICE",
+          "TRADE",
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME Aluminium Premium Duty Paid European (Fastmarkets MB) Futures (Mar 2029) Trade Ideas — LME:EDH2029 TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "PRICE",
+          "TRADE",
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME Aluminium Premium Duty Paid European (Fastmarkets MB) Futures (Mar 2029) Trade Ideas — LME:EDH2029 TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 38,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear; Material event taxonomy",
+      "sent": true,
+      "sentAt": "2026-10-17T16:29:08.211Z"
+    },
+    {
+      "id": "7881ecd836bb2729529b4494efe9e8dda6916637bcd5e0d8ff7a287ef5095892",
+      "titleSourceHash": "b6258be4962a07b498514058e1645aceae59337a7075ec93830cad9695a8f761",
+      "eventId": "2e632aa9371f0d9f382ac8fb57d28877b536946d386f774d22f8cce0640f8181",
+      "title": "LME Aluminium Alloy Day-25 Oct '26 Futures Price History",
+      "normalizedTitle": "lme aluminum alloy day-25 oct 26 futures price history",
+      "description": "LME Aluminium Alloy Day-25 Oct '26 Futures Price History Barchart.com",
+      "source": "Barchart.com",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-17T08:04:36.000Z",
+      "fetchedAt": "2026-10-17T16:29:08.211Z",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxS1dPUDE1RGVmb2lKSlM4aWhjRUl5Q2IyS1R4Y3RkXzZGUG54WllxN3MwRlduRUZzSlluaGRacFRwMHRDbW12VFVROERaOUdmdVoydXkxR3lLM2JzRE8tZ2JnM2JfZGRJZUI5eEh2ZlZMc0JsUUVhNUhGa3Q3YVE?oc=5",
+      "language": "en",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "aluminium",
+        "LME aluminium"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "price"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 13,
+          "matchedKeywords": [
+            "aluminium",
+            "LME aluminium"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "price"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "LME Aluminium Alloy Day-25 Oct '26 Futures Price History",
+      "summaryKo": "LME Aluminium Alloy Day-25 Oct '26 Futures Price History Barchart.com",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME Aluminium Alloy Day-25 Oct '26 Futures Price History Barchart.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME Aluminium Alloy Day-25 Oct '26 Futures Price History Barchart.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-10-17T16:29:08.211Z"
+    },
     {
       "id": "94cf16e3707a19e67a1cfa36c55219dccd60c37838fc851ad01c747e27733b4d",
       "titleSourceHash": "fb69e99bcae954c70af3a433031ad5545a16ec8b47b342f074cb89f0899094ff",
@@ -352,6 +717,122 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-10-17T09:23:46.422Z"
+    },
+    {
+      "id": "f100d527a7326d5275d0c12dc4e43d4282759a68d401b4548137d0b59474ac37",
+      "titleSourceHash": "2a635425e350c59e6b756c0053ad08f2fcc7dd2601dcb2ec2d97e2097f968b5c",
+      "eventId": "646944786bcf8e9c8f65fde37ee1396e6d0ecb130214200328869dfabd662db3",
+      "title": "Mercuria-Gecamines JV delivers 12,000 mt of DRC copper to Project Vault",
+      "normalizedTitle": "mercuria-gecamines jv delivers 12 000 mt of drc copper to project vault",
+      "description": "Mercuria-Gecamines JV delivers 12,000 mt of DRC copper to Project Vault S&P Global",
+      "source": "S&P Global",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-17T00:19:33.000Z",
+      "fetchedAt": "2026-10-17T16:29:08.211Z",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU2pYdXhRQ05mYjFHak45SmNZV2Rma1BCUGdaVGotbG1WX3RnUmNVVnlnOG1XOF9YNTBocVZ6VEN0VE1TTl9NQU5QQVhrd3FDUTVPRndiNTN3VlRMTWlfQ1Q3MDNRdXlrSUZ3ekdSeGI0X0RUajNITWtKNzZIcDVxak1nNVM4cGhoUUFwZTZGNzV6eUZ0V3ZRajJPYTNzQ2RBQ2MwdDFXcDNVTUZ2b21pbDBsLXgxbG0xMkxnaDNqREhPdE1tTVJGT2g3R1JJNllNRkV1VTFTSXRpTjJ0WFE?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "DRC"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 8,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "DRC"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "MINE",
+        "PROJECT"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "Mercuria-Gecamines JV delivers 12,000 mt of DRC copper to Project Vault",
+      "summaryKo": "Mercuria-Gecamines JV delivers 12,000 mt of DRC copper to Project Vault S&P Global",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "DRC"
+      ],
+      "companies": [],
+      "timeHorizon": "MEDIUM_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "PROJECT"
+        ],
+        "region": "DRC",
+        "regions": [
+          "DRC"
+        ],
+        "summary": "Mercuria-Gecamines JV delivers 12,000 mt of DRC copper to Project Vault S&P Global",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "PROJECT"
+        ],
+        "region": "DRC",
+        "regions": [
+          "DRC"
+        ],
+        "summary": "Mercuria-Gecamines JV delivers 12,000 mt of DRC copper to Project Vault S&P Global",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 29,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": true,
+      "sentAt": "2026-10-17T16:29:08.211Z"
     },
     {
       "id": "0cc30f97ab79f9d268592add5c5a3b53c27e98386ef261c254eff20dd5cc12c4",
@@ -808,7 +1289,7 @@
       "source": "TradingView",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-16T22:15:03.000Z",
-      "fetchedAt": "2026-10-17T13:14:50.294Z",
+      "fetchedAt": "2026-10-17T16:29:08.211Z",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORGxUVkctZ2xyc2t0ZUlPUnNXODRfNG95QzZzLVE0b3ZKZDhac1ZaX3RXblFfR1NvTko1RG1NWk15MHc4eWdjQm8ybXdwemhnNHZHZnM1V1VYcmtwekwzNXhXNVBRRjJJbl9qYzRwV2NjOGVSTHFBUmZDX19EQzNhWmdiSEtZS2o5cFJYLVh0T3lqRFlVV0g2UUM4ZV84NWdZUlBQdWZHdms4TGxzcW9WclVkaTFEWjNnM3lHZFBsRFU3WFdmT0hWYzhRcU5rOVRCS3FHMGVqMTczVzVlWWc?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -33494,470 +33975,6 @@
       "codexReviewReason": "Material event taxonomy; High-impact event requires evidence review",
       "sent": true,
       "sentAt": "2026-10-13T08:29:16.311Z"
-    },
-    {
-      "id": "3a2872b7f3a579fef0a6864d4e5e08f766a38b3e1e26c0bb717f01abda4aae45",
-      "titleSourceHash": "6a1683ec4e712252d586855a4d27714ef40ded031d7efa33e53a11d77e6d852e",
-      "eventId": "e5738f09497efb174c5807f0226f492528cabb745f7f19eb96158b81bf005e67",
-      "title": "Chile: strikes shut down world’s largest copper mines",
-      "normalizedTitle": "chile strikes shut down world s largest copper mines",
-      "description": "Chile: strikes shut down world’s largest copper mines World Socialist Web Site",
-      "source": "World Socialist Web Site",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-10-13T01:35:29.000Z",
-      "fetchedAt": "2026-10-13T01:38:05.241Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmdjl0QjRxLWhZbk42SThiRmpRSGJRZDU0UVRBMmRPUEh4Qm9MZGkyZmxzdURSRzl4U2lIeTNwRmVjOGY4LXFyTmNHTFd3bmdQbHBjelBKLXA3cjFISTRCemxYZ25KVGIy?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "Chile"
-      ],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 8,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "Chile"
-          ],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "HIGH",
-      "categories": [
-        "MINE",
-        "STRIKE"
-      ],
-      "primaryCategory": "Labor Disruption",
-      "titleKo": "Chile: strikes shut down world’s largest copper mines",
-      "summaryKo": "Chile: strikes shut down world’s largest copper mines World Socialist Web Site",
-      "marketImpact": "Bullish",
-      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-      "procurementImpact": "NEGATIVE",
-      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-      "regions": [
-        "Chile"
-      ],
-      "companies": [],
-      "timeHorizon": "IMMEDIATE",
-      "confidence": "MEDIUM",
-      "signals": [
-        "Supply Tightening",
-        "Supply Disruption",
-        "Price Increase Risk"
-      ],
-      "keyEvidence": [
-        "strike"
-      ],
-      "conflictingSignals": false,
-      "codexReviewEvent": true,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "MINE",
-          "STRIKE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Chile: strikes shut down world’s largest copper mines World Socialist Web Site",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "MINE",
-          "STRIKE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Chile: strikes shut down world’s largest copper mines World Socialist Web Site",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "priority": 56,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "sent": true,
-      "sentAt": "2026-10-13T01:38:05.241Z"
-    },
-    {
-      "id": "49231ee23bbed06c4e36b51c6e688ffdce6c0e08b061b387def658c43bb75daf",
-      "titleSourceHash": "99d8cf6864b974e844f56b16bf6d72f6d91a1c7b1c6da0cbcc39e0c4243f2a45",
-      "eventId": "d0a317f27c58b67ad9259061487bcf04db2c6779fb68d8f99a9326db7d188ece",
-      "title": "Cooper Metals targets major Philippines copper project",
-      "normalizedTitle": "cooper metals targets major philippines copper project",
-      "description": "Cooper Metals targets major Philippines copper project Mining Magazine Australia",
-      "source": "Mining Magazine Australia",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-10-13T01:01:32.000Z",
-      "fetchedAt": "2026-10-13T01:38:05.241Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWEI5VGg1WHhrc0tjbHNacjQxM3VqZGJMQVV0ZmRrbjNjNnlMZDBjYlRsa1ZvN25DYkZHM2ZmNVp0cFNOWFp1REM5TVk2ekhyVlZYc2o5dkZHeGRxOWJWdkJ6YWZka3RSMTRYZXBISzAxM094My1Eb3kwSVViVXduc3ljUGxsY0ZWT2FKQXRn?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "mining"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "mining"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "MINE",
-        "PROJECT"
-      ],
-      "primaryCategory": "Mine",
-      "titleKo": "Cooper Metals targets major Philippines copper project",
-      "summaryKo": "Cooper Metals targets major Philippines copper project Mining Magazine Australia",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "MEDIUM_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Cooper Metals targets major Philippines copper project Mining Magazine Australia",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Cooper Metals targets major Philippines copper project Mining Magazine Australia",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 34,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "395d031d4f156dfb0147ebc2871f6b87ff68a44bc4807b3d372fe56367e86e9f",
-      "titleSourceHash": "9c9502564cdcf2ed6cb2f3727253073c9edbd545ba24d89f40ce183029877034",
-      "eventId": "2758f8d873151996aec1681922f261ce98dfeda0a06aa0573bf405781370ca49",
-      "title": "The most-traded SHFE tin SN2611 contract closed at 396,810 yuan/mt in the daytime session, up 1.44%, while LME tin edged up $200 to $53,209/mt [SMM Tin Morning Meeting Summary]",
-      "normalizedTitle": "the most-traded shfe tin sn2611 contract close at 396 810 yuan mt in the daytime session up 1 44% while lme tin edged up $200 to $53 209 mt smm tin morning meeting summary",
-      "description": "The most-traded SHFE tin SN2611 contract closed at 396,810 yuan/mt in the daytime session, up 1.44%, while LME tin edged up $200 to $53,209/mt [SMM Tin Morning Meeting Summary] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-10-13T00:53:00.000Z",
-      "fetchedAt": "2026-10-13T08:29:16.311Z",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQVTJjWWpsbUVNUDR3VzlNa1hvX2RlQzVxajZOaWhWVGEtM3NpaFVNWXQtRTZYMHA2RHVLY3p5OVFVVkxDTUNUR0R4QXNpWVRFM3htb0FwbmlKY1hHZ3JuU1BST2FfS3hNVFM1R2ZUZFpnc1kxUExEYnV2X2g1LWVjSHc4NmxMWnZ1ZVlaZ2p1bXVvOWExdDRGd01Id09Hb2MtVHpxbEVTM0RMVmJoenlUNEZqN01sNW1Tc19pZzdMbU1hVWFEZ185SlhPVUZwMkNPdkVWZWhqZkhacHg4Yk1nNENWUmJHdEpfYXZJQlQ1TmdyNUozRGV3bjA2VS03WjNXdmRaMVUyNTVVcml4aG9FZDh4UDlZd2hkZGxuX2lra2JZNk1kZnNPc1JOSFNqcTZZaVhB?oc=5",
-      "language": "en",
-      "commodity": "TIN",
-      "relevanceScore": 12,
-      "matchedKeywords": [
-        "tin",
-        "LME tin"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "TIN",
-          "score": 12,
-          "matchedKeywords": [
-            "tin",
-            "LME tin"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "TRADE"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "The most-traded SHFE tin SN2611 contract closed at 396,810 yuan/mt in the daytime session, up 1.44%, while LME tin edged up $200 to $53,209/mt [SMM Tin Morning Meeting Summary]",
-      "summaryKo": "The most-traded SHFE tin SN2611 contract closed at 396,810 yuan/mt in the daytime session, up 1.44%, while LME tin edged up $200 to $53,209/mt [SMM Tin Morning Meeting Summary] Shanghai Metals Market",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "TRADE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "The most-traded SHFE tin SN2611 contract closed at 396,810 yuan/mt in the daytime session, up 1.44%, while LME tin edged up $200 to $53,209/mt [SMM Tin Morning Meeting Summary] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "TRADE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "The most-traded SHFE tin SN2611 contract closed at 396,810 yuan/mt in the daytime session, up 1.44%, while LME tin edged up $200 to $53,209/mt [SMM Tin Morning Meeting Summary] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 33,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "9c072564ded3c2aad2d70e2a45ca2c427616dc0c011dca4e9a4eb7a0812633b2",
-      "titleSourceHash": "9fa32a5e262a84802f3d968bc9c16e2039dc27c6a1a4425a58e51c2be847e978",
-      "eventId": "055999a44491af289e7e436c8e8e981f623291befed45cec14222e1b02214ae4",
-      "title": "Cobre Maps A Modular Copper Cathode Expansion In Chile",
-      "normalizedTitle": "cobre maps a modular copper cathode expansion in chile",
-      "description": "Cobre Maps A Modular Copper Cathode Expansion In Chile Finimize",
-      "source": "Finimize",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-10-12T23:44:44.000Z",
-      "fetchedAt": "2026-10-13T01:38:05.241Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUUsxdE5hTWY0ZDdPT0R6YW1mY2lGUkcyYTdjWmU4bUZMS2NnZHJURWZPWjZyenNicXA0aTZDYlVvRlNFYnBqNjR0YUFHa0R0UGhDelhSU2VLZElXUWdZY2hoUGVIcEFFbDJndTJKZUt1MXRVbS1vb2wycmpXeUZCeHBCSFB5NU8zeGc0?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 12,
-      "matchedKeywords": [
-        "copper",
-        "copper cathode"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "Chile"
-      ],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 12,
-          "matchedKeywords": [
-            "copper",
-            "copper cathode"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "Chile"
-          ],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "CAPACITY"
-      ],
-      "primaryCategory": "Capacity",
-      "titleKo": "Cobre Maps A Modular Copper Cathode Expansion In Chile",
-      "summaryKo": "Cobre Maps A Modular Copper Cathode Expansion In Chile Finimize",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "Chile"
-      ],
-      "companies": [],
-      "timeHorizon": "MEDIUM_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Capacity",
-        "categories": [
-          "CAPACITY"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Cobre Maps A Modular Copper Cathode Expansion In Chile Finimize",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Capacity",
-        "categories": [
-          "CAPACITY"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Cobre Maps A Modular Copper Cathode Expansion In Chile Finimize",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 37,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": true,
-      "sentAt": "2026-10-13T01:38:05.241Z"
     }
   ]
 }

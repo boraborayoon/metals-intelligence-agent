@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T13:14:50.294Z",
+  "generatedAt": "2026-10-17T16:29:08.211Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -3117,6 +3117,50 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-13T08:29:16.311Z",
       "updatedAt": "2026-10-13T08:29:16.311Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "771b60fbc8da46565c33e00bf194f4a55706ffe4f3f98d593550585c7cef4bef",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Antofagasta Workers to End Strike, Easing Chile Copper Tensions",
+      "summary": "Antofagasta Workers to End Strike, Easing Chile Copper Tensions Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmtMSlNqNzRUajJtWlV5ajJFZmRaWUgxMGt3Y0NkX0NtZlkyMENvY0VVOVJOTzNXX3d2Q2FTM3VOYkxTNnAzRWd2QVk2b01QNUFGV25YTjNNTndIdzU3akh4THJ1c0dZTUFXaGFBUExxcllhcGhETjg1cERSTmE3STU3NjRCSFFqTnd0QnZOLW1lMTFBMjRSS21RWjEwa1F3Q1c0VGYwR293d243dVFZUmxYTQ?oc=5",
+      "publishedAt": "2026-10-17T15:07:53.000Z",
+      "priority": 45,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Antofagasta Workers to End Strike, Easing Chile Copper Tensions Bloomberg.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-17T16:29:08.211Z",
+      "updatedAt": "2026-10-17T16:29:08.211Z",
       "analyzedAt": null
     },
     {
@@ -10145,6 +10189,44 @@
       "analyzedAt": null
     },
     {
+      "id": "14150d2b99e4626cef306147f465c2dc14f29e876c1367b3b89179ba7420964b",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "LME Aluminium Premium Duty Paid European (Fastmarkets MB) Futures (Mar 2029) Trade Ideas — LME:EDH2029",
+      "summary": "LME Aluminium Premium Duty Paid European (Fastmarkets MB) Futures (Mar 2029) Trade Ideas — LME:EDH2029 TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBod1RSSnUzcG5LbklsWmRyMlJZc0pvN0tzb0ItR0FuN2dUcjVmRk9paldsM08zLUJ3TGxWbXR3UngycmppcWV1cnNXYUVEZnBRcm5UWlkzNUZ4M2ZlOVEtclhvMjdlQWFIbVROTXVrVE1nVjdNaVp3?oc=5",
+      "publishedAt": "2026-10-17T13:51:30.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "PRICE",
+          "TRADE",
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME Aluminium Premium Duty Paid European (Fastmarkets MB) Futures (Mar 2029) Trade Ideas — LME:EDH2029 TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-17T16:29:08.211Z",
+      "updatedAt": "2026-10-17T16:29:08.211Z",
+      "analyzedAt": null
+    },
+    {
       "id": "4330edd60cd8669c31a8718797d3c0c51737ad2dad3b1a139c6f1e9939154736",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -13499,44 +13581,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-12T09:47:10.014Z",
       "updatedAt": "2026-10-13T01:38:05.241Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "c7b7f330e055f80dd63dda5f795a9ed4e985fee1f3a8373421742ddcaa3e02a4",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper hit a record as Chile expects output to fall 2.6%",
-      "summary": "Copper hit a record as Chile expects output to fall 2.6% Stock Titan",
-      "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3RxeUU1anNIMXY2bV93QlBWTDR3SzR1YWZhRWpvT05RVExxbFk1WHBldHgwalhiUGgzdEZNWXlMNU5BaEhuZ3k1UjRseTF0V3FudGFJRnp1YlA3WERJNEZBSXRUUFFhWXJ3YkxHTl90ZUdSbjJPMVFfV2N6UFhWZWR1bnJVNUVLUjlucTdNeGdDa2poVjR3bjZqaXdQb0RKQnVwaWtyeEZvdm1jc2drQjFJV0FBSHRpSXc?oc=5",
-      "publishedAt": "2026-09-17T14:04:00.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Copper hit a record as Chile expects output to fall 2.6% Stock Titan",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-17T15:19:15.404Z",
-      "updatedAt": "2026-09-17T15:19:15.404Z",
       "analyzedAt": null
     },
     {
@@ -19055,6 +19099,42 @@
       "analyzedAt": null
     },
     {
+      "id": "7881ecd836bb2729529b4494efe9e8dda6916637bcd5e0d8ff7a287ef5095892",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "LME Aluminium Alloy Day-25 Oct '26 Futures Price History",
+      "summary": "LME Aluminium Alloy Day-25 Oct '26 Futures Price History Barchart.com",
+      "source": "Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxS1dPUDE1RGVmb2lKSlM4aWhjRUl5Q2IyS1R4Y3RkXzZGUG54WllxN3MwRlduRUZzSlluaGRacFRwMHRDbW12VFVROERaOUdmdVoydXkxR3lLM2JzRE8tZ2JnM2JfZGRJZUI5eEh2ZlZMc0JsUUVhNUhGa3Q3YVE?oc=5",
+      "publishedAt": "2026-10-17T08:04:36.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME Aluminium Alloy Day-25 Oct '26 Futures Price History Barchart.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-17T16:29:08.211Z",
+      "updatedAt": "2026-10-17T16:29:08.211Z",
+      "analyzedAt": null
+    },
+    {
       "id": "bd39d56e6e54b767129cc452e73f18367bdd8e0e9af7428cc09fb15048acc9e5",
       "commodity": "MOLYBDENUM",
       "subCommodity": null,
@@ -19117,79 +19197,6 @@
         "keyEvidence": [],
         "confidence": "LOW",
         "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-17T09:23:46.422Z",
-      "updatedAt": "2026-10-17T09:23:46.422Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "a6d83596aee40a4e311fcd5323f7d4bdf0143485a757cb43c29e7dae2283be00",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Alcoa Beat on Cash and Ops. Aluminum Still Does the Heavy Lifting.",
-      "summary": "Alcoa Beat on Cash and Ops. Aluminum Still Does the Heavy Lifting. Money Morning",
-      "source": "Money Morning",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOUZwU2x5VFdXSkoxeGVpOE1ZdlpoYkt5bUdFdkQ2cWgyd3Ffcm9wRmYtNEhPTGlTZWQ1UzN1b1BKRVpfTUxaYXhEMlBIQm1sdE9ZVFhxVV9sWFpXRU50OHNvOF9scGQ5VGFxV2NYalBiUjFObHZaSm1rNGJsY1VDOWFIVFYxOExsTVZvNDQwYkVGTzhX?oc=5",
-      "publishedAt": "2026-10-16T13:07:42.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Alcoa Beat on Cash and Ops. Aluminum Still Does the Heavy Lifting. Money Morning",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-17T09:23:46.422Z",
-      "updatedAt": "2026-10-17T09:23:46.422Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "6683ba296fb87dca1a053d9c28eb169abb9b5a4492d0298ee856af9a08cd66c9",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Anglo Asian Mining, 3분기 구리 생산량 전년 대비 141% 증가",
-      "summary": "Anglo Asian Mining, 3분기 구리 생산량 전년 대비 141% 증가 Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wNGI1ZlV6YmFkT1czdUlvaTkwT0hHTHQ1RHozdlJWWjJSekR2SmRIRW9FT1dXeXAwemxwZ0VQamhOR0Nhanh6b2N5VTAzd3JuMkZrdGx1THJoLTI0V0ZRdVVodWJuSGFzRXAxVXRITTM?oc=5",
-      "publishedAt": "2026-10-16T11:45:00.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "MINE",
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Anglo Asian Mining, 3분기 구리 생산량 전년 대비 141% 증가 Investing.com 한국어",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
         "signals": [],
         "urgent": false
       },
