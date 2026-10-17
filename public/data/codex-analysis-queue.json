@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T22:06:15.259Z",
+  "generatedAt": "2026-10-17T00:30:53.175Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -535,6 +535,16 @@
       "codexStatus": "PENDING",
       "source": "Yahoo Finance UK",
       "publishedAt": "2026-10-13T13:00:00.000Z"
+    },
+    {
+      "id": "1afd668692636dc7641736ef80bdce93b25517e1012da1bee246c5b3ed13a220",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "호주는 중국산 알루미늄 및 유리문에 최대 70.4%의 관세를 부과하는 방안을 검토하고 있다.",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-16T21:16:14.000Z"
     },
     {
       "id": "ed29eb6b8c5219d7c54fdfa085f1a61a92c1415462ab951688e494606db42d26",
@@ -2567,6 +2577,16 @@
       "publishedAt": "2026-10-16T15:47:01.000Z"
     },
     {
+      "id": "fec081f98f5e8ab05cfe7b56867cb51e69d3ec278f884df40b68ec4421e537a8",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Tulsa Ports considers legal action against Inola over proposed $4 billion aluminum smelter",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "2 News Oklahoma KJRH Tulsa",
+      "publishedAt": "2026-10-16T21:45:40.000Z"
+    },
+    {
       "id": "4330edd60cd8669c31a8718797d3c0c51737ad2dad3b1a139c6f1e9939154736",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2755,6 +2775,16 @@
       "codexStatus": "PENDING",
       "source": "Aluminium International Today",
       "publishedAt": "2026-10-14T09:09:46.000Z"
+    },
+    {
+      "id": "66481abf22f20c3141c02e1dae1336963c3a60a43aa76f5252b8f0c8206537db",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper One Resources Identifies New Copper Zone 600 Metres Northeast of Main Zone at Redonda Copper-Molybdenum Project, British Columbia",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Junior Mining Network",
+      "publishedAt": "2026-10-16T22:18:50.000Z"
     },
     {
       "id": "1b747c06cedca7999ac559e374cdc36680701deee3f171e926a6a5baf3f8c9dd",
@@ -3485,16 +3515,6 @@
       "codexStatus": "PENDING",
       "source": "S&P Global",
       "publishedAt": "2026-10-12T05:56:38.000Z"
-    },
-    {
-      "id": "4fb9dcccf95deb19e86939cfd6c21f542aa37a3b3410786324c5d246ae969a1b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Environmental and community hurdles pressure Freeport and Codelco’s US$10.3bn copper plans in Chile",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "BNamericas",
-      "publishedAt": "2026-09-16T22:26:42.000Z"
     },
     {
       "id": "1466adf717e29f9ec5f4f462b7d51bdb23c91e5f3542fe8ff4be56a279069c97",
@@ -4985,26 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Stockhead",
       "publishedAt": "2026-10-11T19:00:11.000Z"
-    },
-    {
-      "id": "cdb96316361b884f9f2bd7ef79a277beac6b278de00a6ae78ed1cb19fb982dbd",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper surplus to widen as refined output rebounds",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Northern Miner",
-      "publishedAt": "2026-10-16T17:26:15.000Z"
-    },
-    {
-      "id": "c44fc78819aa9155b62b1a7deff31811de1b321b084f83a2f35c1f46dc5fe77f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "BHP takes 32% of Faraday in $658M copper deal",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Dealroom",
-      "publishedAt": "2026-10-16T19:13:08.000Z"
     }
   ]
 }
