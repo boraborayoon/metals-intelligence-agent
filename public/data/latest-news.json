@@ -1,6 +1,144 @@
 {
-  "generatedAt": "2026-10-17T05:01:27.067Z",
+  "generatedAt": "2026-10-17T09:23:46.422Z",
   "items": [
+    {
+      "id": "94cf16e3707a19e67a1cfa36c55219dccd60c37838fc851ad01c747e27733b4d",
+      "titleSourceHash": "fb69e99bcae954c70af3a433031ad5545a16ec8b47b342f074cb89f0899094ff",
+      "eventId": "32f55c024a29c16a60fe315fd89c9f084f82b4ef0134b72bafb9156a3bea7564",
+      "title": "Workers and members of unions representing workers at the Centinela copper mine set up a strike camp outside the Antofagasta Minerals building",
+      "normalizedTitle": "workers and members of unions representing workers at the centinela copper mine set up a strike camp outside the antofagasta minerals building",
+      "description": "Workers and members of unions representing workers at the Centinela copper mine set up a strike camp outside the Antofagasta Minerals building The Lufkin Daily News",
+      "source": "The Lufkin Daily News",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-17T03:02:43.000Z",
+      "fetchedAt": "2026-10-17T09:23:46.422Z",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNVU5TZ0k3dEpVVm1MdHZJdGlLazJEbVJzQms0UGJOQjdkYzhSSDJjWEpRcW85OEZuYVVLcElaQ25DTkhyYzJhbXZoWEx0MkRyTjJ5OXp3U0FpM2t6TXc0MVRhaGxQZ3doMkRzOFc4bzR1RnJvblBpQXhCZ1hBZGNDa2dXY09YTHllOUl4YnpxOGM0UlV6SFpNZ0pWbnZWQ0RBQWJxVDBLSkVieDZkVVhSVkd1RGtxVTJzMjR1bWEtZnZJa28xbEk2VFZoOWtPQWNaOEIwcVhRUjBmdUpIMnlWVU56a09aam1scG9xOFc4SElmUEc1VVIzbUR0QkFId0E5b052TXdBRjUzd1FmN0FmR1dxb2Q?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 15,
+      "matchedKeywords": [
+        "copper",
+        "copper mine"
+      ],
+      "matchedCompanies": [
+        "Antofagasta"
+      ],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "mine",
+        "strike"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 15,
+          "matchedKeywords": [
+            "copper",
+            "copper mine"
+          ],
+          "matchedCompanies": [
+            "Antofagasta"
+          ],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "mine",
+            "strike"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "HIGH",
+      "categories": [
+        "MINE",
+        "STRIKE"
+      ],
+      "primaryCategory": "Labor Disruption",
+      "titleKo": "Workers and members of unions representing workers at the Centinela copper mine set up a strike camp outside the Antofagasta Minerals building",
+      "summaryKo": "Workers and members of unions representing workers at the Centinela copper mine set up a strike camp outside the Antofagasta Minerals building The Lufkin Daily News",
+      "marketImpact": "Bullish",
+      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+      "procurementImpact": "NEGATIVE",
+      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+      "regions": [],
+      "companies": [
+        "Antofagasta"
+      ],
+      "timeHorizon": "IMMEDIATE",
+      "confidence": "MEDIUM",
+      "signals": [
+        "Supply Tightening",
+        "Supply Disruption",
+        "Price Increase Risk"
+      ],
+      "keyEvidence": [
+        "strike"
+      ],
+      "conflictingSignals": false,
+      "codexReviewEvent": true,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Workers and members of unions representing workers at the Centinela copper mine set up a strike camp outside the Antofagasta Minerals building The Lufkin Daily News",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Workers and members of unions representing workers at the Centinela copper mine set up a strike camp outside the Antofagasta Minerals building The Lufkin Daily News",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "priority": 59,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "sent": true,
+      "sentAt": "2026-10-17T09:23:46.422Z"
+    },
     {
       "id": "c65f8026cc5e0678055162379a4c904920161a843fdaea6a28aa303a893b9799",
       "titleSourceHash": "ab71f9b722b9f59aff132140042e2be6fed98759fde5d82b12aea5744bdd9d73",
@@ -107,6 +245,113 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-10-17T05:01:27.067Z"
+    },
+    {
+      "id": "a56e928a5eb217b5f4e0ffdc6969d87dd1fa686705db4cc4b89a57149e0f96a2",
+      "titleSourceHash": "71fcba8db25d4db295565872133c0b8cc7cc6cdb311f996f4bdff91432bb05a3",
+      "eventId": "21d8ba68d9d680388831ce22f421e4598c4e90971cfb7b29775c221445a149fd",
+      "title": "Koryx Copper S.A. (LI6.F) Stock Price, News, Quote & History",
+      "normalizedTitle": "koryx copper s a li6 f stock price news quote & history",
+      "description": "Koryx Copper S.A. (LI6.F) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-17T00:20:46.000Z",
+      "fetchedAt": "2026-10-17T09:23:46.422Z",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZZHZMNjNuNXYyTnF0Y01pd201TWxid1FFamVua0ViTkpsenI5b1hLcHp0OXVZejA1Rnd6QWhtMDVGaTlUT0E1Nm45Qk91a08xVVR4U1NNNkdLTWNvNnE2NkNn?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "price"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "price"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Koryx Copper S.A. (LI6.F) Stock Price, News, Quote & History",
+      "summaryKo": "Koryx Copper S.A. (LI6.F) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Koryx Copper S.A. (LI6.F) Stock Price, News, Quote & History Yahoo! Finance Canada",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Koryx Copper S.A. (LI6.F) Stock Price, News, Quote & History Yahoo! Finance Canada",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 30,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-10-17T09:23:46.422Z"
     },
     {
       "id": "0cc30f97ab79f9d268592add5c5a3b53c27e98386ef261c254eff20dd5cc12c4",
@@ -563,7 +808,7 @@
       "source": "TradingView",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-16T22:15:03.000Z",
-      "fetchedAt": "2026-10-17T05:01:27.067Z",
+      "fetchedAt": "2026-10-17T09:23:46.422Z",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORGxUVkctZ2xyc2t0ZUlPUnNXODRfNG95QzZzLVE0b3ZKZDhac1ZaX3RXblFfR1NvTko1RG1NWk15MHc4eWdjQm8ybXdwemhnNHZHZnM1V1VYcmtwekwzNXhXNVBRRjJJbl9qYzRwV2NjOGVSTHFBUmZDX19EQzNhWmdiSEtZS2o5cFJYLVh0T3lqRFlVV0g2UUM4ZV84NWdZUlBQdWZHdms4TGxzcW9WclVkaTFEWjNnM3lHZFBsRFU3WFdmT0hWYzhRcU5rOVRCS3FHMGVqMTczVzVlWWc?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -1217,6 +1462,112 @@
       "sentAt": "2026-10-16T22:06:15.259Z"
     },
     {
+      "id": "a7d22e87a2d6ee6be38beb38a9caa71212137b2398051fb99f2ef89fdf1c2e4f",
+      "titleSourceHash": "f11bf575e6129f25ab7f17e0830d14231f59d26c3fff176ec9da2cdd85433efb",
+      "eventId": "5212756c85857cd958b5eda2efc13ba1f42b706391ff970e9a9b676f3c9675c9",
+      "title": "Coyote Copper Mines Says Drilling at Copper Springs Project in Arizona to Start Next Month",
+      "normalizedTitle": "coyote copper mines says drilling at copper springs project in arizona to start next month",
+      "description": "Coyote Copper Mines Says Drilling at Copper Springs Project in Arizona to Start Next Month Yahoo Finance",
+      "source": "Yahoo Finance",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-16T18:34:44.000Z",
+      "fetchedAt": "2026-10-17T09:23:46.422Z",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNWRTOGkyVXZvS2k3ODJkb1BROUFSMjhDMkp3cXp0bS1YeWc1eU5QV0I3RDVRc2FKZzRMNnI4bzk1VDBMaVktajBpcEVzQ3N3cVdYcGZmUDROMGlfaFkycGR0Z1lBWWxqd0dMbnU2MThVWTlrUTRLdkdSZEF6dk5SOW5nOFBnbnZKTjhXWUtmNERzT0dhT1gtdjR1MTBkRTZLNHhpaUl3?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 6,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "MINE",
+        "PROJECT"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "Coyote Copper Mines Says Drilling at Copper Springs Project in Arizona to Start Next Month",
+      "summaryKo": "Coyote Copper Mines Says Drilling at Copper Springs Project in Arizona to Start Next Month Yahoo Finance",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "MEDIUM_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Coyote Copper Mines Says Drilling at Copper Springs Project in Arizona to Start Next Month Yahoo Finance",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Coyote Copper Mines Says Drilling at Copper Springs Project in Arizona to Start Next Month Yahoo Finance",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 27,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
       "id": "9631b182491606f5c651a3641f5a6be85e1bbbe49c73ff7778ecd0aed8ca8a30",
       "titleSourceHash": "f4fc90c47ee0322db722f10ab9e35f4a15f134796b63a30effa4bfe41fb3bc2e",
       "eventId": "2dfcad02b077e320298c3e6026cb1e06659e130bc0bf116db176b110b0c31dd5",
@@ -1335,7 +1686,7 @@
       "source": "Yahoo Finance",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-16T17:59:00.000Z",
-      "fetchedAt": "2026-10-17T05:01:27.067Z",
+      "fetchedAt": "2026-10-17T09:23:46.422Z",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbW9saWN2SzVIZTlyVTVHYWp5NDlYbGduejBzNmpVUGdoNnFHc3BYTVVrNHgyekVMdTgzWnNVaHVWQVo5OUFIb0JKbGppOXJuOUYzZWlkLW80bzJtbTAxQVc5cmlwNWVEN1ZWTms2X0h1XzNrYmVsMGZpRXRiTFVmeXlpcklBVC1oUEdWcjJ6eTlmYmNWX3F0LXp2UmVBVXExM3ZadGRHNzNUR2c?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -2996,7 +3347,7 @@
       "source": "Money Morning",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-16T13:07:42.000Z",
-      "fetchedAt": "2026-10-17T05:01:27.067Z",
+      "fetchedAt": "2026-10-17T09:23:46.422Z",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOUZwU2x5VFdXSkoxeGVpOE1ZdlpoYkt5bUdFdkQ2cWgyd3Ffcm9wRmYtNEhPTGlTZWQ1UzN1b1BKRVpfTUxaYXhEMlBIQm1sdE9ZVFhxVV9sWFpXRU50OHNvOF9scGQ5VGFxV2NYalBiUjFObHZaSm1rNGJsY1VDOWFIVFYxOExsTVZvNDQwYkVGTzhX?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -3090,10 +3441,10 @@
         "urgent": false
       },
       "priority": 30,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-10-17T09:23:46.422Z"
     },
     {
       "id": "c5c3fc30a900bd765384503bdea2ac3176b94a68b4e16ef5afdd4bdac4875d49",
@@ -3444,7 +3795,7 @@
       "source": "Investing.com 한국어",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-16T11:45:00.000Z",
-      "fetchedAt": "2026-10-17T05:01:27.067Z",
+      "fetchedAt": "2026-10-17T09:23:46.422Z",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wNGI1ZlV6YmFkT1czdUlvaTkwT0hHTHQ1RHozdlJWWjJSekR2SmRIRW9FT1dXeXAwemxwZ0VQamhOR0Nhanh6b2N5VTAzd3JuMkZrdGx1THJoLTI0V0ZRdVVodWJuSGFzRXAxVXRITTM?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -3541,10 +3892,10 @@
         "urgent": false
       },
       "priority": 30,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-10-17T09:23:46.422Z"
     },
     {
       "id": "d2f60f69cf42f0e44731b792800fbc483d769d24b551cf1a0cf4e82f42509214",
@@ -5589,6 +5940,115 @@
       "codexReviewReason": null,
       "sent": false,
       "sentAt": null
+    },
+    {
+      "id": "bd39d56e6e54b767129cc452e73f18367bdd8e0e9af7428cc09fb15048acc9e5",
+      "titleSourceHash": "a10e6dd7ecf79bd7f0ad8d30e1142ea4abdaf48ba97f13f256a3915e505a18d2",
+      "eventId": "4676e71fa2d079aa27a6c175b813a2a98116c131a7f0aa123b10c05803247a73",
+      "title": "최신 몰리브덴 톤당 가격 및 과거 가격: 페로몰리브덴·스크랩",
+      "normalizedTitle": "최신 몰리브덴 톤당 가격 및 과거 가격 페로몰리브덴·스크랩",
+      "description": "최신 몰리브덴 톤당 가격 및 과거 가격: 페로몰리브덴·스크랩 Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-10-16T08:14:13.000Z",
+      "fetchedAt": "2026-10-17T09:23:46.422Z",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zeDloalMzSXYtU0dCZGVLQmFPbHV0Y05FVklBLUZKaDBuS01UaF85MERNY1dpZ2YwTjFhbmJhUFZtRHhsUzlsejdjNA?oc=5",
+      "language": "ko",
+      "commodity": "MOLYBDENUM",
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "몰리브덴",
+        "페로몰리브덴"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "가격"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "MOLYBDENUM",
+          "score": 14,
+          "matchedKeywords": [
+            "몰리브덴",
+            "페로몰리브덴"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "가격"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "최신 몰리브덴 톤당 가격 및 과거 가격: 페로몰리브덴·스크랩",
+      "summaryKo": "최신 몰리브덴 톤당 가격 및 과거 가격: 페로몰리브덴·스크랩 Shanghai Metals Market",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "최신 몰리브덴 톤당 가격 및 과거 가격: 페로몰리브덴·스크랩 Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "최신 몰리브덴 톤당 가격 및 과거 가격: 페로몰리브덴·스크랩 Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 31,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-10-17T09:23:46.422Z"
     },
     {
       "id": "aad557b244417f8f552b29bbda70c70c40009627af17067c217d940289040056",
@@ -29598,7 +30058,7 @@
       "source": "Georgia Laurie",
       "feedSource": "International Tin Association",
       "publishedAt": "2026-10-13T12:25:39.000Z",
-      "fetchedAt": "2026-10-17T05:01:27.067Z",
+      "fetchedAt": "2026-10-17T09:23:46.422Z",
       "url": "https://www.internationaltin.org/tins-growing-role-in-future-hydrogen-production",
       "language": "en",
       "commodity": "TIN",
@@ -33498,488 +33958,6 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-10-13T01:38:05.241Z"
-    },
-    {
-      "id": "5a3d2bef5fc97e267f1e6f1d9e239d9c227ecd2a5043c6a4233fdb98ee3c6439",
-      "titleSourceHash": "390efa01e6f3cedfd15817951bfebdbb4f4b2fb0b8f981ed1a47e7d68ea8cffd",
-      "eventId": "9146b3abddf548ba50d59e3c8a33372a3acc76bec58b7908ad4f6a08e82b19e9",
-      "title": "구리값 웃돈에 美로 물량 집중…트럼프 관세 딜레마",
-      "normalizedTitle": "구리값 웃돈에 美로 물량 집중 트럼프 관세 딜레마",
-      "description": "구리값 웃돈에 美로 물량 집중…트럼프 관세 딜레마 한국경제",
-      "source": "한국경제",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-10-12T23:24:05.000Z",
-      "fetchedAt": "2026-10-14T22:40:34.332Z",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLQjJadFlzcXpHWkZCY0NBakhGZUN5WkEzLTBTNkFxUmtpckF1V0JZbmtGR3hGbzg2V2FWVVhxMFpkeVRDR01sWHhZVmgxNTJZMTduejluTE5EZw?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "관세"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "관세"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "TARIFF"
-      ],
-      "primaryCategory": "Tariff",
-      "titleKo": "구리값 웃돈에 美로 물량 집중…트럼프 관세 딜레마",
-      "summaryKo": "구리값 웃돈에 美로 물량 집중…트럼프 관세 딜레마 한국경제",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": true,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "구리값 웃돈에 美로 물량 집중…트럼프 관세 딜레마 한국경제",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "구리값 웃돈에 美로 물량 집중…트럼프 관세 딜레마 한국경제",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 26,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "d5d4a819a3d8915d7b65278c6165a814b0aeb75f0fecc5d32d38a5f0b29220f5",
-      "titleSourceHash": "ce536f31a13c70691a3a19836a400fc71030999e6ac35993a15d881d7f4455f0",
-      "eventId": "0885deddca5d6f1e585e92452e587bad951a98fdc8e7caec2b446355437236f0",
-      "title": "Cobre Limited (ASX:CBE) Targets 25,000TPA Copper Cathode, Upside to 50,000 TPA",
-      "normalizedTitle": "cobre limited asx cbe targets 25 000tpa copper cathode upside to 50 000 tpa",
-      "description": "Cobre Limited (ASX:CBE) Targets 25,000TPA Copper Cathode, Upside to 50,000 TPA ABN Newswire",
-      "source": "ABN Newswire",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-10-12T22:17:58.000Z",
-      "fetchedAt": "2026-10-13T08:29:16.311Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdDZuTXhIWFFldGNwQUNkVzBuY3BybUNxb2RoRHI0dXdYd1E3elFoZjFuOU9EcnZkQS1TcnZqUERBZDRCSXpuWm1NMFBXWW1NRWpMMVMtSWZaUXlVYWtJTmZmd0o2R1JIMVNLRXdxd2pWY0dKWUJ3UE1IeXlGMTJ6ODJ3X1J4NFZoUUE1Z1ozakRBOTQ2Zml0aTRjY0U5RXRoMlMxRFFfTHBMZ2xiXy1Pa0FxcDFEVnVZOENtVmlxNmZJZw?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 11,
-      "matchedKeywords": [
-        "copper",
-        "copper cathode"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 11,
-          "matchedKeywords": [
-            "copper",
-            "copper cathode"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "COMPANY"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Cobre Limited (ASX:CBE) Targets 25,000TPA Copper Cathode, Upside to 50,000 TPA",
-      "summaryKo": "Cobre Limited (ASX:CBE) Targets 25,000TPA Copper Cathode, Upside to 50,000 TPA ABN Newswire",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Cobre Limited (ASX:CBE) Targets 25,000TPA Copper Cathode, Upside to 50,000 TPA ABN Newswire",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Cobre Limited (ASX:CBE) Targets 25,000TPA Copper Cathode, Upside to 50,000 TPA ABN Newswire",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 32,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "7bf5f355d6131b95b0e044a7ff10557687a8a97f564123896651e91b3f405cfe",
-      "titleSourceHash": "ee573b08a0fb59dbd2e96690d1d0e25b0d46779609eb930b0e07327d3f557e3c",
-      "eventId": "fad6daaaf289d1d1f1e5cafc69e041e849d1629a1d3cb5735fc3f7ed1ed7882e",
-      "title": "[구리 가격] 칠레 광산 공급 차질에 0.8% 상승…장중 2주 최고치",
-      "normalizedTitle": "구리 가격 칠레 광산 공급 차질에 0 8% 상승 장중 2주 최고치",
-      "description": "[구리 가격] 칠레 광산 공급 차질에 0.8% 상승…장중 2주 최고치 산업일보",
-      "source": "산업일보",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-10-12T22:16:22.000Z",
-      "fetchedAt": "2026-10-13T01:38:05.241Z",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1oSkk3d0IwdFNBeGczblk5QWhubmZyVmx6TTZPcWxYM3B5RTNNNVF0Zl85dzFfeVY4QjZmTC1YYkM5TlQt?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "가격",
-        "공급",
-        "광산",
-        "차질"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "가격",
-            "공급",
-            "광산",
-            "차질"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "SUPPLY",
-        "MINE",
-        "DISRUPTION"
-      ],
-      "primaryCategory": "Supply Disruption",
-      "titleKo": "[구리 가격] 칠레 광산 공급 차질에 0.8% 상승…장중 2주 최고치",
-      "summaryKo": "[구리 가격] 칠레 광산 공급 차질에 0.8% 상승…장중 2주 최고치 산업일보",
-      "marketImpact": "Bullish",
-      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-      "procurementImpact": "NEGATIVE",
-      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "IMMEDIATE",
-      "confidence": "MEDIUM",
-      "signals": [
-        "Supply Tightening",
-        "Supply Disruption",
-        "Price Increase Risk"
-      ],
-      "keyEvidence": [
-        "공급 차질"
-      ],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Supply Disruption",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "MINE",
-          "DISRUPTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "[구리 가격] 칠레 광산 공급 차질에 0.8% 상승…장중 2주 최고치 산업일보",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "공급 차질"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Supply Disruption",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "MINE",
-          "DISRUPTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "[구리 가격] 칠레 광산 공급 차질에 0.8% 상승…장중 2주 최고치 산업일보",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "공급 차질"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "priority": 42,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Material event taxonomy",
-      "sent": true,
-      "sentAt": "2026-10-13T01:38:05.241Z"
-    },
-    {
-      "id": "3350ca223997a4ea5159408b1e1f3469935d1a6fce337c5459263d74744b1db2",
-      "titleSourceHash": "aac84bfebc42d22e9cf591c6245edd2f61904e12b3268055e885aec6c59cf79e",
-      "eventId": "00c1f32ec74a14d3a7591868ac36bfa1c2fbaa43d8897f404d444bd3e28d7d1c",
-      "title": "구리, 공급 차질 우려로 2주래 최고",
-      "normalizedTitle": "구리 공급 차질 우려로 2주래 최고",
-      "description": "구리, 공급 차질 우려로 2주래 최고 TradingView",
-      "source": "TradingView",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-10-12T22:14:33.000Z",
-      "fetchedAt": "2026-10-13T21:34:18.121Z",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13dzNqNS1VMUVUbUhFLUdyOVFsUmxhMlFGZDhkZnRCOGpJNU9DelJhTk1QM0tDNWFyZ1NDTXJuRFgzcER2U1BnVl9PUnZiRDBpeEFKUEhkWnVqc0c5Mmd5SHBNeFJUZndMZHdTOHNjQ3BmWnlmaUlreQ?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "공급",
-        "차질"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "공급",
-            "차질"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "SUPPLY",
-        "DISRUPTION"
-      ],
-      "primaryCategory": "Supply Disruption",
-      "titleKo": "구리, 공급 차질 우려로 2주래 최고",
-      "summaryKo": "구리, 공급 차질 우려로 2주래 최고 TradingView",
-      "marketImpact": "Bullish",
-      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-      "procurementImpact": "NEGATIVE",
-      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "IMMEDIATE",
-      "confidence": "MEDIUM",
-      "signals": [
-        "Supply Tightening",
-        "Supply Disruption",
-        "Price Increase Risk"
-      ],
-      "keyEvidence": [
-        "공급 차질"
-      ],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Supply Disruption",
-        "categories": [
-          "SUPPLY",
-          "DISRUPTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "구리, 공급 차질 우려로 2주래 최고 TradingView",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "공급 차질"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Supply Disruption",
-        "categories": [
-          "SUPPLY",
-          "DISRUPTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "구리, 공급 차질 우려로 2주래 최고 TradingView",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "공급 차질"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "priority": 38,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Material event taxonomy",
-      "sent": true,
-      "sentAt": "2026-10-13T21:34:18.121Z"
     }
   ]
 }

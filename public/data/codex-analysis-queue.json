@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T05:01:27.067Z",
+  "generatedAt": "2026-10-17T09:23:46.422Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -265,6 +265,16 @@
       "codexStatus": "PENDING",
       "source": "Bloomberg.com",
       "publishedAt": "2026-10-09T18:31:54.000Z"
+    },
+    {
+      "id": "94cf16e3707a19e67a1cfa36c55219dccd60c37838fc851ad01c747e27733b4d",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Workers and members of unions representing workers at the Centinela copper mine set up a strike camp outside the Antofagasta Minerals building",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "The Lufkin Daily News",
+      "publishedAt": "2026-10-17T03:02:43.000Z"
     },
     {
       "id": "b5348fb2a91157125ca9c7a4db7db7db903be747b43361280fac1cc6da178afc",
@@ -705,16 +715,6 @@
       "codexStatus": "PENDING",
       "source": "글로벌이코노믹",
       "publishedAt": "2026-10-15T21:57:36.000Z"
-    },
-    {
-      "id": "4df9eaee82b8e31a80a7e0089ce748395403bbfa7f36e714f7f9314a53d7660e",
-      "commodity": "ALUMINUM",
-      "importance": "HIGH",
-      "title": "트럼프, 철강·알루미늄 관세 50%로 두배 인상",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "미주조선일보",
-      "publishedAt": "2026-09-17T06:38:46.000Z"
     },
     {
       "id": "5f6e2d4617dcaa453d4e02a95373249234f285d62e2cfdc6e28e0d712040e54b",
@@ -1255,16 +1255,6 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-15T14:30:37.000Z"
-    },
-    {
-      "id": "8993a047268eb745bf5028172a71ff277a87d0f1a8c9fe541327b6eda8551a37",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Prices Pull Back, Demand Warms Up; High Premiums Return After Delivery Contract Rollover [SMM Shandong Copper Cathode Spot Weekly Review]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-17T06:08:40.000Z"
     },
     {
       "id": "c76be6441092e0f0408069220ee09147094389205aa4bce2c48f421dfea78b07",
@@ -2787,26 +2777,6 @@
       "publishedAt": "2026-10-16T22:18:50.000Z"
     },
     {
-      "id": "1b747c06cedca7999ac559e374cdc36680701deee3f171e926a6a5baf3f8c9dd",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "LME aluminium prices recover up to 1.64% as stocks fall to 243,600t",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-09-17T07:30:00.000Z"
-    },
-    {
-      "id": "dd1275c2e228a6dacf2ccfeff8f040423f129e0a6e2becaf4f5ac9aa14931033",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "ACG: Revenue up 27% and sulphide ramp-up on track, with first copper concentrate produced",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "tradingview.com",
-      "publishedAt": "2026-09-17T06:07:00.000Z"
-    },
-    {
       "id": "5ddad6415a7804b7b788ecbaa3221c37bba80797d8af37a4fc769823388d0574",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3515,16 +3485,6 @@
       "codexStatus": "PENDING",
       "source": "S&P Global",
       "publishedAt": "2026-10-12T05:56:38.000Z"
-    },
-    {
-      "id": "d4724ef9b8e25da41c6f17421fb527a0faddef1fb3da5d7cb0266a8e5baab94f",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "US Fed delivers rate hike, China aluminium ingot destocking accelerates, aluminium prices consolidate at highs",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-09-17T08:50:14.000Z"
     },
     {
       "id": "c7b7f330e055f80dd63dda5f795a9ed4e985fee1f3a8373421742ddcaa3e02a4",
@@ -5005,6 +4965,46 @@
       "codexStatus": "PENDING",
       "source": "CNews",
       "publishedAt": "2026-10-17T00:51:26.000Z"
+    },
+    {
+      "id": "bd39d56e6e54b767129cc452e73f18367bdd8e0e9af7428cc09fb15048acc9e5",
+      "commodity": "MOLYBDENUM",
+      "importance": "MEDIUM",
+      "title": "최신 몰리브덴 톤당 가격 및 과거 가격: 페로몰리브덴·스크랩",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-16T08:14:13.000Z"
+    },
+    {
+      "id": "a56e928a5eb217b5f4e0ffdc6969d87dd1fa686705db4cc4b89a57149e0f96a2",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Koryx Copper S.A. (LI6.F) Stock Price, News, Quote & History",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo! Finance Canada",
+      "publishedAt": "2026-10-17T00:20:46.000Z"
+    },
+    {
+      "id": "a6d83596aee40a4e311fcd5323f7d4bdf0143485a757cb43c29e7dae2283be00",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Alcoa Beat on Cash and Ops. Aluminum Still Does the Heavy Lifting.",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Money Morning",
+      "publishedAt": "2026-10-16T13:07:42.000Z"
+    },
+    {
+      "id": "6683ba296fb87dca1a053d9c28eb169abb9b5a4492d0298ee856af9a08cd66c9",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Anglo Asian Mining, 3분기 구리 생산량 전년 대비 141% 증가",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com 한국어",
+      "publishedAt": "2026-10-16T11:45:00.000Z"
     }
   ]
 }
