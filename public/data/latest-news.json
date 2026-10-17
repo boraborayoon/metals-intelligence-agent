@@ -1,6 +1,113 @@
 {
-  "generatedAt": "2026-10-17T16:29:08.211Z",
+  "generatedAt": "2026-10-17T18:51:30.403Z",
   "items": [
+    {
+      "id": "e8613751fe11b693c1c35c95070faa46302d368dc365b8e46a6b0083ef000fc7",
+      "titleSourceHash": "69533c86691bf8fb48bbc694084c263b9d92e43a93facbca58b99daf086410d6",
+      "eventId": "3ef85f4ea7ddc7aa825e8ffd1e299b7f79ab9bf78bea7e0fcc74a5a743272b42",
+      "title": "미국·멕시코 관세 협상 교착…자동차·철강·알루미늄 관세 인하 지연",
+      "normalizedTitle": "미국·멕시코 관세 협상 교착 자동차·철강·알루미늄 관세 인하 지연",
+      "description": "미국·멕시코 관세 협상 교착…자동차·철강·알루미늄 관세 인하 지연 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-10-17T18:45:00.000Z",
+      "fetchedAt": "2026-10-17T18:51:30.403Z",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUt5OEdKZWQ0dlBvcTlJNW45Zlp2QUpnSE9oWjBBNlhSVzRCOGotMWJwRTFDSHZaUEdCVXRKazlqUmp2VF9HQ3RoYnpCZjUyVXNqbC12NHBUOWowaTQwVDhlY20zQWphb01IbXE5VGxSTXhaODNfWVhpMU5TRUE4WTBZeWNZMGQ4?oc=5",
+      "language": "ko",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "알루미늄"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "관세"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 9,
+          "matchedKeywords": [
+            "알루미늄"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "관세"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "TARIFF"
+      ],
+      "primaryCategory": "Tariff",
+      "titleKo": "미국·멕시코 관세 협상 교착…자동차·철강·알루미늄 관세 인하 지연",
+      "summaryKo": "미국·멕시코 관세 협상 교착…자동차·철강·알루미늄 관세 인하 지연 글로벌이코노믹",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": true,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "미국·멕시코 관세 협상 교착…자동차·철강·알루미늄 관세 인하 지연 글로벌이코노믹",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "미국·멕시코 관세 협상 교착…자동차·철강·알루미늄 관세 인하 지연 글로벌이코노믹",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "sent": true,
+      "sentAt": "2026-10-17T18:51:30.403Z"
+    },
     {
       "id": "771b60fbc8da46565c33e00bf194f4a55706ffe4f3f98d593550585c7cef4bef",
       "titleSourceHash": "cc6e946627d85eae633798656ec4988151beefdf139e7c5fa58248b6e2c45ba7",
@@ -5886,7 +5993,7 @@
       "source": "Streetwise Reports",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-16T09:27:55.000Z",
-      "fetchedAt": "2026-10-17T05:01:27.067Z",
+      "fetchedAt": "2026-10-17T18:51:30.403Z",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHBxbWhtMWFrU1NUV3hOb0dhRV9rQlJfQmNUR2NpOW9IMkpTM1ZBNDRSUWNnQmFvLXRFYWp5ZUFPYmVORU1rMlZwY1U2TEl5TWhXd3hueHNFTjViXzgyS2lMMDNod044UzFDaUNHZ216NEFXTFUwanNjNk9XT3B5XzR2QUZoRXBmTldxMm14WEhJYkpCNjV1eDhDa29PUjhHMFdFV0VoN2dxeVRzSXItZEQtUjZaWUZxZ1RnTlZmRElBOEhhY0ZiNmU0OA?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -5980,11 +6087,11 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 30,
+      "priority": 26,
       "codexStatus": null,
       "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-10-17T18:51:30.403Z"
     },
     {
       "id": "9a31a93598379436aa686b74d164995a029c4929d223bcf478b5e9694ddbd9c0",
@@ -6213,7 +6320,7 @@
       "source": "Mining Weekly",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-16T08:21:00.000Z",
-      "fetchedAt": "2026-10-17T00:30:53.175Z",
+      "fetchedAt": "2026-10-17T18:51:30.403Z",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUJhSXdxQ21XbkMyZElPSEE0MDFVSDhIUEZQemJGUkthNW9ubFhfalp5V0FQNzVxMlRtanRIclVUdUJFOVJhSzN3cWJTZDRUdi0tLWQ5a2lSMUc3dDJvVmRQQThTMzNzV3BoVms3djUyVTNyaGt0T1hwQ3dsTjFLcXlCUmcza256UUQ0U0JJMWlqQlFIcXpqUFljTThnVll3cGFiQmwxMEY?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -6311,11 +6418,11 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 30,
+      "priority": 26,
       "codexStatus": null,
       "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-10-17T18:51:30.403Z"
     },
     {
       "id": "f09dd13a86b878882206c3db1033b1195ab831d84384f165a8a2831a9b792510",
@@ -33837,144 +33944,6 @@
       "codexReviewReason": null,
       "sent": false,
       "sentAt": null
-    },
-    {
-      "id": "21ddad2e760106e17a0e627f3992e1c1f62b8686ea73cb412b9e2adb1e2bb435",
-      "titleSourceHash": "83c001e0d2660647cc1fa2c1c9d0f1e44659ab6925aed867224b8cef72be0aaa",
-      "eventId": "a5f2955a921acb56f0aee0d157d8c58ea6a9d5e1294fd6cf04b30d95a2719934",
-      "title": "구리 가격 2주 만에 최고치…칠레 광산 사고·금리 인상 보류 기대에 상승",
-      "normalizedTitle": "구리 가격 2주 만에 최고치 칠레 광산 사고·금리 인상 보류 기대에 상승",
-      "description": "구리 가격 2주 만에 최고치…칠레 광산 사고·금리 인상 보류 기대에 상승 더구루",
-      "source": "더구루",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-10-13T02:11:00.000Z",
-      "fetchedAt": "2026-10-13T08:29:16.311Z",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uUnB3SEhjYzhhNm5SUl9hNkZBNjNyYzZ5VHpiX2JzWmJ2a3R1OEFCa1V5dGtxU2dtT1R3Y3VRY0hQM3hFRFNJNndJdVRLcWphTXV2TktfSllEUzhzTHhHUg?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "가격",
-        "광산",
-        "사고"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "가격",
-            "광산",
-            "사고"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "MINE",
-        "ACCIDENT",
-        "MACRO"
-      ],
-      "primaryCategory": "Operational Accident",
-      "titleKo": "구리 가격 2주 만에 최고치…칠레 광산 사고·금리 인상 보류 기대에 상승",
-      "summaryKo": "구리 가격 2주 만에 최고치…칠레 광산 사고·금리 인상 보류 기대에 상승 더구루",
-      "marketImpact": "Bullish",
-      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-      "procurementImpact": "NEGATIVE",
-      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "IMMEDIATE",
-      "confidence": "MEDIUM",
-      "signals": [
-        "Supply Tightening",
-        "Supply Disruption",
-        "Price Increase Risk"
-      ],
-      "keyEvidence": [
-        "사고"
-      ],
-      "conflictingSignals": false,
-      "codexReviewEvent": true,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Operational Accident",
-        "categories": [
-          "PRICE",
-          "MINE",
-          "ACCIDENT",
-          "MACRO"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "구리 가격 2주 만에 최고치…칠레 광산 사고·금리 인상 보류 기대에 상승 더구루",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "사고"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Operational Accident",
-        "categories": [
-          "PRICE",
-          "MINE",
-          "ACCIDENT",
-          "MACRO"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "구리 가격 2주 만에 최고치…칠레 광산 사고·금리 인상 보류 기대에 상승 더구루",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "사고"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "priority": 38,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Material event taxonomy; High-impact event requires evidence review",
-      "sent": true,
-      "sentAt": "2026-10-13T08:29:16.311Z"
     }
   ]
 }
