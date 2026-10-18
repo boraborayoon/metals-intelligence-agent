@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T01:33:12.766Z",
+  "generatedAt": "2026-10-18T06:37:18.517Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -925,6 +925,51 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-14T10:38:11.291Z",
       "updatedAt": "2026-10-14T10:38:11.291Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "36e9bc7040d9867b3007d8eb0016e5b0c7440cd4d9f8b0e8eb970f71aa155ff3",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Chile’s Centinela Copper Mine Strike Ends With New Deal",
+      "summary": "Chile’s Centinela Copper Mine Strike Ends With New Deal Finimize",
+      "source": "Finimize",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORDJkZFY0YUJGZUs3YWpRWm9GejFpbTVtZzI3LVB2Y01HbWMzMTJlZ0ZmdkZFY2cwOXRfNVEzdW9GLWtCVzBTVE5iaF9qVGRzMmc2WlJZOXU4d1JaY0M4c2FlMkIxdW1NTk9GdWVRT3o3UjJRWjFsNTIwWVFQeDcwQzFRVmNfcEVVT19v?oc=5",
+      "publishedAt": "2026-10-18T04:03:34.000Z",
+      "priority": 62,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Chile’s Centinela Copper Mine Strike Ends With New Deal Finimize",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-18T06:37:18.517Z",
+      "updatedAt": "2026-10-18T06:37:18.517Z",
       "analyzedAt": null
     },
     {
@@ -5281,80 +5326,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-15T15:45:00.067Z",
       "updatedAt": "2026-10-15T15:45:00.067Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "c76be6441092e0f0408069220ee09147094389205aa4bce2c48f421dfea78b07",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Producers Rise Amid Copper Price Increase",
-      "summary": "Copper Producers Rise Amid Copper Price Increase marketscreener.com",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmR6T0xZRXZjRkVaV2pMckZ0VS1GY05iSjFZb244cHhWSUg0QXEwNUllZ2VPNlZLVlRiWHZVa0ZRQWZXc2VITEJ4SHpkNUY5aEhZZklGTExDYWpic04xaUplbmhITGhvRVJmNUtMSmI0XzBhMkt1aGt5LU9JWFNkbzlteThValZsdUxKLUJqT21vN2E4WHFPRG9qRTRMNVNPaHow?oc=5",
-      "publishedAt": "2026-09-18T04:18:21.000Z",
-      "priority": 39,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Producers Rise Amid Copper Price Increase marketscreener.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-18T05:56:37.633Z",
-      "updatedAt": "2026-09-18T05:56:37.633Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "d87ac8ccf120400b3338a04107ea66836e510cd0c511e2d4ef622ee719165c53",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper price pullback stimulated order releases, with operating rates of copper billet producers rebounding beyond expectations [SMM Brass Billet Market Weekly Review]",
-      "summary": "Copper price pullback stimulated order releases, with operating rates of copper billet producers rebounding beyond expectations [SMM Brass Billet Market Weekly Review] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNTF9ZQW81cGZ1OFo2d0dQMUNZQmJ2SDlTMW80RElrN0lMdkNlWk45WVFBYk1ERTFWa2hoN0RMSWVBTXp1UEdta2VWbC1heWZ4emVxREg3ZXBrU3Fhclh2bl9QdjNnSjY4dFY0MzBIWjdZb28wcmd1MnhpWjU5X0Q4VjRXeXFraFhqRjNJTk1nMEtXV3p5ZkV4SXJlRjMzQzZVTkcxQXAxUEFYN3NVMFkwR2xBYXNOanVqdVN1U1Y1bm5BeXM2bUxCaDZiLWQ0THR2MFNsQ2t5SnJNUmt0WE9NRWkzVEt5RlhzZDdmRmEtZXdUdHZDTVVIa0lySEVlMkgwcWhDS2diVlRUN1Jab0pIYm9iSHdJZHRuMm1QQ2dlUW01TXJ4akJzS1NKS1JUX2p2blp3?oc=5",
-      "publishedAt": "2026-09-18T02:50:43.000Z",
-      "priority": 39,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper price pullback stimulated order releases, with operating rates of copper billet producers rebounding beyond expectations [SMM Brass Billet Market Weekly Review] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-18T05:56:37.633Z",
-      "updatedAt": "2026-09-18T05:56:37.633Z",
       "analyzedAt": null
     },
     {
@@ -10988,6 +10959,46 @@
       "analyzedAt": null
     },
     {
+      "id": "e6125273acabe4094068e6edd0b014ba3ac2eddaf95cf34456f6ee085cb9d925",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Tight supply coupled with rising sentiment to hold back from selling kept secondary copper prices resilient at high levels [SMM Weekly Review on Secondary Copper Raw Materials Outside China]",
+      "summary": "Tight supply coupled with rising sentiment to hold back from selling kept secondary copper prices resilient at high levels [SMM Weekly Review on Secondary Copper Raw Materials Outside China] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQbFQ3QkxkMUVsMDZaMFkzT1IzcmVBUl9QeVBNQ2RUYUNjUkFxcjFGOE9hVnpGYTVJNi0zbXRCY0NRTF9zMGFYN1lYSURaZTR5MmZCa1V5bWFGSnpZcDJ5R0prdEkyUlp2bTQ3LUlaVWxKSGV5bnFrZUV4X2xZbWF0Q1BYek5VWnAtc2dJTGhRU20zYjhIUGx1UTd6TVFyT3p1QlNMZWVuYklvdm9PWUxIeC1XU0gxWUN2eXZnMVR6SXpneHhhLVZKcGY4YndTYzk1SnROTVlsNHdya0tYMFhOeW9zUkdrdERsNFdxdVpCZlliWEhPWVJNRFVQc0ZkdjViYUF5dEJKa1c2aVF6a1BJQWcxbDlFdVhpdWtkWEJLbWtCemV3ZDRWZjBGM0hFUnE3a1JzbTVDbnhiNl9ZOU5RVWRBS3JPVzJoYi1jc3JDaTdtNVE?oc=5",
+      "publishedAt": "2026-10-18T04:38:00.000Z",
+      "priority": 37,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "PRICE",
+          "SUPPLY",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Tight supply coupled with rising sentiment to hold back from selling kept secondary copper prices resilient at high levels [SMM Weekly Review on Secondary Copper Raw Materials Outside China] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-18T06:37:18.517Z",
+      "updatedAt": "2026-10-18T06:37:18.517Z",
+      "analyzedAt": null
+    },
+    {
       "id": "b71c1ecb16fee730c9f5ce5009369d8e67052acdf73a65113557a688f317620c",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -13469,45 +13480,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-12T09:47:10.014Z",
       "updatedAt": "2026-10-13T01:38:05.241Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "80d4fcb7476a77f93693cae76acb93d8e5165d6173ac02c3fd46523ff75ac5d5",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Holds Gains on Stronger China Demand",
-      "summary": "Copper Holds Gains on Stronger China Demand TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVHVEQmlWT0VueEx1cHNJQjd4aHEwVTg0NVBRU3ZZT0V5N3BhU1JqekNEazVzNVJ2SWhRRjh3UGdJMDBCc2ZwOUZTdW00RC1vNFBTVUdBZVFPSzBxbnhjNjNwbnZmeFd3R0FRamJsd2V6WUFGN1JWeUp3QWJieE9WT0xjdUJaSk5wQUl5M0dRWTR1cDZzV2prTTVB?oc=5",
-      "publishedAt": "2026-09-18T03:48:43.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper Holds Gains on Stronger China Demand TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-18T05:56:37.633Z",
-      "updatedAt": "2026-09-18T05:56:37.633Z",
       "analyzedAt": null
     },
     {
@@ -19170,6 +19142,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-17T21:28:57.511Z",
       "updatedAt": "2026-10-17T21:28:57.511Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "ccc7f79e1ada387658483b547db6c4c212423fceca047fb0a5698ff169946560",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Is Freeport-McMoRan (FCX) Undervalued As Q3 Earnings Put Copper And Gold In Focus?",
+      "summary": "Is Freeport-McMoRan (FCX) Undervalued As Q3 Earnings Put Copper And Gold In Focus? Simply Wall Street",
+      "source": "Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUDBnXzZObmNOeVpNajFabUJUZU5ROE9CZjA2MEZCVUR2eGpNdkQyNmxqV2I0Z1Ffak9nVUkySmV0aDM1OEtZVVBDcTZPakh1YUxHZ2RDREZUUVhIYkxuMTh0cXhzNUloMmd6d2V4djFiU3hIX01ncUlQLW9oQ1d6dm9PTGprT2wyTHEzaUppRHFTTE82ZjhTUl9ndml2LVdfY0JXd3p4YV9kSWVyOVY5UEhnZkJLS1pmV3NCZ3NVRzZCdXk0c0IzNVBPVmstSlBUaEtB0gHTAUFVX3lxTE9QMGdfNk5uY055Wk1qMVptQlRlTlE4T0JmMDYwRkJVRHZ4ak12RDI2bGpXYjRnUV9qT2dVSTJKZXRoMzU4S1lVUENxNk9qSHVhTEdnZENERlRRWEhiTG4xOHRxeHM1SWgyZ3p3ZXh2MWJTeEhfTWdxSVAtb2hDV3p2b09MamtPbDJMcTNpSmlEcVNMTzZmOFNSX2d2aXYtV19jQld3enhhX2RJZXI5VjlQSGdmQktLWmZXc0Jnc1VHNkJ1eTRzQjM1UE9Way1KUFRoS0E?oc=5",
+      "publishedAt": "2026-10-18T03:41:23.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "LOGISTICS",
+          "EARNINGS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Is Freeport-McMoRan (FCX) Undervalued As Q3 Earnings Put Copper And Gold In Focus? Simply Wall Street",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-18T06:37:18.517Z",
+      "updatedAt": "2026-10-18T06:37:18.517Z",
       "analyzedAt": null
     }
   ]

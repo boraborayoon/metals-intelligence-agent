@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T01:33:12.766Z",
+  "generatedAt": "2026-10-18T06:37:18.517Z",
   "counts": {
     "PENDING": 499,
     "ANALYZED": 0,
@@ -215,6 +215,16 @@
       "codexStatus": "PENDING",
       "source": "UA.NEWS",
       "publishedAt": "2026-10-14T07:50:49.000Z"
+    },
+    {
+      "id": "36e9bc7040d9867b3007d8eb0016e5b0c7440cd4d9f8b0e8eb970f71aa155ff3",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Chile’s Centinela Copper Mine Strike Ends With New Deal",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-10-18T04:03:34.000Z"
     },
     {
       "id": "406f6adb2ac27f46874f9045322c3142334c9215ba004b85cb3afe01dddbf771",
@@ -1265,26 +1275,6 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-15T14:30:37.000Z"
-    },
-    {
-      "id": "c76be6441092e0f0408069220ee09147094389205aa4bce2c48f421dfea78b07",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Producers Rise Amid Copper Price Increase",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "marketscreener.com",
-      "publishedAt": "2026-09-18T04:18:21.000Z"
-    },
-    {
-      "id": "d87ac8ccf120400b3338a04107ea66836e510cd0c511e2d4ef622ee719165c53",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper price pullback stimulated order releases, with operating rates of copper billet producers rebounding beyond expectations [SMM Brass Billet Market Weekly Review]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-18T02:50:43.000Z"
     },
     {
       "id": "dd6e69cf859220bec407e867aaf823d495377559cc0058c26b9277f8a6162cb5",
@@ -2797,6 +2787,16 @@
       "publishedAt": "2026-10-16T22:18:50.000Z"
     },
     {
+      "id": "e6125273acabe4094068e6edd0b014ba3ac2eddaf95cf34456f6ee085cb9d925",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Tight supply coupled with rising sentiment to hold back from selling kept secondary copper prices resilient at high levels [SMM Weekly Review on Secondary Copper Raw Materials Outside China]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-18T04:38:00.000Z"
+    },
+    {
       "id": "b71c1ecb16fee730c9f5ce5009369d8e67052acdf73a65113557a688f317620c",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3475,16 +3475,6 @@
       "codexStatus": "PENDING",
       "source": "S&P Global",
       "publishedAt": "2026-10-12T05:56:38.000Z"
-    },
-    {
-      "id": "80d4fcb7476a77f93693cae76acb93d8e5165d6173ac02c3fd46523ff75ac5d5",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Holds Gains on Stronger China Demand",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-09-18T03:48:43.000Z"
     },
     {
       "id": "955538acba0d7d158e38653599ddb9956b79b8df50bf8d79cad99482708b28c5",
@@ -4995,6 +4985,16 @@
       "codexStatus": "PENDING",
       "source": "Yahoo Finance UK",
       "publishedAt": "2026-10-17T16:03:20.000Z"
+    },
+    {
+      "id": "ccc7f79e1ada387658483b547db6c4c212423fceca047fb0a5698ff169946560",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Is Freeport-McMoRan (FCX) Undervalued As Q3 Earnings Put Copper And Gold In Focus?",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Simply Wall Street",
+      "publishedAt": "2026-10-18T03:41:23.000Z"
     }
   ]
 }
