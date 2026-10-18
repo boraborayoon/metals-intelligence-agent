@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T20:46:02.703Z",
+  "generatedAt": "2026-10-18T22:38:05.486Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -18700,6 +18700,42 @@
       "analyzedAt": null
     },
     {
+      "id": "5dd589c5b57ee227a61ed9f4b5c144a85906c3d431a20ddc238f504cf0a92fe9",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Australia's South32 logs 2% rise in first-quarter copper output",
+      "summary": "Australia's South32 logs 2% rise in first-quarter copper output TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMElMNDA0RkNLTVQ3dF8yQVdQa3dMdncydTEzSWs5TElQZkRGa21qdWhsMXdROVVqTFVVa2Z0bDAtQTlqcHdYYl9lUUZLZkQ2bXZsQTgwY19RcENibnk0WDhEQzV0Y3E2cE5INmhlOGQyeDBONVdhVzZnWHNMbmpvVFdSY1l6dHY0Ym1aa2pTaXlrMlhfOUQ4bS1Kc1FEYzZZa19adEs4TnlYQ1Y0QzljM2RGb1o1SmQ4VTFKRVFaM21yMDZJTTA4eHRuanU?oc=5",
+      "publishedAt": "2026-10-18T21:46:22.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Australia's South32 logs 2% rise in first-quarter copper output TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-18T22:38:05.486Z",
+      "updatedAt": "2026-10-18T22:38:05.486Z",
+      "analyzedAt": null
+    },
+    {
       "id": "137e4fa4b2f37ab050c863e4c37b93e9c24a59cf38ddb0a1f81360152eb0fe34",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18733,6 +18769,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-18T18:07:26.463Z",
       "updatedAt": "2026-10-18T18:07:26.463Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f2544eba21fa1749a7857a311e5d135f3dc59e7c41287ed6ae979bb374023228",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "LME gains lift copper scrap prices",
+      "summary": "LME gains lift copper scrap prices EUWID Recycling and Waste Management",
+      "source": "EUWID Recycling and Waste Management",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSjl1cFNfdjNIMVZDZ3IzZHFZa2xZaTFnQUlIUjdGaFVqVXVwV0JMaWdwYXV3UE9pUHRXLV9mUC1QbzVOaGFrN1l5TlBkbEVCZXBNQ3BYenBSTFQ5bkFoNnBQTFZXMmlQYnM2RGZNUjUxZVRGeThtMnQ0U1gyM3VsR1hrSlhZNUFaVHZCdlM3aUI?oc=5",
+      "publishedAt": "2026-10-17T04:36:00.000Z",
+      "priority": 28,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME gains lift copper scrap prices EUWID Recycling and Waste Management",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-18T22:38:05.486Z",
+      "updatedAt": "2026-10-18T22:38:05.486Z",
       "analyzedAt": null
     }
   ]
