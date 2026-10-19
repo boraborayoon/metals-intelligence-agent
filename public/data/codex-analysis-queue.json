@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T00:31:57.162Z",
+  "generatedAt": "2026-10-19T05:22:15.131Z",
   "counts": {
-    "PENDING": 493,
+    "PENDING": 500,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -757,6 +757,16 @@
       "publishedAt": "2026-10-17T15:07:53.000Z"
     },
     {
+      "id": "497ae09d51f41f45f35aeb6772e1b67e7c56ab79557ab25a168a1333c248189e",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "U.S. Copper Stockpiles Have Surged: Could the 2025 Price Collapse Repeat?",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-18T20:29:02.000Z"
+    },
+    {
       "id": "e556c7478371963ae234c379bb318f3c995a0e32f6ba09d7071d8dc228602d04",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1477,14 +1487,14 @@
       "publishedAt": "2026-10-16T15:03:59.000Z"
     },
     {
-      "id": "2042f54b0bf48bf133720ef02f5b8ec86cf38dc3a12e57cb6affd4f14aedead8",
+      "id": "44426f80ffb0356ae92a18d1f6c56159a2a6b9eb9770e1885dd9a407e759eed2",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Learn Why The Bull Case For Hudbay Minerals Stock Could Change Following Copper Supply Crunch",
-      "reasonForCodexReview": "Rule direction is unclear",
+      "title": "[구리 가격] 달러 약세에 2주 저점서 반등…구리 정광 제련수수료 사상 최저",
+      "reasonForCodexReview": "Rule direction is unclear; High-impact event requires evidence review",
       "codexStatus": "PENDING",
-      "source": "simplywall.st",
-      "publishedAt": "2026-09-19T04:40:07.000Z"
+      "source": "산업일보",
+      "publishedAt": "2026-10-19T01:23:03.000Z"
     },
     {
       "id": "eac353808a55e13e62d6eeeca2d66598b09052ce6c6c96a5b35962e6cd9820bf",
@@ -3337,6 +3347,26 @@
       "publishedAt": "2026-10-16T13:47:49.000Z"
     },
     {
+      "id": "37a4ca2320d476b5ede8cd76289244729b35fd97ac924843dcdcc39f4839a057",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Fortescue Sells First Copper Concentrate Cleaned Using New Arsenic Removal Technology",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-10-19T02:31:12.000Z"
+    },
+    {
+      "id": "33d33f529ee334c605bd0a0709cc9169969ab70c8ab239e99af4f68c600e6565",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Orion lands unconditional $40M Glencore tranche to revive Prieska copper mine",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Dealroom",
+      "publishedAt": "2026-10-18T22:55:02.000Z"
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -3345,16 +3375,6 @@
       "codexStatus": "PENDING",
       "source": "S&P Global",
       "publishedAt": "2026-10-12T05:56:38.000Z"
-    },
-    {
-      "id": "dc038f1636834c4e3c17a7648275ed07686e87fcc7fa818a4f9bc1becd23c0a5",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "China aluminium rod inventory stays high, processing fees edge up amid falling prices",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-09-19T00:43:28.000Z"
     },
     {
       "id": "a97882161a715283ca4e30f0a80867e6944cb8bc6ef6967c92489427e0c891a3",
@@ -4905,6 +4925,56 @@
       "codexStatus": "PENDING",
       "source": "Mining.com.au",
       "publishedAt": "2026-10-18T23:25:48.000Z"
+    },
+    {
+      "id": "2558a48a3496a728414a5ca4048f8a2f94be7b77bb49bc37bddc130036fbea9c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Fortescue’s ‘world-first’ arsenic removal tech unlocks new copper processing potential",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "International Mining",
+      "publishedAt": "2026-10-19T05:14:24.000Z"
+    },
+    {
+      "id": "3f70268519ded7635c3c95f242582d9b3008d504e0f80987cb4a84a7ef40e650",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Why copper and zinc will shape South32’s future",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Magazine Australia",
+      "publishedAt": "2026-10-19T05:01:28.000Z"
+    },
+    {
+      "id": "b6c4e2aa4057b7bd9cde129e61ccaf79a38319efe8e752a8e8283443da7e7fc7",
+      "commodity": "MOLYBDENUM",
+      "importance": "MEDIUM",
+      "title": "South32 Limited reported payable molybdenum production of 0.2 thousand",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-19T02:19:00.000Z"
+    },
+    {
+      "id": "54512038d36f28f3a2ec015df01ec1577ab64ec666254f7976b65bd5c5a72830",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "민주콩고, 구리 생산 중심지서 中광부 300명 체포…불법 채굴 단속 강화",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "더구루",
+      "publishedAt": "2026-10-19T00:33:36.000Z"
+    },
+    {
+      "id": "db80f6438ca6b3165ef024debb8ffdeb074f041cb580ddd9baf1634a0692e827",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Fortescue copper–arsenic Toowong Process: project economics lens for mine planners",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Geomechanics.io",
+      "publishedAt": "2026-10-19T00:01:16.000Z"
     },
     {
       "id": "137e4fa4b2f37ab050c863e4c37b93e9c24a59cf38ddb0a1f81360152eb0fe34",

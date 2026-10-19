@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-10-19T00:31:57.162Z",
-  "nextScheduledRun": "2026-10-19T01:01:57.162Z",
+  "lastUpdated": "2026-10-19T05:22:15.131Z",
+  "nextScheduledRun": "2026-10-19T05:52:15.131Z",
   "agentStatus": "OK",
   "telegramStatus": "OK",
   "kakaoStatus": "DISABLED",
   "intelligenceMode": "RULE_ONLY",
   "codexQueue": {
-    "PENDING": 493,
+    "PENDING": 500,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -29,12 +29,12 @@
   ],
   "runStats": {
     "fetched": 210,
-    "relevant": 44,
-    "duplicates": 33,
-    "analyzed": 11,
-    "ruleAnalyzed": 11,
-    "codexPending": 493,
-    "sent": 4,
+    "relevant": 45,
+    "duplicates": 24,
+    "analyzed": 21,
+    "ruleAnalyzed": 21,
+    "codexPending": 500,
+    "sent": 5,
     "failed": 0
   }
 }
