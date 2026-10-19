@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T05:22:15.131Z",
+  "generatedAt": "2026-10-19T11:17:21.434Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -465,6 +465,16 @@
       "codexStatus": "PENDING",
       "source": "2oceansvibe News",
       "publishedAt": "2026-09-28T08:34:15.000Z"
+    },
+    {
+      "id": "b3e939d6eee48a732ddaea081cdac01a8e4b93abfc4712f9c97d5c5a96a4da2e",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "China aluminium output hits record quarterly high despite capacity cap",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Weekly",
+      "publishedAt": "2026-10-19T07:53:00.000Z"
     },
     {
       "id": "39ec19e7110014bc214a8f4f0d7ee8678004387157d07cb7eaf67c5a5abd62ce",
@@ -2487,6 +2497,16 @@
       "publishedAt": "2026-10-17T20:25:07.000Z"
     },
     {
+      "id": "7cffc599b177a7867c38ec8ce74d8e18a4e6d47b1e175a6e48bf15f5d967087a",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Weekly Recap: Q3 copper +7%, guidance and Centinela strike over discrimination",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-19T05:00:00.000Z"
+    },
+    {
       "id": "348078040e322c8f211c0352485cfb48a823af7f3a5c3ceaa224db3045fd1bd6",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2685,6 +2705,16 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-10-18T04:38:00.000Z"
+    },
+    {
+      "id": "91359533d4fa0d8eaa197731e6550a9f262283ac3dc0b4468845f1479357a294",
+      "commodity": "MOLYBDENUM",
+      "importance": "MEDIUM",
+      "title": "[SMM Analysis] Asian Molybdenum Oxide Offers Rise as China Returns—Can the Rally Hold?",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-19T09:22:00.000Z"
     },
     {
       "id": "4a582c58c76f69adae0e494a8fbff8d6f27e812dfff103501cbf0360d5b59d9e",
@@ -3367,6 +3397,26 @@
       "publishedAt": "2026-10-18T22:55:02.000Z"
     },
     {
+      "id": "550ba9075bb2a1b9c19fc5a12354e04bf917ff49314c096ddc93d99061e9d507",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "LME copper neutral in $14,235-$14,527 range",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-19T08:22:11.000Z"
+    },
+    {
+      "id": "80059ea527be81c89ed636f6e81d5015a6ed3161ce7ec7a73b85fa82d94725b9",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Alcoa Eyes More Aluminum Capacity, Touts Key Acquisition",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Industrial Info Resources",
+      "publishedAt": "2026-10-19T07:44:06.000Z"
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -3945,6 +3995,36 @@
       "codexStatus": "PENDING",
       "source": "Simply Wall Street",
       "publishedAt": "2026-10-17T21:48:31.000Z"
+    },
+    {
+      "id": "4b061293d8f8c6d4e002b13169e3d261aa4f73c15fb5dd6a2f327760cfee35cd",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "National copper social inventory continues to decline, while weak consumption in South China leads to an inventory increase [SMM weekly data]",
+      "reasonForCodexReview": "Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-19T07:57:00.000Z"
+    },
+    {
+      "id": "4ec0abecbf4bce091df931a8be58f11ae9162c0deecdb7c67b2453e5a2d340c9",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "China aluminum billet weekly warehouse withdrawals statistics for October 19, 2026 (10.12-10.18) [SMM data]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-19T07:13:00.000Z"
+    },
+    {
+      "id": "5f2f53eb8e9e0b1ed7c92d5033d446dc299e049b3f64ef1c52c1773d62e9f84e",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "[SMM Tin Midday Review] Tin Price Center Consolidates and Rebounds; Downstream Mainly Digests Inventories and Waits on the Sidelines",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-19T04:19:00.000Z"
     },
     {
       "id": "90fb5ca9b3c130603b1e56c995755a1394ca8f0e6715736a8785ec0b4327cc11",
@@ -4925,86 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Mining.com.au",
       "publishedAt": "2026-10-18T23:25:48.000Z"
-    },
-    {
-      "id": "2558a48a3496a728414a5ca4048f8a2f94be7b77bb49bc37bddc130036fbea9c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Fortescue’s ‘world-first’ arsenic removal tech unlocks new copper processing potential",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "International Mining",
-      "publishedAt": "2026-10-19T05:14:24.000Z"
-    },
-    {
-      "id": "3f70268519ded7635c3c95f242582d9b3008d504e0f80987cb4a84a7ef40e650",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Why copper and zinc will shape South32’s future",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mining Magazine Australia",
-      "publishedAt": "2026-10-19T05:01:28.000Z"
-    },
-    {
-      "id": "b6c4e2aa4057b7bd9cde129e61ccaf79a38319efe8e752a8e8283443da7e7fc7",
-      "commodity": "MOLYBDENUM",
-      "importance": "MEDIUM",
-      "title": "South32 Limited reported payable molybdenum production of 0.2 thousand",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-19T02:19:00.000Z"
-    },
-    {
-      "id": "54512038d36f28f3a2ec015df01ec1577ab64ec666254f7976b65bd5c5a72830",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "민주콩고, 구리 생산 중심지서 中광부 300명 체포…불법 채굴 단속 강화",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "더구루",
-      "publishedAt": "2026-10-19T00:33:36.000Z"
-    },
-    {
-      "id": "db80f6438ca6b3165ef024debb8ffdeb074f041cb580ddd9baf1634a0692e827",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Fortescue copper–arsenic Toowong Process: project economics lens for mine planners",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Geomechanics.io",
-      "publishedAt": "2026-10-19T00:01:16.000Z"
-    },
-    {
-      "id": "137e4fa4b2f37ab050c863e4c37b93e9c24a59cf38ddb0a1f81360152eb0fe34",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리 가격 조정에 따라 룬딘 마이닝 주식에 대한 강세 전망이 바뀔 수 있는 이유를 알아보세요",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Simply Wall Street",
-      "publishedAt": "2026-10-18T09:42:15.000Z"
-    },
-    {
-      "id": "78c119d10b45e021f8d6de67852909e4e39b1b1716fda92bff24243aa47e131b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Southern Copper stock trades at EUR 180.18 in weekend trading",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "ad-hoc-news.de",
-      "publishedAt": "2026-10-18T15:35:50.000Z"
-    },
-    {
-      "id": "f2544eba21fa1749a7857a311e5d135f3dc59e7c41287ed6ae979bb374023228",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "LME gains lift copper scrap prices",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "EUWID Recycling and Waste Management",
-      "publishedAt": "2026-10-17T04:36:00.000Z"
     }
   ]
 }
