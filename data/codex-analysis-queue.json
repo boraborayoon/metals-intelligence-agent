@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T11:17:21.434Z",
+  "generatedAt": "2026-10-19T17:46:58.878Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -3059,6 +3059,49 @@
       "analyzedAt": null
     },
     {
+      "id": "81a62210626074d48804a1306072a68eeb4b7f7b95c2951894da5d9db94fc90c",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Workers at Highland Valley Copper mine vote 100% in favour of strike: union",
+      "summary": "Workers at Highland Valley Copper mine vote 100% in favour of strike: union CFJC Today Kamloops",
+      "source": "CFJC Today Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeW9SSXAtbUR0UzV6dDdzTi1qb2hjVzc1UkxRWUVXY3BpTDQyU2dySGFlUkNYaGhEM3oxWjlVMHpsbjNLd004WFJ6SWZEVVV2WXVvRjFsV05FRHI0MmcxNDZaWXpmckJ0VXUxVHZYTXhxelJTVHBJZVNJY2NvT3JCOWlxcmFhWlVVckk0YW4tY204Y05RU1FvcjZESDZPajNoOWk1TjlJa25jOEU?oc=5",
+      "publishedAt": "2026-10-19T12:06:11.000Z",
+      "priority": 46,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Workers at Highland Valley Copper mine vote 100% in favour of strike: union CFJC Today Kamloops",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-19T17:46:58.878Z",
+      "updatedAt": "2026-10-19T17:46:58.878Z",
+      "analyzedAt": null
+    },
+    {
       "id": "5f6e2d4617dcaa453d4e02a95373249234f285d62e2cfdc6e28e0d712040e54b",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -3560,6 +3603,50 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-14T15:31:05.946Z",
       "updatedAt": "2026-10-14T15:31:05.946Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "1107c51230910dc711fa9341bb2c156ed0491c4159a266ee06db176769fa4cc8",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Chile: Centinela ends strike and clears labor risk in copper market",
+      "summary": "Chile: Centinela ends strike and clears labor risk in copper market BNamericas",
+      "source": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa3FsWTF2aW5fUWhoOUd5aW13dmUwS0lSMjY0a1J5WFVPYzhpUzJ0NVc2aDlrTkNsbGFqYTFPZlFCdGhteDFKbFduWXc4azVpNmhRYnVqV1pBTWIwNTVQdjdteEw2c0Q2U3lQT3JIMmdjRGpIbmljdjM5ZUZKU2xpNzBFOHNDdk9VcDAxY3diSXY4THBTSm5IN0pwMVEza3dBR2VHUVlYZkQ?oc=5",
+      "publishedAt": "2026-10-19T13:16:37.000Z",
+      "priority": 43,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Chile: Centinela ends strike and clears labor risk in copper market BNamericas",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-19T17:46:58.878Z",
+      "updatedAt": "2026-10-19T17:46:58.878Z",
       "analyzedAt": null
     },
     {
@@ -5372,6 +5459,42 @@
       "analyzedAt": null
     },
     {
+      "id": "3b769a1d23e1622c28a4a8a70fabdddd15cc5d30c658c1d671f03607f8295502",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Alcoa sells New York aluminum smelter to data center developer for $315 million",
+      "summary": "Alcoa sells New York aluminum smelter to data center developer for $315 million Data Center Dynamics",
+      "source": "Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWxGZDg4QThKOUR3dGpkWDdySnpNNDBLTWpSRXF4dXhaekFSZXVhX0I4SmsySWhwUnJ4ejdXTnBGN0Fnd1dTUkJEZlhHeVJwTjhqVy1UTW9pb1pvdl9Gejg2QXJKMjZaYk1YM09MRGFhRnFTd19ndU9tMTEtR2tkR2VXNlQ3UHUzdzRJYlFCU25uWTUzcW9md2w4RHhlbkpzTUZfdlNWOG02dTJYRnJqNDczbE01Zy1zVUtjcFlZdw?oc=5",
+      "publishedAt": "2026-10-19T12:26:56.000Z",
+      "priority": 40,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Smelter",
+        "categories": [
+          "SMELTER"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Alcoa sells New York aluminum smelter to data center developer for $315 million Data Center Dynamics",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-19T17:46:58.878Z",
+      "updatedAt": "2026-10-19T17:46:58.878Z",
+      "analyzedAt": null
+    },
+    {
       "id": "1f40563f53e8a0393fe224157e64308c7afa1e1005b3a35fe44659a0b6b63bb1",
       "commodity": "TIN",
       "subCommodity": null,
@@ -6214,78 +6337,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-19T05:22:15.131Z",
       "updatedAt": "2026-10-19T05:22:15.131Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "eac353808a55e13e62d6eeeca2d66598b09052ce6c6c96a5b35962e6cd9820bf",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Indigenous Tribes Form Resistance Camp Against Proposed Copper Mine in Michigan",
-      "summary": "Indigenous Tribes Form Resistance Camp Against Proposed Copper Mine in Michigan Truthout",
-      "source": "Truthout",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdF9ReWU2X2R4UDBaMUNrVVdnREVkMjk4VHRvdnZjM2FBaHJLenAzRnNXLUo1MlZ5NDBqTzg3b016REpxR0JaSk92M3h6bzNORlZJV0p0OHp6c284Y1ptYjVVdERpeUtyVVM2YW5LOVVvVlpNQ1hXSkJGUTA0Z0pkbVkwSTBMT3JhMk4wNEFjYVRJVmlKUTBhTVl1Wk9Yak1xMlZlNWdOMEROdUlIcGNn?oc=5",
-      "publishedAt": "2026-09-19T13:11:18.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Indigenous Tribes Form Resistance Camp Against Proposed Copper Mine in Michigan Truthout",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-19T14:49:10.313Z",
-      "updatedAt": "2026-09-19T14:49:10.313Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "caf89e6d0149a5205486613597a4ca392648211fe20d45db0bfc4c353ec73ef9",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "2035년 염화철 침출 시장 전망: 전기화와 구리 수요가 성장 견인",
-      "summary": "2035년 염화철 침출 시장 전망: 전기화와 구리 수요가 성장 견인 IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3hYaTZHSjRtLWdoWksxVFF6cEQzNUY0b0hjeTJWOWNjZGhEeWlSSGY5Q1o3X0xDUHl1LVFvQm11T2dnWHdDQ2dhSEVvTWJxYy1DRm9HQm8yOXlSejVOTG53UWI0Mmhiazc0bTFqWjFmNnFJblBxSkRHOUJXRk5yXzdxY0laM1lVLVM0RnM3QUFJVS1oekEwOEw3Zks1OXN5a1R4anVRRldaLTBaWURfT2xQc3RZbXJQeWpyT29BNGdqR1BE?oc=5",
-      "publishedAt": "2026-09-19T15:46:18.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "2035년 염화철 침출 시장 전망: 전기화와 구리 수요가 성장 견인 IndexBox",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-19T18:02:57.315Z",
-      "updatedAt": "2026-09-19T18:02:57.315Z",
       "analyzedAt": null
     },
     {
@@ -9911,6 +9962,123 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-19T11:17:21.434Z",
       "updatedAt": "2026-10-19T11:17:21.434Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "7b858bce85c4c82bee1a914cb1287cdc0de5baba5e17ac3055ef5d5f588757dc",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Inola being sued over aluminum smelter moratorium",
+      "summary": "Inola being sued over aluminum smelter moratorium Oklahoma Energy Today",
+      "source": "Oklahoma Energy Today",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGZmpWRTVReTVQbFhjU0pIMDJuMThESThERGFIZ0pYZVNOZ3p6NVduUDE5dGNPQi1UaWlaSkNEYlJtWWJWX1kyelh0Ql9lQlVwWnJ6NE82NEVmZFJCaDBIdQ?oc=5",
+      "publishedAt": "2026-10-19T16:11:46.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Smelter",
+        "categories": [
+          "SMELTER",
+          "ENERGY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Inola being sued over aluminum smelter moratorium Oklahoma Energy Today",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-19T17:46:58.878Z",
+      "updatedAt": "2026-10-19T17:46:58.878Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "dbf0426d479cb142364a5748dbfd022abe24751f0f2d37c128fc6db44398834a",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Zambia makes up with Gulf investor in major copper mine",
+      "summary": "Zambia makes up with Gulf investor in major copper mine Semafor",
+      "source": "Semafor",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYWxOQnhaaEhLMllKV2NYR2N1cHFGR2plNzBFRl9hd3RlNlRyQ1lsTmotZjBwaEUyNzd4aUpmUVptMWhuTzlpbndYckFYTW1NZzZiSlVRU3ZpX2RiODM5blRMdlNWOHRJaW9ZY1E5em5aekV6aEZTYksyWmFSMVd4YS1RbnFGeHNHdU9sUmNDaDNaeWVuRy00N1RnX0x6X2c?oc=5",
+      "publishedAt": "2026-10-19T13:26:00.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Zambia makes up with Gulf investor in major copper mine Semafor",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-19T17:46:58.878Z",
+      "updatedAt": "2026-10-19T17:46:58.878Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "3c90364f0dac8df8a71cea152888ccc5f8e769791d88fa54bbc7a22fadde318b",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "LS MnM weighs copper output cuts as smelting margins collapse",
+      "summary": "LS MnM weighs copper output cuts as smelting margins collapse The Korea Herald",
+      "source": "The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmSkwwdkFEQlFRSDZ4OGFzTWFCRm1IaHIxemZ2WHNMQXRUYlRoSmlJNWs0MlNJVWphNEpWd1FDVXRsTGdmOEVhMEwxMmJVYzNCTmRkUW9ZZw?oc=5",
+      "publishedAt": "2026-10-19T09:08:09.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Operational Accident",
+        "categories": [
+          "SMELTER",
+          "PRODUCTION",
+          "ACCIDENT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LS MnM weighs copper output cuts as smelting margins collapse The Korea Herald",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "output cut"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-19T17:46:58.878Z",
+      "updatedAt": "2026-10-19T17:46:58.878Z",
       "analyzedAt": null
     },
     {
@@ -15659,6 +15827,123 @@
       "analyzedAt": null
     },
     {
+      "id": "a94a2c067c1c4601c802a1c2c8bedef6af296acf8daae43a0828ca372b742be8",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Goldman Sachs raises copper forecast as US-China competition tightens supply",
+      "summary": "Goldman Sachs raises copper forecast as US-China competition tightens supply TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNWFIY1pSQVBBUldqcU81Nnh2NTAwNVdlLWwtY0xOSjktb0NIMXV2MlFsRHpFN1RFTkZvdHZpaFhxM0pqR3NrUnI4aF9wazd2TWhTX2FxQ09pbnBZZF9qMU94dHNFQVc1MVRMc3dyOHhVMGdBTGl1Y2xnaVJzN2M1dGVucW5zc1Zha1JmTVZhUXlqSTQxblJHd1ZWOW1ONkhwOUgyNUt6blZnbl9XZkV0dHA5VWRVOFJ4eUlfQ1Z3bnJHVHJPU2pOVk9qUnA1d25OZF9xYTM5MkFGUmZxaTJj?oc=5",
+      "publishedAt": "2026-10-19T17:30:59.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Goldman Sachs raises copper forecast as US-China competition tightens supply TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-19T17:46:58.878Z",
+      "updatedAt": "2026-10-19T17:46:58.878Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "bdc4a80308155cf497427343d14c606514a7f4087f34ecb192f2a5aa97d23577",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "China pulls ahead of the US in Africa’s copper race as Congo arrests 300 Chinese nationals over illegal mining",
+      "summary": "China pulls ahead of the US in Africa’s copper race as Congo arrests 300 Chinese nationals over illegal mining Business Insider Africa",
+      "source": "Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS05zb0kza0R1bmdhbmlsT0xocWRLM2oxSkV6SjdFT0NRUWhmaFYyUEtmeHAzdlZEd2pTcmZPWHltQmNxako3WWtEZEtJOXZlNWxOaTlUTHhvdmxpU0pYY1ZGOVlJT3RkVWhab0EtSkhWYUZha3RBWkNyeGNac21sdWh4NnVQNGRkM3lWcEhTSm02Ty0tUXV3SzU5QnVWWGhtNnl0V1dfRWF5YXJkTElGbllMaVI5VUQweWFoc3QxdkYwbUllVnlqQjNyRWRfUWhIVGNpTHlR?oc=5",
+      "publishedAt": "2026-10-19T13:51:55.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "China pulls ahead of the US in Africa’s copper race as Congo arrests 300 Chinese nationals over illegal mining Business Insider Africa",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-19T17:46:58.878Z",
+      "updatedAt": "2026-10-19T17:46:58.878Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "0c1014661e011cc194676cfb4b691c27415d02d47bc9de31c298947c74298b71",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Price Forecast: $7 in Focus as China Factory Growth Picks Up",
+      "summary": "Copper Price Forecast: $7 in Focus as China Factory Growth Picks Up FXEmpire",
+      "source": "FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdWx4ZjFHOXd0eVQ3Mmt1WjBubm1DOFBKOHRJcVhQcXZfeWw3WVJZT0RfWDh3VkdhNWFuLThXbFdvaklicERhMjRrVVJCamtXai1BWEh2alY3TFpJUE9TUlNQWW5CTFBpQ2RuMTJ4Qk5VeXhBOVVRZExRQmYtNzhUQ201Wm5qd1lvM295UjhoRWNjWC1YNDFMelR4dXZiU2ljeS1pU2JuQ3FLZFFkdVlneXAwMnMzM3d0dEFXd1Q5QnZJdw?oc=5",
+      "publishedAt": "2026-10-19T10:34:23.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Copper Price Forecast: $7 in Focus as China Factory Growth Picks Up FXEmpire",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-19T17:46:58.878Z",
+      "updatedAt": "2026-10-19T17:46:58.878Z",
+      "analyzedAt": null
+    },
+    {
       "id": "90fb5ca9b3c130603b1e56c995755a1394ca8f0e6715736a8785ec0b4327cc11",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -18972,261 +19257,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-17T21:28:57.511Z",
       "updatedAt": "2026-10-17T21:28:57.511Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "5fb37abe6fbbe4a5deec06a196be08c2652a97f4f7f091631dd082fbd50ecaa8",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Star Copper Corp. (STCU.CN) Analyst insights, Price targets and Recommendations",
-      "summary": "Star Copper Corp. (STCU.CN) Analyst insights, Price targets and Recommendations Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15RGdBZDg0Z3p0aEo5N2U2RjlLeFFDN2x5V2poUDlVWHZyUnAtLUItWmZ4Z2RheGhXOUJhX3ZSdjFXUG8zYXppVlp4ZzFOSy1ObEE0c0VrcXpaVHR3cC02a1dYX1VZZm5KXzNxVA?oc=5",
-      "publishedAt": "2026-10-17T16:03:20.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Star Copper Corp. (STCU.CN) Analyst insights, Price targets and Recommendations Yahoo Finance UK",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-17T21:28:57.511Z",
-      "updatedAt": "2026-10-17T21:28:57.511Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ccc7f79e1ada387658483b547db6c4c212423fceca047fb0a5698ff169946560",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Is Freeport-McMoRan (FCX) Undervalued As Q3 Earnings Put Copper And Gold In Focus?",
-      "summary": "Is Freeport-McMoRan (FCX) Undervalued As Q3 Earnings Put Copper And Gold In Focus? Simply Wall Street",
-      "source": "Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUDBnXzZObmNOeVpNajFabUJUZU5ROE9CZjA2MEZCVUR2eGpNdkQyNmxqV2I0Z1Ffak9nVUkySmV0aDM1OEtZVVBDcTZPakh1YUxHZ2RDREZUUVhIYkxuMTh0cXhzNUloMmd6d2V4djFiU3hIX01ncUlQLW9oQ1d6dm9PTGprT2wyTHEzaUppRHFTTE82ZjhTUl9ndml2LVdfY0JXd3p4YV9kSWVyOVY5UEhnZkJLS1pmV3NCZ3NVRzZCdXk0c0IzNVBPVmstSlBUaEtB0gHTAUFVX3lxTE9QMGdfNk5uY055Wk1qMVptQlRlTlE4T0JmMDYwRkJVRHZ4ak12RDI2bGpXYjRnUV9qT2dVSTJKZXRoMzU4S1lVUENxNk9qSHVhTEdnZENERlRRWEhiTG4xOHRxeHM1SWgyZ3p3ZXh2MWJTeEhfTWdxSVAtb2hDV3p2b09MamtPbDJMcTNpSmlEcVNMTzZmOFNSX2d2aXYtV19jQld3enhhX2RJZXI5VjlQSGdmQktLWmZXc0Jnc1VHNkJ1eTRzQjM1UE9Way1KUFRoS0E?oc=5",
-      "publishedAt": "2026-10-18T03:41:23.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "LOGISTICS",
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Is Freeport-McMoRan (FCX) Undervalued As Q3 Earnings Put Copper And Gold In Focus? Simply Wall Street",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-18T06:37:18.517Z",
-      "updatedAt": "2026-10-18T06:37:18.517Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "077c3293bfc61d85fbcc3ccd1c3cd2c4251fea09a4f5fff64938d7ea853f8bc5",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "The Gold & Copper Stocks Everyone Keeps Asking About | Oct. 12-16 - Weekly Mining Mailbag",
-      "summary": "The Gold & Copper Stocks Everyone Keeps Asking About | Oct. 12-16 - Weekly Mining Mailbag the deep dive",
-      "source": "the deep dive",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1BpY1VrX2hseF9CN1hkZ0Mza05hQXUzbFB6V1VZSzBOSjRnYVNVVXdaNi1OVVRpM1FIWndRTDNqMHZTX2RibXFKQW1qS0pORWotSFhCdkdpbFdBM0JDRFBmdy1DNERZdWtDYzdLSTVLNDQzTmQzQzdGVFVBZl96NF96dTJaSkZvTjR0SFFIT2VTampNenR0LTVNTEgzankxZzJNaHdWSGtKQQ?oc=5",
-      "publishedAt": "2026-10-18T17:34:11.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "The Gold & Copper Stocks Everyone Keeps Asking About | Oct. 12-16 - Weekly Mining Mailbag the deep dive",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-18T18:07:26.463Z",
-      "updatedAt": "2026-10-18T18:07:26.463Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "5dd589c5b57ee227a61ed9f4b5c144a85906c3d431a20ddc238f504cf0a92fe9",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Australia's South32 logs 2% rise in first-quarter copper output",
-      "summary": "Australia's South32 logs 2% rise in first-quarter copper output TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMElMNDA0RkNLTVQ3dF8yQVdQa3dMdncydTEzSWs5TElQZkRGa21qdWhsMXdROVVqTFVVa2Z0bDAtQTlqcHdYYl9lUUZLZkQ2bXZsQTgwY19RcENibnk0WDhEQzV0Y3E2cE5INmhlOGQyeDBONVdhVzZnWHNMbmpvVFdSY1l6dHY0Ym1aa2pTaXlrMlhfOUQ4bS1Kc1FEYzZZa19adEs4TnlYQ1Y0QzljM2RGb1o1SmQ4VTFKRVFaM21yMDZJTTA4eHRuanU?oc=5",
-      "publishedAt": "2026-10-18T21:46:22.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Australia's South32 logs 2% rise in first-quarter copper output TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-18T22:38:05.486Z",
-      "updatedAt": "2026-10-18T22:38:05.486Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "94c5f3d9d2a7bfe8574e6dcadf8d496fd5312c9256549465e99722480c551710",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "[원자재] 미국 구리 쏠림 둔화, 거래소 가격차 3000달러서 310 달러로",
-      "summary": "[원자재] 미국 구리 쏠림 둔화, 거래소 가격차 3000달러서 310 달러로 버핏연구소",
-      "source": "버핏연구소",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HOWZrNDJZX1RlZ0NBTFBqbjBBbGtic3prNE1BdlpRUDJSY0JVSl9YODN3cHE1SGQ0R1lqSk1NMEJsMFRGY2hyT19FWno4b296bWJES2lvOHpscXNMdUUzV3NB?oc=5",
-      "publishedAt": "2026-10-19T00:26:06.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "[원자재] 미국 구리 쏠림 둔화, 거래소 가격차 3000달러서 310 달러로 버핏연구소",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-19T00:31:57.162Z",
-      "updatedAt": "2026-10-19T00:31:57.162Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "d378a1e0750de795ea5c0d18d29d51c3c87c18451d8331bd806e3e04b4f95abc",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Fortescue unlocks copper potential with technological breakthrough",
-      "summary": "Fortescue unlocks copper potential with technological breakthrough Australian Mining",
-      "source": "Australian Mining",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVzh6bUxiRUVweUhFOXFudHRaUE1pZ0VSd3JrSjE1bDZIUHpidWRJay1xdzVNbkpCQkdyOFUyYzhvR1RrdkxobTBlXy1TSzk5bTZmN2U1S3c4TDBGZ0hhemlLWk1LU2UzbWxKTEI1M3YweFBlem9ZWU9saVVYOGhMODU5WUlaR1hTa01sa0pmSzF5eW1DNWlzSVpJUmhXakZqYmNqNzV3?oc=5",
-      "publishedAt": "2026-10-19T00:08:19.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Fortescue unlocks copper potential with technological breakthrough Australian Mining",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-19T00:31:57.162Z",
-      "updatedAt": "2026-10-19T00:31:57.162Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "1628bf6f21a9abc4795766ce01f6443a0f5b7bc728a24dbba5c976463e847348",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper One identifies new zone at Redonda Project",
-      "summary": "Copper One identifies new zone at Redonda Project Mining.com.au",
-      "source": "Mining.com.au",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uaFNwTlRFRk5rdk4zRzdvSkE3QUp6QjctQ2ExNG4wYk9oVVBPZTdaZzJiUVpzek5sQ1J1bC0wTHBsamJQSGxPdzQySi1jNUd0SWpkeWlaWlViS1pwbzhmTFhzNmM2UnJGVlJuTUp2Z1lSS1FqVHBPOTdyNGY?oc=5",
-      "publishedAt": "2026-10-18T23:25:48.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper One identifies new zone at Redonda Project Mining.com.au",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-19T00:31:57.162Z",
-      "updatedAt": "2026-10-19T00:31:57.162Z",
       "analyzedAt": null
     }
   ]
