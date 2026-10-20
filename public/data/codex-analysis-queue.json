@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T21:45:26.699Z",
+  "generatedAt": "2026-10-20T00:43:19.608Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -457,6 +457,16 @@
       "publishedAt": "2026-10-09T05:39:00.000Z"
     },
     {
+      "id": "687b5d6a3b8e8690ebf9d57fa54839c4dfca6cfec74c6d5f270aa57d1a3e3584",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "BHP misses quarterly copper output estimates on Chile disruptions",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-19T22:00:42.000Z"
+    },
+    {
       "id": "0d072629c5fafc0bae599aba69f98056975828f6c309665e334b31753da79e5f",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -475,6 +485,26 @@
       "codexStatus": "PENDING",
       "source": "Seeking Alpha",
       "publishedAt": "2026-10-19T18:56:34.000Z"
+    },
+    {
+      "id": "e0bf969884a742371ed3bf3b634244c9b09ab4bfa6bea377ad47aa77fa74fe73",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "BHP 1분기 구리 생산량 19% 감소…품위 저하·운영 차질 영향",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Investing.com 한국어",
+      "publishedAt": "2026-10-20T00:21:00.000Z"
+    },
+    {
+      "id": "c3beac50dace8e4dbf69a39ae5c07cecb2ec81f4fdb87b4c15eb4b806ef3cf3b",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "BHP’s Copper Output Fell After Disruptions At Escondida",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-10-19T22:05:24.000Z"
     },
     {
       "id": "b3e939d6eee48a732ddaea081cdac01a8e4b93abfc4712f9c97d5c5a96a4da2e",
@@ -1135,6 +1165,16 @@
       "codexStatus": "PENDING",
       "source": "ChemAnalyst",
       "publishedAt": "2026-10-16T11:36:17.000Z"
+    },
+    {
+      "id": "c0c6f7662740608824fc852f31fba1f677b118f655f3640415e96a3de1cc9a94",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[구리 가격] LME 재고 2개월 최고·칠레 광산 파업 종료에 하락",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "산업일보",
+      "publishedAt": "2026-10-19T21:41:48.000Z"
     },
     {
       "id": "8fc400cb12ee4d806ee2873fadd8cb9ea3a2ea3908dd85a030ef832099f18b21",
@@ -3477,6 +3517,56 @@
       "publishedAt": "2026-10-19T21:32:19.000Z"
     },
     {
+      "id": "dde843add5b4f1a82c55ebf643238893dff630377ec894cf74c2895ce3ad393c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP first-quarter copper output falls 19%, iron ore climbs 4%",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-10-20T00:09:15.000Z"
+    },
+    {
+      "id": "f06e2880c6ecab59d836569e53f0269b6f6092c6c66dfb145e5a7f293e5c23d3",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP vows to double Australian copper output by 2040",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "AFR",
+      "publishedAt": "2026-10-19T23:50:00.000Z"
+    },
+    {
+      "id": "17fb4733829a8cc22507010c4d31031a489ee7d21307afac814747dd708e67c3",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP Group Delivers 19% Lower September Quarter Copper Production",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-10-19T23:28:21.000Z"
+    },
+    {
+      "id": "751c8b1bdbc0807e0c4dc0589313e70316294224aed977e3ae75fc77fd2af771",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP Group's Copper Output Falls in Q1 on Grade Declines, Weather, Maintenance",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-10-19T23:19:23.000Z"
+    },
+    {
+      "id": "a949fc709efd3199130316f80e6fd858d77a02b60a4621f4716e4d13e89661e9",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP 1Q Copper Output Falls, Other Commodities Lift Despite Intensive Maintenance",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-10-19T21:57:19.000Z"
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4085,16 +4175,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-10-19T04:19:00.000Z"
-    },
-    {
-      "id": "a94a2c067c1c4601c802a1c2c8bedef6af296acf8daae43a0828ca372b742be8",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Goldman Sachs raises copper forecast as US-China competition tightens supply",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-19T17:30:59.000Z"
     },
     {
       "id": "0c1014661e011cc194676cfb4b691c27415d02d47bc9de31c298947c74298b71",
@@ -4925,86 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Geomechanics.io",
       "publishedAt": "2026-10-10T00:01:18.000Z"
-    },
-    {
-      "id": "9b383afbe665c84d09f9a0af5dcb0cc0806c9e862926e4de64b678c750a074ef",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Is Jiangxi Copper (SEHK:358) Undervalued Following Its New Three Year JCC Group Deal?",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-10-10T05:14:00.000Z"
-    },
-    {
-      "id": "f2488f8d25faabe1aab26fb1a797871550032e5bcdd7169ea099d41a05496fcc",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Southern Copper (SCCO) Could Be 22% Overvalued As Its Project Pipeline Gets Priced In",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-10-10T10:14:31.000Z"
-    },
-    {
-      "id": "defe54d1c76b57c2f639207fde4e122fb6a7e3f865f4404ac62dffd7cf654bc4",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Southern Copper (SCCO) Following Its US$20.5b Expansion Story Looks Fully Valued",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Simply Wall Street",
-      "publishedAt": "2026-10-10T18:34:02.000Z"
-    },
-    {
-      "id": "8b67170a74c20c4c4eeb98a6c59eedd9e6baf370c5711949bf0010683b9bca06",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "각 생산 교대 근무를 통해 닥농 알루미늄 당위원회의 역량이 육성되고 있습니다.",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-10T15:50:23.000Z"
-    },
-    {
-      "id": "756a01158bbc4a0a84fc590ad342b7024508c8ce6ef68d37b4b128679b1ac419",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "LME Tin Official Day-25 Nov '26 Futures Price History",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Barchart.com",
-      "publishedAt": "2026-10-10T22:16:32.000Z"
-    },
-    {
-      "id": "bb4e10f54536316010c5dc3df7c9ba3d469024a190a8f2b127cc3f49586422e7",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "'Nothing changes the ultimate thematic': Mining expert's optimistic take on lithium and copper",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Stockhead",
-      "publishedAt": "2026-10-11T19:00:11.000Z"
-    },
-    {
-      "id": "c65f8026cc5e0678055162379a4c904920161a843fdaea6a28aa303a893b9799",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "ICSG\"2027년 세계 전기동 공급과잉 36만 8000t\"",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "CNews",
-      "publishedAt": "2026-10-17T00:51:26.000Z"
-    },
-    {
-      "id": "7881ecd836bb2729529b4494efe9e8dda6916637bcd5e0d8ff7a287ef5095892",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "LME Aluminium Alloy Day-25 Oct '26 Futures Price History",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Barchart.com",
-      "publishedAt": "2026-10-17T08:04:36.000Z"
     }
   ]
 }
