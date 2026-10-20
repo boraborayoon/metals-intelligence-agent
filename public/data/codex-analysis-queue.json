@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:26:30.109Z",
+  "generatedAt": "2026-10-20T15:23:14.617Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -25,6 +25,16 @@
       "codexStatus": "PENDING",
       "source": "Investing.com 한국어",
       "publishedAt": "2026-09-23T17:54:00.000Z"
+    },
+    {
+      "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "BHP's Copper Output Plunges 19% Last Quarter as Chilean Mine Shutdown Weighs on Results",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "BigGo Finance",
+      "publishedAt": "2026-10-20T10:55:00.000Z"
     },
     {
       "id": "c554288b7bd04bbf61f1509c71bdfed23ad66665b6d2216553e4aff0849db19d",
@@ -1287,6 +1297,16 @@
       "publishedAt": "2026-10-16T07:57:00.000Z"
     },
     {
+      "id": "3834671fa8a43cb47a2cbd0b11c7c8c129f35e836074359bc426dd1951ed4811",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Chile's Codelco sets 2027 Europe copper premium at record $350 a metric ton, sources say",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-20T14:07:35.000Z"
+    },
+    {
       "id": "df75ba4cd8e8417ecb1a2e320b73602f40204b4c8a33ccc60e5030c22697a4e2",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1385,6 +1405,16 @@
       "codexStatus": "PENDING",
       "source": "Data Center Dynamics",
       "publishedAt": "2026-10-19T12:26:56.000Z"
+    },
+    {
+      "id": "9910880f77944c47119f714951a8a9c05b3abc13722b21a9170b6d4f1491a2c9",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Codelco Sets European Copper Premium at Record $350 a Ton",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-10-20T10:31:14.000Z"
     },
     {
       "id": "1f40563f53e8a0393fe224157e64308c7afa1e1005b3a35fe44659a0b6b63bb1",
@@ -2627,6 +2657,46 @@
       "publishedAt": "2026-10-20T06:15:00.000Z"
     },
     {
+      "id": "b950165bcce550299e814cd0a6e2984dc25d00781c843ad4e8d52dc78e1e2c24",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Kazakhstan Begins $1.8 Billion Copper Smelter Project in Abai Region",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Astana Times",
+      "publishedAt": "2026-10-20T14:16:32.000Z"
+    },
+    {
+      "id": "4e453cb49d6dd78bd14ab42c582ab044a17007c63f7f3971c68fe4ceedb4f577",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Sep secondary copper scrap imports surge over 30% MoM as import window opens【SMM Analysis】",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-20T13:22:00.000Z"
+    },
+    {
+      "id": "dd02f149909f96f4db9f9079752ef2e4f84cd9fc8233648ec7c55c431a100ef3",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Data centre copper demand nears 1 million tonnes, tin price doubles: LME Week metals debate",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Fastmarkets",
+      "publishedAt": "2026-10-20T12:25:18.000Z"
+    },
+    {
+      "id": "a1c3edcc567787ccdaf57905b42cfedf9cae9ac6c38a19d955163ef3ef04d95d",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "2년 뒤 최대 3배 폭증…하이퍼스케일러가 끌어올린 구리 수요｜Global Money Club",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "중앙일보",
+      "publishedAt": "2026-10-20T11:33:21.000Z"
+    },
+    {
       "id": "348078040e322c8f211c0352485cfb48a823af7f3a5c3ceaa224db3045fd1bd6",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2855,16 +2925,6 @@
       "codexStatus": "PENDING",
       "source": "finchannel",
       "publishedAt": "2026-10-20T07:53:47.000Z"
-    },
-    {
-      "id": "dc859db9b4ccf91606f619be7774bc8dc45efd8c3d26ffe87554481df94f6786",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Zijin Mining stock holds firm as copper exposure underpins valuation",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AD HOC NEWS",
-      "publishedAt": "2026-09-20T12:46:19.000Z"
     },
     {
       "id": "a313fa3c2cd8147ca78792f64ff3a9052b579263a505c2334c13591e0eaffbe2",
@@ -3637,16 +3697,6 @@
       "publishedAt": "2026-10-20T00:18:00.000Z"
     },
     {
-      "id": "0b40fa60b5d39c23ad1f83258a7a18abfb487fc7c4963831847c005a59c7904f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Southern Copper Corporation Stock 12‑Month Price Target Raised to $177.01, Implies 12% Downside",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-20T07:20:00.000Z"
-    },
-    {
       "id": "d397b4cede3d839451d3870c0aecc319988e3a3393b15daa12180a64189452bd",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -3657,26 +3707,6 @@
       "publishedAt": "2026-10-20T07:12:00.000Z"
     },
     {
-      "id": "4f500c14d3cf6c1044d3197af720ab15bc7b86faec0573eb6a0e1fd931982f93",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Anglo American Reports 5% Decline in Q3 Copper Production, Maintains 2026 Guidance",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance UK",
-      "publishedAt": "2026-10-20T06:46:00.000Z"
-    },
-    {
-      "id": "15cdb00cfdfe01a16be58717ef7ee9bdc15442f072ca4a1b90f3f35dee812e7c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Anglo American 3분기 구리 생산량 5% 감소…다이아몬드 전망 상향",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com 한국어",
-      "publishedAt": "2026-10-20T06:29:00.000Z"
-    },
-    {
       "id": "c241ed4d4eb68502004850cd7184595e846ca56bfe663e0f3c4ce4d6d1be8740",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3685,16 +3715,6 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-20T06:12:00.000Z"
-    },
-    {
-      "id": "92a0a7963618c7437dd724549caa87801a2ef661bdc799b07ad9d6a985852862",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "[글로벌 특징주] BHP, 칠레 폭풍·광석 품위 저하에 구리 생산 19% 급감",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "뉴스핌",
-      "publishedAt": "2026-10-20T05:39:00.000Z"
     },
     {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
@@ -4325,16 +4345,6 @@
       "codexStatus": "PENDING",
       "source": "Aluminium International Today",
       "publishedAt": "2026-10-20T09:34:25.000Z"
-    },
-    {
-      "id": "d4f4f4ee1c5e5c1dd7542358d5262671ec0341fc783462ba02e299ee5ac5f131",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "African supply recovery concentrated; China's copper anode imports hit YTD high in September 2026 [SMM Analysis]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-20T09:02:00.000Z"
     },
     {
       "id": "9bd3f02d32bbc91708b5c29cfda5fd7e3d9f73e4fa37887ceaae2353880ed1fe",
@@ -4995,16 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Geomechanics.io",
       "publishedAt": "2026-10-08T12:16:36.000Z"
-    },
-    {
-      "id": "290720dde98e79c236e33546f831dd6d2fa1fa8a4d97cf4fbab02290ac9490ef",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Pacific Ridge Exploration Signs Exploration Agreements with Tsay Keh Dene Nation for the Kliyul and RDP Copper-Gold Projects",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Junior Mining Network",
-      "publishedAt": "2026-10-08T11:06:19.000Z"
     }
   ]
 }
