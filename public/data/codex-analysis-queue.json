@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T05:22:14.071Z",
+  "generatedAt": "2026-10-20T10:26:30.109Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -25,6 +25,16 @@
       "codexStatus": "PENDING",
       "source": "Investing.com 한국어",
       "publishedAt": "2026-09-23T17:54:00.000Z"
+    },
+    {
+      "id": "c554288b7bd04bbf61f1509c71bdfed23ad66665b6d2216553e4aff0849db19d",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Chile’s Copper Industry Hit by Triple Blows of Accidents, Weather and Labor Unrest as Production Recovery Proves Difficult",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "NAI500",
+      "publishedAt": "2026-10-20T08:49:29.000Z"
     },
     {
       "id": "4450df20feb172e0803f4955fd915639dac6da448d6f6244f1e24a2879aa998b",
@@ -707,16 +717,6 @@
       "publishedAt": "2026-10-16T07:19:00.000Z"
     },
     {
-      "id": "7e212b78936734c279b9efea56a05734f5c043ce3b70ed3d1fabe517646808b0",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "남미·글로벌 구리 공급망 동시 경고: 사고·생산 차질이 한국 산업에 던지는 과제",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "얼리어답터뉴스",
-      "publishedAt": "2026-09-20T08:34:31.000Z"
-    },
-    {
       "id": "67ce998715c1cb24761be2ec2a13575b6e8f2a0c15fc5a19f4bac3450be50246",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -785,6 +785,16 @@
       "codexStatus": "PENDING",
       "source": "CFJC Today Kamloops",
       "publishedAt": "2026-10-19T12:06:11.000Z"
+    },
+    {
+      "id": "58993ccd3c4ecbf76a69b61dd22518e7475c5a6a96fe8f4ef4fdfb6d7d961e78",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리 정광 공급 부족 심화…2027년 제련수수료 협상 주목",
+      "reasonForCodexReview": "High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "철강금속신문",
+      "publishedAt": "2026-10-20T07:54:58.000Z"
     },
     {
       "id": "5f6e2d4617dcaa453d4e02a95373249234f285d62e2cfdc6e28e0d712040e54b",
@@ -1605,16 +1615,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-10-20T01:01:00.000Z"
-    },
-    {
-      "id": "f8f99b7c129acabaa10f880c2d7102fe44f167fb619421ad6a8e603b77194398",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "August copper scrap raw material imports fell nearly 20% MoM, with rigid demand supporting the import floor",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-20T08:21:07.000Z"
     },
     {
       "id": "675dac77317eb61eb158aeaac197fa62641afc14f59c2be3acb7467599b876f0",
@@ -2617,6 +2617,16 @@
       "publishedAt": "2026-10-19T17:57:28.000Z"
     },
     {
+      "id": "cdad76d67d8589e4639b99e5e4d0fffa1134fd3eff880638881fadeb1f8679ff",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "South Korea’s only copper smelter, LS MnM, said on Monday, is consider",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-20T06:15:00.000Z"
+    },
+    {
       "id": "348078040e322c8f211c0352485cfb48a823af7f3a5c3ceaa224db3045fd1bd6",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2827,24 +2837,24 @@
       "publishedAt": "2026-10-19T09:22:00.000Z"
     },
     {
-      "id": "4a582c58c76f69adae0e494a8fbff8d6f27e812dfff103501cbf0360d5b59d9e",
+      "id": "473acd16db8a1a54e66cc6b4a7fceb5151845cd35084860002f9dccd7e915d37",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Copper Wire Rod Exports Remain Weak in August, High Copper Prices and Premiums Suppress Overseas Demand [SMM Analysis]",
+      "title": "GACC: China's Sep copper cathode imports down 16.71% YoY, breakdown of imports and exports data",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-20T08:48:45.000Z"
+      "publishedAt": "2026-10-20T08:24:00.000Z"
     },
     {
-      "id": "c3d369b955fc86921577bd04f01e4629f2709bb79f9613b4a3fdcdc32f2f640a",
-      "commodity": "ALUMINUM",
+      "id": "cecfd6c8f94e9e844e0d1edce56e062c7a527ddf2a72b1af7dd4ee6eecedd834",
+      "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "【Aluminum Flash News – Bauxite Imports in August】 According to the Ge",
+      "title": "Anglo American copper output falls 5% as Chile weather disrupts mines",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-20T07:51:00.000Z"
+      "source": "finchannel",
+      "publishedAt": "2026-10-20T07:53:47.000Z"
     },
     {
       "id": "dc859db9b4ccf91606f619be7774bc8dc45efd8c3d26ffe87554481df94f6786",
@@ -3547,16 +3557,6 @@
       "publishedAt": "2026-10-20T00:09:15.000Z"
     },
     {
-      "id": "f06e2880c6ecab59d836569e53f0269b6f6092c6c66dfb145e5a7f293e5c23d3",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "BHP vows to double Australian copper output by 2040",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AFR",
-      "publishedAt": "2026-10-19T23:50:00.000Z"
-    },
-    {
       "id": "17fb4733829a8cc22507010c4d31031a489ee7d21307afac814747dd708e67c3",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3635,6 +3635,66 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-10-20T00:18:00.000Z"
+    },
+    {
+      "id": "0b40fa60b5d39c23ad1f83258a7a18abfb487fc7c4963831847c005a59c7904f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Southern Copper Corporation Stock 12‑Month Price Target Raised to $177.01, Implies 12% Downside",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-20T07:20:00.000Z"
+    },
+    {
+      "id": "d397b4cede3d839451d3870c0aecc319988e3a3393b15daa12180a64189452bd",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "[SMM Aluminum Express News] Hydro and Verdox's aluminium carbon-captur",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-20T07:12:00.000Z"
+    },
+    {
+      "id": "4f500c14d3cf6c1044d3197af720ab15bc7b86faec0573eb6a0e1fd931982f93",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Anglo American Reports 5% Decline in Q3 Copper Production, Maintains 2026 Guidance",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance UK",
+      "publishedAt": "2026-10-20T06:46:00.000Z"
+    },
+    {
+      "id": "15cdb00cfdfe01a16be58717ef7ee9bdc15442f072ca4a1b90f3f35dee812e7c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Anglo American 3분기 구리 생산량 5% 감소…다이아몬드 전망 상향",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com 한국어",
+      "publishedAt": "2026-10-20T06:29:00.000Z"
+    },
+    {
+      "id": "c241ed4d4eb68502004850cd7184595e846ca56bfe663e0f3c4ce4d6d1be8740",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Anglo American's Q3 Copper Production Decreases By 5%",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-20T06:12:00.000Z"
+    },
+    {
+      "id": "92a0a7963618c7437dd724549caa87801a2ef661bdc799b07ad9d6a985852862",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[글로벌 특징주] BHP, 칠레 폭풍·광석 품위 저하에 구리 생산 19% 급감",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "뉴스핌",
+      "publishedAt": "2026-10-20T05:39:00.000Z"
     },
     {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
@@ -4255,6 +4315,36 @@
       "codexStatus": "PENDING",
       "source": "FXEmpire",
       "publishedAt": "2026-10-19T10:34:23.000Z"
+    },
+    {
+      "id": "41713f3ab3982f0132ea370bd6bd77021e5ceadca9c1d51f536e43670a8d89ee",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "VMI Group increases aluminium wire capacity to 25,000 TPA",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Aluminium International Today",
+      "publishedAt": "2026-10-20T09:34:25.000Z"
+    },
+    {
+      "id": "d4f4f4ee1c5e5c1dd7542358d5262671ec0341fc783462ba02e299ee5ac5f131",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "African supply recovery concentrated; China's copper anode imports hit YTD high in September 2026 [SMM Analysis]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-20T09:02:00.000Z"
+    },
+    {
+      "id": "9bd3f02d32bbc91708b5c29cfda5fd7e3d9f73e4fa37887ceaae2353880ed1fe",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "[SMM Aluminum Wire Export Flash] Customs data shows that China's total",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-20T04:27:00.000Z"
     },
     {
       "id": "dbf0426d479cb142364a5748dbfd022abe24751f0f2d37c128fc6db44398834a",
@@ -4915,96 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Junior Mining Network",
       "publishedAt": "2026-10-08T11:06:19.000Z"
-    },
-    {
-      "id": "ab0faf5c47a6f5920dc02cdb0fd8b1d320d6d1c2eb30e77c6ac8c63964b5f4e4",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Ivanhoe Mines posts higher Q3 copper output but sees full year at low end of guidance",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-08T16:35:22.000Z"
-    },
-    {
-      "id": "e6f8cb94c7354d912bfd3ea504793933ff5713e21ea03d5798b6406b3cb91da0",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Semiconductor Demand Drains Tin Stocks With No New Supply Before 2029",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Crux Investor",
-      "publishedAt": "2026-10-08T14:52:37.000Z"
-    },
-    {
-      "id": "a6e35d35840b0982264f1a2242ee9e00482d66fae87a3bcd2f9124ad558945ed",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "With town dispute settled, Florence Copper opens new domestic mining production",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Cronkite News",
-      "publishedAt": "2026-10-08T23:13:19.000Z"
-    },
-    {
-      "id": "c62bb6b1681e2048b36b47ed23c842fff62e056c948ba609e01e137ef2149356",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "CME : Copper futures slide over 1% as Fed minutes dampen demand.",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "www.marketscreener.com",
-      "publishedAt": "2026-10-08T21:20:12.000Z"
-    },
-    {
-      "id": "f34cc6bbeb3959fb64c05be5afbb3f8e794bedc7c75b102fed48e86001974b0b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Glencore Heads To The ASX With Copper In The Lead",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Finimize",
-      "publishedAt": "2026-10-09T05:05:53.000Z"
-    },
-    {
-      "id": "83e60ac46318fa60a6db1f6d94d406fa233f1615cc8d4e2c47cda1feee7a4a00",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "BHP or Rio? Brokers at odds over the ASX’s best copper stock",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AFR",
-      "publishedAt": "2026-10-09T05:00:00.000Z"
-    },
-    {
-      "id": "b135f9166f6e66d8d313202830215f7d037faba99c7259406e2462db6e3fbf54",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Are Aluminum Themes Firming Up for Alcoa (NYSE:AA)?",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Kalkine Media",
-      "publishedAt": "2026-10-09T04:36:00.000Z"
-    },
-    {
-      "id": "2ad52b671470492c128d1ff79e95ae03fe6c56e1e3d7b0ce42bc4d4fbd078d1f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Ivanhoe reports 19% increase in copper production",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "www.mining-journal.com",
-      "publishedAt": "2026-10-09T12:33:25.000Z"
-    },
-    {
-      "id": "313827a861e6c23bd0f450fb4cdb7aee727c7c6d3da0a0f376015ef2867e04a9",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Maintenance demand and supply invoice bottlenecks keep anode copper market imbalance unresolved [SMM Analysis]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-09T10:00:00.000Z"
     }
   ]
 }
