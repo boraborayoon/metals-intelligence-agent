@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:43:19.608Z",
+  "generatedAt": "2026-10-20T05:22:14.071Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -505,6 +505,16 @@
       "codexStatus": "PENDING",
       "source": "Finimize",
       "publishedAt": "2026-10-19T22:05:24.000Z"
+    },
+    {
+      "id": "45e625a736b9229c9cbcad2abaa2a2c674595170966a7aa29bcabab1a6ef1b66",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "BHP Q1 copper output falls 19% on lower grades, disruptions",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Investing.com",
+      "publishedAt": "2026-10-20T00:25:57.000Z"
     },
     {
       "id": "b3e939d6eee48a732ddaea081cdac01a8e4b93abfc4712f9c97d5c5a96a4da2e",
@@ -1585,6 +1595,16 @@
       "codexStatus": "PENDING",
       "source": "산업일보",
       "publishedAt": "2026-10-19T01:23:03.000Z"
+    },
+    {
+      "id": "591ebf84fb7b762bda7e8bb1ac3742c30c330ade84b332ec8cd9fb4feaf75476",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "The most-traded SHFE tin contract closed at 380,960 in the night session, up 0.61%, holding above 380,000. LME tin 3M closed at 50,839, up 0.91%. Global visible inventory destocking simultaneously supports the backwardation structure [SMM Tin Morning M",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-20T01:01:00.000Z"
     },
     {
       "id": "f8f99b7c129acabaa10f880c2d7102fe44f167fb619421ad6a8e603b77194398",
@@ -3567,6 +3587,56 @@
       "publishedAt": "2026-10-19T21:57:19.000Z"
     },
     {
+      "id": "c0b8bd4432ad4a8c0db13f28eacdd077a280266ee9cad238cee738ec0bb754c1",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP Logs Lower Fiscal Q1 Copper Production; Iron Ore, Steelmaking Coal, Energy Coal Output Rises",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-10-20T04:53:12.000Z"
+    },
+    {
+      "id": "cb3bc5963040215984fcd42a6914dd7eeb7884b324ba26d11e8c4934ede310e6",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP's Quarterly Copper Output Impacted by Planned Grade Declines, Maintenance",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-10-20T03:57:19.000Z"
+    },
+    {
+      "id": "ea447d72a2f8bb44dbc90a733e34b1764b86f5d8d585b97d0baddb38bfd4de26",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP reported on October 20 that copper production totalled 400,700 ton",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-20T03:10:00.000Z"
+    },
+    {
+      "id": "9e5a47d8a67fee77ec981ce3fafc27b5d6c087ed8ed711b39dd60bf3088ceb6f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP's Copper Production Falls 19% Amid Chilean Storms, Yet Annua",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "GuruFocus",
+      "publishedAt": "2026-10-20T01:11:35.000Z"
+    },
+    {
+      "id": "fa5366ab12b1fb8fca8831b7e5909007bfac48060b2722a3e44d5bc82a287ffa",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Metals show mixed performance; LME aluminum, tin, nickel, and SHFE nickel lead the gains, coking coal pulls back the most, gold and silver pull back [Overnight Market]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-20T00:18:00.000Z"
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4935,76 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-10-09T10:00:00.000Z"
-    },
-    {
-      "id": "3d84c2a573a505a49886da569a7038af1f3a4870c4effa013f1044d47b1f873b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "DAILY: Post-holiday copper price re...",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mysteel",
-      "publishedAt": "2026-10-09T01:36:08.000Z"
-    },
-    {
-      "id": "05a4903196b81f2182c9d631ab31317cc7da1fb7e268589cb7036d66ed4599dc",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Autumn, 2026 by Thomas Demand, UV print on copper, 80 x 116 cm (3)",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Ocula",
-      "publishedAt": "2026-10-09T18:57:08.000Z"
-    },
-    {
-      "id": "9ff6eac400ea447955f4bb877a0d8a469da22b85006a343eba5e01511a6515b5",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Selkirk Copper Targets Up to 20% More Minto Output: 6 Feasibility Points",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Crux Investor",
-      "publishedAt": "2026-10-09T18:32:22.000Z"
-    },
-    {
-      "id": "026173a28aa5ad1c31ce70e6f5598912a4b3a65e3853445d858a8cdb5923e896",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Magna Mining approves restart of Levack copper mine",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mining Weekly",
-      "publishedAt": "2026-10-09T10:41:00.000Z"
-    },
-    {
-      "id": "c3d352453be1cd06886d0958620b6f200fcc8303de200cd84f86e224f98498fa",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "First copper mining operation in U.S. since 2008 officially launches in Florence",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Tucson Sentinel",
-      "publishedAt": "2026-10-09T21:25:00.000Z"
-    },
-    {
-      "id": "d86c3a4977121ec7975312c2e7e10cb908da2eb1d192ca32de07826177b9192e",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Tractor Supply donates custom-made tin rooster to little girl in Ogunquit with autism",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "WGME",
-      "publishedAt": "2026-10-10T01:52:06.000Z"
-    },
-    {
-      "id": "ff68f48c8ec16e360b954100fc9e154f87b548c8c99767615c8fd0f5580b751f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "KGHM’s $2.4bn copper projects fast-tracked: CRMA implications for mine planners",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Geomechanics.io",
-      "publishedAt": "2026-10-10T00:01:18.000Z"
     }
   ]
 }
