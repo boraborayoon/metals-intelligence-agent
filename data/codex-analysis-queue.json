@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T22:40:55.777Z",
+  "generatedAt": "2026-10-21T00:59:49.400Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -14603,46 +14603,6 @@
       "analyzedAt": null
     },
     {
-      "id": "a97882161a715283ca4e30f0a80867e6944cb8bc6ef6967c92489427e0c891a3",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper climbing on China demand",
-      "summary": "Copper climbing on China demand Mining News Net",
-      "source": "Mining News Net",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUEhJVWJqY2tSVk5PTDdFemxPb1Q3YkRYYVE1cGJxakNka3FjdVVDRHl2azJubkx5WkptcFF4UmVVQndnbkJ1WnBzZWpYTjN6UTUxM2h3ekZkYk1KWWhKdWh5QU9HRkI1dVRoQm5XUWt6X2hxeFRXOXN4VUVHWXhXVUpaVGNMWUdBQ3pyeWRSck5fd0E?oc=5",
-      "publishedAt": "2026-09-20T23:37:09.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND",
-          "MINE",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper climbing on China demand Mining News Net",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-21T00:17:34.361Z",
-      "updatedAt": "2026-09-21T00:17:34.361Z",
-      "analyzedAt": null
-    },
-    {
       "id": "1d1ef0f24f012e3bad6efb2ad534b56503d1afcb3057058623c1167ec06011da",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -17175,7 +17135,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-20T15:23:14.617Z",
-      "updatedAt": "2026-10-20T22:40:55.777Z",
+      "updatedAt": "2026-10-21T00:59:49.400Z",
       "analyzedAt": null
     },
     {
@@ -19285,6 +19245,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-20T22:40:55.777Z",
       "updatedAt": "2026-10-20T22:40:55.777Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "777e892311021a63fd8ce8d5dc83fe7e19cf43b5480f102069f8d1618cb3a3a1",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Trader known for big aluminum bets is back with wager on copper",
+      "summary": "Trader known for big aluminum bets is back with wager on copper Mining.com",
+      "source": "Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYWlpa2FaQVZtY1BNUUJDbVFyNG0wZEJhSWpYUVRJQmtMTzdsODgwMU5qUFRzTGU4Q3BXMlQwd1hzS082UmJ3TDdrTEZfTlRWSGdUaVhkdUZaTktQVDRuc0VFdExkcW1DZXA3T3VwZTItRGdMZHJWV3JMajhNNkEyQlI4d1FreVZPSXc4TWltN2twb2JzdVE?oc=5",
+      "publishedAt": "2026-10-21T00:09:21.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "TRADE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Trader known for big aluminum bets is back with wager on copper Mining.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-21T00:59:49.400Z",
+      "updatedAt": "2026-10-21T00:59:49.400Z",
       "analyzedAt": null
     }
   ]
