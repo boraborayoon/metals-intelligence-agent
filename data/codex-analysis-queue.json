@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T23:40:23.162Z",
+  "generatedAt": "2026-10-22T01:53:20.470Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -2589,6 +2589,43 @@
       "analyzedAt": null
     },
     {
+      "id": "ed973b0e79cff6f24629a59711ce01a3287c5b8d4c2ba953354eb516403fd297",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Minnesota Governor Debate: Copper-nickel mine ban",
+      "summary": "Minnesota Governor Debate: Copper-nickel mine ban FOX 9 Minneapolis-St. Paul",
+      "source": "FOX 9 Minneapolis-St. Paul",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KY19mZE5NTE5DOGdhdTFuSHVHYXdJSFR0Z29yQUFuT21FWWM5QjR3anFybVpldlFYUldVTUJSX2VBcFJnSW5FdERfcWMzTG5NeHppRUt4dlA2S1HSAWBBVV95cUxPTXFMWHFlbktSdDVyWGRXTmhnblhFZHVPQ2VqRHhqUDBHZThtbTBBcjE5dndOX2l1VVozLW91TUVua0p1SDY5ZVdlZGRsdmlaNEw1OFY5OHV5QTBOQ3Jwc2Y?oc=5",
+      "publishedAt": "2026-10-22T01:37:38.000Z",
+      "priority": 49,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Regulation",
+        "categories": [
+          "MINE",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Minnesota Governor Debate: Copper-nickel mine ban FOX 9 Minneapolis-St. Paul",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-22T01:53:20.470Z",
+      "updatedAt": "2026-10-22T01:53:20.470Z",
+      "analyzedAt": null
+    },
+    {
       "id": "ed29eb6b8c5219d7c54fdfa085f1a61a92c1415462ab951688e494606db42d26",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -3930,50 +3967,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-19T17:46:58.878Z",
       "updatedAt": "2026-10-19T17:46:58.878Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "3937dfa1a77853e1ac3d96d3180a7a1ba951bfe349a8477d115eef31709c9832",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "관세 앞두고 미국으로 구리 쏠림…글로벌 공급 부족에 가격 반등",
-      "summary": "관세 앞두고 미국으로 구리 쏠림…글로벌 공급 부족에 가격 반등 더구루",
-      "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SWHFqTnhOZmlXb1E0STB6ckk0S3c1ek5TaVNFQ19VRE9tMktxOHdUam9nUXZpMGs1UjNyR3U3dEFSNnN5aW5jTUlwOXM4c1psSW9OZXBUWXp4U01fNkY0WVdPbw?oc=5",
-      "publishedAt": "2026-09-22T01:49:52.000Z",
-      "priority": 42,
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Tariff",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "관세 앞두고 미국으로 구리 쏠림…글로벌 공급 부족에 가격 반등 더구루",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "공급 부족"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-22T04:59:24.343Z",
-      "updatedAt": "2026-09-22T04:59:24.343Z",
       "analyzedAt": null
     },
     {
@@ -6784,42 +6777,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-20T05:22:14.071Z",
       "updatedAt": "2026-10-20T05:22:14.071Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "6a51d6a20595f8918b6ab3957dba01d67eaf69390135583bddff7f8c02a2bad9",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "11-Year-Old Inola Girl Speaks Out Against Proposed Aluminum Smelter",
-      "summary": "11-Year-Old Inola Girl Speaks Out Against Proposed Aluminum Smelter KTUL",
-      "source": "KTUL",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNazJLc1NuTXI5em1rRjMzQ2xDbmZkWjRuMG95emt6VHZPY0ZjbEFmUDBqb0pTeEpPdWxDUTFtWkFfVlJpdUxqV3F1Y1RndXdoTkJfNmlIVENwV2JsZmtxdmRmeHNoc0hXUnVuajJzM3A0aVJ0dHNmcS1PeVBOc2tWX3pvOVFZdTUwREo1ckN4Q0Qxc3d5UWN0bTluZkJjNnI2TGlSakJmTUo5UQ?oc=5",
-      "publishedAt": "2026-09-21T23:45:55.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
-        "categories": [
-          "SMELTER"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "11-Year-Old Inola Girl Speaks Out Against Proposed Aluminum Smelter KTUL",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-22T00:08:20.428Z",
-      "updatedAt": "2026-09-22T00:08:20.428Z",
       "analyzedAt": null
     },
     {
@@ -10927,6 +10884,79 @@
       "analyzedAt": null
     },
     {
+      "id": "6fb80ca1671138a3e48e4ccb029443f528f48c1871873be2ac72db6b2f824524",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "$2B copper mine approved southeast of Tucson",
+      "summary": "$2B copper mine approved southeast of Tucson KVOA",
+      "source": "KVOA",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHN4bGFEMnFrUEN3b045VVYyTHY1MDdOek10WjhrcF9DcTRBVl9qVTFlVDNfd0dmb1cwNktZMURFRTQyTV9LV29ZcEhONXpuTXlqTFY2aUVtOUJZZlFST2M0VW5MUjVoMUlrMU5wNFJvdEJydEtLc1BPTE1ib3RtTVVwRzc1NEtSbTBVMGhqcVF3bmpScWp2QThXNEhsaXNHUllfMlNiVFU0bUJ2dXV1TDRVb0ZGUXhjbkE?oc=5",
+      "publishedAt": "2026-10-22T01:07:00.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "$2B copper mine approved southeast of Tucson KVOA",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-22T01:53:20.470Z",
+      "updatedAt": "2026-10-22T01:53:20.470Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "b0be0fa55d40eb1777b3f42a862a4312ff230a87e89b600e9f8fa22a1f7816aa",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "블룸버그NEF \"구리 공급, 2050년엔 수요보다 44% 모자랄 수도…440조원대 투자 필요\"",
+      "summary": "블룸버그NEF \"구리 공급, 2050년엔 수요보다 44% 모자랄 수도…440조원대 투자 필요\" 더구루",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14QXNVaVVSVWNSYWdIZUlHNUowUV9SRGhxTkFadmRTWGRwRmRHUjV3U2lQYnM4SUkzUkdpak5fX0xKVXNveG5LQS1JaXU0ckItejJNTUYzU01hd1c4dDYyMVlQQQ?oc=5",
+      "publishedAt": "2026-10-22T00:49:12.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "SUPPLY",
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "블룸버그NEF \"구리 공급, 2050년엔 수요보다 44% 모자랄 수도…440조원대 투자 필요\" 더구루",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-22T01:53:20.470Z",
+      "updatedAt": "2026-10-22T01:53:20.470Z",
+      "analyzedAt": null
+    },
+    {
       "id": "348078040e322c8f211c0352485cfb48a823af7f3a5c3ceaa224db3045fd1bd6",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -11845,78 +11875,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-20T19:37:53.439Z",
       "updatedAt": "2026-10-20T19:37:53.439Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "bf9b22c3fb1e59e3bd39a926b9019d771b02ea95d6dce7ef20bb4333d89ad148",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "[특징주] 구리 가격 고공행진에 전선·구리株 '대한전선·엠케이전자' 강세",
-      "summary": "[특징주] 구리 가격 고공행진에 전선·구리株 '대한전선·엠케이전자' 강세 뉴스핌",
-      "source": "뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhazBweHpUR2Y3c3lxLXVSc3VtVXNuSUd5LTQ3WXFiMFlUalJOLWc4UTVla1JXZDNpaXVqMV9Lel9pd1BlWEJQNFdDOG9qd0Rjd1dQOW9CbjBENUVp?oc=5",
-      "publishedAt": "2026-09-22T01:39:00.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "[특징주] 구리 가격 고공행진에 전선·구리株 '대한전선·엠케이전자' 강세 뉴스핌",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-22T04:59:24.343Z",
-      "updatedAt": "2026-09-22T04:59:24.343Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "35daf95d9cc67027076afa461d99062f8a23dce54e9a1c97592c27503bcb285d",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Crude oil fell for a fourth consecutive day, metals showed mixed performance, LME aluminum dropped over 1%, LME tin rose over 1%, ferrous metals broadly gained [Overnight market]",
-      "summary": "Crude oil fell for a fourth consecutive day, metals showed mixed performance, LME aluminum dropped over 1%, LME tin rose over 1%, ferrous metals broadly gained [Overnight market] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPQ3gyR1E0T29VS19sbGNZYzNxYms5cEJySWNra1NoU1A1clJHdnRaNTJFNlA3cEF4dGZIUFJPOEVCNkNYdXZrTHBYRXFhbE1JakVmMFRiVDZ2UEJ0LXdYbXdwUV8wVWFoVzFjMXh0d2FuYjliUzl2WXpTR3hQYWN2QVBHOTd2eXZKaXRGQ3cya3E5b09pY1UxZUt6V3JSY0thNlk0T1FoQzBEckFXVnltbEpFOXVGNzZHWGRFQldUMkptb2s1Z2pOeE1zV3VTUk1aTlpiZ24wUUdpY1dwaFVxZHdiSjRiWmc2Q1FSTXo1Z0s0SGFaQmlYVFl6ZU8tWERUakdNNXlEWG5iTG5RckxMWlA1TllBdWE0dW9LTXAwRWhCS0MyTWxraXphWEJEbE1LcmlkWlBwRkYtTlU?oc=5",
-      "publishedAt": "2026-09-22T00:40:00.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Crude oil fell for a fourth consecutive day, metals showed mixed performance, LME aluminum dropped over 1%, LME tin rose over 1%, ferrous metals broadly gained [Overnight market] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-22T04:59:24.343Z",
-      "updatedAt": "2026-09-22T04:59:24.343Z",
       "analyzedAt": null
     },
     {
@@ -14756,85 +14714,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-12T09:47:10.014Z",
       "updatedAt": "2026-10-13T01:38:05.241Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "51bc42fe343af2ebec2db126b0bdf44fe64fc37f4a1d0a86084f7ae866b126e7",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Rises for Fifth Day as China Supply Tightness Signals Spot Squeeze",
-      "summary": "Copper Rises for Fifth Day as China Supply Tightness Signals Spot Squeeze NAI500",
-      "source": "NAI500",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT1lSR01weFVONHVqZC1GZUNkeGJFU2EwQ21lSU1zUXRjRFhUd0pKbTdYUjNpdGxLaV8yY3F5SzJhT2h0LXRVNmo0TVZEaFRxRC1Zd2NSZV9EcUNPdnhYc1NnbHZ6NUZtbm9oOXNrOTVvLUVKM3BPakREOGYxX3hZeVFmQjdUeldWVlM0cXhKcGl4UjlHVlR4MGM4U0Qtc3RhTS1WOEsxMlpKZw?oc=5",
-      "publishedAt": "2026-09-21T23:55:23.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper Rises for Fifth Day as China Supply Tightness Signals Spot Squeeze NAI500",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-22T00:08:20.428Z",
-      "updatedAt": "2026-09-22T00:08:20.428Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "e96879ef35d62fb1a403b807e3c4913f17af3e74821bf2ee84a3ed7462a2f8f8",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Aluminum Prices Gain Phased Support as China-US Presidential Meeting Approaches and Destocking Accelerates [SMM Aluminum Morning Meeting Summary]",
-      "summary": "Aluminum Prices Gain Phased Support as China-US Presidential Meeting Approaches and Destocking Accelerates [SMM Aluminum Morning Meeting Summary] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVFY1VnNtdkU2UnVDWnZHVW5aRHk4cEpYdWJnVy1kNC1ldzV0eEV0VUNGV2ptUF9qYWdtUUJFbU9wWGtCR3VXckJXdWQzWGxTVFY5VXJKNHNlV1NLQi16bnJUYlM3U21YX3dNQ2l5Tlp6WVJIZEJTcG4tclYwdVIyRFB5QlZBajUyS0NNeThNR3cxUlRNVDVoYjloNjh5YVlYSW8wSElKcUl6WWFsOUI0b2lyd3p4SWdTLW9qaW51Y0txSHV4OEJQSndySVR3M3lVS0lyVEpsWHpTNnB3dFZPdWNoVDNzdWFhcmZOMnI2Wkloc01VSnBKT0FidDNUcGVQcTN1SlE2bkpqNE14T0FfcldOVmpmcms?oc=5",
-      "publishedAt": "2026-09-22T01:28:00.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "LOGISTICS",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Aluminum Prices Gain Phased Support as China-US Presidential Meeting Approaches and Destocking Accelerates [SMM Aluminum Morning Meeting Summary] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-22T04:59:24.343Z",
-      "updatedAt": "2026-09-22T04:59:24.343Z",
       "analyzedAt": null
     },
     {
@@ -19283,6 +19162,115 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-20T22:40:55.777Z",
       "updatedAt": "2026-10-20T22:40:55.777Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "e7751d1a13212c92a6f7b2790e72ee148cfe281506efb2e9f8664c38289a06f3",
+      "commodity": "MOLYBDENUM",
+      "subCommodity": null,
+      "title": "Merck Opens Molybdenum Precursor Plant in Eumseong, South Korea, Aiming to Build Key Hub in Memory Materials Supply Chain",
+      "summary": "Merck Opens Molybdenum Precursor Plant in Eumseong, South Korea, Aiming to Build Key Hub in Memory Materials Supply Chain BigGo Finance",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTGdOeEpsSU93bmY2WEpyRHFRX0pLQktTVlNjUjE0OGE3ckMwc0F5NHBKWE9OMXh6cThJbjdGZFU4ZnNNS2ZIdUpoOTd6Mjhsa0QyczBwU1NSdFN5bUI0T2JEWG5ieDZLcmxDSDB3b1dvQzRacGc?oc=5",
+      "publishedAt": "2026-10-22T01:05:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Merck Opens Molybdenum Precursor Plant in Eumseong, South Korea, Aiming to Build Key Hub in Memory Materials Supply Chain BigGo Finance",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-22T01:53:20.470Z",
+      "updatedAt": "2026-10-22T01:53:20.470Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "126e716b241aab7b76c030692c770d686cac43cb937c1be9f1d01b4a6b9f4699",
+      "commodity": "MOLYBDENUM",
+      "subCommodity": null,
+      "title": "머크, 신규 몰리브덴 생산설비 오픈…CEO “韓 반도체 밀착 지원”",
+      "summary": "머크, 신규 몰리브덴 생산설비 오픈…CEO “韓 반도체 밀착 지원” 헤럴드경제",
+      "source": "헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ld09JQS1ZVFVNZkVVRm1hS1dRdlRSb0pjX1FuRnVJRld4dEJucV8wVU5pM1Nwa2dtYVZ4UzZfWjZXQmE4MnNVTG43TWlyVUg5bjhzSUR1QQ?oc=5",
+      "publishedAt": "2026-10-22T00:29:36.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "머크, 신규 몰리브덴 생산설비 오픈…CEO “韓 반도체 밀착 지원” 헤럴드경제",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-22T01:53:20.470Z",
+      "updatedAt": "2026-10-22T01:53:20.470Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "42fddb88a9107a609908cf7e61ed19ccfe21cc966d01bf0bd87b1ebd03c79567",
+      "commodity": "MOLYBDENUM",
+      "subCommodity": null,
+      "title": "머크, 충북 음성에 반도체용 몰리브덴 생산설비 구축…차세대 메모리 소재 공급 확대",
+      "summary": "머크, 충북 음성에 반도체용 몰리브덴 생산설비 구축…차세대 메모리 소재 공급 확대 Korea IT Times",
+      "source": "Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96dE1wZE1DdlJQenVlQ3dHV3VHQnBXSXJ1RGFySWlkSHkwVVdBWC1jOC03NWlMVXAwOUNwQ0FpYk5EVllMMncyVE9vcWUyX0JCVGoyMGdCZ2o4RHlSQ0luYU53Z0w5WTlTM0RVTmcxeng?oc=5",
+      "publishedAt": "2026-10-22T00:06:47.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY",
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "머크, 충북 음성에 반도체용 몰리브덴 생산설비 구축…차세대 메모리 소재 공급 확대 Korea IT Times",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-22T01:53:20.470Z",
+      "updatedAt": "2026-10-22T01:53:20.470Z",
       "analyzedAt": null
     }
   ]
