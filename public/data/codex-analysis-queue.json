@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T18:00:30.967Z",
+  "generatedAt": "2026-10-22T21:37:57.128Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -55,6 +55,16 @@
       "codexStatus": "PENDING",
       "source": "finance.biggo.com",
       "publishedAt": "2026-10-06T11:55:00.000Z"
+    },
+    {
+      "id": "c649528595e5e6b202837636b6dbf180957b039c2c5904a7e44c94d43963750f",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Chile Copper Slump Deepens as Storms, Accidents Hit Aging Mines",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-10-22T19:46:10.000Z"
     },
     {
       "id": "09b41f0944a6a507418bb64d3a2955cb8e15bdcf68ac816e2d5bf15cd5b89786",
@@ -1667,16 +1677,6 @@
       "publishedAt": "2026-10-20T01:01:00.000Z"
     },
     {
-      "id": "d4884a523c489b908b04b416f7e1c89129fa747ea4cf6ce2b6e29d870bc773ef",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Price September 23 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Robinhood",
-      "publishedAt": "2026-09-22T18:42:16.000Z"
-    },
-    {
       "id": "602ff58999649f226286dd17d5586dc41c8f7ca58176bab2e5058a45db4f2ca0",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2805,6 +2805,26 @@
       "codexStatus": "PENDING",
       "source": "Business Green",
       "publishedAt": "2026-10-22T11:21:41.000Z"
+    },
+    {
+      "id": "b5898cd298f6cc0976354a0f7ebe39e351175af3946a2dd3e1ae5dbd16223864",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Oklahoma AG seeks emissions data from proposed Inola aluminum smelter",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "News On 6",
+      "publishedAt": "2026-10-22T20:21:38.000Z"
+    },
+    {
+      "id": "e3c9baa0a0d1b1c5f511b296206a6cd2c93efb6a1d4738bdb690f765a1489185",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Price October 23 2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Robinhood",
+      "publishedAt": "2026-10-22T18:35:38.000Z"
     },
     {
       "id": "e0d3e7b2394dc0d77806b1894d49b937beb63364daaf87a96599ac6dbb1008d1",
@@ -4487,6 +4507,16 @@
       "publishedAt": "2026-10-22T08:38:00.000Z"
     },
     {
+      "id": "77d054afcddcd60ba22f401c726e6fa0c9756ccccbbe470df57cca785fe3e2d1",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "China copper import premium hits highest since 2014",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-10-22T18:10:55.000Z"
+    },
+    {
       "id": "dd02f149909f96f4db9f9079752ef2e4f84cd9fc8233648ec7c55c431a100ef3",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4975,36 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "American Recycler",
       "publishedAt": "2026-10-01T05:18:15.000Z"
-    },
-    {
-      "id": "5ce50143289e219f0bc044ff6082821877801754eecc503f82f0ed540882c80f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Price October 1 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Robinhood",
-      "publishedAt": "2026-09-30T17:59:14.000Z"
-    },
-    {
-      "id": "b55f5acd238fc0d52250bc6db259d1c9b363ddcb3ef3354ccb5766eddfa87f81",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Generation Mining Begins Early Works at Marathon Copper-Palladium Project",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "the deep dive",
-      "publishedAt": "2026-10-01T14:10:35.000Z"
-    },
-    {
-      "id": "6dc7931f5b6e788eb2491fa9f0d3119292019885b89a295632817acf8e2bda22",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Ford F-150 Production No Longer Impacted By Aluminum Supply Crisis",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Ford Authority",
-      "publishedAt": "2026-10-01T19:24:02.000Z"
     }
   ]
 }
