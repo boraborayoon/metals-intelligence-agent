@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T13:13:06.954Z",
+  "generatedAt": "2026-10-22T18:00:30.967Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -3037,6 +3037,16 @@
       "publishedAt": "2026-10-22T08:34:00.000Z"
     },
     {
+      "id": "c7c47e4d8acd8c3379b9b73d188f6063cab02f3b98fee29a1a7e06123d7c33ca",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Digital product passports trace aluminium to bauxite",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Aluminium International Today",
+      "publishedAt": "2026-10-22T14:17:53.000Z"
+    },
+    {
       "id": "0a11030ad5e8e1861cccc6473cca25f85993f780e83709d34cd6aedd21feef36",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4437,6 +4447,46 @@
       "publishedAt": "2026-10-22T00:49:00.000Z"
     },
     {
+      "id": "c802fb855b45e17180f8a5df18e399d7c4fd206633b7888814fc753c3def09f3",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "China Nonferrous Mining Produced 104,961 Tonnes Copper Cathodes For Nine Months",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-22T17:23:21.000Z"
+    },
+    {
+      "id": "c7e73fef89931d1fc4b74c0cc18f8a28e1678247ba62d4c56078f69187a9db1c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Mining in Peru",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "International Institute for Sustainable Development",
+      "publishedAt": "2026-10-22T15:12:45.000Z"
+    },
+    {
+      "id": "a6bce5543c6f6cee2db14f00eb3b90c2007adad5d33be0d9b12251fd1059f89f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Global copper crisis: Why Chile’s 15-year production low is driving up tech and EV costs",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Malay Mail",
+      "publishedAt": "2026-10-22T13:02:58.000Z"
+    },
+    {
+      "id": "08a3919c09f725b4b8031b47f57f91dd8cdbd1b8152d13885fecf646877de36f",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Supply-side marginal volume release versus sustained inventory destocking; short-term aluminum prices are expected to consolidate [SMM Aluminum Price Weekly Review]",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-22T08:38:00.000Z"
+    },
+    {
       "id": "dd02f149909f96f4db9f9079752ef2e4f84cd9fc8233648ec7c55c431a100ef3",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4955,56 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Ford Authority",
       "publishedAt": "2026-10-01T19:24:02.000Z"
-    },
-    {
-      "id": "3ddf14ca799cd53c295270b16db486ed5d9c0fa945957b43d989aa61e5a06bf9",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리 전망 밝아지며 BofA증권, 최선호 광산주 선정",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com 한국어",
-      "publishedAt": "2026-10-01T18:34:00.000Z"
-    },
-    {
-      "id": "c72b7957ef3d3566022e35ae438d72d4490efcebff710adb9a657e7f6bd810dd",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Tin Mercaptide Stabilizers Market To 2035: Electronics Wiring Demand Supports 2-5% CAGR - News and Statistics",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-10-01T16:21:04.000Z"
-    },
-    {
-      "id": "75fda6d6451c321ebc8ba316536ecffa4bc288285afc23f5579e96f1f058a635",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "주석 메르캅타이드 안정제 시장 2035년 전망: 전자 배선 수요가 연평균 2~5% 성장 견인 - 뉴스 및 통계",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "indexbox.io",
-      "publishedAt": "2026-10-01T16:21:04.000Z"
-    },
-    {
-      "id": "a57b14dbabf3d46fbb0c716500a1ebd170a24fbb31bc7c0487005115d7ab8c8b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "KGHM Completes Maintenance And Modernization Shutdown Of Glogow Copper Smelter Ahead Of Schedule",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-01T09:04:01.000Z"
-    },
-    {
-      "id": "33f61ab8d866dd641e3fe0ccfc8ef9f5a22e0ea286d16886301f4b0e2cb94eec",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Southern Copper (SCCO) Stock Dips While Market Gains: Key Facts",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance Australia",
-      "publishedAt": "2026-10-01T20:50:05.000Z"
     }
   ]
 }
