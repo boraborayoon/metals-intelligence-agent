@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:15:44.414Z",
+  "generatedAt": "2026-10-23T22:19:07.425Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -45,16 +45,6 @@
       "codexStatus": "PENDING",
       "source": "Bloomberg.com",
       "publishedAt": "2026-10-22T19:46:10.000Z"
-    },
-    {
-      "id": "09b41f0944a6a507418bb64d3a2955cb8e15bdcf68ac816e2d5bf15cd5b89786",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Unions call strike vote at Antofagasta copper mine in Chile",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-09-23T19:51:25.000Z"
     },
     {
       "id": "766eb60a63818c31ec175dc363f8030f5f1f69f43769e1e0bb297dd79a821063",
@@ -437,16 +427,6 @@
       "publishedAt": "2026-10-08T05:41:44.000Z"
     },
     {
-      "id": "344304422c5d90747af35d4572746d67320ac14bfe06bfbae7b5b37fe93c0d5e",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "World’s largest copper mine halts operations after worker death",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "SRN News",
-      "publishedAt": "2026-09-23T21:00:21.000Z"
-    },
-    {
       "id": "7dae8edd8bb7ee97864401d7094077c4ece2c2ae51f6e5945123abeefa2bbda4",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -555,16 +535,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-09-24T09:40:00.000Z"
-    },
-    {
-      "id": "2b540b889a7ef091256f6bdbb3016491bf08ad3c6c67650b3dc9c56b0c64a43b",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "World’s largest copper mine halts operations after worker death",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "101 WIXX",
-      "publishedAt": "2026-09-23T21:26:47.000Z"
     },
     {
       "id": "b76dc803847158ce19e20cea91c296af2dec763505b289b619ce6e9e53d64dc0",
@@ -1255,16 +1225,6 @@
       "codexStatus": "PENDING",
       "source": "더구루",
       "publishedAt": "2026-10-23T04:09:19.000Z"
-    },
-    {
-      "id": "d75d0dfd52b9614e94dfde25506e2b6f3945194966dbe57293fc873721897a2f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "BHP’s Escondida copper mine in Chile’s Atacama Desert announced on Sep",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-23T22:19:00.000Z"
     },
     {
       "id": "3e9fad254676af00940d34bff7086af547fa24a33cab0c8d4b544471b85fe61b",
@@ -5005,6 +4965,46 @@
       "codexStatus": "PENDING",
       "source": "Yahoo Tech",
       "publishedAt": "2026-10-23T18:00:00.000Z"
+    },
+    {
+      "id": "5552e47c52fbccbc0870942b720170bfa3b4adc9f0a81583bbc2f8c04ee73463",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "美 배터리용 알루미늄박 시장 재편…韓기업 공급 기회 열린다",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "더구루",
+      "publishedAt": "2026-10-23T22:12:36.000Z"
+    },
+    {
+      "id": "4fafac4d470b4adaeddabf86ac9f2d7da582dd54035c4080f20e96673514cd4d",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Company explores copper-mine potential in Blackfoot River drainage",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Missoulian",
+      "publishedAt": "2026-10-23T21:00:00.000Z"
+    },
+    {
+      "id": "9ed10c2ccb11f9ef2df63e5a4083aae744525adfd7d1c4e28531431dac4b9d13",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Citi Remains Neutral Copper Until More Energy-Market, Tariff Clarity Emerges",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-23T18:33:20.000Z"
+    },
+    {
+      "id": "767beef29ace6b8bde972d41131dbb819bf100a883a36cbdaf017d949db7dcda",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper-Silver Explorer Fits Veteran Investor's Golden Age of Mining Call",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Streetwise Reports",
+      "publishedAt": "2026-10-23T17:58:11.000Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:15:44.414Z",
+  "generatedAt": "2026-10-23T22:19:07.425Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -181,51 +181,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-22T21:37:57.128Z",
       "updatedAt": "2026-10-22T21:37:57.128Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "09b41f0944a6a507418bb64d3a2955cb8e15bdcf68ac816e2d5bf15cd5b89786",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Unions call strike vote at Antofagasta copper mine in Chile",
-      "summary": "Unions call strike vote at Antofagasta copper mine in Chile TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQVV6OGNUNjNQbVJZZEZ4QjkzZV9oTV9VSmR0QTU1TVpZLV9uV0VKd1BsSjFqZ0tIY3JhczByNG81MFNGcWJxTU00YThhZUloRGlWbWVYeUFwTTlhaXpodS1tU28yNS1DeERYTWgxUWsyeDVlSHNZamNYeWNBUDh6RlVfWkI5eElDVW45Z19GSDhlUmZUNThnQWV2YllTMF9QYV9CYmFqZFV2M1ZkeFQzRjRhRUVnYk92cmZBZGMxQm9hVXByR2c0eg?oc=5",
-      "publishedAt": "2026-09-23T19:51:25.000Z",
-      "priority": 64,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "MINE",
-          "STRIKE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Unions call strike vote at Antofagasta copper mine in Chile TradingView",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-23T22:18:31.018Z",
-      "updatedAt": "2026-09-23T22:18:31.018Z",
       "analyzedAt": null
     },
     {
@@ -1892,43 +1847,6 @@
       "analyzedAt": null
     },
     {
-      "id": "344304422c5d90747af35d4572746d67320ac14bfe06bfbae7b5b37fe93c0d5e",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "World’s largest copper mine halts operations after worker death",
-      "summary": "World’s largest copper mine halts operations after worker death SRN News",
-      "source": "SRN News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTJSUXk0R29mMTY1dWJuR3ZocDNhdHJQMHFRQU1VZ0p1VEVxeXhmM2FISEN2bU9nUDhRU0JNMFl0OVdVb0RJUVM1bTdJZGtDRE1DWVh4dndrNHREcFdKVHFJX1NWbGlGV0FMekczWGpDR3dPWWJjc1FDRFdkeFFmQzNLV3U4Nkw2aFkw?oc=5",
-      "publishedAt": "2026-09-23T21:00:21.000Z",
-      "priority": 53,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply Disruption",
-        "categories": [
-          "MINE",
-          "DISRUPTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "World’s largest copper mine halts operations after worker death SRN News",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-23T22:18:31.018Z",
-      "updatedAt": "2026-09-23T22:18:31.018Z",
-      "analyzedAt": null
-    },
-    {
       "id": "7dae8edd8bb7ee97864401d7094077c4ece2c2ae51f6e5945123abeefa2bbda4",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -2347,43 +2265,6 @@
         "keyEvidence": [],
         "confidence": "LOW",
         "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-24T11:48:58.581Z",
-      "updatedAt": "2026-09-24T11:48:58.581Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "2b540b889a7ef091256f6bdbb3016491bf08ad3c6c67650b3dc9c56b0c64a43b",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "World’s largest copper mine halts operations after worker death",
-      "summary": "World’s largest copper mine halts operations after worker death 101 WIXX",
-      "source": "101 WIXX",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRHAtZkNDUWpKTHh6UEZBYmtmWHg1a1piXzNVWm9GM1pVVDdmMWFfLWNncjV4c0lLc3R0SEY3Y1p0YkllcTJYZVpobmFlaXBGQjFxRERBbGMzM0tVVTkwN0VyZ2p2bGRTT082RWJiYWlsVV92dDZoRURGSVB4dnBoaDVXVHMwcWdkVlEySFc4U2tuN29nWVE?oc=5",
-      "publishedAt": "2026-09-23T21:26:47.000Z",
-      "priority": 49,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply Disruption",
-        "categories": [
-          "MINE",
-          "DISRUPTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "World’s largest copper mine halts operations after worker death 101 WIXX",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "IMMEDIATE",
         "signals": [],
         "urgent": false
       },
@@ -5312,44 +5193,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-23T04:53:12.483Z",
       "updatedAt": "2026-10-23T04:53:12.483Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "d75d0dfd52b9614e94dfde25506e2b6f3945194966dbe57293fc873721897a2f",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "BHP’s Escondida copper mine in Chile’s Atacama Desert announced on Sep",
-      "summary": "BHP’s Escondida copper mine in Chile’s Atacama Desert announced on Sep Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkVQVjZuY2RHUy0wSXBVVzlDbGtCYjRxZVZXMnhUQThzay1xb1c3ZVVZYmZYQVgtRU9ySkRWVWNCRHZKSUNFM29vM2p6RGJNWGRFUm1FbzJoTE11djVWeWF3MGVCclM2dVNzSnNrZThzbk84dnlFZnpzWC1KTURCdzFpLW5fQlhic180cXdjYWZRQV9MWGRtV0UxcG5sSjFmeEkzcVlfS2FPNk03U0Y5T0d5NDJFUUktVEF5YkI2QmswMEJYTTN6cDNCVGxEdzVWQVMxcjBCdTE0NmVhTXNv?oc=5",
-      "publishedAt": "2026-09-23T22:19:00.000Z",
-      "priority": 41,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "BHP’s Escondida copper mine in Chile’s Atacama Desert announced on Sep Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-24T00:54:11.426Z",
-      "updatedAt": "2026-09-24T00:54:11.426Z",
       "analyzedAt": null
     },
     {
@@ -19294,6 +19137,154 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-23T19:15:44.414Z",
       "updatedAt": "2026-10-23T19:15:44.414Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "5552e47c52fbccbc0870942b720170bfa3b4adc9f0a81583bbc2f8c04ee73463",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "美 배터리용 알루미늄박 시장 재편…韓기업 공급 기회 열린다",
+      "summary": "美 배터리용 알루미늄박 시장 재편…韓기업 공급 기회 열린다 더구루",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBac1J3UVBRTVBzZW9CSHdFM01BS2xoc250Ym1Pb1VCbFA2aEx5VzhxeHIyUkhTR2FYWHZQSDZuVUIwdWo4by1pUVRTQVdGSUNybk5aWm9JQ25qU3ptdjRjd0dhbw?oc=5",
+      "publishedAt": "2026-10-23T22:12:36.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY",
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "美 배터리용 알루미늄박 시장 재편…韓기업 공급 기회 열린다 더구루",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-23T22:19:07.425Z",
+      "updatedAt": "2026-10-23T22:19:07.425Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "4fafac4d470b4adaeddabf86ac9f2d7da582dd54035c4080f20e96673514cd4d",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Company explores copper-mine potential in Blackfoot River drainage",
+      "summary": "Company explores copper-mine potential in Blackfoot River drainage The Missoulian",
+      "source": "The Missoulian",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVJMUm9oQ0Z6dV91eVFHZHFlSmdRYTYyTzlwZy1jSDFibjFROTBlUUR5Njc5dTMyMUNRb3k4WUNOZWJJVmI1OGVldUlUMV9nbzZLUUR1SVNnXzN0NEdQWGh0ZmJlbEc1eFBYdllubEYwTzRuaWpBREVKbFlMSDIyZHBRM0E3S3pOeVN2NGIzMEpmdE9rZklZ?oc=5",
+      "publishedAt": "2026-10-23T21:00:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Company explores copper-mine potential in Blackfoot River drainage The Missoulian",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-23T22:19:07.425Z",
+      "updatedAt": "2026-10-23T22:19:07.425Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "9ed10c2ccb11f9ef2df63e5a4083aae744525adfd7d1c4e28531431dac4b9d13",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Citi Remains Neutral Copper Until More Energy-Market, Tariff Clarity Emerges",
+      "summary": "Citi Remains Neutral Copper Until More Energy-Market, Tariff Clarity Emerges TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUUZmQmNLTnQ3TG1kcU1mcGtFZVFvWHJQRERoeGVIemQxR0xUYnNuSk5lTlEzaEZSeDk2NVN1OHdVQUZjamVhVENRWHh0Tkt1Z2RsRTJQQlF2eFNTZ0F0UU1jVVdLN0F3WGhuT0o4aG5EQTFWbnRMc0dodC10X3UtV28yMWJrdHdBUGFCMUhGMGZuX1ZrYkdxQzM5VF9tWUYwR2RuNFNzM0g3ZmFPNkRtN3JMRUVTYVFhZUh3aThOWGNpVF9zUzlwU3dvbVg1SG00NVpfSmNkeEFsem5IUHc?oc=5",
+      "publishedAt": "2026-10-23T18:33:20.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "TARIFF",
+          "ENERGY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Citi Remains Neutral Copper Until More Energy-Market, Tariff Clarity Emerges TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-23T22:19:07.425Z",
+      "updatedAt": "2026-10-23T22:19:07.425Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "767beef29ace6b8bde972d41131dbb819bf100a883a36cbdaf017d949db7dcda",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper-Silver Explorer Fits Veteran Investor's Golden Age of Mining Call",
+      "summary": "Copper-Silver Explorer Fits Veteran Investor's Golden Age of Mining Call Streetwise Reports",
+      "source": "Streetwise Reports",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVnN6V29kU2xlNjRBOVNxdkdhaEtJMVJYSnF2bVlvaFhtZnZkM3Iwc1ZVd3BxSDJKLVJ4bElzSEdiVTIwaGFsWXFrQ0dCa1FkYzF6TjdCZnMtaUNDNGJ4alZldGtNeC12THlvRWFWUGt6Y0tLU1JJRFFnY05ReS1PNFE0ZXZCMDJxdWpib2NpTElVOUFUbHF1RDMyRzZFWkkyb3h0RzFVYWs0X01Bemk3QVd2N3dfWl9COXI4UkptS2ZBNVNJUzNEag?oc=5",
+      "publishedAt": "2026-10-23T17:58:11.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper-Silver Explorer Fits Veteran Investor's Golden Age of Mining Call Streetwise Reports",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-23T22:19:07.425Z",
+      "updatedAt": "2026-10-23T22:19:07.425Z",
       "analyzedAt": null
     }
   ]
