@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:37:57.128Z",
+  "generatedAt": "2026-10-23T00:10:57.986Z",
   "items": [
     {
       "id": "0051c8213f706396417597b702b85349ba792f04a4aa240e09a9f670e32def62",
@@ -14951,6 +14951,43 @@
       "analyzedAt": null
     },
     {
+      "id": "36893b5f08fdec8a6226eb762bdc8024bbc3c32c5d3691c9872a4864be55aea3",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "BHP Share Price Risks R634 Breakdown as Copper Output Falls 19%, Despite Strong Iron Ore and Coal Production",
+      "summary": "BHP Share Price Risks R634 Breakdown as Copper Output Falls 19%, Despite Strong Iron Ore and Coal Production FXLeaders",
+      "source": "FXLeaders",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSWRsQ3lIWDlRVnJzeVR6eGJfV0hlZTdLUWFjV0N3TEpwWHJFNTVGZnRCUFFiNXlhRUFrWFVqQjRMaTFEUmFzUU91RUV3YmF2eS1rRWRTR2tJTDdfQ2ZldG9pdDJjbTFMdUxaWnlFdWVfa3FTcU10TVJ0U2tfM0J5YUoyakU1ZUMtUmhSS2RpZnA3SldqdjQ3U3Q5V2gycVVOT3dYdmFLb2l6aEgtZ2laZ1RsZXFFTVJOZjQzdnFObHI3VjloMVRGUFUwT0pSLXVpa3FwMDJVamhZRG9KVWdibmVyWQ?oc=5",
+      "publishedAt": "2026-10-22T21:54:50.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRICE",
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BHP Share Price Risks R634 Breakdown as Copper Output Falls 19%, Despite Strong Iron Ore and Coal Production FXLeaders",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-23T00:10:57.986Z",
+      "updatedAt": "2026-10-23T00:10:57.986Z",
+      "analyzedAt": null
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -19267,42 +19304,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-09-29T11:36:18.665Z",
       "updatedAt": "2026-09-29T11:36:18.665Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "9124abcc725dcaa998d5ed5797800e9754cdecd0584cf226d52be76bfd808d05",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Hydro to supply high recycled content aluminum to GM",
-      "summary": "Hydro to supply high recycled content aluminum to GM American Recycler",
-      "source": "American Recycler",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2S2ZuWHA1UzlXTVpGZmJNdExiQU9TZVRqNHBNN3RYMF8wX1hENHJLZU8wdXlTcVBEVm5jRWx3X1FBRnZGdzNHT3QwTkNKODZNNzUtNG15TjhGdnVaMy1RTUk3clpuY3JzMEtEUV83MUFCTWRxSTQwRTd5RVY2QQ?oc=5",
-      "publishedAt": "2026-10-01T05:18:15.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Hydro to supply high recycled content aluminum to GM American Recycler",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-01T07:49:30.192Z",
-      "updatedAt": "2026-10-01T07:49:30.192Z",
       "analyzedAt": null
     }
   ]
