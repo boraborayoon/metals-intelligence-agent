@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T19:49:30.978Z",
+  "generatedAt": "2026-10-24T22:29:42.315Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -3172,6 +3172,49 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-21T20:40:28.220Z",
       "updatedAt": "2026-10-21T20:40:28.220Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "de1b3917ca842597ad6955663bdd15b5b30efadff7ff65bba5a71d8247bb89b0",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "‘It’s our time to stand up’: Highland Valley Copper mine workers begin strike action",
+      "summary": "‘It’s our time to stand up’: Highland Valley Copper mine workers begin strike action CFJC Today Kamloops",
+      "source": "CFJC Today Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQXdCMERBYXp5c1dzYkcxT1Y3Y2R5SVZITzhTSlhFdGxZS0l3RWpBYlROQmJHUk1DcU5lc1dDS3YyOS0wOGhzVDZKdmZYV0haU2Zpa0lNcjJwTzM0OEJhZUpXamdtMEJlTmhtLVhxV3JKcXZUQWVNSWZMYlA3TzBFTUxvTUU4Zi1PdHpkZkh3?oc=5",
+      "publishedAt": "2026-10-24T20:09:09.000Z",
+      "priority": 46,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "‘It’s our time to stand up’: Highland Valley Copper mine workers begin strike action CFJC Today Kamloops",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-24T22:29:42.315Z",
+      "updatedAt": "2026-10-24T22:29:42.315Z",
       "analyzedAt": null
     },
     {
@@ -10571,6 +10614,42 @@
       "analyzedAt": null
     },
     {
+      "id": "3822c3e13c6da39d83e80bf8887da6b22d1ec5fb4974290ac594db983c18417b",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Former Inco nickel, copper mine to restart after 25-year hiatus",
+      "summary": "Former Inco nickel, copper mine to restart after 25-year hiatus OrilliaMatters.com",
+      "source": "OrilliaMatters.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWmtuTk9wamUybDRORnRJczlTd2szU044Tk9UVDc1bThrQXlrVHI4cksydjZ2UDJfZ3c5dzF3a2RlUzhkaDhGTGs1SU00cnlmNlhCdVlyWjVBQXVVcS1iTzROd1gxYnNkaEhkaXpZTVBjYlJNSzFVZ1JkS1JmUEV2V3Z1RDhwYW5ZMHpWLU9QU2NzSHZONGp1U0wtOG5Rd0F2bkJKbDZuVEo4MElyMG5QaHlR?oc=5",
+      "publishedAt": "2026-10-24T20:33:39.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Former Inco nickel, copper mine to restart after 25-year hiatus OrilliaMatters.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-24T22:29:42.315Z",
+      "updatedAt": "2026-10-24T22:29:42.315Z",
+      "analyzedAt": null
+    },
+    {
       "id": "41cc69bea6667adbf8b482ff65b0c6be8b402c60b2ac6337064b0b112fadac5d",
       "commodity": "TIN",
       "subCommodity": null,
@@ -14512,44 +14591,6 @@
       "analyzedAt": null
     },
     {
-      "id": "53d3034caa4be0746a0e7568ef54aa5cc73a7193239e83b6affdc590cad5b5f4",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Desalinated water and jobs: Tía María's US$ 1.8bn bet to begin copper production in Peru by 2027-28",
-      "summary": "Desalinated water and jobs: Tía María's US$ 1.8bn bet to begin copper production in Peru by 2027-28 BNamericas",
-      "source": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOUZYTU84X183eEluQTBBNlNoRHZNdjM3M09VdXdyMnZwNml1Q2FKMEhsanJ3Uy1pcnVSTUFtR2hhdDVHZllVOU5YNlFubzdta0Z0VHNSTW5QRXRIblVIUFJZTU9HRlVhWThMMW5PYUx1V3JiV1YzWlctUS1iLW5waDE5VXNzMTFsWHhUUlRxZl9kZ0pScGdwcTNJOEFvX3BuRDNJTkppc1ktd2plYzY1dXBXUTY5NU1meW1EM0NyemFLTk5Pa2NjRlNscmNrMGs?oc=5",
-      "publishedAt": "2026-09-24T20:30:05.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Peru",
-        "regions": [
-          "Peru"
-        ],
-        "summary": "Desalinated water and jobs: Tía María's US$ 1.8bn bet to begin copper production in Peru by 2027-28 BNamericas",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-24T23:29:56.351Z",
-      "updatedAt": "2026-09-24T23:29:56.351Z",
-      "analyzedAt": null
-    },
-    {
       "id": "37e03b40ab57d2fd486b31f040293fa501d2212cbf907300ffc71e6f684b131c",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -17101,114 +17142,6 @@
       "analyzedAt": null
     },
     {
-      "id": "c6c163d6574a8bcccc8ed0b7f7896f2cd9dbe71ca4268b2997cf5eceac3446aa",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "White Cliff sees signs of a copper district",
-      "summary": "White Cliff sees signs of a copper district North of 60 Mining News",
-      "source": "North of 60 Mining News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzBpUGVuVG1xbEIyT0pFMHgydUwzcHFKaC1YYWd5QkxNc2ZtRnVySXE0UEhScUMyZ0tmSTdMWl9lVTFfbTRnd1I0SW9Fb2Y5SmpQRzdubmVaMjFxUUluTS03MGpFNEhMcVY4Uzd0bDNoSGIxdjlaa2Fzdk43ZWpVQVA0MldETU5nVlJWdDJtLW5KV2F2bHhXbURkczduaTQ0MGh3ZVF0RlJiNExMQmJTci0wbEg5SUVvZndRb2pn?oc=5",
-      "publishedAt": "2026-09-24T22:08:43.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "White Cliff sees signs of a copper district North of 60 Mining News",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-24T23:29:56.351Z",
-      "updatedAt": "2026-09-24T23:29:56.351Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "6dae7a8e69b33ec287bb066c76ad4f8b464f7fe9e99d59d3f5f256c5bef78f93",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Codelco cooperates with Chilean prosecutors as watchdog probes alleged copper irregularities",
-      "summary": "Codelco cooperates with Chilean prosecutors as watchdog probes alleged copper irregularities BNamericas",
-      "source": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdUNhQ3FvaTU0Z2JsWjgwZmtQVVp6bzd2RXFza2JrZ0N2cng4TmE1YmNtMGhNRTNOellDZ1BzRFR5bzBGZV9vNmtWNjE3Tm52MFpGSFZ5cjVILVNKc2Z6VzhrTmY1eWtJdDV5U0VocGxMUkVOcW9ySFY3b3FFM2RqR2MyQkF4SHEtX3E0MUlYaDNrcTNTWVd6NVRVUlEzajF4ZTFmd20yNjhOWG5pZFZBMDhGUGpVQVliSUg0SHVKRlJSbE5OWGc?oc=5",
-      "publishedAt": "2026-09-24T21:30:14.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Codelco cooperates with Chilean prosecutors as watchdog probes alleged copper irregularities BNamericas",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-24T23:29:56.351Z",
-      "updatedAt": "2026-09-24T23:29:56.351Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "32a163413a0ec25a7114b869ea94adb672d84526cf28f687f4fde3345468ecf8",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Low-carbon aluminium vs copper: Who is really paying the green premium?",
-      "summary": "Low-carbon aluminium vs copper: Who is really paying the green premium? AL Circle",
-      "source": "AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3hERkpDVnk3VW50cGVzTzNLakdoVV9rNmNfWV9XNE5kUWszbjdlQWlidVdoSVhlSkkzVTNLSVBXamp2Um90VFpXQ3U1NWJOeFlwNS1VUktnLXFoZ2NyLVhuaEw3UlJkVWlFRlA1WVcyN1JibEFBYXB0Q1QwUExNdHNpRzFVWTBPcWFYZkdGZWdCMi15aHBqN1VXem9QQmprT0dVTG4wOUhxUQ?oc=5",
-      "publishedAt": "2026-09-24T20:05:45.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Low-carbon aluminium vs copper: Who is really paying the green premium? AL Circle",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-25T01:55:43.263Z",
-      "updatedAt": "2026-09-25T01:55:43.263Z",
-      "analyzedAt": null
-    },
-    {
       "id": "1ca64287ca19207c09a399c9af88156719edfd215620d446a104148a3f44d2e1",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -19255,6 +19188,78 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-24T14:34:34.745Z",
       "updatedAt": "2026-10-24T14:34:34.745Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "0e4eac9d4d74d1538f76e296906607c2a7679d40a90605fc38e4dce8526a238d",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Southern Copper (NYSE:SCCO): A Dividend Quality Case for Income Investors",
+      "summary": "Southern Copper (NYSE:SCCO): A Dividend Quality Case for Income Investors ChartMill",
+      "source": "ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR0NsRHlpSHdZN0V2MnF2aHlIQmlRaUlaUUVFVDNwMlFSSFNVNmJGQ0I4OTcxbW1qeDdvMktLWUNiLTBZSHNtS3JqMk9UNjZEQWxWZG5qWlltNFBibS0yRHRuOFRadW15bzVBaDl6cEdtazkwU1duZFAta2FrOVg5REZXc3p5ZGNtc3ZrUUxhTGZrOTdtWkw4NE9KU3Njc3FzVWlTa2tEY1cwSGRlS09QaFVhcWpTS0liVjcwMk1n?oc=5",
+      "publishedAt": "2026-10-23T10:41:07.000Z",
+      "priority": 26,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Southern Copper (NYSE:SCCO): A Dividend Quality Case for Income Investors ChartMill",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-24T22:29:42.315Z",
+      "updatedAt": "2026-10-24T22:29:42.315Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "471fa819bc97dd0df59b9e7bd0b9404e54d14bb4816d64cc4336f2b1bec808c4",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "3분기 울산 알루미늄 가공제품 수출액 36.7% 급증",
+      "summary": "3분기 울산 알루미늄 가공제품 수출액 36.7% 급증 울산MBC",
+      "source": "울산MBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmS0ZIQVZFQU10b3ZyYTB2M3pFYjFFYzg3cFBjMkVWM0diUXptQ3JoZ095SUZCelhLR2RNVS0yMjZkWjZuZVhxOE9VaFYycDVjMU9LYQ?oc=5",
+      "publishedAt": "2026-10-22T23:16:15.000Z",
+      "priority": 26,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "EXPORT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "3분기 울산 알루미늄 가공제품 수출액 36.7% 급증 울산MBC",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-24T22:29:42.315Z",
+      "updatedAt": "2026-10-24T22:29:42.315Z",
       "analyzedAt": null
     }
   ]
