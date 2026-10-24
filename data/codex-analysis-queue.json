@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T17:37:12.653Z",
+  "generatedAt": "2026-10-24T19:49:30.978Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -5073,6 +5073,48 @@
       "analyzedAt": null
     },
     {
+      "id": "967241e139d03b8ab291e9963cdf95f226c5abd34a04bcec1ee6d95ddc8e15d5",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Highland Valley Copper workers go on strike after contract talks fail",
+      "summary": "Highland Valley Copper workers go on strike after contract talks fail Merritt Herald",
+      "source": "Merritt Herald",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVFJDUEUyMlF4UGE0U0VUeUdjTk5STENiVnhOeWhQRklGTFBEN29obFlkemdpMzNGY21QeTRiSlRkLVMydlh4b1VXRHpzdmhqaTNlZVhKVmI1TmtoTm15ay13U2hOQjJ1a2pmU0t6cTBoLUd5d1VIMjVOdjN4SGRucEdMc1c4dlFqTGVESU1sYU1OMUdBM2JGU1hvSjFPdnd5bnc?oc=5",
+      "publishedAt": "2026-10-24T18:58:40.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Highland Valley Copper workers go on strike after contract talks fail Merritt Herald",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-24T19:49:30.978Z",
+      "updatedAt": "2026-10-24T19:49:30.978Z",
+      "analyzedAt": null
+    },
+    {
       "id": "8afe91b8dc179b8fad3a41329fbfc80c89a1c26d155647c638b4db8b47240e28",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -6552,42 +6594,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-23T10:06:08.620Z",
       "updatedAt": "2026-10-23T10:06:08.620Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "366285c014ed8c3613643b7b560e4c9e542e1119c3e14e6b65798a82ff7d189c",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Price September 25 2026",
-      "summary": "Copper Price September 25 2026 Robinhood",
-      "source": "Robinhood",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUDZMbTAxc3U4ZldJMkYxdDdxX2ZqN3F1dkJ2M3lfbEkwUmVDVXlhamtNUGFwdjlRdkxGel9wTl9od0c1S2FKcGN6ZXBqYUVVdFJDSzRjcVhjZnlpTTJLS0JtTFlwQWh6bHFfdU9BSnVCbzE0bm9vZnVTdDV2MDVEZGJBV19hWmlyQk9WdThrb0sxYmJaSzRTNE1EXzdiSWY3c2o2ek5wYw?oc=5",
-      "publishedAt": "2026-09-24T18:15:52.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Price September 25 2026 Robinhood",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-24T20:31:31.028Z",
-      "updatedAt": "2026-09-24T20:31:31.028Z",
       "analyzedAt": null
     },
     {
@@ -11480,43 +11486,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-23T15:06:14.298Z",
       "updatedAt": "2026-10-23T15:06:14.298Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "d9ec00bb4fef068856693bf9c26f8bae724b6f2bd808bdcd1a12f622b761fab5",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Aluminium’s Frontline: OEM Edition 2026 launched! Inside the technologies powering aluminium from mine to recycling",
-      "summary": "Aluminium’s Frontline: OEM Edition 2026 launched! Inside the technologies powering aluminium from mine to recycling AL Circle",
-      "source": "AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeXZ1MVA2MlJ1QWdhZmxMX0hlQ0h1aXNLZ2g5ZHFGQU5rVGstcVpJQnJfNHh3XzNhZEs3aERZY2VWZUl2UlZxdExNaXRmTVZIQ0VpdlU5TDhuY3Rla25aSWFWLUt6a1BjZWI2MkdoWW1OZkhEZ0hQNlBkaW5kNk5CajBNOEVmX1BXNVdLdnp3M1JiSkhsNzIyek92X2dBckZjRTF0SEFoOElLUXUtUk5GMmdKS2tDRXhEdWE1d2hCSjdMalB6am1jaTUtdkFleXltMDFfRG1HWGZrNGhrVGNDZ2R6bw?oc=5",
-      "publishedAt": "2026-09-24T18:22:30.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "ENERGY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aluminium’s Frontline: OEM Edition 2026 launched! Inside the technologies powering aluminium from mine to recycling AL Circle",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-24T20:31:31.028Z",
-      "updatedAt": "2026-09-24T20:31:31.028Z",
       "analyzedAt": null
     },
     {
@@ -18952,6 +18921,42 @@
       "analyzedAt": null
     },
     {
+      "id": "126c75916910a61e0d8009bd8f00801906a70f743f8decc71a5006b0c4f459af",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "'Made in America' copper plans change at Hudbay mine near Tucson",
+      "summary": "'Made in America' copper plans change at Hudbay mine near Tucson Arizona Daily Star",
+      "source": "Arizona Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONkM1ak1pMmx6VnJiR2h4N2xaR3JZZ0hYbmZxc0VqQ29qRmF0NFItR0ZteU9JbkNkSDZzNUxyZVRPUG9jbEg2TE01NUFsNThtUEV0ajVvUTZKT19xLVN2OVRfQnJJcmc2MlZSeUlkS2NPWW9rWHczNWRKZjlBY3JkQlFmbTJwTVlOMUhjUjJ6MlMtd2xX?oc=5",
+      "publishedAt": "2026-10-24T19:00:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "'Made in America' copper plans change at Hudbay mine near Tucson Arizona Daily Star",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-24T19:49:30.978Z",
+      "updatedAt": "2026-10-24T19:49:30.978Z",
+      "analyzedAt": null
+    },
+    {
       "id": "5c2f5278848653417b51c8b541693d2bd9dbf89bcb26ed86dd41a3df1f832f5a",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -19106,6 +19111,78 @@
       "analyzedAt": null
     },
     {
+      "id": "7e53c8572b04726434e77445ed10b1805cbdb6d7cf982767fad7e876bf77c36a",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Western Copper & Gold Corp (31WN.SG) stock price, news, quote and history",
+      "summary": "Western Copper & Gold Corp (31WN.SG) stock price, news, quote and history Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Lb3FTMXJrb05FNDV0Ti1FVEFGU1ZFQklIcXhyNnhicndhTkRTaVRpQmpLbGVBUUtuenA4RDFBOWFfWTc4UFpyb0NMS0sxX3Z6a2dnSHEtaEEzMHdlb1lOVFJWTFZkRkhxMnc?oc=5",
+      "publishedAt": "2026-10-24T06:46:07.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Western Copper & Gold Corp (31WN.SG) stock price, news, quote and history Yahoo Finance UK",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-24T19:49:30.978Z",
+      "updatedAt": "2026-10-24T19:49:30.978Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "23f4281519d80b141ca47445e9baa142e2506f52e045b349291ae63fa72e26a8",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Southern Copper Is Maintained at Equal-Weight by Wells Fargo",
+      "summary": "Southern Copper Is Maintained at Equal-Weight by Wells Fargo Moomoo",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFFldDJkd2VZaEJubFlKRHJ1d1QzLVU5ZW5CQnR4RXN3YS1HV3NpR1NZRC0tRXI0X0RSc1AyTGtlY3RwdEZNc2lvRXktaVlFVWVmQnlZbHdoYTg1YVpjZmc2MlpNdU9IUnU5aUw5RGxRM3V2Q0NXMzNuSVJvYVV5TEpYd2pzY2ZiTG5mbVJkcmx5ZjRqcHZWYkg2dC1Rd294d2VFQU1CSQ?oc=5",
+      "publishedAt": "2026-10-24T05:54:11.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Southern Copper Is Maintained at Equal-Weight by Wells Fargo Moomoo",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-24T19:49:30.978Z",
+      "updatedAt": "2026-10-24T19:49:30.978Z",
+      "analyzedAt": null
+    },
+    {
       "id": "460f0007069724b291da525bfe8504d6e1cc19e1009b9364f8ecf5cb551d9bca",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -19178,78 +19255,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-24T14:34:34.745Z",
       "updatedAt": "2026-10-24T14:34:34.745Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "29d32a3dea3b4bb154ecf2a4f2d5c151bb45a9ed3d8a3fc85506943c43b63a03",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "‘AI 수혜’ 구리 ETF 주춤…공급과잉이 변수 [인베스팅 인사이트]",
-      "summary": "‘AI 수혜’ 구리 ETF 주춤…공급과잉이 변수 [인베스팅 인사이트] 서울경제",
-      "source": "서울경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kTFJmdHZuWlJTNnNSZzVhTjU4LTFqZFpJY3JYUl9SbUVpYVNQZ29IZ2owa3NHcmRYc3JRZ0FBOGFfVFMtU244a3d1ZW1mOUlJQmfSAVNBVV95cUxNUTk1X09RRFpUZFZHbkJVT2NsaE9HUE1US21HemZuZG91R2t5ZThIQzVTYXY5ajBCd1FGTVhUX3FXeVRqRi1UcEZaMG81QzBkcVZsTQ?oc=5",
-      "publishedAt": "2026-10-23T08:46:32.000Z",
-      "priority": 26,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "‘AI 수혜’ 구리 ETF 주춤…공급과잉이 변수 [인베스팅 인사이트] 서울경제",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-24T17:37:12.653Z",
-      "updatedAt": "2026-10-24T17:37:12.653Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "1e681b1b76d02339be870f15f5dd0262888c33d0a959e0277975259cc15456f1",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Bears Confront Critical Price Floor Near $6.35-6.42",
-      "summary": "Copper Bears Confront Critical Price Floor Near $6.35-6.42 TradingPedia",
-      "source": "TradingPedia",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHlyeG9wU1BHYW9ORWlGT1NKYURVeUdWVThQTzEzVkRZSVBXdk5OVnRnTEFpV2JUV1JBaExTU21vRnB3UU53VGpxbm5Lb2l0MmRodnhJdEVrcWZyMGdrSkI2Ui1GVFd5RFFyeHU3Y0p2NUJYb2xmVXNzS01HYzlIRk1ia1kxSmU2VDg1Sm9sUWVsTDNvd1M4NmdEMGdXeXM?oc=5",
-      "publishedAt": "2026-10-23T07:46:52.000Z",
-      "priority": 26,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Bears Confront Critical Price Floor Near $6.35-6.42 TradingPedia",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-24T17:37:12.653Z",
-      "updatedAt": "2026-10-24T17:37:12.653Z",
       "analyzedAt": null
     }
   ]
