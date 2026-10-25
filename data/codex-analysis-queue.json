@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:10:15.246Z",
+  "generatedAt": "2026-10-25T14:23:21.553Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -1466,50 +1466,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-14T15:31:05.946Z",
       "updatedAt": "2026-10-14T15:31:05.946Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "280d28261b5ff62e3fa927531cd80d5645a6112cf62c245e3ccbebe8a682c43b",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Prices Drop to $6.66/lb as Dollar Strengthens; Escondida Strike Looms - News and Statistics",
-      "summary": "Copper Prices Drop to $6.66/lb as Dollar Strengthens; Escondida Strike Looms - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNk1LXzFxZTM1RkdvSUJLOVZxQngxWFZvdlRXekppLVU4ZjlOeklOSDZTdHJBZjhjNWF0M3NNY1dONjZTUFZRUWxnOHRzbDYzV3RoWTNKbEpNSEViQmJwTUtLVUNnY2tmQlI0WHY0RXhJUGFJb0lxVS1oUFYwV1EyUVVxN1hsUVBkWGNmcXMwSUUtRnpKaHpPSkhsN0lkTzgtdHlVXw?oc=5",
-      "publishedAt": "2026-09-25T13:20:44.000Z",
-      "priority": 57,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "PRICE",
-          "STRIKE",
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Prices Drop to $6.66/lb as Dollar Strengthens; Escondida Strike Looms - News and Statistics IndexBox",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-25T13:49:50.751Z",
-      "updatedAt": "2026-09-25T13:49:50.751Z",
       "analyzedAt": null
     },
     {
@@ -5155,6 +5111,53 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-24T19:49:30.978Z",
       "updatedAt": "2026-10-24T19:49:30.978Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "081493851b8992815207a8c589e8f69306fc0d7c74f0db50c0c356bba5d4fc39",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "October 25 RockHawks Mining Update: Copper Strike, Thunder Bay Gold Drilling and New Mine Investment Plans",
+      "summary": "October 25 RockHawks Mining Update: Copper Strike, Thunder Bay Gold Drilling and New Mine Investment Plans NetNewsLedger",
+      "source": "NetNewsLedger",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQlBTb05wN2tSZGlrNkRsWmRDRW9FVEltNUluSVpFVmlubGRRZ3drRHpydTJ3VVFfTnVYb1ZUdHUtWUU3MWxZTUozZ0MwRV9ucmczWXplTFMyNHVNZFFyVU5ERjZjd1lGekJRTTdPeG4wUVRzTzh6bW1NckdzZVVFcTJhdFR4a000eUhIWGo1MUFVb3NoaDR2QTI4TV9ZTDRFc1dqenprR3dFTC1DaXdCZXdNU1JFekFkdHAyNUFjQjQwcXBjN3dna21jQkhGWXNVZHhJV0tJbXFzOGJuUmpj?oc=5",
+      "publishedAt": "2026-10-25T13:18:50.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Rule direction is unclear; Conflicting market signals; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "October 25 RockHawks Mining Update: Copper Strike, Thunder Bay Gold Drilling and New Mine Investment Plans NetNewsLedger",
+        "marketImpactReason": "기사에 가격 상승·하락 방향의 근거가 동시에 있어 규칙만으로 단일 방향을 확정하지 않았습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [
+          "strike",
+          "new mine"
+        ],
+        "confidence": "LOW",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk",
+          "Supply Loosening",
+          "New Capacity",
+          "Price Decline Opportunity"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-25T14:23:21.553Z",
+      "updatedAt": "2026-10-25T14:23:21.553Z",
       "analyzedAt": null
     },
     {
@@ -18955,6 +18958,45 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-25T10:10:15.246Z",
       "updatedAt": "2026-10-25T10:10:15.246Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "0eb8a915ec92c6e2f6477fabc17adce432136245a77e94bcf95c40df74049aa8",
+      "commodity": "TIN",
+      "subCommodity": null,
+      "title": "Yunnan Tin Company: Higher metal prices and output drove 9M growth, alongside rising borrowings and planned smelter maintenance",
+      "summary": "Yunnan Tin Company: Higher metal prices and output drove 9M growth, alongside rising borrowings and planned smelter maintenance TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNdnAxOUF5VThqanhWcWNocDlRREtmUUk0NHNiV2xtaHcwWWJWTHZWVEk5WWtyRURhZVEwVFVxejRrQkdMelJZVl9pM1pwQURFWXNvdkpLbFB5MHhVZFpnSEdiNWlFemdUYXRDVC1uZHNWbnVlOUFJbFFoc2xBUFprSkwyRDd0R3RsSVBQZkNGVVRiNkRJVW01Q3JTamUyZ3ZEM2VpSG1jbWtUMHYzQ01tNTlURTUwUnZxUmRXUFpIMG9mYktyMVFnS0lUS1NWOHpVcFVJS3V2T2xYVFFRNThOWGVuLWlmN19PdktZLVlaTjFvMU5XSXFsQjltVUMxd1ZYejVDT0JOSzFabTdzY3hJeGtMMnVGd1RaYWNydGU5NGdzUFJaMFp4SUktbFdnbkRVNnc?oc=5",
+      "publishedAt": "2026-10-25T07:32:33.000Z",
+      "priority": 32,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRICE",
+          "SMELTER",
+          "PRODUCTION",
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Yunnan Tin Company: Higher metal prices and output drove 9M growth, alongside rising borrowings and planned smelter maintenance TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-25T14:23:21.553Z",
+      "updatedAt": "2026-10-25T14:23:21.553Z",
       "analyzedAt": null
     },
     {

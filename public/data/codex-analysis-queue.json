@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-25T10:10:15.246Z",
+  "generatedAt": "2026-10-25T14:23:21.553Z",
   "counts": {
-    "PENDING": 499,
+    "PENDING": 500,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -335,16 +335,6 @@
       "codexStatus": "PENDING",
       "source": "Semafor",
       "publishedAt": "2026-10-14T11:30:00.000Z"
-    },
-    {
-      "id": "280d28261b5ff62e3fa927531cd80d5645a6112cf62c245e3ccbebe8a682c43b",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper Prices Drop to $6.66/lb as Dollar Strengthens; Escondida Strike Looms - News and Statistics",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-09-25T13:20:44.000Z"
     },
     {
       "id": "5b38c959c0d581a137bd315bedf66e6854f9e79a35bb135c734bf71598ccf4b1",
@@ -1215,6 +1205,16 @@
       "codexStatus": "PENDING",
       "source": "Merritt Herald",
       "publishedAt": "2026-10-24T18:58:40.000Z"
+    },
+    {
+      "id": "081493851b8992815207a8c589e8f69306fc0d7c74f0db50c0c356bba5d4fc39",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "October 25 RockHawks Mining Update: Copper Strike, Thunder Bay Gold Drilling and New Mine Investment Plans",
+      "reasonForCodexReview": "Rule direction is unclear; Conflicting market signals; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "NetNewsLedger",
+      "publishedAt": "2026-10-25T13:18:50.000Z"
     },
     {
       "id": "6174f5201014289064abf7123c28f855f91062d496d73a8163334703adaf7b77",
@@ -4925,6 +4925,16 @@
       "codexStatus": "PENDING",
       "source": "BigGo Finance",
       "publishedAt": "2026-10-25T02:55:00.000Z"
+    },
+    {
+      "id": "0eb8a915ec92c6e2f6477fabc17adce432136245a77e94bcf95c40df74049aa8",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Yunnan Tin Company: Higher metal prices and output drove 9M growth, alongside rising borrowings and planned smelter maintenance",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-25T07:32:33.000Z"
     },
     {
       "id": "5c2f5278848653417b51c8b541693d2bd9dbf89bcb26ed86dd41a3df1f832f5a",
