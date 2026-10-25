@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-25T20:52:54.337Z",
+  "generatedAt": "2026-10-25T23:17:30.238Z",
   "counts": {
-    "PENDING": 492,
+    "PENDING": 491,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -2657,6 +2657,16 @@
       "publishedAt": "2026-10-25T17:33:46.000Z"
     },
     {
+      "id": "d6f557c256601732b1b04ecfe49e0a980e13073a7e4fa28634b7192b824b9d78",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Viscaria inaugurates new rail yard in Kiruna ahead of copper mine reopening",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "RAILMARKET.com",
+      "publishedAt": "2026-10-25T22:42:36.000Z"
+    },
+    {
       "id": "2ab708d6f325153c25aa0d85157aa74ef49f401bdeaa1278ad1a1975b19f225b",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4327,36 +4337,6 @@
       "publishedAt": "2026-09-30T20:52:56.000Z"
     },
     {
-      "id": "350bfcb6bec9d918b5fcad6472501044b58fef1986b3acb96b1a744849dc1051",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Changes in aluminium ingot and billet inventory before and after National Day, 2020-2026",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-09-25T23:12:14.000Z"
-    },
-    {
-      "id": "f31fb97897425a8ac36239bb0b6baf0d9196ebe5526bdb838e1ec3f8f83ca157",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Aluminium prices consolidate ahead of National Day holiday; watch for post-holiday inventory buildup and concentrated arrivals risks",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "AL Circle",
-      "publishedAt": "2026-09-25T22:52:42.000Z"
-    },
-    {
-      "id": "e6334c13fe681d0185f568fae1465b569aef9086e096e9b1675461eccfd13ce2",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Rio Tinto Logistics Secures $995M Aluminum Contract, Boosting RI",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "GuruFocus",
-      "publishedAt": "2026-09-25T22:16:34.000Z"
-    },
-    {
       "id": "50583853c78080974f36d933c9746449a93324c4c089b831fec96ffbb9c399b7",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4835,6 +4815,16 @@
       "codexStatus": "PENDING",
       "source": "finance.biggo.com",
       "publishedAt": "2026-10-25T18:15:00.000Z"
+    },
+    {
+      "id": "215a0688bc090a22d810983bf3dd7b27604bb3ed0c8bdb088abdfec9ac875136",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[구리 가격] LME 재고 증가세 둔화에 반등…27만3,750톤 기록",
+      "reasonForCodexReview": "Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "산업일보",
+      "publishedAt": "2026-10-25T22:01:10.000Z"
     },
     {
       "id": "debc4506693ee7c3f346f4ec238a67cbabac80667b4fc604436bc216b030b915",
