@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T14:17:47.629Z",
+  "generatedAt": "2026-10-26T20:10:19.991Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -2332,6 +2332,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-22T01:53:20.470Z",
       "updatedAt": "2026-10-22T01:53:20.470Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "21f2f8c745c0f168016e4e03e0688e4e48e4c7b13fdab1b8d6db47dec3013582",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Is Reopening the Panguna Copper and Gold Mine a Boon or a Bane?",
+      "summary": "Is Reopening the Panguna Copper and Gold Mine a Boon or a Bane? IR Insider",
+      "source": "IR Insider",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVXgzTmJuWnlyMHBFaEV3SDlZaDNMVFF5OEczNlpWVkprLXdmdTdpLVhtdWlsa3k0djN1Ym9GOXRQRzg1clN2d3RBS2hqcVZTeEVicFQ3bi14Rk1QNUV2cEJjZWZ1dThzcmUzcG5tYV9DaXlQNzFuMHVrSGdVZ2Vnb3hDSEpXb0U?oc=5",
+      "publishedAt": "2026-10-26T15:08:54.000Z",
+      "priority": 49,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Regulation",
+        "categories": [
+          "MINE",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Is Reopening the Panguna Copper and Gold Mine a Boon or a Bane? IR Insider",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-26T20:10:19.991Z",
+      "updatedAt": "2026-10-26T20:10:19.991Z",
       "analyzedAt": null
     },
     {
@@ -5377,6 +5414,51 @@
       "analyzedAt": null
     },
     {
+      "id": "a8211e63a3a3c90dae24d5d647c8ea7f508d0b47d7c071e9cfdb84cebe8b3834",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "티크 하이랜드밸리 구리 광산 파업: 축소된 생산능력으로 가동 지속 - 뉴스 및 통계",
+      "summary": "티크 하이랜드밸리 구리 광산 파업: 축소된 생산능력으로 가동 지속 - 뉴스 및 통계 IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQndGLUJLS0lJT0JMSDFncExMemhrUEg4QVhsRzNhN25DUm0xanRqYWVYVkI0UVRPcjM2UjVUZzNmTkdoazRtRVNoU2h0VWFvRVp3SHZmUjlWU2lRVmJSY2JtVVBDSmNmb2tNcmNtam5vMU4zWWJVaE0xdnAyaVd1QXlyTU1pY1FMWVpWZHhLdmNVdDdRNWZneHVvRHJwME51YUpDcjN3?oc=5",
+      "publishedAt": "2026-10-26T10:50:34.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "PRODUCTION",
+          "STRIKE",
+          "CAPACITY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "티크 하이랜드밸리 구리 광산 파업: 축소된 생산능력으로 가동 지속 - 뉴스 및 통계 IndexBox",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "파업"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-26T20:10:19.991Z",
+      "updatedAt": "2026-10-26T20:10:19.991Z",
+      "analyzedAt": null
+    },
+    {
       "id": "6174f5201014289064abf7123c28f855f91062d496d73a8163334703adaf7b77",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -5597,45 +5679,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-23T04:53:12.483Z",
       "updatedAt": "2026-10-23T04:53:12.483Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "16c74c49af9f0f3668b86959ea553d9665ea719966c7f00ee7f4db0a1e6995f2",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "AL Circle Analysis: Bauxite developments, alumina trade & primary aluminium market dynamics across Australia, Guinea, US & India",
-      "summary": "AL Circle Analysis: Bauxite developments, alumina trade & primary aluminium market dynamics across Australia, Guinea, US & India alcircle.com",
-      "source": "alcircle.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdUdaMUV4Y2VaS2ppNWxOek9mZXF6VURZZHAxNGFIQkUwV05OMzE0T2p6TFNKNG5GN2pvajN5VE54dm9hc1NyN3Z6OUxCM1lxQktSX1ZlNU01RmlBQWJKa0VGZGR3VUY2QzFha1N3dkpLRFQ5UVc0MGZfY2tyWWdzcWFyaTNFbC0tVk5JdTZfRmJKTEhER0psMFY2Y0dzUVhFMXBGVS1tY0NIdXMwQnJKVDBIREpyVENnOWxETkdKYWU3V0RCMHo1Q3I1eXhWT3JpUzVsWnpYTzFfMENQLWpHSGJid1NHUDI2M3N2QlRB?oc=5",
-      "publishedAt": "2026-09-26T17:03:45.000Z",
-      "priority": 40,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "TRADE"
-        ],
-        "region": "Guinea",
-        "regions": [
-          "Guinea",
-          "Australia"
-        ],
-        "summary": "AL Circle Analysis: Bauxite developments, alumina trade & primary aluminium market dynamics across Australia, Guinea, US & India alcircle.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-26T18:04:14.504Z",
-      "updatedAt": "2026-09-26T18:04:14.504Z",
       "analyzedAt": null
     },
     {
@@ -10945,6 +10988,122 @@
       "analyzedAt": null
     },
     {
+      "id": "04c6afc56cdebfcd2aa96eb323043a191f84366cef621923a3ccc7be5ea8e95e",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Price October 27 2026",
+      "summary": "Copper Price October 27 2026 Robinhood",
+      "source": "Robinhood",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkZINjRFV0YtekRqaWN2MGx4U2d3VjNwMjJ3R0lmOXFHTWlJX2pVMGlxX1NJLUppR2s3MnBxU0phT3oxM182TUZfeEdRWUxwUnNXZ1FvZE50ZzlaSkJtYjhyVEpFRFZrTTRTMWVyRUg5cVdsQUowVnJxcHZHTjFDMUJjQmljVFQ3azl0WXVZNDRxUmVsaHVyT0JLVm9PeW54SERWRA?oc=5",
+      "publishedAt": "2026-10-26T17:54:33.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Price October 27 2026 Robinhood",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-26T20:10:19.991Z",
+      "updatedAt": "2026-10-26T20:10:19.991Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "7e69f70779d45b3cb43716c13532186d6abcd03765ef048e1fb77f7a65009c2f",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "LME Week: AI demand, security, and tight copper supply",
+      "summary": "LME Week: AI demand, security, and tight copper supply S&P Global",
+      "source": "S&P Global",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZjVjbmdCSHlWdjFSZFo3TnJxUjJsX2xTeUQxM3ltejd0LWxGcVVYMlBxemE2VUNfS2tXUTVKdnJuNG5LczJ3aEYxZVl0cE4zWkpnZFpsQnRibUFpMU02Q2RuNnphWFRabHpZSW50OEw2bEFwQ00xemJJR19Bc1p2TlV1ZDV4a1dPV0tLMzZQX1RBOFhoM0ViR3Z1dXdRQXNhMDN0eUFYU0pFS00wQjJUVW55WjRNU2NXLW1vb3F3?oc=5",
+      "publishedAt": "2026-10-26T17:26:15.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "SUPPLY",
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME Week: AI demand, security, and tight copper supply S&P Global",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-26T20:10:19.991Z",
+      "updatedAt": "2026-10-26T20:10:19.991Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "3294be37919623549b22dab9be22e4dfa9a79be378b54bf22a234a011c95adda",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "【Flash | Strike Begins at Highland Valley Copper as Operations Fall to Reduced Capacity】",
+      "summary": "【Flash | Strike Begins at Highland Valley Copper as Operations Fall to Reduced Capacity】 Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc2tSNkl3aDJ1ZENvb0d5ZTVsSWtoX2dzV1hCQk1HbDkxS0t3cEg2Z252QWdFRm0yeGhPdGgxUUZzRE9BdlNkcTY4V20yWTEzUFhSSGM3MV83Rnp3WnRjVm8zMS1VVm1SRHdSMWdXZERBNmlNOFJLZmU1c19MX1gxeW9TbjJWbG1xNnBfejlOdmdPU0NpQmdjekQxTU5hazNIRTFoR0V2MC1OX3ZvcW50eWstbk95dmE3My1NVlpEUzhaSEx2TGI2cg?oc=5",
+      "publishedAt": "2026-10-26T11:33:00.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE",
+          "CAPACITY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "【Flash | Strike Begins at Highland Valley Copper as Operations Fall to Reduced Capacity】 Shanghai Metals Market",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-26T20:10:19.991Z",
+      "updatedAt": "2026-10-26T20:10:19.991Z",
+      "analyzedAt": null
+    },
+    {
       "id": "2ab708d6f325153c25aa0d85157aa74ef49f401bdeaa1278ad1a1975b19f225b",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -11819,79 +11978,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-26T14:17:47.629Z",
       "updatedAt": "2026-10-26T14:17:47.629Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "f25688e3ef74cf2362cf85fded2dec3e16357da6bf405ee766abe6f4f5e628d6",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Southern Copper (NYSE:SCCO) In Focus As Copper Extends Record Run",
-      "summary": "Southern Copper (NYSE:SCCO) In Focus As Copper Extends Record Run Kalkine Media",
-      "source": "Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOEEzc2tYSDVYdGxDNThqUE5idmdGZEczaFk0dFBucXQ2RnB2emptRG94VkVFMUlsQ1FQUS1CUGlGZW1rUmY5cXB2ek01clNUZmVfcC1Kc3Jkb1gwaklLUnhzX3o1OUw4emdsYzlrZ1RJV3VsMmVGUjJjclhUcjJhUEtSc2kxTFBSQTFKbThKVDRka2dFR2FMTHQ1UXkxcm5NTVBuQ2lGY2pzNVBCeXlxWDVuRkU?oc=5",
-      "publishedAt": "2026-09-26T16:00:00.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Southern Copper (NYSE:SCCO) In Focus As Copper Extends Record Run Kalkine Media",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-26T18:04:14.504Z",
-      "updatedAt": "2026-09-26T18:04:14.504Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "63629da64494378bc8c52bba9eb0e4f464660cb4af8913a5a2d02df6fdae43c4",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Barrick Mining (NYSE:B) Reaffirms Gold and Copper Guidance as Rebranded Miner Expands Copper Reach",
-      "summary": "Barrick Mining (NYSE:B) Reaffirms Gold and Copper Guidance as Rebranded Miner Expands Copper Reach Kalkine Media",
-      "source": "Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV3N3dHJYVVJyZXEySWNNM3lrTXRtUWZQYWhaSUhiOC0yalRYV2VIbTNIWi1MUmY3RGExRFhUT1lqOW8zaWVQRWpseDBZVEZQYnhZSE9uQzFKejRTNVlVNWxPN0d1eGgySkFlbHROSzhsQUhuVWI4LXFzdG9rQ1NkTnpNWnlNRTM4MDNJWTFYX1Y3U0FQVUlGNTZ5RlYyM0hJNU9OX2lQMzhiMG1FdlEyM3RGMDIyVUJlWTQwWFd5RUZsQzR6R3FiWjFHUHV6Y2FT?oc=5",
-      "publishedAt": "2026-09-26T15:55:00.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production Guidance",
-        "categories": [
-          "MINE",
-          "GUIDANCE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Barrick Mining (NYSE:B) Reaffirms Gold and Copper Guidance as Rebranded Miner Expands Copper Reach Kalkine Media",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-26T18:04:14.504Z",
-      "updatedAt": "2026-09-26T18:04:14.504Z",
       "analyzedAt": null
     },
     {
@@ -17355,44 +17441,6 @@
       "analyzedAt": null
     },
     {
-      "id": "935e1ae761ef571e568c016bf3f2db9dee8af7ca629e9e19c38a53867619721d",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "The Copper Surplus Mirage: Why A Tariff Rejection Could Be A Buying Opportunity",
-      "summary": "The Copper Surplus Mirage: Why A Tariff Rejection Could Be A Buying Opportunity Seeking Alpha",
-      "source": "Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHNZRWk1LXJJV3l5OHVtU19QTzBha1M0bnJZSk5XR01YbzZjYjVJOU9nUm1SYjVPa0NyX3pXdkpKLUdrdk5zZTJ4Y25MX1BRVUFNckwzSHpDdHFwRzBYN2ZXbC1PcHpjNnpLVGE2Um5zSlJya2lZUTk5cjVucGgzN043Vm5zSExkaTNvYS1NaWVpRThZNnhmdTdobm1qQmdyNF9lTklXbXFnUnR0c0JMc19vNWQ4bTJaSVFF?oc=5",
-      "publishedAt": "2026-09-26T15:28:15.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "SUPPLY",
-          "LOGISTICS",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "The Copper Surplus Mirage: Why A Tariff Rejection Could Be A Buying Opportunity Seeking Alpha",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-26T18:04:14.504Z",
-      "updatedAt": "2026-09-26T18:04:14.504Z",
-      "analyzedAt": null
-    },
-    {
       "id": "33736b99e803d5c11c3274fb89410a8d3301c161f83b1fb4c91952ae4bc12c88",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -19240,42 +19288,6 @@
         "keyEvidence": [],
         "confidence": "LOW",
         "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-26T14:17:47.629Z",
-      "updatedAt": "2026-10-26T14:17:47.629Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "63b99b40a14fa2d6df9ff848de51692558407468ae94a44fdca583b2549fd197",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Edge Copper Appoints Chris Ballard as Vice President of Exploration",
-      "summary": "Edge Copper Appoints Chris Ballard as Vice President of Exploration Junior Mining Network",
-      "source": "Junior Mining Network",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdk5fM3J2RG5Db3NwelpVeHlTaVl4RzRvNDBETE5hUVAwWlNaSE1JalRNQTkyR2NreXBMdExibjVjRE1IZWF4ZTZrdDVDcGRUYXc5TW96eGoyekZ1cE9MdDRvcWdBQzEwWGtmYkJGNEhucnE4RmFmQWtCZDQ2QzBDSmhaY3E4eXdCc2N4YVE1dDVoWFlGMmVVZXhDdmh4amtTd3RHdjhvb00zc0ZoZm4xM09YckdtMjlzZXJKeFVLMjd4UFp6Sks4dmZFYzFrQlhoT1BjNDJuSFZLOHh2NXFlQ0pvMlBHUlRqc2JkYm95TmR5OXZK?oc=5",
-      "publishedAt": "2026-10-26T12:05:05.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Edge Copper Appoints Chris Ballard as Vice President of Exploration Junior Mining Network",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
         "signals": [],
         "urgent": false
       },
