@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T23:55:11.166Z",
+  "generatedAt": "2026-10-27T05:08:54.043Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -5584,6 +5584,49 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-26T23:55:11.166Z",
       "updatedAt": "2026-10-26T23:55:11.166Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "315dc14d57e760ee7901940bbd5604e20a48888b720e0611e72d893eeadf824d",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Aruma Resources expands Tillex Project copper strike",
+      "summary": "Aruma Resources expands Tillex Project copper strike grafa.com",
+      "source": "grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdWFwd05HN3pDcUlzTW9RREl6dml6Sk1IR3p2YWhqOEZSS2VXTUFoRGpWQU92OVE0TWdXVHFXYlp4a3loMkJHakdzcmtZaXEzMUROT0hadm1FM3ZuZ1pYd1J5ZkNPUlJ4T0w1alVQMTBuczVXeGNtU0ItVGhDNFFKUGtGYW43QzVtbV9nZ0praHk3dw?oc=5",
+      "publishedAt": "2026-10-27T03:15:33.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Aruma Resources expands Tillex Project copper strike grafa.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-27T05:08:54.043Z",
+      "updatedAt": "2026-10-27T05:08:54.043Z",
       "analyzedAt": null
     },
     {
@@ -11232,6 +11275,42 @@
       "analyzedAt": null
     },
     {
+      "id": "7187dd317c824137e5894c3c1c954a01257dbc9d477f9e81243573a580decded",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "BNEF “2050년 구리 수요 44% 못 채운다”",
+      "summary": "BNEF “2050년 구리 수요 44% 못 채운다” 버핏연구소",
+      "source": "버핏연구소",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03VEFIMDNTMUlDRURpLUNKaXRUUEU2bDNVYzRmZWRHQ2FicTJRQWtXV3JyaG9CR19VcVVYRHhFbGhJOXZTUDlDZ3VBVEtFMjFYVnR0RkZwYnhNTEtIOUp4R3ln?oc=5",
+      "publishedAt": "2026-10-27T00:51:54.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BNEF “2050년 구리 수요 44% 못 채운다” 버핏연구소",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-27T05:08:54.043Z",
+      "updatedAt": "2026-10-27T05:08:54.043Z",
+      "analyzedAt": null
+    },
+    {
       "id": "2ab708d6f325153c25aa0d85157aa74ef49f401bdeaa1278ad1a1975b19f225b",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -14949,6 +15028,42 @@
       "analyzedAt": null
     },
     {
+      "id": "efd7fdd1369274132c62e726b90e984ba1fb34ad1951db057779b720610ad771",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "WEEKLY: Copper concentrate TC decli...",
+      "summary": "WEEKLY: Copper concentrate TC decli... Mysteel",
+      "source": "Mysteel",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVHNLRm50UUs0N01tb3MyZXE5ZURaQ3NlSXRLbVlTZHBxN09TTmhBSXhwSVdBb3JqTGZoQ1Jhend0MGkyRmsyWlNmOWoxWVlfQnBOeVpXdkYybkU2elNaY25QU3o0Skd1UGt1SWo1OWVGTFoxNFRIbUpNV1c0MWNGVDQ1Nm1QYUZSVVJxYWZvWlRkVXBrZWs4bFhxeEhoNTh2Uy10QnhEVHVqUktubHJpMQ?oc=5",
+      "publishedAt": "2026-10-27T02:38:23.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "WEEKLY: Copper concentrate TC decli... Mysteel",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-27T05:08:54.043Z",
+      "updatedAt": "2026-10-27T05:08:54.043Z",
+      "analyzedAt": null
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -17352,6 +17467,46 @@
       "analyzedAt": null
     },
     {
+      "id": "c294d9db4232e2ced6ad0054ec82057160bd9220863828ba38dbb699966fe153",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper nudges up on support from stockmarket rally and China demand",
+      "summary": "Copper nudges up on support from stockmarket rally and China demand TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN0xTaVJIU0RXay1iMHh4Y1pXYk03Rk9iclNaRWNDNDY5WVZPRkRid3ZxLWxLTjBHNVpxQzN2MDJ4MktRakhueXlJODZDOXV5czNVSU1fSVNTM0Z6YUNNaXRkdVNQbzNOWXVSeEhUUXYyWFpPUXJLV051VVQza3d6dUhaTHp2dGNmRXpYeS1wNGxqSVg5OExPWnVxNjFmSXBlUkQ2eWNBUG4tRHBESzQwR3FxWnl2b2NORWxaVnljYk5Mdy1JVE9qTjJUcGU0cVFWQ1dF?oc=5",
+      "publishedAt": "2026-10-27T04:13:00.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND",
+          "LOGISTICS",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Copper nudges up on support from stockmarket rally and China demand TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-27T05:08:54.043Z",
+      "updatedAt": "2026-10-27T05:08:54.043Z",
+      "analyzedAt": null
+    },
+    {
       "id": "dd02f149909f96f4db9f9079752ef2e4f84cd9fc8233648ec7c55c431a100ef3",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -17701,42 +17856,6 @@
         "region": "Unclear",
         "regions": [],
         "summary": "“광산에서 마을까지”…스웨덴 팔룬에 남은 구리의 흔적 비건뉴스",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-27T08:13:14.766Z",
-      "updatedAt": "2026-09-27T08:13:14.766Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "6afef07b9a30e6977e5ad4f1c46da1355d8e38504bc843b08b74c31f10539f06",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "노르웨이 뢰로스 목조 거리에서 만나는 구리 제련의 흔적",
-      "summary": "노르웨이 뢰로스 목조 거리에서 만나는 구리 제련의 흔적 비건뉴스",
-      "source": "비건뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BY3dwZjRrZEFiVDI1a25CbjMzNFZXcGFESFlhMVdsVi12LW4zRDhadWE2V24zdGFNaHY0Q25QUDh5TjE5NjJ1V1htWVhzZlpXZE9HZE0zaHp5WkxDX25uM0ZNck80dw?oc=5",
-      "publishedAt": "2026-09-27T05:05:41.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
-        "categories": [
-          "SMELTER"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "노르웨이 뢰로스 목조 거리에서 만나는 구리 제련의 흔적 비건뉴스",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -19205,115 +19324,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-26T07:03:16.250Z",
       "updatedAt": "2026-10-26T14:17:47.629Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "652d9ad2b2e74a99de77d1783f76da336ed8dcff10fc1434bf8b9a85b0f0a3cb",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Press Metal faces softer 2H smelting margins as aluminium supply crunch eases — HLIB Research",
-      "summary": "Press Metal faces softer 2H smelting margins as aluminium supply crunch eases — HLIB Research The Edge Malaysia",
-      "source": "The Edge Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iNXNjcHhJMXN6bUV3VkJGTEU2MTRDalZzUG5CbUF0S0ZDUTMwZ3UyaEl2enpnVTIwam5zMTBpa2E4b19MdDI1WXhMSnB0czRl?oc=5",
-      "publishedAt": "2026-10-26T03:11:34.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "SMELTER"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Press Metal faces softer 2H smelting margins as aluminium supply crunch eases — HLIB Research The Edge Malaysia",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-26T07:03:16.250Z",
-      "updatedAt": "2026-10-26T07:03:16.250Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "63f1726797506b33ca3a20022917d9532f8fdad69e65601dfbb67a6a0c815e07",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Will Higher Q3 Earnings Change Southern Copper Stock Narrative",
-      "summary": "Will Higher Q3 Earnings Change Southern Copper Stock Narrative Simply Wall Street",
-      "source": "Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNemx4el8waUN4c0xWS2RyTDczZXlrbFhfN19ucF9pMWpoQVgyV2ZXSmpHOW9idlo2MkhRNFNjb1NBTWVsdzhUVGZMS0lOU1FPV3lYZm9USlBtYTRndjVsdkhkNXR5S3JSbWE4ZDUteXNHMm9wUnlHalFqNXkzRnZyWjhodWluU0RSMC1ZbDB2QlJ0SVF6RE8tT2xzYlFXVVFmQ3djSV9yemNlZHpvczVISTVGeVY4c0k2WVVJVXRreUhzeVUtNFNnVUNoN0hEZ9IB0wFBVV95cUxNR054S0w4OUZlUlVmSWttR09VVU04eFdEYTJqd0dzel9mUWQyaDd1SXNnOXFReElteHE1RThZSDE3T0xoUGRkSDloeWhOcE00V2xvWUhScXh4NmxWbEREY0IyYkN2RlBZRWMydU1XOFNya3lmMmhCNzNUdXV5SDgycU9FU0x4dGVJV0xra2VMSTFQY2dVRU9KZG1peWQteWdSVUhxQUlIZU9QMFdWd014YS1pb3lvNUhBLXBMRGFQYnVmdkVqSGY1MThGTUg4ckxwREx3?oc=5",
-      "publishedAt": "2026-10-26T02:31:21.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Will Higher Q3 Earnings Change Southern Copper Stock Narrative Simply Wall Street",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-26T07:03:16.250Z",
-      "updatedAt": "2026-10-26T07:03:16.250Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "493526690e1727fbfdcae13471dc6bde4cbee5a5a40977a3cb8541474407e7b7",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "October 26, 2026 SMM Daily Inventory of Aluminum Billet [SMM Data]",
-      "summary": "October 26, 2026 SMM Daily Inventory of Aluminum Billet [SMM Data] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWXNwcEhacUszM2l3VUMySnVVbFZLZFltMGFTZDcxQndpaDZSYW5xbXZFdVczV0NSbzdCLXRPMEo4S1A0M1F5dkVvaWtKMWlsWXFUSzZ2REJIa3h1Z2U3ZUJUblZSOUJoVG1RV19oZndaVHJXRXltRE5IaWItU0RuVlNLZDJWMEhkZF9hOEM1VDZLY0kzZDQ3UlFkaE1MdFY3SzgxWXZZcVRocGZ3REh0UA?oc=5",
-      "publishedAt": "2026-10-26T01:34:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Inventory",
-        "categories": [
-          "INVENTORY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "October 26, 2026 SMM Daily Inventory of Aluminum Billet [SMM Data] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-26T07:03:16.250Z",
-      "updatedAt": "2026-10-26T07:03:16.250Z",
       "analyzedAt": null
     }
   ]
