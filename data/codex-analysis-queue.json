@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T20:43:17.415Z",
+  "generatedAt": "2026-10-28T00:03:31.036Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -1554,6 +1554,52 @@
       "analyzedAt": null
     },
     {
+      "id": "1ddaec059f266a79cdda09453c5e13dee5c541c38c4b915aed89051957fd29e3",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "[SMM Analysis] Countries Race to Retain Copper Scrap—Could Export Restrictions Undermine Domestic Recycling?",
+      "summary": "[SMM Analysis] Countries Race to Retain Copper Scrap—Could Export Restrictions Undermine Domestic Recycling? Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWFJiNW8tcVc3UldnUFdKUEJCNFNmZGJ5d1JaMk5leWZZRjZtOGlrQjZKVFlXQ1QyX3h6MWdGbzU1TlBtWTk2SWNJSmlZdGZVeG5QcFlFT1V3QXdEU0dXUGdRTUJPeGVCYVlzWXNDU2dfbk96dkdEd1p3aUNOR3JMaExRcUhISVpreVIxMTRjOGY2U0xNNFJaRjBmTWs2MU9jaWt3bjg0YXRqRU9PYWhITTRVc3NtRjVBcTU0TW05clNwVWZvaE1HbmN5djlIQ1VlUFZwU1ZSVEljTEhpUDlFb0NVOA?oc=5",
+      "publishedAt": "2026-10-27T16:15:00.000Z",
+      "priority": 57,
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Regulation",
+        "categories": [
+          "MINE",
+          "LOGISTICS",
+          "EXPORT",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[SMM Analysis] Countries Race to Retain Copper Scrap—Could Export Restrictions Undermine Domestic Recycling? Shanghai Metals Market",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "export restriction"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk",
+          "Export Restriction"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-28T00:03:31.036Z",
+      "updatedAt": "2026-10-28T00:03:31.036Z",
+      "analyzedAt": null
+    },
+    {
       "id": "3a2872b7f3a579fef0a6864d4e5e08f766a38b3e1e26c0bb717f01abda4aae45",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -2444,6 +2490,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-27T20:43:17.415Z",
       "updatedAt": "2026-10-27T20:43:17.415Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f6ce6ad2a3bde9912d4d053d6f5a35cbcd74329723ebd7e4d2a7f85e18bf4b9f",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "캐나다산 알루미늄에 50% 관세… 포드 원자재 비용 최대 20억달러 증가 전망",
+      "summary": "캐나다산 알루미늄에 50% 관세… 포드 원자재 비용 최대 20억달러 증가 전망 핀포인트뉴스",
+      "source": "핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMeXFvZDZGQUpFS0tFSEhwajJDZHFBMnJXLWVCVnNoMUlUNkJPX0djZE9LTnR2VnJ0dnlPZzhjSlZFWDZsLTN5bUh4RnFhTFV2YlcxcU8tUjVReFJaLUtXX0tHNW5lZVdLX2pXaHdPdGFGTXfSAXdBVV95cUxOUGh6dlZ3S0NsaE8zZ2tCVUtVU1BJZlRldWxCRW5IQnptLUJMUEVGUFRtWHczS3hDMHBCOVE2bWFudXZ0NmZuSm9IZ0ZVeWxMV2tOX3hVNkQ2bWNFQVdHY1NfZEhnRWl2SWltLU1nSTRDeXlDcGZGSQ?oc=5",
+      "publishedAt": "2026-10-27T22:49:20.000Z",
+      "priority": 49,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "TARIFF",
+          "FX"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "캐나다산 알루미늄에 50% 관세… 포드 원자재 비용 최대 20억달러 증가 전망 핀포인트뉴스",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-28T00:03:31.036Z",
+      "updatedAt": "2026-10-28T00:03:31.036Z",
       "analyzedAt": null
     },
     {
@@ -7190,42 +7273,6 @@
       "analyzedAt": null
     },
     {
-      "id": "a6a3cb4f1f00a02a868e2caf1fe1f0448a64c719e2773dd358692a7d3743a6c9",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "국표원, 분광 분석법 용어 KS 폐지 및 알루미늄 제련 분석 표준 제·개정",
-      "summary": "국표원, 분광 분석법 용어 KS 폐지 및 알루미늄 제련 분석 표준 제·개정 철강금속신문",
-      "source": "철강금속신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmTlQ3ZUVJMVI3djFwYkhza3lDR2U3bWVFU19JMDgxTkw4cEFnMVEtNGxHQmRMR3JzTzI3dWo1VU1CenNDMW9uVlpTWms4MmlaN1dEa2NIMm9YWDVsQk5ZNUtscHRxNUVRaUE?oc=5",
-      "publishedAt": "2026-09-28T00:02:33.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
-        "categories": [
-          "SMELTER"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "국표원, 분광 분석법 용어 KS 폐지 및 알루미늄 제련 분석 표준 제·개정 철강금속신문",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-28T05:26:58.736Z",
-      "updatedAt": "2026-09-28T05:26:58.736Z",
-      "analyzedAt": null
-    },
-    {
       "id": "563de777c7a98acaa89984901ceca578ffaa21f9ee34244bf64b0cc08b34b8ec",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -11638,18 +11685,18 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-27T20:43:17.415Z",
-      "updatedAt": "2026-10-27T20:43:17.415Z",
+      "updatedAt": "2026-10-28T00:03:31.036Z",
       "analyzedAt": null
     },
     {
-      "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
+      "id": "fbd8ca0b157fc0e90ef84522797588773a27813bd68da4a46edfdb3124f42f3a",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "FCX: Grasberg’s recovery and rising copper demand underpin volume growth, with costs and execution still in focus",
-      "summary": "FCX: Grasberg’s recovery and rising copper demand underpin volume growth, with costs and execution still in focus TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPSnlweThCWlBTWmtmYXJCNFdILXBHNk5HdjlrRVRYNTZ2dWRFOU8tQlpVM1RKZWFXdEtCdXdYeEpHejlWb24xVm1wMkd1MF94eFFGaVMtd0IzREVYc3pMc29CamZ1QjhaM2FUREg5bFJRT1ZSSWIxWlc5dVpOVWFFM3RfcHFnaDBOd3hySUs4Y1NVaURrR0FtcTFSeF84N0M5cmRndWR1cVBaU0I5MjB6dzVFQXljMFdCTlhzRlowOE5EMDJXeHM0ZFZFckwyTnJmVlU3Q1pEZ2xmcDR4M29SN0dPeDBrdVItTGNpWVVqa2U4bzJqd0RNalc0d2xvQk9qOGs2QksyU0xfM3JZYWgzaDkyd3YwNkN5c1JrSDBOYU1mNXVJ?oc=5",
-      "publishedAt": "2026-10-27T17:17:34.000Z",
+      "title": "[진단] AI가 부른 구리 수요… 풍산, 승부수는 고부가 동합금",
+      "summary": "[진단] AI가 부른 구리 수요… 풍산, 승부수는 고부가 동합금 이코노미톡뉴스",
+      "source": "이코노미톡뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02aE5uU2VIa21aZUZIT1ExNi1pVGdwVW5DZHFLZTU5UGExTjJZNnFRZTFweFJEcWRaRWhNa1EwZHl2R19SZmxzUmdBR2c2TVNaN2FWV3B2Wjc1Ulhtc1VNSXBTcnUzbnNNY3c4VQ?oc=5",
+      "publishedAt": "2026-10-27T21:30:00.000Z",
       "priority": 38,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
@@ -11662,7 +11709,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "FCX: Grasberg’s recovery and rising copper demand underpin volume growth, with costs and execution still in focus TradingView",
+        "summary": "[진단] AI가 부른 구리 수요… 풍산, 승부수는 고부가 동합금 이코노미톡뉴스",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -11673,8 +11720,8 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-10-27T20:43:17.415Z",
-      "updatedAt": "2026-10-27T20:43:17.415Z",
+      "queuedAt": "2026-10-28T00:03:31.036Z",
+      "updatedAt": "2026-10-28T00:03:31.036Z",
       "analyzedAt": null
     },
     {
@@ -12552,45 +12599,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-26T14:17:47.629Z",
       "updatedAt": "2026-10-26T14:17:47.629Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "1f5381bbdbec86249c9e8d42a6f4883be5a48001f60880b5df0d9554f5ed675b",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Capstone Copper to spend $3B in Chile to double copper production, ministry says",
-      "summary": "Capstone Copper to spend $3B in Chile to double copper production, ministry says TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON1FENE96U2ZQS29DU04xc2tjMGJkcGwwdkF2cXE3aXZqa25NYTA0Yy1KOEhCWUs2OG1Eenh0ejlWMzBUdUtEVFI0SzFsLUxzSV9nSjNJdlZNTkUwS25lQ3pzOXAtM1JuOG5wTzQ0ZzlxQWtueEhwODNCLW1LZXdIaUw4YVE4aXd6eGtuSmQ2dUhSajcxOThqSkpyU3ZqckROY1F6XzZLMWcyNkVibFpRdE02bUhIamRJbE42WDE1aVktMDBBRGsxQTBmSG04OW1zelVFaDlHNEI?oc=5",
-      "publishedAt": "2026-10-27T15:48:56.000Z",
-      "priority": 37,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Government Policy",
-        "categories": [
-          "PRODUCTION",
-          "POLICY"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Capstone Copper to spend $3B in Chile to double copper production, ministry says TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-27T20:43:17.415Z",
-      "updatedAt": "2026-10-27T20:43:17.415Z",
       "analyzedAt": null
     },
     {
@@ -17917,44 +17925,6 @@
       "analyzedAt": null
     },
     {
-      "id": "45be514e0584bf45c5ffd71603739a324cdaabb7dab5d40a8ffa3eb884387738",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Capstone Copper Plans US$3 Billion Chile Investment to Double Output by 2031",
-      "summary": "Capstone Copper Plans US$3 Billion Chile Investment to Double Output by 2031 Investing News Network",
-      "source": "Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kQ3ZOUjNqOEtxWG43NUNscGNnUFpYSDhOOHItWVprUkh0cFNyVVZ6MHBSV2JBVUUtMF9sXzVNMmw1OGtZaDdFTVBNRHprWlh1TjlZYVdtRnlmQUdHQngtRUhkUnljX05JQzBz?oc=5",
-      "publishedAt": "2026-10-27T17:13:02.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Capstone Copper Plans US$3 Billion Chile Investment to Double Output by 2031 Investing News Network",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-27T20:43:17.415Z",
-      "updatedAt": "2026-10-27T20:43:17.415Z",
-      "analyzedAt": null
-    },
-    {
       "id": "ef415aa3c03eaac2ed6a84328fd0e84339bb26c5c6ab5de580c5d3e71dbb6cea",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -17987,7 +17957,43 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-27T20:43:17.415Z",
-      "updatedAt": "2026-10-27T20:43:17.415Z",
+      "updatedAt": "2026-10-28T00:03:31.036Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "FCX: Grasberg’s recovery and rising copper demand underpin volume growth, with costs and execution still in focus",
+      "summary": "FCX: Grasberg’s recovery and rising copper demand underpin volume growth, with costs and execution still in focus TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPSnlweThCWlBTWmtmYXJCNFdILXBHNk5HdjlrRVRYNTZ2dWRFOU8tQlpVM1RKZWFXdEtCdXdYeEpHejlWb24xVm1wMkd1MF94eFFGaVMtd0IzREVYc3pMc29CamZ1QjhaM2FUREg5bFJRT1ZSSWIxWlc5dVpOVWFFM3RfcHFnaDBOd3hySUs4Y1NVaURrR0FtcTFSeF84N0M5cmRndWR1cVBaU0I5MjB6dzVFQXljMFdCTlhzRlowOE5EMDJXeHM0ZFZFckwyTnJmVlU3Q1pEZ2xmcDR4M29SN0dPeDBrdVItTGNpWVVqa2U4bzJqd0RNalc0d2xvQk9qOGs2QksyU0xfM3JZYWgzaDkyd3YwNkN5c1JrSDBOYU1mNXVJ?oc=5",
+      "publishedAt": "2026-10-27T17:17:34.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "FCX: Grasberg’s recovery and rising copper demand underpin volume growth, with costs and execution still in focus TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-27T20:43:17.415Z",
+      "updatedAt": "2026-10-28T00:03:31.036Z",
       "analyzedAt": null
     },
     {
@@ -18205,42 +18211,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-01T01:35:57.518Z",
       "updatedAt": "2026-10-01T07:49:30.192Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "70bccabe5597655859ce7a4f10ca0d49dacd2f29af6d6aca695dc299df593784",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Dryblower: Australia's copper boom is getting louder",
-      "summary": "Dryblower: Australia's copper boom is getting louder Mining News Net",
-      "source": "Mining News Net",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd2xldDBBdGVUNGE4a0loeDF5Z1Q1cWVSRkVlMDNZV1FwV3R1QVd1a3RXUmswejNGa1pSZzFiVURJTmRKTms2d0NmZWEzWGlYQXdTZ21Pc1dQeG1oVzVwUl91Rm9EcWlZckpxYXJHbE1taUY2Z1hFU0RHZWlQRnc0UGZ2eHZURllMcUVVdUljRzMyb2FNa2c3Y2VodXdHcGJiQ0JvYUp2cTdkVk1N?oc=5",
-      "publishedAt": "2026-09-27T23:15:37.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Dryblower: Australia's copper boom is getting louder Mining News Net",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-27T23:59:47.736Z",
-      "updatedAt": "2026-09-27T23:59:47.736Z",
       "analyzedAt": null
     },
     {
@@ -19329,6 +19299,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-25T20:52:54.337Z",
       "updatedAt": "2026-10-25T20:52:54.337Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "2c147c09ce5996ccbd67667788e340ddd5961f7f9565f6b0ebf4b7ecb5966851",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Alex drills high-grade copper in SE Alaska",
+      "summary": "Alex drills high-grade copper in SE Alaska North of 60 Mining News",
+      "source": "North of 60 Mining News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeVV3RTlFWHhWQVhJc0RmZDIyaWQyTWRHOWszTGJySlBwbDdUTlBmQUhpREN0Z0trSjQ5ajRldFVHazVicGUzeVhHeU16M3B0SDFuWUNaNlhOS0I2WVFXdGRKZlROMHpkUGpTVTVHa3hCM1Y3cGY3ckNwYzJXUXRtTUtPc1ZpaXdBTkdfZXktLThDb1RFOTZCdDNGX1JVY2tkZFdQbWJHNjBSTV9HbU5jOXdfTlA?oc=5",
+      "publishedAt": "2026-10-27T23:15:51.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Alex drills high-grade copper in SE Alaska North of 60 Mining News",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-28T00:03:31.036Z",
+      "updatedAt": "2026-10-28T00:03:31.036Z",
       "analyzedAt": null
     }
   ]
