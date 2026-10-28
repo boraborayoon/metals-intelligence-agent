@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T17:25:35.520Z",
+  "generatedAt": "2026-10-28T21:54:12.945Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -2527,6 +2527,44 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-28T11:41:02.503Z",
       "updatedAt": "2026-10-28T11:41:02.503Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "5842478135c151dfee0bceeea384f4b11cbdd005b705972f6fd953c066c26e99",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Midnight Sun Mining reports major expansion of Dumbwa copper system in Zambia",
+      "summary": "Midnight Sun Mining reports major expansion of Dumbwa copper system in Zambia Proactive financial news",
+      "source": "Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbzRjX2VhOXM0X1VXS1JOVFp2M2FBdTlTNEFZdk8xdUFhSGdKVG1KMXpEWFE3SGhQek5oVmVaTXhYUUtWaEFhZ0dlell1R3dGc3M5NUFJWk1jb0pwTkNxZm4wcWdYVW82cDdWanNsTExUTDdSWGZzU0VEZ1RWM3JrU1VGTVJaZHRhVnJyOEp0Y2JYVGpnRXpzLVdsU3liTkdUTEZhM3N5SDM3Y0duWW5haDU3QVduYnk0TnBZTjM0ekdHbFZDWU02ZlFGQkRlbmNUaElmNlRNWQ?oc=5",
+      "publishedAt": "2026-10-28T19:15:43.000Z",
+      "priority": 49,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Capacity",
+        "categories": [
+          "MINE",
+          "LOGISTICS",
+          "CAPACITY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Midnight Sun Mining reports major expansion of Dumbwa copper system in Zambia Proactive financial news",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-28T21:54:12.945Z",
+      "updatedAt": "2026-10-28T21:54:12.945Z",
       "analyzedAt": null
     },
     {
@@ -5711,6 +5749,49 @@
       "analyzedAt": null
     },
     {
+      "id": "852e665ead50fbf89f6bccf11be4f8e174fdd211ba3656f5993aa180040477ca",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Teck Resources, 파업 변수 속 실적 시험대…구리값 상승 효과 주목",
+      "summary": "Teck Resources, 파업 변수 속 실적 시험대…구리값 상승 효과 주목 Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42RDB2WGtFc1dBa2lvakw3ZDBfdHBWbEtRenRwQi1PTlNLZ09sVUJfN2tIaXY4ZWlkWVVjUmhaQ19LN1NHZFphZ3RNLTB0OVFhRWZ1dTQ1ZXQtSmk4ektkVWFucjNNamFaaGVV?oc=5",
+      "publishedAt": "2026-10-28T18:17:00.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE",
+          "EARNINGS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Teck Resources, 파업 변수 속 실적 시험대…구리값 상승 효과 주목 Investing.com 한국어",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "파업"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-28T21:54:12.945Z",
+      "updatedAt": "2026-10-28T21:54:12.945Z",
+      "analyzedAt": null
+    },
+    {
       "id": "6174f5201014289064abf7123c28f855f91062d496d73a8163334703adaf7b77",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -7121,114 +7202,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-28T17:25:35.520Z",
       "updatedAt": "2026-10-28T17:25:35.520Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "fe282d445a4706365fb51b8c4ccef48439028d7709fbe2908aa63472bdd2549c",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Troilus lands $850M debt commitment for Quebec gold-copper mine",
-      "summary": "Troilus lands $850M debt commitment for Quebec gold-copper mine Dealroom.co",
-      "source": "Dealroom.co",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOem5XclZvNGdvOVBWNlhyeVZVdHVmc2R5dTE5UW5tNnpkcXVEdW1MOXoyRmNxdzdMMVhadFJvQTFEVzFjeXhrVEd6dmtnTEVfODBhOEZfekZKclBLcEZiSFdxaU1YdDhUQUxwemhTcFpOVkxXR2xweFNJV2ZUUEFvTlFnTlpDc2xmdDFDRnFQQlFwRWdlQkp6WUFHdm4?oc=5",
-      "publishedAt": "2026-09-28T19:53:13.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Troilus lands $850M debt commitment for Quebec gold-copper mine Dealroom.co",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-28T23:57:39.179Z",
-      "updatedAt": "2026-09-28T23:57:39.179Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "2dec1c264081d60217ca041b1e92366cdad487169eb770ff8d3b890c8f36099f",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Troilus nails down US$850 million for gold-copper mine redevelopment",
-      "summary": "Troilus nails down US$850 million for gold-copper mine redevelopment Canadian Mining Journal",
-      "source": "Canadian Mining Journal",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGNnWUFkU0dTaU5wUjRLSkNMaW9fdG4taklqbk5DbUJodS1oVVlVT1U5WkxVUEFqQ1Z1bmRpX3QtMDhLUVdSMGU1NXN3R1VEUm1aNTFreGpzNDRkS2k4aUxkbE5KcWgxSEY4c1N0M0U3NXF4SkZPZm5acFVMbEhFZF9TWVh3QWxBYkFWNlJsemhZbFlkbW5hOXI1ZUdLTXFmUUpWM3RfM09IMjNiemZtbQ?oc=5",
-      "publishedAt": "2026-09-28T19:16:06.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Troilus nails down US$850 million for gold-copper mine redevelopment Canadian Mining Journal",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-28T23:57:39.179Z",
-      "updatedAt": "2026-09-28T23:57:39.179Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "e40cf89f0cdfa67639c92cd4768200c8f8ea8327d1a27feec72ac4465ffd4090",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Price September 29 2026",
-      "summary": "Copper Price September 29 2026 Robinhood",
-      "source": "Robinhood",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUNGdnJYREh1WTFPNmp6Z0hvaV9EczFobVZQazJpUk5KX0lqOHNsVHlrNEhNbVJSV0R4bkFVemFYOEd5QXFCRURXWHlQT0JBelhXa3FpQmZnU08zWWlzTDNEaU51eVp0ci12R255Q0huV05VaUJ6TjJmV0FyMXFob3V6cnROOHNJZldYM2JtWFd4MkJlWHlPdnN0VFJMRnFhZ2JmanBubw?oc=5",
-      "publishedAt": "2026-09-28T18:25:01.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Price September 29 2026 Robinhood",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-28T23:57:39.179Z",
-      "updatedAt": "2026-09-28T23:57:39.179Z",
       "analyzedAt": null
     },
     {
@@ -15327,6 +15300,42 @@
       "analyzedAt": null
     },
     {
+      "id": "ab6ab9c0a0d91a58e8613d0efa4e11c32abc846c7f1e0faedea1656f38efc9ab",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Video - CEO Clips: Selkirk Copper: Reviving Yukon's Minto Mine with Strong Copper Economics",
+      "summary": "Video - CEO Clips: Selkirk Copper: Reviving Yukon's Minto Mine with Strong Copper Economics www.marketscreener.com",
+      "source": "www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZy1aU0JiZXR1OW5iaFVMY1J4dHFDZ2k4MkNnTUtOMl9meHpua3pmV2dQaUR0MmdsUGFkTEVrVXYyOHEyVG5WVDNwOG05ek10ZEhQYWc3NjFYSmFvNHdrUHpyWkxqeUxnQTMwTkZSa1laMUxrM3hQZExKcU9mekRxN3l6eU5SLWR6X3A5azhERmx2MC00RFB4TTgzb3dTMTFBWEhEaDVXYnJnQV9IVjN2RU1rNnVNY2c4MkhNMEhnTS1vc3N1MGVQTk5TeXNrN282Sjd2emxPVQ?oc=5",
+      "publishedAt": "2026-10-28T21:07:04.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Video - CEO Clips: Selkirk Copper: Reviving Yukon's Minto Mine with Strong Copper Economics www.marketscreener.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-28T21:54:12.945Z",
+      "updatedAt": "2026-10-28T21:54:12.945Z",
+      "analyzedAt": null
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -19087,42 +19096,6 @@
       "analyzedAt": null
     },
     {
-      "id": "3a0112cd4f8bdcfca0e255c76f868f83ad22890a6ccd04c6ea13886bf15da5e3",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Leocor Mining Announces Results of VTEM airborne EM survey at Copper Creek, Baie Verte, Newfoundland",
-      "summary": "Leocor Mining Announces Results of VTEM airborne EM survey at Copper Creek, Baie Verte, Newfoundland Investing News Network",
-      "source": "Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnZoU1UwczMzUU8yOHJIUXlpU1VYSG9BaUNmVUxIWWRvemVabXpGbzloRG9URVBMQ0NUNnZpS0RZREVnSzFBaFRiOFFacDF2d0c4NVd0UnY2WDUzb0g0Qk1LUWFYNXFWVTNCTW9QUnJVck9aZFZEb0E5dl9Hcjg4Y0hjcmNZQTdyZnZtSnRIZUhHd05lWWNIWmZHLWFYOVJCVk50YmRRUGltdzNtZVdwNTZ4Q240d0ZGbXhwZGJ2cE00cnc?oc=5",
-      "publishedAt": "2026-10-28T13:30:08.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Leocor Mining Announces Results of VTEM airborne EM survey at Copper Creek, Baie Verte, Newfoundland Investing News Network",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-28T17:25:35.520Z",
-      "updatedAt": "2026-10-28T17:25:35.520Z",
-      "analyzedAt": null
-    },
-    {
       "id": "344856104daadd24dfd0dee0bef6c11db1fb068e7c22c888eac45145afaf9734",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -19186,78 +19159,6 @@
         "keyEvidence": [],
         "confidence": "LOW",
         "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-28T17:25:35.520Z",
-      "updatedAt": "2026-10-28T17:25:35.520Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "c256482c9acdc16121a063873bfc886441f363c1d419d2cebe387ae8bf9a1eeb",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Here is What to Know Beyond Why Southern Copper Corporation (SCCO) is a Trending Stock",
-      "summary": "Here is What to Know Beyond Why Southern Copper Corporation (SCCO) is a Trending Stock Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb1ZBeTExVXBPeXBfUEVMMktBYjVSOWJLaVdjSGp2aFZoUU5HTFFERGtZZUtabW5zVm1kMTQtTXN5X1JzUHZEa0p3emxUUlhkdEtvYlhTQlRsWE5FQ193X0ZpeF9QZHFyTEJaVnBsczlWSndZX0lENFJhYkZ4YkxQWVJsbmtEa0NOeE9lUUZ3bGNGQ3FCSHg3ckllUTI?oc=5",
-      "publishedAt": "2026-10-28T12:00:04.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Here is What to Know Beyond Why Southern Copper Corporation (SCCO) is a Trending Stock Yahoo Finance",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-28T17:25:35.520Z",
-      "updatedAt": "2026-10-28T17:25:35.520Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "c65288e02b5799ba4db5323bf36640b8984d6bcc0d33bbb61dc3abc33487c375",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "GRAVITA: Q2 growth and copper gains offset lead sourcing pressure as capacity and procurement expand",
-      "summary": "GRAVITA: Q2 growth and copper gains offset lead sourcing pressure as capacity and procurement expand TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNaWI2aDN1cGhvVzZJNTBzT1VGc3VJeDAyclo3NFp3LVdnVnlxSUloRFMwam9BbWZUa3Z1UUdzRzl1QWhfcnh6S2lQemUzc2N4YVFueWM0SXFidnppQzBXNjBBbjVqa0NoZXZFV051UHlCcEJGY1kxa3B6R0NrMklpcjVRdEN2UnJYQzBOd0RHRmtZZElDUXVHV3l6U3EwSWVCaTFZMFFLalFMeVdXYlVJNUdhTmFqTVNCVGtpV2NPNXF5X051WGNVR0NXTzU1Qi1YWG14M3NrbFk2LXNTUU8xdTE4VFprMzJLazFvWXZOVzVnaXpPVmFPbEYyUWRhSmo1LV9nYUJnNFEyc2JOVTA0X0twcU8?oc=5",
-      "publishedAt": "2026-10-28T11:52:29.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Capacity",
-        "categories": [
-          "CAPACITY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "GRAVITA: Q2 growth and copper gains offset lead sourcing pressure as capacity and procurement expand TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
         "signals": [],
         "urgent": false
       },
@@ -19339,6 +19240,118 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-28T17:25:35.520Z",
       "updatedAt": "2026-10-28T17:25:35.520Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "162566c76ac4c98c243c4452a4c5d845ef25f984f585fcf4f41456104e6b3a4d",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Canadian mining giant pays $504M for Arizona copper properties",
+      "summary": "Canadian mining giant pays $504M for Arizona copper properties The Business Journals",
+      "source": "The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3JBSUd6T25HMnhVWV95VW5iSGZtaldaXzM5RWdyT1BEd1V0NjF2ZU9kcVpLSjZBT1NWdFpHOW5aQW9nbU1aQWo0S3c4Qldiem1CY2hKam5UVGxvNGdEQzBSdE1MZ2dvenF1ekEtMUc5MS1Dc1Fuclp4NEFEbkJ1elpZM3NZeWJaVWpkeUhKb0dBdlRMaE5QUQ?oc=5",
+      "publishedAt": "2026-10-28T21:37:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Canadian mining giant pays $504M for Arizona copper properties The Business Journals",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-28T21:54:12.945Z",
+      "updatedAt": "2026-10-28T21:54:12.945Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f6334a9378cd99be55424355a948e3c86db9c84a2ffc8ec9bdae7f9ac98fde96",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper miner First Quantum beats Q3 profit estimates on higher production, prices; output guidance narrowed",
+      "summary": "Copper miner First Quantum beats Q3 profit estimates on higher production, prices; output guidance narrowed TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZk1qNjRPdk43ZmdMVm1nOTlkdkN5eWNJbWs0SUhxY3Y3OUVoN1luZjlDUTA3ellzMng0YlluWUJ2d1U5R0JRQzBYc1BvU1FDTFpQaVg4akNNV29lVTNseXpkcmM0a0xfeGtIcno2VnJHb3JkZW9hRDBuV2tXRk92NXFVcmx2N0xzTXdHMkowQTlFUzBhNzR6cWlaRVBReUlyNi14bTZNd2pLUUhqTHdvT2FCWXpQV2FCX1IzZnVtU3g2cnV4djQ1Z1VnMWRQZF9IeDByUDlnUzJrYk9JdGhyVEptRWJYLWQyOUJvMUdic0dHQ2k3RWZyUV9vOHBzZTNndS1SaDZR?oc=5",
+      "publishedAt": "2026-10-28T21:10:06.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production Guidance",
+        "categories": [
+          "PRICE",
+          "MINE",
+          "PRODUCTION",
+          "EARNINGS",
+          "GUIDANCE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper miner First Quantum beats Q3 profit estimates on higher production, prices; output guidance narrowed TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-28T21:54:12.945Z",
+      "updatedAt": "2026-10-28T21:54:12.945Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "c1337b409f6c645383f45a5265d4cedb44790045e6b3b62ba4f5d1baaf84f72e",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Mining Forum video: Toto Finance pitches new route to copper funding",
+      "summary": "Mining Forum video: Toto Finance pitches new route to copper funding The Northern Miner",
+      "source": "The Northern Miner",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkFYZlpIZlJWdlBLZV9uWmxqZW1DQ2xiQmcyb2k0X2VCNVBqWURzUDlXRjZLRlRDaU02TXVEbTZBWEF1a0xqNUdIR2NoUlBTbC1aUnRsM3Q5WEw4QU1UT2hsNk92TEZvVVl0MF9GeEFCMXl4bVBoZ0NJakVZNmFhM0d4MVYxZjNhSlBjV2hSOGVoVS1pVTlHbzNGaW1wNTA4cGNzaEQ1cWhYSmF5M1QxZUU3RE0?oc=5",
+      "publishedAt": "2026-10-28T19:21:19.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Mining Forum video: Toto Finance pitches new route to copper funding The Northern Miner",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-28T21:54:12.945Z",
+      "updatedAt": "2026-10-28T21:54:12.945Z",
       "analyzedAt": null
     }
   ]
