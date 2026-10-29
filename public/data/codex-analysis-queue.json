@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T01:48:35.661Z",
+  "generatedAt": "2026-10-29T08:31:13.993Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -485,6 +485,16 @@
       "codexStatus": "PENDING",
       "source": "Investing.com",
       "publishedAt": "2026-10-20T00:25:57.000Z"
+    },
+    {
+      "id": "683e1d070926d0c0c8b48cf3e07186d1f7c5317604e7d5671b56a67bad134dc7",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Jiangxi Copper Q3 Profit Falls 47% QoQ; Bank of America Securities Still Rates Buy, H-Share Target Price HK$50",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "BigGo Finance",
+      "publishedAt": "2026-10-29T05:35:00.000Z"
     },
     {
       "id": "b3e939d6eee48a732ddaea081cdac01a8e4b93abfc4712f9c97d5c5a96a4da2e",
@@ -1737,26 +1747,6 @@
       "publishedAt": "2026-10-28T15:50:07.000Z"
     },
     {
-      "id": "0b61e6b62c4097bc5a94067bd7a61b41a8367a36322fe2afbcc3ce448a787646",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "President Trump addresses tremendous aluminum smelter in Inola",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo",
-      "publishedAt": "2026-09-29T03:05:00.000Z"
-    },
-    {
-      "id": "3886d93ca407fbe0a225dcec583f62f35be30dc96a85122d6972d1f878aaeff0",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "AI and Power Infrastructure Drive Copper Demand, Australian Mining Sector Embraces New Logic",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "NAI500",
-      "publishedAt": "2026-09-29T02:56:13.000Z"
-    },
-    {
       "id": "8ff3ddbd41ff533164f73a631830d7f1e31f82a34047d1493d9b56db8b675376",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2957,6 +2947,16 @@
       "publishedAt": "2026-10-29T00:48:42.000Z"
     },
     {
+      "id": "3b0dbd33eb4982d42a6d3bae9f830acf1e885ee764ab9198bb570dcbdfd56b31",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper price ended the negative closes– Forecast today – 29-10-2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Economies.com",
+      "publishedAt": "2026-10-29T04:51:00.000Z"
+    },
+    {
       "id": "50f1855fb0707537f5e389be167a665d9ba37a163b3c8876702b680ea9154132",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3937,6 +3937,56 @@
       "publishedAt": "2026-10-28T21:07:04.000Z"
     },
     {
+      "id": "3c2bce2f5d750758dbb88a580cb0af87c84936256cd40e6c01dbdccc4a98373d",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Glencore Logs Decline in Q3 Copper, Silver, Gold Production; Nickel, Energy Coal Output Rise",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "www.marketscreener.com",
+      "publishedAt": "2026-10-29T08:13:54.000Z"
+    },
+    {
+      "id": "b88a8110231868dc10ed6fe11e02a5ab9a72785a197b3c3c3bbbe3551d0efab6",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Glencore copper output rises 3% YTD; guidance unchanged",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Investing.com",
+      "publishedAt": "2026-10-29T07:51:46.000Z"
+    },
+    {
+      "id": "fd9c4c2e2090e4f078607218fb4ff5ac27d7f70aa2ba39708dfd4df5c2e138a6",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Glencore copper output rises 12% as 2026 guidance holds firm",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance UK",
+      "publishedAt": "2026-10-29T07:36:00.000Z"
+    },
+    {
+      "id": "b5267d1b34d18a3fbd66b3d8091ac47c505f013bf326fb42a4716e6ddb2eec75",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Glencore’s Copper Output Ticked Up, But 2026 Looks Softer",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-10-29T07:00:45.000Z"
+    },
+    {
+      "id": "2483e7fa1a27e296051dac31cba5060eba4e974bf54271a8976883a927e86442",
+      "commodity": "MOLYBDENUM",
+      "importance": "MEDIUM",
+      "title": "Global Copper-Molybdenum Giant Slams the Brakes on Molybdenum Output Growth?! [SMM Analysis]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-29T04:06:00.000Z"
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4597,6 +4647,26 @@
       "publishedAt": "2026-10-28T16:43:42.000Z"
     },
     {
+      "id": "a49a4800c6184c9636da91f95cce76f7994837c95427a99d7a1c1e06d6e8e75c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper eases but holds near two-week highs as tight China supply offers support",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-29T07:16:46.000Z"
+    },
+    {
+      "id": "aca39a0c1106f3063fa019ed671c45b31cac7a2c150cd95fcf59d1b5cb9be15e",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "China's aluminium plate, strip and foil output holds steady at 388 kt in week to Oct 22; destocking slows",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "AL Circle",
+      "publishedAt": "2026-10-29T05:49:15.000Z"
+    },
+    {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4935,76 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-28T11:47:53.000Z"
-    },
-    {
-      "id": "bcfa66e8a02d51b636df168c2a226ad2bc5e53d62284b44ffbd24dcebb374a82",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Chinese Aluminium Overseas Expansion: 15M Tons Planned as Capacity Cap Binds - News and Statistics",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-10-28T11:32:11.000Z"
-    },
-    {
-      "id": "162566c76ac4c98c243c4452a4c5d845ef25f984f585fcf4f41456104e6b3a4d",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Canadian mining giant pays $504M for Arizona copper properties",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Business Journals",
-      "publishedAt": "2026-10-28T21:37:00.000Z"
-    },
-    {
-      "id": "f6334a9378cd99be55424355a948e3c86db9c84a2ffc8ec9bdae7f9ac98fde96",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper miner First Quantum beats Q3 profit estimates on higher production, prices; output guidance narrowed",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-28T21:10:06.000Z"
-    },
-    {
-      "id": "382626774069e2660bc6557549f57d723f02fa294df24b5afe183c6fba863ef6",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "서울 코앞 김포·구리·하남 등 그린벨트 6곳 해제…7만6700가구 공급",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "뉴시안",
-      "publishedAt": "2026-10-29T01:36:14.000Z"
-    },
-    {
-      "id": "2879efc7bcc5506d5120d9d59074e0be7261d0953156412127375839f59dc5a0",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "김포·구리 등 수도권에 7만6천여 호 공급",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "뉴스1",
-      "publishedAt": "2026-10-29T01:35:14.000Z"
-    },
-    {
-      "id": "49bcb91ce592394d5e93b77211376e27277a5d24c13f860cc747f0aecca23a8c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "김포·구리·하남 등 수도권 6곳에 7만6700가구 공급…2030년 내 착공",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "세계일보",
-      "publishedAt": "2026-10-29T01:34:18.000Z"
-    },
-    {
-      "id": "9303b7f9853de0305ff31759d19fee9e1728c2324e7425afc1a5a1ede9293679",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "수도권 주택 공급 대폭 확대, 김포·구리·하남 7만 가구 발표",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "공감신문",
-      "publishedAt": "2026-10-29T01:34:13.000Z"
     }
   ]
 }
