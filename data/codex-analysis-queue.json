@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T21:54:12.945Z",
+  "generatedAt": "2026-10-29T01:48:35.661Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -4053,49 +4053,6 @@
       "analyzedAt": null
     },
     {
-      "id": "a45f09a873e467f144fd7c857ae01ff9bfe5dbcec9a372073e52293cfa6224dd",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Aluminium rises to $3.63 as Gulf supply disruptions tighten global market",
-      "summary": "Aluminium rises to $3.63 as Gulf supply disruptions tighten global market alcircle.com",
-      "source": "alcircle.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnFnMWVxOTc3aTluSlZPWS1OUnRVcTVKc2lPNk1veFJpb2N4dnE4R1JTSjVIT1c5Vmdfd0lUUXpaODBYMG5NQVhaUmQxQjMxTmxaTF9vRGprcmpJTjlCUjNsTjNLZkdhaXJaUUpDaE5Nek5ZNjhpM1JiQkoyWXJLUy1PNkhsVTVVTGNjaFdHb05zRTJGU2JWYkZsMnNaSmFYdHJhclJGOS1XTjFFY2c?oc=5",
-      "publishedAt": "2026-09-28T22:18:10.000Z",
-      "priority": 42,
-      "reasonForCodexReview": "Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Supply Disruption",
-        "categories": [
-          "SUPPLY",
-          "DISRUPTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aluminium rises to $3.63 as Gulf supply disruptions tighten global market alcircle.com",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "supply disruption"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-28T23:57:39.179Z",
-      "updatedAt": "2026-09-28T23:57:39.179Z",
-      "analyzedAt": null
-    },
-    {
       "id": "78eaacfb1a234775f2d540041a6bae8b586a569ee90d3d950fb85713cc31e1a1",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -5792,6 +5749,96 @@
       "analyzedAt": null
     },
     {
+      "id": "0cc2cfaf8da1213060b7b740d0b55244a0e0c492fe1864c6bda9dad496be9bd8",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "[원자재] 페루 안타미나 구리광산, 사망사고로 조업 중단… 재개 미정",
+      "summary": "[원자재] 페루 안타미나 구리광산, 사망사고로 조업 중단… 재개 미정 버핏연구소",
+      "source": "버핏연구소",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZVC14TGlsNUtDSjdyTG44cmlMUEVpSTlZY0Mxd3EtU0c1dEp2VE96ZnY5bHlQbGxVU1Q4UjBIeDBhd3RyTEVkZUw5MHFOakhvSEdBcVI5V1poMkF1QkxteE53?oc=5",
+      "publishedAt": "2026-10-29T01:20:00.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Operational Accident",
+        "categories": [
+          "MINE",
+          "DISRUPTION",
+          "ACCIDENT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[원자재] 페루 안타미나 구리광산, 사망사고로 조업 중단… 재개 미정 버핏연구소",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "사고"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-29T01:48:35.661Z",
+      "updatedAt": "2026-10-29T01:48:35.661Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "751942c80398439bf54dfec840eae45e460d69355e865f9a98ebca6f37cb00cf",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "세계 최대 구리 기업 칠레 '코델코' 잇단 안전사고에 생산 차질 장기화",
+      "summary": "세계 최대 구리 기업 칠레 '코델코' 잇단 안전사고에 생산 차질 장기화 더구루",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDdE9TOHFtSTg5MnkzTXpnbjFuZkFKeEhyYXJyS3FlalprdV90VVVrSWFCYUl1OTRxSnFtd015U3c0dndMai11cUhsM2FMampPZE5xbkVyRWVQZDJmS01nVTBxRQ?oc=5",
+      "publishedAt": "2026-10-29T01:04:20.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Operational Accident",
+        "categories": [
+          "PRODUCTION",
+          "DISRUPTION",
+          "ACCIDENT",
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "세계 최대 구리 기업 칠레 '코델코' 잇단 안전사고에 생산 차질 장기화 더구루",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "사고",
+          "생산 차질"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-29T01:48:35.661Z",
+      "updatedAt": "2026-10-29T01:48:35.661Z",
+      "analyzedAt": null
+    },
+    {
       "id": "6174f5201014289064abf7123c28f855f91062d496d73a8163334703adaf7b77",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -6398,42 +6445,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-27T20:43:17.415Z",
       "updatedAt": "2026-10-27T20:43:17.415Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ed379cf7e7bff8649cfb33cd2a75c5e6bb30e928d31cf3718a1d3c8b1037413f",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "SHFE copper closed, lacking SHFE guidance; LME copper under pressure [SMM Copper Morning Meeting Summary]",
-      "summary": "SHFE copper closed, lacking SHFE guidance; LME copper under pressure [SMM Copper Morning Meeting Summary] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVVMyYWFDQXZDMDNRdkxLNXQ3YTFlelhpS1I2TUM1S2lEM3BHb0xGUkNFbl9PRHlrSktneDZIektESkVQbFoxZVJlVEhwSlNGd1FHUGRpQVFRdUU1dkVta3VRUFdxS2NrY3FsOWx2R3BzczlYNU1lazRNMGtzRHpTUEo1TDkyZmRyRy1Zb3VCYWVvZ1ZSNTB6Rl9aUWFXOGR6VGMtd1dsMFVnVmNPOXBqLUd6am5aX2Y5ZE1mUjZnY0Z0RGNkUzdHaUFGb1o2dXU4UFFfdHNsb3Z5U0FYdHlV?oc=5",
-      "publishedAt": "2026-09-29T00:56:00.000Z",
-      "priority": 39,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production Guidance",
-        "categories": [
-          "GUIDANCE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "SHFE copper closed, lacking SHFE guidance; LME copper under pressure [SMM Copper Morning Meeting Summary] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-29T05:46:13.243Z",
-      "updatedAt": "2026-09-29T05:46:13.243Z",
       "analyzedAt": null
     },
     {
@@ -11661,6 +11672,42 @@
       "analyzedAt": null
     },
     {
+      "id": "910368b7c2414f665971f2f82b82b40b42b1977a96841a80b794c96208b74f40",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "3,000-year-old Spanish copper mine hints at an Iberian hub in Bronze Age Europe, reaching as far as Scandinavia",
+      "summary": "3,000-year-old Spanish copper mine hints at an Iberian hub in Bronze Age Europe, reaching as far as Scandinavia Archaeology News Online Magazine",
+      "source": "Archaeology News Online Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0lOSGY0X0lDOGZhT2JNLWY1cnlPMFZ1dk15UFM0UVJqRWJNN3pyWDN5Yk9jMXJOT1ZZbzRrc1lwSWppMTBGVHpuNVFiTmRMRTRzZUFHVmpMUlo4UV9oS1RJLVhZWUZ5RFV2RXN5bjdWTmlGSVFiM09oOFJPOF9kZkJxdmw0OWVM?oc=5",
+      "publishedAt": "2026-10-29T00:48:42.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "3,000-year-old Spanish copper mine hints at an Iberian hub in Bronze Age Europe, reaching as far as Scandinavia Archaeology News Online Magazine",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-29T01:48:35.661Z",
+      "updatedAt": "2026-10-29T01:48:35.661Z",
+      "analyzedAt": null
+    },
+    {
       "id": "50f1855fb0707537f5e389be167a665d9ba37a163b3c8876702b680ea9154132",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -12417,78 +12464,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-28T11:41:02.503Z",
       "updatedAt": "2026-10-28T11:41:02.503Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "a98d7853df5a005972af5fb7ae97a462b21ea063975f00f9ad8256a2e85f339b",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Rio Tinto Group Partners With Recycled Aluminum Processor to Expand Low-Carbon Billet Supply in North America",
-      "summary": "Rio Tinto Group Partners With Recycled Aluminum Processor to Expand Low-Carbon Billet Supply in North America marketscreener.com",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUUlzejRLWVNISEhFcW5McVN6OW9LVXUxeWVSbFBTZWVyeEk4WUN2eElOU2lyazByQWxNOXY3RENzWFJRXzd0TFRMR3I2RDA3UXU1Sm15aURBa2lwcWlvRktFMlpSSHFyUXlQYWxrTlVybTk0bkViVDJYamxKeFdpRE9DY1k5RVhtTE9hTGh2SEdYTjB6a1Y5Yl9YVmExMFBuLWl0NGk4MkZsOGUxMmVBQzAyNE1FOE1Ud1lGWnUyV3ZWVkJkcHo1OVhjWlJyNXdlZjlRYjlWckhVUU9FbFBmMGIyM1piVkdV?oc=5",
-      "publishedAt": "2026-09-29T01:32:38.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Rio Tinto Group Partners With Recycled Aluminum Processor to Expand Low-Carbon Billet Supply in North America marketscreener.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-29T05:46:13.243Z",
-      "updatedAt": "2026-09-29T05:46:13.243Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "e747f4a57c3c26bef04e2232c3b0e846681e2b191715ae87ac0778c797ee1b9c",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "Metals show mixed performance, alumina leads declines, LME lead, LME zinc, LME tin, and LME nickel post the largest drops, COMEX gold and silver plunge [Overnight Market]",
-      "summary": "Metals show mixed performance, alumina leads declines, LME lead, LME zinc, LME tin, and LME nickel post the largest drops, COMEX gold and silver plunge [Overnight Market] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOM1dWenFhSDR5LVRMOHA2Mmo5MV9sdWp2M1lVcGRUVk9FaXJlbm9PMXRTOVJHT056NE05T19sMFhtS2VpSk8td1daZHBZYmFkV2tZd1J1VVkxTnJWeGpRMXpraFB4M1duUVpmN2stclU0bXU5V1YwVnl6X3EzUThlWlNPRWc3b0dJQUxOSTZYRUx3SVAtOU9YeUFlLUxoYUljRHN3RUZXWTA5cTFhM0RJMDhwbUZySlNqWXBFUEVkWXZnV1M1RlB3MWJxcGhTUVp6MFVwOEtweHVsLTh6NVNtTUxwaUpfcnA0ZnY3X21YUVlTSjZUb2F4cnFLeEhsRHZRT1M1bzR0a3Y0SFptdlBLU0dUaW9hOUJtNmJkeXZtUExqVEkxYXBpNzN0eEp4VjVm?oc=5",
-      "publishedAt": "2026-09-29T00:25:00.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Metals show mixed performance, alumina leads declines, LME lead, LME zinc, LME tin, and LME nickel post the largest drops, COMEX gold and silver plunge [Overnight Market] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-29T05:46:13.243Z",
-      "updatedAt": "2026-09-29T05:46:13.243Z",
       "analyzedAt": null
     },
     {
@@ -18149,42 +18124,6 @@
       "analyzedAt": null
     },
     {
-      "id": "5bfd63c66e7c9adf67777722dbb16a710c0ddc40d00a84ca02724f985131938b",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "HudBay Minerals at Mining Forum Americas 2026: gold cash flow fuels copper growth",
-      "summary": "HudBay Minerals at Mining Forum Americas 2026: gold cash flow fuels copper growth Investing.com",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUXVRVzdXX0lMcFIxTTJFdWdBOTVkeHNicHJ5c25vWHdkaG1LaDEzOW9vV2kwVGdWcWtMaHRfMEZsSnREcFJMNi1hakZvNXhSMlV3bml2anE1bFBjaE1aTGgzZ29wTEpPWTN6dHNRYVhhNmYzQVA4UDZ4eDVZdHBmdHgxbHJ4RFBCNGkwTHVlTlJLZzFsVjZXVlo5Nl9rWlNaU0c1OElWQWxlcVdxVDFFXzBHWlJDbXdmdVYyTVN6Ym04MjNWNWpNMDlIQmVRN2ZVNGc?oc=5",
-      "publishedAt": "2026-09-28T23:01:03.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "HudBay Minerals at Mining Forum Americas 2026: gold cash flow fuels copper growth Investing.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-28T23:57:39.179Z",
-      "updatedAt": "2026-09-28T23:57:39.179Z",
-      "analyzedAt": null
-    },
-    {
       "id": "afb2e371cd62647f71e1f4dcf103c5992ba01ccf7a440221acfa1e2f959e981a",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -19060,42 +18999,6 @@
       "analyzedAt": null
     },
     {
-      "id": "87d4cdeeaff7a8cf6d54e20ffe3d06b58a2b98115d3bebb8483a2c39498318d3",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "[상생경영 특집] 구리·황산 생산 증기 재활용… 탄소배출 저감",
-      "summary": "[상생경영 특집] 구리·황산 생산 증기 재활용… 탄소배출 저감 세계일보",
-      "source": "세계일보",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVR2NxakpHa0hvMlFrTmZ6cVdBclFZTlBGWG5sSWJtS3c1NjlmTmVtVkZ5RXU2ckx0WXE0UEVWVjBnVGktU0wxTENZOExNNElWdE9VTEVrMFNBNVM5N05mZ2FHbmhNZ3hjNUU00gFUQVVfeXFMTnluQU5tb3AwbGV1OENOYzVUTjlaMkd1eUdzUVlyWHkwWkdKUzlET2JKXzVUWFF4US1YTEtWSEpiRGhxa1VrR3JkQ29qMEJIQTQ4S0xo?oc=5",
-      "publishedAt": "2026-10-28T14:00:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "[상생경영 특집] 구리·황산 생산 증기 재활용… 탄소배출 저감 세계일보",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-28T17:25:35.520Z",
-      "updatedAt": "2026-10-28T17:25:35.520Z",
-      "analyzedAt": null
-    },
-    {
       "id": "344856104daadd24dfd0dee0bef6c11db1fb068e7c22c888eac45145afaf9734",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -19319,27 +19222,27 @@
       "analyzedAt": null
     },
     {
-      "id": "c1337b409f6c645383f45a5265d4cedb44790045e6b3b62ba4f5d1baaf84f72e",
+      "id": "382626774069e2660bc6557549f57d723f02fa294df24b5afe183c6fba863ef6",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "Mining Forum video: Toto Finance pitches new route to copper funding",
-      "summary": "Mining Forum video: Toto Finance pitches new route to copper funding The Northern Miner",
-      "source": "The Northern Miner",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkFYZlpIZlJWdlBLZV9uWmxqZW1DQ2xiQmcyb2k0X2VCNVBqWURzUDlXRjZLRlRDaU02TXVEbTZBWEF1a0xqNUdIR2NoUlBTbC1aUnRsM3Q5WEw4QU1UT2hsNk92TEZvVVl0MF9GeEFCMXl4bVBoZ0NJakVZNmFhM0d4MVYxZjNhSlBjV2hSOGVoVS1pVTlHbzNGaW1wNTA4cGNzaEQ1cWhYSmF5M1QxZUU3RE0?oc=5",
-      "publishedAt": "2026-10-28T19:21:19.000Z",
+      "title": "서울 코앞 김포·구리·하남 등 그린벨트 6곳 해제…7만6700가구 공급",
+      "summary": "서울 코앞 김포·구리·하남 등 그린벨트 6곳 해제…7만6700가구 공급 뉴시안",
+      "source": "뉴시안",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94cWQydzd1dnJfX1RlckxpY2h3d0xuTWxESGRmaFJ6bGNoX0FjWXZzVEQ1NUJvc3hxR0pIa0ZBX0tCQkpjUHpwUWlTdjZXN2dmU1FueFpTc1hqRm90ZDNkY09tempUcWlBVTdhVA?oc=5",
+      "publishedAt": "2026-10-29T01:36:14.000Z",
       "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Mine",
+        "category": "Supply",
         "categories": [
-          "MINE"
+          "SUPPLY"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Mining Forum video: Toto Finance pitches new route to copper funding The Northern Miner",
+        "summary": "서울 코앞 김포·구리·하남 등 그린벨트 6곳 해제…7만6700가구 공급 뉴시안",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -19350,8 +19253,116 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-10-28T21:54:12.945Z",
-      "updatedAt": "2026-10-28T21:54:12.945Z",
+      "queuedAt": "2026-10-29T01:48:35.661Z",
+      "updatedAt": "2026-10-29T01:48:35.661Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "2879efc7bcc5506d5120d9d59074e0be7261d0953156412127375839f59dc5a0",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "김포·구리 등 수도권에 7만6천여 호 공급",
+      "summary": "김포·구리 등 수도권에 7만6천여 호 공급 뉴스1",
+      "source": "뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGUWJlbHVoWTNwSFQ2TVZXRXpFWlBZMHFlckFpdGl2czJ0NGYzSXQwS015dlRHaEpTcF8tNU9NSnliMnBnckN0bU5VYw?oc=5",
+      "publishedAt": "2026-10-29T01:35:14.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "김포·구리 등 수도권에 7만6천여 호 공급 뉴스1",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-29T01:48:35.661Z",
+      "updatedAt": "2026-10-29T01:48:35.661Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "49bcb91ce592394d5e93b77211376e27277a5d24c13f860cc747f0aecca23a8c",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "김포·구리·하남 등 수도권 6곳에 7만6700가구 공급…2030년 내 착공",
+      "summary": "김포·구리·하남 등 수도권 6곳에 7만6700가구 공급…2030년 내 착공 세계일보",
+      "source": "세계일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5d3NQVER0R3hfcnJkcW50Mk9tN1ZFYVJGOGhOcE1wQXRiMVIweTZqOXFTOG9jTmFVTEkzeFZpZEhZZWx1dGtEblJ0Q2ozcXJWajA3YWxkall1dktpdFBWX0o4dHg2R0EwYXow0gFUQVVfeXFMTWozR0FTR2ZZSzl2Yk9nTHNJRmlhRWxsQXFoWDR6aGxhYUc2dzF6NldDcUdvZnMxTC14bmNQTjctb1RMLXZEZkxXbkZ4WVZoeGxQMVBM?oc=5",
+      "publishedAt": "2026-10-29T01:34:18.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "김포·구리·하남 등 수도권 6곳에 7만6700가구 공급…2030년 내 착공 세계일보",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-29T01:48:35.661Z",
+      "updatedAt": "2026-10-29T01:48:35.661Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "9303b7f9853de0305ff31759d19fee9e1728c2324e7425afc1a5a1ede9293679",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "수도권 주택 공급 대폭 확대, 김포·구리·하남 7만 가구 발표",
+      "summary": "수도권 주택 공급 대폭 확대, 김포·구리·하남 7만 가구 발표 공감신문",
+      "source": "공감신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yZUpmWnp0Si1JeUxvX3laYzQ0VG1ycHJhYWxEdjBTRDVNZDE5VUFFQXpWSVRqVXhTcXdtdzFFNFFGa0JYVHdmR0R3V3pUTjFjN0swcVFLWGZWa3MzbUNuYWNGVGFxTG1D?oc=5",
+      "publishedAt": "2026-10-29T01:34:13.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "수도권 주택 공급 대폭 확대, 김포·구리·하남 7만 가구 발표 공감신문",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-29T01:48:35.661Z",
+      "updatedAt": "2026-10-29T01:48:35.661Z",
       "analyzedAt": null
     }
   ]
