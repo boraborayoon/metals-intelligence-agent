@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T15:35:08.150Z",
+  "generatedAt": "2026-10-29T20:39:35.614Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -55,16 +55,6 @@
       "codexStatus": "PENDING",
       "source": "Newsquawk",
       "publishedAt": "2026-10-15T18:27:37.000Z"
-    },
-    {
-      "id": "de7b5eede7916e709a6f8213441d81c7d4c4ed44698c9f2a4518a444ce39013a",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Unions at Antofagasta's Centinela copper mine ready for strike",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Reuters",
-      "publishedAt": "2026-09-29T17:53:43.000Z"
     },
     {
       "id": "1d8a82f1719e79bcc9844d9e6ed234f3c030134006473ab27da1a49316f61ce9",
@@ -407,6 +397,16 @@
       "publishedAt": "2026-10-16T11:40:54.000Z"
     },
     {
+      "id": "39d40bd5bef82e7945131ac9970a5416b358b3444221de623b492414610cb15d",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Rio Tinto Suspends Underground Operations of Oyu Tolgoi Copper Mine After Rockfall",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-10-29T18:44:00.000Z"
+    },
+    {
       "id": "454b0796e22958deef038f5de546e0ee7864a5af10e31f32b401e79e532d00fb",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -657,16 +657,6 @@
       "publishedAt": "2026-10-15T14:17:21.000Z"
     },
     {
-      "id": "8043aa3c3ba006ae9e1cbdfeb76099cc661fb99c542121694f1cb5c35796db9c",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "1 Oz $2 Banknote Copper Bar: .999 Pure Copper Close-Up The iconic $2 bill, reimagined in .999 pure copper. Take a close look at the 1 AVDP oz $2 Banknote Copper Bar from Money Metals, a distinctive physical copper bullion piece for collectors and coppe",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "linkedin.com",
-      "publishedAt": "2026-09-29T20:08:23.000Z"
-    },
-    {
       "id": "0c631892d98cd655dba93102bc0c4f020f5590101508e7bb464eb47afeb6cff4",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -705,16 +695,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-10-16T07:19:00.000Z"
-    },
-    {
-      "id": "a2eadafa839a98b2e20b28ffe69132c7fd74ea0c6580e2df493e4e289f974cfe",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Two Chilean Copper Mine Unions Prepare to Strike as Mediation Begins",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Межа. Новини України.",
-      "publishedAt": "2026-09-29T18:25:24.000Z"
     },
     {
       "id": "0dc5b25e0efff06cc3a11195540e2c33fd76b2edd8173b9eec30ad0eb5a4eea4",
@@ -965,16 +945,6 @@
       "codexStatus": "PENDING",
       "source": "South China Morning Post",
       "publishedAt": "2026-10-24T13:01:39.000Z"
-    },
-    {
-      "id": "78eaacfb1a234775f2d540041a6bae8b586a569ee90d3d950fb85713cc31e1a1",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "광산 파업 위협이 달러와 유가 강세를 상쇄하면서 구리 가격은 안정세를 보이고 있다",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-09-29T16:29:05.000Z"
     },
     {
       "id": "bb367bbbe092fb20aa1546389e19573cb2573a1bc3ae925c343e5decab815fa2",
@@ -3957,16 +3927,6 @@
       "publishedAt": "2026-10-29T07:51:46.000Z"
     },
     {
-      "id": "fd9c4c2e2090e4f078607218fb4ff5ac27d7f70aa2ba39708dfd4df5c2e138a6",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Glencore copper output rises 12% as 2026 guidance holds firm",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance UK",
-      "publishedAt": "2026-10-29T07:36:00.000Z"
-    },
-    {
       "id": "b5267d1b34d18a3fbd66b3d8091ac47c505f013bf326fb42a4716e6ddb2eec75",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3995,16 +3955,6 @@
       "codexStatus": "PENDING",
       "source": "S&P Global",
       "publishedAt": "2026-10-12T05:56:38.000Z"
-    },
-    {
-      "id": "fa0b47c0c8de7c37e777576915f6bb23f42ffc7debefb34f14b6ea7469c647a1",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Sumitomo highlights Chile copper strategy behind Dos Amigos investment",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "International Mining",
-      "publishedAt": "2026-09-29T16:37:22.000Z"
     },
     {
       "id": "1d8f6f4abab1d80ce13faeb5ddad9b2462862e95ea351a975538287ddae1bc5e",
@@ -4967,44 +4917,94 @@
       "publishedAt": "2026-10-29T13:28:15.000Z"
     },
     {
-      "id": "c8be8db0b1a8e587ca2a883c23d5b61a13ce14a0eca43ec1afa746fb554b4b64",
+      "id": "07ee94f54b515af77f73ee731643c957c9f0717607a87f2bd95612a9fca52971",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Copper Market Outlook: Concerns Over AI Demand and Supply Constr",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "GuruFocus",
-      "publishedAt": "2026-10-29T13:05:15.000Z"
-    },
-    {
-      "id": "8b50130e6ddcc8ca92599bd29da64420a99c6771bf9387c346b3815fa49b1907",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Is Southern Copper (SCCO) Stock Outpacing Its Basic Materials Peers This Year?",
+      "title": "Rio Tinto assesses new lithium plant in Argentina, copper opportunities",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-10-29T12:40:02.000Z"
+      "source": "marketscreener.com",
+      "publishedAt": "2026-10-29T20:25:27.000Z"
     },
     {
-      "id": "1391ffe8df397f70049ff12e53331c73046db2ed28c6c924c88034b04c950c18",
+      "id": "51908fbd4fefb69c15e583451ba9c59da581ea384fa27ae2b6ce052c6c98aa35",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Takes A Breather As AI Demand Doubts Linger",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-10-29T18:38:49.000Z"
+    },
+    {
+      "id": "c652eed09c50a8f1c310a4463c10559148f57fe5e358a24d01771d7655406a09",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "BorgWarner to Supply New Aluminum-Wire eMotor to Major Chinese OEM",
+      "title": "Russian Aluminium giant Rusal set to form joint venture in Ghana",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "PR Newswire",
-      "publishedAt": "2026-10-29T12:05:43.000Z"
+      "source": "Face2Face Africa",
+      "publishedAt": "2026-10-29T18:12:00.000Z"
     },
     {
-      "id": "f3678a62a03daf2a5ea56468a55fdf3076f7095f7ce543553e18eace6ec718e0",
+      "id": "bec623912afc512aeff2567281757cf884899248d578c5bbb54fabcc56b8d14b",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "김포·구리 등 6곳 그린벨트 풀어 7.7만호 공급…서울은 1%뿐",
+      "title": "Gunnison Copper Lists on NYSE American, Nears Full Production, and Readies Partner Search",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "연합뉴스TV",
-      "publishedAt": "2026-10-29T12:05:00.000Z"
+      "source": "Crux Investor",
+      "publishedAt": "2026-10-29T17:20:30.000Z"
+    },
+    {
+      "id": "a26af846b4737fae8f7f60599b76db314d34bbe28ca3d13f189989b961854d71",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper slips on concerns over AI demand, high US inventories",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-10-29T16:58:19.000Z"
+    },
+    {
+      "id": "4697ff61f2aa6a3503163ede6a08ee2e67d07d22216f15a807d4043e7852aa54",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Analysts boost 2027 copper estimates, but cautious about US stocks, AI demand",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-29T15:30:00.000Z"
+    },
+    {
+      "id": "fd9c4c2e2090e4f078607218fb4ff5ac27d7f70aa2ba39708dfd4df5c2e138a6",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Glencore copper output rises 12% as 2026 guidance holds firm",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance UK",
+      "publishedAt": "2026-10-29T07:36:00.000Z"
+    },
+    {
+      "id": "27d438372ad6c74dcfbf2e2917ef8be14552eacd9367268214ed7ef7033c9ba5",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Glencore copper output up, 2026 production seen at low end of guidance",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-10-29T10:05:25.000Z"
+    },
+    {
+      "id": "1ed22b9c2592ea7983d1430939779db5c8a62d90a03bb4ab5d6e3de9a411f37f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Glencore Reports 12% Rise in Adjusted Copper Production and Maintains 2026 Guidance",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance UK",
+      "publishedAt": "2026-10-29T07:39:56.000Z"
     }
   ]
 }
