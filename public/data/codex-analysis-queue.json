@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T13:37:39.658Z",
+  "generatedAt": "2026-10-30T18:53:36.406Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -225,6 +225,16 @@
       "codexStatus": "PENDING",
       "source": "IndexBox",
       "publishedAt": "2026-10-07T13:30:41.000Z"
+    },
+    {
+      "id": "66949157c03aee583030e5ca88ddbd84f618516d46c6c8123c6454020b7cd19a",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "A strike at Highland Valley Copper, federal funding for aluminum production and Capstone’s plan to double copper production in Chile",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Canadian Institute of Mining, Metallurgy",
+      "publishedAt": "2026-10-30T18:13:45.000Z"
     },
     {
       "id": "5923d1a5790c6bba0b330c75aae8e6f173acc80f5852661b1c907cd19098b15c",
@@ -865,16 +875,6 @@
       "codexStatus": "PENDING",
       "source": "marketscreener.com",
       "publishedAt": "2026-10-06T13:59:06.000Z"
-    },
-    {
-      "id": "6eed970c83bab361ed3061e089ee7091798dd28a6f55dde8cafde4a63c4172a1",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper holds above $14,400 as Chile strike risks escalate",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Economies.com",
-      "publishedAt": "2026-09-30T14:36:00.000Z"
     },
     {
       "id": "25506bbfb40a7c62ffead844ba4f1629ca1ac2bfb2201ad83e960717bf147508",
@@ -1665,6 +1665,16 @@
       "codexStatus": "PENDING",
       "source": "Crux Investor",
       "publishedAt": "2026-10-28T15:50:07.000Z"
+    },
+    {
+      "id": "66396604788dceae44eba72c3a8cb60dca38591e65d0086249b797a5eea97cc4",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Chile's Cochilco raises copper price forecasts for 2026, 2027",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-30T17:42:46.000Z"
     },
     {
       "id": "3ac21edc5b485cdc0faac322b603fb340f93065a94af824472b3d97bcc2b8cdb",
@@ -3127,6 +3137,16 @@
       "publishedAt": "2026-10-30T09:25:00.000Z"
     },
     {
+      "id": "62cba37c5c2d3b4e9d08f95fa6a0582cc3816f497b760d1b2b1939fcb6b404dd",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Meet Resolution Copper’s Mine Rescue Team",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Resolution Copper mine",
+      "publishedAt": "2026-10-30T18:09:25.000Z"
+    },
+    {
       "id": "08f55c9847216abc14840bf9a7fb35f357fb3c09dfa52f8b1d1a5426557ae880",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3957,6 +3977,16 @@
       "publishedAt": "2026-10-30T10:09:00.000Z"
     },
     {
+      "id": "d86ff4f90be9ba9aff518563712595017ffbf5ccf439165e6ff288154fca4505",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[기획①] 구리건원지구 1만 4,600호…구리의 미래, 주택 공급인가 자족도시인가",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "내외뉴스통신",
+      "publishedAt": "2026-10-30T13:09:19.000Z"
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -3965,16 +3995,6 @@
       "codexStatus": "PENDING",
       "source": "S&P Global",
       "publishedAt": "2026-10-12T05:56:38.000Z"
-    },
-    {
-      "id": "f9ae3a805bb0ed4b51b218559464d98c74148b4206d938e02b7f422d71cfb827",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Chile's Copper Output Decline Highlights Dividend Safety for Chi",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "GuruFocus",
-      "publishedAt": "2026-09-30T14:23:52.000Z"
     },
     {
       "id": "48c1be36d7b4ae302bd675a6976aac86ed0b5b977f5259cd84a3ff086a072b13",
@@ -4517,14 +4537,14 @@
       "publishedAt": "2026-10-30T04:28:00.000Z"
     },
     {
-      "id": "5272f72b5f58d2dfa5a9ce4b1a3da115077e3aecf328573f4819ad5fc6ca123e",
-      "commodity": "COPPER",
+      "id": "fd4b8d9524258ddccbd660e702a43388c5cf5b078ce23949a93ceebb281b566e",
+      "commodity": "TIN",
       "importance": "MEDIUM",
-      "title": "Chile Copper Output Falls Most Since 2017",
+      "title": "Tin Prices Surge as Congo Conflict and Indonesia Cuts Squeeze Chip Supply",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-30T12:05:23.000Z"
+      "source": "Startup Fortune",
+      "publishedAt": "2026-10-30T16:50:20.000Z"
     },
     {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
@@ -4947,26 +4967,6 @@
       "publishedAt": "2026-10-30T00:14:56.000Z"
     },
     {
-      "id": "9870f6344c059272a35b048f37ac55559a832ad78b459566769d4bbd6292ebd3",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Largo reports first copper, gold, and PGM output in Q3 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "StreetInsider",
-      "publishedAt": "2026-10-30T10:54:41.000Z"
-    },
-    {
-      "id": "89077e1c540507e1fb1de08855d15566fb0ace12e81bd7927bb55b2032dd40a4",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "A Mega-Mine Pause Fails to Lift Copper As the AI Trade Cracks",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Benzinga",
-      "publishedAt": "2026-10-30T10:41:29.000Z"
-    },
-    {
       "id": "af85d415c823d9dc0609c7519e049537883667335bd7b3b626f1fd1ada473259",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4977,34 +4977,34 @@
       "publishedAt": "2026-10-30T09:14:00.000Z"
     },
     {
-      "id": "ea816b6713a15f132d73061ca476e34603c4abe6c91226dbe2a987e3a238a159",
-      "commodity": "COPPER",
+      "id": "953d7f88660f9140847ed43319914db0a1ae0e4b44db70282ddd666c9226e304",
+      "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "Gunnison Copper (TSX:GCU) - NYSE American Listing, Johnson Camp Nears Full Output",
+      "title": "Alcoa’s South32 aluminum deal under review in Brazil",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Crux Investor",
-      "publishedAt": "2026-10-30T09:05:49.000Z"
+      "source": "MLex",
+      "publishedAt": "2026-10-30T17:55:37.000Z"
     },
     {
-      "id": "249a8cb4e9de8c6312792579070a8fbdc4b9e0f21e4b12c817e869a48b74b850",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "First Tin Nears Final Development Approval for Taronga Tin Project in Australia",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance UK",
-      "publishedAt": "2026-10-30T08:04:50.000Z"
-    },
-    {
-      "id": "91c4c1998a681976c90ac702a9db46a7ce0b4dc68fdf92a6273e4292867459ef",
+      "id": "4825ee5733200a4de9ba4d5c218274c7e70f5ebc355846813c06a5f83bb92b2b",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Copper Peak receives grant",
+      "title": "Softer copper guidance expectations for Capstone",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "www.mining-journal.com",
+      "publishedAt": "2026-10-30T17:46:50.000Z"
+    },
+    {
+      "id": "fb5fa3ab01bdcdf67634280f7f281b67bf3b6a7143283fb8db4fc5bd19632610",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Ottawa commits $193.3 million for Quebec aluminum production upgrades",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "The Mining Gazette",
-      "publishedAt": "2026-10-30T05:55:42.000Z"
+      "source": "Canadian Institute of Mining, Metallurgy",
+      "publishedAt": "2026-10-30T16:23:23.000Z"
     }
   ]
 }
