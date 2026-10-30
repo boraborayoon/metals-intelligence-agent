@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T20:39:35.614Z",
+  "generatedAt": "2026-10-30T00:26:17.928Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -337,16 +337,6 @@
       "publishedAt": "2026-10-29T11:50:58.000Z"
     },
     {
-      "id": "5b38c959c0d581a137bd315bedf66e6854f9e79a35bb135c734bf71598ccf4b1",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "[비철금속 시황] 칠레 광산 파업 우려에 구리 낙폭 제한…中 PMI 주목",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "산업일보",
-      "publishedAt": "2026-09-29T23:19:46.000Z"
-    },
-    {
       "id": "1cb1fee4acb62a4968d4f6e46ca21fb47018073e33b04e5fe0954c9f88e29e93",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -455,6 +445,16 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-19T22:00:42.000Z"
+    },
+    {
+      "id": "efd7babf8ee378ae369d65eb1b69cb0af203d6216f9736f37a781e10a5a4bb9b",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Mongolia suffers $300 million decline in copper exports following China border restrictions",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Fortune",
+      "publishedAt": "2026-10-29T15:39:32.000Z"
     },
     {
       "id": "69502bfd92324dbe59f477ddb06ea2faa1ef1e1274f3ac375ec566ee1313076e",
@@ -945,16 +945,6 @@
       "codexStatus": "PENDING",
       "source": "South China Morning Post",
       "publishedAt": "2026-10-24T13:01:39.000Z"
-    },
-    {
-      "id": "bb367bbbe092fb20aa1546389e19573cb2573a1bc3ae925c343e5decab815fa2",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Oil Prices Drop as Saudi Arabia Increases Supply; Copper Prices Rise Amid Strikes",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "GuruFocus",
-      "publishedAt": "2026-09-29T23:17:48.000Z"
     },
     {
       "id": "ed2137e9a87340f7934ce476626e1294dd06445516e826865ebf31c467429427",
@@ -1715,16 +1705,6 @@
       "codexStatus": "PENDING",
       "source": "Crux Investor",
       "publishedAt": "2026-10-28T15:50:07.000Z"
-    },
-    {
-      "id": "8ff3ddbd41ff533164f73a631830d7f1e31f82a34047d1493d9b56db8b675376",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "See 30-year history of the proposed copper mine at Arizona's Oak Flat",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Fresno Bee",
-      "publishedAt": "2026-09-29T21:08:00.000Z"
     },
     {
       "id": "5bfd0bf462d26502882b170a43b49aabc6e9fd65dafc7046b17d807608a063fc",
@@ -3137,14 +3117,14 @@
       "publishedAt": "2026-10-29T09:51:08.000Z"
     },
     {
-      "id": "07957caa210c4fcbdd977fed6084423ac79b5f8dcf178caa7b04b3e33b72d2bb",
+      "id": "42d6d7e540a78d5b8993fab8816ac1ef44ed94bae2f72bf20899f1e2bf0db1a4",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "MUX: Los Azules targets regenerative copper mining as gold and copper output and valuation are set to surge",
+      "title": "Chile's Codelco fires eight amid probe into over-reported copper output",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "TradingView",
-      "publishedAt": "2026-09-29T23:32:38.000Z"
+      "publishedAt": "2026-10-29T23:17:42.000Z"
     },
     {
       "id": "16f662c690c9b3ff01500b495bb39a353da28d0c5b5d0ca7b24bc90b4c2194ec",
@@ -3945,6 +3925,26 @@
       "codexStatus": "PENDING",
       "source": "TechBullion",
       "publishedAt": "2026-10-29T11:36:12.000Z"
+    },
+    {
+      "id": "87c6ae6ec9cfe18bc928eefb62a6b053f5a658ebbe92e616e09a9d4701241d1d",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Codelco Fired Eight Staff After Copper Output Was Overstated",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-10-29T23:04:06.000Z"
+    },
+    {
+      "id": "efe4e83217e228d4c8b3427b0ff3b4bd5981a350671305784088639864847dc9",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Glencore Reports 3% Rise in Copper Output, Low-End 2026 Guidance Maintained",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-29T19:00:00.000Z"
     },
     {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
@@ -4977,34 +4977,34 @@
       "publishedAt": "2026-10-29T15:30:00.000Z"
     },
     {
-      "id": "fd9c4c2e2090e4f078607218fb4ff5ac27d7f70aa2ba39708dfd4df5c2e138a6",
+      "id": "0f1b50aa12951ce2ed55bc20161491e30d7c9c601218b67c92052beb4ef7b50a",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Glencore copper output rises 12% as 2026 guidance holds firm",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "title": "구리가 미국으로 대량 유입되면서 중국은 공급 압박에 직면하고 있다.",
+      "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Yahoo Finance UK",
-      "publishedAt": "2026-10-29T07:36:00.000Z"
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-30T00:14:56.000Z"
     },
     {
-      "id": "27d438372ad6c74dcfbf2e2917ef8be14552eacd9367268214ed7ef7033c9ba5",
+      "id": "ec567ee3b47aa9b8f6f55f2a143480266be1ea9f7c615f70820b571fc5a5d2c7",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Glencore copper output up, 2026 production seen at low end of guidance",
+      "title": "US copper stockpiles and hidden tightness: supply risk lens for mine planners",
       "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
       "codexStatus": "PENDING",
-      "source": "marketscreener.com",
-      "publishedAt": "2026-10-29T10:05:25.000Z"
+      "source": "Geomechanics.io",
+      "publishedAt": "2026-10-30T00:03:38.000Z"
     },
     {
-      "id": "1ed22b9c2592ea7983d1430939779db5c8a62d90a03bb4ab5d6e3de9a411f37f",
+      "id": "47a8e084f08a8203fa6dd8a0ed46002bd2e90c263c32b378159c9f9e92b331a8",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Glencore Reports 12% Rise in Adjusted Copper Production and Maintains 2026 Guidance",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "title": "Southern Copper Corporation 2026 Q3 - Results - Earnings Call Presentation (NYSE:SCCO) 2026-10-29",
+      "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Yahoo Finance UK",
-      "publishedAt": "2026-10-29T07:39:56.000Z"
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-10-29T23:02:46.000Z"
     }
   ]
 }
