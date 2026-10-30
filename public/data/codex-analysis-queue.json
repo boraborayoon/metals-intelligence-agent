@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:26:17.928Z",
+  "generatedAt": "2026-10-30T06:29:45.255Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -225,16 +225,6 @@
       "codexStatus": "PENDING",
       "source": "IndexBox",
       "publishedAt": "2026-10-07T13:30:41.000Z"
-    },
-    {
-      "id": "bf504c989c3b8d5e481efd8799bc9783ce9116e91df7672d5c4682ddae4c01dc",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Chile copper mine strike risks heat up, adding further disruption to ore supply 【SMM Copper Morning Meeting Summary】",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-30T01:11:00.000Z"
     },
     {
       "id": "5923d1a5790c6bba0b330c75aae8e6f173acc80f5852661b1c907cd19098b15c",
@@ -505,6 +495,16 @@
       "codexStatus": "PENDING",
       "source": "BigGo Finance",
       "publishedAt": "2026-10-29T05:35:00.000Z"
+    },
+    {
+      "id": "855d7baeb6cbf475daa2848e8ef226f28d81d63419fa2c544e97b6f013796a63",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Rio Tinto Halts Underground Operations at Oyu Tolgoi Copper Mine -- Update",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-29T23:19:15.000Z"
     },
     {
       "id": "b3e939d6eee48a732ddaea081cdac01a8e4b93abfc4712f9c97d5c5a96a4da2e",
@@ -875,16 +875,6 @@
       "codexStatus": "PENDING",
       "source": "marketscreener.com",
       "publishedAt": "2026-10-06T13:59:06.000Z"
-    },
-    {
-      "id": "e19b76142fb1c7e49cd06ebd9ed63ee294f21705751621fd0962528f33361259",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "[Aluminum billet inventory consolidates at highs; production cuts and aluminum price pullback lead to regional divergence in processing fees [SMM Analysis]]",
-      "reasonForCodexReview": "Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-30T05:21:00.000Z"
     },
     {
       "id": "6eed970c83bab361ed3061e089ee7091798dd28a6f55dde8cafde4a63c4172a1",
@@ -1705,16 +1695,6 @@
       "codexStatus": "PENDING",
       "source": "Crux Investor",
       "publishedAt": "2026-10-28T15:50:07.000Z"
-    },
-    {
-      "id": "5bfd0bf462d26502882b170a43b49aabc6e9fd65dafc7046b17d807608a063fc",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Sparse market trading before the holiday; watch for spot inventory changes after the holiday [SMM Shandong copper cathode spot weekly review]",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-09-30T03:21:00.000Z"
     },
     {
       "id": "3ac21edc5b485cdc0faac322b603fb340f93065a94af824472b3d97bcc2b8cdb",
@@ -3127,6 +3107,26 @@
       "publishedAt": "2026-10-29T23:17:42.000Z"
     },
     {
+      "id": "9f0be2fb62afa6a2fd2b52df10089ab1161c1eeec5adc89b3e93b208873a43d2",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Indonesia's refined tin exports down 18% annually in September",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-10-30T02:03:00.000Z"
+    },
+    {
+      "id": "c0c3afe9c5b247064bd3494ed3856eec8be33f1cec27d97dc082cd6ad56793f4",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "US dollar falls for second day; metals mostly decline, SHFE tin plunges, LME tin, coking coal and coke, SHFE gold lead losses, SHFE silver dives [Overnight market]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-30T00:54:00.000Z"
+    },
+    {
       "id": "16f662c690c9b3ff01500b495bb39a353da28d0c5b5d0ca7b24bc90b4c2194ec",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3947,6 +3947,16 @@
       "publishedAt": "2026-10-29T19:00:00.000Z"
     },
     {
+      "id": "e84e595a2bc6923bdf15c8a3c5a0f32dec917b84562c8c82fd78d9316ebf042b",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Codelco Dismisses Eight Staff as Copper Output Scandal Widens",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-10-30T02:00:00.000Z"
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4567,6 +4577,16 @@
       "publishedAt": "2026-10-29T12:06:55.000Z"
     },
     {
+      "id": "6a4177165c6515237b6ef23908b9911533de9d5bdda0beee9da4495b616702e0",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Nanshan Aluminum Begins Construction on 1 Million mt Capacity Project in Indonesia",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-30T04:28:00.000Z"
+    },
+    {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4985,26 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Vietnam.vn",
       "publishedAt": "2026-10-30T00:14:56.000Z"
-    },
-    {
-      "id": "ec567ee3b47aa9b8f6f55f2a143480266be1ea9f7c615f70820b571fc5a5d2c7",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "US copper stockpiles and hidden tightness: supply risk lens for mine planners",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Geomechanics.io",
-      "publishedAt": "2026-10-30T00:03:38.000Z"
-    },
-    {
-      "id": "47a8e084f08a8203fa6dd8a0ed46002bd2e90c263c32b378159c9f9e92b331a8",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Southern Copper Corporation 2026 Q3 - Results - Earnings Call Presentation (NYSE:SCCO) 2026-10-29",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Seeking Alpha",
-      "publishedAt": "2026-10-29T23:02:46.000Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:26:17.928Z",
+  "generatedAt": "2026-10-30T06:29:45.255Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -974,53 +974,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-07T13:58:24.659Z",
       "updatedAt": "2026-10-07T13:58:24.659Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "bf504c989c3b8d5e481efd8799bc9783ce9116e91df7672d5c4682ddae4c01dc",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Chile copper mine strike risks heat up, adding further disruption to ore supply 【SMM Copper Morning Meeting Summary】",
-      "summary": "Chile copper mine strike risks heat up, adding further disruption to ore supply 【SMM Copper Morning Meeting Summary】 Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOThVN00wU0FDdzlxU1VUc2czZkg5WWZleHpzMUx4YkF1ZDBCYVBLM21CekhQc2ZsTklhcFVNMWQ3bWlkN2ZTYXRWRlZkbFgwb2ZyUUJycHY5Q1Y2cEJGVW40RGJJSHg3azJZSHAwVFo2TjkyMU5Ma19wMnlTWDlIR1d6eXhrTUVpNE5QQ25fSjQ0SnVCQVBnRUU2QW5KS0hfQjFWSUloVW9lYnlncDREUEFmLUpLT3JHQmtBTTVuNWJraTFPUVFsNWJzY04zREFNVVFGVkxfZllXbEowOU5BRV8weHRlQ3otX1Y3cExCNA?oc=5",
-      "publishedAt": "2026-09-30T01:11:00.000Z",
-      "priority": 59,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "SUPPLY",
-          "MINE",
-          "DISRUPTION",
-          "STRIKE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Chile copper mine strike risks heat up, adding further disruption to ore supply 【SMM Copper Morning Meeting Summary】 Shanghai Metals Market",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-30T12:37:40.618Z",
-      "updatedAt": "2026-09-30T12:37:40.618Z",
       "analyzedAt": null
     },
     {
@@ -2147,6 +2100,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-29T08:31:13.993Z",
       "updatedAt": "2026-10-29T08:31:13.993Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "855d7baeb6cbf475daa2848e8ef226f28d81d63419fa2c544e97b6f013796a63",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Rio Tinto Halts Underground Operations at Oyu Tolgoi Copper Mine -- Update",
+      "summary": "Rio Tinto Halts Underground Operations at Oyu Tolgoi Copper Mine -- Update Moomoo",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPODNxSWZpSWtsUkt0ZnZxMzY5aFp2OGhkcmFPV3lXeGFiSXEzTm9WWTIxVnRYVTZYTG1PVHVBWTJjd0lad0xnQ2JGRXVEbkVwSmE2cWFaZmJONzlXcnMtWVZ5Y0pvRFZVWkxIcUwwXzVFVktsbFQxQ3otLThNaE53dkhDOWlQb1djM0JIaXBwc1V0cDNZNzdJLWlCZDZObWV5d3ZHLVQxcE50ZVFY?oc=5",
+      "publishedAt": "2026-10-29T23:19:15.000Z",
+      "priority": 51,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply Disruption",
+        "categories": [
+          "MINE",
+          "DISRUPTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Rio Tinto Halts Underground Operations at Oyu Tolgoi Copper Mine -- Update Moomoo",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-30T06:29:45.255Z",
+      "updatedAt": "2026-10-30T06:29:45.255Z",
       "analyzedAt": null
     },
     {
@@ -3652,50 +3642,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-06T16:17:05.092Z",
       "updatedAt": "2026-10-06T16:17:05.092Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "e19b76142fb1c7e49cd06ebd9ed63ee294f21705751621fd0962528f33361259",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "[Aluminum billet inventory consolidates at highs; production cuts and aluminum price pullback lead to regional divergence in processing fees [SMM Analysis]]",
-      "summary": "[Aluminum billet inventory consolidates at highs; production cuts and aluminum price pullback lead to regional divergence in processing fees [SMM Analysis]] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPd1RnZm1sTEROOEIxRXJhY0d4Q3BDV09hTEZXZ0J3NWdQODlmeGY4UXVYRE5qRmhBZzJNTGcyQkVTdEdic1dMXzEtUkRKeEU1c0N5VkE2N2tTY2FPRE1vR2s1Q3o4NUdOMFpmcndUTGFGM0RrcU13ZEp2VzI4ajJDb09fYmk5N0R0TjJsb2dremNBQUN1aUx0U0NERXhMTXFiUWM4c05Qd1dXRFZ6U3NIdjJ1VXZ4UjA0bVN4Y0tLazhVSVFJam9Yb0pTMm9kTnA0NW9hcVJQYVg5TjNlMV9hajNrRmlGVUJETHB1QmF0cTVuQlpZeU4zYWpNTnE5MnBGXzhCdWtydVdPbVd3cUN3U0lZOWJmdng3Y2x5YmthUy1Kams4ekgtWk5FNlpVMjNzR3loLUFpZVQ2SU9WVkZOUlRNVG1vSS16bTFBbjd0YU1PQQ?oc=5",
-      "publishedAt": "2026-09-30T05:21:00.000Z",
-      "priority": 43,
-      "reasonForCodexReview": "Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Inventory",
-        "categories": [
-          "PRICE",
-          "INVENTORY",
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "[Aluminum billet inventory consolidates at highs; production cuts and aluminum price pullback lead to regional divergence in processing fees [SMM Analysis]] Shanghai Metals Market",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "production cut"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-30T12:37:40.618Z",
-      "updatedAt": "2026-09-30T12:37:40.618Z",
       "analyzedAt": null
     },
     {
@@ -7082,42 +7028,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-28T17:25:35.520Z",
       "updatedAt": "2026-10-28T17:25:35.520Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "5bfd0bf462d26502882b170a43b49aabc6e9fd65dafc7046b17d807608a063fc",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Sparse market trading before the holiday; watch for spot inventory changes after the holiday [SMM Shandong copper cathode spot weekly review]",
-      "summary": "Sparse market trading before the holiday; watch for spot inventory changes after the holiday [SMM Shandong copper cathode spot weekly review] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNG5xZHpkc01YNEFoZjY3NjBDa09DQVdGakxqU1UwN2N0eGIyMmZSLTF6eTZQc0ZHamlwcFhFYWRuemNyLW9GQ1NfX29TMURrNkg3ZlRwajdMYUZTVDlTa0tZenFINXhKVXlkc2FJUjVNdG1JaE9mbHJITU1DamFScHRmMkswN1d6VmdSZ0hkcVRPRVIzWUlqNTFpQUI5aVZETGMwSmFmbldWMlc5Qm9TbDIyX0l1RjcySnd3NGtVOTNxQzdDM19LM0UySUFEWFdveC05RnR0emJGZVYtQVl5RTBYYmxtWDZPY1B1cUg3emVrV3paeUp0MnVCTFRZeXRlcHVONDc0T04zMjV4X1I0YQ?oc=5",
-      "publishedAt": "2026-09-30T03:21:00.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Inventory",
-        "categories": [
-          "INVENTORY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Sparse market trading before the holiday; watch for spot inventory changes after the holiday [SMM Shandong copper cathode spot weekly review] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-09-30T06:02:02.757Z",
-      "updatedAt": "2026-09-30T06:02:02.757Z",
       "analyzedAt": null
     },
     {
@@ -12339,6 +12249,81 @@
       "analyzedAt": null
     },
     {
+      "id": "9f0be2fb62afa6a2fd2b52df10089ab1161c1eeec5adc89b3e93b208873a43d2",
+      "commodity": "TIN",
+      "subCommodity": null,
+      "title": "Indonesia's refined tin exports down 18% annually in September",
+      "summary": "Indonesia's refined tin exports down 18% annually in September TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaW90V2NqdE5sNjg2cFFmX0JjRFY4aVAxNXJObmhpR25wS21JOGpWYWF2cnVXVFJ3TE94cnFjdnVIWWE2VU1La3FCbEpVLWRqWG41RUpEU2lST3NMWVBSNml5TmFXSnFSWXNyWTNncVVLZ2VRSzNZTTNxX1E3anZVamg1bmMzSnYxTG03QlkxRG9ra19CZldlS1BpUGhLbXVfam5xeDFsYmdSNlhib0hLMm1lOUhIT25TU2kwWVlWektjWEUtSlhGcjc2VQ?oc=5",
+      "publishedAt": "2026-10-30T02:03:00.000Z",
+      "priority": 37,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "LOGISTICS",
+          "EXPORT"
+        ],
+        "region": "Indonesia",
+        "regions": [
+          "Indonesia"
+        ],
+        "summary": "Indonesia's refined tin exports down 18% annually in September TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-30T06:29:45.255Z",
+      "updatedAt": "2026-10-30T06:29:45.255Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "c0c3afe9c5b247064bd3494ed3856eec8be33f1cec27d97dc082cd6ad56793f4",
+      "commodity": "TIN",
+      "subCommodity": null,
+      "title": "US dollar falls for second day; metals mostly decline, SHFE tin plunges, LME tin, coking coal and coke, SHFE gold lead losses, SHFE silver dives [Overnight market]",
+      "summary": "US dollar falls for second day; metals mostly decline, SHFE tin plunges, LME tin, coking coal and coke, SHFE gold lead losses, SHFE silver dives [Overnight market] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNTjlmRE9uWEhzTHBWOGE2Q290VWRkQzBGVVVVSVFEOWo2TjdsMzllcGdxOTJZTFJZQjN0LXBHeHduNDdMWk16OTBPVmkzLTFCelF5alRZVGxwTjJ3Zk95OVNYXzAyYy1neEJBSFFnMWVTU1hNWUI5TFF2QUFPWWhCZ1JfZ0MxOWJmMnF3Tl9nUUk4elN0cnFKa29EdkVFQzgtbHdlOGxEYldINm1zd194NEpLUUF6WkE4eVQ1TTB1bXpDM0tzYW5HbjR0ckJvazRKUWhMU0Y2c2JYekV2MVp3Wjk3OGpjZDRCdENFUmhLMU0zc2h5Q19hLTZqZFdJaExpMEExWEtJQkVrVzRHM3FOczFOSlkzdFE2RnBlVENrSkxZUWNJQktj?oc=5",
+      "publishedAt": "2026-10-30T00:54:00.000Z",
+      "priority": 37,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "FX"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "US dollar falls for second day; metals mostly decline, SHFE tin plunges, LME tin, coking coal and coke, SHFE gold lead losses, SHFE silver dives [Overnight market] Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-30T06:29:45.255Z",
+      "updatedAt": "2026-10-30T06:29:45.255Z",
+      "analyzedAt": null
+    },
+    {
       "id": "16f662c690c9b3ff01500b495bb39a353da28d0c5b5d0ca7b24bc90b4c2194ec",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -15330,6 +15315,42 @@
       "analyzedAt": null
     },
     {
+      "id": "e84e595a2bc6923bdf15c8a3c5a0f32dec917b84562c8c82fd78d9316ebf042b",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Codelco Dismisses Eight Staff as Copper Output Scandal Widens",
+      "summary": "Codelco Dismisses Eight Staff as Copper Output Scandal Widens Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTTZtWGdTU2FHTlJlNVZIUHd5U0NCT0ZUMXp0blZROFhUbzl3Mm5hTnh4ZF9rdTF0RlFDeWctUFdJYWtRVXhTR2tNSjBoWG1zUWhrUXl4elV2WUFrcm5ncGpzclEwZ1BDYTRIVmViQ0R4ekRqa0ttOXBha1ltTkJVak13Zmx1d0VCU29RZ1dEbm9DX3pvV1VhUGF6VmhWdlNTbGtBQlEtTGFoTkg5RDlRbHp3?oc=5",
+      "publishedAt": "2026-10-30T02:00:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Codelco Dismisses Eight Staff as Copper Output Scandal Widens Bloomberg.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-30T06:29:45.255Z",
+      "updatedAt": "2026-10-30T06:29:45.255Z",
+      "analyzedAt": null
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -17741,6 +17762,45 @@
       "analyzedAt": null
     },
     {
+      "id": "6a4177165c6515237b6ef23908b9911533de9d5bdda0beee9da4495b616702e0",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Nanshan Aluminum Begins Construction on 1 Million mt Capacity Project in Indonesia",
+      "summary": "Nanshan Aluminum Begins Construction on 1 Million mt Capacity Project in Indonesia Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU0VkUG5Rdm5MRzJtZ2hxR01VZFlBQWhYQ0FvWDdTY201cUJUXzN5RHVMdEM4RktoaFFqR184eUU5QTQ4T2h5eDlPYTZxeTExSDlRUDE0b2p0TzNTOEVESG1HeEU4WEFPT2I3aGtwY2Y5S2JxNmNHS29jMHFnMkNFaURVZ3BMQmt6QzJYMjdwc2RjcUxxOVUyRUNuWjFuZFdkMUZhamU1R2QtWEdfUzZxbm9fNVhoN25aQXFYV0ZRVGdfWGg0eS1zV013?oc=5",
+      "publishedAt": "2026-10-30T04:28:00.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Capacity",
+        "categories": [
+          "PROJECT",
+          "CAPACITY"
+        ],
+        "region": "Indonesia",
+        "regions": [
+          "Indonesia"
+        ],
+        "summary": "Nanshan Aluminum Begins Construction on 1 Million mt Capacity Project in Indonesia Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-30T06:29:45.255Z",
+      "updatedAt": "2026-10-30T06:29:45.255Z",
+      "analyzedAt": null
+    },
+    {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -19254,81 +19314,6 @@
         "region": "Unclear",
         "regions": [],
         "summary": "구리가 미국으로 대량 유입되면서 중국은 공급 압박에 직면하고 있다. Vietnam.vn",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-30T00:26:17.928Z",
-      "updatedAt": "2026-10-30T00:26:17.928Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ec567ee3b47aa9b8f6f55f2a143480266be1ea9f7c615f70820b571fc5a5d2c7",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "US copper stockpiles and hidden tightness: supply risk lens for mine planners",
-      "summary": "US copper stockpiles and hidden tightness: supply risk lens for mine planners Geomechanics.io",
-      "source": "Geomechanics.io",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMURyX2RyMzJfU0VTYVZLLVpTX29sMGpmMjdkbUNBVEJTdWtNdXVqclVBNF9hQXctWXNBb3RYVjgwcVpJWlZaZjJiU1VySU5fbVVBVUo1eGNrbXdqVDVEb0ZFQ3Q5LTlubTVSR0RwU2pYZG5VWEZTMThhZGtwU3B3U1g2SEZNX2cyaUU4VUVOZld5eXRrRnVZTUt6emtLNzhES3dRTlNSRjZqdTU5S29LeHZudFU1emhN?oc=5",
-      "publishedAt": "2026-10-30T00:03:38.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Inventory",
-        "categories": [
-          "SUPPLY",
-          "INVENTORY",
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "US copper stockpiles and hidden tightness: supply risk lens for mine planners Geomechanics.io",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-30T00:26:17.928Z",
-      "updatedAt": "2026-10-30T00:26:17.928Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "47a8e084f08a8203fa6dd8a0ed46002bd2e90c263c32b378159c9f9e92b331a8",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Southern Copper Corporation 2026 Q3 - Results - Earnings Call Presentation (NYSE:SCCO) 2026-10-29",
-      "summary": "Southern Copper Corporation 2026 Q3 - Results - Earnings Call Presentation (NYSE:SCCO) 2026-10-29 Seeking Alpha",
-      "source": "Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNmhWT0h3QXM4Zm1KdnhSanRfLVZDMnRhbVJZZlRhcHVucjY1UTZrQ044MkcwRTdVd21ieDEwQzNiMHRDbDhrZDkyR2hfZ2xJQ1N5QmJHV0h6UlBSSGpxTmVNMDNkT09NWHphbF9QaE9TM3dpNlYzUFI3WWtSNlBpTW9WSFRQMWtrbUNGSmNQc3oySVprUGJUb05sNGhVVFo5NGlRcEhDZWZYOWpXVGtxWQ?oc=5",
-      "publishedAt": "2026-10-29T23:02:46.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY",
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Southern Copper Corporation 2026 Q3 - Results - Earnings Call Presentation (NYSE:SCCO) 2026-10-29 Seeking Alpha",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
