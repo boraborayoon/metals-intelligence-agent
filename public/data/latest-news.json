@@ -1,6 +1,564 @@
 {
-  "generatedAt": "2026-10-30T18:53:36.406Z",
+  "generatedAt": "2026-10-30T22:59:34.049Z",
   "items": [
+    {
+      "id": "936a682b755280eca540c8667845c3dc7d510ec654a24b52808bbd959a238a32",
+      "titleSourceHash": "619edfc9a84a349365618e1a7f5e4bb7f42bdddbcc39ab56f1581d982f498217",
+      "eventId": "f127ca643c33068d23385705d946814318c4d702a1e2a01f60d59e0dd888b6a1",
+      "title": "In 1905, a copper discovery created Greenwater, California, a town of 2,000 people; by 1909, the mining b",
+      "normalizedTitle": "in 1905 a copper discovery created greenwater california a town of 2 000 people by 1909 the mining b",
+      "description": "In 1905, a copper discovery created Greenwater, California, a town of 2,000 people; by 1909, the mining b The Times of India",
+      "source": "The Times of India",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-30T21:00:00.000Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNZzAtQTlxNWVybkJIMmM4b1ZuT0d0bGphMWxVUUZJLUEzRkJnVTh0X182cHZ5ZnZKMS03dTNWSnRyczRwQldUbE5xTzVqeTV5blZlc1hnWE9JYmVoQWY3X29LM08yd1NMMzlGN3lFRE9sRW9YTU03dE5jODVOaHFwdHAtampvc2JQVnNDTE8wQWkyQjBBWWhiUnNjcG9HN0p5blJzcDZ6WUYwcWpPOG1nUTdEbFdxeEhSZjFMQ3lNaXRMRW9rc0JBcHhLWVRTTTRsZ24zSnVnN0ZteDY3MU9xTWJaVTRZcmxTbnNRbTYxUHYyNDlZcmJhUXZNTUhFeE5aNmkybXBDbkFDczJaVEQyOGQwclVhT0kwV1U0V0R1Q1czMDItRkF1OVUzNkVOQlFrbGlQR2ozNy11QdIBvwJBVV95cUxQaWVxUjF5VzVLYmRaR0VuRzB6QVJlaWVGWmJjVjczckFPbF9sLVdKU3gzemtxZTdtTC1yUTZPZU91XzNoZVFLNmR5SFdQWGtJcFFfaXRhd0JFSWEtZnJvZlNWTkllWWI2cVZ0cFdzd1B4cGl3OXQxTnBGTDFXQXBHdTNTLUFqMjlxbUlVZ1dxRkU2MnNWaVNteXNYMHk5bnpScVZOeVVLRUtvdnlMTXVhRWxQZTlESDJnTUxNOHJIQVJmcmp4QTA5Q21NUTAtV2cwZEFGNHYwTk1iaEkxaktZcXhKX0hJY3VlVDNxNVRaa0hMQml6eEI2ajNQalhPZDMtV2dkaDlDVE9KYmRnaDRpZjJOckJreS1md3UtNWdOR3VsaktqVFYzdGtqVzY3M3pzVk02TG1FS0lzb2NKeFcw?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "mining"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "mining"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "MINE"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "In 1905, a copper discovery created Greenwater, California, a town of 2,000 people; by 1909, the mining b",
+      "summaryKo": "In 1905, a copper discovery created Greenwater, California, a town of 2,000 people; by 1909, the mining b The Times of India",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "In 1905, a copper discovery created Greenwater, California, a town of 2,000 people; by 1909, the mining b The Times of India",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "In 1905, a copper discovery created Greenwater, California, a town of 2,000 people; by 1909, the mining b The Times of India",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-10-30T22:59:34.049Z"
+    },
+    {
+      "id": "cbc79e6056aee0d397addea61310d433af61a5fddd129ec45b5935b674d85e15",
+      "titleSourceHash": "c566baafe122bcae47239654c585cfdea08937e5f0534923bb9b1ed1c68c97cf",
+      "eventId": "56b1e9c14106674df936117366b47f23c4d0205dcabeb87b055ca1da9207e772",
+      "title": "If You Invested $1000 In Southern Copper Stock 10 Years Ago, You Would Have This Much Today",
+      "normalizedTitle": "if you invested $1000 in southern copper stock 10 years ago you would have this much today",
+      "description": "If You Invested $1000 In Southern Copper Stock 10 Years Ago, You Would Have This Much Today Benzinga",
+      "source": "Benzinga",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-30T20:15:30.000Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT2p0V3kwRTFEeENieGhDU2NpWHVNMTRZOHI2bk5GYmo3UXpPeUwtNkEtUkhEZFBPN0pOR3RzU09RU2hTQ0JSZEF2VjRaYnJPMld3dWFvM2tndU5NWC1lUmllcVlNVC1GeExUZ21rOFNIZDFZQlluR1RHcnVLcG9yUkRxV1F0TU96dUNRRlcwcjRSZElvMEFTZjRTeUVhRU9TX1VaSkJ6a1UwQlkzOHk4TUJCRnU3dS1famRxR3IxLVd5dmZO?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [
+        "Southern Copper"
+      ],
+      "matchedRegions": [],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [
+            "Southern Copper"
+          ],
+          "matchedRegions": [],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "COMPANY"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "If You Invested $1000 In Southern Copper Stock 10 Years Ago, You Would Have This Much Today",
+      "summaryKo": "If You Invested $1000 In Southern Copper Stock 10 Years Ago, You Would Have This Much Today Benzinga",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [
+        "Southern Copper"
+      ],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "If You Invested $1000 In Southern Copper Stock 10 Years Ago, You Would Have This Much Today Benzinga",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "If You Invested $1000 In Southern Copper Stock 10 Years Ago, You Would Have This Much Today Benzinga",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-10-30T22:59:34.049Z"
+    },
+    {
+      "id": "c3a9c9d6c172d841dbaaea578161add5122ff1c66b004df8328c668d1e4bd00a",
+      "titleSourceHash": "c886d9ed5c70fcdef85868a3758826a4f85ad4394eac8505167d648a274c8071",
+      "eventId": "cbf555bb6b6d16e3ba2182f3836b49525e4b40abecd5e1b0a7472a51a8042200",
+      "title": "Supervisor excited for future CG copper mine",
+      "normalizedTitle": "supervisor excited for future cg copper mine",
+      "description": "Supervisor excited for future CG copper mine PinalCentral.com",
+      "source": "PinalCentral.com",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-30T19:45:00.000Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMEpObWZ5eWRmSGNwbkhndmlsanRWUUU2Ny1JOTEwOEpZc2VMZUVuM0V3cEJ5MlM0TVRNeXNxZkl1c0ttZGRXdW9HUzJ0TjQ3TEU1Q01XZUZTTC1WWjZ5VmpGTzgwOU5MUmx3QjRJc0g5NzhfZDJPY0FRMmdGWjVQb2x2T1IxY3REMHpFcGtRdjVFX2JkWHNrRThIN1djcFdOUUdOMHRIdWxNVnBFSThVTERYSWNEWVBoalhHNENvQmtDa0J2TC1WUXdncDFsOThMb0h6cEF1c21peWV3?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "copper",
+        "copper mine"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "mine"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 13,
+          "matchedKeywords": [
+            "copper",
+            "copper mine"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "mine"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "MINE"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "Supervisor excited for future CG copper mine",
+      "summaryKo": "Supervisor excited for future CG copper mine PinalCentral.com",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Supervisor excited for future CG copper mine PinalCentral.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Supervisor excited for future CG copper mine PinalCentral.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 38,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-10-30T22:59:34.049Z"
+    },
+    {
+      "id": "3b517fce1204d97f6ac6f9c958ad4be22a60130726658d5672127f61d2af264c",
+      "titleSourceHash": "be40c687353f33d10bd0927e81a6d80d505ab335f65e123acffbd37b7de2999b",
+      "eventId": "5aa31fb35e1d70fb3cde5413ee91fc16d85a6becbd3ba376d012ef09c58c54d7",
+      "title": "Chile Cut Its Copper Output Outlook For 2026",
+      "normalizedTitle": "chile cut its copper output outlook for 2026",
+      "description": "Chile Cut Its Copper Output Outlook For 2026 Finimize",
+      "source": "Finimize",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-30T19:01:24.000Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVb0VEQTYyUW5KM05EcVJRd2lsTkNFQS1yM0pXa2hsZjJoTDR6aE9EMWtpaGlGSU1FZDJIVmUxNldGYU1STkNyOEJvWFhaT3ctWWt6UGlDVUprT0hNZzZSV2pvTGdZdWh5OVNaazlHdktHQUxNenZJeDd0Q1JrUQ?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "Chile"
+      ],
+      "matchedMarketTerms": [
+        "output"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 10,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "Chile"
+          ],
+          "matchedMarketTerms": [
+            "output"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRODUCTION",
+        "GUIDANCE"
+      ],
+      "primaryCategory": "Production Guidance",
+      "titleKo": "Chile Cut Its Copper Output Outlook For 2026",
+      "summaryKo": "Chile Cut Its Copper Output Outlook For 2026 Finimize",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "Chile"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production Guidance",
+        "categories": [
+          "PRODUCTION",
+          "GUIDANCE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Chile Cut Its Copper Output Outlook For 2026 Finimize",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production Guidance",
+        "categories": [
+          "PRODUCTION",
+          "GUIDANCE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Chile Cut Its Copper Output Outlook For 2026 Finimize",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 35,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear; Material event taxonomy",
+      "sent": true,
+      "sentAt": "2026-10-30T22:59:34.049Z"
+    },
+    {
+      "id": "e22c655a5a4e6d87792e3b48bf39dbd95fa9044b5865c3c6508f0ffd9920bc15",
+      "titleSourceHash": "2ec1d15e9f8dac2b6385312e8cc4877756fb92d18cdb0674f5e6514a61fa6b3e",
+      "eventId": "ca0c3c8755bb96511abbc6dc292eee6909413ee19c134f343d353a5efa662cca",
+      "title": "Chile Copper Mines Deliver Worst Quarter in at Least Two Decades",
+      "normalizedTitle": "chile copper mines deliver worst quarter in at least two decades",
+      "description": "Chile Copper Mines Deliver Worst Quarter in at Least Two Decades Bloomberg.com",
+      "source": "Bloomberg.com",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-30T18:47:25.000Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVndhOXlmaFYxSVF0NXE3ajhXdExiMEVKME5oNXlEUTlhMnZybThCMzVacjRBQWxTWHpJUkZHcm1Ia0RBd2dmZDQybXhOQlJMczFUek1GWndjVHNJTnhDV2ZURmIxaDhNLURPYjdxWEhqb0N1dnJvUzNjMmZlRWRoNEtIWFBIajdNV1VxQTVkbzYwUHk3TzVDekpjR3FiUW9xUGFaVDdZRUc3OE0zTWdHYTFlY0podw?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "Chile"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 8,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "Chile"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "MINE"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "Chile Copper Mines Deliver Worst Quarter in at Least Two Decades",
+      "summaryKo": "Chile Copper Mines Deliver Worst Quarter in at Least Two Decades Bloomberg.com",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "Chile"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Chile Copper Mines Deliver Worst Quarter in at Least Two Decades Bloomberg.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Chile Copper Mines Deliver Worst Quarter in at Least Two Decades Bloomberg.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 18,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
     {
       "id": "66949157c03aee583030e5ca88ddbd84f618516d46c6c8123c6454020b7cd19a",
       "titleSourceHash": "e7f4b60372ca3e0fe1559ef7bd06dbbcc9fcad64f154a09e6e272f5f8c6fd6cc",
@@ -280,7 +838,7 @@
       "source": "MLex",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-30T17:55:37.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMS1VTFZ1SG42Y3h0azBhVkR3MFVaVTltQlFtZlJoSnQtOG5GNzZGNUd3OElnckU5TkJRNURneGZGdV9jeUdKQTBHNEI1OTBRUURRbHVpUnFCSU8yV0l3SkQ1RE53dUhSTzdyZzItNXFOaDMxYTE1VGFnWjE2NFFveHVlaXItSk5OUlpsSXotcmNLZXNFTjVjLUd6ZlRyUWdlbkdsUjkwWGVBc1JDaHRacU0xUzIyRm_SAVpBVV95cUxQSTBDcUJkYnVMRzNYVTNDRFhQckpwMktCODJGZkY4VS1rYWdQN0JYZ1h2UlJ1bWl3aWEtbjNneFVkYVFYTWltRVdfU2o0emFUUThrQ3c0d0dzcWc?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -376,8 +934,8 @@
       "priority": 34,
       "codexStatus": "PENDING",
       "codexReviewReason": "Rule direction is unclear",
-      "sent": false,
-      "sentAt": null
+      "sent": true,
+      "sentAt": "2026-10-30T22:59:34.049Z"
     },
     {
       "id": "4825ee5733200a4de9ba4d5c218274c7e70f5ebc355846813c06a5f83bb92b2b",
@@ -850,7 +1408,7 @@
       "source": "Aluminium International Today",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-30T15:15:28.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmJPbUd5eGdSeGNaZVpYanhOYkxicVAxYkdrdEhuMWF0clpXcHNCaHRpN21sbjdtUTlBSmhsVHVmUjQ5ODJzNHlXWmFQbkRkS2pTVWFFUEc3WGh6RnhTeExseFVEWU1EeUZYLTBjbVU4VFdkTWF0NElEa0EtN2FTZWVsZw?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -937,7 +1495,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 15,
+      "priority": 11,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -953,7 +1511,7 @@
       "source": "Yahoo Finance",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-30T14:16:37.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQW5LbW9mUnRDX0xlcXhuVDBpaVdfZXdGSDFTSTJJaS01ZVR4ZXBOcUgwUHpPdDdrdEgwU3JZbzhBNVRhUlNicFgwcHdwdF9zc0VZSHE0ZGFfUG1SN1ZiVTN6Z1FnYUNvVDFfWHhsazljOGVHR3AtaXlfNlJBaXhYVlRSX2o3a2xLZk4xSl8xOUJuZFlPOGxnR1VEUjJpQ28?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -1047,7 +1605,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 34,
+      "priority": 30,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -1151,119 +1709,6 @@
         "urgent": false
       },
       "priority": 16,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "e22c655a5a4e6d87792e3b48bf39dbd95fa9044b5865c3c6508f0ffd9920bc15",
-      "titleSourceHash": "2ec1d15e9f8dac2b6385312e8cc4877756fb92d18cdb0674f5e6514a61fa6b3e",
-      "eventId": "ca0c3c8755bb96511abbc6dc292eee6909413ee19c134f343d353a5efa662cca",
-      "title": "Chile Copper Mines Deliver Worst Quarter in at Least Two Decades",
-      "normalizedTitle": "chile copper mines deliver worst quarter in at least two decades",
-      "description": "Chile Copper Mines Deliver Worst Quarter in at Least Two Decades Bloomberg.com",
-      "source": "Bloomberg.com",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-10-30T13:54:30.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVndhOXlmaFYxSVF0NXE3ajhXdExiMEVKME5oNXlEUTlhMnZybThCMzVacjRBQWxTWHpJUkZHcm1Ia0RBd2dmZDQybXhOQlJMczFUek1GWndjVHNJTnhDV2ZURmIxaDhNLURPYjdxWEhqb0N1dnJvUzNjMmZlRWRoNEtIWFBIajdNV1VxQTVkbzYwUHk3TzVDekpjR3FiUW9xUGFaVDdZRUc3OE0zTWdHYTFlY0podw?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "Chile"
-      ],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 8,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "Chile"
-          ],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "MINE"
-      ],
-      "primaryCategory": "Mine",
-      "titleKo": "Chile Copper Mines Deliver Worst Quarter in at Least Two Decades",
-      "summaryKo": "Chile Copper Mines Deliver Worst Quarter in at Least Two Decades Bloomberg.com",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "Chile"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Chile Copper Mines Deliver Worst Quarter in at Least Two Decades Bloomberg.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Chile Copper Mines Deliver Worst Quarter in at Least Two Decades Bloomberg.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 18,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -1493,7 +1938,7 @@
       "source": "TradingView",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-30T12:05:23.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVHRSN2RvTGZUbFZtdWxBRzgycWduY29Xd1FpYUpaQTlRVjZTTFN4aHE5N08yWE9sX0lYMks0MU52VktUMC1MLUdMNlJuRG1tRnRrRlpnd01YYUFmczhyb0lxWFZrUWJTRVczWmpBWDQ5aFZOYmtNdnNvaGZpemxtVFRTV25Yc0RHazdVNmFsMGlOQlpFR3Zz?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -1610,7 +2055,7 @@
       "source": "TradingView",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-30T12:00:41.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUJDcUVPNkNxV0lyR1czdTFmaFBMM2pDMFdWS0hMeFFTTk1jbWpkNlV4R3VRTmt5cW55ajRieWdRN3gyQ19IMWNreWpVd1pwUjM1eUo4QjVRUWlWc0s4eG9NQ2V1QmdpS0t3OG93S0FPaXZGNW1jNzdicllLUjlHRXRWZDg3cjI2WjhrMHZ6c3RxN2xZemY1RFFBcS1IeDdsekRPRFJqejdXUFhla2NGMzVCZGpxcHoyLTRvMHcxV2prMGF1R2pB?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -1836,7 +2281,7 @@
       "source": "StreetInsider",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-30T10:59:41.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdDBYQk5wbmpRS1RhZHY0aVdhYnNNSnNfdXItUkZzOFlKek1tZmFjOVF4eEZTUlI3WVoxaEVocWRkb3hkNHdsQ3h0NTVvTV9tVXNfY0VrODUxNnMxaFRhMlJpRjdOVERveldwZXRDUGRYb0E4OHRyYlBwaGxpQ2RMSGF5NDZxNTBsdWNhM3dOcVZ5WEVtYzJKOGRTMzZCMDVOM01WZDZFR3psbXd5Qk1rNUpmQnNRdFhzV1pxS0dnZw?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -1946,7 +2391,7 @@
       "source": "Benzinga",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-30T10:41:29.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNDVVZjN0UVNrbFRzSmx2c3lUaHFrbl8ydTR2YTczdnlLd1gyOFptbDhXNWdpSTZEcnY3TDNPZi0wdEM0N1poeUZyaGtBRXJyWFVZWHdPZ2N6NmREb29EemRBbUZ2ejZiNnRReFE0b2lSZ2tuX2hZczNWekwyVUd1RjZxa3dCR1dmVWhtYkVFeVhNU25KUTFSbG9NZDhkcEFXTEhMMjFiX3ZnNkN1b2o4d1V1T1p6OElJSjBuWHVB?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -2392,7 +2837,7 @@
       "source": "Crux Investor",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-30T09:05:49.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSlpjSnNoalR1YjJjVUJLRU0zVTR5Rl9kWTl6RTFZQjlKVnhaRWtiYzMwOU8wX1JnNFJDZ2hZb2JHYWZmQTF0anc0OE9KWHpOcFpsZkNWWVRqOHA3MDRIUWlfZTBVNUlUUS1zT3AzY3ZkYTJUbkJlejNuQndBdVZnbnUwOHd6UHpHNEZWdGdlTkpEcnY1NnVkc3BlRUgyLVFsaXc5S0xnczRBSTE1Sl90bWtiTXZDV0E?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -2608,7 +3053,7 @@
       "source": "Yahoo Finance UK",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-30T08:04:50.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnhIM29TMF9EdldLMUV2VnlsLVdTTzZUNEF4T0JFYmplQ1JPUlRyMG0tWXk4dDEyeS1RWnZ4V284dmdkb3UyNFpQeHloQjNrTm83X3pvQ0U0eWxVZ0RnTVh1SVZJc2JBM2ZKTEdLWmo3bTZFN0F4Sks3TVZsMzl6alE2VWd2N0Jwb1E?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -2711,7 +3156,7 @@
       "source": "Yahoo Finance UK",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-30T08:02:23.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3k2YXdRa1ljM0QycFZYRmRMQjJ5NkFHU0p1cFRkclQwMGtUS0FsdWJJOFJaTW1KV0dITWxiV2Z2OFRoRTF3TllVdGVWeXRvcU03WWcxMkhDMC1UMHhqaHAxalhUREJZcHJ3VFY4VTgwOVB4VUQyM3Y5MVVoQU41d0IwVFZyN0l2MG9SNQ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -2818,7 +3263,7 @@
       "source": "Benzinga",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-30T07:50:32.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUUtpSVZlTmFheVk1MWZjYm9KRl9oTkU1VEYzZHpqdVZkaWstYUVXN1JBOGpPRHdyaVM1VzVsS1lVTVlFODJtbnRDekhRU255WDIwbm12alJBQXI2QmFQSHRiNVR2eHRTM3JRT2lPcno5cWo3dWxGWURWdEx4LU9IR2RfY0poWmQ5b1ljVjZSRV9GMFBHeWNLZ1JCbWY0MEwySEJZdFFIdWhVQTBYc2VSWEViemt2YkxXcnc?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -2921,7 +3366,7 @@
       "source": "TradingView",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-30T07:23:06.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQV1BOR1E4Vm0xY09kVmVfQnVUeEFBRUxuQkFIYUZXVU5ucTBoVVpocjQ4UTdOOGktOUpUSFd0WkFHR0pUeF9Jcm1CYnByOFhGMVBsOFNwNmp0Y1N0TFo5LXN2SjNGN3hicnVyYjNKNmFCWkNLalgzc1RXS2dIejFlMi1CWjVCNEt4MW9ucDNvd2xTYlB1VVFyWHVIRWN1a1VESDBTLUxpTXdncHNHZU1mR1I4YnVYVWVFNVN2ZU5YbzBINTk3M21JWlEtSHVBRlFTNkhGUXZwZ1JLc0ppVUpzdnFfVkp5R1JXZlJhS1ZaYjU3Zw?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -3016,8 +3461,8 @@
         "urgent": false
       },
       "priority": 32,
-      "codexStatus": null,
-      "codexReviewReason": null,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear; Material event taxonomy",
       "sent": false,
       "sentAt": null
     },
@@ -3161,7 +3606,7 @@
       "source": "The Mining Gazette",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-30T05:55:42.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUDBaYTk4SlQ0Sm94ejNtLTNtTHFpdk95b2FIblJCa0d3NWRsY3RaczREVlNyZU55XzdraXczNXM0Q01CM3BjUmh5anlJOGtKcDlpZnVPQnVXTkRPQThPSEFsWmpQemFLMmxVcVRaWGJWaUpfR2stVVRmR0JrdTl3UE53b3VJQzBG?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -3375,7 +3820,7 @@
       "source": "더구루",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-30T05:07:40.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZQk84czk1TzN2T09pRGd6WHlzaDQyTG04SGdna1lZSEd3QkdCWmxhNXNMN2tiTTVIajdEbGZkb19UVk1DWndmRFFLQXZVQlVYX0plV29BYWdhU1hUY1BrUmo2OA?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -3842,7 +4287,7 @@
       "source": "Products Finishing",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-30T04:00:45.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON3pyejQ2TE5VWVNyQ20wV2RTcm4xWTRmam1uWGlRS2hxLTFfb0ExbExpWVA1UC1tU3dMSER5S0U0YWJCazBTQ1Rtem94dnNHTVBhM1pwTVNkMmJSd0MtRWMtMGVtMlRJZXV3QWs1NmFDQ0tCNXprS1dpRmxieTJveHZGWElPN0NBYUp3T2VZLTR1dHhObGRvUEhGbmFoaXFUWkNBUVBncmNPYXU5QWI2Z3VQMA?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -4286,7 +4731,7 @@
       "source": "CNews",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-30T02:28:21.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tSDN5UVhrLVZIMllPQWFuYldjUld2YVBQRjNpVkx1MzFyeGFxbEFWYjJCLXpwTWpDTmIwRFNieWUwd285QTB5Znl3djVYc3JrNE5MSk1vb3BKbUhuR29aa0dBMm1HN3VBcjY5Rlp6dmRVZXMzZkQ4?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -6187,7 +6632,7 @@
       "source": "산업일보",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-29T22:59:12.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1YQVd1RnhsSE5BYnRZZWF2N0N6a2FDR2hzVnZoWWVrNXR3cXBPemVBQXh4RHJSNXFkTllzY3FrVm44Mk9J?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -6281,7 +6726,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 30,
+      "priority": 26,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -7606,6 +8051,116 @@
       "sentAt": null
     },
     {
+      "id": "cb06488a5d2614ffecd309e071dc6a3529c3ec97ecae8b2e7896a871ddde53af",
+      "titleSourceHash": "471faa03f5293d7b29ea0b37b9bca826fb8e57d4c3a0b11b12af99fa8c3f6023",
+      "eventId": "3ac60d7c4ad7a04026cf804868f86144020db15fea95b21093cdc70d6d4d91f3",
+      "title": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History",
+      "normalizedTitle": "selkirk copper mines inc scmi v stock price news quote & history",
+      "description": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-10-29T16:15:52.000Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByVkN5QWhPZl9JRjQyR2hwcEtXTVhYODBtNE1GZEktdDJmVXRhaXgyRHRmN25scXZ6NXIxeWZBclM5Wm51cHVuY0NURTY3ZjkzZHZ6NA?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "price"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "price"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE",
+        "MINE"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History",
+      "summaryKo": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "PRICE",
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "PRICE",
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 26,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
       "id": "a61feb5d678ce8c36c0239edccd62532350e12ee3c9e5eec13f9eb7a0d88043f",
       "titleSourceHash": "221da90293d46868e68647cc55ac9507ef24b9a005e912944fcb4a2f4133680d",
       "eventId": "34f9228b58f63535bc6b99eab913fc204f6bf33b5c24a61c59f8d62e6e0c8002",
@@ -7956,7 +8511,7 @@
       "source": "Freddie Mitchell",
       "feedSource": "International Tin Association",
       "publishedAt": "2026-10-29T15:37:12.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://www.internationaltin.org/solidcore-approves-syrymbet-construction",
       "language": "en",
       "commodity": "TIN",
@@ -8076,7 +8631,7 @@
       "source": "Bloomberg.com",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-10-29T15:35:14.000Z",
-      "fetchedAt": "2026-10-30T18:53:36.406Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNVZDQTFiNUJfWk9mb1VZS2E1VkpIU0tMOVVzMC1ySS1LYjJFTHJ6VGF5a0dicERoemxzdTc4eUstVEtlb0t3d2lkdldVSV9DLVFRN05uOVVMQlB0aDZxVTVmRmVEQk9lZkhFYk8tRjRWbmYxS0U0NGVkUlB6ZkFFdmtUVHAyeVhFNVBScTJSaEZnb1N1ZkJTdDFnUGxOWnV5Sl9KalRFOC16SE56bEx1RktR?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -9433,7 +9988,7 @@
       "source": "연합뉴스TV",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-29T12:05:00.000Z",
-      "fetchedAt": "2026-10-30T06:29:45.255Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04bDdMN09xSXRxbjJoT1dTY05OeUlGRzE2Qzd4MFRaVFRDUi1sR21Ha0hPTl9KTUw0R2VCLXFVbjFYVWlXbDhob1hIanJlZDk4NWduNklYd1RqWm83M3VmaTdJZ3d3R0E?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -9524,7 +10079,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 30,
+      "priority": 26,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -10109,7 +10664,7 @@
       "source": "한겨레",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-29T11:29:00.000Z",
-      "fetchedAt": "2026-10-30T06:29:45.255Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83bHcxX1V6Nnc3d0E0c2wwTVZyTktFWFY1dGpGT3lNMUg3S3V5SmhHbk9LdGZXYnVwX0k2a2tGOHBIX3A1NHJmd3RYaXNjMmRicFJIWGcyWXQ3d21hS2xYYmhzRXhLX3Vv?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -10200,7 +10755,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 30,
+      "priority": 26,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -19465,7 +20020,7 @@
       "source": "경향신문",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-10-29T01:00:00.000Z",
-      "fetchedAt": "2026-10-30T06:29:45.255Z",
+      "fetchedAt": "2026-10-30T22:59:34.049Z",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0OWNzQzBLZGJEZzlBMnJZeTNEWmtxZjlzdWxOcU0wTW10bHVQa1ZYTVpXdDlva2pxNDB0TW1qd0tiLU1FS0tFRnlIcHg1SThlMU5lXzNHTXRlUdIBX0FVX3lxTE56NTBFZlN2SVNmUUg4cmVtLTdzNEozV0Y1QXJ3S2FLbkVmWjVCcmo1YnlNMWc1eUhYVldKOGIyQ2p0REp6NXBmMUYxNTE3ZWRTN0RUdVplTFpYWXExV2M4?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -21544,116 +22099,6 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-10-28T21:54:12.945Z"
-    },
-    {
-      "id": "cb06488a5d2614ffecd309e071dc6a3529c3ec97ecae8b2e7896a871ddde53af",
-      "titleSourceHash": "471faa03f5293d7b29ea0b37b9bca826fb8e57d4c3a0b11b12af99fa8c3f6023",
-      "eventId": "3ac60d7c4ad7a04026cf804868f86144020db15fea95b21093cdc70d6d4d91f3",
-      "title": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History",
-      "normalizedTitle": "selkirk copper mines inc scmi v stock price news quote & history",
-      "description": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-10-28T21:29:04.000Z",
-      "fetchedAt": "2026-10-29T20:39:35.614Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByVkN5QWhPZl9JRjQyR2hwcEtXTVhYODBtNE1GZEktdDJmVXRhaXgyRHRmN25scXZ6NXIxeWZBclM5Wm51cHVuY0NURTY3ZjkzZHZ6NA?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "price"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "price"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "MINE"
-      ],
-      "primaryCategory": "Mine",
-      "titleKo": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History",
-      "summaryKo": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "PRICE",
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "PRICE",
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
     },
     {
       "id": "f6334a9378cd99be55424355a948e3c86db9c84a2ffc8ec9bdae7f9ac98fde96",
@@ -33098,461 +33543,6 @@
         "urgent": false
       },
       "priority": 34,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "9221dc8f4bb7425048f59a1af1b233d27d3ba0a2f9f0f3f508c1732ba2086779",
-      "titleSourceHash": "ac54d107202c8533842d73d5e8ef0d02f2e4036c46de274bb19ac1aa9c631651",
-      "eventId": "1858b2c9661fbdf33bfa36ed83342e40a3efeb4b52779c0f97817a307dba0b5d",
-      "title": "프리포트, 구리·금 가격 상승으로 3분기 실적 예상치 상회",
-      "normalizedTitle": "프리포트 구리·금 가격 상승으로 3분기 실적 예상치 상회",
-      "description": "프리포트, 구리·금 가격 상승으로 3분기 실적 예상치 상회 Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-10-27T12:22:00.000Z",
-      "fetchedAt": "2026-10-28T21:54:12.945Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSd0NQenk0R0RibzRmZWlsVnFWTmJTeGVRSXg4V1VEcURQVHkzcUdVcTcxcmg0Rnp5clNFcWlhOHJTRkZuSDBCcnZRS2xRMjFYWnNPaFhpSkhPZnpWUWh6NW5xN1g?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "가격"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "가격"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "EARNINGS"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "프리포트, 구리·금 가격 상승으로 3분기 실적 예상치 상회",
-      "summaryKo": "프리포트, 구리·금 가격 상승으로 3분기 실적 예상치 상회 Investing.com 한국어",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "프리포트, 구리·금 가격 상승으로 3분기 실적 예상치 상회 Investing.com 한국어",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "프리포트, 구리·금 가격 상승으로 3분기 실적 예상치 상회 Investing.com 한국어",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 26,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "c98133bbaffe4e6bf3c31fd11c4ee6590e3f8e438ebbc0fd48ed5d465f386349",
-      "titleSourceHash": "7f6611130c1944dc2fdf3b9c6048e0be12625b5493c4cfdd59f66fe41473c0fc",
-      "eventId": "6ef1953270f21a009ae73bd2cac3d6fa7ff7792684a5d8e46e1fdf2ae2e035ad",
-      "title": "Freeport-McMoRan Q3 revenue rises on higher copper prices",
-      "normalizedTitle": "freeport-mcmoran q3 revenue rises on higher copper prices",
-      "description": "Freeport-McMoRan Q3 revenue rises on higher copper prices TradingView",
-      "source": "TradingView",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-10-27T12:18:23.000Z",
-      "fetchedAt": "2026-10-28T00:03:31.036Z",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1dOakFyVDRKQTBmVnFTY3lZajVaNDhJNUJhMFZjaE1hdUxEVld4RXV0cEMyVW4wbV9yWm9ITWpnenpudWVyYU1VaUFOQzB5Y0tVcTBrYzM4aXlqUkdZTjFjU1NmbmRtMTJFWEVZQ0h4ZVkwRW50U2NyUmdvTW9BczFhUmhUNDJoQVhQQm5UcG4tRVRVbWNjVDRZdllGODF3SWlsNkRJb0l2YXR6TWt5TldZR1FTaXdlMGMxR0VhMUZPUExZa0E?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [
-        "Freeport-McMoRan"
-      ],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [
-            "Freeport-McMoRan"
-          ],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "LOGISTICS"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Freeport-McMoRan Q3 revenue rises on higher copper prices",
-      "summaryKo": "Freeport-McMoRan Q3 revenue rises on higher copper prices TradingView",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [
-        "Freeport-McMoRan"
-      ],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Freeport-McMoRan Q3 revenue rises on higher copper prices TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Freeport-McMoRan Q3 revenue rises on higher copper prices TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "3ed3870f566c3745a5d576b826067238258ad6c5da7da730d3483ce0e161918c",
-      "titleSourceHash": "28562e48df3b5d8710c9c19763300e661675672de0501fc259049044f3199bf7",
-      "eventId": "0588b8ad3046b27b8a37ee7d5a21ca3c9fa9b045ef05bf731d638af5d874d85a",
-      "title": "프리포트-맥모란, 구리 가격 상승에 힘입어 3분기 실적 전망치를 상회",
-      "normalizedTitle": "프리포트-맥모란 구리 가격 상승에 힘입어 3분기 실적 전망치를 상회",
-      "description": "프리포트-맥모란, 구리 가격 상승에 힘입어 3분기 실적 전망치를 상회 TradingView",
-      "source": "TradingView",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-10-27T12:09:42.000Z",
-      "fetchedAt": "2026-10-28T00:03:31.036Z",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAta0tRb1h1cWhsVGk2ZjNmVmZQQTdWeEdxN2hGSWQxUWdaMGZkTFRoaXg3alJlTnFzeWRVUFhrUTVTVDUwck5hNjVmSXBwYzMwdW01bnRodUwzWGpFaDhYZ3ZnSTQ2dXZ5SmpQTktPclhOekcwMTVV?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "가격"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "가격"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "EARNINGS",
-        "GUIDANCE"
-      ],
-      "primaryCategory": "Production Guidance",
-      "titleKo": "프리포트-맥모란, 구리 가격 상승에 힘입어 3분기 실적 전망치를 상회",
-      "summaryKo": "프리포트-맥모란, 구리 가격 상승에 힘입어 3분기 실적 전망치를 상회 TradingView",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production Guidance",
-        "categories": [
-          "PRICE",
-          "EARNINGS",
-          "GUIDANCE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "프리포트-맥모란, 구리 가격 상승에 힘입어 3분기 실적 전망치를 상회 TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production Guidance",
-        "categories": [
-          "PRICE",
-          "EARNINGS",
-          "GUIDANCE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "프리포트-맥모란, 구리 가격 상승에 힘입어 3분기 실적 전망치를 상회 TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "28479990ec60cba027add65b680ec3d54ce55d93eeb8a43510512401ced6c982",
-      "titleSourceHash": "6afbc6169e4121794875f4832591b60c3f505846f9fe064c9cd4e0420fc95848",
-      "eventId": "ad93bc5f96daf11a99ea99d9b91388e25f754a09a55ba5869dea8588870bc843",
-      "title": "그라스버그 광산의 생산 회복세가 지속되는 가운데 구리 가격 상승에 힘입어 프리포트가 예상치를 상회하는 실적을 기록했다",
-      "normalizedTitle": "그라스버그 광산의 생산 회복세가 지속되는 가운데 구리 가격 상승에 힘입어 프리포트가 예상치를 상회하는 실적을 기록했다",
-      "description": "그라스버그 광산의 생산 회복세가 지속되는 가운데 구리 가격 상승에 힘입어 프리포트가 예상치를 상회하는 실적을 기록했다 TradingView",
-      "source": "TradingView",
-      "feedSource": "Google News Metals KO",
-      "publishedAt": "2026-10-27T12:09:42.000Z",
-      "fetchedAt": "2026-10-28T00:03:31.036Z",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1bTExREVxMGYzTnExZHNxV1VZNkVMc0NYRjJFZDh5UVVMZkYtdVJ5MlgxME5NSDJvT3VUU0llVnZrR3luVWdvUUxqVzIzYkoxam0xMlZ2aGN2Y2NNc2YtWm1TYmlnZ2ZYbklUUVQxWlJndVpycjlMcA?oc=5",
-      "language": "ko",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "구리"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "가격",
-        "생산",
-        "광산"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "구리"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "가격",
-            "생산",
-            "광산"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "MINE",
-        "PRODUCTION",
-        "EARNINGS"
-      ],
-      "primaryCategory": "Production",
-      "titleKo": "그라스버그 광산의 생산 회복세가 지속되는 가운데 구리 가격 상승에 힘입어 프리포트가 예상치를 상회하는 실적을 기록했다",
-      "summaryKo": "그라스버그 광산의 생산 회복세가 지속되는 가운데 구리 가격 상승에 힘입어 프리포트가 예상치를 상회하는 실적을 기록했다 TradingView",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRICE",
-          "MINE",
-          "PRODUCTION",
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "그라스버그 광산의 생산 회복세가 지속되는 가운데 구리 가격 상승에 힘입어 프리포트가 예상치를 상회하는 실적을 기록했다 TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRICE",
-          "MINE",
-          "PRODUCTION",
-          "EARNINGS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "그라스버그 광산의 생산 회복세가 지속되는 가운데 구리 가격 상승에 힘입어 프리포트가 예상치를 상회하는 실적을 기록했다 TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
