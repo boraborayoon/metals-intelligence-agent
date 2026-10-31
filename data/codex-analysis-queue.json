@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:33:36.135Z",
+  "generatedAt": "2026-10-31T22:50:48.674Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -15248,44 +15248,6 @@
       "analyzedAt": null
     },
     {
-      "id": "70d5e22a002d1cd46cd29b24ffe190a00092f1138de549eae7722965e563ab65",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Chile's copper production fell to a 15-year low in August",
-      "summary": "Chile's copper production fell to a 15-year low in August BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTWhkd0lmdFdoUHp6bXBtQ1V4RVdicFNLZVViNmUyVGFmZUw5WGhjdFJoVzRDUE43ZEl4NnI5T2ZObGt4T2hUNEpmejhjUkVMbU4yOTg0QVMteXEtaEljazZrY2FMMEhBVkM1UlVmU2xTM1dHcXlNcWttQUZnRzc1OF9selVlT05qTkZrMDBiMTlNVE4tSEphU0gyRnlEZGd2eXktVzJCVklNT1RZUkl1R2FKMlJBOGRESUYxRw?oc=5",
-      "publishedAt": "2026-10-01T19:43:37.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Chile's copper production fell to a 15-year low in August BNN Bloomberg",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-01T20:32:53.801Z",
-      "updatedAt": "2026-10-01T20:32:53.801Z",
-      "analyzedAt": null
-    },
-    {
       "id": "a8979d7da4f900aee160a29be0806c4beb487d9ca4bfabd10bcba94a9c1faca4",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -17356,6 +17318,46 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-31T15:20:52.716Z",
       "updatedAt": "2026-10-31T15:20:52.716Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "2761c76ed2648f0ac4476c26fa8700848f1987f3123da4f38f29332c881ce0f7",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "China's Copper Cathode Output Drops in October, Raw Material Supply Tightens",
+      "summary": "China's Copper Cathode Output Drops in October, Raw Material Supply Tightens Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOW1nR3RWeWUtWVlWYVlnbVFPbEg4VjRDOVpXNHQ4cTc1Ri02NVdubk5TTWQ4c0J5TzZ4cENPUWx6LTdoZFZoRjhWMGdfNUJnWmU3WXYzSlNUWVhMcVhGZ1B0V2trYmI3VjRZWXlXZnpaX3EwOGdVdnB1cHlPdXd3eVVBVm9pUlIwT3pmallpMTQtc2JYc2gyRzg0YjFyQUhMODVsaTNNSkVkbzR4NkRaMUJ0VXFwSU93VXY4?oc=5",
+      "publishedAt": "2026-10-31T15:43:00.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY",
+          "PRODUCTION",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "China's Copper Cathode Output Drops in October, Raw Material Supply Tightens Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-31T22:50:48.674Z",
+      "updatedAt": "2026-10-31T22:50:48.674Z",
       "analyzedAt": null
     },
     {
