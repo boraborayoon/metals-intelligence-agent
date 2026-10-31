@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T02:24:43.980Z",
+  "generatedAt": "2026-10-31T08:54:42.755Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -223,49 +223,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-15T19:27:22.427Z",
       "updatedAt": "2026-10-15T19:27:22.427Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "1d8a82f1719e79bcc9844d9e6ed234f3c030134006473ab27da1a49316f61ce9",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Strike Risk Rises At BHP’s Escondida Copper Mine",
-      "summary": "Strike Risk Rises At BHP’s Escondida Copper Mine Finimize",
-      "source": "Finimize",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODhRVlBUNnlhbHpCV2pHSkduNm05T1htVlFEeFFYUWxIMUlEeWlmNkxRY3dKb09pem1JSUhTcE1ob2YwakpyMDBXT2VXUzlqd1VTNTFiTlhja2NyZTNmY2tSamk5VUZyMHhKbE1iTnpLWnN3UkU4dFdWcXoyZmlKSUFB?oc=5",
-      "publishedAt": "2026-10-01T03:33:57.000Z",
-      "priority": 63,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "MINE",
-          "STRIKE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Strike Risk Rises At BHP’s Escondida Copper Mine Finimize",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-01T07:49:30.192Z",
-      "updatedAt": "2026-10-01T07:49:30.192Z",
       "analyzedAt": null
     },
     {
@@ -3568,6 +3525,44 @@
       "analyzedAt": null
     },
     {
+      "id": "e4968eb5618413228982f044702d6f6d573deebb977eb9f11bdf1742115ab122",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Weekly Market Recap (October 31) - Copper Falls in October, but World Bank Lifts Long-Term Price Outlook",
+      "summary": "Weekly Market Recap (October 31) - Copper Falls in October, but World Bank Lifts Long-Term Price Outlook NAI500",
+      "source": "NAI500",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ3l0aXlGY2E4eHJPOUVnNERVVk0tNGhMMHE4bFBralRnSEpJSUJsQmNPV2NFMTJSVVBNeVc0VXctY0tabGttUzVkcExVU1JiRTlncngyREJvTXo4QlptNUdTbGhFTGl6N0hBM2VpZTZwa0FCdmZac01teGZVSjFQRmNwODVlUWxBMU9mS0Z0MVVHSlJRcVVVaUwxeVNid1hmdUJYeU5vaUFYRVRZbFJtSzJDcEtpMnJPZUFUZFFHLVN1X1lZTlo0R0QwM3E?oc=5",
+      "publishedAt": "2026-10-31T02:52:15.000Z",
+      "priority": 45,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Regulation",
+        "categories": [
+          "PRICE",
+          "REGULATION",
+          "GUIDANCE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Weekly Market Recap (October 31) - Copper Falls in October, but World Bank Lifts Long-Term Price Outlook NAI500",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-31T08:54:42.755Z",
+      "updatedAt": "2026-10-31T08:54:42.755Z",
+      "analyzedAt": null
+    },
+    {
       "id": "de262dd33cfca84fe6923f800b71fe913f078b515a55a48b24f4f6246f377a4a",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -6786,115 +6781,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-30T18:53:36.406Z",
       "updatedAt": "2026-10-30T18:53:36.406Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "7bb117e77743bf4b93f42a0054f2aad44ac34469eb4a19ed805e2163dd620272",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "광해공단 1조 투자한 파나마 구리 광산 \"재가동 후 결국 폐쇄해야\" 의견 나와",
-      "summary": "광해공단 1조 투자한 파나마 구리 광산 \"재가동 후 결국 폐쇄해야\" 의견 나와 더구루",
-      "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkeExWcFVnUXlTdUJxa2RDbTQwS1F6VFZNOHcxREdDZ01xcy1BMjItUnowQmZBMXc2RXJlQmFCNU43cWZ6UWZ0bkh2VUkxR0lGREUxeFlCNjN5NzF2MTZwQXd4QQ?oc=5",
-      "publishedAt": "2026-10-01T06:36:08.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "광해공단 1조 투자한 파나마 구리 광산 \"재가동 후 결국 폐쇄해야\" 의견 나와 더구루",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-01T07:49:30.192Z",
-      "updatedAt": "2026-10-01T07:49:30.192Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "c2219413f16d49be62f95366165f716f23de5e7eb618d662898d38c0e54e2556",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper price needs fresh momentum – Forecast today – 1-10-2026",
-      "summary": "Copper price needs fresh momentum – Forecast today – 1-10-2026 Economies.com",
-      "source": "Economies.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWmFnclpZdk1YSjROaXJaLU9sVVJnSENGdjFJcmFBS3JiNXNsV3JLZUV5LXBRZURabkMyX1gyWG5qWGtjXzVKUm5pZWNOQWlsd0JiSTgxejVyOUpCQm1GT2sxNkxiLWVFbk5XZ1RESm5nZndwR3RPTkQwTmFHUk9iRDJBdVlTeVNOa1ZlZnFhR05tQ09pQXlPaUo0NTc0dzg1cEJoVEJUTHd0aGcwLWtMVHBlOHotQ0toZUxXZGRkc1JXNVJ2dHlBbTFsT0lLTDdGTVpCVF93?oc=5",
-      "publishedAt": "2026-10-01T05:10:00.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper price needs fresh momentum – Forecast today – 1-10-2026 Economies.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-01T07:49:30.192Z",
-      "updatedAt": "2026-10-01T07:49:30.192Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "53c41e582fc3c6cd807a39a40d5b07fe49b083596e32b899f9cdf136668e0aae",
-      "commodity": "MOLYBDENUM",
-      "subCommodity": null,
-      "title": "USGS reported US molybdenum concentrate production of 3,390 tonnes of",
-      "summary": "USGS reported US molybdenum concentrate production of 3,390 tonnes of news.metal.com",
-      "source": "news.metal.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWXRzV0dKNFcxY0FOMVkxZ3lnX3hzem5MU1RWc2lOT2Y3b1Znc1hQVDFYdEhIUDN5NC1mdFR5Tmp1akpNZnFyXy0ydVlqX0tHM01ZRU82WUF2dElydmpETzdBcTNKOXJjbTJrbGF1VDRobXlmbGt4NTFoQkxRWVJfcXZvVzljTmw5MzhLNmdxZlpGVDZvNmcyQjd5cVdFbTVpYVQ0SDVmWXNleEVSMkhZQ2JXVXY0RE01YXc?oc=5",
-      "publishedAt": "2026-10-01T02:49:00.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "USGS reported US molybdenum concentrate production of 3,390 tonnes of news.metal.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-01T07:49:30.192Z",
-      "updatedAt": "2026-10-01T07:49:30.192Z",
       "analyzedAt": null
     },
     {
@@ -12229,6 +12115,42 @@
       "analyzedAt": null
     },
     {
+      "id": "fdde759d942a8a89ac5d3af123cbb48175d84e25e3154ada92c1669f9f90316e",
+      "commodity": "TIN",
+      "subCommodity": null,
+      "title": "Gold and silver plunged, with nearly all metals falling. LME tin and nickel led the decline, while LME copper and zinc, along with SHFE zinc, tin, and nickel, posted the largest losses [Overnight Market].",
+      "summary": "Gold and silver plunged, with nearly all metals falling. LME tin and nickel led the decline, while LME copper and zinc, along with SHFE zinc, tin, and nickel, posted the largest losses [Overnight Market]. Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOV1VMZjhra0pmeFhaa01rYlgtZ2J4X083alZkSGxiRjJuUkRwYWxoY1p2WjZSRlBWLU0zVUNaOXFDN3duVGoyVE1UMFltYlB0aTU3OVgyZ3RET09VS0FrLWZkUVBHTk1NMUFnNFlyaVllbzdKS1ZpQjN5dzJYa1BINU9CeHM3WDNZcnVnTDA0UGpJaU1JZkU1NzJnMHN4MkdIVFR4U2tBQlZxem1saTVMU1BLNkdBcFNVdy1sWUV0WGt4ODdXY3JDa21pR3ljN1hCSVdvSzE3ZXBrOVBzVVR2NkZlQVhKaXFGUG9UOS1Mc1NzSElGeTdEUEJsRjRwOGtMdzUta2xhdHNfY0dmRi1TanN5ck5qUGtRT2ZQOUhMdXJnWjk4blktRkdhbV9NN3BpMnRVdGlJRG9xZGIwQ1NmT1dpT19hZEZ5UTFRUS00S1c3ektsaGNZMTVFQWlPQ1E?oc=5",
+      "publishedAt": "2026-10-31T02:59:00.000Z",
+      "priority": 37,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Gold and silver plunged, with nearly all metals falling. LME tin and nickel led the decline, while LME copper and zinc, along with SHFE zinc, tin, and nickel, posted the largest losses [Overnight Market]. Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-31T08:54:42.755Z",
+      "updatedAt": "2026-10-31T08:54:42.755Z",
+      "analyzedAt": null
+    },
+    {
       "id": "08f55c9847216abc14840bf9a7fb35f357fb3c09dfa52f8b1d1a5426557ae880",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -15326,42 +15248,6 @@
       "analyzedAt": null
     },
     {
-      "id": "01acda0619419ab36b807085a415332c9743e91d5ad4fca4d28831a669f25d86",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Rio Tinto reaches Bell Bay Aluminium deal",
-      "summary": "Rio Tinto reaches Bell Bay Aluminium deal Aluminium International Today",
-      "source": "Aluminium International Today",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GN0tGV3Q0WWgyNzhRbUJSMnNhVnRFRmR4X0pjLUFvcmJHY0xRTzJvb2RjUkxNRldGc3F5Z0UxeWNvX085THJ2STFjQW80QkhETGtCNm01bkR1YWNYSEI1TGN1WjhBN2F3dEpzQVlQd04yaEk5NGp1N3ZoX3lOZw?oc=5",
-      "publishedAt": "2026-10-01T06:07:56.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Rio Tinto reaches Bell Bay Aluminium deal Aluminium International Today",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-01T07:49:30.192Z",
-      "updatedAt": "2026-10-01T07:49:30.192Z",
-      "analyzedAt": null
-    },
-    {
       "id": "e160533782b00cc78818601b33e20defa3186f53c5b238bad3ed8152f89b7568",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -17467,6 +17353,48 @@
       "analyzedAt": null
     },
     {
+      "id": "693c1ee7679f7aa1db2679bd5f31f4f266c31562ad0e6f1a04651390d0f4a61b",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Supply-Side Factors and Logistics Constraints Shape China's November Aluminium Inventory Outlook",
+      "summary": "Supply-Side Factors and Logistics Constraints Shape China's November Aluminium Inventory Outlook Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN2hhcGxZWUllQTlqTjE0SzRHSEZXWUFNMkJIWGFfU1duelRoTHpqNnZIbk5yWWhJX3JvajhNWHpSa0ZTRXlTR3Z5WE00U3ppdGJPTnNqSTRpNHhRNXFOVEFCVG9kMUpMSHRLRnZvWmpiUGRmQ0l5REE5R0xUWUFMdi1LWFJsd2lsM1hmaFBLVlV6RDE1RGFNSk90RFdwQ3lvQVlDY3BlMzNEYjFOc2Fxdl9vNGs1dnMyMzIwU0lPRkMtb1JzNVI2NnZrYzc3TU1Ja195U05oaw?oc=5",
+      "publishedAt": "2026-10-31T06:55:00.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "SUPPLY",
+          "INVENTORY",
+          "LOGISTICS",
+          "CHINA",
+          "GUIDANCE"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Supply-Side Factors and Logistics Constraints Shape China's November Aluminium Inventory Outlook Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-31T08:54:42.755Z",
+      "updatedAt": "2026-10-31T08:54:42.755Z",
+      "analyzedAt": null
+    },
+    {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -19285,6 +19213,78 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-31T02:24:43.980Z",
       "updatedAt": "2026-10-31T02:24:43.980Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "a75b5fa20e3a26bb71e1d93c52469138f3850f9a034537f935066e6e3649c5e0",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Clay County vs Copper Basin - Boys Varsity Football 11/06/2026 | Watch Live & On Demand",
+      "summary": "Clay County vs Copper Basin - Boys Varsity Football 11/06/2026 | Watch Live & On Demand NFHS Network",
+      "source": "NFHS Network",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMWRzZWpVN0VBRDc3S1dfYjVjSlB5T3ZVaVB5NjB4WlU5TTNyNGQxV0VxcWx6N05Cck5vX3NfWTlRQTJIX294Y1hRNDl1TFFKNEZEQTVPSGNHZ1QtbTZfd3BLVmFNNVhjV29laVJVQW5QUkU5MG84Q01ub1B4cHNHQXRoVTJQRzdObFE?oc=5",
+      "publishedAt": "2026-10-31T07:24:25.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Clay County vs Copper Basin - Boys Varsity Football 11/06/2026 | Watch Live & On Demand NFHS Network",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-31T08:54:42.755Z",
+      "updatedAt": "2026-10-31T08:54:42.755Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "d9e0a6ce979cf9e3fb2dd76450161b72e3cbfe38debc239148a9a2a1b144d170",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Southern Copper (SCCO) Stock Could Be 29% Overvalued Following Project Delays",
+      "summary": "Southern Copper (SCCO) Stock Could Be 29% Overvalued Following Project Delays Simply Wall St",
+      "source": "Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT3NjS0tETXF3dzkzcjBoMVlsRlRoR053UFJMNHlCUW8zMUgxOXhOX2c0dnU5dmpvZHlobzBpY19zV3pfVXhFYWFOalloS3QtelNhWGd4ZWZRYXc3d3hvSnBYdVFUNDN6ampBUDhodk9PbEhVTWpic3pnOUg4UWpTeFREVk9RYThVWDdNQ1VPSWtKUlJlXzdVdDdYZTJpRzI5a2FhYlhYcUdpX2hDWFFvNFB3ckxfLV9OZkVBaEFDenlmOUpOVHlxV1VsZzfSAdIBQVVfeXFMT3lEUnBDcXhiZUc5Q3VDNUtxNFZVMHVpOHRseFdURzR6Z01abkYxc1JvTVc1TGJGc2xqNnMwdld0UllYMU9RcEtmWjY3V3R1WS16Qk40ZXZhODJQVWtBaE1GYmp1X1N6b05pSlV5ekVqNEJNaTNqd2V2LXFRaXdpNS05Sjh4WnNsb2FyYmZweWRzTjIyang2a2o2Z01WeGRPZ2ZabXR1RlZEYjBucjVfeE9DQVJOcUdDdldNSzlEcjVCa2xzalYzc2lHaDNRdDBGa2NB?oc=5",
+      "publishedAt": "2026-10-31T05:41:18.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Southern Copper (SCCO) Stock Could Be 29% Overvalued Following Project Delays Simply Wall St",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-10-31T08:54:42.755Z",
+      "updatedAt": "2026-10-31T08:54:42.755Z",
       "analyzedAt": null
     }
   ]
