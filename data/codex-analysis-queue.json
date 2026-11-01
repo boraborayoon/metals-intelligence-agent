@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:25:44.100Z",
+  "generatedAt": "2026-11-01T20:50:37.631Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -1150,51 +1150,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-17T09:23:46.422Z",
       "updatedAt": "2026-10-17T09:23:46.422Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "b5348fb2a91157125ca9c7a4db7db7db903be747b43361280fac1cc6da178afc",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Chile's Copper Hits 15-Year Low — and a Mine Strike Could Make It Worse",
-      "summary": "Chile's Copper Hits 15-Year Low — and a Mine Strike Could Make It Worse Latin Times",
-      "source": "Latin Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOemNlQkJWaXJ2UE1wY2lHSUU4V0RRX1cyanRDUEFrRkFfRzNCUUFCd1p4dFBhckFHWnpsLVFwblpXMjVncGtwQnpYMWJTQlFJcVotZXR2RHh6R3llMUNBSXR4QzgwbjFaT3k3SnJsN1FFdkdmdmpHbjY3ZTVfRlVUemp4a3oyQ25zWWFWWGNseERvV3lrX0ZGS1U4RkI?oc=5",
-      "publishedAt": "2026-10-02T17:03:12.000Z",
-      "priority": 58,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "MINE",
-          "STRIKE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Chile's Copper Hits 15-Year Low — and a Mine Strike Could Make It Worse Latin Times",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-02T18:02:53.769Z",
-      "updatedAt": "2026-10-02T18:02:53.769Z",
       "analyzedAt": null
     },
     {
@@ -6734,79 +6689,6 @@
       "analyzedAt": null
     },
     {
-      "id": "fd90975ae208898e5382c59aa33ef20d32ae8b60c9354a43ef60d9232ad85215",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Price October 5 2026",
-      "summary": "Copper Price October 5 2026 Robinhood",
-      "source": "Robinhood",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTdjcWY5WnhHdzF0VG9EVjJKN25QWXBicTdnQ2RpckhMU2w4QlRqSUxYQUhBOEx0dXF6OS14UXdVSnM5Q1BDRndnR1A1Q2lHRHJnby1RZE94aU9LbllSS1JZeVVvQXFaZThIb3VTU0dUMkZEa0U2OWJRUDlMV1UyQkRwTTR4V25MQUc4QmRydU8yZTVybV9RYnpJa0ZwdjlqQzZ3?oc=5",
-      "publishedAt": "2026-10-02T17:50:14.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Price October 5 2026 Robinhood",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-02T18:02:53.769Z",
-      "updatedAt": "2026-10-02T18:02:53.769Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "b4f269868d2a20a67f64ce6d814db132235c5b61abb4afca4fb36f8ce33a5577",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "European aluminum premium hits highest since June on supply concerns",
-      "summary": "European aluminum premium hits highest since June on supply concerns kitco.com",
-      "source": "kitco.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGhTelFuenJ2TmYtX3lwdzliVnRNWGJneldxVXUtOGZ5WUJkT1hXWm1hYmEyT0FhV1hUWHhTbTRBTHdqNGJqQzhNajc5WkxsWnF2WV9nTFMwdU1zb00zOUxPMDF2UUxWOXljN3BnQzUwUWQ1czA1eU9hN3ppdlBsc3hheUx1LVVnaHhSVlZLZmpfeUZUX2tvZUdFcFkwc1prUnhBRnFST0ZBaXFPY1dj?oc=5",
-      "publishedAt": "2026-10-02T20:29:11.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "PRICE",
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "European aluminum premium hits highest since June on supply concerns kitco.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-02T22:15:59.361Z",
-      "updatedAt": "2026-10-02T22:15:59.361Z",
-      "analyzedAt": null
-    },
-    {
       "id": "33c04654f77af7327cff5f80997ad87acc70bdac741373289c08428fe20308ca",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -11082,6 +10964,43 @@
       "analyzedAt": null
     },
     {
+      "id": "e0359d78376c9be82c6903179e50a5d1aca134b2b81fce3cbac9f8d624523cf4",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Vedanta explores INR 70,000-80,000 crore investment in West Bengal power and aluminium smelter",
+      "summary": "Vedanta explores INR 70,000-80,000 crore investment in West Bengal power and aluminium smelter Prop News Time",
+      "source": "Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb1FveWl0MTNqWTNwbTBBd0NZcldkVkxKSXlmWnVqSHZBQ1IxamVSaG9zc1dLRUpLR1VIYUdYTUN2UG85LW9PRVB5cHVLMkdUU0xFdmMxdUEtN2QwTlZmQVlveUpIbk0wM3J3cVFCTlZtMUpFT1puek94Nzd3ZHFHNHg4NFJGNzBJY1h5QU42OXd3OG5UWTdwb2RFMDBKc1NnRXhzS0RBbXIxVDZuSXctMUZxYmVpUmFaT0gxTk82bEZzOTI5UnZtRm9pYlJvejBPWW5wa2Q5dkROQlRIRDl3?oc=5",
+      "publishedAt": "2026-11-01T16:30:17.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Smelter",
+        "categories": [
+          "SMELTER",
+          "ENERGY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Vedanta explores INR 70,000-80,000 crore investment in West Bengal power and aluminium smelter Prop News Time",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-01T20:50:37.631Z",
+      "updatedAt": "2026-11-01T20:50:37.631Z",
+      "analyzedAt": null
+    },
+    {
       "id": "50f1855fb0707537f5e389be167a665d9ba37a163b3c8876702b680ea9154132",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -15091,47 +15010,6 @@
       "analyzedAt": null
     },
     {
-      "id": "4611e8636f39f62ac2d86b91cc0f02abe81b051fb5b790608483fd4ccff136f8",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Exclusive-China demands copper supply commitments for Anglo Teck merger approval, sources say",
-      "summary": "Exclusive-China demands copper supply commitments for Anglo Teck merger approval, sources say 102.7 WBOW",
-      "source": "102.7 WBOW",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVlpWExKVnY2T0tTdDBNdnpfMlJGR21JRjVra05JcEs0eWJESDZfcS1haE5aRjgxQXZUZWcwckZ5Zll1MzRoSmpzTWxvS0FnUU1VMFRrWDRLT1otakszSTF6U1ZWX09PR3o4YVlibjJhSkdlQTRwSzA3c0g5ZXdoN0ltTmx6bXA1Qnp5X3dEQmo5Q3BGbmdwbHZNZm9uNk1aMjRKbHZIWXUwT0lyU3RFck1zUElrLTYyQWNyVkdUdVJkZU0?oc=5",
-      "publishedAt": "2026-10-02T19:07:04.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "SUPPLY",
-          "DEMAND",
-          "CHINA",
-          "M&A"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Exclusive-China demands copper supply commitments for Anglo Teck merger approval, sources say 102.7 WBOW",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-03T12:03:45.940Z",
-      "updatedAt": "2026-10-03T12:03:45.940Z",
-      "analyzedAt": null
-    },
-    {
       "id": "61f6d6dec2d971e09210f6bf051935d080617f7917e1a9dc5f183c7e84c0161d",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -19130,6 +19008,165 @@
       "analyzedAt": null
     },
     {
+      "id": "8cc3616a58662d0bb82b336fae3fc581a016051f0ace48b3cdb9039d68296cb3",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Is Priced Like an AI Stock Now. What the Sell-off Means for Freeport-McMoRan.",
+      "summary": "Copper Is Priced Like an AI Stock Now. What the Sell-off Means for Freeport-McMoRan. The Globe and Mail",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWGpIajBxWTd5Ri1UVjhiNE5sYWtoUWZQZmZ6bmxoSG1jc2VicGxnQ2U2Uk85WG1uc0lYR09MVkoxRThYLVVRTG5pWHhaZWhQczNfcFpYc3gwYmZtMnN1amc3NVN1enRJM3U5aURySy1UU045X1hoTndoWDdoeEZZZ2pjdWtfN2o5WGcxU19wX0s5YzZIVTBSVUV4UVpjd2FsR1FMSXpvRnNJUHItWmZJZ21yeUhFb2xfY1N4MHlIMFkzNVVZX2F6bXEtQ0J5QmhFZmROdG5nYTBsdUI2QndzMUhCLTg4eFBYSFZPQmRWWTJJZndsUmxmOHM3TTc?oc=5",
+      "publishedAt": "2026-11-01T17:45:27.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Is Priced Like an AI Stock Now. What the Sell-off Means for Freeport-McMoRan. The Globe and Mail",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-01T20:50:37.631Z",
+      "updatedAt": "2026-11-01T20:50:37.631Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "8268896e36eef3a878ea4a02180794ba7f8565b87d5f4f6f01c58597ef0accb2",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Aluminum Silicon Market To 2035: Automotive Casting Demand Supports Forward Growth - News and Statistics",
+      "summary": "Aluminum Silicon Market To 2035: Automotive Casting Demand Supports Forward Growth - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcTQxSEF4cG0wOGlqSHJpTU5lX09aNFNqRWpIemtpNE0zSWR3VnVqVmN6dXNQUkQ4emJWWEZ5Z1FFcGxqTmswWEJwYWRMY2tGeDdTSEdWUWE5VjU4MllXQTZ2SFlZYkhiaDh0Y3pjWnBHa3RUcVI3Q28yVmR6TU1aSFRDLUhDeFd0bGxCalNiMkxWMEtscjEyUjliWE92dTVwUWhiaHQzWUdQbUdTV1o4eEdDR3RMcy00T2VjdmRtbm1LZ1NwTC1j?oc=5",
+      "publishedAt": "2026-11-01T16:46:04.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Aluminum Silicon Market To 2035: Automotive Casting Demand Supports Forward Growth - News and Statistics IndexBox",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-01T20:50:37.631Z",
+      "updatedAt": "2026-11-01T20:50:37.631Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "72f447a7fc2744929720868fb547152b489a8561044beffa5134592837739906",
+      "commodity": "TIN",
+      "subCommodity": null,
+      "title": "호찌민시 인민위원회 주석: \"정책 결정\" 중심 사고방식에서 \"성과 중심\" 사고방식으로의 전환.",
+      "summary": "호찌민시 인민위원회 주석: \"정책 결정\" 중심 사고방식에서 \"성과 중심\" 사고방식으로의 전환. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGhJbU8tcURjZjJ5bjVzYVFjN1ZDMVc1bUZVa1N6cWJfREtMMmFvVjh6RmFHaHphV19ZcldJdzdXVnl5LUFySXpOVThfRmlOYXRvaHU3RnljX1FveURucVN4S2s0aWFYRW1BOUEtMjhiSU1tMlRQRFRFVHd1TlR6NUVkLWJHcUYxaVpfRzEydTNybnE3NWhUZkthZ3loUVJoX09NeHB6SDJObF9sWkMxSkphaw?oc=5",
+      "publishedAt": "2026-10-31T09:13:39.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Operational Accident",
+        "categories": [
+          "ACCIDENT",
+          "POLICY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "호찌민시 인민위원회 주석: \"정책 결정\" 중심 사고방식에서 \"성과 중심\" 사고방식으로의 전환. Vietnam.vn",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "사고"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-01T20:50:37.631Z",
+      "updatedAt": "2026-11-01T20:50:37.631Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f77e4e97f3f69950bdfb200c3cdacb5eb545e6f36b87653466a8532e4827a526",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "The personal cost of standing together at Highland Valley Copper strike",
+      "summary": "The personal cost of standing together at Highland Valley Copper strike Merritt Herald",
+      "source": "Merritt Herald",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkp1dnlwNWFXc1VPaXZhOGFrSjJ2U2RWY1hPaWNrR2hUSVFGazB1QTMzdklXYnhCaFJVbjdaQlBzeU1uMlk0ZkE4WjQ0b2JqdkJfVTVRamZ2QWdhU20yVk1HeVVaSjlDcGxfOU9wb2o4ZjV2dDRZbm5wcFN0LXVwWjNjVHFpbEpWeG0tV2VaNC1ZTkp4dEt5T0htTDhtQnlmSGdCbg?oc=5",
+      "publishedAt": "2026-10-30T19:52:35.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "The personal cost of standing together at Highland Valley Copper strike Merritt Herald",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-01T20:50:37.631Z",
+      "updatedAt": "2026-11-01T20:50:37.631Z",
+      "analyzedAt": null
+    },
+    {
       "id": "7058eba70905b1715e05b810700d5fdd7aa896cb7dad7fc0d88daeab958f80ef",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -19166,30 +19203,65 @@
       "analyzedAt": null
     },
     {
-      "id": "d5c409ae38b12263eef39500f5634176949ca3bd0d4dff97f9f872afcce51f1f",
-      "commodity": "ALUMINUM",
+      "id": "22c58e60783a6d32366dfa95cae09bbce0c82d24d32f94f7afdafc2ed27eead8",
+      "commodity": "TIN",
       "subCommodity": null,
-      "title": "공급 측 요인과 물류 제약이 중국 11월 알루미늄 재고 전망을 좌우한다",
-      "summary": "공급 측 요인과 물류 제약이 중국 11월 알루미늄 재고 전망을 좌우한다 Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNZjFWTEZUS2dZWHZyR0I0T2N3T3YwVVdrclVkaGIxSmNSQmYwbkFDYVM5U211eWMzSk9zRFlaQ09iWW5DUTJFaFN5SHdycGF5NVFzd3dSX0hFOWtIUTdnUmtJWURvcmFyS2NWOE5OemlFeExLcGR3cWkyQm9SZ3hUT2s4djM1cG9zZjRkVXJadEI4b2NuUE5uWC03TkRkZUY0SUtXYmZ2d0wzemIyS0E4RkpKcmhLMVI1QlN6OTJMdXA4UWRsNjJlUHZWckwyOU95T3ByaEo4UldmQ0toZDJGSWx6M0k2a1ViN0hySUVXRlp2c0gtVkRmS1BuZXhBaTdnTjhXLVk2bFpmd0F0SWpPTThzNzVZbkV3blR6MlZHQ2o2X1lmWWV0QVlVUHlDWE5tVTlHbmxDbHd4bkxjTUQyWGE3WDV1MGs5T3hGbTRoOVNhdXY2MWFZWDMwZUc3bGlwYzU0Z1VVOHQtRS1rOTZhS3IzX3p2aElrN0FReTlVbkJmb2ZhYTUzUTNfQTdyUFljNHVKSmk3bFV3T3NKY0JqNDZQbFg3eVFKekp3OU5UTUY?oc=5",
-      "publishedAt": "2026-10-31T06:55:00.000Z",
-      "priority": 26,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "title": "Can Tight Tin Supply Lift Elementos (ASX:ELT) Toward Production?",
+      "summary": "Can Tight Tin Supply Lift Elementos (ASX:ELT) Toward Production? Kalkine Media",
+      "source": "Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDFaZWVuMzVXUEh2NUZ5QmQ2Z3JJTzVuZGJrdHdaN1lDX2RZazR4eHlRTWNTSWMwNkJnbnZGTmVFTF9JZXViQXFOUzVZY3lMdzdKUVhDY25NbnhMVGlUbFBYUW9oVHRoVkU1XzdVUFloa0FaVENrRDY5aGtjYXpGOHR5WDdYNWdXMGVYZEQzX05NOFpvMGg1VEYxVjFWLWp6T29ia0lzN2dYN2FSWE5WWjhn?oc=5",
+      "publishedAt": "2026-11-01T13:50:00.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Inventory",
+        "category": "Supply",
         "categories": [
           "SUPPLY",
-          "INVENTORY",
-          "LOGISTICS",
-          "CHINA"
+          "PRODUCTION"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "공급 측 요인과 물류 제약이 중국 11월 알루미늄 재고 전망을 좌우한다 Shanghai Metals Market",
+        "summary": "Can Tight Tin Supply Lift Elementos (ASX:ELT) Toward Production? Kalkine Media",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-01T20:50:37.631Z",
+      "updatedAt": "2026-11-01T20:50:37.631Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "bf023c039cba298954ba22b714d569ad65afaccfd99a54b97fb87d6b945bec63",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "LME copper prices recover amid cautious buying and supply concerns",
+      "summary": "LME copper prices recover amid cautious buying and supply concerns BigMint",
+      "source": "BigMint",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQi1yOXdqczlueGl5dEwzU1hRWVRYMGp1T21pQmlRakl2NGRCVks2WFpkdHJYZ3N5dl82ampJSDJKMHhMTXZjZFVoLWNjSWhYNUh0MVlRa2JoUnJxSXB2d21obDlKdzZJZDdqMHlZTmw2a01pczB0alBkRkJVZEswUjRqQ1VvYm5ieU5Ra2NwNWVfcEJhallSNkd4WUxFSk5LeVM3b1lXaWo5NlpKRE51ZFp3?oc=5",
+      "publishedAt": "2026-10-31T08:48:09.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "PRICE",
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LME copper prices recover amid cautious buying and supply concerns BigMint",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -19200,47 +19272,8 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-11-01T16:25:44.100Z",
-      "updatedAt": "2026-11-01T16:25:44.100Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "4aa837b941b8de7f8084e78240db2294b032983357fabe6f91a411ddbc65fb00",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "Solidcore approves Syrymbet construction",
-      "summary": "Kazakh gold producer Solidcore Resources (AIX: CORE) has approved construction of the 6 ktpa Syrymbet tin mine in northern Kazakhstan, with production expected to begin in H2 2029. The company, which acquired a 55% stake in the project from Lancaster Group in October 2024 for US$82.5 million, announced that construction will begin in Q3 2026, open-pit […] The post Solidcore approves Syrymbet construction appeared first on International Tin Association.",
-      "source": "Freddie Mitchell",
-      "url": "https://www.internationaltin.org/solidcore-approves-syrymbet-construction",
-      "publishedAt": "2026-10-29T15:37:12.000Z",
-      "priority": 21,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "MINE",
-          "PRODUCTION",
-          "COMPANY",
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Kazakh gold producer Solidcore Resources (AIX: CORE) has approved construction of the 6 ktpa Syrymbet tin mine in northern Kazakhstan, with production expected to begin in H2 2029. The company, which acquired a 55% stake in the project from Lancaster Group in October 2024 for US$82.5 million, announced that construction will begin in Q3 2026, open-pit […] The post Solidcore approves Syrymbet construction appeared first on International Tin Association.",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "LONG_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-01T16:25:44.100Z",
-      "updatedAt": "2026-11-01T16:25:44.100Z",
+      "queuedAt": "2026-11-01T20:50:37.631Z",
+      "updatedAt": "2026-11-01T20:50:37.631Z",
       "analyzedAt": null
     }
   ]
