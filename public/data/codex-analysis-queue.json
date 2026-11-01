@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T02:14:44.986Z",
+  "generatedAt": "2026-11-01T09:21:24.059Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -1345,6 +1345,16 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-10-23T01:24:00.000Z"
+    },
+    {
+      "id": "2ab1774334ced8cd7ea5473a1861c928cc843cc4806184811d4d7d208034ea42",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "10월 알루미늄 빌렛 가공비 제한적 회복, 11월 재고 소진 둔화 속 지역별 격차 지속 [SMM 분석]",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-10-31T07:04:00.000Z"
     },
     {
       "id": "ba1c14506e5b5d984c852ec24ecc6359b7048bb7d9e03244bd40e8eb7e090df5",
@@ -4995,16 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Simply Wall St",
       "publishedAt": "2026-10-31T05:41:18.000Z"
-    },
-    {
-      "id": "141c0ca838817c7dee20bd69dd33d803cc1444ec9cb8b3d69a24c2087df0904d",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Basic earnings per share (basic EPS) of CRITICAL COPPER MINING CORP – CSE:CCCU",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-31T13:31:11.000Z"
     }
   ]
 }
