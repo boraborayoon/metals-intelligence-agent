@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T17:06:15.910Z",
+  "generatedAt": "2026-11-02T23:53:02.775Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -5444,6 +5444,48 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-02T06:54:42.154Z",
       "updatedAt": "2026-11-02T06:54:42.154Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "c87a5183edc429789158663c48c2729bad46df78861e82582c96e98c2053e44e",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "USW strike at Highland Valley Copper enters second week with no plans to return to bargaining",
+      "summary": "USW strike at Highland Valley Copper enters second week with no plans to return to bargaining CFJC Today Kamloops",
+      "source": "CFJC Today Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1paNm9zcml6aHpUOFdhUXVoOGhHWjVfSl9ZT21IZHozZVVOUk9EYnBoNmNoeExxWGJlZ01tMkV0WkwzNzlTN1hrdEkwcXNtY3Rwd3FsNmMxcEx4dWI5TEtHMEd4cno3Mkp0ZXdSUkd0ZkJUemVPVmNyd3A3N0NUeV92QUhJdUltaVZBQ2FSanFpMFZmQ3lla0pseGYwNlpKZU93ODEwQlpnbklLSFU2Q2h1aU9TZERaOGRCUGN1NlNqU0huN2c?oc=5",
+      "publishedAt": "2026-11-02T18:53:34.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "USW strike at Highland Valley Copper enters second week with no plans to return to bargaining CFJC Today Kamloops",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-02T23:53:02.775Z",
+      "updatedAt": "2026-11-02T23:53:02.775Z",
       "analyzedAt": null
     },
     {
@@ -11005,6 +11047,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-02T06:54:42.154Z",
       "updatedAt": "2026-11-02T06:54:42.154Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "bc808930fe6770ffe1f9b74c1b1de252b70b66884d19cf1ddde099a4e29b76e5",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Price November 3 2026",
+      "summary": "Copper Price November 3 2026 Robinhood",
+      "source": "Robinhood",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTjFBLWs5QWlYTkhOQU9kNENXOEdhZS1oYkJQcTNuOFRvSUVNdWhSTnA5Y3RTd09DLWRFN3ZOVWFub0JRWm1FanlabTd2VHdiaS00UkMyaDVSdklZcXBuQUlnM2hSNjAzRlpmZ0ozc2xldWlVTXlYa0JsdDl4czAwT1F2MEx5SjdTTG1qQWF5dGg3c2NSeHFFcHdQOVNjR3Z4SUc0eQ?oc=5",
+      "publishedAt": "2026-11-02T19:17:39.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Price November 3 2026 Robinhood",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-02T23:53:02.775Z",
+      "updatedAt": "2026-11-02T23:53:02.775Z",
       "analyzedAt": null
     },
     {
@@ -17205,6 +17283,46 @@
       "analyzedAt": null
     },
     {
+      "id": "0b0dc25907e9d3fa56c9d0d22db34d740ad17323612fe46bda449494b87848a5",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Chile copper outlook worsens as price forecast rises",
+      "summary": "Chile copper outlook worsens as price forecast rises The Northern Miner",
+      "source": "The Northern Miner",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOW9KTVZjY2NQdnhkWVBrSkRiX0pkX09aRTlqTDE3Tlpfa29ZeEt1NVdVZlpZNk43djJuWnUyRWNfRjlFTWZWNDd3UEVQMldDTEVkSF9qSWVhZzFZMnUzWW9nWU5ILWxSR2hBTnBiZXVlaVYwSFVTeTlMWF9KcnZtU0JCY0dtbDdDdXFmMkNHRllhS0tSd1VxbDhjU3daVklj?oc=5",
+      "publishedAt": "2026-11-02T19:21:35.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production Guidance",
+        "categories": [
+          "PRICE",
+          "MINE",
+          "GUIDANCE"
+        ],
+        "region": "Chile",
+        "regions": [
+          "Chile"
+        ],
+        "summary": "Chile copper outlook worsens as price forecast rises The Northern Miner",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-02T23:53:02.775Z",
+      "updatedAt": "2026-11-02T23:53:02.775Z",
+      "analyzedAt": null
+    },
+    {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -19167,123 +19285,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-01T16:25:44.100Z",
       "updatedAt": "2026-11-01T16:25:44.100Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "8cc3616a58662d0bb82b336fae3fc581a016051f0ace48b3cdb9039d68296cb3",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Is Priced Like an AI Stock Now. What the Sell-off Means for Freeport-McMoRan.",
-      "summary": "Copper Is Priced Like an AI Stock Now. What the Sell-off Means for Freeport-McMoRan. The Globe and Mail",
-      "source": "The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWGpIajBxWTd5Ri1UVjhiNE5sYWtoUWZQZmZ6bmxoSG1jc2VicGxnQ2U2Uk85WG1uc0lYR09MVkoxRThYLVVRTG5pWHhaZWhQczNfcFpYc3gwYmZtMnN1amc3NVN1enRJM3U5aURySy1UU045X1hoTndoWDdoeEZZZ2pjdWtfN2o5WGcxU19wX0s5YzZIVTBSVUV4UVpjd2FsR1FMSXpvRnNJUHItWmZJZ21yeUhFb2xfY1N4MHlIMFkzNVVZX2F6bXEtQ0J5QmhFZmROdG5nYTBsdUI2QndzMUhCLTg4eFBYSFZPQmRWWTJJZndsUmxmOHM3TTc?oc=5",
-      "publishedAt": "2026-11-01T17:45:27.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Is Priced Like an AI Stock Now. What the Sell-off Means for Freeport-McMoRan. The Globe and Mail",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-01T20:50:37.631Z",
-      "updatedAt": "2026-11-01T20:50:37.631Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "8268896e36eef3a878ea4a02180794ba7f8565b87d5f4f6f01c58597ef0accb2",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Aluminum Silicon Market To 2035: Automotive Casting Demand Supports Forward Growth - News and Statistics",
-      "summary": "Aluminum Silicon Market To 2035: Automotive Casting Demand Supports Forward Growth - News and Statistics IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcTQxSEF4cG0wOGlqSHJpTU5lX09aNFNqRWpIemtpNE0zSWR3VnVqVmN6dXNQUkQ4emJWWEZ5Z1FFcGxqTmswWEJwYWRMY2tGeDdTSEdWUWE5VjU4MllXQTZ2SFlZYkhiaDh0Y3pjWnBHa3RUcVI3Q28yVmR6TU1aSFRDLUhDeFd0bGxCalNiMkxWMEtscjEyUjliWE92dTVwUWhiaHQzWUdQbUdTV1o4eEdDR3RMcy00T2VjdmRtbm1LZ1NwTC1j?oc=5",
-      "publishedAt": "2026-11-01T16:46:04.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aluminum Silicon Market To 2035: Automotive Casting Demand Supports Forward Growth - News and Statistics IndexBox",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-01T20:50:37.631Z",
-      "updatedAt": "2026-11-01T20:50:37.631Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "72f447a7fc2744929720868fb547152b489a8561044beffa5134592837739906",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "호찌민시 인민위원회 주석: \"정책 결정\" 중심 사고방식에서 \"성과 중심\" 사고방식으로의 전환.",
-      "summary": "호찌민시 인민위원회 주석: \"정책 결정\" 중심 사고방식에서 \"성과 중심\" 사고방식으로의 전환. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGhJbU8tcURjZjJ5bjVzYVFjN1ZDMVc1bUZVa1N6cWJfREtMMmFvVjh6RmFHaHphV19ZcldJdzdXVnl5LUFySXpOVThfRmlOYXRvaHU3RnljX1FveURucVN4S2s0aWFYRW1BOUEtMjhiSU1tMlRQRFRFVHd1TlR6NUVkLWJHcUYxaVpfRzEydTNybnE3NWhUZkthZ3loUVJoX09NeHB6SDJObF9sWkMxSkphaw?oc=5",
-      "publishedAt": "2026-10-31T09:13:39.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Operational Accident",
-        "categories": [
-          "ACCIDENT",
-          "POLICY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "호찌민시 인민위원회 주석: \"정책 결정\" 중심 사고방식에서 \"성과 중심\" 사고방식으로의 전환. Vietnam.vn",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "사고"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-01T20:50:37.631Z",
-      "updatedAt": "2026-11-01T20:50:37.631Z",
       "analyzedAt": null
     }
   ]
