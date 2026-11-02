@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-02T00:46:13.366Z",
-  "nextScheduledRun": "2026-11-02T01:16:13.366Z",
+  "lastUpdated": "2026-11-02T06:54:42.154Z",
+  "nextScheduledRun": "2026-11-02T07:24:42.154Z",
   "agentStatus": "OK",
   "telegramStatus": "OK",
   "kakaoStatus": "DISABLED",
@@ -19,7 +19,7 @@
     {
       "name": "Google News Metals KO",
       "status": "OK",
-      "count": 95
+      "count": 100
     },
     {
       "name": "International Tin Association",
@@ -28,11 +28,11 @@
     }
   ],
   "runStats": {
-    "fetched": 205,
-    "relevant": 55,
-    "duplicates": 34,
-    "analyzed": 21,
-    "ruleAnalyzed": 21,
+    "fetched": 210,
+    "relevant": 52,
+    "duplicates": 30,
+    "analyzed": 22,
+    "ruleAnalyzed": 22,
     "codexPending": 500,
     "sent": 5,
     "failed": 0
