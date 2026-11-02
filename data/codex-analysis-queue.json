@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T20:50:37.631Z",
+  "generatedAt": "2026-11-02T00:46:13.366Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -5397,6 +5397,49 @@
       "analyzedAt": null
     },
     {
+      "id": "325cc4548078b9513e65ff9972257a19eeb71db32be7c1be424c1c9e98a71a36",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Chalice Mining Strikes New High-Grade Kestrel Copper-Gold Discovery at Warrego North",
+      "summary": "Chalice Mining Strikes New High-Grade Kestrel Copper-Gold Discovery at Warrego North Small Caps",
+      "source": "Small Caps",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzdSMGFvcWJsZDNNNEJkT3RDOHI5M3RKcWdPLU1vMjhYV2RrZHItMTduNG5oeGJUTnpsU1lsMlJNNktlREhLTExsbHNoM0hYQm5aWUtGN3hiaVZnRFlNb18zMmxLTmdSc18xdGdGODJwVEpHNDd0Vy1sR2otUkIyWGI1NGJ0eU43aXl4X1gzcTh4eXJQNnZZN2hiNVRnWlB6LWd6V0tORklIWmo0dVlnTDdJdm50VmVZ?oc=5",
+      "publishedAt": "2026-11-02T00:02:52.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Chalice Mining Strikes New High-Grade Kestrel Copper-Gold Discovery at Warrego North Small Caps",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-02T00:46:13.366Z",
+      "updatedAt": "2026-11-02T00:46:13.366Z",
+      "analyzedAt": null
+    },
+    {
       "id": "e6b5d890a5df68dbe703b0fd366de7cb22b855f4aa17b3b3f9cd365f02cf6d0e",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -5965,46 +6008,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-27T20:43:17.415Z",
       "updatedAt": "2026-10-27T20:43:17.415Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "d97203d2b61de37f915e19edcae4eda473f080b27d964e97e87f86d90c208e77",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "China Holds Veto Over $54 Billion Anglo-Teck Deal, Demanding Copper Supply Pledges",
-      "summary": "China Holds Veto Over $54 Billion Anglo-Teck Deal, Demanding Copper Supply Pledges NAI500",
-      "source": "NAI500",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0FSTGFzOTRsNnJnQW4wQUlhNndZSXVJZXZmd2RmT0hKcFZkYU5vQUM5eDRVN055YlJiZmRqLUlQakxTVHRVOHhmTF9FbzNnaVFlZEhOa0VTTUtWZjlDM0ozZEc3cnRkbnhneHppQ0NjSWF4OU9JXzF0WDRDT2VqUGI2NDJ0R1hsakRRS1VjYVU1N0lqamVTdXdCNHowbVpYZUNscHJHYWJ0NDFGbThlOTI2RQ?oc=5",
-      "publishedAt": "2026-10-02T23:35:42.000Z",
-      "priority": 39,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "SUPPLY",
-          "DEMAND",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "China Holds Veto Over $54 Billion Anglo-Teck Deal, Demanding Copper Supply Pledges NAI500",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-03T01:14:03.523Z",
-      "updatedAt": "2026-10-03T01:14:03.523Z",
       "analyzedAt": null
     },
     {
@@ -14972,6 +14975,42 @@
       "analyzedAt": null
     },
     {
+      "id": "641aa3bb464919b09dbba30a7bf2e4989300b2ffb6829f7a649f80a07e2ed404",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Cyprium Metals nears first Nifty copper cathode in September quarter",
+      "summary": "Cyprium Metals nears first Nifty copper cathode in September quarter Proactive financial news",
+      "source": "Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbnFGM0l4TV9odU5wTXExX2VsREJBZkM4R0FyZ1JtWVg0akdJYmpfZHFxVEg5VUtNVkhaV0FCWnJ0d0FhbG1WLWw1VmJMU2xpNUZycEV4WGpJd2JPaUFzLVB2UFVRcnl4cEZBcFpGVk14elNVbHRVM1lBUUVxUnhiWXN4OXllTE5RalBOTS1laWx4U2J2N3VVd2hBalRmem54eE5WelJYYUp4bTQ0SEtBVVJXOVBCeWp2ZjNMNGVlNE9EZ2IxOHhMMHp1RmZkZEFoU0dWYVB3?oc=5",
+      "publishedAt": "2026-11-02T00:21:11.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Cyprium Metals nears first Nifty copper cathode in September quarter Proactive financial news",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-02T00:46:13.366Z",
+      "updatedAt": "2026-11-02T00:46:13.366Z",
+      "analyzedAt": null
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -19167,64 +19206,27 @@
       "analyzedAt": null
     },
     {
-      "id": "7058eba70905b1715e05b810700d5fdd7aa896cb7dad7fc0d88daeab958f80ef",
+      "id": "920093e432ad3026fb255004235276b6bc8dd5b1165cf0ceb98ff0b12c4afb63",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "창고 속 구리·알루미늄, 디지털 담보로…LME, 금속 재고 토큰화 추진",
-      "summary": "창고 속 구리·알루미늄, 디지털 담보로…LME, 금속 재고 토큰화 추진 비온미디어",
-      "source": "비온미디어",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGWlNQbU1vM05jOTNnUkdmY1lJM0YtWWExeEZoN3dER05KWGhESXdPT21FUmpJc3V3eS1obmdkQzB6UnNzVHJJb2pibG9ueGE3VmYxRE9aUjR0Ql9Sb3gyT3U3WmhpY3PSAWtBVV95cUxOTFdVR0RLbVJFbk5FZW1kLVdCVDVkbjVBTVhCdjFFWHNVa1ZmSXUyb2lnemZzblhmWFVYdXoyUUg4UzlCV1BOUDdzellHaW14WnBhM1ZOMFY2aWc4T2RWRXpmc2VGZWtYb05QTQ?oc=5",
-      "publishedAt": "2026-11-01T08:10:33.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Inventory",
-        "categories": [
-          "INVENTORY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "창고 속 구리·알루미늄, 디지털 담보로…LME, 금속 재고 토큰화 추진 비온미디어",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-01T16:25:44.100Z",
-      "updatedAt": "2026-11-01T16:25:44.100Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "22c58e60783a6d32366dfa95cae09bbce0c82d24d32f94f7afdafc2ed27eead8",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "Can Tight Tin Supply Lift Elementos (ASX:ELT) Toward Production?",
-      "summary": "Can Tight Tin Supply Lift Elementos (ASX:ELT) Toward Production? Kalkine Media",
-      "source": "Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDFaZWVuMzVXUEh2NUZ5QmQ2Z3JJTzVuZGJrdHdaN1lDX2RZazR4eHlRTWNTSWMwNkJnbnZGTmVFTF9JZXViQXFOUzVZY3lMdzdKUVhDY25NbnhMVGlUbFBYUW9oVHRoVkU1XzdVUFloa0FaVENrRDY5aGtjYXpGOHR5WDdYNWdXMGVYZEQzX05NOFpvMGg1VEYxVjFWLWp6T29ia0lzN2dYN2FSWE5WWjhn?oc=5",
-      "publishedAt": "2026-11-01T13:50:00.000Z",
-      "priority": 30,
+      "title": "Cannindah expands Southern Shoot copper-gold footprint",
+      "summary": "Cannindah expands Southern Shoot copper-gold footprint Mining.com.au",
+      "source": "Mining.com.au",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdWJBbUFEa3JZYS1QeDMzTUtQWTlMSEhuUEUxMXdmd1MteUhSaEZlZW1WM2VHYUpWRk1LYkZ2TjkwNTNvYV9yZXVaQ1A4SjZVeUVyV2c1WUxxOXJPd2FxZTJvejJSR051dTBNWWxaLTAtY2stVWlCa0FjZ0EwRE1RY1YxUQ?oc=5",
+      "publishedAt": "2026-11-02T00:22:30.000Z",
+      "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Supply",
+        "category": "Mine",
         "categories": [
-          "SUPPLY",
-          "PRODUCTION"
+          "MINE"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Can Tight Tin Supply Lift Elementos (ASX:ELT) Toward Production? Kalkine Media",
+        "summary": "Cannindah expands Southern Shoot copper-gold footprint Mining.com.au",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -19235,45 +19237,44 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-11-01T20:50:37.631Z",
-      "updatedAt": "2026-11-01T20:50:37.631Z",
+      "queuedAt": "2026-11-02T00:46:13.366Z",
+      "updatedAt": "2026-11-02T00:46:13.366Z",
       "analyzedAt": null
     },
     {
-      "id": "bf023c039cba298954ba22b714d569ad65afaccfd99a54b97fb87d6b945bec63",
+      "id": "ceafa1a1fbac044c10d9cadbe76d40d0db8bacf64baf3551c89ef6bb1f994b87",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "LME copper prices recover amid cautious buying and supply concerns",
-      "summary": "LME copper prices recover amid cautious buying and supply concerns BigMint",
-      "source": "BigMint",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQi1yOXdqczlueGl5dEwzU1hRWVRYMGp1T21pQmlRakl2NGRCVks2WFpkdHJYZ3N5dl82ampJSDJKMHhMTXZjZFVoLWNjSWhYNUh0MVlRa2JoUnJxSXB2d21obDlKdzZJZDdqMHlZTmw2a01pczB0alBkRkJVZEswUjRqQ1VvYm5ieU5Ra2NwNWVfcEJhallSNkd4WUxFSk5LeVM3b1lXaWo5NlpKRE51ZFp3?oc=5",
-      "publishedAt": "2026-10-31T08:48:09.000Z",
-      "priority": 30,
+      "title": "Southern Hemisphere’s deepest Llahuin drill hole hunts copper feeder zone",
+      "summary": "Southern Hemisphere’s deepest Llahuin drill hole hunts copper feeder zone Mining.com.au",
+      "source": "Mining.com.au",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWgzRW40MWs0SUNIdUhneDc0OVBLR0JLZUZGenpZbWItS3ZaN0JiUkw0dEZsSnhEX3RYSzB2QUNjSDd0dGhxTjdGU1U1TGhyd3Z2ZHJDSnJQY2JwMnotT2ZNQnJoWVVXa0dlNnFJdTZiVjgwTkM4RE5LN1BOd3VQeUlvcW5qam9lWU9FWEJfT1NWMGNRNC1qbFdrOA?oc=5",
+      "publishedAt": "2026-11-02T00:22:30.000Z",
+      "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Supply",
+        "category": "Mine",
         "categories": [
-          "PRICE",
-          "SUPPLY"
+          "MINE"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "LME copper prices recover amid cautious buying and supply concerns BigMint",
+        "summary": "Southern Hemisphere’s deepest Llahuin drill hole hunts copper feeder zone Mining.com.au",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
         "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
+        "timeHorizon": "UNCLEAR",
         "signals": [],
         "urgent": false
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-11-01T20:50:37.631Z",
-      "updatedAt": "2026-11-01T20:50:37.631Z",
+      "queuedAt": "2026-11-02T00:46:13.366Z",
+      "updatedAt": "2026-11-02T00:46:13.366Z",
       "analyzedAt": null
     }
   ]
