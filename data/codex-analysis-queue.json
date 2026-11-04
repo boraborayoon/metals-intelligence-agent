@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T08:03:52.801Z",
+  "generatedAt": "2026-11-04T16:20:44.963Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -2665,45 +2665,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-03T21:01:21.469Z",
       "updatedAt": "2026-11-03T21:01:21.469Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "b732774a500a27d6404024e42828c5edcb444e861450a98a8d62c61baffbf9b4",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "World Bank backs $1.4B for Chile’s copper giant",
-      "summary": "World Bank backs $1.4B for Chile’s copper giant The Northern Miner",
-      "source": "The Northern Miner",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMzFtOVZJT1M2R2V1ejJmVlpFQXpMcndmR3EzbjdZTXJtQ2J5MVFfLWh2Y2FjbVRFMG9MdzY1NHJhS0Q3VjRSRFItdnJMWUZGQkdBNG56SzM1Q09RRDVNSUpsQkpwWnVESVZ1OVREU3FJZS1zX3JSMDlzZVdqZWtSYTZHdWZRaXg2NEZDX0FtdndxcHZGTEE?oc=5",
-      "publishedAt": "2026-10-05T15:11:26.000Z",
-      "priority": 48,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Regulation",
-        "categories": [
-          "MINE",
-          "REGULATION"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "World Bank backs $1.4B for Chile’s copper giant The Northern Miner",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-05T16:02:55.856Z",
-      "updatedAt": "2026-10-05T16:02:55.856Z",
       "analyzedAt": null
     },
     {
@@ -5559,6 +5520,49 @@
       "analyzedAt": null
     },
     {
+      "id": "a9e2b832614b61d70b1c65f974f2b7525117c15bd2d0742c0bbda2dc7b846de7",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "A 1,780-foot-deep copper pit in Montana went seven months without its pumps after part of its wall started to move, the acid lake inside climbed 3 feet, and the water in a flooded mine nearby now sits less than 26 feet below the line regulators say it can't cross",
+      "summary": "A 1,780-foot-deep copper pit in Montana went seven months without its pumps after part of its wall started to move, the acid lake inside climbed 3 feet, and the water in a flooded mine nearby now sits less than 26 feet below the line regulators say it can't cross Autonocion.com",
+      "source": "Autonocion.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlJQdkpCYVFDX0NLNU9RZktHdjhMS21taThoU0stdkNqWFNwUTNFTmIxQWdSQWE2aEE4WC1oT3k4N0x3aHFLQW5Hd0tHTEZmZmpBNGpibHczd3NUcmtFbkVDY1NUZVJOcExSU0Mxd1p3bXlFc2xfczdKcjJ3WldkMUt5M2NyNkZGSENPYXE4U1RoWGhWUjdkX1BycGhFUnpSdXZETVQ0ZnRya1JEZTRkZWtYbEJnUElu?oc=5",
+      "publishedAt": "2026-11-04T14:07:57.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Operational Accident",
+        "categories": [
+          "MINE",
+          "ACCIDENT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "A 1,780-foot-deep copper pit in Montana went seven months without its pumps after part of its wall started to move, the acid lake inside climbed 3 feet, and the water in a flooded mine nearby now sits less than 26 feet below the line regulators say it can't cross Autonocion.com",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "flood"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-04T16:20:44.963Z",
+      "updatedAt": "2026-11-04T16:20:44.963Z",
+      "analyzedAt": null
+    },
+    {
       "id": "e6b5d890a5df68dbe703b0fd366de7cb22b855f4aa17b3b3f9cd365f02cf6d0e",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -6163,6 +6167,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-03T15:10:46.700Z",
       "updatedAt": "2026-11-03T15:10:46.700Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "e32370a586136651be0ba2930a5b60a1210f6f1acb0fa2e540b202415c44ac8f",
+      "commodity": "MOLYBDENUM",
+      "subCommodity": null,
+      "title": "Freeport-McMoRan to Invest $4.5 Billion in Expanding, Modernizing Copper and Molybdenum Mine in Arizona",
+      "summary": "Freeport-McMoRan to Invest $4.5 Billion in Expanding, Modernizing Copper and Molybdenum Mine in Arizona WSJ",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWkZyY2pBYmJ2WGFfb0VuZWNMYlZmdHk3X01sSlp2MFo4S29ITzM0Tng4VzhZZUcwSW5WU2dNRGVnc29xbGlyb2RXaURZNXhDU21LNkJrbHpnN1ZRcmZ4eTh0N0liZ0ZabGN0MXpjNnY1SG93LUJiTHVHaTR2T1lDM2dYYk03VUt5Y2hlcVJzV1gwS1ZLaFRod09KdHFHWXZwWHBnMmI5clNJUUtUMFB0b2Frdjg2N21nNGEyWUZXamFaZDZQMHJSMkhnS2ltMllrc0pjMkh3?oc=5",
+      "publishedAt": "2026-11-04T14:01:18.000Z",
+      "priority": 40,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Freeport-McMoRan to Invest $4.5 Billion in Expanding, Modernizing Copper and Molybdenum Mine in Arizona WSJ",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-04T16:20:44.963Z",
+      "updatedAt": "2026-11-04T16:20:44.963Z",
       "analyzedAt": null
     },
     {
@@ -12548,115 +12589,6 @@
       "analyzedAt": null
     },
     {
-      "id": "73400d451109bc3fe9ea6fe222ae8ffe36bbfac30aee8b6ee04c6de7d617ac8a",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Bottomed: Glencore's Blockbuster H1 Surge",
-      "summary": "Copper Bottomed: Glencore's Blockbuster H1 Surge Mining Digital",
-      "source": "Mining Digital",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjdja2wtWkx4TG5Cdl83ZndFVzVRYndoWjB3ZVlmMWdiUXdDSTJJa2ZwSkFyVTBpN1NOODdFQjZBTUFFU0pDcTZuRnBYSWhyWGhfaHIyUzJpa08yOG9aZEZNa3psNTQxV1FGamFWS3haNWM2T2pRUXdGR0JMUEJ2aGVxU2w4U09J?oc=5",
-      "publishedAt": "2026-10-05T15:05:57.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Bottomed: Glencore's Blockbuster H1 Surge Mining Digital",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-05T16:02:55.856Z",
-      "updatedAt": "2026-10-05T16:02:55.856Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "7ffa360b0c8880548e78b1beb092c1207bbbdad4204040d2eccb832b57d9cd7e",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Freeport-McMoRan Reports Q3 Copper Output, Advances Grasberg Recovery",
-      "summary": "Freeport-McMoRan Reports Q3 Copper Output, Advances Grasberg Recovery finance.yahoo.com",
-      "source": "finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRDJOTS1UdFhsWG9VUG9vRDlabDJfWXJqTHFCVTI4WURWbU02NEwwQUNpaC1XZ2JjcGJIa2lLTWNuT0F1MWpTMEZhbkNpbkVyVlluVjNDeHFYbTJTRVRpVUVYZkhJY3ZwN3VQZjVpdUJhUmRvR0JjYUcwd2dyZE5mR0FvRS1RN1NlZThSaW51RUVKNWxnTHRFOW4xd0tJMUU4SnFYWG9CYw?oc=5",
-      "publishedAt": "2026-10-05T11:11:00.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Freeport-McMoRan Reports Q3 Copper Output, Advances Grasberg Recovery finance.yahoo.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-05T16:02:55.856Z",
-      "updatedAt": "2026-10-05T16:02:55.856Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ad2b1a01c32ff086e1ef56ee9e44625b85579e8331e29b0364b6b04c0919f356",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Gunnison Copper plans NYSE American listing to expand U.S. investor access and boost copper production.",
-      "summary": "Gunnison Copper plans NYSE American listing to expand U.S. investor access and boost copper production. Pluang",
-      "source": "Pluang",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmdyOFJBTVB0VWp5SW9BRmpHWC0xN0VQRGRyRlVRNVpkNk8wTGRkZE9WS29jLWdENzVmN2E5Q2g2aTJxdG5iVnY1UlBXclp5dDE5c2JxN0JtaWJLaTNyTEFYQkVvNjYyWFpDdmFma1hZd2ozUlp2U3YtdTlmQU5NMGhNWG1Ia1BxSGN6QkU0Nnd3ZFZsMEVaTDQwdDhsRk5OemdxNF9PaG5Hb2FzUFFCOVhn?oc=5",
-      "publishedAt": "2026-10-05T10:15:37.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Gunnison Copper plans NYSE American listing to expand U.S. investor access and boost copper production. Pluang",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-05T16:02:55.856Z",
-      "updatedAt": "2026-10-05T16:02:55.856Z",
-      "analyzedAt": null
-    },
-    {
       "id": "704218262c223ddf9701f3fb13b383955106cd8f5b4c2384165f2496051515d7",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -15567,6 +15499,79 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-04T08:03:52.801Z",
       "updatedAt": "2026-11-04T08:03:52.801Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f316ff6ca8f725f62241f67c3e2b177c192c9b12168b244e42cac5664ecc758d",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "BHP’s Copper South Australia expansion could add 200,000 tonnes to annual output, RBC says",
+      "summary": "BHP’s Copper South Australia expansion could add 200,000 tonnes to annual output, RBC says Yahoo Finance Australia",
+      "source": "Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWVA3TS1aNzdzT1BRSjE2bV9acmlfdWtiQzNwRTF4RU9tcmFIOFZ1aEhXR0sxOVV3eE5lUEo5a1poNTdIeU1LcnVrOUQwdm5wOFpNZjN4ck9HQnZIZHpZVW1wdkxNNUxsY3NSdF8wdlBaSlJZWlM3NnBoeGMxd1ltMnQ1MDBfaTl3S1I3RUln?oc=5",
+      "publishedAt": "2026-11-04T14:00:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Capacity",
+        "categories": [
+          "PRODUCTION",
+          "CAPACITY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BHP’s Copper South Australia expansion could add 200,000 tonnes to annual output, RBC says Yahoo Finance Australia",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-04T16:20:44.963Z",
+      "updatedAt": "2026-11-04T16:20:44.963Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "bd4c866cca1a86c60f1de8c5ae7046936adfa5d982e98cee88cfe168fd4b605f",
+      "commodity": "MOLYBDENUM",
+      "subCommodity": null,
+      "title": "【Flash | Rotterdam and Busan Molybdenum Oxide Prices Converge Above $33.60/lb Mo】",
+      "summary": "【Flash | Rotterdam and Busan Molybdenum Oxide Prices Converge Above $33.60/lb Mo】 Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb2VTSmZVbWtWVk5vTzdOMENCU1cyU1ZDY3RUYjBhVm5hMHFQOWZwSmFldUpXaXNIWW1seXB1dTh0X1dHeXhmWE5MZ20yR2N3akJiU3RuS2ZSNjNOR21rQXZ1aGdNUVlzalRkX2JOTkdKdldpcm5TYW85WExoWWZDZGJNZ1N5ZGZIR0htZ1ZmYVA3RFhzWmdqeFRoMTZhVGhxTGt3dkE4cWFxU3M5UDNEUHdFZ0R5T1BzdmZv?oc=5",
+      "publishedAt": "2026-11-04T12:59:00.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "【Flash | Rotterdam and Busan Molybdenum Oxide Prices Converge Above $33.60/lb Mo】 Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-04T16:20:44.963Z",
+      "updatedAt": "2026-11-04T16:20:44.963Z",
       "analyzedAt": null
     },
     {
