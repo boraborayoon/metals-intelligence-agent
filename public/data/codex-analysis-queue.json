@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T09:51:46.828Z",
+  "generatedAt": "2026-11-05T18:02:01.838Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -25,16 +25,6 @@
       "codexStatus": "PENDING",
       "source": "NAI500",
       "publishedAt": "2026-10-20T08:49:29.000Z"
-    },
-    {
-      "id": "4450df20feb172e0803f4955fd915639dac6da448d6f6244f1e24a2879aa998b",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Japan's METI Expands Export Ban on Russia, Adding Copper Products and Tungsten to Sanctions List",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "finance.biggo.com",
-      "publishedAt": "2026-10-06T11:55:00.000Z"
     },
     {
       "id": "c649528595e5e6b202837636b6dbf180957b039c2c5904a7e44c94d43963750f",
@@ -125,16 +115,6 @@
       "codexStatus": "PENDING",
       "source": "IndexBox",
       "publishedAt": "2026-10-15T12:10:31.000Z"
-    },
-    {
-      "id": "6709b9d7dda463ef7e497de8294a5a5fb5cefac84f834ef06b43e754b16e8610",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Union says workers at Chile's centinela copper mine say still no contract agreement; strike could be triggered",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Newsquawk",
-      "publishedAt": "2026-10-06T15:40:35.000Z"
     },
     {
       "id": "8289592716037e614fe9cb17e4e2cbc5ee95caab8a770fb21d4e011f354df989",
@@ -867,16 +847,6 @@
       "publishedAt": "2026-11-03T09:05:55.000Z"
     },
     {
-      "id": "de262dd33cfca84fe6923f800b71fe913f078b515a55a48b24f4f6246f377a4a",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Intelligence Inc. Expands Butembo Copper Project with Strategic 3 km Strike Extension Following Continued Exploration Success",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "marketscreener.com",
-      "publishedAt": "2026-10-06T13:59:06.000Z"
-    },
-    {
       "id": "25506bbfb40a7c62ffead844ba4f1629ca1ac2bfb2201ad83e960717bf147508",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -925,16 +895,6 @@
       "codexStatus": "PENDING",
       "source": "South China Morning Post",
       "publishedAt": "2026-10-24T13:01:39.000Z"
-    },
-    {
-      "id": "548f7cf689a97ed3ff8cc15fcc6fdc58898f29f6c46d556a6676e832228a3235",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Intelligence Inc. (CUAI) Extends Butembo Strike by ~3 km After 16/16 Cu Hits",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-06T13:57:00.000Z"
     },
     {
       "id": "9260cbe5e7b6f683cf23dec1380465c68b7a1179be0af826d21b769cc54266b3",
@@ -1477,16 +1437,6 @@
       "publishedAt": "2026-11-04T14:01:18.000Z"
     },
     {
-      "id": "974de68359b367474be68858e29cf0b7b8c9df40efd56d54bc47563e7de02bd2",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Chile Government estimates 2026 average copper price at USD 6.15/lb and 2027 at USD 5.65/lb.",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Newsquawk",
-      "publishedAt": "2026-10-06T16:07:30.000Z"
-    },
-    {
       "id": "fabe803d27a6471d0226fb467dbc7f4ec3f82abad10e99725d1b27bbbeb0d9cb",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1657,24 +1607,24 @@
       "publishedAt": "2026-11-03T16:12:00.000Z"
     },
     {
-      "id": "7a7362ac24b83cfa95705cd3763e5f036854cbb1829e4737a73fd9948b07a66c",
-      "commodity": "COPPER",
+      "id": "133ac8fd6a53f97e855f3e3e102fbbd1cba3b06d3e173669ee6d22c9b1dda0bc",
+      "commodity": "TIN",
       "importance": "MEDIUM",
-      "title": "Copper Price October 7 2026",
+      "title": "ITA Launches New Global Tin Smelter Database",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Robinhood",
-      "publishedAt": "2026-10-06T17:50:25.000Z"
+      "source": "Daniel Zamora",
+      "publishedAt": "2026-11-05T15:00:31.000Z"
     },
     {
-      "id": "fd58cf5600e6b423fbfe1d60b026af1d2abbecc9a8401eda30010f2e2f52163a",
+      "id": "e766e7df89cd02ccb0143a661a9722cca92f032ffb88ba5f3139aa54bf2cd575",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Can Cobre Panama copper mine run for 25 years without growing?",
+      "title": "Falling sulphuric acid prices deepen China's copper smelter squeeze",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Benchmark Mineral Intelligence",
-      "publishedAt": "2026-10-06T16:46:44.000Z"
+      "source": "marketscreener.com",
+      "publishedAt": "2026-11-05T14:36:14.000Z"
     },
     {
       "id": "7d8b818eb770dd35717b14f8db1172bb74c0ba059a8e634381ee5e9a52183c34",
@@ -2897,6 +2847,16 @@
       "publishedAt": "2026-11-05T04:48:00.000Z"
     },
     {
+      "id": "ba10e8f7940e64ec048323dfd55f597f7148bbcd7993a1061fde38f60b28d1f6",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Congo residents sue Chinese copper mine over alleged pollution, statement says",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "KELO-AM",
+      "publishedAt": "2026-11-05T15:21:14.000Z"
+    },
+    {
       "id": "50f1855fb0707537f5e389be167a665d9ba37a163b3c8876702b680ea9154132",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4007,6 +3967,26 @@
       "publishedAt": "2026-11-04T22:42:45.000Z"
     },
     {
+      "id": "1ef26c6e9c555432fb5c6d776279108950ecad97e4f7d6c48964b04113bef581",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "US accumulates 70% of LME copper stocks",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-11-05T16:34:31.000Z"
+    },
+    {
+      "id": "d187776772e3621ba2b29686b160b9c093243acf9fdd512a0a189704971cdd7e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "US Warehouses Are Now Holding Most LME Copper",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Finimize",
+      "publishedAt": "2026-11-05T12:04:12.000Z"
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4015,16 +3995,6 @@
       "codexStatus": "PENDING",
       "source": "S&P Global",
       "publishedAt": "2026-10-12T05:56:38.000Z"
-    },
-    {
-      "id": "483c5eb9b034b3a0e1f6e1430c9d5f3dbba8a0fca23929615e5bc8691c62e869",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Peru Turns to Grassroot Projects to Boost Copper Output",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Industrial Info",
-      "publishedAt": "2026-10-06T12:43:30.000Z"
     },
     {
       "id": "0824abc46e84db390b6be700a8b8d91e7f2334ca4b1a456c134890a38080069f",
@@ -4607,6 +4577,16 @@
       "publishedAt": "2026-11-05T05:01:00.000Z"
     },
     {
+      "id": "418d75fd029b14b1dc850a95fee8774fcbad4288affe133d2409bb64348888c1",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Luxe Trading USA Secures OEM Supply Chains with Traceable DRC Copper and Cobalt",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "StreetInsider",
+      "publishedAt": "2026-11-05T13:52:51.000Z"
+    },
+    {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -5005,6 +4985,26 @@
       "codexStatus": "PENDING",
       "source": "국제통상신문",
       "publishedAt": "2026-11-05T08:28:04.000Z"
+    },
+    {
+      "id": "103cc0e784aa1f72415f21170224457e1a8bb2745aca87fe1b01caa2576cf436",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Rio Tinto Says $144 Million Investment Approved for Arizona Copper Project",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "www.marketscreener.com",
+      "publishedAt": "2026-11-05T17:35:34.000Z"
+    },
+    {
+      "id": "66553cc449769ee52c347af810367f995a4593674cb70c91b0c85988e765b7cb",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Rio Tinto injects $144M into Resolution Copper after Arizona land battle win",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Northern Miner",
+      "publishedAt": "2026-11-05T17:10:27.000Z"
     }
   ]
 }

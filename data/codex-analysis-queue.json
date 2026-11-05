@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T09:51:46.828Z",
+  "generatedAt": "2026-11-05T18:02:01.838Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -88,54 +88,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-20T10:26:30.109Z",
       "updatedAt": "2026-10-20T10:26:30.109Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "4450df20feb172e0803f4955fd915639dac6da448d6f6244f1e24a2879aa998b",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Japan's METI Expands Export Ban on Russia, Adding Copper Products and Tungsten to Sanctions List",
-      "summary": "Japan's METI Expands Export Ban on Russia, Adding Copper Products and Tungsten to Sanctions List finance.biggo.com",
-      "source": "finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OUGxnc043b180Ty1Dc000V203Tzc4ejYtZzhtNlZzeTFWTVEzem94U2dEMHdfYlFreVVvT2p2RWQ0SDdrczZqT3d6dlZ2N0lsMlJQY3F5SFphUVl6LV9BQXdBS1NrelVFSWVYbVU2bi1zajR6UkE?oc=5",
-      "publishedAt": "2026-10-06T11:55:00.000Z",
-      "priority": 67,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Sanctions",
-        "categories": [
-          "LOGISTICS",
-          "EXPORT",
-          "SANCTION",
-          "REGULATION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Japan's METI Expands Export Ban on Russia, Adding Copper Products and Tungsten to Sanctions List finance.biggo.com",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "export ban",
-          "sanction"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk",
-          "Export Restriction",
-          "Sanctions"
-        ],
-        "urgent": true
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-06T16:17:05.092Z",
-      "updatedAt": "2026-10-06T16:17:05.092Z",
       "analyzedAt": null
     },
     {
@@ -526,51 +478,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-15T15:45:00.067Z",
       "updatedAt": "2026-10-15T15:45:00.067Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "6709b9d7dda463ef7e497de8294a5a5fb5cefac84f834ef06b43e754b16e8610",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Union says workers at Chile's centinela copper mine say still no contract agreement; strike could be triggered",
-      "summary": "Union says workers at Chile's centinela copper mine say still no contract agreement; strike could be triggered Newsquawk",
-      "source": "Newsquawk",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR2RscTNabWh2Z1V3LW5sRGpCYUJrOWtCal9EMGhkbWZINDJLNnhEcnJhanJyNTNDczhLdVZ0MVByQ20zTHVWQVJySGpXZ29KcEs1YlNsbFVVX2UzaUdWM1RwRnRIT0dUT2s2bE5zb1ZrdEF3UW92NVcxWGRpMElKbE9pdEx0SkpHU2Q4c3RQX2pDYmNlRDRURG5PU09uSUNuNFd1X29FczRPd2JiLUJxLXA2azFNTFNDbUppWk1kZ0NEZ3Z0VVYzQzFCSWR0LXEzMWdiMUNoN1o1ZXZi?oc=5",
-      "publishedAt": "2026-10-06T15:40:35.000Z",
-      "priority": 62,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "MINE",
-          "STRIKE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Union says workers at Chile's centinela copper mine say still no contract agreement; strike could be triggered Newsquawk",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-06T16:17:05.092Z",
-      "updatedAt": "2026-10-06T16:17:05.092Z",
       "analyzedAt": null
     },
     {
@@ -3594,49 +3501,6 @@
       "analyzedAt": null
     },
     {
-      "id": "de262dd33cfca84fe6923f800b71fe913f078b515a55a48b24f4f6246f377a4a",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Intelligence Inc. Expands Butembo Copper Project with Strategic 3 km Strike Extension Following Continued Exploration Success",
-      "summary": "Copper Intelligence Inc. Expands Butembo Copper Project with Strategic 3 km Strike Extension Following Continued Exploration Success marketscreener.com",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeThEaGpZLV9OZUlYejdhT2xBMmFIam5yQmQzR3VlS0tESUtCNWs5S1B2a3hQSmduWmhaYmRJQURDNmM3MnRUeVduUmQtY1JZaUNJRmVPWTZybE5XVF9uUERGODBpZjUwYXFMMzdfMzJwSC05ZEEzZ2lhRVZwWU1hU1ZyVEdMN2NFZFR6OHFlWjB2dXN1MElyYndrY0hybmNibllaWVZJajdjTkhtUDZqakRtSTBReFlqeWgxbTBvX09FTlZ4R1h2TDlpQTE2SWRnWko1UmRlMWpndnE4Y1RIS1kwVGRjT1k?oc=5",
-      "publishedAt": "2026-10-06T13:59:06.000Z",
-      "priority": 44,
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "STRIKE",
-          "PROJECT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Intelligence Inc. Expands Butembo Copper Project with Strategic 3 km Strike Extension Following Continued Exploration Success marketscreener.com",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-06T16:17:05.092Z",
-      "updatedAt": "2026-10-06T16:17:05.092Z",
-      "analyzedAt": null
-    },
-    {
       "id": "25506bbfb40a7c62ffead844ba4f1629ca1ac2bfb2201ad83e960717bf147508",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -3859,48 +3723,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-24T14:34:34.745Z",
       "updatedAt": "2026-10-24T14:34:34.745Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "548f7cf689a97ed3ff8cc15fcc6fdc58898f29f6c46d556a6676e832228a3235",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Intelligence Inc. (CUAI) Extends Butembo Strike by ~3 km After 16/16 Cu Hits",
-      "summary": "Copper Intelligence Inc. (CUAI) Extends Butembo Strike by ~3 km After 16/16 Cu Hits TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTDJ0NU95V1JZajNELWFGc0hBYkg0bEMxa3VCS0d0NHlqNW9QdjcwRm15RV9aOVhPVUNsYXB4cWlKd2hxaDdNMFVRRE14bUozWGFNdVBmbWx2UUhaTkNEZ2Z4OGhySmVVa1I1Tm9DVElNOVRnZFJCR0tZTnh0SGhqWUpJSWtYWk5EaTRtckV0UUxaU3lObEpZNXNtR3pCdm5zb0dqTlg3cEhrX3l6WWhZbl95QVFjV09ESVR4ZG1JNnFBV2dMQUxySGwzblFkR0dKNllTOGhmWVE?oc=5",
-      "publishedAt": "2026-10-06T13:57:00.000Z",
-      "priority": 42,
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "STRIKE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Intelligence Inc. (CUAI) Extends Butembo Strike by ~3 km After 16/16 Cu Hits TradingView",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-06T16:17:05.092Z",
-      "updatedAt": "2026-10-06T16:17:05.092Z",
       "analyzedAt": null
     },
     {
@@ -6164,45 +5986,6 @@
       "analyzedAt": null
     },
     {
-      "id": "974de68359b367474be68858e29cf0b7b8c9df40efd56d54bc47563e7de02bd2",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Chile Government estimates 2026 average copper price at USD 6.15/lb and 2027 at USD 5.65/lb.",
-      "summary": "Chile Government estimates 2026 average copper price at USD 6.15/lb and 2027 at USD 5.65/lb. Newsquawk",
-      "source": "Newsquawk",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczdXT09PMGVnZm84eEpTRWJSc3VfX25pempiSjlWVFRqY0tuRUVZZ3BEa0tjYkQ0NWQ3djRLUWo1ZkVtU3EwX3VranAwTTdLNXVQZnZodDdTdWZVQ01FU2YweGtqbENCNGFZUVZsRDlDa1U4d3U4aGdSX3Z4TDZtZmRNVkZ0OGN3Q0luTFJaOERxOXE4MWN2cTcxd29MU3ZOVEM1WWNWMTQ1cjVKd1VsYTlvSXRlZ204YUlZbFpRMUp3QQ?oc=5",
-      "publishedAt": "2026-10-06T16:07:30.000Z",
-      "priority": 39,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Government Policy",
-        "categories": [
-          "PRICE",
-          "POLICY"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Chile Government estimates 2026 average copper price at USD 6.15/lb and 2027 at USD 5.65/lb. Newsquawk",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-06T21:03:10.462Z",
-      "updatedAt": "2026-10-06T21:03:10.462Z",
-      "analyzedAt": null
-    },
-    {
       "id": "fabe803d27a6471d0226fb467dbc7f4ec3f82abad10e99725d1b27bbbeb0d9cb",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -6845,63 +6628,28 @@
       "analyzedAt": null
     },
     {
-      "id": "7a7362ac24b83cfa95705cd3763e5f036854cbb1829e4737a73fd9948b07a66c",
-      "commodity": "COPPER",
+      "id": "133ac8fd6a53f97e855f3e3e102fbbd1cba3b06d3e173669ee6d22c9b1dda0bc",
+      "commodity": "TIN",
       "subCommodity": null,
-      "title": "Copper Price October 7 2026",
-      "summary": "Copper Price October 7 2026 Robinhood",
-      "source": "Robinhood",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2xNRm1va2dEeUtnSjlDVXlMRzBGOG5MTHVHMjRBa1JYVXJpNFFGQy0wSG1kTmlsOTlSYVVLeXRITl8tN05fN2VSeGhLLWM5dkViTVRMZF9kYjBnNU5xakZuWXdod0dWdUY1bjBFZzhtc2l4TGhnblFFYl94eTE5T2Rnbk05UU9MVmtsVnN0U3I4VHUtM2tLQzNFWlVHRE5zdjgw?oc=5",
-      "publishedAt": "2026-10-06T17:50:25.000Z",
-      "priority": 38,
+      "title": "ITA Launches New Global Tin Smelter Database",
+      "summary": "The International Tin Association (ITA) is pleased to announce the launch of its new Tin Smelter Database, now live and ready to explore! This new online resource provides easy access to information on tin smelters worldwide. It aims to improve transparency, support responsible sourcing and help users make informed decisions. The database brings together key […] The post ITA Launches New Global Tin Smelter Database appeared first on International Tin Association.",
+      "source": "Daniel Zamora",
+      "url": "https://www.internationaltin.org/tin-smelter-database-launch",
+      "publishedAt": "2026-11-05T15:00:31.000Z",
+      "priority": 39,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "General",
+        "category": "Smelter",
         "categories": [
-          "PRICE"
+          "SMELTER",
+          "LOGISTICS"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Copper Price October 7 2026 Robinhood",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-06T21:03:10.462Z",
-      "updatedAt": "2026-10-06T21:03:10.462Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "fd58cf5600e6b423fbfe1d60b026af1d2abbecc9a8401eda30010f2e2f52163a",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Can Cobre Panama copper mine run for 25 years without growing?",
-      "summary": "Can Cobre Panama copper mine run for 25 years without growing? Benchmark Mineral Intelligence",
-      "source": "Benchmark Mineral Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdF9BWjVBX2RGTmowbHFiczQ0b3NIOGw3bmRtdlN2SWtTdm0zUktFNlljZGp1cVNQM2Vaa09aR3hUV3JwMldOYmxWYlYzQkpzck95SmRNT1huN3VhNlpadFdJamZQbmtLMUpqLV93ZGxKRkhOSVR5RnBEdWtzWlhCMU00dkUwOGN5ZGxReEs5cVZjVmhWOHE4dmgzdVhiYzlvNE4ybzBFQnpMeVk?oc=5",
-      "publishedAt": "2026-10-06T16:46:44.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Can Cobre Panama copper mine run for 25 years without growing? Benchmark Mineral Intelligence",
+        "summary": "The International Tin Association (ITA) is pleased to announce the launch of its new Tin Smelter Database, now live and ready to explore! This new online resource provides easy access to information on tin smelters worldwide. It aims to improve transparency, support responsible sourcing and help users make informed decisions. The database brings together key […] The post ITA Launches New Global Tin Smelter Database appeared first on International Tin Association.",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -6912,8 +6660,48 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-10-06T21:03:10.462Z",
-      "updatedAt": "2026-10-06T21:03:10.462Z",
+      "queuedAt": "2026-11-05T18:02:01.838Z",
+      "updatedAt": "2026-11-05T18:02:01.838Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "e766e7df89cd02ccb0143a661a9722cca92f032ffb88ba5f3139aa54bf2cd575",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Falling sulphuric acid prices deepen China's copper smelter squeeze",
+      "summary": "Falling sulphuric acid prices deepen China's copper smelter squeeze marketscreener.com",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaVNsWU45a1VQUWE5dElocTFCSV9XbE83ZGpveGZkQzlDajcxX2tPblRkQlh5RDROaHR3OC1rSFR1ODloR3BsTkhtWFViVUUtMzZQN185bEt1T3BRUmJoZjlVelZVc291WV82NE00QnpGOVN2S2dGTmJ2T1ZBb19ia20tTEIzZ1htcEhNQXlfMkpraG8wVEhWN1BrUmxwQTBpaXdkTGtpSm5fMU8xRE1iYjhWY2NsWUtCNGJLOQ?oc=5",
+      "publishedAt": "2026-11-05T14:36:14.000Z",
+      "priority": 39,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Smelter",
+        "categories": [
+          "PRICE",
+          "SMELTER",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Falling sulphuric acid prices deepen China's copper smelter squeeze marketscreener.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-05T18:02:01.838Z",
+      "updatedAt": "2026-11-05T18:02:01.838Z",
       "analyzedAt": null
     },
     {
@@ -11412,6 +11200,43 @@
       "analyzedAt": null
     },
     {
+      "id": "ba10e8f7940e64ec048323dfd55f597f7148bbcd7993a1061fde38f60b28d1f6",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Congo residents sue Chinese copper mine over alleged pollution, statement says",
+      "summary": "Congo residents sue Chinese copper mine over alleged pollution, statement says KELO-AM",
+      "source": "KELO-AM",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUNOQ2JaVjRVaGRSYTlQOW9YN0tfNGcza2M3NnA0TEw4TWVZbW56MkR1ejRHTldHQURUQ05iOXZ4Qk15RXFtWUVSaTN1TGM5WHc1dVJzMEp2Rkl0S2l0NFZKUnQzQjdiQS0tS1pfX01qdTZsc2ptY3IxZkJhc3VUTG5zM3pDU3FpZU9OSl9fMVBHLVhCQTZ3S0JtdGFFZ01JSmtzOWFJQ0hiZw?oc=5",
+      "publishedAt": "2026-11-05T15:21:14.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "CHINA"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Congo residents sue Chinese copper mine over alleged pollution, statement says KELO-AM",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-05T18:02:01.838Z",
+      "updatedAt": "2026-11-05T18:02:01.838Z",
+      "analyzedAt": null
+    },
+    {
       "id": "50f1855fb0707537f5e389be167a665d9ba37a163b3c8876702b680ea9154132",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -15498,6 +15323,78 @@
       "analyzedAt": null
     },
     {
+      "id": "1ef26c6e9c555432fb5c6d776279108950ecad97e4f7d6c48964b04113bef581",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "US accumulates 70% of LME copper stocks",
+      "summary": "US accumulates 70% of LME copper stocks marketscreener.com",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVU02azJmQ2p3QkxGQXI3T2t2Snk1OXpKM1FKTHZzQlhhaGhxTGlwNHZXd2hBd2J4VGZXbWFlMVhDS0tSb0JfOHFrcVk2Zkc0RlJ4LW5kRFVYLUF5QllpZThEOGhGM3hhNjAzemFpOGYtYllzNC10Q3dodUNuR0FwOTltM0NfNC1vaGZacFlFejk1c3lBbWc?oc=5",
+      "publishedAt": "2026-11-05T16:34:31.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "US accumulates 70% of LME copper stocks marketscreener.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-05T18:02:01.838Z",
+      "updatedAt": "2026-11-05T18:02:01.838Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "d187776772e3621ba2b29686b160b9c093243acf9fdd512a0a189704971cdd7e",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "US Warehouses Are Now Holding Most LME Copper",
+      "summary": "US Warehouses Are Now Holding Most LME Copper Finimize",
+      "source": "Finimize",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nSkswMzFBY29GU1pMQVJ1bFhXdGRNek44YnRUMlBpdlBjYTBFSFROMTFIaGpmTlpGcEl3ZC1GVE10bGN3TmRUVkZPSFVtcmxvdmJXemdldjdMVnV5dklPMGZtUWg0eENBRjdEZnhfNmhhZ2VwSW1zV0tNWVJ1eWs?oc=5",
+      "publishedAt": "2026-11-05T12:04:12.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "US Warehouses Are Now Holding Most LME Copper Finimize",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-05T18:02:01.838Z",
+      "updatedAt": "2026-11-05T18:02:01.838Z",
+      "analyzedAt": null
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -15533,45 +15430,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-12T09:47:10.014Z",
       "updatedAt": "2026-10-13T01:38:05.241Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "483c5eb9b034b3a0e1f6e1430c9d5f3dbba8a0fca23929615e5bc8691c62e869",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Peru Turns to Grassroot Projects to Boost Copper Output",
-      "summary": "Peru Turns to Grassroot Projects to Boost Copper Output Industrial Info",
-      "source": "Industrial Info",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMlU5S2UtZHdjekRRczg0Uml3Z3cwV0tsRHBhaml2MmhYejg1TUFpcnN3aXp1cS1ibWxtOTRESTg1WGkwNXFneml5VGhNR2JmbVRNRlQ0MDhHYl9CcXlITHpLNVRxWnE3UU94OHcyWGJLMTFDNVl5SkNUazVheFBlWWJCS1BKaGpWQWdsaDZYbUY4WGdJaXBzcHVKc084elpLenQ5V0hDRFNNLTg?oc=5",
-      "publishedAt": "2026-10-06T12:43:30.000Z",
-      "priority": 35,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION",
-          "PROJECT"
-        ],
-        "region": "Peru",
-        "regions": [
-          "Peru"
-        ],
-        "summary": "Peru Turns to Grassroot Projects to Boost Copper Output Industrial Info",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-06T09:26:21.392Z",
-      "updatedAt": "2026-10-06T16:17:05.092Z",
       "analyzedAt": null
     },
     {
@@ -17841,6 +17699,44 @@
       "analyzedAt": null
     },
     {
+      "id": "418d75fd029b14b1dc850a95fee8774fcbad4288affe133d2409bb64348888c1",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Luxe Trading USA Secures OEM Supply Chains with Traceable DRC Copper and Cobalt",
+      "summary": "Luxe Trading USA Secures OEM Supply Chains with Traceable DRC Copper and Cobalt StreetInsider",
+      "source": "StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMktFSWZVVnlNNWY5QWVfVFM1SkNmS09ueUVNN3J3TVlqWEZUWXRpN245cWs2bkw5MDNPdE44dTVDUVRFZGRQWGFnRzAtM1JjdTNBYzRyLVplRDQ5RmJ6MDRWNzhabTBtUW5YQnpTRmVETGZpZEljeWFRbmV2b3NIaGZuTnJWZ1VNZGpEZ1JZYzdPaDFzQzBLa3d3YW9uZi1tMXRkdGFHSFpfaTBKdlVQc1M1bURzYkRUTUdnbmlnWU0zUVNaM0E3ZW1sU0pZOVE?oc=5",
+      "publishedAt": "2026-11-05T13:52:51.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "DRC",
+        "regions": [
+          "DRC"
+        ],
+        "summary": "Luxe Trading USA Secures OEM Supply Chains with Traceable DRC Copper and Cobalt StreetInsider",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-05T18:02:01.838Z",
+      "updatedAt": "2026-11-05T18:02:01.838Z",
+      "analyzedAt": null
+    },
+    {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -19298,6 +19194,78 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-05T09:51:46.828Z",
       "updatedAt": "2026-11-05T09:51:46.828Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "103cc0e784aa1f72415f21170224457e1a8bb2745aca87fe1b01caa2576cf436",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Rio Tinto Says $144 Million Investment Approved for Arizona Copper Project",
+      "summary": "Rio Tinto Says $144 Million Investment Approved for Arizona Copper Project www.marketscreener.com",
+      "source": "www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVzgtQTJ4TDVEazJpT1VYZ2xOd3VlUE5mY3kyWm9yVkxzcE9nWUJDblkxUDRycFprb3dwRGRyZVpiSXk0MzJ5T2ZWWWo1WHl6QmF3c0xvQl9xLUdOLVFzU05acVo5cjJKdUMzVWVhRVZQQjVYaXZaV0RyNzhlNWgwYVktZzJOWDVFbHpsWjFxVFpTZWhGeE5hZXpwUEg5UExVM0Z4OWNPbzF2Q0dkeExick8ya0pabmtFYWpGRmZnSzJyQkQ4?oc=5",
+      "publishedAt": "2026-11-05T17:35:34.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Rio Tinto Says $144 Million Investment Approved for Arizona Copper Project www.marketscreener.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-05T18:02:01.838Z",
+      "updatedAt": "2026-11-05T18:02:01.838Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "66553cc449769ee52c347af810367f995a4593674cb70c91b0c85988e765b7cb",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Rio Tinto injects $144M into Resolution Copper after Arizona land battle win",
+      "summary": "Rio Tinto injects $144M into Resolution Copper after Arizona land battle win The Northern Miner",
+      "source": "The Northern Miner",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmszNko2R1hvMXRaZkNucXVoMG5JNHdPU0oxeENERmU2WWVHR0tJa0xSNXlqTGJxQ0lobHJ4VzlaQUljbGRERWxuUVJ6TnFpZHhYMURHeUVET1NuNzFIVXRjbEVIVFIxMDZ2VWNJSGxLQWE4TDVGbDBpbnliNmFOMjQ1al9nREJhOFZJMFVoUEVadjZKdjB2NklYZy1rRkZBdXJYYk5NYnhjSzhyMnlWZHlSdF9FUXRZbC1EWC04QQ?oc=5",
+      "publishedAt": "2026-11-05T17:10:27.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Rio Tinto injects $144M into Resolution Copper after Arizona land battle win The Northern Miner",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-05T18:02:01.838Z",
+      "updatedAt": "2026-11-05T18:02:01.838Z",
       "analyzedAt": null
     }
   ]
