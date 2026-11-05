@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T22:14:23.151Z",
+  "generatedAt": "2026-11-05T02:31:27.387Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -2668,6 +2668,44 @@
       "analyzedAt": null
     },
     {
+      "id": "b1666d1b896d228d461c34bd5ffcaa370d40fa44576a29034f2b8b9984955235",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "LUN: Record copper prices boosted cash generation as Caserones weather cut production guidance",
+      "summary": "LUN: Record copper prices boosted cash generation as Caserones weather cut production guidance TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPU1BycnNCbEw4bzUxYlFCX3RxTEFVRHMtTzBsTVpIcHI4ZUc3Uktyc2tPRWl6ckJjTGY5YldINjY1V2tqSzNZT3NZTnUtRkxBbGhnRW1BMkhTbGMtVktrZ1lLXzhpdmVqc0cxLUhWdEg2NE5LUER3UERHa21EOUNYdEphQTI3WDFRdE5tM1VhTVl0NmxUalhlVWNEV28wRGZMMVZjbjFCeW1HQVFpeE9VTFdGZ2oyYXhwVmpBcGJrNkFVWUhOQlVmNW1BRGs2Tng5WnpOeGluOTd1c1RvQnlEOUp6OHlEMVdPb2Z0VGhhWjdxWHNsZ2d3LVlqYm1PME5QRXFJZXhSZw?oc=5",
+      "publishedAt": "2026-11-04T22:47:06.000Z",
+      "priority": 49,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production Guidance",
+        "categories": [
+          "PRICE",
+          "PRODUCTION",
+          "GUIDANCE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LUN: Record copper prices boosted cash generation as Caserones weather cut production guidance TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-05T02:31:27.387Z",
+      "updatedAt": "2026-11-05T02:31:27.387Z",
+      "analyzedAt": null
+    },
+    {
       "id": "1f1cff1ac56e52366c06bde41037ef8d4f4bb9d615c4017ac4b4094b9aac0862",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -3821,51 +3859,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-24T14:34:34.745Z",
       "updatedAt": "2026-10-24T14:34:34.745Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "36d4d07be7b4c0a2963ba76868a408a6f8f458c6bc3fa2ae9a1c2211ede62237",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "[구리 가격] 칠레 광산 파업 우려에 상승…中 국경절 이후 수요 주목",
-      "summary": "[구리 가격] 칠레 광산 파업 우려에 상승…中 국경절 이후 수요 주목 kidd.co.kr",
-      "source": "kidd.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBlWHQ3eDJpLVozUjZFUGRmX0Z0Z1hnamFrUDBkMmEyUmJmaU5pcTBaUHNvaDVTTjIzR2pYSm02X1lZYi1i?oc=5",
-      "publishedAt": "2026-10-05T22:25:44.000Z",
-      "priority": 42,
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "PRICE",
-          "DEMAND",
-          "MINE",
-          "STRIKE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "[구리 가격] 칠레 광산 파업 우려에 상승…中 국경절 이후 수요 주목 kidd.co.kr",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "파업"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-05T22:39:13.559Z",
-      "updatedAt": "2026-10-05T22:39:13.559Z",
       "analyzedAt": null
     },
     {
@@ -15575,6 +15568,44 @@
       "analyzedAt": null
     },
     {
+      "id": "8213baea77af39839bba461b6430e9b1dd5b79f9762438ecf216b20313f1e157",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Canada's Lundin Mining Q3 revenue up on copper prices; cuts FY copper production forecast on severe weather",
+      "summary": "Canada's Lundin Mining Q3 revenue up on copper prices; cuts FY copper production forecast on severe weather TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZmYzMWlJNWRwYXQtUlR2d3BUeUw0eUhYNXA0NGktQ21CWmY1NnFBMkxHdFM2dWtUNmFOUGh3Z2NUaFpFYlV0N1RxcXJxcWdrUjVfUzBzUkN3eFRBaFZKaC1ZR0RXaXNoVnpqN0xkS0JLSVJMY3N4MDVJQzJBTUNRYllsVmdrZjBRMVVSQWlUaDJMTUpXdkNkOVR6ZF9ycE9tb2VzeWhRRnNxakhZQmllSzQ5NXNRRTVpd3NnVC13U3pEZFYwR2tfYTlOS2JWU01GV1FpVC1Rd2ZhQkJobWhxcC04bGplQW1JMDdrRDc4WkxXbWdXV2c1Z203OTFhdVRuelZvZTllYw?oc=5",
+      "publishedAt": "2026-11-04T22:42:45.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRICE",
+          "MINE",
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Canada's Lundin Mining Q3 revenue up on copper prices; cuts FY copper production forecast on severe weather TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-05T02:31:27.387Z",
+      "updatedAt": "2026-11-05T02:31:27.387Z",
+      "analyzedAt": null
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -19260,44 +19291,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-04T01:23:55.274Z",
       "updatedAt": "2026-11-04T01:23:55.274Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "a7786e426f7d403d059766f20f0e297e6f9c526cf0b47260d8e3dfd9762a4884",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "US September copper imports fall 3.1% from August",
-      "summary": "US September copper imports fall 3.1% from August Mining Weekly",
-      "source": "Mining Weekly",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3VIcW9zVHFldENuVlQxc0RjZmtNSFJ6Z1ZJX3VRR25ZcEpNUVdpQ0FtaGkzc3FLaVN3UEpUSUx3UVljTmQyMWdFcW81Tm56dW02ZV9qbV9qQm9HMEc1OVRlYTVMMHhLa0RhRnhDWko1Tk9VakVoeGQ5cENNXzdJMG9SOGVfUUJ3VWdCUFBERjQzMHlrUGRvTTRSMA?oc=5",
-      "publishedAt": "2026-11-04T22:00:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "LOGISTICS",
-          "IMPORT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "US September copper imports fall 3.1% from August Mining Weekly",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-04T22:14:23.151Z",
-      "updatedAt": "2026-11-04T22:14:23.151Z",
       "analyzedAt": null
     }
   ]

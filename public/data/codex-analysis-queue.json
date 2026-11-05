@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T22:14:23.151Z",
+  "generatedAt": "2026-11-05T02:31:27.387Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -647,6 +647,16 @@
       "publishedAt": "2026-11-03T19:21:40.000Z"
     },
     {
+      "id": "b1666d1b896d228d461c34bd5ffcaa370d40fa44576a29034f2b8b9984955235",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "LUN: Record copper prices boosted cash generation as Caserones weather cut production guidance",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-11-04T22:47:06.000Z"
+    },
+    {
       "id": "1f1cff1ac56e52366c06bde41037ef8d4f4bb9d615c4017ac4b4094b9aac0862",
       "commodity": "ALUMINUM",
       "importance": "HIGH",
@@ -915,16 +925,6 @@
       "codexStatus": "PENDING",
       "source": "South China Morning Post",
       "publishedAt": "2026-10-24T13:01:39.000Z"
-    },
-    {
-      "id": "36d4d07be7b4c0a2963ba76868a408a6f8f458c6bc3fa2ae9a1c2211ede62237",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "[구리 가격] 칠레 광산 파업 우려에 상승…中 국경절 이후 수요 주목",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "kidd.co.kr",
-      "publishedAt": "2026-10-05T22:25:44.000Z"
     },
     {
       "id": "548f7cf689a97ed3ff8cc15fcc6fdc58898f29f6c46d556a6676e832228a3235",
@@ -4027,6 +4027,16 @@
       "publishedAt": "2026-11-04T12:59:00.000Z"
     },
     {
+      "id": "8213baea77af39839bba461b6430e9b1dd5b79f9762438ecf216b20313f1e157",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Canada's Lundin Mining Q3 revenue up on copper prices; cuts FY copper production forecast on severe weather",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-11-04T22:42:45.000Z"
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4995,16 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "산업일보",
       "publishedAt": "2026-11-04T00:05:35.000Z"
-    },
-    {
-      "id": "a7786e426f7d403d059766f20f0e297e6f9c526cf0b47260d8e3dfd9762a4884",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "US September copper imports fall 3.1% from August",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mining Weekly",
-      "publishedAt": "2026-11-04T22:00:00.000Z"
     }
   ]
 }
