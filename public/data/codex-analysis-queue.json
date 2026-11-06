@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T18:30:24.052Z",
+  "generatedAt": "2026-11-06T23:31:42.980Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -185,16 +185,6 @@
       "codexStatus": "PENDING",
       "source": "Canadian Institute of Mining, Metallurgy",
       "publishedAt": "2026-10-30T18:13:45.000Z"
-    },
-    {
-      "id": "7459951cb9971a0d47337857b8157b2bdd83d0f678500fad602fb13cc9f4db74",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Antofagasta copper miners set to strike after labor talks fail (ANFGF:OTCMKTS)",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Seeking Alpha",
-      "publishedAt": "2026-10-07T19:25:10.000Z"
     },
     {
       "id": "d9625ace5db3acf6d71a4da540c21488989aaf2052d91d3207dff844723aa849",
@@ -2837,6 +2827,26 @@
       "publishedAt": "2026-11-05T09:07:14.000Z"
     },
     {
+      "id": "fd6e90d8b9e35ec9d99e2bc2b435da402c538b4a837a022ad4d4a21e1c2643c5",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "2032 Forecast: Copper Demand Could Reach 34 Million Tons",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "StreetInsider",
+      "publishedAt": "2026-11-06T20:01:56.000Z"
+    },
+    {
+      "id": "eb6e669921c237ddf2539309ec7f7d82987c8b966990147d7554c84a5e257ba7",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Citi Lowers 0-3 Month Copper Price Forecast To $13,300/T From $14,500/T",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-11-06T18:08:43.000Z"
+    },
+    {
       "id": "dcfafbfe1cc9f967d2c5458c0cef992367c2ae0be2e0e98b34d7317fef82ed16",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4995,16 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-11-06T15:35:03.000Z"
-    },
-    {
-      "id": "6aab5684db46f18201f28eedf7bf8f5c3d11d7d526104e7fa18b2069306e5d52",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Global copper market awaits US tariff decision, BMI reports",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Mining Weekly",
-      "publishedAt": "2026-11-06T14:20:00.000Z"
     }
   ]
 }
