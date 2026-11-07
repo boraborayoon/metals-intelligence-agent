@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T03:13:57.696Z",
+  "generatedAt": "2026-11-07T10:20:22.590Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -1314,90 +1314,6 @@
       "analyzedAt": null
     },
     {
-      "id": "454b0796e22958deef038f5de546e0ee7864a5af10e31f32b401e79e532d00fb",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper squeeze: Copper inventory sentiment signalled tightening ahead of Q3’s return to backwardation",
-      "summary": "Copper squeeze: Copper inventory sentiment signalled tightening ahead of Q3’s return to backwardation Disruption Banking",
-      "source": "Disruption Banking",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcmdyTUw5UlNsRUkzMFNLVWR5dHdaZkxIUzlMbmwxOWhZd0NnUWNLWXNTMUxXWll1aFBsOXNBeUxsSkJLaGlyV185N1U4OW9FSVZQM2d6YnBjYW5YNFMwZTZfWVdVbDZQMFVmam5MeEJLR3RFYVJ2N0lrX2E0azVmSUNGTEt1MGhsd24yV21UOEZDWUExelFsb3NrVUhERUs0dnFVdDJwVmplSFBZbHI4Z0R3ZHcwYVlmTjdMTFU4cWo1aXI3blFzdkRFUl94dHMtUndWeTJCQllIcXcxMFE?oc=5",
-      "publishedAt": "2026-10-08T08:24:06.000Z",
-      "priority": 54,
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply Disruption",
-        "categories": [
-          "INVENTORY",
-          "DISRUPTION",
-          "REGULATION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper squeeze: Copper inventory sentiment signalled tightening ahead of Q3’s return to backwardation Disruption Banking",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-08T13:33:32.387Z",
-      "updatedAt": "2026-10-08T13:33:32.387Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "79069d275b643dec1de337b7192a5c90b731ba583c60d9187e9b790e6c3a2219",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Climbs As China Restocking Meets Fresh Mine Strike Risks",
-      "summary": "Copper Climbs As China Restocking Meets Fresh Mine Strike Risks Finimize",
-      "source": "Finimize",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDBsd2RaRW9hcjYwTDVfeGVBTHhXcUFrM2IwTjFTQmVqRlVIa2luYVcxMHppS3AtSXdaMjl6alJZTDlseHNBb3ZVR1dCX2xNUnFsbWpnYVVUaG0xUUpwekQ1dnQ1Q01ucjl0Z3hEY1FneW9tcmllN1pNeTRRNnZGbEk1clJYS0xPQ3Yyc1kyd2I5NDQwVlZz?oc=5",
-      "publishedAt": "2026-10-08T05:41:44.000Z",
-      "priority": 54,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "MINE",
-          "STRIKE",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper Climbs As China Restocking Meets Fresh Mine Strike Risks Finimize",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-08T13:33:32.387Z",
-      "updatedAt": "2026-10-08T13:33:32.387Z",
-      "analyzedAt": null
-    },
-    {
       "id": "013431b224ed4f9bf6765101ddce42ce9e615ca2284a32d4ececbd161227058b",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -1895,50 +1811,6 @@
         "confidence": "LOW",
         "timeHorizon": "SHORT_TERM",
         "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-08T13:33:32.387Z",
-      "updatedAt": "2026-10-08T13:33:32.387Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "e21ccc55e721d956cc1631f1a60e2a0033f5ad367cab6d06169e2d6d223d2949",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Chilean Centinela Copper Mine Workers Strike, Adding Further Uncertainty to Global Copper Supply",
-      "summary": "Chilean Centinela Copper Mine Workers Strike, Adding Further Uncertainty to Global Copper Supply NAI500",
-      "source": "NAI500",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUzhBWDE0b2hocU9jOVBndkxsb2hEUVhMWTZTeHNPUU9seks4TEROb3ZiYkJwRXFBNEpOaXV0UHNkQlFmdE5xblVDNTdORU83ZFJqWWtFcllNblZtMU03bVE3OVhKNGZjNVNHNHpZT2pTMlh0RkFibHVUdGpiUkJWOURMUVcwNldFQmtDT1hwcVdsMVczcU9pUFZOMk03bFpFa0Z4eXpFRF9lZnVwekVuVFhhVlVwWnRPaW1yZ3NTY1I3Zm5BS2dR?oc=5",
-      "publishedAt": "2026-10-08T08:06:30.000Z",
-      "priority": 49,
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "SUPPLY",
-          "MINE",
-          "STRIKE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Chilean Centinela Copper Mine Workers Strike, Adding Further Uncertainty to Global Copper Supply NAI500",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
         "urgent": false
       },
       "codexAnalysis": null,
@@ -5253,52 +5125,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-01T09:21:24.059Z",
       "updatedAt": "2026-11-01T09:21:24.059Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ba1c14506e5b5d984c852ec24ecc6359b7048bb7d9e03244bd40e8eb7e090df5",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "칠레 구리광산 파업에 공급 차질 우려…구리값 또 상승",
-      "summary": "칠레 구리광산 파업에 공급 차질 우려…구리값 또 상승 더구루",
-      "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KOFdmMHdSS0RsTkZLSC1sUlBERmRJdFk3S1RpVElBY0VfTGY3eFJ5bmR5Wkx4UklzUW9JM1NTWlViSGJTcnRPd1JfS2xrbHU5WmxieDNmSFFKeG9oS2lfY24zRQ?oc=5",
-      "publishedAt": "2026-10-08T04:48:53.000Z",
-      "priority": 40,
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "SUPPLY",
-          "MINE",
-          "DISRUPTION",
-          "STRIKE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "칠레 구리광산 파업에 공급 차질 우려…구리값 또 상승 더구루",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "공급 차질",
-          "파업"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-08T13:33:32.387Z",
-      "updatedAt": "2026-10-08T13:33:32.387Z",
       "analyzedAt": null
     },
     {
@@ -11118,6 +10944,44 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-06T23:31:42.980Z",
       "updatedAt": "2026-11-06T23:31:42.980Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "452b1672ae445d341d2938be931d33ba9117959639be6146c2e33c31ce068df6",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Price Set for Biggest Weekly Drop Since March, Supply Tightness Provides Support",
+      "summary": "Copper Price Set for Biggest Weekly Drop Since March, Supply Tightness Provides Support NAI500",
+      "source": "NAI500",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc09tQXR3S2gxQ1NLdFRORnNicTREREZNaVdEU0Z1TFdmUVpPRy1nY0d4TEI5Yk9kcDd1XzVPcXZ2c2ZvelZjWmh2c3VxVi1Sakxmazd5Um9MdkN1dnRTb3dlNXFyMzZSa0M4MlhaOWtXcDEyNEZmSTYzTEttUnVsSkNzdGZNMXVGTmVsYi1vd29XWENpaVBrcjZBZ3R1MDhEOE1OWUhIdnpZRzRwX28tbWU3QWtwTzdZbWZtU1ZB?oc=5",
+      "publishedAt": "2026-11-07T08:45:51.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "PRICE",
+          "SUPPLY",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Price Set for Biggest Weekly Drop Since March, Supply Tightness Provides Support NAI500",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-07T10:20:22.590Z",
+      "updatedAt": "2026-11-07T10:20:22.590Z",
       "analyzedAt": null
     },
     {
@@ -17589,6 +17453,45 @@
       "analyzedAt": null
     },
     {
+      "id": "5e9854fd103055524db2c58b834df8c1efc3f177fdf0e846e3d49060a126fde7",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch",
+      "summary": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbGFVdnpkOHNnMWs5bUtCdmVpbzdwX3REMFZfanc5V0c3dUUxcHp4MjdTLTQ5aVEtcVBWcElrdkZaWWF6YU4xNndfTkJFQ1hHV3BVYXRKTC10ckozYm8xRURlX0xCY0ZfSTJLMUFTQk5QY0NkQ3luRGtZTzV3Nk1BVU83NTVONERvMmdscENKTUQtNWJVYWZLaGlSbld2cTN6N1FfdGxuelloYWtPX1ppUUp1dw?oc=5",
+      "publishedAt": "2026-11-07T08:00:21.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch Bloomberg.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-07T10:20:22.590Z",
+      "updatedAt": "2026-11-07T10:20:22.590Z",
+      "analyzedAt": null
+    },
+    {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -19191,6 +19094,78 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-06T18:30:24.052Z",
       "updatedAt": "2026-11-06T18:30:24.052Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "467546dc39b4c3a3c517b355bb992e1ffa7136980eb11bb19011ea2120833ea8",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Kith × TUMI 2026 Collaboration: 19 Degree Gradient Aluminum Luggage, Travel Accessories, and Price Breakdown",
+      "summary": "Kith × TUMI 2026 Collaboration: 19 Degree Gradient Aluminum Luggage, Travel Accessories, and Price Breakdown Popbee",
+      "source": "Popbee",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYno2cHlaMzdObjRwTm85M00ydXlwZ05oaUQyNWdBOW1JTFk2VE1helMzVklwNEd1V2xhckd2VnRnQUh1VDhwOUk0VjZYMmNDcE1hckRRMjBZQmZIaFZESEFLYlVfV1NsbXJJTXg0d25Bc0UzSFB4bmlERnEtbHFaYVRhakZtLVVLcUZXS3I3U25RRnB6VGZGQ1ZMblZsWlVjdTJfczlmVQ?oc=5",
+      "publishedAt": "2026-11-07T09:00:15.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Kith × TUMI 2026 Collaboration: 19 Degree Gradient Aluminum Luggage, Travel Accessories, and Price Breakdown Popbee",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-07T10:20:22.590Z",
+      "updatedAt": "2026-11-07T10:20:22.590Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "03d4865249fa7cc59a559959543dd502b005dd393693c9500404e6e7f8969fad",
+      "commodity": "TIN",
+      "subCommodity": null,
+      "title": "Mine, mining of tin (Sn) ore, as mineral cassiterite (SnO2). Rocks held in gloved hand. Element used in Lithium-ion batteries, coils of superconducting magnets, pigments, solder, plating and bronze",
+      "summary": "Mine, mining of tin (Sn) ore, as mineral cassiterite (SnO2). Rocks held in gloved hand. Element used in Lithium-ion batteries, coils of superconducting magnets, pigments, solder, plating and bronze Mining.com",
+      "source": "Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQNGpjTktJTS1GOEd4QVhRUXRoSnFkMG9VQVJpSjJOdnVmQ0wwZ3pLLUZQQ2tNYmc2RmxXMnBiQ1FRdkZUYTc0ZHVXaC1qWTRhYU9sd2ZoSTMzbEc1SkFPcUwyYV8zWWlDa3hPZzhISGswdzd2V2g0SHZfa2dXUzFVUTYyYXN4Tm0yZlBwUlBIeDA5NDViMHltbnlNV1FoOHd2THZGSjNLTzNYUVh4NFNhWXhIa284NEwtcWxqclNRbmx1UU8wZmRPSWZCVTBzTF8yeFZ2RHVMU2l6M28yRFdoRzhuOXd5Ul9meXZIOGVvRFJlZG5SR2FRTnB0QzRTenVXaU96bkx4cjFiV1dVamhpYTVtdmhJa0g3VndraDBUMHJJT01RUERoeExPRWFFc0l5Qkl6OEJWQ3o3RmdxQVpfdDBwMzhLNWEyNll2cDkwLVRXdnlsRGpYSnVHUzJ0VWZnYjdQNHY2VGdsQjJUbnVPZ1FGdXdubFd2OHVjNUxsS3RrN2ttQk5adHlmeWFMalk?oc=5",
+      "publishedAt": "2026-11-07T05:08:52.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Mine, mining of tin (Sn) ore, as mineral cassiterite (SnO2). Rocks held in gloved hand. Element used in Lithium-ion batteries, coils of superconducting magnets, pigments, solder, plating and bronze Mining.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-07T10:20:22.590Z",
+      "updatedAt": "2026-11-07T10:20:22.590Z",
       "analyzedAt": null
     },
     {
