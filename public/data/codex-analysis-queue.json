@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T23:31:42.980Z",
+  "generatedAt": "2026-11-07T03:13:57.696Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -845,16 +845,6 @@
       "codexStatus": "PENDING",
       "source": "South China Morning Post",
       "publishedAt": "2026-10-24T13:01:39.000Z"
-    },
-    {
-      "id": "2831e6375b902e7a232d0ef692d2ee93b9c8ba1bd88ed852fc5e9a0120face49",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "[구리 가격] 칠레 센티넬라 파업에 공급 우려…LME 재고 36% 감소",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "산업일보",
-      "publishedAt": "2026-10-07T23:35:39.000Z"
     },
     {
       "id": "17d85334ea2fcd0dca07ba90670602f9c396236286588ecd8a2df8e433ffca2c",
@@ -5005,6 +4995,16 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-11-06T15:35:03.000Z"
+    },
+    {
+      "id": "3e242f5ba1eae74ba2c691c29d496fa8aae4dabb0535ba3dd5bd2d1e70ccf7e0",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BTV Explores: Gold, Silver & Copper Companies Advancing Major Mining Projects",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing News Network",
+      "publishedAt": "2026-11-06T13:54:19.000Z"
     }
   ]
 }

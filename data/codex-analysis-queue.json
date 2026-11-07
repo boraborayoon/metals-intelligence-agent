@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T23:31:42.980Z",
+  "generatedAt": "2026-11-07T03:13:57.696Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -3503,51 +3503,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-24T14:34:34.745Z",
       "updatedAt": "2026-10-24T14:34:34.745Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "2831e6375b902e7a232d0ef692d2ee93b9c8ba1bd88ed852fc5e9a0120face49",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "[구리 가격] 칠레 센티넬라 파업에 공급 우려…LME 재고 36% 감소",
-      "summary": "[구리 가격] 칠레 센티넬라 파업에 공급 우려…LME 재고 36% 감소 산업일보",
-      "source": "산업일보",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9PZWlyeGM3VnhZZzNxS2JNajJKdXNmZG45YnZILVFUWlNydmthdmRjemN1LUhzeEREdVIwX2JGNXFaVHhZ?oc=5",
-      "publishedAt": "2026-10-07T23:35:39.000Z",
-      "priority": 42,
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "INVENTORY",
-          "STRIKE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "[구리 가격] 칠레 센티넬라 파업에 공급 우려…LME 재고 36% 감소 산업일보",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "파업"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-08T00:13:17.370Z",
-      "updatedAt": "2026-10-08T00:13:17.370Z",
       "analyzedAt": null
     },
     {
@@ -19236,6 +19191,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-06T18:30:24.052Z",
       "updatedAt": "2026-11-06T18:30:24.052Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "3e242f5ba1eae74ba2c691c29d496fa8aae4dabb0535ba3dd5bd2d1e70ccf7e0",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "BTV Explores: Gold, Silver & Copper Companies Advancing Major Mining Projects",
+      "summary": "BTV Explores: Gold, Silver & Copper Companies Advancing Major Mining Projects Investing News Network",
+      "source": "Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGpJQko5czM4LW5QUFhLUXpJc0hrNVcxVlVTSF9zQ0RjblR2R2ZuTGxtc0NOMkVoSDNSaDFhUVpFc2xLSGF2bEpsemFDQlpxUW5jclRGYWxRd2JnMERBdW5mMDM1WF85M1h4SE9mSHJHZUw2SFBKc1NNU0pSUVZpNnFZOUI2WGYxeVUwRS1wcVQyWDNQWFhYQnJqSEtSU3BvWWc?oc=5",
+      "publishedAt": "2026-11-06T13:54:19.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BTV Explores: Gold, Silver & Copper Companies Advancing Major Mining Projects Investing News Network",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-07T03:13:57.696Z",
+      "updatedAt": "2026-11-07T03:13:57.696Z",
       "analyzedAt": null
     }
   ]
