@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T16:38:06.490Z",
+  "generatedAt": "2026-11-07T20:31:30.384Z",
   "items": [
     {
       "id": "df195c20e19fc6d4cc59772028557744f1880fcf310063252650c87a6d6b8067",
@@ -109,6 +109,119 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-11-07T16:38:06.490Z"
+    },
+    {
+      "id": "9ea362a52207e83727f00ea0ee8d453c40e01d3db78932d58dfa805ef9acdcef",
+      "titleSourceHash": "aab60607fe3bbedb44fcf893ee4ae789015915bdc4ef8e1cd208e7185bf13249",
+      "eventId": "2c45ab296c7e612dcd9ce23979b7c9f435b5549066c715d1028e954e82305984",
+      "title": "David Silva on the spot in Hong Kong, World Cup winner a hit for Sha Tin",
+      "normalizedTitle": "david silva on the spot in hong kong world cup winner a hit for sha tin",
+      "description": "David Silva on the spot in Hong Kong, World Cup winner a hit for Sha Tin South China Morning Post",
+      "source": "South China Morning Post",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-11-07T15:27:50.000Z",
+      "fetchedAt": "2026-11-07T20:31:30.384Z",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNE5TNC1felZMUG9aZFBzQVkzdl9VenprSmYtbkI1Nkl5eWhjNmFPMHRSWmhDTFJkNEJjOC14bkttNlFfVmcxbjI4MHVNXy1XZkJPZG1fRU8tWlpDOTFwVk51U0d4d0UydEpwa1d3TnE0UENvbHpWd3VPTGdmTTNBVTg0N0NaUklBYmprUGVUdkl0dmNGX2x4VU9fWDlhTDJnZFA0dC16X2NLMVNSMjZUejg1T2xBQ2pvQXU2X3YxQdIBvwFBVV95cUxPSndWbzliV3diX2tfNnRTVzVLMUc4dmF3QWJiaTdPempKUEswUGZPZDB2LWswYjFIM2p6VlZWaDZ6TWFRc0dteHdlOFRwemRrblUzVTV4dmNSTVdqRmNEd3BhMXRKTW1Xc09meDNVbEJzVVpwWFNjbWp2a05CdWtEQTVzb2Z6YjA2MkgxTnFjVVRNQm1DR04xZzI3dmNlZ3Z0SGFRejRaSEFRMVY1ejdQOHpGSkJTdlBsUmozYktxOA?oc=5",
+      "language": "en",
+      "commodity": "TIN",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "tin"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "China"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "TIN",
+          "score": 8,
+          "matchedKeywords": [
+            "tin"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "China"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "CHINA"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "David Silva on the spot in Hong Kong, World Cup winner a hit for Sha Tin",
+      "summaryKo": "David Silva on the spot in Hong Kong, World Cup winner a hit for Sha Tin South China Morning Post",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "China"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "David Silva on the spot in Hong Kong, World Cup winner a hit for Sha Tin South China Morning Post",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "David Silva on the spot in Hong Kong, World Cup winner a hit for Sha Tin South China Morning Post",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 18,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
     },
     {
       "id": "0b9899e693956461100f57b4f996e1fa785731f36bad20471a54ec1262c8bf54",
@@ -230,7 +343,7 @@
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-11-07T13:02:13.000Z",
-      "fetchedAt": "2026-11-07T16:38:06.490Z",
+      "fetchedAt": "2026-11-07T20:31:30.384Z",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPckNfT3daV1psaElaSjAzZERPWlBscFE3YTFoVW5LeWNvVjNaREQyV3NycmpvQjFCMnl3UGdmN2lFLU44cDA4UHpIRHBkNjNjUEl0dC1KM3hUMV9WVDJrbzFVeThWaFh2OFFlZ2RndGpTV24tZE1KNHNkUlh0M2hkMjFpOHFWNjA5X1pOakxGRm1RVEY0UGwtT3VpWWEwZ2ktUEh30gGjAUFVX3lxTE5oeFRwd1pDRFp0d1VEcWdjRUVUQ2ZHZFVHTGRabGZvRWxhdnI0UUtDVFVwZW5FMHFwRDZVYnJIVVplTGFNVVdxbGNja0ZTZllrLXZqRjBDWHhyVTUwTl9JSFVSZk9uLXBadzhreFpNVHVqdjhtbFMzOEI4MW1sdTNBSG1iY3NwN1p2Z1lnc3JiTzJlMVd4MFVYaHg2Nk1FM0hhSFk?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -327,29 +440,29 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 18,
+      "priority": 14,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
       "sentAt": null
     },
     {
-      "id": "9ea362a52207e83727f00ea0ee8d453c40e01d3db78932d58dfa805ef9acdcef",
-      "titleSourceHash": "384ebfc41c1b7b2c4573bbb1de4b1402909f2430150392201d85be92817c446e",
-      "eventId": "cce789d344e65a919e4dc759a37efd92ea43092a2f6cd19d9fcb8680f42796a3",
-      "title": "On-the-spot World Cup winner David Silva a hit for Supreme Sha Tin in Hong Kong",
-      "normalizedTitle": "on-the-spot world cup winner david silva a hit for supreme sha tin in hong kong",
-      "description": "On-the-spot World Cup winner David Silva a hit for Supreme Sha Tin in Hong Kong South China Morning Post",
-      "source": "South China Morning Post",
+      "id": "5c1711a63d786d1f0711e7f17ed93c10cfea958471d9ab6c38730417fc86329d",
+      "titleSourceHash": "48769f0afd99ece670a78f0aedddaaec95073292121af271784333418b7ee0e1",
+      "eventId": "518c4fe33d788651714cfd6c76081afdfe72f11654f4197582447ffed3c29f86",
+      "title": "Trafigura Buys Copper as China Spot Premiums Soar",
+      "normalizedTitle": "trafigura buys copper as china spot premiums soar",
+      "description": "Trafigura Buys Copper as China Spot Premiums Soar Briefs Finance",
+      "source": "Briefs Finance",
       "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-11-07T12:26:21.000Z",
-      "fetchedAt": "2026-11-07T16:38:06.490Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNE5TNC1felZMUG9aZFBzQVkzdl9VenprSmYtbkI1Nkl5eWhjNmFPMHRSWmhDTFJkNEJjOC14bkttNlFfVmcxbjI4MHVNXy1XZkJPZG1fRU8tWlpDOTFwVk51U0d4d0UydEpwa1d3TnE0UENvbHpWd3VPTGdmTTNBVTg0N0NaUklBYmprUGVUdkl0dmNGX2x4VU9fWDlhTDJnZFA0dC16X2NLMVNSMjZUejg1T2xBQ2pvQXU2X3YxQdIBvwFBVV95cUxPSndWbzliV3diX2tfNnRTVzVLMUc4dmF3QWJiaTdPempKUEswUGZPZDB2LWswYjFIM2p6VlZWaDZ6TWFRc0dteHdlOFRwemRrblUzVTV4dmNSTVdqRmNEd3BhMXRKTW1Xc09meDNVbEJzVVpwWFNjbWp2a05CdWtEQTVzb2Z6YjA2MkgxTnFjVVRNQm1DR04xZzI3dmNlZ3Z0SGFRejRaSEFRMVY1ejdQOHpGSkJTdlBsUmozYktxOA?oc=5",
+      "publishedAt": "2026-11-07T12:10:00.000Z",
+      "fetchedAt": "2026-11-07T20:31:30.384Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTnpVdGhZdFNwMjdiRWxvX2dPUG4yamMydlhPU3Z3V0pZVHVwM1JUcDM1RnpvaWFKRkRTZ3JycXRhSzQyakVBbEpPU0VIdm9BcTV2R1kxanJzVldCOUNQTkVRamY0OVVWNDFKQlpJMERmam5WWHpDMTJyRjQ4eFdKdkVjR25reUJnN2poNmw4YnZzQQ?oc=5",
       "language": "en",
-      "commodity": "TIN",
+      "commodity": "COPPER",
       "relevanceScore": 8,
       "matchedKeywords": [
-        "tin"
+        "copper"
       ],
       "matchedCompanies": [],
       "matchedRegions": [
@@ -359,10 +472,10 @@
       "exclusionReason": null,
       "commodityMatches": [
         {
-          "commodity": "TIN",
+          "commodity": "COPPER",
           "score": 8,
           "matchedKeywords": [
-            "tin"
+            "copper"
           ],
           "matchedCompanies": [],
           "matchedRegions": [
@@ -375,11 +488,12 @@
       "subCommodity": null,
       "importance": "LOW",
       "categories": [
+        "PRICE",
         "CHINA"
       ],
       "primaryCategory": "General",
-      "titleKo": "On-the-spot World Cup winner David Silva a hit for Supreme Sha Tin in Hong Kong",
-      "summaryKo": "On-the-spot World Cup winner David Silva a hit for Supreme Sha Tin in Hong Kong South China Morning Post",
+      "titleKo": "Trafigura Buys Copper as China Spot Premiums Soar",
+      "summaryKo": "Trafigura Buys Copper as China Spot Premiums Soar Briefs Finance",
       "marketImpact": "Unclear",
       "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
       "procurementImpact": "UNCLEAR",
@@ -388,7 +502,7 @@
         "China"
       ],
       "companies": [],
-      "timeHorizon": "UNCLEAR",
+      "timeHorizon": "SHORT_TERM",
       "confidence": "LOW",
       "signals": [],
       "keyEvidence": [],
@@ -403,18 +517,19 @@
         "procurementImpact": "UNCLEAR",
         "category": "General",
         "categories": [
+          "PRICE",
           "CHINA"
         ],
         "region": "China",
         "regions": [
           "China"
         ],
-        "summary": "On-the-spot World Cup winner David Silva a hit for Supreme Sha Tin in Hong Kong South China Morning Post",
+        "summary": "Trafigura Buys Copper as China Spot Premiums Soar Briefs Finance",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
         "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
+        "timeHorizon": "SHORT_TERM",
         "signals": [],
         "urgent": false
       },
@@ -425,22 +540,23 @@
         "procurementImpact": "UNCLEAR",
         "category": "General",
         "categories": [
+          "PRICE",
           "CHINA"
         ],
         "region": "China",
         "regions": [
           "China"
         ],
-        "summary": "On-the-spot World Cup winner David Silva a hit for Supreme Sha Tin in Hong Kong South China Morning Post",
+        "summary": "Trafigura Buys Copper as China Spot Premiums Soar Briefs Finance",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
         "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
+        "timeHorizon": "SHORT_TERM",
         "signals": [],
         "urgent": false
       },
-      "priority": 18,
+      "priority": 14,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -793,7 +909,7 @@
       "source": "The Cool Down",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-11-07T08:31:00.000Z",
-      "fetchedAt": "2026-11-07T10:20:22.590Z",
+      "fetchedAt": "2026-11-07T20:31:30.384Z",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1NmeFM4Tm1FbGJETkN3WGlJMGpQQzdFVWtucU9SbC1nb2hKU0xmaFVpR0NMOExrUm9oQTZRd2lMNU1KSU0zQi1ReTVNYUNpeDNNTEJZN1I2YWctWm5RUnozSDF5R1gwcUw3UF94UjF1V091eWxzZTJLbklFT0pTTk1TSmJiUXpkUklWTHB3?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -890,7 +1006,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 18,
+      "priority": 14,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -1135,7 +1251,7 @@
       "source": "myupnow.com",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-11-06T22:00:00.000Z",
-      "fetchedAt": "2026-11-07T16:38:06.490Z",
+      "fetchedAt": "2026-11-07T20:31:30.384Z",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTHg4aFphb3ZBYjhMcDRTTHpFNS1KRjl6UWJyVDZYeXJTY1ZHdlg4RW4wNEE1M2gzbDVwbGpWMFU2YWZPUzJ4bVpneWJtRjExQzJzOW5KS1Uwa1NJWVhOZk5rR0pER1pHSEo5ZGtZaGdqQXlJRkRkejNiemN5ZkJEa0ZKLWNDM0hYNF96bDFEVV9RLWU0cjB4Y2R1ZkE1YlVDd0ZaV3FFZ08xTjQ3VUdkclhJM1NQeUZBWWNzX1NwSmI1WDhJRVFidnFxZHBBX0VjTEpscmVLaXBIbGszaFQ4N09nekdNc2tPdW1v?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -2076,6 +2192,116 @@
       "sentAt": "2026-11-06T18:30:24.052Z"
     },
     {
+      "id": "cb06488a5d2614ffecd309e071dc6a3529c3ec97ecae8b2e7896a871ddde53af",
+      "titleSourceHash": "471faa03f5293d7b29ea0b37b9bca826fb8e57d4c3a0b11b12af99fa8c3f6023",
+      "eventId": "3ac60d7c4ad7a04026cf804868f86144020db15fea95b21093cdc70d6d4d91f3",
+      "title": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History",
+      "normalizedTitle": "selkirk copper mines inc scmi v stock price news quote & history",
+      "description": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-11-06T16:18:47.000Z",
+      "fetchedAt": "2026-11-07T20:31:30.384Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByVkN5QWhPZl9JRjQyR2hwcEtXTVhYODBtNE1GZEktdDJmVXRhaXgyRHRmN25scXZ6NXIxeWZBclM5Wm51cHVuY0NURTY3ZjkzZHZ6NA?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "price"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "price"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE",
+        "MINE"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History",
+      "summaryKo": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "PRICE",
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "PRICE",
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 26,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-11-07T20:31:30.384Z"
+    },
+    {
       "id": "5eb091206f5a389e8cf8b3c982780147d2153a030361ff81993f013df328d37a",
       "titleSourceHash": "e83442a6aab531dae6568208188f8b0ed5a8635fdb9c94106de4a86602cb4bbf",
       "eventId": "04496afa1bec83011e00bcdd794648954cbcd6af4bf6b73960b3a790a4fbbec5",
@@ -2532,7 +2758,7 @@
       "source": "Vietnam.vn",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-11-06T15:13:54.000Z",
-      "fetchedAt": "2026-11-07T16:38:06.490Z",
+      "fetchedAt": "2026-11-07T20:31:30.384Z",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWgzUkFPSWtaem91QVBaWG1fLW9tUmo4MktCVkVjTGJldTE3VGtGTkdiaGUtSHl3dGJlT01FRS0zNmpVWXc0VlFMWS1rRlQ2NUM1S1VaakRVNk51V2xrR1F5bEpwdi1zTVJXSU5PaG1nR3hMR3lnNEFVWVZ4dHVCTjVBNjIxaGZLWG9USHBUTjctR19KLXFnMC1oR2xMTHVMdWxreU5RQ0pRSG05N1JSS1d3?oc=5",
       "language": "ko",
       "commodity": "TIN",
@@ -3543,7 +3769,7 @@
       "source": "Vietnam.vn",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-11-06T12:01:45.000Z",
-      "fetchedAt": "2026-11-07T16:38:06.490Z",
+      "fetchedAt": "2026-11-07T20:31:30.384Z",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbHBtZkxnVnRsZzh2ajduRUlOM3JONTNBMlc3VmJGMXJORDRXdWlCVVB2Y3ltWEVDb0c0WDNsSjBibXc2WkF4UVk4X1Mxa1JPVjFOb2ZYYUlNUFM0RklzZzZUYkZTcExraHZMQldRLWNCN2t6ODNJRlQtSTJSMTQ2NGI0S3I1a1lBLS02V1dkTF9JMEkyd1Y1bWtn?oc=5",
       "language": "ko",
       "commodity": "TIN",
@@ -3752,7 +3978,7 @@
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-11-06T10:01:03.000Z",
-      "fetchedAt": "2026-11-07T16:38:06.490Z",
+      "fetchedAt": "2026-11-07T20:31:30.384Z",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTGJOTjA3enVmZzFRWjZ0NFZBcU5rVXNEY2ZvcDFXVlZCWTJvNFpzOGRORHZaZEY4SjRFd2lvNGdRRFA5c0o5Y01QdjhDOHF5ZnNVcU8xUEhBYVFBVTF5STNUT2JHRWVsMGRMWGdHVGJza1hGTDNiVi1fWGh4RlhQNFhsUkxVWlp0ckd0MGMtS0VFVUtsOUNFQW9TOGVJUG1SeEFEY0lFNHkxcHRFQ0c0NS1yQmRVZTlacUt6MUxFTUZ0SzhJZGfSAcYBQVVfeXFMT0ZjRk93NkNzOFhENXhhVHJvY0NoLTRZbFNteTUzVzdReUZBWFZSbjgzZEl0dFNOOVFmWEpjckdjYXp4WWRGU25zT2pHSFdYUG00RGZWejFYZUd5YnlDbWdEYUhMRU1hc2s5b0tGSHpWdkZPcWRPcjRQZHVaSi1jMm1xb01neVlkM29uc2d2Z0k0eHE0VW5YS1BVcVR1RkdGZmg1Q29xTjdPS3hVSlp5Q2J3UTVYTW9yQlE3UXpiUEVLUnY0R1RB?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -6447,7 +6673,7 @@
       "source": "산업일보",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-11-05T22:32:48.000Z",
-      "fetchedAt": "2026-11-07T16:38:06.490Z",
+      "fetchedAt": "2026-11-07T20:31:30.384Z",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBxRFA3d0lXUzNYdlVJcGEtOTZtOTdUdWRvMktrbDZCSnVjQXlkdldvNXpxa1NsOERPTHVwYVgzUXVtX3Fy?oc=5",
       "language": "ko",
       "commodity": "COPPER",
@@ -6544,120 +6770,10 @@
         "urgent": false
       },
       "priority": 26,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "cb06488a5d2614ffecd309e071dc6a3529c3ec97ecae8b2e7896a871ddde53af",
-      "titleSourceHash": "471faa03f5293d7b29ea0b37b9bca826fb8e57d4c3a0b11b12af99fa8c3f6023",
-      "eventId": "3ac60d7c4ad7a04026cf804868f86144020db15fea95b21093cdc70d6d4d91f3",
-      "title": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History",
-      "normalizedTitle": "selkirk copper mines inc scmi v stock price news quote & history",
-      "description": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-11-05T22:18:47.000Z",
-      "fetchedAt": "2026-11-07T03:13:57.696Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByVkN5QWhPZl9JRjQyR2hwcEtXTVhYODBtNE1GZEktdDJmVXRhaXgyRHRmN25scXZ6NXIxeWZBclM5Wm51cHVuY0NURTY3ZjkzZHZ6NA?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "price"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "price"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "MINE"
-      ],
-      "primaryCategory": "Mine",
-      "titleKo": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History",
-      "summaryKo": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "PRICE",
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "PRICE",
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Selkirk Copper Mines Inc. (SCMI.V) Stock Price, News, Quote & History Yahoo! Finance Canada",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 26,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-11-07T20:31:30.384Z"
     },
     {
       "id": "4087c94192a6dc00ed87ab475aa20c3e7c4a13f9d83d6bf8a5353f9325398cf6",
@@ -6782,7 +6898,7 @@
       "source": "Mining Weekly",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-11-05T22:15:00.000Z",
-      "fetchedAt": "2026-11-07T16:38:06.490Z",
+      "fetchedAt": "2026-11-07T20:31:30.384Z",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWF9YMllZZ3UyMWx1M0h6b3NSS3o5VXZNNHllUFc0c0paMVBkZnIxSjZuZHJnLWVKZmdpX3hWaGYwblk3djhyUFJiWGFKUHVSZlFYc2puVUxGYzdBYi1iVlJPNndITDJvYWhDS0JYc2xzTFVOOG85SFJLZWd4dFJRMEE5OEV3YWxEZkZMOFBqZDJlWkUtRTNGd1ZWcnk0OThoZG5iNmdjRkE4eFdOMGR5eFpCN1gwUFk?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -6877,10 +6993,10 @@
         "urgent": false
       },
       "priority": 26,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-11-07T20:31:30.384Z"
     },
     {
       "id": "864cd01738f25658dfa4b71280553c0a49738ed0c50c55345cfd32b839a72125",
@@ -33242,109 +33358,6 @@
       "codexReviewReason": "Material event taxonomy; High-impact event requires evidence review",
       "sent": true,
       "sentAt": "2026-11-02T06:54:42.154Z"
-    },
-    {
-      "id": "e1d1d4a6f0adbd2ef7210590ab100372f90f580913fe3993d63eb41aeaaa7bf4",
-      "titleSourceHash": "c0943908bc9762f258d96a30a8e2e1edbff27902e80c64234925086194a4224b",
-      "eventId": "74373fc2c46a81b08cec661513353b8d0f16becb74dffbe6848d1accd1e154c0",
-      "title": "Molybdenum Market Hits Bottom and Turns Sharply! A Textbook “V”-Shaped Rebound Unfolds?! [SMM Molybdenum Weekly Review]",
-      "normalizedTitle": "molybdenum market hits bottom and turns sharply a textbook v -shaped rebound unfolds smm molybdenum weekly review",
-      "description": "Molybdenum Market Hits Bottom and Turns Sharply! A Textbook “V”-Shaped Rebound Unfolds?! [SMM Molybdenum Weekly Review] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-11-02T02:48:00.000Z",
-      "fetchedAt": "2026-11-02T17:06:15.910Z",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS0s1N2dvNjNkSWRqX0lBQnl6OEQxc1VKSC1RNEIzWk1ZRTFndUpSd3FSYXJ2dVJMUmJ3WnNIYzF6RVF6dkdsYkN2REM1ZGI2enZHVHJnUmVsSTAxeUY5MzYwdVNBeklRVU1hZWJ3TEJCUU9IVjRhX1FkTFhlaXhlRzRuamlBWTJ3eE14MGwzbnpMWDBQd29paU8wZkZ5dEFPT2xDeEthMXY0c05VVXdXUlQ4WGQ0WGlwWTlNajFEN2ZJSWtmS1BUZUtiU1pTcDFpd3huVDg4c2wtdGhYdE5VOVRKS3BOajFQRFJTWDh3?oc=5",
-      "language": "en",
-      "commodity": "MOLYBDENUM",
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "molybdenum"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "MOLYBDENUM",
-          "score": 6,
-          "matchedKeywords": [
-            "molybdenum"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "COMPANY"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Molybdenum Market Hits Bottom and Turns Sharply! A Textbook “V”-Shaped Rebound Unfolds?! [SMM Molybdenum Weekly Review]",
-      "summaryKo": "Molybdenum Market Hits Bottom and Turns Sharply! A Textbook “V”-Shaped Rebound Unfolds?! [SMM Molybdenum Weekly Review] Shanghai Metals Market",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Molybdenum Market Hits Bottom and Turns Sharply! A Textbook “V”-Shaped Rebound Unfolds?! [SMM Molybdenum Weekly Review] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Molybdenum Market Hits Bottom and Turns Sharply! A Textbook “V”-Shaped Rebound Unfolds?! [SMM Molybdenum Weekly Review] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 12,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
     }
   ]
 }
