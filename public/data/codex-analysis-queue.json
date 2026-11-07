@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T10:20:22.590Z",
+  "generatedAt": "2026-11-07T16:38:06.490Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -427,16 +427,6 @@
       "publishedAt": "2026-10-23T09:54:00.000Z"
     },
     {
-      "id": "b76dc803847158ce19e20cea91c296af2dec763505b289b619ce6e9e53d64dc0",
-      "commodity": "ALUMINUM",
-      "importance": "HIGH",
-      "title": "KeyBanc lowers Kaiser Aluminum stock price target on valuation",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Investing.com",
-      "publishedAt": "2026-10-08T12:17:21.000Z"
-    },
-    {
       "id": "5fc0410c4b1b74f3c79ac1169f6bcd134bf6d9698073714e648a10410a749d07",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -775,16 +765,6 @@
       "codexStatus": "PENDING",
       "source": "digitimes",
       "publishedAt": "2026-11-03T09:05:55.000Z"
-    },
-    {
-      "id": "b5db51bdf9773f05f9b1baefcddc87d1255b0c2a31e61049aec2ef05ba88cd20",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Rises as Chile Strike Adds to Supply Jitters Ahead of China Buying",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "NAI500",
-      "publishedAt": "2026-10-08T14:12:38.000Z"
     },
     {
       "id": "40d6c2ceaf2e3bdbe28c3cb51cad483589cdc50d701002b6c0c6e121aa2cfdb2",
@@ -1525,16 +1505,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-11-06T00:26:00.000Z"
-    },
-    {
-      "id": "dc64810f972c5a9f8db9e5215e0aa5d00b8323598bdc7d15d24181fa81ca0410",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Old Copper Smelter Town Now Site of Research into Fiber Optic Impact on Microgrids",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Microgrid Knowledge",
-      "publishedAt": "2026-10-08T15:00:13.000Z"
     },
     {
       "id": "e3e0717028aecfd54097615aa47da7757fb824209b94f9ee323ef76dbee2f8e4",
@@ -2807,6 +2777,16 @@
       "publishedAt": "2026-11-07T08:45:51.000Z"
     },
     {
+      "id": "df195c20e19fc6d4cc59772028557744f1880fcf310063252650c87a6d6b8067",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Price Today: Per Tonne and Per Kilo, the Record High and What Drives It",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "CryptoTicker.io",
+      "publishedAt": "2026-11-07T15:38:18.000Z"
+    },
+    {
       "id": "dcfafbfe1cc9f967d2c5458c0cef992367c2ae0be2e0e98b34d7317fef82ed16",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3075,16 +3055,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-11-04T00:30:00.000Z"
-    },
-    {
-      "id": "1c1cf9044a1cb58972a58e03ef4fa852408dcd632b33d8749436a8face9d8b14",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "람동성 출신 국회의원 대표단은 보크사이트-알루미늄 프로젝트로 인해 발생하는 토지 관련 문제를 조사했습니다.",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-08T10:45:50.000Z"
     },
     {
       "id": "b6ea4949f02d05196caee35df8af612e5d0b5456835b9944d50fdde16ec011f8",
@@ -4997,6 +4967,16 @@
       "publishedAt": "2026-11-07T05:08:52.000Z"
     },
     {
+      "id": "0b9899e693956461100f57b4f996e1fa785731f36bad20471a54ec1262c8bf54",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Kaiser Aluminum Corporation (NASDAQ:KALU) Stock Has Consensus Price Target of $141.00 According to Analysts",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "MarketBeat",
+      "publishedAt": "2026-11-07T15:03:30.000Z"
+    },
+    {
       "id": "3e242f5ba1eae74ba2c691c29d496fa8aae4dabb0535ba3dd5bd2d1e70ccf7e0",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -5005,6 +4985,26 @@
       "codexStatus": "PENDING",
       "source": "Investing News Network",
       "publishedAt": "2026-11-06T13:54:19.000Z"
+    },
+    {
+      "id": "43363be87621502551b98eddf263909c909013e9ac59d20aca69c6843bc24bd8",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "세계 최대 구리기업 코델코, 생산량 조작 파문에 구조조정 추진",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "더구루",
+      "publishedAt": "2026-11-06T03:38:42.000Z"
+    },
+    {
+      "id": "a1a4e65f1aac551d0332e3462cdf8a649f9fa7c79537f7acbd098c84f3acdcfc",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "'블루웨이브'에 금·은 가격 회복세…구리는 ‘AI 우려'에 주춤",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "마켓인",
+      "publishedAt": "2026-11-06T00:08:30.000Z"
     }
   ]
 }
