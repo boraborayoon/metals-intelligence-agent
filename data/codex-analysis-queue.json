@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T23:59:09.066Z",
+  "generatedAt": "2026-11-08T06:05:03.779Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -1304,49 +1304,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-27T20:43:17.415Z",
       "updatedAt": "2026-10-27T20:43:17.415Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "7dae8edd8bb7ee97864401d7094077c4ece2c2ae51f6e5945123abeefa2bbda4",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Deutsche Bank: Historic copper shortage – gold outperforms silver!",
-      "summary": "Deutsche Bank: Historic copper shortage – gold outperforms silver! Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSW5MSkd6VF9NWWxkYXdtSXhmeTJqd1ZNWFFaRzZaNUdHeVpGRlFFNi1NREdWLWFOVmtQT1N0YlgwM3RGRTZqUjVSdkIxSE5pTkRYUnUtS3lJMmhYWGVzVG83NkcwMEhrdjJkcVhmUS1VdzNEVFNTOXFBZGlpYnNRSFdyUk5MSjk4ME5yNVdxUElHbnBQYmxoR2E3aHBXeC02cFN6aS1qckRiRXAzNWZya2FKM2VIcG8x?oc=5",
-      "publishedAt": "2026-10-09T05:39:00.000Z",
-      "priority": 53,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Regulation",
-        "categories": [
-          "SUPPLY",
-          "REGULATION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Deutsche Bank: Historic copper shortage – gold outperforms silver! Shanghai Metals Market",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "shortage"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "UNCLEAR",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-09T13:20:27.131Z",
-      "updatedAt": "2026-10-09T13:20:27.131Z",
       "analyzedAt": null
     },
     {
@@ -3209,49 +3166,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-24T14:34:34.745Z",
       "updatedAt": "2026-10-24T14:34:34.745Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "17d85334ea2fcd0dca07ba90670602f9c396236286588ecd8a2df8e433ffca2c",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Rises Amid Supply Disruptions",
-      "summary": "Copper Rises Amid Supply Disruptions TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3Nybk1Ca2l6bVNlY2hidFlreVZhZURwSEhXSFpEU0xIOVdrQ2ZJNXZ3MnZicHlBVW1kRlozSG80eHJsWDF6R0p2SkJZWVN3MzRwd2xhOThEQkZlQllPZWxHLXpoXzlzWWhfR05xQ1ZXSVhNeklaUGhVY1o1UENvNWh0aHdja2tfdjFmck05b2E?oc=5",
-      "publishedAt": "2026-10-09T04:18:00.000Z",
-      "priority": 42,
-      "reasonForCodexReview": "Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Supply Disruption",
-        "categories": [
-          "SUPPLY",
-          "DISRUPTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Rises Amid Supply Disruptions TradingView",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "supply disruption"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-09T06:11:51.260Z",
-      "updatedAt": "2026-10-09T06:11:51.260Z",
       "analyzedAt": null
     },
     {
@@ -6091,79 +6005,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-06T03:40:33.428Z",
       "updatedAt": "2026-11-06T03:40:33.428Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "6e2d7b072c0e5c4f5ab3165f0a8b5b6fe141f2bfa9a08c8deb4ca81edc6d70bb",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Drummond, DEQ send warning letters on Inola aluminum smelter permitting",
-      "summary": "Drummond, DEQ send warning letters on Inola aluminum smelter permitting 2 News Oklahoma KJRH Tulsa",
-      "source": "2 News Oklahoma KJRH Tulsa",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGNTYzBoM1pILVJZUU5WRlQtUldRaTVoc0NxYTRpSnIzRURSWTdFSEotZ3psamd3LVNYTFhVNlFINEFsbGhkUjRsc3lIUmtjSzR1ZVpMdWZDMm1wWU1TdjZwd3ZLVmhacEpKbkl4REVwRFF6VXZ2dFJHVlRERm9SeTNyd3ZsTDZUMzJIdDc0VUtpYXFxOHhoSi1rQkRuWEs4bUJrVWZZc05valU?oc=5",
-      "publishedAt": "2026-10-09T03:42:38.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Regulation",
-        "categories": [
-          "SMELTER",
-          "REGULATION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Drummond, DEQ send warning letters on Inola aluminum smelter permitting 2 News Oklahoma KJRH Tulsa",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-09T06:11:51.260Z",
-      "updatedAt": "2026-10-09T06:11:51.260Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "5dc081d20846b88006860ee6a7f5cfc392a12055fbaec6b33dddf6f46cd95704",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Century Aluminum Price Target Cut to $55.00/Share From $60.00 by UBS",
-      "summary": "Century Aluminum Price Target Cut to $55.00/Share From $60.00 by UBS Moomoo",
-      "source": "Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkZXajZjYTh4b0pOR2RGYlAyR2NIRW5VNUcxYW41UXkwYmJQTTRMbGF2VzRSb3N2YlA3WHdQRUZBN1JzbkhpYjNFNHJWTlUtY2oxTXIza0o2czhxb2NtN2c4ZVNRaklBNGhMZ3IyM05fVklDdksyVDlOWGFaVzJjdG1WUHdDajdabnZpYWw2N3pPeENTRTNxZFgwS0Q2QQ?oc=5",
-      "publishedAt": "2026-10-09T01:29:31.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Century Aluminum Price Target Cut to $55.00/Share From $60.00 by UBS Moomoo",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-09T06:11:51.260Z",
-      "updatedAt": "2026-10-09T06:11:51.260Z",
       "analyzedAt": null
     },
     {
@@ -17180,6 +17021,45 @@
       "analyzedAt": null
     },
     {
+      "id": "72c20714ec030ada01227d05bf0c2f1bc8d9e914dfd3fb9c632083ad7be0af44",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "China copper premium hits record as market weighs US stock shift",
+      "summary": "China copper premium hits record as market weighs US stock shift S&P Global",
+      "source": "S&P Global",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYmZ5ZUFsaGdLS3NtVzJMbXB0Y25pQ2pOWGZMU2FPby1tSnRFckxxa0g4YXRFNnk3eFN4S3hFd0Joejl0UThFNmxSdFNVY0lQMFpMai1Xc0dyS1dlZWNFS25zY0NkZVBMc0pacWpRb0xQd0xmTVRfc24tMDcyVlVwT2xqVEpyMmZ0bUVNbHIzZjFMZDU4WEY4U2lzRXVzWmhMNWYtQzEzZlVYX1dEWDM2SEFGdnBTZkNoMGs1UW9JRGlPNW15cEJkZ0lEX1dfZkI2VjM2MVZB?oc=5",
+      "publishedAt": "2026-11-07T10:19:48.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "China copper premium hits record as market weighs US stock shift S&P Global",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-08T06:05:03.779Z",
+      "updatedAt": "2026-11-08T06:05:03.779Z",
+      "analyzedAt": null
+    },
+    {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -19112,6 +18992,79 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-07T20:31:30.384Z",
       "updatedAt": "2026-11-07T20:31:30.384Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "4f1416f9733ba2b6964389e2cd6d370a97a0ac2df65a25877e7e8b647fdc4d76",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "인알럼, 알루미늄 생산 효율성을 높이고 AI부터 용해 기술 혁신까지 활용",
+      "summary": "인알럼, 알루미늄 생산 효율성을 높이고 AI부터 용해 기술 혁신까지 활용 VOI.ID",
+      "source": "VOI.ID",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBodGZmaUNVRVp5X05fYi1Eam1sc09FRmwzT1E4bnBMYlRESU9KZGNSd3huYXRHMjU5ZFlSU21OdklmUdIBQkFVX3lxTFBodGZmaUNVRVp5X05fYi1Eam1sc09FRmwzT1E4bnBMYlRESU9KZGNSd3huYXRHMjU5ZFlSU21OdklmUQ?oc=5",
+      "publishedAt": "2026-11-07T00:04:23.000Z",
+      "priority": 26,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "인알럼, 알루미늄 생산 효율성을 높이고 AI부터 용해 기술 혁신까지 활용 VOI.ID",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-08T06:05:03.779Z",
+      "updatedAt": "2026-11-08T06:05:03.779Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "a0371cefce419a75fa91f49076c255c424c5cd7b8dc5d172a974dcdd8caa1c75",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "구리 횡보세, $6.08 지지선이 가격을 뒷받침",
+      "summary": "구리 횡보세, $6.08 지지선이 가격을 뒷받침 Traders Union",
+      "source": "Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1hfdTJWcW1uNVlGTVo4VlBKWjNUenpiQWhBQjNESmpqUHkyMWZpRFBybGNoREJleC1nN3dwcEtCaG9YeW54dEQ5NGJfRFBzODlsc1YtdWswS0NIaUtKQWlnU21EbTlIX2UtZHZLLTF6R1l6ZUdBdk85aUxReXE5WHk4akVCRU82cDBpa08zVWJVTW5ScHFv?oc=5",
+      "publishedAt": "2026-11-06T20:09:39.000Z",
+      "priority": 26,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "TRADE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "구리 횡보세, $6.08 지지선이 가격을 뒷받침 Traders Union",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-08T06:05:03.779Z",
+      "updatedAt": "2026-11-08T06:05:03.779Z",
       "analyzedAt": null
     }
   ]

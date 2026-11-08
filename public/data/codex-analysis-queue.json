@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T23:59:09.066Z",
+  "generatedAt": "2026-11-08T06:05:03.779Z",
   "counts": {
-    "PENDING": 498,
+    "PENDING": 497,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -305,16 +305,6 @@
       "codexStatus": "PENDING",
       "source": "marketscreener.com",
       "publishedAt": "2026-10-27T20:24:16.000Z"
-    },
-    {
-      "id": "7dae8edd8bb7ee97864401d7094077c4ece2c2ae51f6e5945123abeefa2bbda4",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Deutsche Bank: Historic copper shortage – gold outperforms silver!",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-09T05:39:00.000Z"
     },
     {
       "id": "687b5d6a3b8e8690ebf9d57fa54839c4dfca6cfec74c6d5f270aa57d1a3e3584",
@@ -775,16 +765,6 @@
       "codexStatus": "PENDING",
       "source": "South China Morning Post",
       "publishedAt": "2026-10-24T13:01:39.000Z"
-    },
-    {
-      "id": "17d85334ea2fcd0dca07ba90670602f9c396236286588ecd8a2df8e433ffca2c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Rises Amid Supply Disruptions",
-      "reasonForCodexReview": "Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-09T04:18:00.000Z"
     },
     {
       "id": "815fe9bf78b5fb6020c65186ff95c300adb65a3fda2ba22049b607e5d3dc8795",
@@ -1485,26 +1465,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-11-06T00:26:00.000Z"
-    },
-    {
-      "id": "6e2d7b072c0e5c4f5ab3165f0a8b5b6fe141f2bfa9a08c8deb4ca81edc6d70bb",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Drummond, DEQ send warning letters on Inola aluminum smelter permitting",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "2 News Oklahoma KJRH Tulsa",
-      "publishedAt": "2026-10-09T03:42:38.000Z"
-    },
-    {
-      "id": "5dc081d20846b88006860ee6a7f5cfc392a12055fbaec6b33dddf6f46cd95704",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Century Aluminum Price Target Cut to $55.00/Share From $60.00 by UBS",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-09T01:29:31.000Z"
     },
     {
       "id": "3a96c77ed10d2975bb9e3568c7553d41751fd70df0d29d36d41190d729cdc91c",
@@ -4457,6 +4417,16 @@
       "publishedAt": "2026-11-07T08:00:21.000Z"
     },
     {
+      "id": "72c20714ec030ada01227d05bf0c2f1bc8d9e914dfd3fb9c632083ad7be0af44",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "China copper premium hits record as market weighs US stock shift",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "S&P Global",
+      "publishedAt": "2026-11-07T10:19:48.000Z"
+    },
+    {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4985,6 +4955,26 @@
       "codexStatus": "PENDING",
       "source": "Mining Weekly",
       "publishedAt": "2026-11-05T22:15:00.000Z"
+    },
+    {
+      "id": "4f1416f9733ba2b6964389e2cd6d370a97a0ac2df65a25877e7e8b647fdc4d76",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "인알럼, 알루미늄 생산 효율성을 높이고 AI부터 용해 기술 혁신까지 활용",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "VOI.ID",
+      "publishedAt": "2026-11-07T00:04:23.000Z"
+    },
+    {
+      "id": "a0371cefce419a75fa91f49076c255c424c5cd7b8dc5d172a974dcdd8caa1c75",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리 횡보세, $6.08 지지선이 가격을 뒷받침",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Traders Union",
+      "publishedAt": "2026-11-06T20:09:39.000Z"
     }
   ]
 }
