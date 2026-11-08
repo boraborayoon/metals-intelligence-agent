@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T13:27:48.144Z",
+  "generatedAt": "2026-11-08T18:30:55.558Z",
   "items": [
     {
       "id": "b4f22c43e67a2fff25a939a11bcaa96011fdfb80b6ad3193879aa29b6dfb4bfa",
@@ -10,8 +10,8 @@
       "description": "Race Result | 08 Nov 2026 | Sha Tin | Race 1 L'OREAL PARIS HANDICAP | HK Racing South China Morning Post",
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-11-08T12:41:39.000Z",
-      "fetchedAt": "2026-11-08T13:27:48.144Z",
+      "publishedAt": "2026-11-08T17:39:59.000Z",
+      "fetchedAt": "2026-11-08T18:30:55.558Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoQXBtWDdyX1p3TFhMSk9ET1hYeF81Z0hfbGZGR0JTWk1GRUd1YmNoU0l4dENYTU1ZdWhVWmVrU1VfU2JIWkl6R2V3MnpaczNhN09Lb08zQnNCMVNQc0k1TWZWeVM2ekE?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -113,6 +113,113 @@
       "codexReviewReason": null,
       "sent": false,
       "sentAt": null
+    },
+    {
+      "id": "3d9e1cd0ca7e8bd229ee8c7f3cfbb31af48b5e79c42427e6372692cbc968e2e4",
+      "titleSourceHash": "53811e12d2c79132699d7715efe5ccd05c0ce5083b5aab6d8f06afc1dbdbe94d",
+      "eventId": "6bff7acbc2914aec4a37899fb393f7961acde66818542be823e3bdd175b21d63",
+      "title": "Bill that would help Copper World mine faces key Senate vote",
+      "normalizedTitle": "bill that would help copper world mine faces key senate vote",
+      "description": "Bill that would help Copper World mine faces key Senate vote Arizona Daily Star",
+      "source": "Arizona Daily Star",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-11-08T16:24:00.000Z",
+      "fetchedAt": "2026-11-08T18:30:55.558Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1I3aDhFaGVCLUwzMXdSTnZrQmNOT3BhMkZGbVZvUUxXRlp6RVlJSE4zVVQxejZvY08yTDlDRGtKLV92ZE5iTWJta2huWUpuWG9uRHhhSzc2dm1pbEFXMkpQUUdxVnNOd1N1Mk1OR1JaSm5teDQ4b25sZ0VXMXRkeFFiVVBWdWg1bVd1eWoxbnlQV3lKT3BSUjF0TjhDRVBs?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "mine"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "mine"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "MINE"
+      ],
+      "primaryCategory": "Mine",
+      "titleKo": "Bill that would help Copper World mine faces key Senate vote",
+      "summaryKo": "Bill that would help Copper World mine faces key Senate vote Arizona Daily Star",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Bill that would help Copper World mine faces key Senate vote Arizona Daily Star",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Bill that would help Copper World mine faces key Senate vote Arizona Daily Star",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-11-08T18:30:55.558Z"
     },
     {
       "id": "2aab62b5ffaa6cc961793730a1e3a27f0a0eb7ee53fce007dd35f820133d396a",
@@ -222,6 +329,121 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-11-08T13:27:48.144Z"
+    },
+    {
+      "id": "4f60322e21c4745d4c1d6a8233e68b150463ccffaee65e06098af6fb7f5efbfc",
+      "titleSourceHash": "7463c0b3ea77bbc27fa2c51131c5458a155699ae7ac6064f8eb34698cbaa233b",
+      "eventId": "c7859697732656d047937bf59b3054de6061f83f80e8e2927a8d24e399e797e3",
+      "title": "Zambia Copper Refining Capacity vs Western Supply Chain Strategy",
+      "normalizedTitle": "zambia copper refining capacity vs western supply chain strategy",
+      "description": "Zambia Copper Refining Capacity vs Western Supply Chain Strategy Rare Earth Exchanges",
+      "source": "Rare Earth Exchanges",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-11-08T09:28:57.000Z",
+      "fetchedAt": "2026-11-08T18:30:55.558Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmZscW5RcjRCWEpUeFpfUnB1WmszRnRhMjhONEY4SXFNTW1QWmhUV2hkZExkSVBiNUFjcndGR01GR2NGUldOVWVfUDZFSFFBWmpqMTJXUnQ4SFpmQ2JvdVRKY29qOWozZWN0VzFWalBzb2FlamZtam9vcGhhOUNyX1NqWWJvMDg?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "supply",
+        "capacity"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "supply",
+            "capacity"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "SUPPLY",
+        "REFINERY",
+        "CAPACITY"
+      ],
+      "primaryCategory": "Capacity",
+      "titleKo": "Zambia Copper Refining Capacity vs Western Supply Chain Strategy",
+      "summaryKo": "Zambia Copper Refining Capacity vs Western Supply Chain Strategy Rare Earth Exchanges",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "MEDIUM_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Capacity",
+        "categories": [
+          "SUPPLY",
+          "REFINERY",
+          "CAPACITY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Zambia Copper Refining Capacity vs Western Supply Chain Strategy Rare Earth Exchanges",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Capacity",
+        "categories": [
+          "SUPPLY",
+          "REFINERY",
+          "CAPACITY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Zambia Copper Refining Capacity vs Western Supply Chain Strategy Rare Earth Exchanges",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 30,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-11-08T18:30:55.558Z"
     },
     {
       "id": "7afbaa5640396547d15d68c2149025c6eb207106a73f9c0426e6ab86fee78486",
@@ -363,7 +585,7 @@
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-11-08T08:05:48.000Z",
-      "fetchedAt": "2026-11-08T13:27:48.144Z",
+      "fetchedAt": "2026-11-08T18:30:55.558Z",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdW1BazJXamIxNWNCYU5FTjFmOTVjVjVUM3RMRWF4YTBDUzgxX1ZMYlk4c0pQaEJ3bE5nSURhU2dpSjlGUl9BQlpiU3k4eGxjZmZsbFBHcm8xc3VjUVNJeUU1R29aWjR0N0F6eTIyTEE5TlkzTDJNLThCM2lMZWJYaWRtTEdfeWtjM0VEU1Vvd3RuQm1BU3VjaDFpZzN2Vnd4RHB0RXFFdmNRVGJXdU1mLTFuaExIMkRTRkk4SVpCVm9YM1FOT2FzetIByAFBVV95cUxOdUpYRXdrdVNUWHdRRmVEMnUzc3FVdEFUU25ONGc5dG9nY1lQdlNURlVIaEtKbXFkMDZRR0dGZ1Bnd3p0cjlxdFVsVkZKV0tKRnZ3bXExY2E2djFIbFhLLVNrVFE4eHdGblVBeHJBb01PQ2ZQWm5qbGIyZ05fQ1cxdXpvWDhjYlJ4dGxSNXYycEtkNGtFZVF0TEJuTXdRT2pwSlJ4WE96Z0kyUE45Q05rNUhiU1NjVFo3MkVzUFdidGhxclFzNTE1ZA?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -460,7 +682,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 18,
+      "priority": 14,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -912,7 +1134,7 @@
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-11-07T13:02:13.000Z",
-      "fetchedAt": "2026-11-08T13:27:48.144Z",
+      "fetchedAt": "2026-11-08T18:30:55.558Z",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPckNfT3daV1psaElaSjAzZERPWlBscFE3YTFoVW5LeWNvVjNaREQyV3NycmpvQjFCMnl3UGdmN2lFLU44cDA4UHpIRHBkNjNjUEl0dC1KM3hUMV9WVDJrbzFVeThWaFh2OFFlZ2RndGpTV24tZE1KNHNkUlh0M2hkMjFpOHFWNjA5X1pOakxGRm1RVEY0UGwtT3VpWWEwZ2ktUEh30gGjAUFVX3lxTE5oeFRwd1pDRFp0d1VEcWdjRUVUQ2ZHZFVHTGRabGZvRWxhdnI0UUtDVFVwZW5FMHFwRDZVYnJIVVplTGFNVVdxbGNja0ZTZllrLXZqRjBDWHhyVTUwTl9JSFVSZk9uLXBadzhreFpNVHVqdjhtbFMzOEI4MW1sdTNBSG1iY3NwN1p2Z1lnc3JiTzJlMVd4MFVYaHg2Nk1FM0hhSFk?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -1025,7 +1247,7 @@
       "source": "khorasantimes.com",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-11-07T12:27:56.000Z",
-      "fetchedAt": "2026-11-08T13:27:48.144Z",
+      "fetchedAt": "2026-11-08T18:30:55.558Z",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNck1sTmVmWjctOEZHd1lMbkx1NUhFWWs3M0NEUnBvaFFNNy1XSUxMMUREMzI5V3ktUWUxallWcU1vV29YYkdtRW5CeHdtQ3dOZE44NGZ5R3gxblVSaVVzYVhQSnlJbDNXUnNMUDBnMFpEVW5Tai1UdE56S1VRMWl5cjh3a1ZOdHdhWW9SYlpDcWlnN0FDZjVEekhZbVVfRFViNjZfZkxtcXRyTHFwZkc0M3lXenJvdEtEUzA5amtFTQ?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -1128,7 +1350,7 @@
       "source": "South China Morning Post",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-11-07T12:26:21.000Z",
-      "fetchedAt": "2026-11-08T13:27:48.144Z",
+      "fetchedAt": "2026-11-08T18:30:55.558Z",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNE5TNC1felZMUG9aZFBzQVkzdl9VenprSmYtbkI1Nkl5eWhjNmFPMHRSWmhDTFJkNEJjOC14bkttNlFfVmcxbjI4MHVNXy1XZkJPZG1fRU8tWlpDOTFwVk51U0d4d0UydEpwa1d3TnE0UENvbHpWd3VPTGdmTTNBVTg0N0NaUklBYmprUGVUdkl0dmNGX2x4VU9fWDlhTDJnZFA0dC16X2NLMVNSMjZUejg1T2xBQ2pvQXU2X3YxQdIBvwFBVV95cUxPSndWbzliV3diX2tfNnRTVzVLMUc4dmF3QWJiaTdPempKUEswUGZPZDB2LWswYjFIM2p6VlZWaDZ6TWFRc0dteHdlOFRwemRrblUzVTV4dmNSTVdqRmNEd3BhMXRKTW1Xc09meDNVbEJzVVpwWFNjbWp2a05CdWtEQTVzb2Z6YjA2MkgxTnFjVVRNQm1DR04xZzI3dmNlZ3Z0SGFRejRaSEFRMVY1ejdQOHpGSkJTdlBsUmozYktxOA?oc=5",
       "language": "en",
       "commodity": "TIN",
@@ -1241,7 +1463,7 @@
       "source": "Briefs Finance",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-11-07T12:10:00.000Z",
-      "fetchedAt": "2026-11-08T13:27:48.144Z",
+      "fetchedAt": "2026-11-08T18:30:55.558Z",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTnpVdGhZdFNwMjdiRWxvX2dPUG4yamMydlhPU3Z3V0pZVHVwM1JUcDM1RnpvaWFKRkRTZ3JycXRhSzQyakVBbEpPU0VIdm9BcTV2R1kxanJzVldCOUNQTkVRamY0OVVWNDFKQlpJMERmam5WWHpDMTJyRjQ4eFdKdkVjR25reUJnN2poNmw4YnZzQQ?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -1805,6 +2027,119 @@
       "codexReviewReason": "Rule direction is unclear",
       "sent": true,
       "sentAt": "2026-11-07T10:20:22.590Z"
+    },
+    {
+      "id": "6620d10556ebf0b7978ba746c63cab726844e8a1e616d765b6ab36c23a0ffde5",
+      "titleSourceHash": "6812584c70e3428b51d115d76e25dbc20d5e85b8da448675122592c2f67cb741",
+      "eventId": "89adf1e49fbb34dc012e24fba92d8c9ecd7129532ec2b36fe622e935375744c4",
+      "title": "Researchers in China use a one-atom swap to make cheap aluminum fight sodium-sulfur battery decay",
+      "normalizedTitle": "researchers in china use a one-atom swap to make cheap aluminum fight sodium-sulfur battery decay",
+      "description": "Researchers in China use a one-atom swap to make cheap aluminum fight sodium-sulfur battery decay Yahoo Tech",
+      "source": "Yahoo Tech",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-11-07T08:31:00.000Z",
+      "fetchedAt": "2026-11-08T18:30:55.558Z",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ2pXWkdoRTk2cjExa3JDSGxXc3ZndXQ5THNmdUtkMi16a1g3OEdIb1dDVUNGaXVRS3dCdmpMbW4xZ3N4dTdVUk1XQmcxOUN5T1paVjBrRlVnOXJqMHp1VnFHYk04Mm83V2R2MXVfdkJRNVJBMWhWWUp0NVFzbDZQS1J5RW5qTDJSQ3JIMUhfbw?oc=5",
+      "language": "en",
+      "commodity": "ALUMINUM",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "aluminum"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "China"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "ALUMINUM",
+          "score": 8,
+          "matchedKeywords": [
+            "aluminum"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "China"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "CHINA"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Researchers in China use a one-atom swap to make cheap aluminum fight sodium-sulfur battery decay",
+      "summaryKo": "Researchers in China use a one-atom swap to make cheap aluminum fight sodium-sulfur battery decay Yahoo Tech",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "China"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Researchers in China use a one-atom swap to make cheap aluminum fight sodium-sulfur battery decay Yahoo Tech",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Researchers in China use a one-atom swap to make cheap aluminum fight sodium-sulfur battery decay Yahoo Tech",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 10,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
     },
     {
       "id": "b77dd36562a4e307eb15719d0cfd6b00b4121b4adfa90ab8a2494e31fa5eb68f",
@@ -2690,7 +3025,7 @@
       "source": "Shanghai Metals Market",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-11-06T18:35:00.000Z",
-      "fetchedAt": "2026-11-08T13:27:48.144Z",
+      "fetchedAt": "2026-11-08T18:30:55.558Z",
       "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNWFlUblJqeG02bWFhWnVwSXFvZ05EV1RzQjlIUTZNS0xvZmxUeGhGaVRMNkU5SnJPd2ZEYzQ3dzV0OTVINnFvT2I2cEJoSGR3WmV1X2FfZ24zVFJJU1c4bkhqREhxNGlmX3lpQkExOHFkZmxERGxvdy1GQldMbG51dXlOc1JJX2F5STJUZXF6U1ZGcEtqZ0Zzc1lXVE9wQWNYVHFXYVY4aERGZGljZUw2bGlTdUkySlhoUHBpdE9TVFZaU0sySTRYMm05X1RHX3FxelFWeGREeUhwcHJIX3lXeGVVNWp5WHQ2T3JWUDhicEM1cHNoV3V6ODFrRWI0Z0Z4c19PUHRBT0RiQS1JVjZGanZadVhaaHBRbnF2M2lXRVdOSGdITU1DNXhUdUZrQXBkOEFGQVBlTWpnUktvYUctV0ppRzQ0b1o3b0RVdG9ybUF1MW5lQTFIVzc4cjYzN3NjampBQjZHdUpEVWJFTjA3Q3FsbUcxQlBaWTBiZHdVZTFDbXVzN3BjNnloWTY3U01wVVduVllIVW1tLVJROEhVaDQ5UjNOU2R5T2JEN21YbGtQU2J6U3EyRF9kdGdNd3M5Q05YcXJrVG5hODBmMERfdWdjYmNjNmtvUm51NFlyZmh1S0UzLVE?oc=5",
       "language": "ko",
       "commodity": "MOLYBDENUM",
@@ -33032,333 +33367,6 @@
         "urgent": false
       },
       "priority": 31,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "78489e8c1c7c4641385c575f1779d9097cbd0d952c14cc902d61ba4ecfeb8ad2",
-      "titleSourceHash": "4bf04add4d5d28747ab1d4be7961d01824e5b3869cc76cc28a18a305d0bcdf86",
-      "eventId": "9b9e6956cd52da6117072568e2bc2f2eb558e853b593078b4d4695596dc0f9f8",
-      "title": "Inside Novelis’ 2030 strategy: Aligning scrap supply, recycling investment and new opportunities in aluminium markets",
-      "normalizedTitle": "inside novelis 2030 strategy aligning scrap supply recycling investment and new opportunities in aluminum markets",
-      "description": "Inside Novelis’ 2030 strategy: Aligning scrap supply, recycling investment and new opportunities in aluminium markets AL Circle",
-      "source": "AL Circle",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-11-02T08:00:00.000Z",
-      "fetchedAt": "2026-11-02T17:06:15.910Z",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNS0pxU3BfU1dpeFRaVXN3amppNjdJV0VneFpKem0ybHpxenNVNTRrYXA4ZEczUUZRSTY3dEQ4dEdLc1RZeURfTDhkblk4MDZqNHFVaTVreG1hY3A0MF9MLVd4VURpbzlteXJIUDRnZ3k3Vzd6X2xsS3MxZ0hRTXlOLTI0bURLbXVZbGxEc2FZSmV2OF9hY2Y0V0k2SXlqT1lVUjM1THFoX0J2dFNEU0oyakFBUml0UGdYNmpPYUVhVk1ZeXdGQ2JBdERqRklFUXc4SWFxVFF2WWJqVnhncUJXRXMzblpHQXRvTnNRM2hSZlZNeE0?oc=5",
-      "language": "en",
-      "commodity": "ALUMINUM",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "aluminium"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "supply"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "ALUMINUM",
-          "score": 9,
-          "matchedKeywords": [
-            "aluminium"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "supply"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "SUPPLY",
-        "LOGISTICS"
-      ],
-      "primaryCategory": "Supply",
-      "titleKo": "Inside Novelis’ 2030 strategy: Aligning scrap supply, recycling investment and new opportunities in aluminium markets",
-      "summaryKo": "Inside Novelis’ 2030 strategy: Aligning scrap supply, recycling investment and new opportunities in aluminium markets AL Circle",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Inside Novelis’ 2030 strategy: Aligning scrap supply, recycling investment and new opportunities in aluminium markets AL Circle",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Inside Novelis’ 2030 strategy: Aligning scrap supply, recycling investment and new opportunities in aluminium markets AL Circle",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "377cc14344e884e6df4086741f2582eac65631830f374eaa0d8d3fc6d69d44af",
-      "titleSourceHash": "4889e7efcdf601743c50a9dc4e01dbc883d9f44f71b4ef3644dfe320cb9949af",
-      "eventId": "2c0979ecd64a408a3c3a68818edc5b46652de9ed49664ff8dc605bc2f03aad03",
-      "title": "London copper climbs as tight supply, falling oil offer support",
-      "normalizedTitle": "london copper climbs as tight supply falling oil offer support",
-      "description": "London copper climbs as tight supply, falling oil offer support TradingView",
-      "source": "TradingView",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-11-02T07:50:22.000Z",
-      "fetchedAt": "2026-11-02T17:06:15.910Z",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObF9pbFdBSnp5aTVWVnBWMWZOTjI3eEpYczBlOFpueW4ya0RjRzg4VnZKenJ4azBCOWgwb3RfVkY0dlpLa2NwbS1CZTZhTS13SEoyeDNnQXNMcXlybVRBdnplcE84VS0wWjZzZXJqcURvRW9DRGhmT3Y3NEhDNmJCdG1sTG1YZGh3ZW5IYVA3NWd4LXNUQ1RsTXNGa3ZlRS1CSVowYi1oS1BGdzIwM3VlX1g4VjltSDROcmVtc01Ea3RJXzlpZmJtNm1FbnQ?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "supply"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "supply"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "SUPPLY",
-        "LOGISTICS"
-      ],
-      "primaryCategory": "Supply",
-      "titleKo": "London copper climbs as tight supply, falling oil offer support",
-      "summaryKo": "London copper climbs as tight supply, falling oil offer support TradingView",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "London copper climbs as tight supply, falling oil offer support TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "LOGISTICS"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "London copper climbs as tight supply, falling oil offer support TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "d959c782c5dfa68e635344494fcf2651d16599128c4c93a8deb01f69307b6fba",
-      "titleSourceHash": "0d4f2ece4c5ad24f0f6efc3b8fb1273fb54001c48c94499e8f1b5699f1576493",
-      "eventId": "d78a3c6a2ded5d48839238cfce8ba6494577398e06c59c4a4ad986e964864ec9",
-      "title": "Copper One concludes initial Phase 2 drill hole at Majuba Hill in Nevada",
-      "normalizedTitle": "copper one concludes initial phase 2 drill hole at majuba hill in nevada",
-      "description": "Copper One concludes initial Phase 2 drill hole at Majuba Hill in Nevada Mining Technology",
-      "source": "Mining Technology",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-11-02T07:45:20.000Z",
-      "fetchedAt": "2026-11-02T23:53:02.775Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVdPTkt1MmlPSWJVTzNxYk5JcXp5b0RkSlIyOHF6S0dlN2k5NWIyNXFsRWZUd0FpX010Y2cwcEhlVjlZaHIyTWZJbF93aEEwZnByNVZQUlBLcnFjUFYtcUF1b29XaFpFMGZ0UWczU2JqVHdON0ctQzBRaFJaWl9mNDgwNVIxWlRyaExz?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "mining"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 9,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "mining"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "MINE"
-      ],
-      "primaryCategory": "Mine",
-      "titleKo": "Copper One concludes initial Phase 2 drill hole at Majuba Hill in Nevada",
-      "summaryKo": "Copper One concludes initial Phase 2 drill hole at Majuba Hill in Nevada Mining Technology",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper One concludes initial Phase 2 drill hole at Majuba Hill in Nevada Mining Technology",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper One concludes initial Phase 2 drill hole at Majuba Hill in Nevada Mining Technology",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
