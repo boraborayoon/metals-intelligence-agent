@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T09:49:58.698Z",
+  "generatedAt": "2026-11-09T20:45:44.396Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -478,51 +478,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-15T15:45:00.067Z",
       "updatedAt": "2026-10-15T15:45:00.067Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "fb018cc3ba9208e7c95c979a7e9dc2dd50014811f83c449b3ce04e4c89ea7492",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Price Forecast: Copper Nears Record High, Chilean Mine Strike Hits Supply, Could It Break $15,000?",
-      "summary": "Copper Price Forecast: Copper Nears Record High, Chilean Mine Strike Hits Supply, Could It Break $15,000? TradingKey",
-      "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX01TR1FVM0duQ1MzbS1fZFNDbjlFOEd2bUdWS2dYZEhYazMyOE5fdlM3eFV3Rk5fOEFsdjdYenhGeXRYTDNsS04xS0p2Y1p6WGRPS3gyeWQ5UlJQZE53MXpZdWxKa21uQTB1bWZXRkNCNjZQd1J3T0pvN3lreklaU01naWVMMEZMV1QwbDhQYUlLTU55VWZBM3NObUl4MXV2aGVsb1p2ekVLQk4xUDhvRjBlQWNkZ2tTRUNsZGxCajhWdTNBcy1XZG5GaFdkUQ?oc=5",
-      "publishedAt": "2026-10-10T12:02:46.000Z",
-      "priority": 62,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "MINE",
-          "STRIKE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Price Forecast: Copper Nears Record High, Chilean Mine Strike Hits Supply, Could It Break $15,000? TradingKey",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-10T15:23:53.883Z",
-      "updatedAt": "2026-10-10T15:23:53.883Z",
       "analyzedAt": null
     },
     {
@@ -3060,6 +3015,43 @@
       "analyzedAt": null
     },
     {
+      "id": "8283d8fa186e6e6cce960197bff6565480bbd5e1d22a8f5cf89bc504c6a38327",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Barlow’s Research Roundup: Copper mining stocks are undervalued after sector rout, says Scotiabank analyst",
+      "summary": "Barlow’s Research Roundup: Copper mining stocks are undervalued after sector rout, says Scotiabank analyst The Globe and Mail",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNHlQelZJZWVxQjFLTHdXTHhBQTRDT0J5T3V3WGpTcmZ1a05rUkZVQmtsWnZBNW44T0FUaTF1a2tNa0U3OHBZNUZ3TnI4Vm0zdEVHYWIxUEc5cG5iRHNFRnZJUE1mS2JZbExfSEFSZTMtQkdNdlR3VlAxdXM3Ty1hWWI4bWRTNDVocHNWRUdsTTZUQ01kNWR6ZjU5WEk0YjF5akxfTWRibjQzZVFuby1ZeTNvNHM2VmVzZEdhZHpwOFJuMlMyQ1ZlRDJVbTJkQVBTcks5bTloNmU4elds?oc=5",
+      "publishedAt": "2026-11-09T13:12:43.000Z",
+      "priority": 45,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Regulation",
+        "categories": [
+          "MINE",
+          "REGULATION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Barlow’s Research Roundup: Copper mining stocks are undervalued after sector rout, says Scotiabank analyst The Globe and Mail",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-09T20:45:44.396Z",
+      "updatedAt": "2026-11-09T20:45:44.396Z",
+      "analyzedAt": null
+    },
+    {
       "id": "40d6c2ceaf2e3bdbe28c3cb51cad483589cdc50d701002b6c0c6e121aa2cfdb2",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -4715,6 +4707,94 @@
       "analyzedAt": null
     },
     {
+      "id": "028e7b3c1d05166b66c8e06d58c7217e7cc10612ba3bcefd9174eaed6dbbbf86",
+      "commodity": "TIN",
+      "subCommodity": null,
+      "title": "Alphamin strikes deal to supply new US smelter with Bisie tin",
+      "summary": "Alphamin strikes deal to supply new US smelter with Bisie tin MiningMX",
+      "source": "MiningMX",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPazZfcDlKVnRCS2xoYkZDS0xxZ2I1LUJuc1RtVkd1aEFHeFpPR0d5eUdNWHk3X3o2eXdSU01lNExraFQ0Ti1xY2hBWTdMRi00TnJXcHFVekhTUlVvVFhSMFkxR0lqdk1oNWZwamR0eXhaQ0ZUSThoNFNTcnZmOTNhLXAyeWcyZFRqS2IzZGw4OXU3MnQ2RVVRbzJOMVNhUQ?oc=5",
+      "publishedAt": "2026-11-09T17:37:11.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "SUPPLY",
+          "MINE",
+          "SMELTER",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Alphamin strikes deal to supply new US smelter with Bisie tin MiningMX",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-09T20:45:44.396Z",
+      "updatedAt": "2026-11-09T20:45:44.396Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "e965b46a2377e9e253fecc90c856254c258846b05ea9d5270171d83be8d8ba23",
+      "commodity": "MOLYBDENUM",
+      "subCommodity": null,
+      "title": "【Flash | Highland Valley Strike Risk Spreads to Molybdenum Concentrate Logistics】",
+      "summary": "【Flash | Highland Valley Strike Risk Spreads to Molybdenum Concentrate Logistics】 Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZkxVYjZEUzg4UDVsRkhxc19DQzByRGtZREhNUlRZdGNJak9tNC1DeEtGYWQ4YzRJOGNNd0lBV3cycmxIdjdyT0VBRkZTbjhXNlRWaGdZTmdubndDTC1HajdJV29fdDFCNDNmWkt2OXJ4R3dlemJpUDZmTVh6T2haUkFwNG5Ra1Flczk1N3BLNWlpZW5meko3U0l2MFY1bVkyY1Nmc3lSakNCaHhiUFJPbTNTYl9uejBCa25nQl9ZY2t0RDI2eGNYRW9jTTZkemZ6ZWM0VjNuSnJaNmxBanRoRGE3S0lCdkU?oc=5",
+      "publishedAt": "2026-11-09T06:51:00.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "【Flash | Highland Valley Strike Risk Spreads to Molybdenum Concentrate Logistics】 Shanghai Metals Market",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-09T20:45:44.396Z",
+      "updatedAt": "2026-11-09T20:45:44.396Z",
+      "analyzedAt": null
+    },
+    {
       "id": "381f1781fb35c7281d67e911ae7f4de52d5928a12efadc67a6ee17f7275153dc",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -5946,42 +6026,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-09T09:49:58.698Z",
       "updatedAt": "2026-11-09T09:49:58.698Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "8c9d401ce3a74ff0a766ce86ee3c48a4a1b1e0c9f9755b7ca94ac5ff05e042da",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "UBS Forecasts Copper Supply Deficit of 379,000 Metric Tons in 2027, Targets $15,500 per Ton",
-      "summary": "UBS Forecasts Copper Supply Deficit of 379,000 Metric Tons in 2027, Targets $15,500 per Ton Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTzhUdjFENWtjRERCaWZRRFhTQ292b3lTZTJ0NXZrM1JBcllyb1ZDaHVVcFp1ZkpEWEs0c2gwNmdsRGdqMkt0b3FqZDEtN2VzNDhXT1lYRUlHeFkyVjNRc2RkZVh3TEIwOGlpRUtvRXFUVDJsNDJ0R19BWlhOOEpqbmxuZzBSSkd6ekpycjdXeENYOW9EVUpJVDJfcWN5Q3VkVWtYTXo5VWk?oc=5",
-      "publishedAt": "2026-10-10T13:04:00.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "UBS Forecasts Copper Supply Deficit of 379,000 Metric Tons in 2027, Targets $15,500 per Ton Yahoo Finance",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-10T15:23:53.883Z",
-      "updatedAt": "2026-10-10T15:23:53.883Z",
       "analyzedAt": null
     },
     {
@@ -10637,6 +10681,42 @@
       "analyzedAt": null
     },
     {
+      "id": "07eb263f703ad5bfe390f9f62677d5a8bebfbf0e05d035b10d684d1162d43064",
+      "commodity": "TIN",
+      "subCommodity": null,
+      "title": "Alphamin Allocates Bisie Tin Concentrate to New US Smelter - News and Statistics",
+      "summary": "Alphamin Allocates Bisie Tin Concentrate to New US Smelter - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkVpMHVRS2JNaEwyNUdKQThScWJGOG1QRVpjZGdmZzBDLTNwbDdvZDN5anBUcjNpZVd2MUdYQ21FaDhuYjVnbWNHSktwN3g0bEVRMVQ3Y1RiUHQydTRTZmtlUzdGYl9fakVKZFE0bWcxY2tiamdnNVhLUzFSdWdTdF9WY1RYRXlod0QxVXJmblR2QnRX?oc=5",
+      "publishedAt": "2026-11-09T15:30:51.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Smelter",
+        "categories": [
+          "SMELTER"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Alphamin Allocates Bisie Tin Concentrate to New US Smelter - News and Statistics IndexBox",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-09T20:45:44.396Z",
+      "updatedAt": "2026-11-09T20:45:44.396Z",
+      "analyzedAt": null
+    },
+    {
       "id": "c30bf0ffcf95b64a3731a1e1b45bc62c33fd2aae5988dcc5dcf2523f5fb9fe23",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -14392,6 +14472,43 @@
       "analyzedAt": null
     },
     {
+      "id": "813dd81217bfd1912f39828bf307ca30ccce5d838626fcf9609731f38f1a91fe",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Rio Tinto approves US$144 million investment to advance Resolution Copper project",
+      "summary": "Rio Tinto approves US$144 million investment to advance Resolution Copper project Global Mining Review",
+      "source": "Global Mining Review",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa2NoakVaTERNbjRGNnlSUFN0cjZwR2oyX2JOOVdENTNNN1lyVFo4TGM4dUR2RGtselVzZ05ITHA0X3N0UGFIelFJSkNFT3g5U0h1M1lDVkdGMXdVWW5jOHc0YnhaR3AxTGJtUEN0cXRaX1Vhb2VWT1VCQUxpYkl0RVNfWHVfMU5ueXpLX3VfM3JLaF9QSTBUUHFDTjNCck1lRHZLYXM0ekp2dkZubVM2TDRKUnI3MEY1M0FJVTRkQkg5aTdwTE9qRU5rQnE?oc=5",
+      "publishedAt": "2026-11-09T15:08:21.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE",
+          "PROJECT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Rio Tinto approves US$144 million investment to advance Resolution Copper project Global Mining Review",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-09T20:45:44.396Z",
+      "updatedAt": "2026-11-09T20:45:44.396Z",
+      "analyzedAt": null
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -16808,42 +16925,41 @@
       "analyzedAt": null
     },
     {
-      "id": "fa43f5e591aa602281db1258e171d4dce60a44ba06d942158033f9e0bc23f234",
+      "id": "dd04f5e641420c6817166f5349d438ecee5f175151099f75dbb6778df262196e",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "Copper rises on supply concerns in China",
-      "summary": "Copper rises on supply concerns in China www.marketscreener.com",
-      "source": "www.marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbEV0UFZpOGFDTjdsb1VGWi04Zm5BM2Y0TzAxN3hJemxvekNJQlNtTXNScTdoQ2U5M2tkYmgtbXBCMms0akVfQ25nR2hIdjBhd1VBb3VvcTM3MS1vMGNVR2JRM1BibUhRZ3Qya1JySDk3NEpWX3pkRDlmbWF2dl9rak1GbS1xNlc3eTlqOEs0Y2FpRl96QmxxUQ?oc=5",
-      "publishedAt": "2026-11-09T08:06:24.000Z",
+      "title": "Montero Licenses BHP Historical Exploration Data for the Avispa Copper-Molybdenum Project, Chile",
+      "summary": "Montero Licenses BHP Historical Exploration Data for the Avispa Copper-Molybdenum Project, Chile TMX Newsfile",
+      "source": "TMX Newsfile",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUXFKc0M4OWY0NUZTc2JNdXZhR2tLalFPaFVwV1dBVWQ3Y2ZBeEJUWlhLVWhyTWUzUHBsZ0hpRm9WbzR4ZWE5NTVJX2lGbEZ5Xzk2MzJQczlleThIWW13M3VaNDEyLXM3NnlGWHplOUo1cFdoUFlsMEl0ZGRvaV9TSlpDSU1ncjRmVlowSXRBWVdUTmllU0h1RGdFSlQtcnhhckhSVTNkQlhsZm9WMzRvUTZSZjNyam5qUno5bm5pMTFlTlJzTnRaMVAtajBpSXROakhLVw?oc=5",
+      "publishedAt": "2026-11-09T19:40:00.000Z",
       "priority": 35,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Supply",
+        "category": "General",
         "categories": [
-          "SUPPLY",
-          "CHINA"
+          "PROJECT"
         ],
-        "region": "China",
+        "region": "Chile",
         "regions": [
-          "China"
+          "Chile"
         ],
-        "summary": "Copper rises on supply concerns in China www.marketscreener.com",
+        "summary": "Montero Licenses BHP Historical Exploration Data for the Avispa Copper-Molybdenum Project, Chile TMX Newsfile",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
         "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
+        "timeHorizon": "MEDIUM_TERM",
         "signals": [],
         "urgent": false
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-11-09T09:49:58.698Z",
-      "updatedAt": "2026-11-09T09:49:58.698Z",
+      "queuedAt": "2026-11-09T20:45:44.396Z",
+      "updatedAt": "2026-11-09T20:45:44.396Z",
       "analyzedAt": null
     },
     {
@@ -18742,42 +18858,6 @@
       "analyzedAt": null
     },
     {
-      "id": "881e49f1f9333d9c29d85275826596176ef37eee0778e0a4a561be0b0b056386",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Kings volleyball grounds Jets for district title",
-      "summary": "Copper Kings volleyball grounds Jets for district title The Mining Gazette",
-      "source": "The Mining Gazette",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjRUNkZpNDRaa2Vsc2R1bmZvS0JMNVk4QkNVVi1kYmdCVVVzUGY0aFo0VnNOUkxEOVFTVzhwWjBOSENSYWdLNkxranR4UnU3OXFnRHdCai1CTTM5bTh6N3FnYnFrdkh3UHhaWU1Ob09Fekd6SWRWcTByS1NuR1kyVk9BQVN3WmN3NG5RTk5Dak9YVEFjQUhHcmpfb3A5amNWY2phME9zcE9zenlNVjZwRnVKOHY?oc=5",
-      "publishedAt": "2026-11-09T06:52:08.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Copper Kings volleyball grounds Jets for district title The Mining Gazette",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-09T09:49:58.698Z",
-      "updatedAt": "2026-11-09T09:49:58.698Z",
-      "analyzedAt": null
-    },
-    {
       "id": "fa5c5ab14da9a17828e9d90a661fe95352640f85c53ee45f783810bd49ff4b32",
       "commodity": "TIN",
       "subCommodity": null,
@@ -18853,132 +18933,15 @@
       "analyzedAt": null
     },
     {
-      "id": "d0890f183a938b355de4d3ec854536c25f55ceb55c8aef5d1530d2071a9fc7fa",
+      "id": "4d3e63b270a9f6d80ac5d04f3d0bfe436a8060a2262be291b38bb7ca17fdaa0b",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "UBS Adjusts Jiangxi Copper's Price Target to HK$38",
-      "summary": "UBS Adjusts Jiangxi Copper's Price Target to HK$38 www.marketscreener.com",
-      "source": "www.marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmw2YkFFNi15aldaWlJuTDB6VkZXZVBSUkUxSVFRVVA4c1NpUllHVUFuaEV6dUp5TFBaM0k3dFFwS0NRZkdndkIxYlZEUVVBOUVBRWplbHVKSkc1bmlyUUp0UDFWMkRwWFdlbF9OZnZGaFRfSW5MSFFpRlUwOTlrLXU1LTNRUkpiZkFBdFpyUnRqUHFfMkk4bFhKRDhYWU5PWS1FNUln?oc=5",
-      "publishedAt": "2026-11-09T01:12:15.000Z",
-      "priority": 32,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "UBS Adjusts Jiangxi Copper's Price Target to HK$38 www.marketscreener.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-09T09:49:58.698Z",
-      "updatedAt": "2026-11-09T09:49:58.698Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "38dd8a5ae266636002f376cb8ab24ce9c8e3fe8c3f030df76072083f414163c3",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "China's 6063 Aluminum Billet Inventory in Two Regions Falls on November 9",
-      "summary": "China's 6063 Aluminum Billet Inventory in Two Regions Falls on November 9 Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2YyNjdSOVlQZjFzMGkyMXo0eUNaSDdqNVhNRHk4bmdXZ1VJaDBhTXduZ1c4Y2dMWlVsX2JoR20yb2Z6dEVNSmUwMURxU2ZRNExJOTZRMlNEc2FpYXYtWXg4LWZFMVhYeEY1aGRNcXZOUHE5V2hISi1NeUNYdHF4eUhmYnYxcVltX25BS0dBY0dQNm5oRVhMNTZObUwtdE9xc19zR19adEtocGpTZGQzT3BkeGpEaU9JRDJPVVpTcVRwNHZhaUcxVzRhb0Z5V2I2RlJwV1M1a3RzUVMxTFFSUQ?oc=5",
-      "publishedAt": "2026-11-09T01:26:00.000Z",
-      "priority": 31,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Inventory",
-        "categories": [
-          "INVENTORY",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "China's 6063 Aluminum Billet Inventory in Two Regions Falls on November 9 Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-09T09:49:58.698Z",
-      "updatedAt": "2026-11-09T09:49:58.698Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "9fbd92af7bd984a7f195ee2f13f9b58107b6acd67cc91b2da9e8ab9191231d48",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "China’s Copper Import Premium Hit A Record As Supply Tightened",
-      "summary": "China’s Copper Import Premium Hit A Record As Supply Tightened Finimize",
-      "source": "Finimize",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRkFRenpPNm00LWRNckZaWjFOc1ZzakpzYk1iU1hWVHFmQkxXY3B0YmY2QXNUUEtqbDdQQTl0d05pWkN6VlRleUFiLURvNmQ3MTgyMjA2WE9RWUtyWktfOUtTUDBjOXRnblBBSWNfMHBMVXFzanBpU0N5VDZ4UTE2cXdCbjRHcWx2M1l1UVNEcUNRRXVS?oc=5",
-      "publishedAt": "2026-11-09T00:10:17.000Z",
-      "priority": 31,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "LOGISTICS",
-          "IMPORT",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "China’s Copper Import Premium Hit A Record As Supply Tightened Finimize",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-09T09:49:58.698Z",
-      "updatedAt": "2026-11-09T09:49:58.698Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "7ac9eef07b3c1d8a8f53f830ca1b74d4b7b7943845899c55dd55e480d3f03766",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Form 4 Southern Copper Corp.: Lerdo de Tejada Leonardo Contreras (Director, CEO) For: 30 October",
-      "summary": "Form 4 Southern Copper Corp.: Lerdo de Tejada Leonardo Contreras (Director, CEO) For: 30 October Investing.com Canada",
-      "source": "Investing.com Canada",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPanpCSHg2ckQ1NlFWWngxVS1LTDRrcUFoUy1BNTVPWlhSX2NTMHBfTTI4YjlObzl1UmhFZ1ZISWxObzBkczNXWjRCV2FRV2FqVjAwUUpwMlpJalFVSk0xYjRnU19qR1Vna1k1dXFPcVdfdFotTFI3QjdTZ0JwalJEaGtBVnJfblZmdWZRRlN2RnRCOXhnQVlMSE1kWndRckYtem9kRnJyZldlbUVRanNyTFRyV3M3Q2VGUkdER0lFQzdKQmxoMmJfQ0g3eE15dFA3VVFhNTI1MExNRzJzZ1FWLTU2TVQ4dw?oc=5",
-      "publishedAt": "2026-11-08T23:04:10.000Z",
-      "priority": 30,
+      "title": "Kast and Quiroz's Maneuver: The Inflated Figures of Codelco as a Pretext for Copper Privatization",
+      "summary": "Kast and Quiroz's Maneuver: The Inflated Figures of Codelco as a Pretext for Copper Privatization elciudadano.com",
+      "source": "elciudadano.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU0ItRGFOaXhlLVQ4T2tKbUo4MS1HVFkzTlFqUFlGTDBCa09OcjdwUlVQZElQTERiYTlQdmJLT29xUjRKUkl0SUh4TENZaW5TenJWQzBiSDFQSjVPa1NkUU9PTGNreXN5aWQtVHJqd1U3S1Z0cGxuWVVNNlVDcjVQVE1MUlI0QVRqMnFMVXFKTmwtbkY3QWNIYTU1cTQxMXpYUV80UUR4T0NmWjlfbkZsWENlLXVlYVhod0hiSXZRS2l6bEVrVVp2NzJHWlpyUQ?oc=5",
+      "publishedAt": "2026-11-09T19:23:57.000Z",
+      "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
@@ -18990,7 +18953,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Form 4 Southern Copper Corp.: Lerdo de Tejada Leonardo Contreras (Director, CEO) For: 30 October Investing.com Canada",
+        "summary": "Kast and Quiroz's Maneuver: The Inflated Figures of Codelco as a Pretext for Copper Privatization elciudadano.com",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -19001,20 +18964,20 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-11-09T01:59:53.297Z",
-      "updatedAt": "2026-11-09T09:49:58.698Z",
+      "queuedAt": "2026-11-09T20:45:44.396Z",
+      "updatedAt": "2026-11-09T20:45:44.396Z",
       "analyzedAt": null
     },
     {
-      "id": "3e242f5ba1eae74ba2c691c29d496fa8aae4dabb0535ba3dd5bd2d1e70ccf7e0",
-      "commodity": "COPPER",
+      "id": "d4eb7d05a8f9862c644b4b9d0973fff892123febbb6e4d0ae2f87927cdbf737f",
+      "commodity": "TIN",
       "subCommodity": null,
-      "title": "BTV Explores: Gold, Silver & Copper Companies Advancing Major Mining Projects",
-      "summary": "BTV Explores: Gold, Silver & Copper Companies Advancing Major Mining Projects Investing News Network",
-      "source": "Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGpJQko5czM4LW5QUFhLUXpJc0hrNVcxVlVTSF9zQ0RjblR2R2ZuTGxtc0NOMkVoSDNSaDFhUVpFc2xLSGF2bEpsemFDQlpxUW5jclRGYWxRd2JnMERBdW5mMDM1WF85M1h4SE9mSHJHZUw2SFBKc1NNU0pSUVZpNnFZOUI2WGYxeVUwRS1wcVQyWDNQWFhYQnJqSEtSU3BvWWc?oc=5",
-      "publishedAt": "2026-11-06T13:54:19.000Z",
-      "priority": 30,
+      "title": "Alphamin directs Congo tin to new US smelter",
+      "summary": "Alphamin directs Congo tin to new US smelter The Northern Miner",
+      "source": "The Northern Miner",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTngxRW9hUmpzaGdRT2RxMkJReHEtQkNkbHN2QkZ0UGpvcFpIelF5R0pYdk9uMFVvYjhYZC1LQWw4eVdpaEc5LW9xcW5PUV85Wmc0SHRSMXZMVE94cFJocl93Y2ZWOEg0OGlvVXVTS0YwakpINno5NFRySTJTZWtJelphaDY1cW5BMVhTWDBOc21HQmdFN0E?oc=5",
+      "publishedAt": "2026-11-09T18:47:03.000Z",
+      "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
@@ -19023,11 +18986,49 @@
         "category": "Mine",
         "categories": [
           "MINE",
+          "SMELTER"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Alphamin directs Congo tin to new US smelter The Northern Miner",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-09T20:45:44.396Z",
+      "updatedAt": "2026-11-09T20:45:44.396Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "89e1a988a78c32e8f01551ac3dbf28c6219e0e204f78eae8cc8cd5b3a0462ab5",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Codelco, Pucobre win permit for $870M copper project",
+      "summary": "Codelco, Pucobre win permit for $870M copper project The Northern Miner",
+      "source": "The Northern Miner",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3hXc3Y4S1pYWm81alZDaWhTNy00TXNQYTFVUjUyWXdkMkJYN09yOXRSZFJMdjJtYjJYRlROdmVMVDZNcVVYaXA5dEw4dGRmZ3NXUGYyUG1OdWhxX1JFZm9JOHoyOTJzM0lVakdiLXlHZUhZcXNsN0luNlBrMXdlNFhFUUN5R2dMZ0FzeHB6dGpvY285aTVSMUNxT3J2Zw?oc=5",
+      "publishedAt": "2026-11-09T17:42:12.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Regulation",
+        "categories": [
+          "MINE",
+          "REGULATION",
           "PROJECT"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "BTV Explores: Gold, Silver & Copper Companies Advancing Major Mining Projects Investing News Network",
+        "summary": "Codelco, Pucobre win permit for $870M copper project The Northern Miner",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -19038,33 +19039,32 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-11-07T03:13:57.696Z",
-      "updatedAt": "2026-11-07T03:13:57.696Z",
+      "queuedAt": "2026-11-09T20:45:44.396Z",
+      "updatedAt": "2026-11-09T20:45:44.396Z",
       "analyzedAt": null
     },
     {
-      "id": "ec5eb922b3fb8aee74574f88f1babbc68d7fefb2459c579413c0d72e37805eb6",
+      "id": "67f5dde9f60b703f0808fef69f1833d43cd2f5f1f7a541df195f495717667dcd",
       "commodity": "ALUMINUM",
       "subCommodity": null,
-      "title": "람동성: 닥농 알루미늄 전해 공장에 안정적인 전력 공급 보장",
-      "summary": "람동성: 닥농 알루미늄 전해 공장에 안정적인 전력 공급 보장 Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY2FUMUd0aGd5WTFiVURlcFgxOExIZnh4bU5UQmtvRm1memRraUVhN0RhY1RLemd0b1NhR1NsOURwYkxRRk9YdnhjOXVJVUVWeTJCbEQ5MUVSc2JoWk9QMlFTMFlaOXBUajFpVkcwU3IwamVkeHU3UXc0T2ttcklPUHNrTVVicXQ2aWFkdXdFSDJyOThKSDdv?oc=5",
-      "publishedAt": "2026-11-08T06:43:41.000Z",
-      "priority": 30,
+      "title": "Ford F-150 Production Numbers For October Prove Aluminum Crisis Truly Over",
+      "summary": "Ford F-150 Production Numbers For October Prove Aluminum Crisis Truly Over Ford Authority",
+      "source": "Ford Authority",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWFExZjVQQnFlVnhFdUtNQXYwSmhyMmJFcUpXcFZadWtIXy1RNDQyTzVLc0ZBenZnZUQzTXZMSzY5UnBWMGE0cmJhRF9EYzZBR1BSQWxvRUhvc2RjS0l5dTZrRGduU0gwZFM5SmRYT0Z2TkZ3bWhHLXh2NENmbjRYWl92cHg0WG4wMjVqZEJGUF9WNllXdmUxSkVjRG1jVHM3YkctWURBSE9BTFU2aVE?oc=5",
+      "publishedAt": "2026-11-09T16:54:37.000Z",
+      "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Supply",
+        "category": "Production",
         "categories": [
-          "SUPPLY",
-          "ENERGY"
+          "PRODUCTION"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "람동성: 닥농 알루미늄 전해 공장에 안정적인 전력 공급 보장 Vietnam.vn",
+        "summary": "Ford F-150 Production Numbers For October Prove Aluminum Crisis Truly Over Ford Authority",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -19075,32 +19075,33 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-11-08T13:27:48.144Z",
-      "updatedAt": "2026-11-08T13:27:48.144Z",
+      "queuedAt": "2026-11-09T20:45:44.396Z",
+      "updatedAt": "2026-11-09T20:45:44.396Z",
       "analyzedAt": null
     },
     {
-      "id": "6240aa9d4c63236a69e23274027242cda8f3607212b65b23b3c08837af885ded",
-      "commodity": "ALUMINUM",
+      "id": "17a673290ce73d57a4c93af176be5445f83491612a430c9c9d1655d6770f4773",
+      "commodity": "TIN",
       "subCommodity": null,
-      "title": "Valor Overseas Trading Expands Commercial Purchasing and Merchant Supply for A7 Aluminium Ingots and UBC Scrap",
-      "summary": "Valor Overseas Trading Expands Commercial Purchasing and Merchant Supply for A7 Aluminium Ingots and UBC Scrap The Conway Daily Sun",
-      "source": "The Conway Daily Sun",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPMWZJUjBJOHpjcWhVM3NBQjh3WmR3ZTUwcW9fbUdoZzBMUTdmUGVNN3V3NkczNXU5VnJGbDQ4aFVCUGZOclpaZEZkZWQ4XzREaU8yNEpfV2xwQ3VHcUYxdlQyNTIxOTZZWjVmMlZOY2RfWmRwb0U0YnlHUGk5N3Mzc3lQNXFwV1JZbTFYdzNfWXRVS0QtUWk5amd0NmdSSmdqMXFXd0F3emhHUXpubF9KTEo0NHQ0c05lS2pSN2lLUjZZYlBUUklxMmFUN1duaEg3Q3pLRjBKSE1CaHRuRjdzbmd2RXU2Mnhhb09adUVVdGtHNFRmekVIMlBoQURPTHhMaXNRTjVEenZ3VmxWSzg4ZEd1UjZYZVJLVDczUHY1aDgtTThOVmNhN3FFVElCV0ZNaGJvdW1iX1FNYjNyZjIzemltTVJpUTl4UUJueDJyQQ?oc=5",
-      "publishedAt": "2026-11-08T05:15:03.000Z",
-      "priority": 30,
+      "title": "Alphamin Resources signs US tin smelting deal",
+      "summary": "Alphamin Resources signs US tin smelting deal www.mining-journal.com",
+      "source": "www.mining-journal.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnM0WnBNSWpOem1PTWpZNW5rWGJFS1Zub2pBeFhJSlNNUzRnbVVqUkJxdzJId1VPUnRhdGx3eUJsVlp5cExpWk9fWVhhRmpBbkxCYklQOVczbEtwZ3l4cERuMVNNUU1ySndJd0FuTTVxUURYanB0RnRieWM2aTNvOTk0SUEycjZTYXllbldUOFFPRUtadWFLVkdQNDhuSk9TV0NDOFFlNTktS3J5cHA4?oc=5",
+      "publishedAt": "2026-11-09T16:33:18.000Z",
+      "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Supply",
+        "category": "Mine",
         "categories": [
-          "SUPPLY"
+          "MINE",
+          "SMELTER"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Valor Overseas Trading Expands Commercial Purchasing and Merchant Supply for A7 Aluminium Ingots and UBC Scrap The Conway Daily Sun",
+        "summary": "Alphamin Resources signs US tin smelting deal www.mining-journal.com",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -19111,46 +19112,44 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-11-08T13:27:48.144Z",
-      "updatedAt": "2026-11-08T13:27:48.144Z",
+      "queuedAt": "2026-11-09T20:45:44.396Z",
+      "updatedAt": "2026-11-09T20:45:44.396Z",
       "analyzedAt": null
     },
     {
-      "id": "4f60322e21c4745d4c1d6a8233e68b150463ccffaee65e06098af6fb7f5efbfc",
-      "commodity": "COPPER",
+      "id": "ea81b1cceeb0f4b57d31f7170050b35cdb80e206d612ffa8db0c4398f09900bd",
+      "commodity": "ALUMINUM",
       "subCommodity": null,
-      "title": "Zambia Copper Refining Capacity vs Western Supply Chain Strategy",
-      "summary": "Zambia Copper Refining Capacity vs Western Supply Chain Strategy Rare Earth Exchanges",
-      "source": "Rare Earth Exchanges",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmZscW5RcjRCWEpUeFpfUnB1WmszRnRhMjhONEY4SXFNTW1QWmhUV2hkZExkSVBiNUFjcndGR01GR2NGUldOVWVfUDZFSFFBWmpqMTJXUnQ4SFpmQ2JvdVRKY29qOWozZWN0VzFWalBzb2FlamZtam9vcGhhOUNyX1NqWWJvMDg?oc=5",
-      "publishedAt": "2026-11-08T09:28:57.000Z",
-      "priority": 30,
+      "title": "Barclays maintains Century Aluminum at Equal-Weight, lowers price target to $39 from $40",
+      "summary": "Barclays maintains Century Aluminum at Equal-Weight, lowers price target to $39 from $40 TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPME8xa09VMkRvUDBCd3dBMDZ2UTh6SXZRRk1ON29ZajFGeGhsM0dvNVpyUnNlUWEzMG4taDFNbl9yTW1hZFF0WkNBRkZLRVphX1NYajBMOGdaN3JQWmdVUVlNQXpVR3BCeWs1amxET19UVkZ5Y0ZzUTlXeG9ydUdLUmx4bXYxSW5SZFBEMXJibGlFbU1tV2F5NGVKMFdubC02elhUZDJJQzVqdWR0eTZ6eUFTWTlNazhTZmd2RmNxYVkyYkVYdUJUeW84RXljNGFLMDBwQWtjWkpTVnZIUUJ2MQ?oc=5",
+      "publishedAt": "2026-11-09T15:26:18.000Z",
+      "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Capacity",
+        "category": "General",
         "categories": [
-          "SUPPLY",
-          "REFINERY",
-          "CAPACITY"
+          "PRICE"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Zambia Copper Refining Capacity vs Western Supply Chain Strategy Rare Earth Exchanges",
+        "summary": "Barclays maintains Century Aluminum at Equal-Weight, lowers price target to $39 from $40 TradingView",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
         "confidence": "LOW",
-        "timeHorizon": "MEDIUM_TERM",
+        "timeHorizon": "SHORT_TERM",
         "signals": [],
         "urgent": false
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-11-08T18:30:55.558Z",
-      "updatedAt": "2026-11-08T18:30:55.558Z",
+      "queuedAt": "2026-11-09T20:45:44.396Z",
+      "updatedAt": "2026-11-09T20:45:44.396Z",
       "analyzedAt": null
     }
   ]

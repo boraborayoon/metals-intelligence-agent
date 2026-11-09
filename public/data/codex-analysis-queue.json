@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T09:49:58.698Z",
+  "generatedAt": "2026-11-09T20:45:44.396Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -115,16 +115,6 @@
       "codexStatus": "PENDING",
       "source": "IndexBox",
       "publishedAt": "2026-10-15T12:10:31.000Z"
-    },
-    {
-      "id": "fb018cc3ba9208e7c95c979a7e9dc2dd50014811f83c449b3ce04e4c89ea7492",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Copper Price Forecast: Copper Nears Record High, Chilean Mine Strike Hits Supply, Could It Break $15,000?",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "TradingKey",
-      "publishedAt": "2026-10-10T12:02:46.000Z"
     },
     {
       "id": "9aabfabc338f5d07135f3d5d2a16bb7a8d67cbefed6c7ca175cf043dc7c63b8f",
@@ -747,6 +737,16 @@
       "publishedAt": "2026-11-03T09:05:55.000Z"
     },
     {
+      "id": "8283d8fa186e6e6cce960197bff6565480bbd5e1d22a8f5cf89bc504c6a38327",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Barlow’s Research Roundup: Copper mining stocks are undervalued after sector rout, says Scotiabank analyst",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "The Globe and Mail",
+      "publishedAt": "2026-11-09T13:12:43.000Z"
+    },
+    {
       "id": "40d6c2ceaf2e3bdbe28c3cb51cad483589cdc50d701002b6c0c6e121aa2cfdb2",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1127,6 +1127,26 @@
       "publishedAt": "2026-11-04T14:07:57.000Z"
     },
     {
+      "id": "028e7b3c1d05166b66c8e06d58c7217e7cc10612ba3bcefd9174eaed6dbbbf86",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Alphamin strikes deal to supply new US smelter with Bisie tin",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "MiningMX",
+      "publishedAt": "2026-11-09T17:37:11.000Z"
+    },
+    {
+      "id": "e965b46a2377e9e253fecc90c856254c258846b05ea9d5270171d83be8d8ba23",
+      "commodity": "MOLYBDENUM",
+      "importance": "MEDIUM",
+      "title": "【Flash | Highland Valley Strike Risk Spreads to Molybdenum Concentrate Logistics】",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-11-09T06:51:00.000Z"
+    },
+    {
       "id": "381f1781fb35c7281d67e911ae7f4de52d5928a12efadc67a6ee17f7275153dc",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -1455,16 +1475,6 @@
       "codexStatus": "PENDING",
       "source": "FXEmpire",
       "publishedAt": "2026-11-09T09:44:33.000Z"
-    },
-    {
-      "id": "8c9d401ce3a74ff0a766ce86ee3c48a4a1b1e0c9f9755b7ca94ac5ff05e042da",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "UBS Forecasts Copper Supply Deficit of 379,000 Metric Tons in 2027, Targets $15,500 per Ton",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-10-10T13:04:00.000Z"
     },
     {
       "id": "0caadd7de89aecf19d9881d58e6a1c993e3edbeca8736ed5c4dd7a11bf7b5406",
@@ -2727,6 +2737,16 @@
       "publishedAt": "2026-11-09T04:35:13.000Z"
     },
     {
+      "id": "07eb263f703ad5bfe390f9f62677d5a8bebfbf0e05d035b10d684d1162d43064",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Alphamin Allocates Bisie Tin Concentrate to New US Smelter - News and Statistics",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-09T15:30:51.000Z"
+    },
+    {
       "id": "c30bf0ffcf95b64a3731a1e1b45bc62c33fd2aae5988dcc5dcf2523f5fb9fe23",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3747,6 +3767,16 @@
       "publishedAt": "2026-11-09T05:10:39.000Z"
     },
     {
+      "id": "813dd81217bfd1912f39828bf307ca30ccce5d838626fcf9609731f38f1a91fe",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Rio Tinto approves US$144 million investment to advance Resolution Copper project",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Global Mining Review",
+      "publishedAt": "2026-11-09T15:08:21.000Z"
+    },
+    {
       "id": "a3c3f4939c7e2d4c79c8f813fa265784293708be91417738a28be8875590a762",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -4367,14 +4397,14 @@
       "publishedAt": "2026-11-07T10:19:48.000Z"
     },
     {
-      "id": "fa43f5e591aa602281db1258e171d4dce60a44ba06d942158033f9e0bc23f234",
+      "id": "dd04f5e641420c6817166f5349d438ecee5f175151099f75dbb6778df262196e",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Copper rises on supply concerns in China",
+      "title": "Montero Licenses BHP Historical Exploration Data for the Avispa Copper-Molybdenum Project, Chile",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "www.marketscreener.com",
-      "publishedAt": "2026-11-09T08:06:24.000Z"
+      "source": "TMX Newsfile",
+      "publishedAt": "2026-11-09T19:40:00.000Z"
     },
     {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
@@ -4897,16 +4927,6 @@
       "publishedAt": "2026-11-09T07:16:49.000Z"
     },
     {
-      "id": "881e49f1f9333d9c29d85275826596176ef37eee0778e0a4a561be0b0b056386",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Kings volleyball grounds Jets for district title",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Mining Gazette",
-      "publishedAt": "2026-11-09T06:52:08.000Z"
-    },
-    {
       "id": "fa5c5ab14da9a17828e9d90a661fe95352640f85c53ee45f783810bd49ff4b32",
       "commodity": "TIN",
       "importance": "MEDIUM",
@@ -4927,84 +4947,64 @@
       "publishedAt": "2026-11-09T05:03:04.000Z"
     },
     {
-      "id": "d0890f183a938b355de4d3ec854536c25f55ceb55c8aef5d1530d2071a9fc7fa",
+      "id": "4d3e63b270a9f6d80ac5d04f3d0bfe436a8060a2262be291b38bb7ca17fdaa0b",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "UBS Adjusts Jiangxi Copper's Price Target to HK$38",
+      "title": "Kast and Quiroz's Maneuver: The Inflated Figures of Codelco as a Pretext for Copper Privatization",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "www.marketscreener.com",
-      "publishedAt": "2026-11-09T01:12:15.000Z"
+      "source": "elciudadano.com",
+      "publishedAt": "2026-11-09T19:23:57.000Z"
     },
     {
-      "id": "38dd8a5ae266636002f376cb8ab24ce9c8e3fe8c3f030df76072083f414163c3",
-      "commodity": "ALUMINUM",
+      "id": "d4eb7d05a8f9862c644b4b9d0973fff892123febbb6e4d0ae2f87927cdbf737f",
+      "commodity": "TIN",
       "importance": "MEDIUM",
-      "title": "China's 6063 Aluminum Billet Inventory in Two Regions Falls on November 9",
+      "title": "Alphamin directs Congo tin to new US smelter",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Northern Miner",
+      "publishedAt": "2026-11-09T18:47:03.000Z"
+    },
+    {
+      "id": "89e1a988a78c32e8f01551ac3dbf28c6219e0e204f78eae8cc8cd5b3a0462ab5",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Codelco, Pucobre win permit for $870M copper project",
       "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
       "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-11-09T01:26:00.000Z"
+      "source": "The Northern Miner",
+      "publishedAt": "2026-11-09T17:42:12.000Z"
     },
     {
-      "id": "9fbd92af7bd984a7f195ee2f13f9b58107b6acd67cc91b2da9e8ab9191231d48",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "China’s Copper Import Premium Hit A Record As Supply Tightened",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Finimize",
-      "publishedAt": "2026-11-09T00:10:17.000Z"
-    },
-    {
-      "id": "7ac9eef07b3c1d8a8f53f830ca1b74d4b7b7943845899c55dd55e480d3f03766",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Form 4 Southern Copper Corp.: Lerdo de Tejada Leonardo Contreras (Director, CEO) For: 30 October",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com Canada",
-      "publishedAt": "2026-11-08T23:04:10.000Z"
-    },
-    {
-      "id": "3e242f5ba1eae74ba2c691c29d496fa8aae4dabb0535ba3dd5bd2d1e70ccf7e0",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "BTV Explores: Gold, Silver & Copper Companies Advancing Major Mining Projects",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing News Network",
-      "publishedAt": "2026-11-06T13:54:19.000Z"
-    },
-    {
-      "id": "ec5eb922b3fb8aee74574f88f1babbc68d7fefb2459c579413c0d72e37805eb6",
+      "id": "67f5dde9f60b703f0808fef69f1833d43cd2f5f1f7a541df195f495717667dcd",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "람동성: 닥농 알루미늄 전해 공장에 안정적인 전력 공급 보장",
+      "title": "Ford F-150 Production Numbers For October Prove Aluminum Crisis Truly Over",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-11-08T06:43:41.000Z"
+      "source": "Ford Authority",
+      "publishedAt": "2026-11-09T16:54:37.000Z"
     },
     {
-      "id": "6240aa9d4c63236a69e23274027242cda8f3607212b65b23b3c08837af885ded",
+      "id": "17a673290ce73d57a4c93af176be5445f83491612a430c9c9d1655d6770f4773",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Alphamin Resources signs US tin smelting deal",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "www.mining-journal.com",
+      "publishedAt": "2026-11-09T16:33:18.000Z"
+    },
+    {
+      "id": "ea81b1cceeb0f4b57d31f7170050b35cdb80e206d612ffa8db0c4398f09900bd",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "Valor Overseas Trading Expands Commercial Purchasing and Merchant Supply for A7 Aluminium Ingots and UBC Scrap",
+      "title": "Barclays maintains Century Aluminum at Equal-Weight, lowers price target to $39 from $40",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "The Conway Daily Sun",
-      "publishedAt": "2026-11-08T05:15:03.000Z"
-    },
-    {
-      "id": "4f60322e21c4745d4c1d6a8233e68b150463ccffaee65e06098af6fb7f5efbfc",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Zambia Copper Refining Capacity vs Western Supply Chain Strategy",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Rare Earth Exchanges",
-      "publishedAt": "2026-11-08T09:28:57.000Z"
+      "source": "TradingView",
+      "publishedAt": "2026-11-09T15:26:18.000Z"
     }
   ]
 }
