@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-08T22:29:53.335Z",
+  "generatedAt": "2026-11-09T01:59:53.297Z",
   "counts": {
-    "PENDING": 491,
+    "PENDING": 495,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -505,6 +505,26 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-11-04T22:47:06.000Z"
+    },
+    {
+      "id": "0227ecac992dc698416c001ce5f76aff0f5fee19d60095435a3745ebf3f60d9b",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "Aluminium Ice Scoop Beaumont 24oz - Large Capacity, Durable, For Kitchen, Bar, Party, Wedding Scoops For Food",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "umlconnector.com",
+      "publishedAt": "2026-11-08T23:12:15.000Z"
+    },
+    {
+      "id": "5831c22b01605eaaa5e46f62c6d25d8c5f59c5acdba61d9cbe7a884d61dad4f1",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "[구리 가격] 중국 재고 24% 급감…양산항 프리미엄 217.50달러 사상 최고",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "산업일보",
+      "publishedAt": "2026-11-08T22:44:16.000Z"
     },
     {
       "id": "1f1cff1ac56e52366c06bde41037ef8d4f4bb9d615c4017ac4b4094b9aac0862",
@@ -2657,6 +2677,16 @@
       "publishedAt": "2026-11-08T10:51:41.000Z"
     },
     {
+      "id": "20bffc51165907f91df0a8107774446f5c1d86d8fe771cfca806c7c783db8d66",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "원자재 거래업체 트라피구라, 中 구리 공급난에 물량 확보전…현물 프리미엄 사상 최고",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "더구루",
+      "publishedAt": "2026-11-09T00:08:20.000Z"
+    },
+    {
       "id": "37b80adf9cb3d9214281ef75e1e24555570302b1a68b8557a6c8711a999f9997",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -2915,16 +2945,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-11-04T00:30:00.000Z"
-    },
-    {
-      "id": "e9ee156c1fa3e8dcadfa4431554338e859552b74593e8356c50537bc8b52bb17",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Metals broadly gained, LME tin led the gains, LME copper, LME zinc, LME lead, and SHFE silver strengthened, COMEX gold and silver posted weekly gains [Overnight Market]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-10T00:24:00.000Z"
     },
     {
       "id": "ad922361091a93a012d69d67d2ade2474dfcf3ca58acc820dcff7d2a5e771865",
@@ -4797,6 +4817,36 @@
       "publishedAt": "2026-11-08T19:13:40.000Z"
     },
     {
+      "id": "08aed1416571949740a08afaa94673ed8599b4a9be775f567871c83470e5c2f8",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "삼성증권, 금·은·구리 가격 상승·하락에 투자하는 ETN 6종 상장",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "디지털데일리",
+      "publishedAt": "2026-11-09T01:57:52.000Z"
+    },
+    {
+      "id": "3895d48ead51786dbb0761555e1afafe40739c7eed00cf9f8c7b5db7607ab602",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "11월 알루미늄판 가격 톤당 38만원 인하",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "철강금속신문",
+      "publishedAt": "2026-11-08T23:39:51.000Z"
+    },
+    {
+      "id": "7ac9eef07b3c1d8a8f53f830ca1b74d4b7b7943845899c55dd55e480d3f03766",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Form 4 Southern Copper Corp.: Lerdo de Tejada Leonardo Contreras (Director, CEO) For: 30 October",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com Canada",
+      "publishedAt": "2026-11-08T23:03:45.000Z"
+    },
+    {
       "id": "3e242f5ba1eae74ba2c691c29d496fa8aae4dabb0535ba3dd5bd2d1e70ccf7e0",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4835,16 +4885,6 @@
       "codexStatus": "PENDING",
       "source": "Rare Earth Exchanges",
       "publishedAt": "2026-11-08T09:28:57.000Z"
-    },
-    {
-      "id": "3a96c77ed10d2975bb9e3568c7553d41751fd70df0d29d36d41190d729cdc91c",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Metals X targets full takeover of First Tin",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Freddie Mitchell",
-      "publishedAt": "2026-10-09T14:40:15.000Z"
     },
     {
       "id": "43363be87621502551b98eddf263909c909013e9ac59d20aca69c6843bc24bd8",

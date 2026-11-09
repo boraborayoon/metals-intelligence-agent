@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T22:29:53.335Z",
+  "generatedAt": "2026-11-09T01:59:53.297Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -2048,6 +2048,81 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-05T02:31:27.387Z",
       "updatedAt": "2026-11-05T02:31:27.387Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "0227ecac992dc698416c001ce5f76aff0f5fee19d60095435a3745ebf3f60d9b",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Aluminium Ice Scoop Beaumont 24oz - Large Capacity, Durable, For Kitchen, Bar, Party, Wedding Scoops For Food",
+      "summary": "Aluminium Ice Scoop Beaumont 24oz - Large Capacity, Durable, For Kitchen, Bar, Party, Wedding Scoops For Food umlconnector.com",
+      "source": "umlconnector.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzR2ak9jeldXQmdlOXdvYzl2dGl6UUNtUHJoc2NLRjkwZjVjNDhkWHlNdXFQeU9GVEIyY211eFZIR2dGekN1Z1ZRc2ZRYms4RHVsakJRYXd4eFVvamhJX29xb01MRmNPcWl3RVdPYWlqb3NBRnpjanRhVFhqaTVnUk10bUpDNk1sc0pwMkNHVkJTdkc4?oc=5",
+      "publishedAt": "2026-11-08T23:12:15.000Z",
+      "priority": 49,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Capacity",
+        "categories": [
+          "CAPACITY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Aluminium Ice Scoop Beaumont 24oz - Large Capacity, Durable, For Kitchen, Bar, Party, Wedding Scoops For Food umlconnector.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-09T01:59:53.297Z",
+      "updatedAt": "2026-11-09T01:59:53.297Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "5831c22b01605eaaa5e46f62c6d25d8c5f59c5acdba61d9cbe7a884d61dad4f1",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "[구리 가격] 중국 재고 24% 급감…양산항 프리미엄 217.50달러 사상 최고",
+      "summary": "[구리 가격] 중국 재고 24% 급감…양산항 프리미엄 217.50달러 사상 최고 산업일보",
+      "source": "산업일보",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBqd3lxUnNoNTJqTGRITFVFeURucnZUcEc1QkVTXzMtQVZtUFRxRkhJeGpHNjg3RzFYQ2FmY0NKdzJ1WVFB?oc=5",
+      "publishedAt": "2026-11-08T22:44:16.000Z",
+      "priority": 49,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "PRICE",
+          "INVENTORY",
+          "CHINA",
+          "FX"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[구리 가격] 중국 재고 24% 급감…양산항 프리미엄 217.50달러 사상 최고 산업일보",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-09T01:59:53.297Z",
+      "updatedAt": "2026-11-09T01:59:53.297Z",
       "analyzedAt": null
     },
     {
@@ -10374,6 +10449,43 @@
       "analyzedAt": null
     },
     {
+      "id": "20bffc51165907f91df0a8107774446f5c1d86d8fe771cfca806c7c783db8d66",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "원자재 거래업체 트라피구라, 中 구리 공급난에 물량 확보전…현물 프리미엄 사상 최고",
+      "summary": "원자재 거래업체 트라피구라, 中 구리 공급난에 물량 확보전…현물 프리미엄 사상 최고 더구루",
+      "source": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91bHUzcDM4WDU0Vm4tUHFDSXlDQm4wTzdCb00xelFEZFFBTld4eElqV09iNzNoVGgxQjJDZFNuWnVQSmFFaF9ydTJjTUdOdFRjWUZFLWJOaS1OR3lJaXJIWWNySQ?oc=5",
+      "publishedAt": "2026-11-09T00:08:20.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "PRICE",
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "원자재 거래업체 트라피구라, 中 구리 공급난에 물량 확보전…현물 프리미엄 사상 최고 더구루",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-09T01:59:53.297Z",
+      "updatedAt": "2026-11-09T01:59:53.297Z",
+      "analyzedAt": null
+    },
+    {
       "id": "37b80adf9cb3d9214281ef75e1e24555570302b1a68b8557a6c8711a999f9997",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -11355,42 +11467,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-04T01:23:55.274Z",
       "updatedAt": "2026-11-04T01:23:55.274Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "e9ee156c1fa3e8dcadfa4431554338e859552b74593e8356c50537bc8b52bb17",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Metals broadly gained, LME tin led the gains, LME copper, LME zinc, LME lead, and SHFE silver strengthened, COMEX gold and silver posted weekly gains [Overnight Market]",
-      "summary": "Metals broadly gained, LME tin led the gains, LME copper, LME zinc, LME lead, and SHFE silver strengthened, COMEX gold and silver posted weekly gains [Overnight Market] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPVms1RWo1YUZ6TTM4Skc5OUZWV01kRjZPNmhFbW54ZGQyQjdEVlpoejhzLUpBN1U4SVFkbWVfYVl2NVhFaUlmdU9Sai1mOFRUTDNKLU1nYjROQjI1QnUwRDY2UEE4SVF4V21hM040R3gwTnRzdjBfZ2dUUFVzR1dCR0E2S0UzZllWT1pCZ3ZCMW1yVDhPTHFNT01ObllTQVluVWcwN2FiMVZGOUh4a0VPZGhoaURXTXlmZzlJbU51b3A1b2VhSHpOMEF3d2pocG1PUlNSV3hualZWdXB6c3Y5bWFpcVR0NmpLMEtrRW5HV2Y4YjBSaDc3dnVvdUhac2xrQ1JpX1VEZUZTclNGZUU3ZnN5SzdSam1HTzVpaXo4RkNXeGhNaVdPTWhfRkdWdw?oc=5",
-      "publishedAt": "2026-10-10T00:24:00.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Metals broadly gained, LME tin led the gains, LME copper, LME zinc, LME lead, and SHFE silver strengthened, COMEX gold and silver posted weekly gains [Overnight Market] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-10T02:25:45.845Z",
-      "updatedAt": "2026-10-10T02:25:45.845Z",
       "analyzedAt": null
     },
     {
@@ -18371,6 +18447,114 @@
       "analyzedAt": null
     },
     {
+      "id": "08aed1416571949740a08afaa94673ed8599b4a9be775f567871c83470e5c2f8",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "삼성증권, 금·은·구리 가격 상승·하락에 투자하는 ETN 6종 상장",
+      "summary": "삼성증권, 금·은·구리 가격 상승·하락에 투자하는 ETN 6종 상장 디지털데일리",
+      "source": "디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WSUFocXhRb212bXVMZXkzS25HTU8wNE1HbnFpVWVYYWgxazhfS2NoR3oxZUhVOXcwZ2RxdUp5Z2JuUXg5LTc5cjNzbzBhdmY3NTZoOFBhR2E3S0x6cHJzNXpB?oc=5",
+      "publishedAt": "2026-11-09T01:57:52.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "삼성증권, 금·은·구리 가격 상승·하락에 투자하는 ETN 6종 상장 디지털데일리",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-09T01:59:53.297Z",
+      "updatedAt": "2026-11-09T01:59:53.297Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "3895d48ead51786dbb0761555e1afafe40739c7eed00cf9f8c7b5db7607ab602",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "11월 알루미늄판 가격 톤당 38만원 인하",
+      "summary": "11월 알루미늄판 가격 톤당 38만원 인하 철강금속신문",
+      "source": "철강금속신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xVEpFUmUzcUZHNlotUU9aSDhRZmZPWkZMYjBLTG9iVnowMkl0V2c5SnVfa1dvdHZ4VVI2LVFOSldwcGNla2dEdkV6OC0tSkF0RHo1eGpuMW1WOUwwRHZhSlRpRjFOdWFHQmc?oc=5",
+      "publishedAt": "2026-11-08T23:39:51.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "11월 알루미늄판 가격 톤당 38만원 인하 철강금속신문",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-09T01:59:53.297Z",
+      "updatedAt": "2026-11-09T01:59:53.297Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "7ac9eef07b3c1d8a8f53f830ca1b74d4b7b7943845899c55dd55e480d3f03766",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Form 4 Southern Copper Corp.: Lerdo de Tejada Leonardo Contreras (Director, CEO) For: 30 October",
+      "summary": "Form 4 Southern Copper Corp.: Lerdo de Tejada Leonardo Contreras (Director, CEO) For: 30 October Investing.com Canada",
+      "source": "Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPanpCSHg2ckQ1NlFWWngxVS1LTDRrcUFoUy1BNTVPWlhSX2NTMHBfTTI4YjlObzl1UmhFZ1ZISWxObzBkczNXWjRCV2FRV2FqVjAwUUpwMlpJalFVSk0xYjRnU19qR1Vna1k1dXFPcVdfdFotTFI3QjdTZ0JwalJEaGtBVnJfblZmdWZRRlN2RnRCOXhnQVlMSE1kWndRckYtem9kRnJyZldlbUVRanNyTFRyV3M3Q2VGUkdER0lFQzdKQmxoMmJfQ0g3eE15dFA3VVFhNTI1MExNRzJzZ1FWLTU2TVQ4dw?oc=5",
+      "publishedAt": "2026-11-08T23:03:45.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Form 4 Southern Copper Corp.: Lerdo de Tejada Leonardo Contreras (Director, CEO) For: 30 October Investing.com Canada",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-09T01:59:53.297Z",
+      "updatedAt": "2026-11-09T01:59:53.297Z",
+      "analyzedAt": null
+    },
+    {
       "id": "3e242f5ba1eae74ba2c691c29d496fa8aae4dabb0535ba3dd5bd2d1e70ccf7e0",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18516,43 +18700,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-08T18:30:55.558Z",
       "updatedAt": "2026-11-08T18:30:55.558Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "3a96c77ed10d2975bb9e3568c7553d41751fd70df0d29d36d41190d729cdc91c",
-      "commodity": "TIN",
-      "subCommodity": null,
-      "title": "Metals X targets full takeover of First Tin",
-      "summary": "Fir Australian tin miner Metals X (ASX: MLX) has made an offer to acquire tin explorer First Tin (LSE: 1SN). Metals X, co-owner of the Renison tin mine in Tasmania, already holds a stake of approximately 23% in First Tin, following its initial investment in 2024… Read the full article for free by registering on […] The post Metals X targets full takeover of First Tin appeared first on International Tin Association.",
-      "source": "Freddie Mitchell",
-      "url": "https://www.internationaltin.org/metals-x-targets-full-takeover-of-first-tin",
-      "publishedAt": "2026-10-09T14:40:15.000Z",
-      "priority": 28,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE",
-          "M&A"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Fir Australian tin miner Metals X (ASX: MLX) has made an offer to acquire tin explorer First Tin (LSE: 1SN). Metals X, co-owner of the Renison tin mine in Tasmania, already holds a stake of approximately 23% in First Tin, following its initial investment in 2024… Read the full article for free by registering on […] The post Metals X targets full takeover of First Tin appeared first on International Tin Association.",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-08T22:29:53.335Z",
-      "updatedAt": "2026-11-08T22:29:53.335Z",
       "analyzedAt": null
     },
     {
