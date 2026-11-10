@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T20:45:44.396Z",
+  "generatedAt": "2026-11-10T02:58:05.492Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -478,51 +478,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-15T15:45:00.067Z",
       "updatedAt": "2026-10-15T15:45:00.067Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "9aabfabc338f5d07135f3d5d2a16bb7a8d67cbefed6c7ca175cf043dc7c63b8f",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Chile's Centinela copper mine, unions to resume talks Tuesday amid strike",
-      "summary": "Chile's Centinela copper mine, unions to resume talks Tuesday amid strike TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSXA2THBPZnAxZmVIcWl4MUJLSVJzYkFoY3lROFBwa2hMdDdzSzgyUHFtZU5namRwTlVlOEFWdzBmQlh0MXJfaV9Xam96bnVGdGlVMVNSOTI5a1hwNnJ3UTJkeWdvM0c0MUxXRUZ0SHVid2hCU1FLaGE4MEZMeW5fNGVCT2VMRUhfMzhia19EbHNEN1RrcWN5cEtKN1hKSEpLaU1uRlQ1MUxJZXc4QVRUT3hhQ09lZ3VJa09IbmZrNFhRZUowbzZfZFFhV195WmFRSF91ZVdOOVRqdw?oc=5",
-      "publishedAt": "2026-10-10T22:27:47.000Z",
-      "priority": 62,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "MINE",
-          "STRIKE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Chile's Centinela copper mine, unions to resume talks Tuesday amid strike TradingView",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-10T22:57:57.730Z",
-      "updatedAt": "2026-10-10T22:57:57.730Z",
       "analyzedAt": null
     },
     {
@@ -16963,6 +16918,46 @@
       "analyzedAt": null
     },
     {
+      "id": "93862e5d2280e279846e81bd9cc4a795e38bb3abee78a0fe2cd6f028ec9aacd3",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Fund sellers, China buyers squeeze copper's tariff trade: Andy Home",
+      "summary": "Fund sellers, China buyers squeeze copper's tariff trade: Andy Home TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV3VjeDNyT0N3aHFzbzVxVlI1RUZxYWNFTzk5Q1ZvdE1tamFlZ3Zqb1VLUG5wRWRTR2VWQ3ZkcE4tb25IM2dFeFhvOGpaZXNMVmlNN2RGQlQ5UmIzZER4LTFFVlB1Mm5td2dWd3locjVXV2FkYlFjbkx0ak5YZVZRaEppTXhpYWhKbXltMko5czBydW5JLVpBY1B0LVB5NVJNek9KOGYwczk4eXNSSFkyLUhtV05JTkJCdVY2ODhCbUxqb1ZhN0lBOXV4R1JTQkFF?oc=5",
+      "publishedAt": "2026-11-09T23:00:00.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "TRADE",
+          "TARIFF",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Fund sellers, China buyers squeeze copper's tariff trade: Andy Home TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-10T02:58:05.492Z",
+      "updatedAt": "2026-11-10T02:58:05.492Z",
+      "analyzedAt": null
+    },
+    {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18933,42 +18928,6 @@
       "analyzedAt": null
     },
     {
-      "id": "4d3e63b270a9f6d80ac5d04f3d0bfe436a8060a2262be291b38bb7ca17fdaa0b",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Kast and Quiroz's Maneuver: The Inflated Figures of Codelco as a Pretext for Copper Privatization",
-      "summary": "Kast and Quiroz's Maneuver: The Inflated Figures of Codelco as a Pretext for Copper Privatization elciudadano.com",
-      "source": "elciudadano.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU0ItRGFOaXhlLVQ4T2tKbUo4MS1HVFkzTlFqUFlGTDBCa09OcjdwUlVQZElQTERiYTlQdmJLT29xUjRKUkl0SUh4TENZaW5TenJWQzBiSDFQSjVPa1NkUU9PTGNreXN5aWQtVHJqd1U3S1Z0cGxuWVVNNlVDcjVQVE1MUlI0QVRqMnFMVXFKTmwtbkY3QWNIYTU1cTQxMXpYUV80UUR4T0NmWjlfbkZsWENlLXVlYVhod0hiSXZRS2l6bEVrVVp2NzJHWlpyUQ?oc=5",
-      "publishedAt": "2026-11-09T19:23:57.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Kast and Quiroz's Maneuver: The Inflated Figures of Codelco as a Pretext for Copper Privatization elciudadano.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-09T20:45:44.396Z",
-      "updatedAt": "2026-11-09T20:45:44.396Z",
-      "analyzedAt": null
-    },
-    {
       "id": "d4eb7d05a8f9862c644b4b9d0973fff892123febbb6e4d0ae2f87927cdbf737f",
       "commodity": "TIN",
       "subCommodity": null,
@@ -19044,42 +19003,6 @@
       "analyzedAt": null
     },
     {
-      "id": "67f5dde9f60b703f0808fef69f1833d43cd2f5f1f7a541df195f495717667dcd",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Ford F-150 Production Numbers For October Prove Aluminum Crisis Truly Over",
-      "summary": "Ford F-150 Production Numbers For October Prove Aluminum Crisis Truly Over Ford Authority",
-      "source": "Ford Authority",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWFExZjVQQnFlVnhFdUtNQXYwSmhyMmJFcUpXcFZadWtIXy1RNDQyTzVLc0ZBenZnZUQzTXZMSzY5UnBWMGE0cmJhRF9EYzZBR1BSQWxvRUhvc2RjS0l5dTZrRGduU0gwZFM5SmRYT0Z2TkZ3bWhHLXh2NENmbjRYWl92cHg0WG4wMjVqZEJGUF9WNllXdmUxSkVjRG1jVHM3YkctWURBSE9BTFU2aVE?oc=5",
-      "publishedAt": "2026-11-09T16:54:37.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Ford F-150 Production Numbers For October Prove Aluminum Crisis Truly Over Ford Authority",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-09T20:45:44.396Z",
-      "updatedAt": "2026-11-09T20:45:44.396Z",
-      "analyzedAt": null
-    },
-    {
       "id": "17a673290ce73d57a4c93af176be5445f83491612a430c9c9d1655d6770f4773",
       "commodity": "TIN",
       "subCommodity": null,
@@ -19117,14 +19040,86 @@
       "analyzedAt": null
     },
     {
-      "id": "ea81b1cceeb0f4b57d31f7170050b35cdb80e206d612ffa8db0c4398f09900bd",
+      "id": "d1696a41cb9c18885d780ff7ed651f50c18e5baaa68da2903ed04ec46fb1e627",
       "commodity": "ALUMINUM",
       "subCommodity": null,
-      "title": "Barclays maintains Century Aluminum at Equal-Weight, lowers price target to $39 from $40",
-      "summary": "Barclays maintains Century Aluminum at Equal-Weight, lowers price target to $39 from $40 TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPME8xa09VMkRvUDBCd3dBMDZ2UTh6SXZRRk1ON29ZajFGeGhsM0dvNVpyUnNlUWEzMG4taDFNbl9yTW1hZFF0WkNBRkZLRVphX1NYajBMOGdaN3JQWmdVUVlNQXpVR3BCeWs1amxET19UVkZ5Y0ZzUTlXeG9ydUdLUmx4bXYxSW5SZFBEMXJibGlFbU1tV2F5NGVKMFdubC02elhUZDJJQzVqdWR0eTZ6eUFTWTlNazhTZmd2RmNxYVkyYkVYdUJUeW84RXljNGFLMDBwQWtjWkpTVnZIUUJ2MQ?oc=5",
-      "publishedAt": "2026-11-09T15:26:18.000Z",
+      "title": "Canada expands US tariff exemptions, cuts some aluminum relief",
+      "summary": "Canada expands US tariff exemptions, cuts some aluminum relief Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMjQwMkhKOFdINGd6ZVRaRVI1RmtzUjN4ZHkyZVk0aFFUOXJvZEYyS0N6eU1TZXNBVXE5anZMNHZIOEVkek1SVjItVG91SEs2em5XZHF2QVV2RW9QWVlIUzdpNHVqUDF3R1RoSHVvV1RMQUpGM1p1S1E4SVByVkFrQ2MwRmZ0QzBpUml4Y0JBMFBPNE5vYzk0T1p6Z29fNi1uUEIyLWNUc2RXNnozbzRzTy0ybUYwZ3EwOFHSAb8BQVVfeXFMTUNabFZnNS01NFQ0bWIyS0NDekYxOWR3cDFjSFRsZ1l4NVVFQjBIQnJDVUlxV3p4bUoxQ214NW9Vdm1jb0NpbUZIaWRxeHJCSllSSFMxSk0zNXJIU1piYzNPSFZOMTJPakZZU0p6YUVFUzdFUmRKaGVpU01UbTdYcXE1NzBlSmw5dXhaZnVJYjhRM3lKQjV1NjB2RVhxZ0dsamVXTU8tNDVxNWR1T2Z2cjMzTVdoWGRYX21vX3BEZnM?oc=5",
+      "publishedAt": "2026-11-10T01:52:16.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Canada expands US tariff exemptions, cuts some aluminum relief Moneycontrol.com",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-10T02:58:05.492Z",
+      "updatedAt": "2026-11-10T02:58:05.492Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "502fbfdf50d0dd2ddf0b4d16e3911a8c113e5b783dd959ad303c0f2645a15cbf",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Copper Plate/Sheet and Strip: End-Use Demand Continues to Improve, October Operating Rate Beats Expectations",
+      "summary": "Copper Plate/Sheet and Strip: End-Use Demand Continues to Improve, October Operating Rate Beats Expectations Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPYk5POTNDZ3RyNzdYMFhsTjR3VDYtMkZJNEdHeW9CcmxDWUNKX1REcTN3YVFVNjJxTF9HZjczdlNfb0xhZHBlMnUtV2tVamZlMFJOWnpzWEIzZl9zVkNQcHg2QVhfRERMVlhNRmVVeDlCQ0o1UlRBR1MzVWdBWTAwZERMZGEwV29veXBZQW93c0tzd05YbTdBZk0zVWJmWmV1T2pBWHlqSHF5eUZOYUNLNWhuU294UUtHaTBkWlc1LVpkWjY3UUtyUUlqUFp6RTdVc3VCZ1AtWklpaW4yWGFWVlhEUHdxdHl0MXFqaTIxb1VkdTJXcmdLeHNUMGlLdFo3dmFmWnpiWlRaRExvcW1FYQ?oc=5",
+      "publishedAt": "2026-11-10T01:44:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Copper Plate/Sheet and Strip: End-Use Demand Continues to Improve, October Operating Rate Beats Expectations Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-10T02:58:05.492Z",
+      "updatedAt": "2026-11-10T02:58:05.492Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "5a0a186c051064c6eb56fe41dc346f6976cb3fd47ad38dbc6a37c5370d6bfcbe",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "[구리 가격] 중국 현물 프리미엄 230달러 사상 최고…급락 후 반등",
+      "summary": "[구리 가격] 중국 현물 프리미엄 230달러 사상 최고…급락 후 반등 산업일보",
+      "source": "산업일보",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5kQjhpdlI4ZUNlZERvNnFOWlZaWXJERTFuWHZzQzhIZDJ1dU52TG14a1pJTnpCLU5GZXhsUWlYb0tsWGZq?oc=5",
+      "publishedAt": "2026-11-09T22:54:04.000Z",
       "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
@@ -19133,11 +19128,13 @@
         "procurementImpact": "UNCLEAR",
         "category": "General",
         "categories": [
-          "PRICE"
+          "PRICE",
+          "CHINA",
+          "FX"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Barclays maintains Century Aluminum at Equal-Weight, lowers price target to $39 from $40 TradingView",
+        "summary": "[구리 가격] 중국 현물 프리미엄 230달러 사상 최고…급락 후 반등 산업일보",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -19148,8 +19145,8 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-11-09T20:45:44.396Z",
-      "updatedAt": "2026-11-09T20:45:44.396Z",
+      "queuedAt": "2026-11-10T02:58:05.492Z",
+      "updatedAt": "2026-11-10T02:58:05.492Z",
       "analyzedAt": null
     }
   ]

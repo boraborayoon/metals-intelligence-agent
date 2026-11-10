@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T20:45:44.396Z",
+  "generatedAt": "2026-11-10T02:58:05.492Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -115,16 +115,6 @@
       "codexStatus": "PENDING",
       "source": "IndexBox",
       "publishedAt": "2026-10-15T12:10:31.000Z"
-    },
-    {
-      "id": "9aabfabc338f5d07135f3d5d2a16bb7a8d67cbefed6c7ca175cf043dc7c63b8f",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Chile's Centinela copper mine, unions to resume talks Tuesday amid strike",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-10T22:27:47.000Z"
     },
     {
       "id": "28a4e1d10db5401962b900a6655c48832559ce1b585129a7e52a51b4dbc9b8aa",
@@ -4407,6 +4397,16 @@
       "publishedAt": "2026-11-09T19:40:00.000Z"
     },
     {
+      "id": "93862e5d2280e279846e81bd9cc4a795e38bb3abee78a0fe2cd6f028ec9aacd3",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Fund sellers, China buyers squeeze copper's tariff trade: Andy Home",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-11-09T23:00:00.000Z"
+    },
+    {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4947,16 +4947,6 @@
       "publishedAt": "2026-11-09T05:03:04.000Z"
     },
     {
-      "id": "4d3e63b270a9f6d80ac5d04f3d0bfe436a8060a2262be291b38bb7ca17fdaa0b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Kast and Quiroz's Maneuver: The Inflated Figures of Codelco as a Pretext for Copper Privatization",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "elciudadano.com",
-      "publishedAt": "2026-11-09T19:23:57.000Z"
-    },
-    {
       "id": "d4eb7d05a8f9862c644b4b9d0973fff892123febbb6e4d0ae2f87927cdbf737f",
       "commodity": "TIN",
       "importance": "MEDIUM",
@@ -4977,16 +4967,6 @@
       "publishedAt": "2026-11-09T17:42:12.000Z"
     },
     {
-      "id": "67f5dde9f60b703f0808fef69f1833d43cd2f5f1f7a541df195f495717667dcd",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Ford F-150 Production Numbers For October Prove Aluminum Crisis Truly Over",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Ford Authority",
-      "publishedAt": "2026-11-09T16:54:37.000Z"
-    },
-    {
       "id": "17a673290ce73d57a4c93af176be5445f83491612a430c9c9d1655d6770f4773",
       "commodity": "TIN",
       "importance": "MEDIUM",
@@ -4997,14 +4977,34 @@
       "publishedAt": "2026-11-09T16:33:18.000Z"
     },
     {
-      "id": "ea81b1cceeb0f4b57d31f7170050b35cdb80e206d612ffa8db0c4398f09900bd",
+      "id": "d1696a41cb9c18885d780ff7ed651f50c18e5baaa68da2903ed04ec46fb1e627",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "Barclays maintains Century Aluminum at Equal-Weight, lowers price target to $39 from $40",
+      "title": "Canada expands US tariff exemptions, cuts some aluminum relief",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Moneycontrol.com",
+      "publishedAt": "2026-11-10T01:52:16.000Z"
+    },
+    {
+      "id": "502fbfdf50d0dd2ddf0b4d16e3911a8c113e5b783dd959ad303c0f2645a15cbf",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Plate/Sheet and Strip: End-Use Demand Continues to Improve, October Operating Rate Beats Expectations",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-11-09T15:26:18.000Z"
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-11-10T01:44:00.000Z"
+    },
+    {
+      "id": "5a0a186c051064c6eb56fe41dc346f6976cb3fd47ad38dbc6a37c5370d6bfcbe",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[구리 가격] 중국 현물 프리미엄 230달러 사상 최고…급락 후 반등",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "산업일보",
+      "publishedAt": "2026-11-09T22:54:04.000Z"
     }
   ]
 }
