@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T18:42:11.225Z",
+  "generatedAt": "2026-11-10T23:44:38.603Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -3140,53 +3140,6 @@
       "analyzedAt": null
     },
     {
-      "id": "f0bffbfc2f220d3af1eb3587bb3b504de4f521a256b6999d5653e54e36f2a8de",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "[구리 가격] 칠레 광산 파업·중국 수요에 상승…LME 재고 6주 최저",
-      "summary": "[구리 가격] 칠레 광산 파업·중국 수요에 상승…LME 재고 6주 최저 산업일보",
-      "source": "산업일보",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Pazl0XzkyUDFUQ1VHVjFUaV95elJSVGw1akdnXzRCbXFXRy1hQ1YycjUzcnJCNmtOWGtrZ0xxd2NMVUNt?oc=5",
-      "publishedAt": "2026-10-11T22:02:53.000Z",
-      "priority": 42,
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "PRICE",
-          "DEMAND",
-          "INVENTORY",
-          "MINE",
-          "STRIKE",
-          "CHINA"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "[구리 가격] 칠레 광산 파업·중국 수요에 상승…LME 재고 6주 최저 산업일보",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "파업"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-11T23:12:30.770Z",
-      "updatedAt": "2026-10-11T23:12:30.770Z",
-      "analyzedAt": null
-    },
-    {
       "id": "524916c6b19a0602e60fcdca5bf12bed22b131e51d80f9426866cb86ce53146d",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -5222,44 +5175,6 @@
       "analyzedAt": null
     },
     {
-      "id": "d9f07092a87c31342b44237551d8995a585a90489e9f21beb515ff51d1a7b84a",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Cobre Limited (ASX:CBE) Acquires Control of Chile Copper Mine for US$12M",
-      "summary": "Cobre Limited (ASX:CBE) Acquires Control of Chile Copper Mine for US$12M ABN Newswire",
-      "source": "ABN Newswire",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUZ3eU91Vy1BMHk0U0dYVkFWV0lKazU4YXF3V25EdXlJdE1IeWRiaXFkWGNyNnpKZlZuUldjMVVoVEdydURpQWFwR0cwV1NYVXFqNHFFT1c0cmxiZHpvSDN5NVdrNHpEcFpaOXBiQzB0WGp1dEREelhKbXhvemNvWUVIU3BPWVI0TndPUjZYTllyLWU2Y2R4Nk5nNmY3eHZnbEFOdlZMUTNEYVpHRm1vbTNCNDRJTXNBYVZJcw?oc=5",
-      "publishedAt": "2026-10-11T23:06:04.000Z",
-      "priority": 39,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Cobre Limited (ASX:CBE) Acquires Control of Chile Copper Mine for US$12M ABN Newswire",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-11T23:12:30.770Z",
-      "updatedAt": "2026-10-11T23:12:30.770Z",
-      "analyzedAt": null
-    },
-    {
       "id": "3373fd9aec0074aea2af0ea95eb8c21cf3ee5985ffbdd15e12daee5e68b564a9",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -5937,79 +5852,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-09T09:49:58.698Z",
       "updatedAt": "2026-11-09T09:49:58.698Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "cccf8d81b7da08b960713ab8300f159ada2d6a55cf4a7dacdacc5fa996243d71",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Federal and state governments come together to rescue Bell Bay Aluminium smelter",
-      "summary": "Federal and state governments come together to rescue Bell Bay Aluminium smelter PS News",
-      "source": "PS News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenNrcDJkbDdJeHRPZ3g1ck9ka2NCMmJlY0FOenJYRDAzaW1JdDRsM1BhWDlIZWVjNWxqTWpQVXUyNXdJRlB5QXhreUtZajZPYWtxZzZGWVdfdTA4T3V1LTJabi10Tkx5NGxHOHR4ZUdkWUFieWF4c1BabDY1NWo3WUJZZUswTTNIUUZqdG5QVlZkdi1MOTVMNHh2d3VZVElLZklqQlFfcW9UX2FGLVRv?oc=5",
-      "publishedAt": "2026-10-11T23:07:28.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Government Policy",
-        "categories": [
-          "SMELTER",
-          "POLICY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Federal and state governments come together to rescue Bell Bay Aluminium smelter PS News",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-11T23:12:30.770Z",
-      "updatedAt": "2026-10-11T23:12:30.770Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "5f9a8d05aea52686f4dea26bb37fc1cf28b66e67f14c494da0e1a11a4fea4380",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "비철 시황 - 가중되는 구리 공급 우려",
-      "summary": "비철 시황 - 가중되는 구리 공급 우려 Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HTEZ2YW0wYmF5TndrSUtYQU8xQ1ZlRFhGZzU3SUp3NG9tM040SEdnVW56MGN3ODB4YmFxRmp4bmdWZjJtdFdOd0dNVkFZUkRKVmthS3dzNTFqczk2Qkw5Ug?oc=5",
-      "publishedAt": "2026-10-11T23:44:00.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "비철 시황 - 가중되는 구리 공급 우려 Investing.com 한국어",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-12T02:26:16.248Z",
-      "updatedAt": "2026-10-12T02:26:16.248Z",
       "analyzedAt": null
     },
     {
@@ -10661,6 +10503,84 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-10T18:42:11.225Z",
       "updatedAt": "2026-11-10T18:42:11.225Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f507f9918a7f6228cf5170c595b6662b67c5a5dd2ac870d7c146224534767a5d",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Tibetan copper mine deploys 60 autonomous electric mining trucks",
+      "summary": "Tibetan copper mine deploys 60 autonomous electric mining trucks The Driven",
+      "source": "The Driven",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQXRDM2xfbnRhMUZLWFFWdFcyeXBVS2VsU243NjFTa0lQaFNQVUJCX0VsN0lBM2hiQkNlb1NuNHF4a2E2MFZRakJNdjlyMFdYM0MtaWxjLW55cC1XblBTMl9UakkxN1cyYjg5Z04tVFF4RGxtem41dHVGMzFqVURhS2Q4elV6enBRYXNnNWktOXdVSV9vVDRTbEV1X24wZw?oc=5",
+      "publishedAt": "2026-11-10T23:06:32.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Tibetan copper mine deploys 60 autonomous electric mining trucks The Driven",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-10T23:44:38.603Z",
+      "updatedAt": "2026-11-10T23:44:38.603Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "8fcf0cd725c5595db2d037cce4fbc24786cde597b067a859d652ccdae986b2a8",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "구리포천고속도로 40중 추돌사고...‘심정지 1명, 부상 24명’",
+      "summary": "구리포천고속도로 40중 추돌사고...‘심정지 1명, 부상 24명’ JTBC",
+      "source": "JTBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xdk0taEx2TDIxYWJJbmo4NXNUNVk4NWs1dHdaNkFBLU9KLWItVjJ6MVNPYmhBR2ZGZHZmbDhCSHpoWC1OTWQyZXQtNGFnQW9HYnF1Ug?oc=5",
+      "publishedAt": "2026-11-10T07:11:25.000Z",
+      "priority": 38,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Operational Accident",
+        "categories": [
+          "ACCIDENT"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "구리포천고속도로 40중 추돌사고...‘심정지 1명, 부상 24명’ JTBC",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "사고"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-10T23:44:38.603Z",
+      "updatedAt": "2026-11-10T23:44:38.603Z",
       "analyzedAt": null
     },
     {
@@ -19155,6 +19075,78 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-09T09:49:58.698Z",
       "updatedAt": "2026-11-09T09:49:58.698Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "650d87fcbe07261c57873ee35a1f2d84bd2f4b811519260c88ad70aa1cb67d13",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "Aluminium faces severe squeeze as London market awaits new supply",
+      "summary": "Aluminium faces severe squeeze as London market awaits new supply The Star",
+      "source": "The Star",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3NoMUN0SEE1OXhGVWQ0SXNPUVdJOTFac0hqTEpycHRGcmpCRjBlcFhqSHhOYllxVnBGaWh6SHZDcmFfRjNMUHB6VWx6UWk1YS11OGp5OU9lMXYwRVpYbXJsOXJqMDN0VktobVNWcXpuRXB1MkJkb1RKTHQyclJ6S1p3VnNxRmRERHRyNHJCckZSaUxOMWpROEFWWEp4Yk1MdmRvYmQ2MGV6QUZUa2lWWEd3dkk5Z1lpb0pfZl9reThUVXlM?oc=5",
+      "publishedAt": "2026-11-10T23:03:45.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Aluminium faces severe squeeze as London market awaits new supply The Star",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-10T23:44:38.603Z",
+      "updatedAt": "2026-11-10T23:44:38.603Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "43304c08e488b3d167988a374a3beb6b95c8e10fcb35eea06fa74084f33056f6",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "구리 도금 광택제 시장 2035년 전망: PCB 소형화와 전기차 전자수요가 성장 견인 - 뉴스 및 통계",
+      "summary": "구리 도금 광택제 시장 2035년 전망: PCB 소형화와 전기차 전자수요가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcWZJX0t4WFIycGxLdmNPYU1FZmtHV2Y0U0VZOWJWRU1pQ2htVUVmM29raVJUUzhCTlZpeDhobjBOb2s1RkpCcDZQRzJwbk9WdFM2bWlFd2hFczZkY2swb3JLZXluQXpzYmRmcVYwMXYxODVRVjRjVTNnR0pFS2JOTG9xVXB4a3ZHX3B6eHJxUWtXU2FFZ2lMTEhPS0lQUnMwOTFFNlRPSXRxZEJsa042MnJtMDAxTE9JTDVKb0RtWUkxSWZKb0Fma2pYeFlMOTJnRE92cjBR?oc=5",
+      "publishedAt": "2026-11-10T22:51:04.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "구리 도금 광택제 시장 2035년 전망: PCB 소형화와 전기차 전자수요가 성장 견인 - 뉴스 및 통계 IndexBox",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-10T23:44:38.603Z",
+      "updatedAt": "2026-11-10T23:44:38.603Z",
       "analyzedAt": null
     }
   ]
