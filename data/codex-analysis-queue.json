@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T23:44:38.603Z",
+  "generatedAt": "2026-11-11T03:07:15.376Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -700,52 +700,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-17T09:23:46.422Z",
       "updatedAt": "2026-10-17T09:23:46.422Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "f008db3f33a20c503425e59c046df805d771b63a78849d2f3a2f739674a0e06c",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Strike at Chile's Centinela Copper Mine; union expects production to halve in November",
-      "summary": "Strike at Chile's Centinela Copper Mine; union expects production to halve in November ChemNet News",
-      "source": "ChemNet News",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4QmVULVM4cUxlZzA4dVV6N3NrZ2h2SjJjc1pzdTNBRFBBNHVGR3F1Q1RsTzR5T3l0bmM2YTNJWmV4bzFrQU5qRUl6dThCR1Nyamc?oc=5",
-      "publishedAt": "2026-10-12T01:38:00.000Z",
-      "priority": 58,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "MINE",
-          "PRODUCTION",
-          "STRIKE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Strike at Chile's Centinela Copper Mine; union expects production to halve in November ChemNet News",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-12T09:47:10.014Z",
-      "updatedAt": "2026-10-12T09:47:10.014Z",
       "analyzedAt": null
     },
     {
@@ -3137,49 +3091,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-24T14:34:34.745Z",
       "updatedAt": "2026-10-24T14:34:34.745Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "524916c6b19a0602e60fcdca5bf12bed22b131e51d80f9426866cb86ce53146d",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "[원자재] 칠레 센티넬라 구리광산 700여명 파업 돌입… 직고용 22% 참여",
-      "summary": "[원자재] 칠레 센티넬라 구리광산 700여명 파업 돌입… 직고용 22% 참여 버핏연구소",
-      "source": "버핏연구소",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45WlJYU001bUxBRW1keFlNRlVVZk5lRjE4UUw3ZkxCUU5tQ0VvU3lpR25nbGVNUkVRQXlTQmliUXdTbUdMMm5KNF9RSEVJM3JFNHVXdERqV1BhN2FmYVJqVk1R?oc=5",
-      "publishedAt": "2026-10-12T00:57:17.000Z",
-      "priority": 42,
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "MINE",
-          "STRIKE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "[원자재] 칠레 센티넬라 구리광산 700여명 파업 돌입… 직고용 22% 참여 버핏연구소",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "파업"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-12T02:26:16.248Z",
-      "updatedAt": "2026-10-12T02:26:16.248Z",
       "analyzedAt": null
     },
     {
@@ -10584,41 +10495,42 @@
       "analyzedAt": null
     },
     {
-      "id": "c30bf0ffcf95b64a3731a1e1b45bc62c33fd2aae5988dcc5dcf2523f5fb9fe23",
-      "commodity": "COPPER",
+      "id": "cfbc17700389de61b590a19a50a6aa196fdda9d567ef8821551aa3713f3c96f0",
+      "commodity": "ALUMINUM",
       "subCommodity": null,
-      "title": "Two people killed in avalanche at El Teniente copper mine operated by Codelco in Chile",
-      "summary": "Two people killed in avalanche at El Teniente copper mine operated by Codelco in Chile ChemNet News",
-      "source": "ChemNet News",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aN09maXpvMHExdXFnZFVIclRDNGV6YmdSTVc0TXAxRl9NT3IyVk5lSWFGWUFoLUR0TE9lNWZya0EwblN5VFg4VVp1ZlNwSlBzUkE?oc=5",
-      "publishedAt": "2026-10-12T01:25:51.000Z",
-      "priority": 37,
+      "title": "[알루미늄 가격] 중국 수출 18% 증가에 3주 만의 최저…美 금리 인상 우려 가중",
+      "summary": "[알루미늄 가격] 중국 수출 18% 증가에 3주 만의 최저…美 금리 인상 우려 가중 산업일보",
+      "source": "산업일보",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9HZFRIZlVKYVlDNzdWZGpRR2h0dkVfcGw1eTRsdVVMcGc3RUVoUUJyMi1HSWdWMHpBSk11VDB0Y0RzUzgx?oc=5",
+      "publishedAt": "2026-11-11T00:50:11.000Z",
+      "priority": 38,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Mine",
+        "category": "General",
         "categories": [
-          "MINE"
+          "PRICE",
+          "EXPORT",
+          "CHINA",
+          "MACRO"
         ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Two people killed in avalanche at El Teniente copper mine operated by Codelco in Chile ChemNet News",
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[알루미늄 가격] 중국 수출 18% 증가에 3주 만의 최저…美 금리 인상 우려 가중 산업일보",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
         "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
+        "timeHorizon": "SHORT_TERM",
         "signals": [],
         "urgent": false
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-10-12T09:47:10.014Z",
-      "updatedAt": "2026-10-12T09:47:10.014Z",
+      "queuedAt": "2026-11-11T03:07:15.376Z",
+      "updatedAt": "2026-11-11T03:07:15.376Z",
       "analyzedAt": null
     },
     {
@@ -19147,6 +19059,80 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-10T23:44:38.603Z",
       "updatedAt": "2026-11-10T23:44:38.603Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "cb31de7e9d1c3b32abe5f4a6d37400c68de353f94d184cd37a40782b813c8178",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "중국의 알루미늄 재고가 다시 증가하면서 가격이 하락했습니다.",
+      "summary": "중국의 알루미늄 재고가 다시 증가하면서 가격이 하락했습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQW1RVzV0TVpBX0x4VG5tblRqMHg0cGVnWlkzdG9ad0dlaFZVVVZGNXI3Nl9xTVVCRWRoR2lMaEFKWmNOYXprd0xUNS1TTVhOaFNZZzUxSzZiZ2IzRDc5T1QtX1VzOEZreTNHOF8zZEszbVUtRXRfc3lLUTdkd1pEdUtlU09udw?oc=5",
+      "publishedAt": "2026-11-11T01:09:23.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "PRICE",
+          "INVENTORY",
+          "CHINA"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "중국의 알루미늄 재고가 다시 증가하면서 가격이 하락했습니다. Vietnam.vn",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-11T03:07:15.376Z",
+      "updatedAt": "2026-11-11T03:07:15.376Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "3a77cb9a103e3e6ab3fbfaf08c40430e310e660539e9ea1ca7be20295b206a5a",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Lux Copper expands Baird to district scale",
+      "summary": "Lux Copper expands Baird to district scale North of 60 Mining News",
+      "source": "North of 60 Mining News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUxpNW1jalg3YnVueWZFUVJKc2RHWlhzY213Smprc0U2SEhRZG5XTGo4MF9uSk52Y25Yd0p1YndEQTJYUmtTbUlzbm10T0pFT09NUHVtNGJqR3dTRG4xZXlveUJ2ald5RUtkUEhhMkNIZzBiTXZRaEVlMDNTb1c3MHZuLVVUUXA5a2pjSzdpV2pVOVB2VElLX05pRWZXN28zekprcnFhZHN2ZHI5S2taMDN2RGw?oc=5",
+      "publishedAt": "2026-11-11T00:26:16.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Lux Copper expands Baird to district scale North of 60 Mining News",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-11T03:07:15.376Z",
+      "updatedAt": "2026-11-11T03:07:15.376Z",
       "analyzedAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T23:44:38.603Z",
+  "generatedAt": "2026-11-11T03:07:15.376Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -165,16 +165,6 @@
       "codexStatus": "PENDING",
       "source": "The Lufkin Daily News",
       "publishedAt": "2026-10-17T03:02:43.000Z"
-    },
-    {
-      "id": "f008db3f33a20c503425e59c046df805d771b63a78849d2f3a2f739674a0e06c",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Strike at Chile's Centinela Copper Mine; union expects production to halve in November",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "ChemNet News",
-      "publishedAt": "2026-10-12T01:38:00.000Z"
     },
     {
       "id": "f0dbe089420b987b06a2783bd7b948e001703b30dc60b834634b1de9da70ea64",
@@ -765,16 +755,6 @@
       "codexStatus": "PENDING",
       "source": "South China Morning Post",
       "publishedAt": "2026-10-24T13:01:39.000Z"
-    },
-    {
-      "id": "524916c6b19a0602e60fcdca5bf12bed22b131e51d80f9426866cb86ce53146d",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "[원자재] 칠레 센티넬라 구리광산 700여명 파업 돌입… 직고용 22% 참여",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "버핏연구소",
-      "publishedAt": "2026-10-12T00:57:17.000Z"
     },
     {
       "id": "7bf5f355d6131b95b0e044a7ff10557687a8a97f564123896651e91b3f405cfe",
@@ -2717,14 +2697,14 @@
       "publishedAt": "2026-11-10T07:11:25.000Z"
     },
     {
-      "id": "c30bf0ffcf95b64a3731a1e1b45bc62c33fd2aae5988dcc5dcf2523f5fb9fe23",
-      "commodity": "COPPER",
+      "id": "cfbc17700389de61b590a19a50a6aa196fdda9d567ef8821551aa3713f3c96f0",
+      "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "Two people killed in avalanche at El Teniente copper mine operated by Codelco in Chile",
+      "title": "[알루미늄 가격] 중국 수출 18% 증가에 3주 만의 최저…美 금리 인상 우려 가중",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "ChemNet News",
-      "publishedAt": "2026-10-12T01:25:51.000Z"
+      "source": "산업일보",
+      "publishedAt": "2026-11-11T00:50:11.000Z"
     },
     {
       "id": "9c072564ded3c2aad2d70e2a45ca2c427616dc0c011dca4e9a4eb7a0812633b2",
@@ -5005,6 +4985,26 @@
       "codexStatus": "PENDING",
       "source": "IndexBox",
       "publishedAt": "2026-11-10T22:51:04.000Z"
+    },
+    {
+      "id": "cb31de7e9d1c3b32abe5f4a6d37400c68de353f94d184cd37a40782b813c8178",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "중국의 알루미늄 재고가 다시 증가하면서 가격이 하락했습니다.",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-11-11T01:09:23.000Z"
+    },
+    {
+      "id": "3a77cb9a103e3e6ab3fbfaf08c40430e310e660539e9ea1ca7be20295b206a5a",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Lux Copper expands Baird to district scale",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "North of 60 Mining News",
+      "publishedAt": "2026-11-11T00:26:16.000Z"
     }
   ]
 }
