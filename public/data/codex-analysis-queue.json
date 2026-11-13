@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T18:31:50.775Z",
+  "generatedAt": "2026-11-13T23:54:30.177Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -45,16 +45,6 @@
       "codexStatus": "PENDING",
       "source": "Newsquawk",
       "publishedAt": "2026-10-15T18:27:37.000Z"
-    },
-    {
-      "id": "007e68459455f579b7382bcb3c3c454b0de58db7bd310cdd14bc13c3b7497085",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "BHP averts strike at world’s biggest copper mine",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "The Northern Miner",
-      "publishedAt": "2026-10-14T20:20:25.000Z"
     },
     {
       "id": "6f32fb1ebeb7423ed114de4c126364b18f5f3dcd08794c77bae8ec40534f53ee",
@@ -2437,6 +2427,16 @@
       "publishedAt": "2026-11-13T00:38:00.000Z"
     },
     {
+      "id": "68b5a65b2c692275f16447ad9b34a352a2e6127fae054732027e39e03054f0a5",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "미국 규제당국, 알루미늄 가격 산정 체계 개편 추진",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Investing.com 한국어",
+      "publishedAt": "2026-11-13T19:34:00.000Z"
+    },
+    {
       "id": "66481abf22f20c3141c02e1dae1336963c3a60a43aa76f5252b8f0c8206537db",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2725,36 +2725,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-11-13T09:39:00.000Z"
-    },
-    {
-      "id": "2cc8a45a83273ad9541d45f5ea1ad522b9ba717c715a6cb9e0c4cc371c21c5f5",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Glencore upgraded at J.P. Morgan on copper growth pipeline; Antofagasta top copper pick",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-14T19:59:13.000Z"
-    },
-    {
-      "id": "9ff086e292ce1b1c5f8865bdf0c4a55c05dd864d0a8bcc39060eb6afebddef70",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Alcoa, Kaiser Aluminum started Overweight at Barclays in a positive near-term aluminum outlook",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-14T19:31:47.000Z"
-    },
-    {
-      "id": "43fb009daa5340ac3a753a6d6fc87fa63491f328b0e6cb76461bfff75d90e1c8",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "[구리 가격] 미국 CPI 발표 후 0.3% 하락…LME 구리 1만4,532달러",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "산업일보",
-      "publishedAt": "2026-10-14T22:43:16.000Z"
     },
     {
       "id": "55ada1b839a70637946852f4eb450f9fd77a5b77a76912addf02e8d7d65197c9",
@@ -3455,16 +3425,6 @@
       "codexStatus": "PENDING",
       "source": "FXEmpire",
       "publishedAt": "2026-11-13T08:25:58.000Z"
-    },
-    {
-      "id": "150d39c437f66c127a0f8b4066bde0bbeddcfb5992d366ffcb6ece8446130a50",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Xigem Signs LOI for Proposed Reverse Takeover by Condor Copper - Never-Drilled, Drill-Ready Copper Project in Chile; and C$1.5-2.0 Million Financing to Fund Maiden Drill Program",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-14T21:05:00.000Z"
     },
     {
       "id": "a0532028ebd4d7e147e5ad4113c4c7231ede02d887e6e6cccb69a75401abe0d6",
@@ -4887,16 +4847,6 @@
       "publishedAt": "2026-11-13T01:55:00.000Z"
     },
     {
-      "id": "9ad874c16e6c70528c6edd6224296e763154d749fb335a4cab87b7158f91d55b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper output lags in Q3 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "www.mining-journal.com",
-      "publishedAt": "2026-11-13T16:02:50.000Z"
-    },
-    {
       "id": "f0d3a06751ca670e7fc2f36867c7acbe72fff124834627a34666589e50a45d8f",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4917,16 +4867,6 @@
       "publishedAt": "2026-11-13T14:58:07.000Z"
     },
     {
-      "id": "decc0ae06de97a8de8a830e9ac5ab75e21b66273afbb4fd9b9cc5502501334bf",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Gunnison Copper swings to US$12.7M quarterly profit as Johnson Camp output climbs",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Proactive financial news",
-      "publishedAt": "2026-11-13T14:48:00.000Z"
-    },
-    {
       "id": "9c15f0c917e986c9415d07e0c605257a3cc3a4e4b50231d6fd6f6b710403141f",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4937,6 +4877,16 @@
       "publishedAt": "2026-11-13T06:36:00.000Z"
     },
     {
+      "id": "c3c0738de3e5bfac0c1a612cb3d414ab5cb9d86f986480ed8cb2e67729cb1708",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Burglar caused $70K in damage to warehouse looking for copper wires, police say",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "KSL News",
+      "publishedAt": "2026-11-13T19:20:26.000Z"
+    },
+    {
       "id": "ee8fbc8730ea6e1b471ad93114d63397d599fec62016f7a3334cd3fd22110fab",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4945,6 +4895,16 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-11-13T06:10:00.000Z"
+    },
+    {
+      "id": "58493e098d4dbdae56b25612c6da1d7d022883a114409eaa6f292898f799b966",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Chile peso hits 19-month low as copper drops, US rate outlook weighs",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Investing.com",
+      "publishedAt": "2026-11-13T19:32:18.000Z"
     },
     {
       "id": "652c2268db1bd9d39f1f769fc5e851c8eaeea5e56b99062d4b20eedf0da7e879",
@@ -4965,6 +4925,26 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-11-13T03:56:00.000Z"
+    },
+    {
+      "id": "9ad874c16e6c70528c6edd6224296e763154d749fb335a4cab87b7158f91d55b",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper output lags in Q3 2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "www.mining-journal.com",
+      "publishedAt": "2026-11-13T16:05:48.000Z"
+    },
+    {
+      "id": "decc0ae06de97a8de8a830e9ac5ab75e21b66273afbb4fd9b9cc5502501334bf",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Gunnison Copper swings to US$12.7M quarterly profit as Johnson Camp output climbs",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Proactive financial news",
+      "publishedAt": "2026-11-13T14:48:00.000Z"
     },
     {
       "id": "95bdd9909c88fab97eb99ca458b182079312738c79c54e861dc050ceb5a60ec0",
@@ -5005,6 +4985,26 @@
       "codexStatus": "PENDING",
       "source": "paysonroundup.com",
       "publishedAt": "2026-11-13T07:15:00.000Z"
+    },
+    {
+      "id": "3954f5d3012f775d4c5bc243b17e81312c0e64929ae3a2e1b41f763f37ee4c9c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Goldman Sachs Projects Copper Prices at $15,600 per Tonne by December 2027 Amid Supply Constraints",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance UK",
+      "publishedAt": "2026-11-13T10:13:20.000Z"
+    },
+    {
+      "id": "e0a9047e0da6b3b5e822e3333964e8176784819ce7da1951adebdbc5c0ae5772",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Miner-smelter tug-of-war rocks long-standing copper benchmark",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-11-13T07:38:00.000Z"
     }
   ]
 }
