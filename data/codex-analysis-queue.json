@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T22:44:32.338Z",
+  "generatedAt": "2026-11-13T02:57:38.272Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -204,50 +204,6 @@
         "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
         "keyEvidence": [
           "파업"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-14T05:26:25.153Z",
-      "updatedAt": "2026-10-14T05:26:25.153Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "fd469d2acfa92163e090e8b7457331e67b5a0481df9e3e1ae9dd9e4173ff9dba",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Strike Looms at World's Largest Copper Mine as BHP Talks with 1,000 Workers Collapse",
-      "summary": "Strike Looms at World's Largest Copper Mine as BHP Talks with 1,000 Workers Collapse BigGo Finance",
-      "source": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzLUNscXpLdWhVeEliTWQ2LWF5WDl1b0lEOXFVOW9ZZHdsWGlBalhjU2Vrc3VkajdyMll5bDY1QzM1MG5RVUpMdlRyVHNFbjh0SXdJQWdkbXZ4MXZZR05oaGJOc1hZTDB4eVVzNDhZRXo2bWlNLWc?oc=5",
-      "publishedAt": "2026-10-14T02:56:00.000Z",
-      "priority": 63,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "MINE",
-          "STRIKE",
-          "ACCIDENT"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Strike Looms at World's Largest Copper Mine as BHP Talks with 1,000 Workers Collapse BigGo Finance",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
         ],
         "confidence": "MEDIUM",
         "timeHorizon": "IMMEDIATE",
@@ -700,52 +656,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-17T09:23:46.422Z",
       "updatedAt": "2026-10-17T09:23:46.422Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "f0dbe089420b987b06a2783bd7b948e001703b30dc60b834634b1de9da70ea64",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Copper Holds Steady As Chile Mine Strikes Rattle Supply",
-      "summary": "Copper Holds Steady As Chile Mine Strikes Rattle Supply Finimize",
-      "source": "Finimize",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkZRYk9QVDgyX1JmMHc4WGhxcHBsNWVzdnBtZFdWMWNsekFsQlJockNnZUJiUG5oZm1yTHU2Wnp0Qno3NjVPaXhEbFE4cjl2ODVOcHNMWkxZeHJzcnAxamhNOTViNUE0RkM5Yjh3YnBhUWhnaEtkODBjRXNKVG1iSjJMc0taeC15R21mSQ?oc=5",
-      "publishedAt": "2026-10-14T02:27:59.000Z",
-      "priority": 58,
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "HIGH",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "SUPPLY",
-          "MINE",
-          "STRIKE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Copper Holds Steady As Chile Mine Strikes Rattle Supply Finimize",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-14T05:26:25.153Z",
-      "updatedAt": "2026-10-14T05:26:25.153Z",
       "analyzedAt": null
     },
     {
@@ -1989,53 +1899,6 @@
       "analyzedAt": null
     },
     {
-      "id": "0978ef96750a4e38fadfac56858db324c941d9f463882718c6d20a8b8a8c1c5f",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "구리 가격 급등 속 세계 최대 구리 광산 파업 위기…공급 차질 우려 By The Guru",
-      "summary": "구리 가격 급등 속 세계 최대 구리 광산 파업 위기…공급 차질 우려 By The Guru Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51WkgxTFpQaWpiRWhPQnFvMFJabEwtYVdmb19KSUo0TFc3Z2MybWtCYVlEbXIwNjdTSGhpXzJPWkRfMFlqZGZZMmItVXJWaV9yTnV6OGdDMlFpdkFFV0R6QVdITVQtbFduMWQzbzlpTQ?oc=5",
-      "publishedAt": "2026-10-14T02:46:00.000Z",
-      "priority": 47,
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "MINE",
-          "DISRUPTION",
-          "STRIKE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "구리 가격 급등 속 세계 최대 구리 광산 파업 위기…공급 차질 우려 By The Guru Investing.com 한국어",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "공급 차질",
-          "파업"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-14T05:26:25.153Z",
-      "updatedAt": "2026-10-14T05:26:25.153Z",
-      "analyzedAt": null
-    },
-    {
       "id": "92c24ffbab6975fb37370db22f2db22b957712148d6f27c63c3841cdc601bb89",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -2558,6 +2421,49 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-06T18:30:24.052Z",
       "updatedAt": "2026-11-06T18:30:24.052Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "f780fde9f98e97ad7c31dc1c0a379076dce6a8e19f2173f57bdac2f1c3341cec",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Highland Valley Copper Mine strike negatively affecting local businesses",
+      "summary": "Highland Valley Copper Mine strike negatively affecting local businesses Yahoo News Canada",
+      "source": "Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX0c0UElxVlI4RXB1WVZIbjlORlhEcjJmLXNqS19jUE9nMldHbTlRcjRCUzhwbTQtTjdoZWtiWjBBd0t5cktRZnFzQVhWR1p0WlV6SjNHcWswdE9mMW55eTh1YVJJUDR1eExfOVdXZGlTcGFSS1VJUFU0Q0ZZOEhUVQ?oc=5",
+      "publishedAt": "2026-11-13T00:38:01.000Z",
+      "priority": 46,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "MINE",
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Highland Valley Copper Mine strike negatively affecting local businesses Yahoo News Canada",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-13T02:57:38.272Z",
+      "updatedAt": "2026-11-13T02:57:38.272Z",
       "analyzedAt": null
     },
     {
@@ -9821,15 +9727,15 @@
       "analyzedAt": null
     },
     {
-      "id": "975a16e5fd21d1cc10420d03a7dde1a2c1306210b8f4e2ce15d15e2b0c07e55f",
-      "commodity": "TIN",
+      "id": "953b819130ca9799ba6b87380af819076f23f1f5aecff8b693b2ccc85e40af01",
+      "commodity": "COPPER",
       "subCommodity": null,
-      "title": "The most-traded SHFE tin SN2611 contract fell 3.52% overnight, breaking below 380,000 yuan, while LME tin dropped 2.71% to $51,767, pressured by both macro and AI sector sentiment [SMM Tin Morning Meeting Summary]",
-      "summary": "The most-traded SHFE tin SN2611 contract fell 3.52% overnight, breaking below 380,000 yuan, while LME tin dropped 2.71% to $51,767, pressured by both macro and AI sector sentiment [SMM Tin Morning Meeting Summary] Shanghai Metals Market",
+      "title": "Spot premiums pull back sharply as delivery approaches, price spread between futures contracts widens, and trading volume drops to a freezing point [SMM Shandong copper cathode spot weekly review]",
+      "summary": "Spot premiums pull back sharply as delivery approaches, price spread between futures contracts widens, and trading volume drops to a freezing point [SMM Shandong copper cathode spot weekly review] Shanghai Metals Market",
       "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQcklPS2E3Y1laeXZfcTdza1NfR2tETFVFdGJvY0NJVzV4aEZmRUs4NlFLOXBwbnpiQmN0U3UySGw3b2RkOGxWdlNKR01sSDZGUHphMlAyb3NPU0lKUVFmM2NWNVF3NVo4blg2S2hiS1FMT05KSE9TTGVTOGVPRjE0ZlkyanRGaEx2X1B6VjhqOEtUNllBVFd0WWtzWHB1MUJncDA5ZVlBMVpldXdEV0JKWWZPeGIyRkZ6QzBIX01va1dfZ0lVVUFiRUI1aW9QY2NIa281VnVreW4yLVhWZk9xS3NfQlRkb3FuTzlkNnF3RWIxV0lBRUROU3E4YWlHbGotenEwanN6UFV5akFnd01lUVNGRE5xOFlEakVrZEhUbWdscm1OX0RTSHRuM3BYaDc2Tktjb1VOcmJIOFZKZmMxbGtRR2g4ajc4MG9DUVo0X3d2UU5sY3h4czRfSlFLeVl4SjZfRQ?oc=5",
-      "publishedAt": "2026-10-14T00:57:00.000Z",
-      "priority": 37,
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPTG1BdVROWWVIZERMUjg2aTNaM3kyUkdSZWZnQVBkb2xJQ1VPaHBxMVp6VjYtNGRibklTRldWZG1kM0x0M2ROOU9YcHBMTHhRZU9PVlZROW1YcGlkNlJ6elg2QnNYbF9LMmtBQ3dEZkxmb3U1aDBpYW9Jb3NCMmVObmhLSnJGTnhqdDl1aXZRNlNzOXZxV3BBVFlrNlFqYjM5OFE0WGd1RDNtbDVVYUpiVVZrRnJRUF9XaXhQVmMzcl85UTVPWkhwaGtCVzdrWmNZbEtENDMydkRXUGNHVkRnOU5rX0tzMTFsRWsweGMwNVVBVDJsd2UzcTJfOUYzUUxkdWZDUVMtWk9NcEdhdVRLN2xsU2x4WGplUXc4MGw1ODFFQnUtRDBxNGhVXzlDbzBTcTJTSUVpaFhsbGFydEszeVBrcjBrMXhOaGhOeW8yMlZBdGxBWUgzWU5tVGhDVEtCVFkzVWZfTzdJZnY3U0R3NHhUUTB6NEl0WVN4d2NiTkM2a2Z2?oc=5",
+      "publishedAt": "2026-11-13T02:40:00.000Z",
+      "priority": 38,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
@@ -9837,23 +9743,23 @@
         "procurementImpact": "UNCLEAR",
         "category": "General",
         "categories": [
-          "TRADE"
+          "PRICE"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "The most-traded SHFE tin SN2611 contract fell 3.52% overnight, breaking below 380,000 yuan, while LME tin dropped 2.71% to $51,767, pressured by both macro and AI sector sentiment [SMM Tin Morning Meeting Summary] Shanghai Metals Market",
+        "summary": "Spot premiums pull back sharply as delivery approaches, price spread between futures contracts widens, and trading volume drops to a freezing point [SMM Shandong copper cathode spot weekly review] Shanghai Metals Market",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
         "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
+        "timeHorizon": "SHORT_TERM",
         "signals": [],
         "urgent": false
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-10-14T05:26:25.153Z",
-      "updatedAt": "2026-10-14T05:26:25.153Z",
+      "queuedAt": "2026-11-13T02:57:38.272Z",
+      "updatedAt": "2026-11-13T02:57:38.272Z",
       "analyzedAt": null
     },
     {
@@ -10920,39 +10826,42 @@
       "analyzedAt": null
     },
     {
-      "id": "3320a3af1cd90596b9ec6f46dcfaaf3c41937d6a7ed6507fd0bd92935a6c3547",
+      "id": "a393ca642177586fd32c80867ac4613e3afc9c30cca937b019361ee8c457385d",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "Rio Tinto Says Oyu Tolgoi Copper Output Up 29% Year-to-Date",
-      "summary": "Rio Tinto Says Oyu Tolgoi Copper Output Up 29% Year-to-Date marketscreener.com",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ2FhVk9wVFdoMXViREJhdWJIOUY3TFloR1YyV3I3Skx2SHMzSEdrQ2tWSmtCMWUyWTRRQmtEQ05tUDRzZEVta1o2SzNtbUpOR0otS3l6SExFQUxHT19ibTNLZUxnQTcteFl2c1lxaW9ac3VhQmZ2Ynl6RUdjS21NTm0yTWxUZVI5Z3BEdjY0X3hIdVVqUTliT0JtbVowT19ReDBZTHVKcnAzdnhKMWZBbQ?oc=5",
-      "publishedAt": "2026-10-13T23:19:16.000Z",
-      "priority": 36,
+      "title": "Spot premiums in North China retreat from highs; insufficient end-user growth leads to weak trading [SMM North China copper cathode spot weekly review]",
+      "summary": "Spot premiums in North China retreat from highs; insufficient end-user growth leads to weak trading [SMM North China copper cathode spot weekly review] Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQdlB2OTNPQnY4VkoxaVZpb1lySE9yMlRDakRNS2t6UE1SbDE5WWttaXItcVhCNzhJaUtHd2l5V1ZWUkVFWndheXpoZVlHRWtCMjJwRFlLWm5vbUZkUTRYZ0dRY2N5bzFtTzRDTWxqNmppNm9NdVZMWnRCUGxxc01Ed0dmeHNLSWhQLWtHNVdNTTFfU3VyOV9qQ2ZyX2xfTjYtXzVzQk9fNHVwcmluRzY5Y0JuTE85VTNVQmtSN2pQVEx1dzY1M1lyU3lQSkdNUHFqQS03cVVoU1VkT295TEtiNHB2NHAzcUpnMUFIeEdkU1NjTFQ0UXBSajF5VmxEa3NoSXY1Zk1qSDlseDlLeXVpMVJlWWVaZkJZVVd3Smdjbk5oYURyNTFBcDdwcDRCS2JHeS1HVTFFZjRmSDg2RG1GblE3d2dEdw?oc=5",
+      "publishedAt": "2026-11-13T02:12:00.000Z",
+      "priority": 37,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Production",
+        "category": "General",
         "categories": [
-          "PRODUCTION"
+          "PRICE",
+          "CHINA"
         ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Rio Tinto Says Oyu Tolgoi Copper Output Up 29% Year-to-Date marketscreener.com",
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Spot premiums in North China retreat from highs; insufficient end-user growth leads to weak trading [SMM North China copper cathode spot weekly review] Shanghai Metals Market",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
         "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
+        "timeHorizon": "SHORT_TERM",
         "signals": [],
         "urgent": false
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-10-14T00:37:48.702Z",
-      "updatedAt": "2026-10-14T00:37:48.702Z",
+      "queuedAt": "2026-11-13T02:57:38.272Z",
+      "updatedAt": "2026-11-13T02:57:38.272Z",
       "analyzedAt": null
     },
     {
@@ -16530,6 +16439,45 @@
       "analyzedAt": null
     },
     {
+      "id": "a3448c2528504e2d605521af5e0cfa0b5229b055857df2b4888ba3d31fbe8f5a",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "China's Aluminum Ingot Inventory in Three Regions Falls on November 13",
+      "summary": "China's Aluminum Ingot Inventory in Three Regions Falls on November 13 Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRVQ3ZkZ6bUJVdlJ4MjhOUFc3NkFQZk1aSU5RT1VnSnFBV0g4dzdEdVZGcWNyMUdISGY1QlFiQlJEaXhHSm54a0czNVM0U085U3R4bk1od1YzdGdMR2VTT1FMSU0ydWlkYmd0cHdjajNyVFBqTGRodmU5SmZpbkNHX1RlYXZGX09JanJ5QWFYclZPZXM4Yi0yWlJVNkc1ejJiejNFR1o1WWZYX1MwNk1VdEdVcWNzQ19nR28xXzVqTVFvNmN0U3VHMVlmUEZPUXBYUU1MdTRSeExTLTJl?oc=5",
+      "publishedAt": "2026-11-13T01:13:00.000Z",
+      "priority": 35,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "INVENTORY",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "China's Aluminum Ingot Inventory in Three Regions Falls on November 13 Shanghai Metals Market",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-13T02:57:38.272Z",
+      "updatedAt": "2026-11-13T02:57:38.272Z",
+      "analyzedAt": null
+    },
+    {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -19042,14 +18990,50 @@
       "analyzedAt": null
     },
     {
-      "id": "c5f83059b23f9208b9c33f514fa6693c2fc65387d7e1880ea0c54e1366441133",
+      "id": "8723007f4d694045597ed0544f375814accbf78eda3ed90b0efda4cdc6a98f96",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "Copper hits four-month lows; focus on demand, AI and US rates",
-      "summary": "Copper hits four-month lows; focus on demand, AI and US rates TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ00xM3FaZS1hNy1SdlRjVGIwMWlJM3BTN0M4bjBac2s0OW5hamxsbkxkSVQ4RnhLQjc4bUF5QnI5SW0wRGppX25iN0hHNUZ0WEZzVGRXbGtCbUtzbkZyRXFNS3lzcmt2bTJLSkZ0VWtkcTM3STVpYm1jcmR1NmlaTlVBU1pWeUd4Ynp1TTBiOXVQLV9tLU8zY0wxV3NhYzFPc185N2xRbElyalZtdjdsYVJlUFhjc1d5NGtib1JETTU2aGZCNkJkbQ?oc=5",
-      "publishedAt": "2026-11-12T17:16:24.000Z",
+      "title": "Capstone Copper shares fall on production downgrade",
+      "summary": "Capstone Copper shares fall on production downgrade Capital Brief",
+      "source": "Capital Brief",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVI2MUoxTTl1NXF6N2JPazJMaXVNME5XU3ZyTThBY2JLMDJNUHhQclhzR2JORW1WNWRXaEhKWFU3V1p4QnZhZWxYTVg1ZVpWaklydFZvRmxlLXZqMlhWSV9oNlpIQlNHWHBWX05US3lWa0lGODBxbmhveVBjWFZwaFg5MS1OejZicUpZbmtDM2ZVNElIX3dGYzhJbU9MN1JpdmlrRFpFd2hQMzB6MFppRWVvTkRZSUEzZU5Eci1wWGt6cWRwM2c?oc=5",
+      "publishedAt": "2026-11-13T01:55:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Capstone Copper shares fall on production downgrade Capital Brief",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-13T02:57:38.272Z",
+      "updatedAt": "2026-11-13T02:57:38.272Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "44ceba53c2d488de16a1f6daca89d64a347655764410ae4b9b501e2d7102d7c8",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "구리·알루미늄 수요 폭증…AI 데이터센터가 키우는 재활용 시장",
+      "summary": "구리·알루미늄 수요 폭증…AI 데이터센터가 키우는 재활용 시장 디지털투데이",
+      "source": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Fa3o4cjJLMTRibFMyR0VacmdjLW1ROTJUOGJSZG52TVVhR0VSazY1TTZ2SDl1eGF3MHhDa0dWS2g0YjdmRWthUGN2eWk0aG1HaDVIbG5JSXFmRmJ6MFBkd3BtbUI3YWUtYW00NUdVdWFPRmc?oc=5",
+      "publishedAt": "2026-11-13T01:28:00.000Z",
       "priority": 34,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
@@ -19062,7 +19046,7 @@
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Copper hits four-month lows; focus on demand, AI and US rates TradingView",
+        "summary": "구리·알루미늄 수요 폭증…AI 데이터센터가 키우는 재활용 시장 디지털투데이",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
@@ -19073,8 +19057,8 @@
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-11-12T22:44:32.338Z",
-      "updatedAt": "2026-11-12T22:44:32.338Z",
+      "queuedAt": "2026-11-13T02:57:38.272Z",
+      "updatedAt": "2026-11-13T02:57:38.272Z",
       "analyzedAt": null
     }
   ]
