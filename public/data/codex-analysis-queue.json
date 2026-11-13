@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T02:57:38.272Z",
+  "generatedAt": "2026-11-13T11:01:57.026Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -45,16 +45,6 @@
       "codexStatus": "PENDING",
       "source": "Newsquawk",
       "publishedAt": "2026-10-15T18:27:37.000Z"
-    },
-    {
-      "id": "88dcf844baac0a786c66f5c61efba310ee560fd5eb41354c99718bb5f173abe4",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "BHP 에스콘디다 구리 광산, 노동자 파업 예고",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Investing.com 한국어",
-      "publishedAt": "2026-10-14T04:36:00.000Z"
     },
     {
       "id": "81267d834d20e7047a2137d72bcc682646f9f4d92e205b8d2cf0264cf9105893",
@@ -105,16 +95,6 @@
       "codexStatus": "PENDING",
       "source": "IndexBox",
       "publishedAt": "2026-10-15T12:10:31.000Z"
-    },
-    {
-      "id": "28a4e1d10db5401962b900a6655c48832559ce1b585129a7e52a51b4dbc9b8aa",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Strike announced at the world’s largest copper mine in Chile — The Rio Times",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "UA.NEWS",
-      "publishedAt": "2026-10-14T07:50:49.000Z"
     },
     {
       "id": "36e9bc7040d9867b3007d8eb0016e5b0c7440cd4d9f8b0e8eb970f71aa155ff3",
@@ -685,26 +665,6 @@
       "codexStatus": "PENDING",
       "source": "South China Morning Post",
       "publishedAt": "2026-10-24T13:01:39.000Z"
-    },
-    {
-      "id": "40ed5343d5cfb3953a801c5fa82ec00de14fb6abfa36d235bffb0a4d0f168481",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Extends Gains on Mounting Supply Disruptions",
-      "reasonForCodexReview": "Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-14T04:15:00.000Z"
-    },
-    {
-      "id": "c224c7fcbd5b2055e8bb14b042c81959a53cb37e1017404cfa7fe33819a1dab6",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "세계 최대 구리광산 멈추나⋯노조, 임금협상 결렬로 파업 예고",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "이투데이",
-      "publishedAt": "2026-10-14T07:13:00.000Z"
     },
     {
       "id": "ef7dd0e81083b4189fcbddc3394e9379445c5485d82f00b4a72686e3445dddaf",
@@ -1295,16 +1255,6 @@
       "codexStatus": "PENDING",
       "source": "FXEmpire",
       "publishedAt": "2026-11-09T09:44:33.000Z"
-    },
-    {
-      "id": "816e3d018c568db2bbd2fd4d31ac7abcc002fe51fc068309f7a9ff8570335204",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Aurubis raises 2027 European copper premium to record $347 a ton, sources say",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-14T09:33:31.000Z"
     },
     {
       "id": "2e824d23c82820319517f37c6a4757f2aba84ab9ddf2122eebf4bf4a4782dc22",
@@ -2517,14 +2467,34 @@
       "publishedAt": "2026-11-13T02:40:00.000Z"
     },
     {
-      "id": "c1fd3c028004341db91a0186b11a0a1a7a8ce69abf0f865dffd81d8fe1f91d55",
-      "commodity": "ALUMINUM",
+      "id": "1ef7f6980b79e4a2f0c95126eb93c6aec3e686612f1ac116a490901f94ece567",
+      "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Rio Tinto reports slight decline in aluminium production",
+      "title": "Copper Cathode Rod Market: Production Declines as Futures Spread Deters Buyers, Inventory Rebound Expected",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-11-13T09:52:00.000Z"
+    },
+    {
+      "id": "b31be51a618c5fb28999c57f862bfc1c49dad9753fca3a77e720ce8fb0b2e649",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Will copper price hold $6.08 support amid oversold conditions?",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Aluminium International Today",
-      "publishedAt": "2026-10-14T09:09:46.000Z"
+      "source": "Traders Union",
+      "publishedAt": "2026-11-13T09:23:40.000Z"
+    },
+    {
+      "id": "8851bc9c0d31da8a16ee7480dd9146571a2b22596c74172f6dd5cc52de4f5126",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Goldman Sachs flags risks to $15 400/t copper price forecast for 2027",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Weekly",
+      "publishedAt": "2026-11-13T06:35:00.000Z"
     },
     {
       "id": "66481abf22f20c3141c02e1dae1336963c3a60a43aa76f5252b8f0c8206537db",
@@ -2807,34 +2777,14 @@
       "publishedAt": "2026-11-13T02:12:00.000Z"
     },
     {
-      "id": "29c6f97eae23b8bc17b8cd2751444034d7c3c02c0207a731d1277ccbd010bb3c",
+      "id": "78f6582a6aa31764b66f42635197165bbcf18befdbd86a9fe1d57d8a0595718d",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Rio Tinto Logs Flat Q3 Copper Production, Affirms FY26 Guidance",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "marketscreener.com",
-      "publishedAt": "2026-10-14T03:55:10.000Z"
-    },
-    {
-      "id": "419e3f40d70a2f7505b8f322b55dd0b0c97fa9cbdddf1443996670f208f606f1",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "JP모건, 구리 생산 확대 전망에 Glencore 투자의견 ‘비중확대’로 상향",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com 한국어",
-      "publishedAt": "2026-10-14T08:07:00.000Z"
-    },
-    {
-      "id": "7361dd6ba6cdc0b5747d11b119990c92bbb892f0b29f8760ad4982dfa3979764",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "LME backwardation structure narrows, SHFE/LME price ratio recovers, registered copper premiums stay high [SMM Yangshan spot copper]",
+      "title": "US inflation exceeding expectations pressures copper prices; SHFE copper spot premiums are expected to rebound after contract rollover [SMM Macro Weekly Review]",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-14T05:23:00.000Z"
+      "publishedAt": "2026-11-13T09:39:00.000Z"
     },
     {
       "id": "ab00698e7ba4f7571eca41975b1f2762d3777df1e491b622a65b6d4c3ae4ee17",
@@ -2845,16 +2795,6 @@
       "codexStatus": "PENDING",
       "source": "Junior Mining Network",
       "publishedAt": "2026-10-14T13:25:06.000Z"
-    },
-    {
-      "id": "fea492a76cd8ef871357213e6e875714a446062cd55457091ffbb0b815a04176",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Rio Tinto keeps 2026 guidance as Oyu Tolgoi copper output rises 27%",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Mugglehead Investment Magazine",
-      "publishedAt": "2026-10-14T09:52:06.000Z"
     },
     {
       "id": "2cc8a45a83273ad9541d45f5ea1ad522b9ba717c715a6cb9e0c4cc371c21c5f5",
@@ -3575,6 +3515,26 @@
       "codexStatus": "PENDING",
       "source": "Investing News Network",
       "publishedAt": "2026-11-12T13:51:09.000Z"
+    },
+    {
+      "id": "e3e134ff892a797b72567d1421fe0e835b16d4de37d690300a8e883b7443983c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper, Uranium and Lithium Price Forecast: Nvidia CEO Exit Hits Copper",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "FXEmpire",
+      "publishedAt": "2026-11-13T08:25:58.000Z"
+    },
+    {
+      "id": "652c2268db1bd9d39f1f769fc5e851c8eaeea5e56b99062d4b20eedf0da7e879",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "ASIA COPPER WEEK-Miner-smelter tug-of-war rocks long-standing copper benchmark",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-11-13T07:39:02.000Z"
     },
     {
       "id": "150d39c437f66c127a0f8b4066bde0bbeddcfb5992d366ffcb6ece8446130a50",
@@ -4327,16 +4287,6 @@
       "publishedAt": "2026-10-19T13:26:00.000Z"
     },
     {
-      "id": "90fb5ca9b3c130603b1e56c995755a1394ca8f0e6715736a8785ec0b4327cc11",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Citi lowers three-month aluminium price forecast",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-14T04:05:00.000Z"
-    },
-    {
       "id": "a40fc3fd37a680473d101b6bb0df0685a39bd6436e49971f880e9e2841df95a3",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4917,16 +4867,6 @@
       "publishedAt": "2026-11-12T00:12:21.000Z"
     },
     {
-      "id": "8de1269439f855c65c566dabbf594c2b9da75e2761cfc8c700867a660151c8e0",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Codelco, Adani Group sign pact for copper exploration project",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Reuters",
-      "publishedAt": "2026-11-11T19:08:09.000Z"
-    },
-    {
       "id": "017ae08edce0fccd1069f47dd15cc64284c9b01fbc19680bf297c2790ed5f3d6",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4997,6 +4937,56 @@
       "publishedAt": "2026-11-13T01:55:00.000Z"
     },
     {
+      "id": "95bdd9909c88fab97eb99ca458b182079312738c79c54e861dc050ceb5a60ec0",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Southern Copper (NYSE:SCCO) Offers Dividend Investors a High Yield Backed by Strong Profitability and Health",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "ChartMill",
+      "publishedAt": "2026-11-13T10:10:34.000Z"
+    },
+    {
+      "id": "8e44f106b9f3d948f3788979a52a7e7c586c5fed9f3cc0608b2c6959e47f66ee",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "골드만삭스 “구리 가격, 2027년 12월 톤당 1만5,600달러 전망”",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com 한국어",
+      "publishedAt": "2026-11-13T09:41:00.000Z"
+    },
+    {
+      "id": "d856610e551875f004c78c91917814ac3d78cad3b70a74aaaa60628a6c44ef91",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Freeport acquires controlling interest in TDG's Aurora West copper, gold property",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Weekly",
+      "publishedAt": "2026-11-13T09:07:00.000Z"
+    },
+    {
+      "id": "a15ce70c2e08982824801165c555879ba83f50c68c2d083375ff6e74fab1d84a",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Resolution Copper invests more in controversial Superior mine",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "paysonroundup.com",
+      "publishedAt": "2026-11-13T07:15:00.000Z"
+    },
+    {
+      "id": "9fdfc325281d697866130991a01128e28464431abd0163c0552c787cd811af42",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Shipments at delivery periods sold at discounts, spot copper trading activity picked up [SMM North China Spot Copper]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-11-13T03:56:00.000Z"
+    },
+    {
       "id": "44ceba53c2d488de16a1f6daca89d64a347655764410ae4b9b501e2d7102d7c8",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -5005,6 +4995,16 @@
       "codexStatus": "PENDING",
       "source": "디지털투데이",
       "publishedAt": "2026-11-13T01:28:00.000Z"
+    },
+    {
+      "id": "a1993d816a4bda544a58d0e26ab4c5e0c05c2baee61a5766c5ef108f1c7caa25",
+      "commodity": "MOLYBDENUM",
+      "importance": "MEDIUM",
+      "title": "Hunan mine tender sale of molybdenum concentrates concluded at 5,300 yuan/mtu",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-11-13T03:55:00.000Z"
     }
   ]
 }
