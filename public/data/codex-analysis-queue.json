@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T06:27:14.565Z",
+  "generatedAt": "2026-11-14T13:48:40.819Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -45,26 +45,6 @@
       "codexStatus": "PENDING",
       "source": "Newsquawk",
       "publishedAt": "2026-10-15T18:27:37.000Z"
-    },
-    {
-      "id": "6f32fb1ebeb7423ed114de4c126364b18f5f3dcd08794c77bae8ec40534f53ee",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "BHP, Escondida Union Reach Contract Deal, Averting Copper Mine Strike - News and Statistics",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-10-15T12:10:31.000Z"
-    },
-    {
-      "id": "6e5077c5c013c5174e6b5b4297dc0d2afe69b6bd3759b4a5bb7b93b9a43c6a74",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "BHP·Escondida 노조, 계약 합의로 구리 광산 파업 막아 - 뉴스 및 통계",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-10-15T12:10:31.000Z"
     },
     {
       "id": "36e9bc7040d9867b3007d8eb0016e5b0c7440cd4d9f8b0e8eb970f71aa155ff3",
@@ -395,6 +375,16 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-11-09T06:27:09.000Z"
+    },
+    {
+      "id": "c181f1d0d185559a58597bd80c147aeac7a29ac27ae4ed7d6abc551fb21b07de",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Copper Market Liquidity Crisis Looms as Two Investment Banks Diverge Sharply on 2027 Price Outlook",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "NAI500",
+      "publishedAt": "2026-11-14T08:49:46.000Z"
     },
     {
       "id": "1f1cff1ac56e52366c06bde41037ef8d4f4bb9d615c4017ac4b4094b9aac0862",
@@ -3417,16 +3407,6 @@
       "publishedAt": "2026-11-13T08:25:58.000Z"
     },
     {
-      "id": "df4f80e5b6676b7ca92e4d09f39c5657c5ca41ce0c022fcbf564abd51738d1f6",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Macro and production resumption expectations jointly weigh on aluminum prices, which consolidate on a subdued note [SMM Aluminum Price Weekly Review]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-15T07:44:00.000Z"
-    },
-    {
       "id": "4c329e105f27fddbb2a4c335c04fb8c28dc38902ab72a698d6f96a2f879bd86f",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4957,6 +4937,16 @@
       "publishedAt": "2026-11-13T10:10:34.000Z"
     },
     {
+      "id": "e0a9047e0da6b3b5e822e3333964e8176784819ce7da1951adebdbc5c0ae5772",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Miner-smelter tug-of-war rocks long-standing copper benchmark",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-11-13T07:38:00.000Z"
+    },
+    {
       "id": "8e44f106b9f3d948f3788979a52a7e7c586c5fed9f3cc0608b2c6959e47f66ee",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4997,14 +4987,24 @@
       "publishedAt": "2026-11-13T10:13:20.000Z"
     },
     {
-      "id": "e0a9047e0da6b3b5e822e3333964e8176784819ce7da1951adebdbc5c0ae5772",
+      "id": "6024b0d978c4936ecfcea6ad8d990b4624a7763e0494a5aaf06e0076a4e9ca00",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Miner-smelter tug-of-war rocks long-standing copper benchmark",
+      "title": "구리 가격 하락… AI 매도세 여파로 5주 연속 주간 하락세 전망",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "TradingView",
-      "publishedAt": "2026-11-13T07:38:00.000Z"
+      "publishedAt": "2026-11-13T13:36:28.000Z"
+    },
+    {
+      "id": "44ceba53c2d488de16a1f6daca89d64a347655764410ae4b9b501e2d7102d7c8",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리·알루미늄 수요 폭증…AI 데이터센터가 키우는 재활용 시장",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "디지털투데이",
+      "publishedAt": "2026-11-13T01:28:00.000Z"
     }
   ]
 }
