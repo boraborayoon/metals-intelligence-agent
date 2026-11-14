@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-14T13:48:40.819Z",
+  "generatedAt": "2026-11-14T19:11:13.549Z",
   "counts": {
-    "PENDING": 500,
+    "PENDING": 497,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -35,16 +35,6 @@
       "codexStatus": "PENDING",
       "source": "Bloomberg.com",
       "publishedAt": "2026-10-22T19:46:10.000Z"
-    },
-    {
-      "id": "766eb60a63818c31ec175dc363f8030f5f1f69f43769e1e0bb297dd79a821063",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "BHP (BHP) reportedly to sue union at Chile Spence copper mine over illegal stoppage",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Newsquawk",
-      "publishedAt": "2026-10-15T18:27:37.000Z"
     },
     {
       "id": "36e9bc7040d9867b3007d8eb0016e5b0c7440cd4d9f8b0e8eb970f71aa155ff3",
@@ -105,16 +95,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-10-27T16:15:00.000Z"
-    },
-    {
-      "id": "779feda6529d698cae5895f8aeb7693b33cce335b72580c468ef2df1cb219008",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "BHP sues union at Spence copper mine over 'illegal' production stoppages, lawsuit shows",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Reuters",
-      "publishedAt": "2026-10-15T18:57:43.000Z"
     },
     {
       "id": "d2f60f69cf42f0e44731b792800fbc483d769d24b551cf1a0cf4e82f42509214",
@@ -387,16 +367,6 @@
       "publishedAt": "2026-11-14T08:49:46.000Z"
     },
     {
-      "id": "1f1cff1ac56e52366c06bde41037ef8d4f4bb9d615c4017ac4b4094b9aac0862",
-      "commodity": "ALUMINUM",
-      "importance": "HIGH",
-      "title": "China Aluminum International Q3 net profit slumps, hurt by unit bankruptcy",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-15T14:17:21.000Z"
-    },
-    {
       "id": "7e1a12214c4a5fbf00d404af06f5d95d420fbcde190c27f0e0a0ec6c5665539b",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -605,16 +575,6 @@
       "codexStatus": "PENDING",
       "source": "South China Morning Post",
       "publishedAt": "2026-10-24T13:01:39.000Z"
-    },
-    {
-      "id": "9fae63bfa65cf6a2f55e5390fe12314a85b52a6942825aee88aaae810850bd64",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Zijin Halts Processing at Copper-Zinc Mine Due to Fuel Shortage",
-      "reasonForCodexReview": "Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Bloomberg.com",
-      "publishedAt": "2026-10-15T14:01:54.000Z"
     },
     {
       "id": "45338d17b04025fc0761653bd11acd1fa285ec78c6b710e120279c9b9f6078b0",
@@ -947,16 +907,6 @@
       "publishedAt": "2026-10-31T07:04:00.000Z"
     },
     {
-      "id": "30daf1dd64811ca49806e5ce25f49ba415632c8a48c5b5d9dc58e0797b8425b7",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "No breakthrough in talks at Antofagasta's striking Centinela copper mine, unions say",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-15T14:30:37.000Z"
-    },
-    {
       "id": "3b769a1d23e1622c28a4a8a70fabdddd15cc5d30c658c1d671f03607f8295502",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -1175,46 +1125,6 @@
       "codexStatus": "PENDING",
       "source": "FXEmpire",
       "publishedAt": "2026-11-09T09:44:33.000Z"
-    },
-    {
-      "id": "070701010e2af424ccb84bc9dde633561a9683143b2efbf7b5489ac6ce5aff6a",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Alcoa earnings on deck: Can aluminum offset alumina weakness?",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com",
-      "publishedAt": "2026-10-15T18:46:36.000Z"
-    },
-    {
-      "id": "9d51d7866b7f5c1fae10da6b76753d27674f8e718124939cb571d3c6fe1d0e5c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Luca Mining raises US$150mn toward Mexican copper mine purchase",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "BNamericas",
-      "publishedAt": "2026-10-15T18:21:33.000Z"
-    },
-    {
-      "id": "70f86379eedde90fcf2a6cca522d63ecd32325fc91ce78a54d5e0bd8816d7302",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "2035년 핵심 광물 위기: 리튬·코발트·구리 공급 리스크 - 뉴스 및 통계",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-10-15T16:23:32.000Z"
-    },
-    {
-      "id": "6a0fc4ae31f82b30791d5ad9a04643d5c295003b139dd8763004c152770e1d83",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Price October 16 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Robinhood",
-      "publishedAt": "2026-10-15T18:08:34.000Z"
     },
     {
       "id": "aad557b244417f8f552b29bbda70c70c40009627af17067c217d940289040056",
@@ -4867,6 +4777,26 @@
       "publishedAt": "2026-11-14T04:46:08.000Z"
     },
     {
+      "id": "98199d061be49e6c8896fb253ee294c29a870910108c58457c77a0bbe818e78a",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Repair of old copper wiring caused US flight disruption: Trump administration",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Tech Xplore",
+      "publishedAt": "2026-11-14T18:50:02.000Z"
+    },
+    {
+      "id": "72f43be6749ad0a14d436309cdff5b5b455d7967189ab00fc5d66433c298032f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "유럽연합(EU)은 베트남산 구리 파이프에 대해 최고 14.4%의 잠정 반덤핑 관세를 부과했습니다.",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-11-14T14:51:35.000Z"
+    },
+    {
       "id": "ee8fbc8730ea6e1b471ad93114d63397d599fec62016f7a3334cd3fd22110fab",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4947,6 +4877,16 @@
       "publishedAt": "2026-11-13T07:38:00.000Z"
     },
     {
+      "id": "dc697271966226e0134789ca336a5682b9ba0b316b48470ae82feb7b9df7990e",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "CFTC, 미국 내 알루미늄 가격 산정 방식 전면 개편 계획",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-11-13T18:37:37.000Z"
+    },
+    {
       "id": "8e44f106b9f3d948f3788979a52a7e7c586c5fed9f3cc0608b2c6959e47f66ee",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -5005,6 +4945,36 @@
       "codexStatus": "PENDING",
       "source": "디지털투데이",
       "publishedAt": "2026-11-13T01:28:00.000Z"
+    },
+    {
+      "id": "462872b0094c2e7803d2baa2dd40a8803da4fca17c0bfccabd21b63df2c69d75",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "미국의 통화정책 신호나 AI 수요 추세가 바뀌면 구리는 안정세를 보일 수 있을까요?",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Traders Union",
+      "publishedAt": "2026-11-12T20:09:33.000Z"
+    },
+    {
+      "id": "2d942c7e6c7ae48fed6d539111e38a7bc0deb5474823d4ee27c95f30a6ee587d",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Tin could help hydrogen fuel cells last longer",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Georgia Laurie",
+      "publishedAt": "2026-11-09T07:40:10.000Z"
+    },
+    {
+      "id": "2dab5774a82a98f0d6b7ea9b8ef369343dd9e341360f6531381dbd68ff5142d4",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Alphamin to supply concentrate to Nathan Trotter",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Freddie Mitchell",
+      "publishedAt": "2026-11-09T15:51:09.000Z"
     }
   ]
 }
