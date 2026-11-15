@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T22:59:12.294Z",
+  "generatedAt": "2026-11-15T02:41:24.888Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -3525,6 +3525,48 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-12T22:44:32.338Z",
       "updatedAt": "2026-11-12T22:44:32.338Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "b2400a2d8eb0e124b6121814f477e0e92992ce63557ba17e646f3b8469c70a14",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Tensions flare over alleged scabs as strike at Highland Valley Copper enters fourth week",
+      "summary": "Tensions flare over alleged scabs as strike at Highland Valley Copper enters fourth week CFJC Today Kamloops",
+      "source": "CFJC Today Kamloops",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSXpkWXd6M0ZhYnRRRHo3YnE2X19MVUpmVmNwWnBWT19RSUllb1BoTXJrbEpxWG1seHV3ZzM4VkNlQW9KOE1DRTF3MVViLXVHMmw1YTJUb2R3VXpGSmQ1VHdPWGNTdjRtWm56cVNGd0pRUm0wR2g3TlNvWUhBcDJ5UEtjalFCeVIxUUlEVDhkYXZaeU8xNDVTTjlqRHJPRUlONS0yLXJxQm9sQ3FZYU1VNF9VZ0QwQTVWZmhMQjZvWQ?oc=5",
+      "publishedAt": "2026-11-15T01:22:11.000Z",
+      "priority": 42,
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Tensions flare over alleged scabs as strike at Highland Valley Copper enters fourth week CFJC Today Kamloops",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-15T02:41:24.888Z",
+      "updatedAt": "2026-11-15T02:41:24.888Z",
       "analyzedAt": null
     },
     {
@@ -10030,78 +10072,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-13T11:01:57.026Z",
       "updatedAt": "2026-11-13T11:01:57.026Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "93e180159fde74640ead1f0d29dc70c34ee22bb9bf2dd425a859014be6726a68",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Dollar falls, gold and silver rise together, metals broadly decline, LME copper, LME zinc, and LME nickel lead losses, SHFE tin rebounds [Overnight market]",
-      "summary": "Dollar falls, gold and silver rise together, metals broadly decline, LME copper, LME zinc, and LME nickel lead losses, SHFE tin rebounds [Overnight market] Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOSng2WlhMMFRoMjNtQ0ltb0Rvdm1ocks4SjJ0NnFkQlp4djRocDJ2VmxnM01IeWoyeXRlR1JRT0tHNnBRYlBlYjhTQUR4OUdESVF2ZzJpenZXcXltZzVjaTZVN2lDM2xLcFNwMXBYTElQYXFOdWlRNzJtSTZsLV9Cb2JHQXBkZ2NocnU2ZFMwckFCR2JQUWYtNE9GenFGeXFJRDlIajByYVctWEVGMWo4c1FyRWFNdy1KVGdyRHc1bWlra2t5T1g4WU1BQTdvV2ZjdXF3dEdmTEJfWkQ0ZWZTTzZkdmdRSVhiemY5cWRLQ2xBZW41N1oxandEU3VHYkR6NmFNZjRWZUZqYWNZcGxUOXM5T3pnbmlCU1Q2aw?oc=5",
-      "publishedAt": "2026-10-16T00:24:00.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "FX"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Dollar falls, gold and silver rise together, metals broadly decline, LME copper, LME zinc, and LME nickel lead losses, SHFE tin rebounds [Overnight market] Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-16T00:47:23.789Z",
-      "updatedAt": "2026-10-16T00:47:23.789Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "5f58242ad56ee78f426ffb1dc2bba64ba2ccb7c7777c4bd396cba14c030a935c",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "SMM, October 16: After the SHFE copper contract rollover, futures pull",
-      "summary": "SMM, October 16: After the SHFE copper contract rollover, futures pull Shanghai Metals Market",
-      "source": "Shanghai Metals Market",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmpYT1hFbldwWWJzQUlSeVAwM203YlZxMkFVR21RV0VTUGRSRldqSWVuMWZZN3d3RmlrSXZGS0FxelVNMkRaZmFMRnRoYkljNFVBYnNyWkpVSTBHLXJIV0xLVmYwNjhUZUYtUXlpUC1Cd2VVSnRCSEtpWjFGVHp3clpfMndLSVUxVUZLbGZuRmhmenoxZS1YWU12bXdMNlZJTm5TQkZhX1gteHJ1WUw0cC1LSGg2aS1oRGxDZTNvcno2OEJfdmdoTWJPeUFRU0RGdGRpbHZ3?oc=5",
-      "publishedAt": "2026-10-16T01:52:00.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "SMM, October 16: After the SHFE copper contract rollover, futures pull Shanghai Metals Market",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-16T05:52:56.515Z",
-      "updatedAt": "2026-10-16T05:52:56.515Z",
       "analyzedAt": null
     },
     {
@@ -18081,6 +18051,43 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-14T19:11:13.549Z",
       "updatedAt": "2026-11-14T19:11:13.549Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "05de6bc196d90d5724ee3b77607bb7c6d7dc914241ee85e0cd46e7b36789399c",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "구리가격·SMP↑…한전, 투자·전력구매 ‘나갈 돈’ 늘어 투자 부담↑",
+      "summary": "구리가격·SMP↑…한전, 투자·전력구매 ‘나갈 돈’ 늘어 투자 부담↑ 에너지경제신문",
+      "source": "에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SZlRwU2lqa1FkemJrQ1VjQjZMV1ZRdXIyajNia1RleGFGb0twM3Z2dnpaMlBuQVZrNVB5Q0I0ZmxNQjVaZWowZ1E4SklIVWw1V3hKMHQwSG1LMDQ?oc=5",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "ENERGY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "구리가격·SMP↑…한전, 투자·전력구매 ‘나갈 돈’ 늘어 투자 부담↑ 에너지경제신문",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-15T02:41:24.888Z",
+      "updatedAt": "2026-11-15T02:41:24.888Z",
       "analyzedAt": null
     },
     {

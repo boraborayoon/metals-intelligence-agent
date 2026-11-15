@@ -1,6 +1,241 @@
 {
-  "generatedAt": "2026-11-14T22:59:12.294Z",
+  "generatedAt": "2026-11-15T02:41:24.888Z",
   "items": [
+    {
+      "id": "b2400a2d8eb0e124b6121814f477e0e92992ce63557ba17e646f3b8469c70a14",
+      "titleSourceHash": "35e98f150650e62ab766b7cdbed2b49d8cac3395f8262ccd7ac067458d980546",
+      "eventId": "e951fd7aeaa2b3b62c8159770ffdf9731b35da1fed3fdd5b15a0bcf0687485d1",
+      "title": "Tensions flare over alleged scabs as strike at Highland Valley Copper enters fourth week",
+      "normalizedTitle": "tensions flare over alleged scabs as strike at highland valley copper enters fourth week",
+      "description": "Tensions flare over alleged scabs as strike at Highland Valley Copper enters fourth week CFJC Today Kamloops",
+      "source": "CFJC Today Kamloops",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-11-15T01:22:11.000Z",
+      "fetchedAt": "2026-11-15T02:41:24.888Z",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSXpkWXd6M0ZhYnRRRHo3YnE2X19MVUpmVmNwWnBWT19RSUllb1BoTXJrbEpxWG1seHV3ZzM4VkNlQW9KOE1DRTF3MVViLXVHMmw1YTJUb2R3VXpGSmQ1VHdPWGNTdjRtWm56cVNGd0pRUm0wR2g3TlNvWUhBcDJ5UEtjalFCeVIxUUlEVDhkYXZaeU8xNDVTTjlqRHJPRUlONS0yLXJxQm9sQ3FZYU1VNF9VZ0QwQTVWZmhMQjZvWQ?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "strike"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "strike"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "STRIKE"
+      ],
+      "primaryCategory": "Labor Disruption",
+      "titleKo": "Tensions flare over alleged scabs as strike at Highland Valley Copper enters fourth week",
+      "summaryKo": "Tensions flare over alleged scabs as strike at Highland Valley Copper enters fourth week CFJC Today Kamloops",
+      "marketImpact": "Bullish",
+      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+      "procurementImpact": "NEGATIVE",
+      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "IMMEDIATE",
+      "confidence": "MEDIUM",
+      "signals": [
+        "Supply Tightening",
+        "Supply Disruption",
+        "Price Increase Risk"
+      ],
+      "keyEvidence": [
+        "strike"
+      ],
+      "conflictingSignals": false,
+      "codexReviewEvent": true,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Tensions flare over alleged scabs as strike at Highland Valley Copper enters fourth week CFJC Today Kamloops",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Tensions flare over alleged scabs as strike at Highland Valley Copper enters fourth week CFJC Today Kamloops",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "priority": 42,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Material event taxonomy; High-impact event requires evidence review",
+      "sent": true,
+      "sentAt": "2026-11-15T02:41:24.888Z"
+    },
+    {
+      "id": "05de6bc196d90d5724ee3b77607bb7c6d7dc914241ee85e0cd46e7b36789399c",
+      "titleSourceHash": "4bac30a73e3c54cfb0c4fefe23b2487c312c6b1a138348727e77040cf763ef6f",
+      "eventId": "2e1393da5f0e099172b79b001cc8644a8c36e13bfcd9f4dc79470019a0d38eb3",
+      "title": "구리가격·SMP↑…한전, 투자·전력구매 ‘나갈 돈’ 늘어 투자 부담↑",
+      "normalizedTitle": "구리가격·smp↑ 한전 투자·전력구매 나갈 돈 늘어 투자 부담↑",
+      "description": "구리가격·SMP↑…한전, 투자·전력구매 ‘나갈 돈’ 늘어 투자 부담↑ 에너지경제신문",
+      "source": "에너지경제신문",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "fetchedAt": "2026-11-15T02:41:24.888Z",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SZlRwU2lqa1FkemJrQ1VjQjZMV1ZRdXIyajNia1RleGFGb0twM3Z2dnpaMlBuQVZrNVB5Q0I0ZmxNQjVaZWowZ1E4SklIVWw1V3hKMHQwSG1LMDQ?oc=5",
+      "language": "ko",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "구리"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "가격"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "구리"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "가격"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE",
+        "ENERGY"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "구리가격·SMP↑…한전, 투자·전력구매 ‘나갈 돈’ 늘어 투자 부담↑",
+      "summaryKo": "구리가격·SMP↑…한전, 투자·전력구매 ‘나갈 돈’ 늘어 투자 부담↑ 에너지경제신문",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "ENERGY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "구리가격·SMP↑…한전, 투자·전력구매 ‘나갈 돈’ 늘어 투자 부담↑ 에너지경제신문",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "ENERGY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "구리가격·SMP↑…한전, 투자·전력구매 ‘나갈 돈’ 늘어 투자 부담↑ 에너지경제신문",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-11-15T02:41:24.888Z"
+    },
     {
       "id": "20f34be1564e0b35ae6b14e4f7007adf1ce372b7c77f3be78e50b2ce27614d2c",
       "titleSourceHash": "d70fe8e2d9ddaa3841b2febc7674ea5726047eefc946be898468caddba31530e",
@@ -222,6 +457,119 @@
       "sentAt": "2026-11-14T19:11:13.549Z"
     },
     {
+      "id": "d181d6ff4aadf1613c1f9dd79fe8f6b419e07f1aa5f13c0f9a63c53f4b254908",
+      "titleSourceHash": "2029c84714e1c84f05c59dbcfc6845777b3ad96dcac08bf4239b2f590f8810af",
+      "eventId": "6091320046487a196cd15253d1018c6a5801fed77d9dba5168a786f5c7093871",
+      "title": "Write to Win: Meet this season’s winner, Chloe Kan Wai-nam from Tin Ka Ping Secondary School",
+      "normalizedTitle": "write to win meet this season s winner chloe kan wai-nam from tin ka ping secondary school",
+      "description": "Write to Win: Meet this season’s winner, Chloe Kan Wai-nam from Tin Ka Ping Secondary School South China Morning Post",
+      "source": "South China Morning Post",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-11-14T15:00:00.000Z",
+      "fetchedAt": "2026-11-15T02:41:24.888Z",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb3RQRVdUTGV3em5UbUJBVGVPUWxTTWdiQkVlNTdKczllOFVGNWprY3dEaExEUDhtZ09yelV3aGx1WWZTbkxkeFlnNFR2NGcxLXNuTk9VbXFPN2U0UlRLY3FXZXJsQU0wb05GMnVVWU16cVhWT3Z0S1hJbTVBbTJJQ3dXdGNBNEFqaDdHb2NDeVNfb0hBQV9KZk5nS21JdjNwQWRLaThQWFdCR05KUHY3QzJRN0VQQ1JiNnVwV2pQeUtBY3FHeVN2cy1BWTNIcklNbk12alFlajlwalI4LVJRY0UzVGs2enpJNnJvcw?oc=5",
+      "language": "en",
+      "commodity": "TIN",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "tin"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "China"
+      ],
+      "matchedMarketTerms": [],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "TIN",
+          "score": 8,
+          "matchedKeywords": [
+            "tin"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "China"
+          ],
+          "matchedMarketTerms": [],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "LOW",
+      "categories": [
+        "CHINA"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Write to Win: Meet this season’s winner, Chloe Kan Wai-nam from Tin Ka Ping Secondary School",
+      "summaryKo": "Write to Win: Meet this season’s winner, Chloe Kan Wai-nam from Tin Ka Ping Secondary School South China Morning Post",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "China"
+      ],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Write to Win: Meet this season’s winner, Chloe Kan Wai-nam from Tin Ka Ping Secondary School South China Morning Post",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "LOW",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Write to Win: Meet this season’s winner, Chloe Kan Wai-nam from Tin Ka Ping Secondary School South China Morning Post",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 14,
+      "codexStatus": null,
+      "codexReviewReason": null,
+      "sent": false,
+      "sentAt": null
+    },
+    {
       "id": "72f43be6749ad0a14d436309cdff5b5b455d7967189ab00fc5d66433c298032f",
       "titleSourceHash": "755edd2c284b494b88e1a9a76072defeab55caaead085fe14babead327671113",
       "eventId": "0b0803da28eb732e1e94b51c3f378ea8b6a16a9b3c26b1bff8d8596fc0dcefea",
@@ -338,7 +686,7 @@
       "source": "Crux Investor",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-11-14T09:48:11.000Z",
-      "fetchedAt": "2026-11-14T22:59:12.294Z",
+      "fetchedAt": "2026-11-15T02:41:24.888Z",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenlBbFZpYlpCYXZaTXlRYkNMQXhIZV9lQnJKWXBaSkVtVjBNMHpiaWFoalZWR3FRNDBHTzU4aGtuUWdCTlktTGNZTjZlZW9FUkpkWG53QVcxNlFBX3hkeXk0Y2hYM2x3UWJZbzZoTzc3TFVvdFhCME9WcDhaZlk4YzBpOVlVRUhRUDR3LUIyNGtqVTdrc3ZkcWx4alVteFRNa3FJTkVLU1FObzJRWEI0R1JNdlZETnFVQUtoWXFNZw?oc=5",
       "language": "en",
       "commodity": "COPPER",
@@ -881,7 +1229,7 @@
       "source": "씬짜오베트남",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-11-14T01:54:25.000Z",
-      "fetchedAt": "2026-11-14T22:59:12.294Z",
+      "fetchedAt": "2026-11-15T02:41:24.888Z",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9yM1ZyYi00RlJhZVhRbUN2X2lvaXE3dWx3SHYzX1pZbzdydWxwNVBXU0hLUnVKUnpCc1hvVnVhUDMzZ3pUY3pWaw?oc=5",
       "language": "ko",
       "commodity": "TIN",
@@ -968,7 +1316,7 @@
         "signals": [],
         "urgent": false
       },
-      "priority": 12,
+      "priority": 8,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
@@ -33481,329 +33829,6 @@
         "urgent": false
       },
       "priority": 32,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "e0d5e7cceafc4a0545fa9fb04d5e976bb78b33bf881e714b7f2b2f999d7d41d1",
-      "titleSourceHash": "f500d51e3ff26820a8bb4bf66e1a87fe3b110ba4ded0728d87e7a5bfcac87a7c",
-      "eventId": "290144578fc32b7a412ca9a62bf0db3d2afedf28471228df0a8938e81ef8f547",
-      "title": "AI Stock Selloff Drags Tin Prices Down Sharply, Yet LME Cash Premium Hits One-Year High",
-      "normalizedTitle": "ai stock selloff drags tin prices down sharply yet lme cash premium hits one-year high",
-      "description": "AI Stock Selloff Drags Tin Prices Down Sharply, Yet LME Cash Premium Hits One-Year High BigGo Finance",
-      "source": "BigGo Finance",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-11-09T06:36:00.000Z",
-      "fetchedAt": "2026-11-09T20:45:44.396Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhWl9POUpVOEl3YWNpLVJId1hqdUI0TUEyeE1UZktRWllNZHZHLWRPOXRwM1RwelFod1dCSW9KZ2U1SFQwVlRUOXR3SUVibnJ1Mm1HTjhYLUFUQ3BpR0k2bUNrNEs4ZW90TzBnLUFuWUQ0TFJMd3c?oc=5",
-      "language": "en",
-      "commodity": "TIN",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "tin"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [
-        "premium"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "TIN",
-          "score": 9,
-          "matchedKeywords": [
-            "tin"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [
-            "premium"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "AI Stock Selloff Drags Tin Prices Down Sharply, Yet LME Cash Premium Hits One-Year High",
-      "summaryKo": "AI Stock Selloff Drags Tin Prices Down Sharply, Yet LME Cash Premium Hits One-Year High BigGo Finance",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "AI Stock Selloff Drags Tin Prices Down Sharply, Yet LME Cash Premium Hits One-Year High BigGo Finance",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "AI Stock Selloff Drags Tin Prices Down Sharply, Yet LME Cash Premium Hits One-Year High BigGo Finance",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 30,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "736493443b7c950e01b1cabcd38aa1c0b36ba44afe3ae39e059533a795b7a04f",
-      "titleSourceHash": "fe56536612e8f7f5c1b815c5078064e4bd18a615099f5b2060becb0abef4eab3",
-      "eventId": "044b753371fc5081f1503ce5033f3a73c33d1eb93357f8342074cf0ff0fd5b72",
-      "title": "Aluminum vs Wood Fence Cost: GD Aluminum Releases 10-Year Total Ownership Study for Commercial Bidders",
-      "normalizedTitle": "aluminum vs wood fence cost gd aluminum releases 10-year total ownership study for commercial bidders",
-      "description": "Aluminum vs Wood Fence Cost: GD Aluminum Releases 10-Year Total Ownership Study for Commercial Bidders TechBullion",
-      "source": "TechBullion",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-11-09T06:35:06.000Z",
-      "fetchedAt": "2026-11-09T09:49:58.698Z",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFBpQXRRWjFtUVVBMnNVX1BJTEszeFViaGVPQzZTYXZLWmc1bUFBU09VVUVPV2pCUzFwMVA5V0VBdnNXb3lJV2c2U0NyX2VJd2ZPMXJxaWZxN2hTdEdVZ195bTN5aXFqMkNHWTFzTHk5MnphZkNZSW80Vk4xMWV4RmU1djViOTZhNkp4Z0xZZzcxU1RyOXRLbVZxSC03dHpDQmlQVk41ZWxnbjhPMzliRVFfNklfNHUzUFJpM0RyZjZ2REtD?oc=5",
-      "language": "en",
-      "commodity": "ALUMINUM",
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "aluminum"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "ALUMINUM",
-          "score": 6,
-          "matchedKeywords": [
-            "aluminum"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "COMPANY"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Aluminum vs Wood Fence Cost: GD Aluminum Releases 10-Year Total Ownership Study for Commercial Bidders",
-      "summaryKo": "Aluminum vs Wood Fence Cost: GD Aluminum Releases 10-Year Total Ownership Study for Commercial Bidders TechBullion",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aluminum vs Wood Fence Cost: GD Aluminum Releases 10-Year Total Ownership Study for Commercial Bidders TechBullion",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Aluminum vs Wood Fence Cost: GD Aluminum Releases 10-Year Total Ownership Study for Commercial Bidders TechBullion",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 16,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "b824826e88ebb866da9988cb61798cd56be05ede33edbbb6ce99af41e1eff877",
-      "titleSourceHash": "f3b9e39481edcf306037ddff46f9fd77a368bd307cf6e6a2c95eafdd9a386974",
-      "eventId": "1c63f6962ba3e7b56880ca952a06ca06ed4a56f8a9bbacf4c46db03d4e32f2f5",
-      "title": "Top 5 Aluminum Window and Door Manufacturers in China for the Central American Market: A Buyer's Guide",
-      "normalizedTitle": "top 5 aluminum window and door manufacturers in china for the central american market a buyer s guide",
-      "description": "Top 5 Aluminum Window and Door Manufacturers in China for the Central American Market: A Buyer's Guide EIN News",
-      "source": "EIN News",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-11-09T06:35:00.000Z",
-      "fetchedAt": "2026-11-09T09:49:58.698Z",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNEJrT05XX0VHNjZpM1JyTVNhWUZ4SFZub0lVN1ROTGdicnZnQmV6ZU91MDFRTldsYWwyWWlqMU9jYzJwQnRSeFZ3RkEwb2ExNlU0Mjg2dV9ZMC1IQ2pLNFZmQW5DeDVmUDlyZm43akRaOG5WTS1MS0R0cktjRTVYSGFyeHJ2QWI4dElCYmZVMGZGR0FmMzl3NF9Wdm5JQlBJMVN2OFRVTmpQT21aNDE1Q0NXQVk1ZUM4NjZ2ZWdMakhXU3hrTTVwMlFIQXAzb1ZWVklXdk16SUhLVk0?oc=5",
-      "language": "en",
-      "commodity": "ALUMINUM",
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "aluminum"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "ALUMINUM",
-          "score": 8,
-          "matchedKeywords": [
-            "aluminum"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "CHINA"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Top 5 Aluminum Window and Door Manufacturers in China for the Central American Market: A Buyer's Guide",
-      "summaryKo": "Top 5 Aluminum Window and Door Manufacturers in China for the Central American Market: A Buyer's Guide EIN News",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Top 5 Aluminum Window and Door Manufacturers in China for the Central American Market: A Buyer's Guide EIN News",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Top 5 Aluminum Window and Door Manufacturers in China for the Central American Market: A Buyer's Guide EIN News",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 18,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
