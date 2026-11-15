@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-15T17:12:49.867Z",
+  "generatedAt": "2026-11-15T21:51:10.779Z",
   "counts": {
-    "PENDING": 490,
+    "PENDING": 492,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -215,16 +215,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-10-23T09:54:00.000Z"
-    },
-    {
-      "id": "1afd668692636dc7641736ef80bdce93b25517e1012da1bee246c5b3ed13a220",
-      "commodity": "ALUMINUM",
-      "importance": "HIGH",
-      "title": "호주는 중국산 알루미늄 및 유리문에 최대 70.4%의 관세를 부과하는 방안을 검토하고 있다.",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-16T21:16:14.000Z"
     },
     {
       "id": "ed973b0e79cff6f24629a59711ce01a3287c5b8d4c2ba953354eb516403fd297",
@@ -837,6 +827,16 @@
       "publishedAt": "2026-11-15T04:59:54.000Z"
     },
     {
+      "id": "119f2272b6ae9bd49cf438e0066cca127af1b15625e5292f76c6d609659ca161",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Kamloops MP urges fair deal for Highland Valley Copper workers amid strike",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Castanet Kamloops",
+      "publishedAt": "2026-11-15T19:00:28.000Z"
+    },
+    {
       "id": "3834671fa8a43cb47a2cbd0b11c7c8c129f35e836074359bc426dd1951ed4811",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1075,26 +1075,6 @@
       "codexStatus": "PENDING",
       "source": "FXEmpire",
       "publishedAt": "2026-11-09T09:44:33.000Z"
-    },
-    {
-      "id": "9631b182491606f5c651a3641f5a6be85e1bbbe49c73ff7778ecd0aed8ca8a30",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Price October 19 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Robinhood",
-      "publishedAt": "2026-10-16T18:29:58.000Z"
-    },
-    {
-      "id": "fec081f98f5e8ab05cfe7b56867cb51e69d3ec278f884df40b68ec4421e537a8",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Tulsa Ports considers legal action against Inola over proposed $4 billion aluminum smelter",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "2 News Oklahoma KJRH Tulsa",
-      "publishedAt": "2026-10-16T21:45:40.000Z"
     },
     {
       "id": "14150d2b99e4626cef306147f465c2dc14f29e876c1367b3b89179ba7420964b",
@@ -4647,6 +4627,36 @@
       "publishedAt": "2026-11-15T08:05:00.000Z"
     },
     {
+      "id": "8545c3bf3fbb4b20cfeff0bc85822f847f2272de5ac0deaa5fd7868c03583ea2",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "\"젠슨 황 퇴진에 구리 가격 4개월 만에 최저\"… AI 우려가 원자재 시장까지 흔들었다",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "글로벌이코노믹",
+      "publishedAt": "2026-11-15T20:45:00.000Z"
+    },
+    {
+      "id": "1bf3844bf1528153de01941c216abeddf01ab6328ac23172961784ed1d8f005b",
+      "commodity": "MOLYBDENUM",
+      "importance": "MEDIUM",
+      "title": "Molybdenum Fertilizers (Molybdates) Market To 2035: Legume Demand Supports Forward Growth - News and Statistics",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-15T18:31:07.000Z"
+    },
+    {
+      "id": "0adb72a669065ef84e4fe10f74e1af333c48357fff527801aede48770e0acf9b",
+      "commodity": "MOLYBDENUM",
+      "importance": "MEDIUM",
+      "title": "몰리브덴 비료(몰리브데이트) 시장 2035년 전망: 콩과 작물 수요가 성장 견인 - 뉴스 및 통계",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-15T18:31:07.000Z"
+    },
+    {
       "id": "ee8fbc8730ea6e1b471ad93114d63397d599fec62016f7a3334cd3fd22110fab",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4765,6 +4775,16 @@
       "codexStatus": "PENDING",
       "source": "Vietnam.vn",
       "publishedAt": "2026-11-14T15:56:36.000Z"
+    },
+    {
+      "id": "f3dba185e2e78637dbd6b1f0de14eb30b012b0e8fca7b712cee5a0e7f892bd7e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper piles up in the US as China pays a premium",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "ISI Markets",
+      "publishedAt": "2026-11-14T00:04:48.000Z"
     },
     {
       "id": "22d7e24e8a6dbf53276c8888765fad8842ee38819f4a73ba126ceca812853b1c",

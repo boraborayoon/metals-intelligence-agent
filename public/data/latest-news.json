@@ -1,6 +1,455 @@
 {
-  "generatedAt": "2026-11-15T17:12:49.867Z",
+  "generatedAt": "2026-11-15T21:51:10.779Z",
   "items": [
+    {
+      "id": "8545c3bf3fbb4b20cfeff0bc85822f847f2272de5ac0deaa5fd7868c03583ea2",
+      "titleSourceHash": "74427679e8ff89fa8b18100e48acf3461871063c0cf4519aaaa5f94b227237ee",
+      "eventId": "78cb25bcbd02af310aeadb799299fc2390731bea7edc9645e63f0bd998a88752",
+      "title": "\"젠슨 황 퇴진에 구리 가격 4개월 만에 최저\"… AI 우려가 원자재 시장까지 흔들었다",
+      "normalizedTitle": "젠슨 황 퇴진에 구리 가격 4개월 만에 최저 ai 우려가 원자재 시장까지 흔들었다",
+      "description": "\"젠슨 황 퇴진에 구리 가격 4개월 만에 최저\"… AI 우려가 원자재 시장까지 흔들었다 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-11-15T20:45:00.000Z",
+      "fetchedAt": "2026-11-15T21:51:10.779Z",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUm9SVWllYlllZW05ZllReHdsZ05xRzE5Q3NNS0FMb1JwY2tPcmNoLUtPcXQzTjlhSl82M2EzeTZwejR1cjJqTnl3X29NMF9WNnBWajMzVy04Y1pJcHRKX3RTdXZQQ2NlRHpPX252a0JJQnlOVXZ5QlZrOUFiUmY1bjlfbkRpdnAw?oc=5",
+      "language": "ko",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "구리"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "가격"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "구리"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "가격"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "\"젠슨 황 퇴진에 구리 가격 4개월 만에 최저\"… AI 우려가 원자재 시장까지 흔들었다",
+      "summaryKo": "\"젠슨 황 퇴진에 구리 가격 4개월 만에 최저\"… AI 우려가 원자재 시장까지 흔들었다 글로벌이코노믹",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "\"젠슨 황 퇴진에 구리 가격 4개월 만에 최저\"… AI 우려가 원자재 시장까지 흔들었다 글로벌이코노믹",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "\"젠슨 황 퇴진에 구리 가격 4개월 만에 최저\"… AI 우려가 원자재 시장까지 흔들었다 글로벌이코노믹",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-11-15T21:51:10.779Z"
+    },
+    {
+      "id": "119f2272b6ae9bd49cf438e0066cca127af1b15625e5292f76c6d609659ca161",
+      "titleSourceHash": "a71acb366000a36444bb9606578f33ff2eef6f94312a611ffe2a716a1320bccd",
+      "eventId": "7c923dd75d58b6f72d81bc707273ce540b838999823c96110943182ecee7bf23",
+      "title": "Kamloops MP urges fair deal for Highland Valley Copper workers amid strike",
+      "normalizedTitle": "kamloops mp urges fair deal for highland valley copper workers amid strike",
+      "description": "Kamloops MP urges fair deal for Highland Valley Copper workers amid strike Castanet Kamloops",
+      "source": "Castanet Kamloops",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-11-15T19:00:28.000Z",
+      "fetchedAt": "2026-11-15T21:51:10.779Z",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOEhwemR0LVM2RDRxQ181OUpDa0JhbDZ2NHJ1UUNuYmVBSzFweTdqUklPZTZNVWhmbkdUdUk4bWMyZmY3U0ExZnZ4dFRiUUdUSnctMlNOUmVOaW05dURWVTdPaWRDTnN0SUFkWm9DM3pvWWFTYU9ORHBOQTFUWEFoeHNuZENWclFVV1hRZGdXNlhyVFlvUXp1X3ZWeE9iS0pBc2VlbW0zeW5IS25DQlhzWnR4NXNuUUZlTHpCOTVwdFdxN0NWcDhN?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "strike"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 9,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "strike"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "STRIKE"
+      ],
+      "primaryCategory": "Labor Disruption",
+      "titleKo": "Kamloops MP urges fair deal for Highland Valley Copper workers amid strike",
+      "summaryKo": "Kamloops MP urges fair deal for Highland Valley Copper workers amid strike Castanet Kamloops",
+      "marketImpact": "Bullish",
+      "impactReasonKo": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+      "procurementImpact": "NEGATIVE",
+      "procurementReasonKo": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "IMMEDIATE",
+      "confidence": "MEDIUM",
+      "signals": [
+        "Supply Tightening",
+        "Supply Disruption",
+        "Price Increase Risk"
+      ],
+      "keyEvidence": [
+        "strike"
+      ],
+      "conflictingSignals": false,
+      "codexReviewEvent": true,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Kamloops MP urges fair deal for Highland Valley Copper workers amid strike Castanet Kamloops",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Bullish",
+        "procurementImpact": "NEGATIVE",
+        "category": "Labor Disruption",
+        "categories": [
+          "STRIKE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Kamloops MP urges fair deal for Highland Valley Copper workers amid strike Castanet Kamloops",
+        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
+        "keyEvidence": [
+          "strike"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "IMMEDIATE",
+        "signals": [
+          "Supply Tightening",
+          "Supply Disruption",
+          "Price Increase Risk"
+        ],
+        "urgent": false
+      },
+      "priority": 42,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Material event taxonomy; High-impact event requires evidence review",
+      "sent": true,
+      "sentAt": "2026-11-15T21:51:10.779Z"
+    },
+    {
+      "id": "1bf3844bf1528153de01941c216abeddf01ab6328ac23172961784ed1d8f005b",
+      "titleSourceHash": "fc77faab3026efb17ff81f31afc198488e7bb39ca477f6a17576b0d84f40a378",
+      "eventId": "90769ab7e21a445562adccc6abcd6044ed519f056ee5c3e10e51fba02be109ee",
+      "title": "Molybdenum Fertilizers (Molybdates) Market To 2035: Legume Demand Supports Forward Growth - News and Statistics",
+      "normalizedTitle": "molybdenum fertilizers molybdates market to 2035 legume demand supports forward growth - news and statistics",
+      "description": "Molybdenum Fertilizers (Molybdates) Market To 2035: Legume Demand Supports Forward Growth - News and Statistics IndexBox",
+      "source": "IndexBox",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-11-15T18:31:07.000Z",
+      "fetchedAt": "2026-11-15T21:51:10.779Z",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWW0tN1NCNk50bGM2dXA0V0tKaEt1Mmc5dzhSbEVIZDFuamZiUXFzUlU4c29oVm9RNWlibUJpaEs5bGJSandNVEtjdGluOVhpVFd3V21oR3BBdExvbXRldi1KbDVJalRjd2lYazJ6TVFxY1dVWHczenB6QTJXV0g4RkU0S0FRa3RuZzFEUHRqUzZwWTZpaW9YSEJjRm9MMlBOcDRBVVBHc2R6cFV6VmhycW00UXpNUWVMZm5LNV9BeFRiRW5qQkgzbA?oc=5",
+      "language": "en",
+      "commodity": "MOLYBDENUM",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "molybdenum"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "demand"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "MOLYBDENUM",
+          "score": 9,
+          "matchedKeywords": [
+            "molybdenum"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "demand"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "DEMAND",
+        "LOGISTICS"
+      ],
+      "primaryCategory": "Demand",
+      "titleKo": "Molybdenum Fertilizers (Molybdates) Market To 2035: Legume Demand Supports Forward Growth - News and Statistics",
+      "summaryKo": "Molybdenum Fertilizers (Molybdates) Market To 2035: Legume Demand Supports Forward Growth - News and Statistics IndexBox",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Molybdenum Fertilizers (Molybdates) Market To 2035: Legume Demand Supports Forward Growth - News and Statistics IndexBox",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND",
+          "LOGISTICS"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Molybdenum Fertilizers (Molybdates) Market To 2035: Legume Demand Supports Forward Growth - News and Statistics IndexBox",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-11-15T21:51:10.779Z"
+    },
+    {
+      "id": "0adb72a669065ef84e4fe10f74e1af333c48357fff527801aede48770e0acf9b",
+      "titleSourceHash": "645fc73a162d0436aeed0b99adc83e5c585438ae187bb23148ac130a937bb6d6",
+      "eventId": "6e18347142b88f8d1d0d7ce8d0c254a98aef8c61a07015656b733525c3edef7c",
+      "title": "몰리브덴 비료(몰리브데이트) 시장 2035년 전망: 콩과 작물 수요가 성장 견인 - 뉴스 및 통계",
+      "normalizedTitle": "몰리브덴 비료 몰리브데이트 시장 2035년 전망 콩과 작물 수요가 성장 견인 - 뉴스 및 통계",
+      "description": "몰리브덴 비료(몰리브데이트) 시장 2035년 전망: 콩과 작물 수요가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "source": "IndexBox",
+      "feedSource": "Google News Metals KO",
+      "publishedAt": "2026-11-15T18:31:07.000Z",
+      "fetchedAt": "2026-11-15T21:51:10.779Z",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNWs5NHE5X0p1V2dJdFpqWHdBdkRTZjlmdkRqcFRHWG5zTzNYel9wR2wtYmwxZGYzVUVDcXREMGRKT2hROGh1VWJaRHZmWTNVdmxyYnZqS09oZzcxc2NUQmJQZURLTElNNzZtR2hvSV9CTFhZNl91QnFmRXhGX3FWZzk5VWZndnNIV0JORXM4NUg0T2JBNW9ENXR1MWIwZlZZd3JGTEhlVF9XOGRnZ2JzTzhjbUFKbkE1aU5kWEM3SzQ2OFNDMWdCLThDdlE?oc=5",
+      "language": "ko",
+      "commodity": "MOLYBDENUM",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "몰리브덴"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [],
+      "matchedMarketTerms": [
+        "수요"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "MOLYBDENUM",
+          "score": 9,
+          "matchedKeywords": [
+            "몰리브덴"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [],
+          "matchedMarketTerms": [
+            "수요"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "DEMAND"
+      ],
+      "primaryCategory": "Demand",
+      "titleKo": "몰리브덴 비료(몰리브데이트) 시장 2035년 전망: 콩과 작물 수요가 성장 견인 - 뉴스 및 통계",
+      "summaryKo": "몰리브덴 비료(몰리브데이트) 시장 2035년 전망: 콩과 작물 수요가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [],
+      "companies": [],
+      "timeHorizon": "UNCLEAR",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "몰리브덴 비료(몰리브데이트) 시장 2035년 전망: 콩과 작물 수요가 성장 견인 - 뉴스 및 통계 IndexBox",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Demand",
+        "categories": [
+          "DEMAND"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "몰리브덴 비료(몰리브데이트) 시장 2035년 전망: 콩과 작물 수요가 성장 견인 - 뉴스 및 통계 IndexBox",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 34,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-11-15T21:51:10.779Z"
+    },
     {
       "id": "188fc6189a0544b273178a1fc1dabf9dfd4e917b9510c96b84e0b2ba6b8ad4f6",
       "titleSourceHash": "b947f0ec46691c56a8615f68e1ed60105141ed49a68d8b8bf38758c4491b4e5c",
@@ -332,7 +781,7 @@
       "source": "TradingView",
       "feedSource": "Google News Metals EN",
       "publishedAt": "2026-11-15T05:43:00.000Z",
-      "fetchedAt": "2026-11-15T17:12:49.867Z",
+      "fetchedAt": "2026-11-15T21:51:10.779Z",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNTdoeUgzd0FKTnRTbVozd1hzeUxsVEdrc1hwRUFGUi1PTjVzSVRXVFVpeEVpbTVDV0JsczRFT1l2U29BS055V3BTMFFkZFE1NXBoeXd2QW5aNk10YnBneWNRQzB0UFpFYjZEUnUxbTRVam9WRXpna3NScmF4UkkwXzdxWGRuVW1CLTdSenlCMl9zUGFKaGVTaFg0QWd6REhVcUxodHlEQnBhY0VvOHFSVmZtaVg4THJXMnlKc1Jyc2RvNldtdTdEdlpDR01nTmZucmw0QkZEOFhiQXFp?oc=5",
       "language": "en",
       "commodity": "ALUMINUM",
@@ -1470,7 +1919,7 @@
       "source": "Vietnam.vn",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-11-14T14:49:44.000Z",
-      "fetchedAt": "2026-11-15T17:12:49.867Z",
+      "fetchedAt": "2026-11-15T21:51:10.779Z",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWEV0NVkzUTBSSFUwd3l0RVo1YWpwckJKYWRkUFJFYTBwN19PM0d4WWJiT1BnVE5WNG9MYmNUajgtWXEzSk1ybTFMVTB0YkJUeGNzaElsV2E1N1IzZ1Bpdk5pUGFWTWlwN0VFclFTUGtncXFMZ3FkWmZNVnBhQ0gxc2JDalY1SnpMMFVhdWc4Q2d4VE9zdnhtX1M4VWMydw?oc=5",
       "language": "ko",
       "commodity": "TIN",
@@ -2333,7 +2782,7 @@
       "source": "Vietnam.vn",
       "feedSource": "Google News Metals KO",
       "publishedAt": "2026-11-14T02:00:00.000Z",
-      "fetchedAt": "2026-11-15T17:12:49.867Z",
+      "fetchedAt": "2026-11-15T21:51:10.779Z",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUVoU0x0QjRDZEZXSHMyZmZ6OFROM25kd2M1RDBDeXdWOWo5RzJoMHVZMGx6N1VxVFVHU1k0Zl9JZHNLWjF6MUdfdDVrRGdKRHNzZ2Q5NXFkV01tOS1FTHRVeW12RWhINWFRSWt3c0kzeWFkeUVFOERMWVhBcmJ4cEV3dktxVEFCNHVMZHhxVVV3TmJacGxSSWRMTWl4Wmh1RjM3cWE0SHlzNHFqWktHaFZhZ1MzLWlORVE0azJobFl4OWZYNENRaQ?oc=5",
       "language": "ko",
       "commodity": "TIN",
@@ -2528,6 +2977,126 @@
       "codexReviewReason": null,
       "sent": false,
       "sentAt": null
+    },
+    {
+      "id": "f3dba185e2e78637dbd6b1f0de14eb30b012b0e8fca7b712cee5a0e7f892bd7e",
+      "titleSourceHash": "ab5e7fbc47af2acd7c09b5187474b473335ceabd4df0e43f66308754be9b8d99",
+      "eventId": "32373be36ae7bc97bbd252d6983267215994cc6a2ea7c52833b15fabffbb0fce",
+      "title": "Copper piles up in the US as China pays a premium",
+      "normalizedTitle": "copper piles up in the us as china pays a premium",
+      "description": "Copper piles up in the US as China pays a premium ISI Markets",
+      "source": "ISI Markets",
+      "feedSource": "Google News Metals EN",
+      "publishedAt": "2026-11-14T00:04:48.000Z",
+      "fetchedAt": "2026-11-15T21:51:10.779Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONXBMam5ZWk54TERza2paNldRVXgxNEZOM2dRY000VGNyWGlReUwycTBxRGhQcTBYd0pMZGxseHVVNVhrLVAzSU9FZ0RSOExOXzROaGEteTdBNV9JSzdrb1lISFhrbjk5alBlWGpIX0lJT3R0MDVyNE5jSjFBQjBkTk8wNlpMTHFZS2c?oc=5",
+      "language": "en",
+      "commodity": "COPPER",
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "copper"
+      ],
+      "matchedCompanies": [],
+      "matchedRegions": [
+        "China"
+      ],
+      "matchedMarketTerms": [
+        "premium"
+      ],
+      "exclusionReason": null,
+      "commodityMatches": [
+        {
+          "commodity": "COPPER",
+          "score": 10,
+          "matchedKeywords": [
+            "copper"
+          ],
+          "matchedCompanies": [],
+          "matchedRegions": [
+            "China"
+          ],
+          "matchedMarketTerms": [
+            "premium"
+          ],
+          "exclusionReason": null
+        }
+      ],
+      "subCommodity": null,
+      "importance": "MEDIUM",
+      "categories": [
+        "PRICE",
+        "CHINA"
+      ],
+      "primaryCategory": "General",
+      "titleKo": "Copper piles up in the US as China pays a premium",
+      "summaryKo": "Copper piles up in the US as China pays a premium ISI Markets",
+      "marketImpact": "Unclear",
+      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+      "procurementImpact": "UNCLEAR",
+      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+      "regions": [
+        "China"
+      ],
+      "companies": [],
+      "timeHorizon": "SHORT_TERM",
+      "confidence": "LOW",
+      "signals": [],
+      "keyEvidence": [],
+      "conflictingSignals": false,
+      "codexReviewEvent": false,
+      "urgent": false,
+      "analysisMode": "RULE_BASED",
+      "analysisSource": "RULE",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Copper piles up in the US as China pays a premium ISI Markets",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "effectiveAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE",
+          "CHINA"
+        ],
+        "region": "China",
+        "regions": [
+          "China"
+        ],
+        "summary": "Copper piles up in the US as China pays a premium ISI Markets",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "priority": 27,
+      "codexStatus": "PENDING",
+      "codexReviewReason": "Rule direction is unclear",
+      "sent": true,
+      "sentAt": "2026-11-15T21:51:10.779Z"
     },
     {
       "id": "1d0995b83fafaa133a634037e1c3104d1f615b5c06cb9b444cb15e3c8bfd57e8",
@@ -33160,619 +33729,6 @@
         "urgent": false
       },
       "priority": 26,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "ed2fd575b15355c1cd6c95d89ff01a0bf96143f11c5642e420ed45122e5c6ecb",
-      "titleSourceHash": "5c2396c31d73512408367264212a78a5f02c1492e2fca82fc73d5d39784c1c57",
-      "eventId": "ec6c152bb8a62b6950efff2a25405dd26ea2c03bb60d1304e0ced09923234a93",
-      "title": "Factory owner proposes 928 flats at Sha Tin site as industrial demand drops",
-      "normalizedTitle": "factory owner proposes 928 flats at sha tin site as industrial demand drops",
-      "description": "Factory owner proposes 928 flats at Sha Tin site as industrial demand drops South China Morning Post",
-      "source": "South China Morning Post",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-11-09T10:00:11.000Z",
-      "fetchedAt": "2026-11-10T02:58:05.492Z",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlRjNGFqXzlGSDNLeVViS0EwYm9pR1pvZTNzbk9IY0FDQnpPSl9HRDRleFlKUWtjbUgxbzhCT2tBZER2SnNyVGlmTEhHUFdOb1ZrQUxrenIyQTB4eE9HdjVDdUVqZ3ZwcmMzcGVkVnVvaHdWZHBzUG9oUThLTENJczg2Ti01SXl4aFhJeUhic0Fwb0x4dXpRNGwxZ2Fuc1RUT2RSd0pzSU91dHdkRVZEcU1aNVc4dw?oc=5",
-      "language": "en",
-      "commodity": "TIN",
-      "relevanceScore": 10,
-      "matchedKeywords": [
-        "tin"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [
-        "demand"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "TIN",
-          "score": 10,
-          "matchedKeywords": [
-            "tin"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [
-            "demand"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "DEMAND",
-        "CHINA"
-      ],
-      "primaryCategory": "Demand",
-      "titleKo": "Factory owner proposes 928 flats at Sha Tin site as industrial demand drops",
-      "summaryKo": "Factory owner proposes 928 flats at Sha Tin site as industrial demand drops South China Morning Post",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Factory owner proposes 928 flats at Sha Tin site as industrial demand drops South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Factory owner proposes 928 flats at Sha Tin site as industrial demand drops South China Morning Post",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 31,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "635022fd7f2f35fe577e93768bbac0be5e4fe443029227b7e64ef576c3343592",
-      "titleSourceHash": "534cb44f1366bc3e324ee983ae6a3803b2e30573e2c820bf403f54f7d063af00",
-      "eventId": "9542d3859686acc5368935762d5ca7983f3f50bd375dbffd4923400c5972fba6",
-      "title": "Copper Price Forecast: China’s Tight Supply Lifts Prices Before US CPI",
-      "normalizedTitle": "copper price forecast china s tight supply lifts prices before us cpi",
-      "description": "Copper Price Forecast: China’s Tight Supply Lifts Prices Before US CPI FXEmpire",
-      "source": "FXEmpire",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-11-09T09:44:33.000Z",
-      "fetchedAt": "2026-11-09T09:49:58.698Z",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHh3Qmk5WE1qcms2dHYzWnVfME5STW90Q19xMG52ZVMwT1VINGZNNmRZazMtWENVSFdBdktFYUtYaFBmZUJHWUl2VThzc05jQnFhcG1oV203Ri1sNDEyZnY0eVZOY011eEJXb1pRZVlvdWZVcGlFaWY3MVMtTWU5bEN2MTlhWm44cGJSTW1jSFpuRkNmcTNJWWk5QWxpMFQ5OFQwUGVLWmd3T0pDZnZhUWR4LUhZVFNtS0lj?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 14,
-      "matchedKeywords": [
-        "copper",
-        "copper price"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [
-        "price",
-        "supply"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 14,
-          "matchedKeywords": [
-            "copper",
-            "copper price"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [
-            "price",
-            "supply"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "SUPPLY",
-        "CHINA"
-      ],
-      "primaryCategory": "Supply",
-      "titleKo": "Copper Price Forecast: China’s Tight Supply Lifts Prices Before US CPI",
-      "summaryKo": "Copper Price Forecast: China’s Tight Supply Lifts Prices Before US CPI FXEmpire",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper Price Forecast: China’s Tight Supply Lifts Prices Before US CPI FXEmpire",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper Price Forecast: China’s Tight Supply Lifts Prices Before US CPI FXEmpire",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 39,
-      "codexStatus": "PENDING",
-      "codexReviewReason": "Rule direction is unclear",
-      "sent": true,
-      "sentAt": "2026-11-09T09:49:58.698Z"
-    },
-    {
-      "id": "3e454c65cd2997dd762c3c5e7ba0ccc7023fe47c0661a178b0bbdf2fbbba953b",
-      "titleSourceHash": "5dd6db020ca11861134371bac918afa30213f869b572010a01bbe1d3840fa67f",
-      "eventId": "1c63f6962ba3e7b56880ca952a06ca06ed4a56f8a9bbacf4c46db03d4e32f2f5",
-      "title": "Top 5 Aluminum Window and Door Manufacturers in China for the Central American Market: A Buyer's Guide",
-      "normalizedTitle": "top 5 aluminum window and door manufacturers in china for the central american market a buyer s guide",
-      "description": "Top 5 Aluminum Window and Door Manufacturers in China for the Central American Market: A Buyer's Guide Lohud",
-      "source": "Lohud",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-11-09T09:20:04.000Z",
-      "fetchedAt": "2026-11-10T02:58:05.492Z",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNlI0YndjTXV3a0FfaWltSGU5cnk0Zi02LVdBX1dZbHFuMFFGZEp5ME1hTWpvRVBTLVY3MGFFTDBQQVhGUFZRS0wzSjJYaWRqVFkwcHRXS0VMYW9uV2RRbndxYTFuTy1aWlp0SDFsNWQxOVhqeFVkMEVucVJLUGRIRE5faGpFZHc0bTBwVkFCN1JYN1IyZ014NDNWTkhfdzlCZmFHZHRFYlFFYW1PUmFFRkRuRkstcVNaaDJJaWpLZDBCQVNwS192MGJBekdkMFhYeWtDNi1xbTdNZUlqeks2R3k1U20?oc=5",
-      "language": "en",
-      "commodity": "ALUMINUM",
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "aluminum"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "ALUMINUM",
-          "score": 8,
-          "matchedKeywords": [
-            "aluminum"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "LOW",
-      "categories": [
-        "CHINA"
-      ],
-      "primaryCategory": "General",
-      "titleKo": "Top 5 Aluminum Window and Door Manufacturers in China for the Central American Market: A Buyer's Guide",
-      "summaryKo": "Top 5 Aluminum Window and Door Manufacturers in China for the Central American Market: A Buyer's Guide Lohud",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Top 5 Aluminum Window and Door Manufacturers in China for the Central American Market: A Buyer's Guide Lohud",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "LOW",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Top 5 Aluminum Window and Door Manufacturers in China for the Central American Market: A Buyer's Guide Lohud",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 14,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "9fbd92af7bd984a7f195ee2f13f9b58107b6acd67cc91b2da9e8ab9191231d48",
-      "titleSourceHash": "59ce731c842e1316dc996e0ffb69e36458fd99b9bada1550ee3209f77498c6cd",
-      "eventId": "5cf68285a9993a8048f27d0e0de48c2d1bd27cefe9a59197ba4590891e978c1a",
-      "title": "China’s Copper Import Premium Hit A Record As Supply Tightened",
-      "normalizedTitle": "china s copper import premium hit a record as supply tightened",
-      "description": "China’s Copper Import Premium Hit A Record As Supply Tightened Finimize",
-      "source": "Finimize",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-11-09T08:10:17.000Z",
-      "fetchedAt": "2026-11-10T02:58:05.492Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRkFRenpPNm00LWRNckZaWjFOc1ZzakpzYk1iU1hWVHFmQkxXY3B0YmY2QXNUUEtqbDdQQTl0d05pWkN6VlRleUFiLURvNmQ3MTgyMjA2WE9RWUtyWktfOUtTUDBjOXRnblBBSWNfMHBMVXFzanBpU0N5VDZ4UTE2cXdCbjRHcWx2M1l1UVNEcUNRRXVS?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 10,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [
-        "premium",
-        "supply",
-        "import"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 10,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [
-            "premium",
-            "supply",
-            "import"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "PRICE",
-        "SUPPLY",
-        "LOGISTICS",
-        "IMPORT",
-        "CHINA"
-      ],
-      "primaryCategory": "Supply",
-      "titleKo": "China’s Copper Import Premium Hit A Record As Supply Tightened",
-      "summaryKo": "China’s Copper Import Premium Hit A Record As Supply Tightened Finimize",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "SHORT_TERM",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "LOGISTICS",
-          "IMPORT",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "China’s Copper Import Premium Hit A Record As Supply Tightened Finimize",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "PRICE",
-          "SUPPLY",
-          "LOGISTICS",
-          "IMPORT",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "China’s Copper Import Premium Hit A Record As Supply Tightened Finimize",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 31,
-      "codexStatus": null,
-      "codexReviewReason": null,
-      "sent": false,
-      "sentAt": null
-    },
-    {
-      "id": "fa43f5e591aa602281db1258e171d4dce60a44ba06d942158033f9e0bc23f234",
-      "titleSourceHash": "9df844545c968ed4e9697399c25dbeab811f4b7012efb0370f39cbec85d434f2",
-      "eventId": "f6095ffd96eb577ff3db7aad2b9c6408814c6c6a2e4ed7243bf75852d0fc5cde",
-      "title": "Copper rises on supply concerns in China",
-      "normalizedTitle": "copper rises on supply concerns in china",
-      "description": "Copper rises on supply concerns in China marketscreener.com",
-      "source": "marketscreener.com",
-      "feedSource": "Google News Metals EN",
-      "publishedAt": "2026-11-09T08:06:24.000Z",
-      "fetchedAt": "2026-11-09T20:45:44.396Z",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbEV0UFZpOGFDTjdsb1VGWi04Zm5BM2Y0TzAxN3hJemxvekNJQlNtTXNScTdoQ2U5M2tkYmgtbXBCMms0akVfQ25nR2hIdjBhd1VBb3VvcTM3MS1vMGNVR2JRM1BibUhRZ3Qya1JySDk3NEpWX3pkRDlmbWF2dl9rak1GbS1xNlc3eTlqOEs0Y2FpRl96QmxxUQ?oc=5",
-      "language": "en",
-      "commodity": "COPPER",
-      "relevanceScore": 10,
-      "matchedKeywords": [
-        "copper"
-      ],
-      "matchedCompanies": [],
-      "matchedRegions": [
-        "China"
-      ],
-      "matchedMarketTerms": [
-        "supply"
-      ],
-      "exclusionReason": null,
-      "commodityMatches": [
-        {
-          "commodity": "COPPER",
-          "score": 10,
-          "matchedKeywords": [
-            "copper"
-          ],
-          "matchedCompanies": [],
-          "matchedRegions": [
-            "China"
-          ],
-          "matchedMarketTerms": [
-            "supply"
-          ],
-          "exclusionReason": null
-        }
-      ],
-      "subCommodity": null,
-      "importance": "MEDIUM",
-      "categories": [
-        "SUPPLY",
-        "CHINA"
-      ],
-      "primaryCategory": "Supply",
-      "titleKo": "Copper rises on supply concerns in China",
-      "summaryKo": "Copper rises on supply concerns in China marketscreener.com",
-      "marketImpact": "Unclear",
-      "impactReasonKo": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-      "procurementImpact": "UNCLEAR",
-      "procurementReasonKo": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-      "regions": [
-        "China"
-      ],
-      "companies": [],
-      "timeHorizon": "UNCLEAR",
-      "confidence": "LOW",
-      "signals": [],
-      "keyEvidence": [],
-      "conflictingSignals": false,
-      "codexReviewEvent": false,
-      "urgent": false,
-      "analysisMode": "RULE_BASED",
-      "analysisSource": "RULE",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper rises on supply concerns in China marketscreener.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "effectiveAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "CHINA"
-        ],
-        "region": "China",
-        "regions": [
-          "China"
-        ],
-        "summary": "Copper rises on supply concerns in China marketscreener.com",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "priority": 31,
       "codexStatus": null,
       "codexReviewReason": null,
       "sent": false,
