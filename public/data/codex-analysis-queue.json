@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-15T09:56:43.918Z",
+  "generatedAt": "2026-11-15T17:12:49.867Z",
   "counts": {
-    "PENDING": 494,
+    "PENDING": 490,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -95,16 +95,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-10-27T16:15:00.000Z"
-    },
-    {
-      "id": "d2f60f69cf42f0e44731b792800fbc483d769d24b551cf1a0cf4e82f42509214",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "BHP, 칠레 스펜스 구리 광산에서 불법 작업 중단 주장하며 노조 제소",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-10-16T11:40:54.000Z"
     },
     {
       "id": "39d40bd5bef82e7945131ac9970a5416b358b3444221de623b492414610cb15d",
@@ -557,26 +547,6 @@
       "publishedAt": "2026-10-24T13:01:39.000Z"
     },
     {
-      "id": "45338d17b04025fc0761653bd11acd1fa285ec78c6b710e120279c9b9f6078b0",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Futures Rise Toward $6.60 on Weaker Dollar and Supply Disruptions",
-      "reasonForCodexReview": "Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "IndexBox",
-      "publishedAt": "2026-10-16T10:21:58.000Z"
-    },
-    {
-      "id": "a2190113835b0b2fec4ea6192fe51b81af869c2c1ec23803738ff80f1e0462e5",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "US Copper Sulphate Prices Rise 3.67% in September as Agricultural Demand and Weather Disruptions Support Market",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "ChemAnalyst",
-      "publishedAt": "2026-10-16T11:36:17.000Z"
-    },
-    {
       "id": "c0c6f7662740608824fc852f31fba1f677b118f655f3640415e96a3de1cc9a94",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -967,16 +937,6 @@
       "publishedAt": "2026-11-04T14:01:18.000Z"
     },
     {
-      "id": "cb3dfba905251d3b51183344abee260a30779db979dd75e004e55a55c95bb915",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Peru Indigenous Group Bids for Part of China-Owned Copper Mine",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Bloomberg.com",
-      "publishedAt": "2026-10-16T15:03:59.000Z"
-    },
-    {
       "id": "44426f80ffb0356ae92a18d1f6c56159a2a6b9eb9770e1885dd9a407e759eed2",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -1125,16 +1085,6 @@
       "codexStatus": "PENDING",
       "source": "Robinhood",
       "publishedAt": "2026-10-16T18:29:58.000Z"
-    },
-    {
-      "id": "5363b6ea1bf4ba20ef5f414e5deb2a856fdbcb9a443207f90c80d9ceedd9ae53",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "METI Hosts the Second Public-Private Dialogue towards Robust and Resilient Copper Supply Chains",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "経済産業省",
-      "publishedAt": "2026-10-16T15:47:01.000Z"
     },
     {
       "id": "fec081f98f5e8ab05cfe7b56867cb51e69d3ec278f884df40b68ec4421e537a8",
@@ -2587,26 +2537,6 @@
       "publishedAt": "2026-11-13T09:39:00.000Z"
     },
     {
-      "id": "d67a91f51cc50f3fd1503eb19779593e95dd3bd101b3655ef2c192af7cae2130",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Aluminum Supply Warning: Alcoa Says Global Inventories Leave Little Room for Another Shock",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Benzinga",
-      "publishedAt": "2026-10-16T10:49:36.000Z"
-    },
-    {
-      "id": "c6e821e1b7656b941b4e2ed8aa22bc3bea0192e10dfbae1e5d4a0881290234e6",
-      "commodity": "MOLYBDENUM",
-      "importance": "MEDIUM",
-      "title": "Latest Molybdenum Prices per Ton & Historical Prices: Ferromolybdenum & Scrap",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-16T13:47:49.000Z"
-    },
-    {
       "id": "37a4ca2320d476b5ede8cd76289244729b35fd97ac924843dcdcc39f4839a057",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3245,16 +3175,6 @@
       "codexStatus": "PENDING",
       "source": "FXEmpire",
       "publishedAt": "2026-11-13T08:25:58.000Z"
-    },
-    {
-      "id": "c5c3fc30a900bd765384503bdea2ac3176b94a68b4e16ef5afdd4bdac4875d49",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "CoTec, BMR Target Higher Copper Output at Chile’s Punitaqui Mine",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "ChemAnalyst",
-      "publishedAt": "2026-10-16T13:00:14.000Z"
     },
     {
       "id": "87169ae29f402f36d8871bdd2783776ddb8d4938a9d7e876a0a9f84788c5719d",
@@ -4707,6 +4627,26 @@
       "publishedAt": "2026-11-15T00:00:00.000Z"
     },
     {
+      "id": "188fc6189a0544b273178a1fc1dabf9dfd4e917b9510c96b84e0b2ba6b8ad4f6",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Nucleo premium bonded aluminium panel achieves EPD",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Architecture & Design",
+      "publishedAt": "2026-11-15T13:53:25.000Z"
+    },
+    {
+      "id": "95f8c3cb072c0527c1a1768ae38ce7d7ac92bca16aa75460fd465c5b45f94964",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "SANY, 티베트 구리 광산에 60대의 자율주행 전기 운반 트럭 배치",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mezha.net",
+      "publishedAt": "2026-11-15T08:05:00.000Z"
+    },
+    {
       "id": "ee8fbc8730ea6e1b471ad93114d63397d599fec62016f7a3334cd3fd22110fab",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4735,6 +4675,16 @@
       "codexStatus": "PENDING",
       "source": "marketscreener.com",
       "publishedAt": "2026-11-13T07:39:02.000Z"
+    },
+    {
+      "id": "5257606f57a13985b9923d8e5bd05bd8808917e1d9774a8f098ca2fba5c61bab",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Iran's Mes Kavan Namad completes 44% of $10mn copper concentrate line",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "IntelliNews",
+      "publishedAt": "2026-11-15T11:11:37.000Z"
     },
     {
       "id": "9fdfc325281d697866130991a01128e28464431abd0163c0552c787cd811af42",
@@ -4935,6 +4885,16 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-11-13T17:55:19.000Z"
+    },
+    {
+      "id": "4d1bc837ebb704119980a026c35a44d0894edf355f11ee93806ec0a0d4abaf3a",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Sierra Linda vs Copper Canyon - Boys Varsity Soccer 01/08/2027 | Watch Live & On Demand",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "NFHS Network",
+      "publishedAt": "2026-11-14T04:04:52.000Z"
     },
     {
       "id": "2dab5774a82a98f0d6b7ea9b8ef369343dd9e341360f6531381dbd68ff5142d4",
