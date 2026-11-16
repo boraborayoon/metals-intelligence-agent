@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T09:47:29.978Z",
+  "generatedAt": "2026-11-16T20:30:15.770Z",
   "counts": {
-    "PENDING": 500,
+    "PENDING": 498,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -445,16 +445,6 @@
       "codexStatus": "PENDING",
       "source": "Yahoo News Canada",
       "publishedAt": "2026-11-13T00:38:01.000Z"
-    },
-    {
-      "id": "771b60fbc8da46565c33e00bf194f4a55706ffe4f3f98d593550585c7cef4bef",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Antofagasta Workers to End Strike, Easing Chile Copper Tensions",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Bloomberg.com",
-      "publishedAt": "2026-10-17T15:07:53.000Z"
     },
     {
       "id": "497ae09d51f41f45f35aeb6772e1b67e7c56ab79557ab25a168a1333c248189e",
@@ -1075,26 +1065,6 @@
       "codexStatus": "PENDING",
       "source": "FXEmpire",
       "publishedAt": "2026-11-16T09:25:44.000Z"
-    },
-    {
-      "id": "14150d2b99e4626cef306147f465c2dc14f29e876c1367b3b89179ba7420964b",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "LME Aluminium Premium Duty Paid European (Fastmarkets MB) Futures (Mar 2029) Trade Ideas — LME:EDH2029",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-17T13:51:30.000Z"
-    },
-    {
-      "id": "bdce3fa4200cdb6fc825d4334b3963667dc22617a21a69c3d5ff7fb13cafcf62",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "4 Charts That Explain the Copper Supply Crunch Investors Should Watch",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Globe and Mail",
-      "publishedAt": "2026-10-17T20:25:07.000Z"
     },
     {
       "id": "7cffc599b177a7867c38ec8ce74d8e18a4e6d47b1e175a6e48bf15f5d967087a",
@@ -4747,16 +4717,6 @@
       "publishedAt": "2026-11-16T01:17:00.000Z"
     },
     {
-      "id": "5e03444e3f1d65d8ca215d548622798a9d31435650630425c9ce1663eb81dec0",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "LG전자 공조사업, 원재료 절반이 구리…가격은 31% 상승",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "아이뉴스24",
-      "publishedAt": "2026-11-16T09:42:50.000Z"
-    },
-    {
       "id": "b6e43013b33cbcad09b40ac62b4ebef764e9a947fcccfcf005b59faf7affe756",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4827,6 +4787,16 @@
       "publishedAt": "2026-11-15T23:08:00.000Z"
     },
     {
+      "id": "76c54f0229fb5f6f90987192259ecb074b91e1a5229f39140946c8d0ecc73342",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "EU는 수입 구리 파이프에 반덤핑 관세를 부과합니다.",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-11-16T18:53:42.000Z"
+    },
+    {
       "id": "ee8fbc8730ea6e1b471ad93114d63397d599fec62016f7a3334cd3fd22110fab",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4885,6 +4855,16 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-11-16T01:21:00.000Z"
+    },
+    {
+      "id": "5e03444e3f1d65d8ca215d548622798a9d31435650630425c9ce1663eb81dec0",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "LG전자 공조사업, 원재료 절반이 구리…가격은 31% 상승",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "아이뉴스24",
+      "publishedAt": "2026-11-16T09:42:50.000Z"
     },
     {
       "id": "8a305d8ad614c1e3c0587095f7a406744ef842ba530b96177aed637a687e7fcd",

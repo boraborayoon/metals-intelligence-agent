@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T09:47:29.978Z",
+  "generatedAt": "2026-11-16T20:30:15.770Z",
   "items": [
     {
       "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
@@ -1779,50 +1779,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-13T02:57:38.272Z",
       "updatedAt": "2026-11-13T02:57:38.272Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "771b60fbc8da46565c33e00bf194f4a55706ffe4f3f98d593550585c7cef4bef",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Antofagasta Workers to End Strike, Easing Chile Copper Tensions",
-      "summary": "Antofagasta Workers to End Strike, Easing Chile Copper Tensions Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmtMSlNqNzRUajJtWlV5ajJFZmRaWUgxMGt3Y0NkX0NtZlkyMENvY0VVOVJOTzNXX3d2Q2FTM3VOYkxTNnAzRWd2QVk2b01QNUFGV25YTjNNTndIdzU3akh4THJ1c0dZTUFXaGFBUExxcllhcGhETjg1cERSTmE3STU3NjRCSFFqTnd0QnZOLW1lMTFBMjRSS21RWjEwa1F3Q1c0VGYwR293d243dVFZUmxYTQ?oc=5",
-      "publishedAt": "2026-10-17T15:07:53.000Z",
-      "priority": 45,
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Bullish",
-        "procurementImpact": "NEGATIVE",
-        "category": "Labor Disruption",
-        "categories": [
-          "STRIKE"
-        ],
-        "region": "Chile",
-        "regions": [
-          "Chile"
-        ],
-        "summary": "Antofagasta Workers to End Strike, Easing Chile Copper Tensions Bloomberg.com",
-        "marketImpactReason": "공급 축소, 수요 증가 또는 재고 감소를 나타내는 명시적 사건 근거를 확인했습니다.",
-        "procurementImpactReason": "공급 축소 또는 가격 상승 압력은 구매비용, 리드타임, 공급 안정성에 불리할 수 있습니다.",
-        "keyEvidence": [
-          "strike"
-        ],
-        "confidence": "MEDIUM",
-        "timeHorizon": "IMMEDIATE",
-        "signals": [
-          "Supply Tightening",
-          "Supply Disruption",
-          "Price Increase Risk"
-        ],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-17T16:29:08.211Z",
-      "updatedAt": "2026-10-17T16:29:08.211Z",
       "analyzedAt": null
     },
     {
@@ -4344,80 +4300,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-16T09:47:29.978Z",
       "updatedAt": "2026-11-16T09:47:29.978Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "14150d2b99e4626cef306147f465c2dc14f29e876c1367b3b89179ba7420964b",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "LME Aluminium Premium Duty Paid European (Fastmarkets MB) Futures (Mar 2029) Trade Ideas — LME:EDH2029",
-      "summary": "LME Aluminium Premium Duty Paid European (Fastmarkets MB) Futures (Mar 2029) Trade Ideas — LME:EDH2029 TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBod1RSSnUzcG5LbklsWmRyMlJZc0pvN0tzb0ItR0FuN2dUcjVmRk9paldsM08zLUJ3TGxWbXR3UngycmppcWV1cnNXYUVEZnBRcm5UWlkzNUZ4M2ZlOVEtclhvMjdlQWFIbVROTXVrVE1nVjdNaVp3?oc=5",
-      "publishedAt": "2026-10-17T13:51:30.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Tariff",
-        "categories": [
-          "PRICE",
-          "TRADE",
-          "TARIFF"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "LME Aluminium Premium Duty Paid European (Fastmarkets MB) Futures (Mar 2029) Trade Ideas — LME:EDH2029 TradingView",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-17T16:29:08.211Z",
-      "updatedAt": "2026-10-17T16:29:08.211Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "bdce3fa4200cdb6fc825d4334b3963667dc22617a21a69c3d5ff7fb13cafcf62",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "4 Charts That Explain the Copper Supply Crunch Investors Should Watch",
-      "summary": "4 Charts That Explain the Copper Supply Crunch Investors Should Watch The Globe and Mail",
-      "source": "The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX0tIUEtZQkRNYUxzOER3VFp1MTlIbXR5ZTF0NUF3Z2pNbThEQVhxM3hKYm5YTkF0WU5xeGFZVFlmTW1wT2FCX2JxWW1xV2YxQkNaUjVWWkM2dnhOY3lIWGdaNVhBczNRWnVZSjNoYWlKWklUUjA5UGgxdXZUeDV4TTlha1IzaGpFMkRJNFU3WGsyeFVoTlpWZS1WSkw0TndOeHJ6V2VyWHV5dnp1aTc1eVQ5UUM5Rjc0SkhWcUZGZzFoMVlEbDU0UTh4NW8tZGNpZVBjNDg1a1ZMTnpsaGJTS2p0dXV2Wk9CVXE5dw?oc=5",
-      "publishedAt": "2026-10-17T20:25:07.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "4 Charts That Explain the Copper Supply Crunch Investors Should Watch The Globe and Mail",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-17T21:28:57.511Z",
-      "updatedAt": "2026-10-17T21:28:57.511Z",
       "analyzedAt": null
     },
     {
@@ -17997,42 +17879,6 @@
       "analyzedAt": null
     },
     {
-      "id": "5e03444e3f1d65d8ca215d548622798a9d31435650630425c9ce1663eb81dec0",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "LG전자 공조사업, 원재료 절반이 구리…가격은 31% 상승",
-      "summary": "LG전자 공조사업, 원재료 절반이 구리…가격은 31% 상승 아이뉴스24",
-      "source": "아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsWi1ZbVRSY0haS0ZfZlFERloxNl9SeFBtVTBvU0Zaa2E0blVtMmNJSVQyR2lQemw4U3BBaVUyOVExZ0pDQlJWTjJnTQ?oc=5",
-      "publishedAt": "2026-11-16T09:42:50.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "LG전자 공조사업, 원재료 절반이 구리…가격은 31% 상승 아이뉴스24",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-16T09:47:29.978Z",
-      "updatedAt": "2026-11-16T09:47:29.978Z",
-      "analyzedAt": null
-    },
-    {
       "id": "b6e43013b33cbcad09b40ac62b4ebef764e9a947fcccfcf005b59faf7affe756",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18286,6 +18132,43 @@
       "analyzedAt": null
     },
     {
+      "id": "76c54f0229fb5f6f90987192259ecb074b91e1a5229f39140946c8d0ecc73342",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "EU는 수입 구리 파이프에 반덤핑 관세를 부과합니다.",
+      "summary": "EU는 수입 구리 파이프에 반덤핑 관세를 부과합니다. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbDZmR2RDRTAyWVplc3RqZkwtS2Z1TlhyOWxmTnU4MWV3R0tkRXVOMmFvd1NwQzFvVEwzNnNNNUt6bmNmSXFkSjVpN0U4Z3FYSTlfZjd5LUNLX28wV05sRFkyV0xzZThaaVdVaWNKeGw0OVFKRjJlWHFWUmgzdE5zRkJnZw?oc=5",
+      "publishedAt": "2026-11-16T18:53:42.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "IMPORT",
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "EU는 수입 구리 파이프에 반덤핑 관세를 부과합니다. Vietnam.vn",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-16T20:30:15.770Z",
+      "updatedAt": "2026-11-16T20:30:15.770Z",
+      "analyzedAt": null
+    },
+    {
       "id": "ee8fbc8730ea6e1b471ad93114d63397d599fec62016f7a3334cd3fd22110fab",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18512,6 +18395,42 @@
       "analyzedAt": null
     },
     {
+      "id": "5e03444e3f1d65d8ca215d548622798a9d31435650630425c9ce1663eb81dec0",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "LG전자 공조사업, 원재료 절반이 구리…가격은 31% 상승",
+      "summary": "LG전자 공조사업, 원재료 절반이 구리…가격은 31% 상승 아이뉴스24",
+      "source": "아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsWi1ZbVRSY0haS0ZfZlFERloxNl9SeFBtVTBvU0Zaa2E0blVtMmNJSVQyR2lQemw4U3BBaVUyOVExZ0pDQlJWTjJnTQ?oc=5",
+      "publishedAt": "2026-11-16T09:42:50.000Z",
+      "priority": 30,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "LG전자 공조사업, 원재료 절반이 구리…가격은 31% 상승 아이뉴스24",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-16T09:47:29.978Z",
+      "updatedAt": "2026-11-16T20:30:15.770Z",
+      "analyzedAt": null
+    },
+    {
       "id": "8a305d8ad614c1e3c0587095f7a406744ef842ba530b96177aed637a687e7fcd",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18545,7 +18464,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-16T02:10:54.286Z",
-      "updatedAt": "2026-11-16T09:47:29.978Z",
+      "updatedAt": "2026-11-16T20:30:15.770Z",
       "analyzedAt": null
     },
     {
@@ -18949,7 +18868,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-16T09:47:29.978Z",
-      "updatedAt": "2026-11-16T09:47:29.978Z",
+      "updatedAt": "2026-11-16T20:30:15.770Z",
       "analyzedAt": null
     }
   ]
