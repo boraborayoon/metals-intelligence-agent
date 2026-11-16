@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T02:10:54.286Z",
+  "generatedAt": "2026-11-16T09:47:29.978Z",
   "counts": {
-    "PENDING": 499,
+    "PENDING": 500,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -65,16 +65,6 @@
       "codexStatus": "PENDING",
       "source": "Canadian Institute of Mining, Metallurgy",
       "publishedAt": "2026-10-30T18:13:45.000Z"
-    },
-    {
-      "id": "94cf16e3707a19e67a1cfa36c55219dccd60c37838fc851ad01c747e27733b4d",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Workers and members of unions representing workers at the Centinela copper mine set up a strike camp outside the Antofagasta Minerals building",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "The Lufkin Daily News",
-      "publishedAt": "2026-10-17T03:02:43.000Z"
     },
     {
       "id": "3a96104f1fb4f2cc28d0c2fcd9f47e80da23387634d56e70a1ce49816577d07f",
@@ -1075,6 +1065,16 @@
       "codexStatus": "PENDING",
       "source": "FXEmpire",
       "publishedAt": "2026-11-09T09:44:33.000Z"
+    },
+    {
+      "id": "e92828c426b92101f43097b581ff38bdb897b39bb5199032445307ec239262d9",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Price Forecast: Prices Hit a Four-Month Low on Weak China Data",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "FXEmpire",
+      "publishedAt": "2026-11-16T09:25:44.000Z"
     },
     {
       "id": "14150d2b99e4626cef306147f465c2dc14f29e876c1367b3b89179ba7420964b",
@@ -2237,6 +2237,26 @@
       "publishedAt": "2026-11-16T00:54:00.000Z"
     },
     {
+      "id": "f677512104cbf1312999a88743a4b117a89bf4cbe37f99162874ada85716963b",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "AI data center growth fuels copper demand: Can HG regain momentum?",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Traders Union",
+      "publishedAt": "2026-11-16T09:25:28.000Z"
+    },
+    {
+      "id": "6243a68e93d752dcef266c6031b5044066de9ca7eb08dc1351399a9e4e02fd25",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Weekly Recap: $79m Arizona investment and largest North American copper mine",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
       "id": "e6125273acabe4094068e6edd0b014ba3ac2eddaf95cf34456f6ee085cb9d925",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2515,6 +2535,16 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-11-13T09:39:00.000Z"
+    },
+    {
+      "id": "76479596325877363fb6855e472e8a7b0803d59702f53a81903189f2edbaed5e",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "[Rome Resources produces first 2 tonnes of tin concentrate at Kalayi, DRC]",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-11-16T09:07:00.000Z"
     },
     {
       "id": "37a4ca2320d476b5ede8cd76289244729b35fd97ac924843dcdcc39f4839a057",
@@ -3165,6 +3195,16 @@
       "codexStatus": "PENDING",
       "source": "marketscreener.com",
       "publishedAt": "2026-11-15T23:01:15.000Z"
+    },
+    {
+      "id": "b368f262622d9f8c7995807c649400d9f46e33bebb7a93b196e644bf57ad875f",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "LME aluminium may fall into $2,821-$2,900 range this week",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-11-16T08:47:42.000Z"
     },
     {
       "id": "87169ae29f402f36d8871bdd2783776ddb8d4938a9d7e876a0a9f84788c5719d",
@@ -3855,6 +3895,16 @@
       "codexStatus": "PENDING",
       "source": "ESS News",
       "publishedAt": "2026-11-13T12:45:47.000Z"
+    },
+    {
+      "id": "bec118d3ff4308088d6f9e080adb4d5ddf9f2dc7200cf81c7a450898bf486843",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "China's aluminium output on track to exceed 46 million tons in 2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-11-16T04:47:24.000Z"
     },
     {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
@@ -4697,34 +4747,84 @@
       "publishedAt": "2026-11-16T01:17:00.000Z"
     },
     {
-      "id": "8a305d8ad614c1e3c0587095f7a406744ef842ba530b96177aed637a687e7fcd",
+      "id": "5e03444e3f1d65d8ca215d548622798a9d31435650630425c9ce1663eb81dec0",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "[구리 가격] AI 투자 우려에 4개월 만의 최저…중국 현물 프리미엄은 사상 최고",
+      "title": "LG전자 공조사업, 원재료 절반이 구리…가격은 31% 상승",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "산업일보",
-      "publishedAt": "2026-11-16T00:16:26.000Z"
+      "source": "아이뉴스24",
+      "publishedAt": "2026-11-16T09:42:50.000Z"
     },
     {
-      "id": "9d5ac7e771af1c4ade3ce2c4ee0ec6f77ad7e03387dad8e7eed0216b2a10a433",
+      "id": "b6e43013b33cbcad09b40ac62b4ebef764e9a947fcccfcf005b59faf7affe756",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Austral–Hammer Metals takeover: copper pit options and risks for mine planners",
+      "title": "CoreX Copper ups Brazilian mining financing",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Geomechanics.io",
-      "publishedAt": "2026-11-16T00:00:47.000Z"
+      "source": "Latin Lawyer",
+      "publishedAt": "2026-11-16T09:37:09.000Z"
     },
     {
-      "id": "6b3bc4865d88a9983d6d49392a3aed87be5e2f3f2dc035e4427e31e34386317b",
+      "id": "81d852ca9c5b40eb5dc8fe1ae25bb91753b35d47cafc63adeebf52ed475d432d",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Cardano Token Holders Reject $3.3 Million Treasury Bid to Stockpile Copper",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "BigGo Finance",
+      "publishedAt": "2026-11-16T08:56:00.000Z"
+    },
+    {
+      "id": "a3de2c178223ef12b462081e67d905fac251021b59a1c085377b6226554fb2b5",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "American Copper Development Corp.: Strong Share-Price Advance Puts Momentum and Business Fundamentals in Focus",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "kalkine.ca",
+      "publishedAt": "2026-11-16T08:47:00.000Z"
+    },
+    {
+      "id": "073c953c8a4cc4ff8a406e23e892264f5f80d4fed34080b908304fdc345f06eb",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Kazakhstan's January-October copper output edges up 0.1% year-on-year",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-11-16T08:21:28.000Z"
+    },
+    {
+      "id": "d78ed9ba84dc4f2907449613abd7a273398baf20d8fc3e8b1583cb55b31d67c3",
+      "commodity": "MOLYBDENUM",
+      "importance": "MEDIUM",
+      "title": "Flash | Constancia Molybdenum Output Rises 63% Year on Year as Mill Throughput Hits Record",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-11-16T07:27:00.000Z"
+    },
+    {
+      "id": "88fef0fed47afdc3b68561973451c0c3933ea858b5dd24f43b2cb6b40b9f984f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "ADA news: Cardano holders vote down $5 million bid to buy warehouse copper",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "CoinDesk",
+      "publishedAt": "2026-11-16T06:27:42.000Z"
+    },
+    {
+      "id": "ef29c867a87a714373c96c6ff0aa00bb950904073772a7d6854de240aa1f6910",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "'Zero-emission' aluminum production switches up the chemical equation",
+      "title": "Altana CEO Evan Smith: Tracing an iPhone Back to Its Aluminum Smelter Now Moves the Price 10-15%",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "New Atlas",
-      "publishedAt": "2026-11-15T22:11:31.000Z"
+      "source": "BigGo Finance",
+      "publishedAt": "2026-11-15T23:08:00.000Z"
     },
     {
       "id": "ee8fbc8730ea6e1b471ad93114d63397d599fec62016f7a3334cd3fd22110fab",
@@ -4775,6 +4875,46 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-11-13T03:56:00.000Z"
+    },
+    {
+      "id": "50d9df3e1ac025a5fa874b410e093d79772000fe8ce5e669a87716aa8f9e2e66",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "China's 6063 Aluminum Billet Inventory Falls on November 16",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-11-16T01:21:00.000Z"
+    },
+    {
+      "id": "8a305d8ad614c1e3c0587095f7a406744ef842ba530b96177aed637a687e7fcd",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[구리 가격] AI 투자 우려에 4개월 만의 최저…중국 현물 프리미엄은 사상 최고",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "산업일보",
+      "publishedAt": "2026-11-16T00:16:26.000Z"
+    },
+    {
+      "id": "9d5ac7e771af1c4ade3ce2c4ee0ec6f77ad7e03387dad8e7eed0216b2a10a433",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Austral–Hammer Metals takeover: copper pit options and risks for mine planners",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Geomechanics.io",
+      "publishedAt": "2026-11-16T00:00:47.000Z"
+    },
+    {
+      "id": "6b3bc4865d88a9983d6d49392a3aed87be5e2f3f2dc035e4427e31e34386317b",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "'Zero-emission' aluminum production switches up the chemical equation",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "New Atlas",
+      "publishedAt": "2026-11-15T22:11:31.000Z"
     },
     {
       "id": "9ad874c16e6c70528c6edd6224296e763154d749fb335a4cab87b7158f91d55b",
@@ -4847,154 +4987,24 @@
       "publishedAt": "2026-11-14T15:56:36.000Z"
     },
     {
-      "id": "f3dba185e2e78637dbd6b1f0de14eb30b012b0e8fca7b712cee5a0e7f892bd7e",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper piles up in the US as China pays a premium",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "ISI Markets",
-      "publishedAt": "2026-11-14T00:04:48.000Z"
-    },
-    {
-      "id": "22d7e24e8a6dbf53276c8888765fad8842ee38819f4a73ba126ceca812853b1c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper prices slid to near four-month low amid fears of hike in U.S. interest rates, lower AI demand",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Hindu",
-      "publishedAt": "2026-11-13T14:58:07.000Z"
-    },
-    {
-      "id": "8e44f106b9f3d948f3788979a52a7e7c586c5fed9f3cc0608b2c6959e47f66ee",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "골드만삭스 “구리 가격, 2027년 12월 톤당 1만5,600달러 전망”",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com 한국어",
-      "publishedAt": "2026-11-13T09:41:00.000Z"
-    },
-    {
-      "id": "d856610e551875f004c78c91917814ac3d78cad3b70a74aaaa60628a6c44ef91",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Freeport acquires controlling interest in TDG's Aurora West copper, gold property",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mining Weekly",
-      "publishedAt": "2026-11-13T09:07:00.000Z"
-    },
-    {
-      "id": "a15ce70c2e08982824801165c555879ba83f50c68c2d083375ff6e74fab1d84a",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Resolution Copper invests more in controversial Superior mine",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "paysonroundup.com",
-      "publishedAt": "2026-11-13T07:15:00.000Z"
-    },
-    {
-      "id": "3954f5d3012f775d4c5bc243b17e81312c0e64929ae3a2e1b41f763f37ee4c9c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Goldman Sachs Projects Copper Prices at $15,600 per Tonne by December 2027 Amid Supply Constraints",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance UK",
-      "publishedAt": "2026-11-13T10:13:20.000Z"
-    },
-    {
-      "id": "6024b0d978c4936ecfcea6ad8d990b4624a7763e0494a5aaf06e0076a4e9ca00",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리 가격 하락… AI 매도세 여파로 5주 연속 주간 하락세 전망",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-11-13T13:36:28.000Z"
-    },
-    {
-      "id": "44ceba53c2d488de16a1f6daca89d64a347655764410ae4b9b501e2d7102d7c8",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리·알루미늄 수요 폭증…AI 데이터센터가 키우는 재활용 시장",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "디지털투데이",
-      "publishedAt": "2026-11-13T01:28:00.000Z"
-    },
-    {
-      "id": "462872b0094c2e7803d2baa2dd40a8803da4fca17c0bfccabd21b63df2c69d75",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "미국의 통화정책 신호나 AI 수요 추세가 바뀌면 구리는 안정세를 보일 수 있을까요?",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Traders Union",
-      "publishedAt": "2026-11-12T20:09:33.000Z"
-    },
-    {
-      "id": "2d942c7e6c7ae48fed6d539111e38a7bc0deb5474823d4ee27c95f30a6ee587d",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Tin could help hydrogen fuel cells last longer",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Georgia Laurie",
-      "publishedAt": "2026-11-09T07:40:10.000Z"
-    },
-    {
-      "id": "fac883771f795a5f3f2093430f3a335d293ed2fe93a0d62aeaa524cd3a9771b2",
+      "id": "3f3cfb6d691a3224f0ce7980b83ac59976d64423a1ab9f6568163e61f36b5ae2",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
-      "title": "트라피구라, LME 알루미늄 재고 최저에 롱 매집",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "데일리바이트(DAILY BYTE)",
-      "publishedAt": "2026-11-13T20:25:54.000Z"
-    },
-    {
-      "id": "92758759eb261a4e3974232168f9557ee5202d6dd51100d5e5d8b918fe366536",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "기업들은 유럽연합(EU)으로 구리 파이프를 수출하기 위한 세율을 검토하고 관련 서류 작업을 마무리하고 있습니다.",
+      "title": "Chinese Aluminum Output Drops But Still On Course for Record",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-11-14T04:53:00.000Z"
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-11-16T02:59:00.000Z"
     },
     {
-      "id": "d28020b532643b93f1fbef114c6d77bc987e008cf494a21010930aa733b4b59c",
+      "id": "a6d2f0c1d7e4414d589244af15c78bb754a6bbf1e80a838490c92a86c7bfb62f",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "AI 관련주 폭락으로 구리 가격, 3월 이후 최대 주간 하락세 기록할 전망",
+      "title": "런던 구리 가격, 하락세 이어가며 4개월여 만에 최저치 기록",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
       "source": "TradingView",
-      "publishedAt": "2026-11-13T17:55:19.000Z"
-    },
-    {
-      "id": "4d1bc837ebb704119980a026c35a44d0894edf355f11ee93806ec0a0d4abaf3a",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Sierra Linda vs Copper Canyon - Boys Varsity Soccer 01/08/2027 | Watch Live & On Demand",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "NFHS Network",
-      "publishedAt": "2026-11-14T04:04:52.000Z"
-    },
-    {
-      "id": "2dab5774a82a98f0d6b7ea9b8ef369343dd9e341360f6531381dbd68ff5142d4",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Alphamin to supply concentrate to Nathan Trotter",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Freddie Mitchell",
-      "publishedAt": "2026-11-09T15:51:09.000Z"
+      "publishedAt": "2026-11-16T02:09:00.000Z"
     }
   ]
 }
