@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T11:55:16.549Z",
+  "generatedAt": "2026-11-17T20:57:21.028Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -435,16 +435,6 @@
       "codexStatus": "PENDING",
       "source": "Yahoo News Canada",
       "publishedAt": "2026-11-13T00:38:01.000Z"
-    },
-    {
-      "id": "497ae09d51f41f45f35aeb6772e1b67e7c56ab79557ab25a168a1333c248189e",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "U.S. Copper Stockpiles Have Surged: Could the 2025 Price Collapse Repeat?",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-10-18T20:29:02.000Z"
     },
     {
       "id": "e4968eb5618413228982f044702d6f6d573deebb977eb9f11bdf1742115ab122",
@@ -1075,6 +1065,16 @@
       "codexStatus": "PENDING",
       "source": "FXEmpire",
       "publishedAt": "2026-11-16T09:25:44.000Z"
+    },
+    {
+      "id": "83843dd5111d0db38c0c71e5e7da6c39308a2847c32ee384cc8acbeaf461135f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "China Says Copper Smelter Capacity Is Nearing Its Limit As Fee Talks Start",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Briefs Finance",
+      "publishedAt": "2026-11-17T15:15:00.000Z"
     },
     {
       "id": "7cffc599b177a7867c38ec8ce74d8e18a4e6d47b1e175a6e48bf15f5d967087a",
@@ -2257,6 +2257,36 @@
       "publishedAt": "2026-11-17T08:50:12.000Z"
     },
     {
+      "id": "2376769944513e1f0d47124435e57f4458b5120058518d4c571b6d711ba93fca",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "AngloGold Ashanti plans $2.5 billion copper mine in Colombia By Investing.com",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com South Africa",
+      "publishedAt": "2026-11-17T20:29:49.000Z"
+    },
+    {
+      "id": "f9e6de1b275c6ecd853a112474dac0f1d730add838de0ee33eb1a20ce9334662",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "AngloGold Ashanti Ltd ADR, 콜롬비아 구리 광산에 25억 달러 투자 계획",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com 한국어",
+      "publishedAt": "2026-11-17T20:20:00.000Z"
+    },
+    {
+      "id": "753afefcda2f615d13964f428f4481bc70ef4c2734a0d4e003ef938b037e84bc",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Price November 18 2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Robinhood",
+      "publishedAt": "2026-11-17T18:55:06.000Z"
+    },
+    {
       "id": "91359533d4fa0d8eaa197731e6550a9f262283ac3dc0b4468845f1479357a294",
       "commodity": "MOLYBDENUM",
       "importance": "MEDIUM",
@@ -3207,6 +3237,26 @@
       "publishedAt": "2026-11-17T06:52:00.000Z"
     },
     {
+      "id": "ecb4ffb00dcc3d1c7cb78854df1735fa187d62891510f5e295309090db098ed5",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Southern Copper Kicks Off Early Works at El Pilar Copper Project",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mexico Business News",
+      "publishedAt": "2026-11-17T15:18:18.000Z"
+    },
+    {
+      "id": "c8982a0e7665b8fe03494ba1cccd7aad96534e22e044a9019a368e8eaa2dadd8",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "RBC prefers Atalaya Mining over Antofagasta as AI-driven copper premium unwinds",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Proactive financial news",
+      "publishedAt": "2026-11-17T13:30:00.000Z"
+    },
+    {
       "id": "4b061293d8f8c6d4e002b13169e3d261aa4f73c15fb5dd6a2f327760cfee35cd",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3917,24 +3967,44 @@
       "publishedAt": "2026-11-16T12:31:00.000Z"
     },
     {
-      "id": "a66fafec7b0302efcbcb7bbbdaba5858b0296b6a8eae62db0a17de9c55bc4382",
+      "id": "345ca7ccb126e8871fc098d1a67ce32b6248c6f7688d0251fe2c90cdc65a974e",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "China Copper Ore Smelting Capacity Nears Peak as Margins Shrink",
+      "title": "Copper, Lithium and Strategy: Chile’s Mining Industry Goes Global",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Bloomberg.com",
-      "publishedAt": "2026-11-17T08:45:17.000Z"
+      "source": "Modern Ghana",
+      "publishedAt": "2026-11-17T18:50:00.000Z"
     },
     {
-      "id": "38c3673a4ec3e4ec672c8335e0035ede70630f38715cd65260cac4a22473c2d4",
+      "id": "e78471469e79877112878fb162cc853e2d73baa519040fa345e72dc825d4318f",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Copper Hits Four-Month Low as China Import Premium Surges to Record $350/Tonne",
+      "title": "Chile copper output nears 23-year low",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "EBC Financial Group",
-      "publishedAt": "2026-11-17T05:58:00.000Z"
+      "source": "The Northern Miner",
+      "publishedAt": "2026-11-17T18:36:46.000Z"
+    },
+    {
+      "id": "4bee64d85181ce3245afadfaf7f170f07fd058c1cf3b94ccbc9b2ba67232bd21",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper: Can tightness in China offset demand concerns? – ING",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "www.tmgm.com",
+      "publishedAt": "2026-11-17T18:17:43.000Z"
+    },
+    {
+      "id": "0a2c98289290e88bb31451fdebd0e77345f71cd94c745dac8512c215d8697efc",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "New Zealand Aluminium Smelter to restart potline",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Aluminium International Today",
+      "publishedAt": "2026-11-17T07:11:42.000Z"
     },
     {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
@@ -4897,26 +4967,6 @@
       "publishedAt": "2026-11-17T09:30:59.000Z"
     },
     {
-      "id": "1b4ee579693401a5ebb4f0919a230ae5579ae4f3db307a5fbc590e74b8aa14a2",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "【T-Flex Techvest PCB FY2026 Q3 Earnings Call】Copper Foil Price Hikes Kick In; Zhichao Group Q3 EPS Jumps Sharply From Q2; T-Flex Techvest PCB Quarterly Revenue NT$210 Million, Up 70.4% Year-on-Year",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "finance.biggo.com",
-      "publishedAt": "2026-11-17T09:24:00.000Z"
-    },
-    {
-      "id": "b0f20464de02d7b17c5f1fb93370524eb8d0eec801c7ca8965b42f09671c120d",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "밤에도 태양광 전력 쓴다…콩고 구리광산, 디젤발전 연료 40% 감소",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AI타임스",
-      "publishedAt": "2026-11-17T08:54:53.000Z"
-    },
-    {
       "id": "8c70f132ad4b62360b985acf4c9451aa7efa224e250a806fb6246055a16f2a71",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4955,56 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Vietnam.vn",
       "publishedAt": "2026-11-17T07:08:45.000Z"
-    },
-    {
-      "id": "79e41aa50a88e232c286373c1c980eed9bf8c17c65786aecfc39c697623ca71a",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "고려아연, 구리·희토류 풍부한 핵심광물 요충지에…韓·美·호주 잇는 '3각 공급망' 구상",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "한국경제",
-      "publishedAt": "2026-11-17T07:07:45.000Z"
-    },
-    {
-      "id": "ee8fbc8730ea6e1b471ad93114d63397d599fec62016f7a3334cd3fd22110fab",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Shanghai copper contract rollover approaching, SHFE/LME price ratio surges, imported copper premiums shoot up again [SMM Yangshan spot copper]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-11-13T06:10:00.000Z"
-    },
-    {
-      "id": "58493e098d4dbdae56b25612c6da1d7d022883a114409eaa6f292898f799b966",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Chile peso hits 19-month low as copper drops, US rate outlook weighs",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Investing.com",
-      "publishedAt": "2026-11-13T19:32:18.000Z"
-    },
-    {
-      "id": "652c2268db1bd9d39f1f769fc5e851c8eaeea5e56b99062d4b20eedf0da7e879",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "ASIA COPPER WEEK-Miner-smelter tug-of-war rocks long-standing copper benchmark",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "marketscreener.com",
-      "publishedAt": "2026-11-13T07:39:02.000Z"
-    },
-    {
-      "id": "5257606f57a13985b9923d8e5bd05bd8808917e1d9774a8f098ca2fba5c61bab",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Iran's Mes Kavan Namad completes 44% of $10mn copper concentrate line",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "IntelliNews",
-      "publishedAt": "2026-11-15T11:11:37.000Z"
     }
   ]
 }
