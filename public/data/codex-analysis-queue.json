@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:11:58.318Z",
+  "generatedAt": "2026-11-17T11:55:16.549Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -35,16 +35,6 @@
       "codexStatus": "PENDING",
       "source": "Bloomberg.com",
       "publishedAt": "2026-10-22T19:46:10.000Z"
-    },
-    {
-      "id": "36e9bc7040d9867b3007d8eb0016e5b0c7440cd4d9f8b0e8eb970f71aa155ff3",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "Chile’s Centinela Copper Mine Strike Ends With New Deal",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Finimize",
-      "publishedAt": "2026-10-18T04:03:34.000Z"
     },
     {
       "id": "a7820b82edc8c7eb46728a3a1768b4ba4676adbaf30e9528f56cf19de59306eb",
@@ -497,6 +487,16 @@
       "publishedAt": "2026-11-12T08:17:58.000Z"
     },
     {
+      "id": "f0e11cf359fd2ce0c6305b64ff9efcc300bde9f8d3ec6a95aa15898d9017ad11",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "이란 전쟁에 알루미늄 재고 급감…유럽 조달비용 상승",
+      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "한국경제",
+      "publishedAt": "2026-11-16T22:59:44.000Z"
+    },
+    {
       "id": "1107c51230910dc711fa9341bb2c156ed0491c4159a266ee06db176769fa4cc8",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -815,6 +815,16 @@
       "codexStatus": "PENDING",
       "source": "Castanet Kamloops",
       "publishedAt": "2026-11-15T19:00:28.000Z"
+    },
+    {
+      "id": "c63152fdbdcb6e2fa4ebbc09d34a3df298a6b427c3956da05c2c7cd16482c1c5",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "[기획] 기름보일러 알루미늄 자바라 연통, 왜 교체해야 하나 진동에 강한 스테인리스로 바꿔야 CO사고 줄일 수 있다",
+      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "가스신문",
+      "publishedAt": "2026-11-17T09:10:27.000Z"
     },
     {
       "id": "3834671fa8a43cb47a2cbd0b11c7c8c129f35e836074359bc426dd1951ed4811",
@@ -2227,14 +2237,24 @@
       "publishedAt": "2026-11-16T05:00:00.000Z"
     },
     {
-      "id": "e6125273acabe4094068e6edd0b014ba3ac2eddaf95cf34456f6ee085cb9d925",
+      "id": "97bd9fbf16cc0899b223f7f9b25ce85ddd026256d7976a593079012f043eac64",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Tight supply coupled with rising sentiment to hold back from selling kept secondary copper prices resilient at high levels [SMM Weekly Review on Secondary Copper Raw Materials Outside China]",
+      "title": "Copper price consolidates near $5.88 support as seller pressure remains in focus",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-18T04:38:00.000Z"
+      "source": "Traders Union",
+      "publishedAt": "2026-11-17T09:24:28.000Z"
+    },
+    {
+      "id": "d37bc7152a999afd4785a4956f7e928185a6b4c392249b8cb70fc0992d916548",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Kazakhstan Plans to Increase Copper Concentrate Output 50% by 2030",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-11-17T08:50:12.000Z"
     },
     {
       "id": "91359533d4fa0d8eaa197731e6550a9f262283ac3dc0b4468845f1479357a294",
@@ -3177,6 +3197,16 @@
       "publishedAt": "2026-11-16T08:47:42.000Z"
     },
     {
+      "id": "2834da000056258b25678e5c43825b26d0fa3be990f6c742cc05c46f19f04488",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Rio Tinto restarts idled aluminium production line in New Zealand",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Weekly",
+      "publishedAt": "2026-11-17T06:52:00.000Z"
+    },
+    {
       "id": "4b061293d8f8c6d4e002b13169e3d261aa4f73c15fb5dd6a2f327760cfee35cd",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -3885,6 +3915,26 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-11-16T12:31:00.000Z"
+    },
+    {
+      "id": "a66fafec7b0302efcbcb7bbbdaba5858b0296b6a8eae62db0a17de9c55bc4382",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "China Copper Ore Smelting Capacity Nears Peak as Margins Shrink",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-11-17T08:45:17.000Z"
+    },
+    {
+      "id": "38c3673a4ec3e4ec672c8335e0035ede70630f38715cd65260cac4a22473c2d4",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Hits Four-Month Low as China Import Premium Surges to Record $350/Tonne",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "EBC Financial Group",
+      "publishedAt": "2026-11-17T05:58:00.000Z"
     },
     {
       "id": "8bd76fbb36a63618786bc385308a8cf7ce9bc04811b48cc038fbfe39fbf2b801",
@@ -4837,6 +4887,86 @@
       "publishedAt": "2026-11-16T14:17:00.000Z"
     },
     {
+      "id": "9496be85a7c64f72864b90e639350547b2985e7a40699a085ed54fde64a14ba8",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Brutus Mining Inc. Announces Completion of Soil Survey at the CW Copper Project in South-Central British Columbia",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Globe and Mail",
+      "publishedAt": "2026-11-17T09:30:59.000Z"
+    },
+    {
+      "id": "1b4ee579693401a5ebb4f0919a230ae5579ae4f3db307a5fbc590e74b8aa14a2",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "【T-Flex Techvest PCB FY2026 Q3 Earnings Call】Copper Foil Price Hikes Kick In; Zhichao Group Q3 EPS Jumps Sharply From Q2; T-Flex Techvest PCB Quarterly Revenue NT$210 Million, Up 70.4% Year-on-Year",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "finance.biggo.com",
+      "publishedAt": "2026-11-17T09:24:00.000Z"
+    },
+    {
+      "id": "b0f20464de02d7b17c5f1fb93370524eb8d0eec801c7ca8965b42f09671c120d",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "밤에도 태양광 전력 쓴다…콩고 구리광산, 디젤발전 연료 40% 감소",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "AI타임스",
+      "publishedAt": "2026-11-17T08:54:53.000Z"
+    },
+    {
+      "id": "8c70f132ad4b62360b985acf4c9451aa7efa224e250a806fb6246055a16f2a71",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper 360 reaches main ore zone at Rietberg mine",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Business Day",
+      "publishedAt": "2026-11-17T08:46:42.000Z"
+    },
+    {
+      "id": "9d0299935735b1004e6d41072df1906fe37a367115de72f01e0cf75685739d09",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[Mitsui Mining & Smelting FY2026 Q2 Earnings Briefing] Japan's Mitsui Mining & Smelting Posts ¥57.5 Billion First-Half Operating Profit, Up ¥17.8 Billion YoY, Driven by VSP™ and MicroThin™ Copper Foil for AI Servers; Full-Year Forecast Raised",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "finance.biggo.com",
+      "publishedAt": "2026-11-17T08:34:00.000Z"
+    },
+    {
+      "id": "c7e4bf9ce022fffbaadf8e6ccaaa5eace54276a6e621f7dd9c38fdd571799c66",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Kazakhstan Plans to Raise Copper Concentrates Production by 50% by 2030",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Shanghai Metals Market",
+      "publishedAt": "2026-11-17T08:18:00.000Z"
+    },
+    {
+      "id": "94cf6ccc0703a6a3984623ecc1deaf230c7c2628ab4d53acd7f86ec7d9c51355",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리 가격이 4개월 만에 최저치를 기록했습니다.",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-11-17T07:08:45.000Z"
+    },
+    {
+      "id": "79e41aa50a88e232c286373c1c980eed9bf8c17c65786aecfc39c697623ca71a",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "고려아연, 구리·희토류 풍부한 핵심광물 요충지에…韓·美·호주 잇는 '3각 공급망' 구상",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "한국경제",
+      "publishedAt": "2026-11-17T07:07:45.000Z"
+    },
+    {
       "id": "ee8fbc8730ea6e1b471ad93114d63397d599fec62016f7a3334cd3fd22110fab",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4875,136 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "IntelliNews",
       "publishedAt": "2026-11-15T11:11:37.000Z"
-    },
-    {
-      "id": "285dfac195c338188a54c6d0ddb10dff86d297827c3d7438b68edb11743bf418",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper-silver geo modelling across part of Botswana copper belt completed",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mining Weekly",
-      "publishedAt": "2026-11-16T12:44:00.000Z"
-    },
-    {
-      "id": "a1e23cbcfef449659fdcd217d008d2a7a3ceb25fb90193481768e5886ff9f8a3",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper scrap prices up modestly in Germany",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "EUWID Recycling and Waste Management",
-      "publishedAt": "2026-11-16T11:04:00.000Z"
-    },
-    {
-      "id": "3a927cd516db8655b7400c6122043b86a630a4aae39717d072e712efab8535ff",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Southern Copper (NYSE:SCCO) Fits a Growth-at-a-Reasonable-Price Investing Screen",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "ChartMill",
-      "publishedAt": "2026-11-16T10:40:48.000Z"
-    },
-    {
-      "id": "9fdfc325281d697866130991a01128e28464431abd0163c0552c787cd811af42",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Shipments at delivery periods sold at discounts, spot copper trading activity picked up [SMM North China Spot Copper]",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-11-13T03:56:00.000Z"
-    },
-    {
-      "id": "50d9df3e1ac025a5fa874b410e093d79772000fe8ce5e669a87716aa8f9e2e66",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "China's 6063 Aluminum Billet Inventory Falls on November 16",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-11-16T01:21:00.000Z"
-    },
-    {
-      "id": "224bb717014587887fd10744f8ed78979e60b2e6d070b367f979e1922f9df5d3",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Intelligence buys more DRC copper assets, raises $10M",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Dealroom",
-      "publishedAt": "2026-11-16T13:49:05.000Z"
-    },
-    {
-      "id": "b123a4753df701dff441a4e9cc4998ef928d86ed4ba55a12a2aa7801f903c623",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Intelligence (CUAI) Acquires Additional DRC Copper Assets",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-11-16T12:15:00.000Z"
-    },
-    {
-      "id": "b6e43013b33cbcad09b40ac62b4ebef764e9a947fcccfcf005b59faf7affe756",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "CoreX Copper ups Brazilian mining financing",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Latin Lawyer",
-      "publishedAt": "2026-11-16T09:37:09.000Z"
-    },
-    {
-      "id": "88fef0fed47afdc3b68561973451c0c3933ea858b5dd24f43b2cb6b40b9f984f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "ADA news: Cardano holders vote down $5 million bid to buy warehouse copper",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "CoinDesk",
-      "publishedAt": "2026-11-16T06:27:42.000Z"
-    },
-    {
-      "id": "5e03444e3f1d65d8ca215d548622798a9d31435650630425c9ce1663eb81dec0",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "LG전자 공조사업, 원재료 절반이 구리…가격은 31% 상승",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "아이뉴스24",
-      "publishedAt": "2026-11-16T09:42:50.000Z"
-    },
-    {
-      "id": "8a305d8ad614c1e3c0587095f7a406744ef842ba530b96177aed637a687e7fcd",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "[구리 가격] AI 투자 우려에 4개월 만의 최저…중국 현물 프리미엄은 사상 최고",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "산업일보",
-      "publishedAt": "2026-11-16T00:16:26.000Z"
-    },
-    {
-      "id": "9d5ac7e771af1c4ade3ce2c4ee0ec6f77ad7e03387dad8e7eed0216b2a10a433",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Austral–Hammer Metals takeover: copper pit options and risks for mine planners",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Geomechanics.io",
-      "publishedAt": "2026-11-16T00:00:47.000Z"
-    },
-    {
-      "id": "6b3bc4865d88a9983d6d49392a3aed87be5e2f3f2dc035e4427e31e34386317b",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "'Zero-emission' aluminum production switches up the chemical equation",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "New Atlas",
-      "publishedAt": "2026-11-15T22:11:31.000Z"
     }
   ]
 }
