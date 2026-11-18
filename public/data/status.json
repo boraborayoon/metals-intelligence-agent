@@ -1,20 +1,21 @@
 {
-  "lastUpdated": "2026-11-18T02:54:53.273Z",
-  "nextScheduledRun": "2026-11-18T03:24:53.273Z",
+  "lastUpdated": "2026-11-18T11:45:58.890Z",
+  "nextScheduledRun": "2026-11-18T12:15:58.890Z",
   "agentStatus": "OK",
   "telegramStatus": "OK",
   "kakaoStatus": "DISABLED",
   "intelligenceMode": "RULE_ONLY",
   "codexQueue": {
-    "PENDING": 500,
+    "PENDING": 495,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
   "sourceStats": [
     {
       "name": "Google News Metals EN",
-      "status": "OK",
-      "count": 100
+      "status": "ERROR",
+      "count": 0,
+      "error": "HTTP 429"
     },
     {
       "name": "Google News Metals KO",
@@ -28,13 +29,13 @@
     }
   ],
   "runStats": {
-    "fetched": 210,
-    "relevant": 50,
-    "duplicates": 22,
-    "analyzed": 28,
-    "ruleAnalyzed": 28,
-    "codexPending": 500,
+    "fetched": 110,
+    "relevant": 16,
+    "duplicates": 9,
+    "analyzed": 7,
+    "ruleAnalyzed": 7,
+    "codexPending": 495,
     "sent": 5,
-    "failed": 0
+    "failed": 1
   }
 }
