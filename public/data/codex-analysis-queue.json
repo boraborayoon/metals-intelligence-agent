@@ -1,21 +1,11 @@
 {
-  "generatedAt": "2026-11-19T09:31:27.345Z",
+  "generatedAt": "2026-11-19T18:40:52.635Z",
   "counts": {
-    "PENDING": 493,
+    "PENDING": 497,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
   "items": [
-    {
-      "id": "532e17f2d3551160aca96d8c23932c37c999c96157bfee28d184341db4b28bdb",
-      "commodity": "COPPER",
-      "importance": "HIGH",
-      "title": "BHP's Copper Output Plunges 19% Last Quarter as Chilean Mine Shutdown Weighs on Results",
-      "reasonForCodexReview": "HIGH importance; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "BigGo Finance",
-      "publishedAt": "2026-10-20T10:55:00.000Z"
-    },
     {
       "id": "c649528595e5e6b202837636b6dbf180957b039c2c5904a7e44c94d43963750f",
       "commodity": "COPPER",
@@ -265,6 +255,16 @@
       "codexStatus": "PENDING",
       "source": "코인리더스",
       "publishedAt": "2026-11-18T23:05:20.000Z"
+    },
+    {
+      "id": "b74ee0ec5092bc98fcd9a6f09ef8fa56e99812cd58a5912d790742698a4ae2b7",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "Atalaya Mining Copper rises 2.60% in Thursday's session",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Global Banking & Finance Review",
+      "publishedAt": "2026-11-19T18:04:04.000Z"
     },
     {
       "id": "7e1a12214c4a5fbf00d404af06f5d95d420fbcde190c27f0e0a0ec6c5665539b",
@@ -717,14 +717,14 @@
       "publishedAt": "2026-11-17T09:10:27.000Z"
     },
     {
-      "id": "3834671fa8a43cb47a2cbd0b11c7c8c129f35e836074359bc426dd1951ed4811",
+      "id": "8892163614b12aa51eb8dccde67938baadda6ad8422f2d6bcdd6bf54ddc8184d",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Chile's Codelco sets 2027 Europe copper premium at record $350 a metric ton, sources say",
+      "title": "ASIA COPPER WEEK-Codelco lowers China copper premium for 2027 in bid to boost sales, sources say",
       "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-20T14:07:35.000Z"
+      "source": "www.marketscreener.com",
+      "publishedAt": "2026-11-19T15:49:16.000Z"
     },
     {
       "id": "6c5a7b89882c44c206d2ce8df8dccaed2e670a215a578a8d3c0830fc6439540f",
@@ -745,16 +745,6 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-10-31T07:04:00.000Z"
-    },
-    {
-      "id": "9910880f77944c47119f714951a8a9c05b3abc13722b21a9170b6d4f1491a2c9",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Codelco Sets European Copper Premium at Record $350 a Ton",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Bloomberg.com",
-      "publishedAt": "2026-10-20T10:31:14.000Z"
     },
     {
       "id": "2b8174ee6dadb8c46466525fd01550f5aedfb76ec936d6a535a2cd4169dce65c",
@@ -955,66 +945,6 @@
       "codexStatus": "PENDING",
       "source": "Traders Union",
       "publishedAt": "2026-11-18T14:43:29.000Z"
-    },
-    {
-      "id": "b950165bcce550299e814cd0a6e2984dc25d00781c843ad4e8d52dc78e1e2c24",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Kazakhstan Begins $1.8 Billion Copper Smelter Project in Abai Region",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Astana Times",
-      "publishedAt": "2026-10-20T14:16:32.000Z"
-    },
-    {
-      "id": "4e453cb49d6dd78bd14ab42c582ab044a17007c63f7f3971c68fe4ceedb4f577",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Sep secondary copper scrap imports surge over 30% MoM as import window opens【SMM Analysis】",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-20T13:22:00.000Z"
-    },
-    {
-      "id": "a1c3edcc567787ccdaf57905b42cfedf9cae9ac6c38a19d955163ef3ef04d95d",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "2년 뒤 최대 3배 폭증…하이퍼스케일러가 끌어올린 구리 수요｜Global Money Club",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "중앙일보",
-      "publishedAt": "2026-10-20T11:33:21.000Z"
-    },
-    {
-      "id": "4995e02d2228fa4118920d51d83bace8d561af1eeb27ac130e5f1e2e595ed13f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Price October 21 2026",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Robinhood",
-      "publishedAt": "2026-10-20T17:52:25.000Z"
-    },
-    {
-      "id": "2c2f619bd92b8f0768e9c128421058cbc7a263573e981f14c6ba6b8052d03684",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "US Company Acquires Armenia’s Second-Largest Copper Mine",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Caspian Post",
-      "publishedAt": "2026-10-20T17:28:30.000Z"
-    },
-    {
-      "id": "f224b430f5c3a907b1f35c2538fe8844dc04634502b5df4d2b2acec3c2186687",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "LME Week: Copper supply struggles to keep pace with electrification demand",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "S&P Global",
-      "publishedAt": "2026-10-20T14:08:30.000Z"
     },
     {
       "id": "e14e8fe1deca6a37227e817b21f73f07c3fc4ea3ea56604d8e9d293e8a56da2c",
@@ -2127,16 +2057,6 @@
       "publishedAt": "2026-11-19T00:52:00.000Z"
     },
     {
-      "id": "f495c8280b7481239f5c0ce8472885cff34ff521b13665dadaed9f075270945e",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Chile regulator to deliver audit of Codelco's copper output within 2 months",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-20T16:09:39.000Z"
-    },
-    {
       "id": "586ef3a42550bf23aac126eb29b23ca0cec4f423e00ac1007dca64715d1ccf30",
       "commodity": "MOLYBDENUM",
       "importance": "MEDIUM",
@@ -2375,6 +2295,16 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-11-16T09:07:00.000Z"
+    },
+    {
+      "id": "4253ffd4b06b1108ff3b37cbf5aac6983375a7600bef0d145373162461aafb75",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Chile regulator files charges against Codelco copper mine, La Tercera reports",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-11-19T12:15:51.000Z"
     },
     {
       "id": "5eeab2b08a5dafcc84825932ea365d2738003db119f45a919fc1c519085dfa6f",
@@ -2915,16 +2845,6 @@
       "codexStatus": "PENDING",
       "source": "Quiver Quantitative",
       "publishedAt": "2026-11-18T21:21:00.000Z"
-    },
-    {
-      "id": "41713f3ab3982f0132ea370bd6bd77021e5ceadca9c1d51f536e43670a8d89ee",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "VMI Group increases aluminium wire capacity to 25,000 TPA",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Aluminium International Today",
-      "publishedAt": "2026-10-20T09:34:25.000Z"
     },
     {
       "id": "394d4d767a776357f8f1d7cc53ee1a75c204c045430742c3bc3ed3d8a2a7fc5f",
@@ -3645,16 +3565,6 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-27T17:17:34.000Z"
-    },
-    {
-      "id": "dd02f149909f96f4db9f9079752ef2e4f84cd9fc8233648ec7c55c431a100ef3",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Data centre copper demand nears 1 million tonnes, tin price doubles: LME Week metals debate",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Fastmarkets",
-      "publishedAt": "2026-10-20T12:25:18.000Z"
     },
     {
       "id": "a40fc3fd37a680473d101b6bb0df0685a39bd6436e49971f880e9e2841df95a3",
@@ -4727,16 +4637,6 @@
       "publishedAt": "2026-11-18T22:31:35.000Z"
     },
     {
-      "id": "6f72afbaed1de2339101b71d3a4fd3a78f0eda1674b0637a48d9a2af83b5b580",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper at Lowest Since April Amid AI Market Turmoil, Chinese Demand Concerns",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "WSJ",
-      "publishedAt": "2026-11-18T19:35:00.000Z"
-    },
-    {
       "id": "a45f550bb4bccbccc8405f24f07ae2cbd9f9510eb0c76867d1893731ab729ab9",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4797,16 +4697,6 @@
       "publishedAt": "2026-11-18T20:59:07.000Z"
     },
     {
-      "id": "1f1258d3c24e295dd3698420e163a61d12a4fe354f2a25ab38ae496f675226de",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "PolarX drills copper west of Caribou Dome",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "North of 60 Mining News",
-      "publishedAt": "2026-11-18T19:44:01.000Z"
-    },
-    {
       "id": "14bb36aba37cb1bc48dde6a6b9480cbd3b7e8c28a39749c9f6a3b8a36b287d05",
       "commodity": "TIN",
       "importance": "MEDIUM",
@@ -4835,6 +4725,86 @@
       "codexStatus": "PENDING",
       "source": "유교신문",
       "publishedAt": "2026-11-19T05:59:16.000Z"
+    },
+    {
+      "id": "98d0b98af33868fc1b5f0226f1523e1a859efd630643862fe22279d5a268ffc0",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Sarginsons unveils world first lightweight aluminium subframe prototype",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Production Engineering Solutions",
+      "publishedAt": "2026-11-19T17:02:30.000Z"
+    },
+    {
+      "id": "ebb397b2ca2c8427108a89cca03a222296b3ea10cd8c30bc0675a36ea4dc9f27",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Talamore Mining (TSX:TALA): Gold, Copper and Critical Minerals Move Back Into Focus — Mid Cap Growth Stock",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "kalkine.ca",
+      "publishedAt": "2026-11-19T16:55:00.000Z"
+    },
+    {
+      "id": "4eb8f0a79466f5884ec1ad5fac1aeb3f422599ed69ecea946b28bbcdd83cde0c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Mining Co. Advances High-Grade Copper Project as US Develops $12B Critical Minerals Reserve",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Streetwise Reports",
+      "publishedAt": "2026-11-19T14:30:51.000Z"
+    },
+    {
+      "id": "acf47321c108c010e90120fa9726a9d29b63e9beea481dea3d62f093f4879422",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Phoenix Hits Broad Gold-Copper Mineralization at Historic Lexington Mine",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "ChemAnalyst",
+      "publishedAt": "2026-11-19T13:57:30.000Z"
+    },
+    {
+      "id": "4976718d23f7773dbc88f73966b36502110f3820354f8230bc296db1844c6651",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Epiroc SmartROC D65 supports major copper mine in Argentina",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Global Mining Review",
+      "publishedAt": "2026-11-19T09:33:17.000Z"
+    },
+    {
+      "id": "7309f91daf63bd3b542a86b114ae732415f1f0efb796682662fe3ea57053d65b",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper bounces from 7-month low, eyes on strong China demand",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-11-19T12:07:08.000Z"
+    },
+    {
+      "id": "6f72afbaed1de2339101b71d3a4fd3a78f0eda1674b0637a48d9a2af83b5b580",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper at Lowest Since April Amid AI Market Turmoil, Chinese Demand Concerns",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "WSJ",
+      "publishedAt": "2026-11-18T19:35:00.000Z"
+    },
+    {
+      "id": "1f1258d3c24e295dd3698420e163a61d12a4fe354f2a25ab38ae496f675226de",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "PolarX drills copper west of Caribou Dome",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "North of 60 Mining News",
+      "publishedAt": "2026-11-18T19:44:01.000Z"
     },
     {
       "id": "085330809c8ceabea73510bd6a12ec33ff22b7a05c7de79d0183c3ae17dbb95a",
@@ -4897,16 +4867,6 @@
       "publishedAt": "2026-11-18T19:05:41.000Z"
     },
     {
-      "id": "d97a950668e4038178a2446afa73cd8e0346fa9fc72139db4ab54aecdd743b6c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper forecast: risk-off mood and demand worries sink prices below $6",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "FOREX.com",
-      "publishedAt": "2026-11-18T18:10:13.000Z"
-    },
-    {
       "id": "4b3bcbd4b99609f6ecd265eec170baac2c7c9d4ae85f5bb4331d3fbf4963a69a",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4927,6 +4887,76 @@
       "publishedAt": "2026-11-19T00:24:07.000Z"
     },
     {
+      "id": "0bcf7c68c8d429b11d76cc649341106992e1f751a3a0bd6460eed70b65070e5e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Havilah hits copper–gold near Kalkaroo: satellite potential for mine planners",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Geomechanics.io",
+      "publishedAt": "2026-11-19T12:08:09.000Z"
+    },
+    {
+      "id": "e5dc2dee2f26fdc05aaf97e31e4c919b3e27677e2206d7084411be20a2257701",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Mexico-focused copper developer Torex lists on NYSE",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Weekly",
+      "publishedAt": "2026-11-19T09:33:00.000Z"
+    },
+    {
+      "id": "39ab815dbfd5d285dc301e5f6239bf3287fadf4913550011f2da1c190aaf271a",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Anglo Asian Mining prioritises copper projects as it relinquishes Gosha and Ordubad",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Proactive financial news",
+      "publishedAt": "2026-11-19T07:46:00.000Z"
+    },
+    {
+      "id": "2e51f3f8c66b6f83f0bcd148e4f02ce1e71850b41ce3f2a2b78bdb6922191282",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Time for Copper-Focused BHP to Show How It Can Grow",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "WSJ",
+      "publishedAt": "2026-11-19T07:09:17.000Z"
+    },
+    {
+      "id": "30025f185cdf302a7660372c5eeeed1923987363d53dfff285c1884d32fa7dcc",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "Andrada Mining Targets Significant Tin Production Growth as Critical Minerals Portfolio Expands",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance UK",
+      "publishedAt": "2026-11-19T06:00:00.000Z"
+    },
+    {
+      "id": "e59239448526126d8ad35814b2784013fda192647dc5de85073f8e940cb2efaa",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Kazakhstan’s Oil and Coal Output Rises as Gas and Copper Production Falls, Eni Reports",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Astana Times",
+      "publishedAt": "2026-11-19T04:47:10.000Z"
+    },
+    {
+      "id": "5d6a66b5d683bdfc577d3805a7543739269f935d33b5474066088726ea3c4a60",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper buyers in China pay record premiums: HG remains under pressure",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Traders Union",
+      "publishedAt": "2026-11-19T09:23:29.000Z"
+    },
+    {
       "id": "d0a9a0987d439df8eddc287c23036666eeb077fff870b37ebbb20e0fe3fb375e",
       "commodity": "TIN",
       "importance": "MEDIUM",
@@ -4935,6 +4965,16 @@
       "codexStatus": "PENDING",
       "source": "Georgia Laurie",
       "publishedAt": "2026-11-17T08:26:14.000Z"
+    },
+    {
+      "id": "d97a950668e4038178a2446afa73cd8e0346fa9fc72139db4ab54aecdd743b6c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper forecast: risk-off mood and demand worries sink prices below $6",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "FOREX.com",
+      "publishedAt": "2026-11-18T18:10:13.000Z"
     }
   ]
 }
