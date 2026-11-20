@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T18:40:52.635Z",
+  "generatedAt": "2026-11-20T00:56:06.991Z",
   "counts": {
-    "PENDING": 497,
+    "PENDING": 500,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -265,6 +265,16 @@
       "codexStatus": "PENDING",
       "source": "Global Banking & Finance Review",
       "publishedAt": "2026-11-19T18:04:04.000Z"
+    },
+    {
+      "id": "47d9f5521bbce275094a5cab0b3c1d24c80dd80fe81f6cc326380fea90e82670",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "[글로벌 리스크 예측] 빈손 회담에 알루미늄 관세 인하 기대 28%…하루 새 7%p 하락",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "코인리더스",
+      "publishedAt": "2026-11-19T23:04:55.000Z"
     },
     {
       "id": "7e1a12214c4a5fbf00d404af06f5d95d420fbcde190c27f0e0a0ec6c5665539b",
@@ -2307,26 +2317,6 @@
       "publishedAt": "2026-11-19T12:15:51.000Z"
     },
     {
-      "id": "5eeab2b08a5dafcc84825932ea365d2738003db119f45a919fc1c519085dfa6f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "BHP Shares Drop 1.7% After Copper Production Decline in Q1 (BHP)",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "GuruFocus",
-      "publishedAt": "2026-10-20T18:45:00.000Z"
-    },
-    {
-      "id": "bc781bd1eee8ed2cc63a0455da85861c4adb41d6a01fdf7298c62be1b56ead80",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Rep. Ciscomani Welcomes Interior Secretary Burgum to Gunnison Copper’s Johnson Camp Mine in Southern Arizona, Highlights Investments in American Copper Production",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Gila Herald",
-      "publishedAt": "2026-10-20T20:01:37.000Z"
-    },
-    {
       "id": "b3a569be7040496b1a6902b4319a1bffb75db4a9bce4c804f8458435cd77bff1",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -2845,6 +2835,16 @@
       "codexStatus": "PENDING",
       "source": "Quiver Quantitative",
       "publishedAt": "2026-11-18T21:21:00.000Z"
+    },
+    {
+      "id": "9b1a01329b463c4b29137e54e9131e3e237c1fa8177cde8b07ac7a7c5495af33",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[구리 가격] 앤트로픽 IPO 기대에 기술주 강세…구리 하락세 진정",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "산업일보",
+      "publishedAt": "2026-11-19T23:08:56.000Z"
     },
     {
       "id": "394d4d767a776357f8f1d7cc53ee1a75c204c045430742c3bc3ed3d8a2a7fc5f",
@@ -4777,6 +4777,56 @@
       "publishedAt": "2026-11-19T09:33:17.000Z"
     },
     {
+      "id": "8e96220edb21b0caf9d152fa7a25446c645d3bf2c45480cbdc1c124042a62a12",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "中 구리 품귀에 美 비축 물량 역류…역대급 '숏 스퀴즈'에 수출 재개",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "더구루",
+      "publishedAt": "2026-11-20T00:02:40.000Z"
+    },
+    {
+      "id": "f37eb6d7d0ad029ccacc4fe179ac06ea4be895d540f5bc62045b4e6932ca0899",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "NH증권 \"구리가격 낙폭과대…투자의견 '중립'으로 하향\"",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "연합뉴스",
+      "publishedAt": "2026-11-19T23:32:09.000Z"
+    },
+    {
+      "id": "a0d2542d9285052b1ade96c6c18bb77af0042c76674ee8125b364b97a3cbedb1",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "AI 열풍 식자 구리값 급락…상하이는 재고 부족에 몸살",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "한국경제",
+      "publishedAt": "2026-11-19T22:44:39.000Z"
+    },
+    {
+      "id": "13ee117761d5c948a35a3d298aaa996964ee8143b7180ba663983e85312d0d71",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "현대차·기아 수익성 떨어진 이유 있었네..알루미늄·구리 가격 급등 - 머니투데이",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "머니투데이",
+      "publishedAt": "2026-11-19T20:30:00.000Z"
+    },
+    {
+      "id": "56aece04dc834229173a8d11d3d02cb060faad1ebe4dfd9e8763d3affc3de5c2",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "튜더 인베스트먼트, 구리에서 금·은 광산주로 무게중심 이동 - 뉴스 및 통계",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-19T19:00:35.000Z"
+    },
+    {
       "id": "7309f91daf63bd3b542a86b114ae732415f1f0efb796682662fe3ea57053d65b",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4955,26 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Traders Union",
       "publishedAt": "2026-11-19T09:23:29.000Z"
-    },
-    {
-      "id": "d0a9a0987d439df8eddc287c23036666eeb077fff870b37ebbb20e0fe3fb375e",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Tin-based detector shows promise for underwater communication",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Georgia Laurie",
-      "publishedAt": "2026-11-17T08:26:14.000Z"
-    },
-    {
-      "id": "d97a950668e4038178a2446afa73cd8e0346fa9fc72139db4ab54aecdd743b6c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper forecast: risk-off mood and demand worries sink prices below $6",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "FOREX.com",
-      "publishedAt": "2026-11-18T18:10:13.000Z"
     }
   ]
 }
