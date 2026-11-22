@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T20:07:06.930Z",
+  "generatedAt": "2026-11-22T00:21:11.749Z",
   "items": [
     {
       "id": "66949157c03aee583030e5ca88ddbd84f618516d46c6c8123c6454020b7cd19a",
@@ -928,6 +928,42 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-20T00:56:06.991Z",
       "updatedAt": "2026-11-20T00:56:06.991Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "5eb7a0fb21cf37bb0186e179b2d836bfea7550213ebc18800c82b5b9a75eb864",
+      "commodity": "ALUMINUM",
+      "subCommodity": null,
+      "title": "[글로벌 리스크 예측] 캐나다 알루미늄 50% 관세 유지 확률 35%…하루 새 14%p 하락",
+      "summary": "[글로벌 리스크 예측] 캐나다 알루미늄 50% 관세 유지 확률 35%…하루 새 14%p 하락 코인리더스",
+      "source": "코인리더스",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhMllrWW9lcXdPbWJWblNjNDdlaE9ibjVITy1tX1pqc1VSb3lDNUV6ekdfYmVPLVZDMTZkU25sTnlvUlRnNUUtOEF3?oc=5",
+      "publishedAt": "2026-11-21T23:04:44.000Z",
+      "priority": 49,
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Tariff",
+        "categories": [
+          "TARIFF"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[글로벌 리스크 예측] 캐나다 알루미늄 50% 관세 유지 확률 35%…하루 새 14%p 하락 코인리더스",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-22T00:21:11.749Z",
+      "updatedAt": "2026-11-22T00:21:11.749Z",
       "analyzedAt": null
     },
     {
@@ -3504,42 +3540,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-20T08:35:16.640Z",
       "updatedAt": "2026-11-20T08:35:16.640Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "b5898cd298f6cc0976354a0f7ebe39e351175af3946a2dd3e1ae5dbd16223864",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "Oklahoma AG seeks emissions data from proposed Inola aluminum smelter",
-      "summary": "Oklahoma AG seeks emissions data from proposed Inola aluminum smelter News On 6",
-      "source": "News On 6",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaDQxNUQ3T0tISmNiWGZISmRaMEg4b0czMjcwb19ZUUxRSUdEdmNUMG9seGQxZjRxSGtaX1pDeVE0eGlMTmtNSlRKeFpCOVpld2NWZjJWU1Y0MTVyTkVXQjNoS1hqS0NRcjRXa1l1Q1ZnQ0VpM1QyZy1hOWRHR2t4Z3dpSlN0M0ZOM2dIMQ?oc=5",
-      "publishedAt": "2026-10-22T20:21:38.000Z",
-      "priority": 38,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Smelter",
-        "categories": [
-          "SMELTER"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Oklahoma AG seeks emissions data from proposed Inola aluminum smelter News On 6",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-22T21:37:57.128Z",
-      "updatedAt": "2026-10-22T21:37:57.128Z",
       "analyzedAt": null
     },
     {
@@ -7882,43 +7882,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-19T18:40:52.635Z",
       "updatedAt": "2026-11-19T18:40:52.635Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "36893b5f08fdec8a6226eb762bdc8024bbc3c32c5d3691c9872a4864be55aea3",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "BHP Share Price Risks R634 Breakdown as Copper Output Falls 19%, Despite Strong Iron Ore and Coal Production",
-      "summary": "BHP Share Price Risks R634 Breakdown as Copper Output Falls 19%, Despite Strong Iron Ore and Coal Production FXLeaders",
-      "source": "FXLeaders",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSWRsQ3lIWDlRVnJzeVR6eGJfV0hlZTdLUWFjV0N3TEpwWHJFNTVGZnRCUFFiNXlhRUFrWFVqQjRMaTFEUmFzUU91RUV3YmF2eS1rRWRTR2tJTDdfQ2ZldG9pdDJjbTFMdUxaWnlFdWVfa3FTcU10TVJ0U2tfM0J5YUoyakU1ZUMtUmhSS2RpZnA3SldqdjQ3U3Q5V2gycVVOT3dYdmFLb2l6aEgtZ2laZ1RsZXFFTVJOZjQzdnFObHI3VjloMVRGUFUwT0pSLXVpa3FwMDJVamhZRG9KVWdibmVyWQ?oc=5",
-      "publishedAt": "2026-10-22T21:54:50.000Z",
-      "priority": 36,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Production",
-        "categories": [
-          "PRICE",
-          "PRODUCTION"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "BHP Share Price Risks R634 Breakdown as Copper Output Falls 19%, Despite Strong Iron Ore and Coal Production FXLeaders",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-23T00:10:57.986Z",
-      "updatedAt": "2026-10-23T00:10:57.986Z",
       "analyzedAt": null
     },
     {
@@ -17247,6 +17210,42 @@
       "analyzedAt": null
     },
     {
+      "id": "d613d734fc38bd77c0580de4ed64fbd26c895ec557920fe3025aa2b621cded29",
+      "commodity": "TIN",
+      "subCommodity": null,
+      "title": "알파민 리소시스(TSXV:AFM), 주석 공급 계약 체결로 주가가 저평가되었을 가능성",
+      "summary": "알파민 리소시스(TSXV:AFM), 주석 공급 계약 체결로 주가가 저평가되었을 가능성 Simply Wall St",
+      "source": "Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeEJWLXhKWDBQenJwaXdIMGdyQ0lYMmI5ZDJCNkJ4YWZTWmdFVkZCdTRDU0psVXhKcE9KMXdxVElBTEd6ZFVONGVIZW9pbzlmV2ZBWTdrdzJJV3JjckY1S0hZbFdpaFpkeGg0azJOVTJySHo0VTg2TnRrTEtyUzZDQ0lHQ2M4cDFHREZTcVVwdTdsLVh2WVBNcHlRS0NFTXpMUWJn0gGoAUFVX3lxTFA2TzBteDlUSm5sVDhtMS1kR3gxcmRlZmt0MTV3c0pWaFd0RktEUkhEZEZ2cDFvT2RDS1NDS2ZVMHl4OXVMWGlFTXI3WUc0aXJyaGRSZDlsN3RERTJlaEFPbk9uQk13X0xMSFdlanZmMEhlNF9RaVNNZ0hseEZKeGFCTUdrSDdwdXhLSTlna0FPelhzZDdUN3I0aWhhRjdwWjloRExqUVhqdQ?oc=5",
+      "publishedAt": "2026-11-21T21:07:36.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Supply",
+        "categories": [
+          "SUPPLY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "알파민 리소시스(TSXV:AFM), 주석 공급 계약 체결로 주가가 저평가되었을 가능성 Simply Wall St",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-22T00:21:11.749Z",
+      "updatedAt": "2026-11-22T00:21:11.749Z",
+      "analyzedAt": null
+    },
+    {
       "id": "258fe740c7b983b10ca6d95b88f80cb1c134c3764ec102f9b8be768d39dc1c2f",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -17467,78 +17466,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-21T13:03:16.514Z",
       "updatedAt": "2026-11-21T20:07:06.930Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "ec6c222b7911a3008503d68490d3f2a9b9f8217a1fde9ec2409a1d3680148d88",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "원자재 시장: 원당과 구리 가격 폭락.",
-      "summary": "원자재 시장: 원당과 구리 가격 폭락. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYVVYYjVoWWNvNW1ZV0dLQ1JSSE5jazFlb2RYbHdDU3hZMXdzOGdOa0M0NVRzb3JUNnE3a1FZUDYyMzRtQThIWUlvQy1zMXJrYl9Tc0M5SjUwRTQ0WkZkaTNGdmhKd3BGenZHcnBUWlNDemR0R2pLcW5CWGU4TGdESVBBeWF5M1E?oc=5",
-      "publishedAt": "2026-11-20T08:07:11.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "원자재 시장: 원당과 구리 가격 폭락. Vietnam.vn",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-20T08:35:16.640Z",
-      "updatedAt": "2026-11-21T04:17:34.259Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "8957b2c7ec7921ccea9be66781f1489aeebee0d5239f7b38ccd5e2667d8bf359",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "상품 시장: 구리 가격 7개월 만에 최저치로 하락",
-      "summary": "상품 시장: 구리 가격 7개월 만에 최저치로 하락 Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUZWRlNodE5jRjlwZ3FhY0gxWXFVYndjb0FrSFY2cDE1c3BZRWtoRXFiRkRrTFhfRS1RR0hDT2s4TkN6bm9mTGg0V0NPTF96R0x3VmZ1VW45WXVsQ1pIc3QyVlFNNWdyeDhPUnQzZDVrWWVzbUdJYmNacVlLVTBhU3piX1dtYVBIZGxSUnhJRTZ4Zw?oc=5",
-      "publishedAt": "2026-11-20T07:09:40.000Z",
-      "priority": 30,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "General",
-        "categories": [
-          "PRICE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "상품 시장: 구리 가격 7개월 만에 최저치로 하락 Vietnam.vn",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "SHORT_TERM",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-20T08:35:16.640Z",
-      "updatedAt": "2026-11-20T23:22:23.958Z",
       "analyzedAt": null
     },
     {
@@ -18236,6 +18163,78 @@
       "analyzedAt": null
     },
     {
+      "id": "ec6c222b7911a3008503d68490d3f2a9b9f8217a1fde9ec2409a1d3680148d88",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "원자재 시장: 원당과 구리 가격 폭락.",
+      "summary": "원자재 시장: 원당과 구리 가격 폭락. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYVVYYjVoWWNvNW1ZV0dLQ1JSSE5jazFlb2RYbHdDU3hZMXdzOGdOa0M0NVRzb3JUNnE3a1FZUDYyMzRtQThIWUlvQy1zMXJrYl9Tc0M5SjUwRTQ0WkZkaTNGdmhKd3BGenZHcnBUWlNDemR0R2pLcW5CWGU4TGdESVBBeWF5M1E?oc=5",
+      "publishedAt": "2026-11-20T08:07:11.000Z",
+      "priority": 26,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "원자재 시장: 원당과 구리 가격 폭락. Vietnam.vn",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-20T08:35:16.640Z",
+      "updatedAt": "2026-11-22T00:21:11.749Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "8957b2c7ec7921ccea9be66781f1489aeebee0d5239f7b38ccd5e2667d8bf359",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "상품 시장: 구리 가격 7개월 만에 최저치로 하락",
+      "summary": "상품 시장: 구리 가격 7개월 만에 최저치로 하락 Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUZWRlNodE5jRjlwZ3FhY0gxWXFVYndjb0FrSFY2cDE1c3BZRWtoRXFiRkRrTFhfRS1RR0hDT2s4TkN6bm9mTGg0V0NPTF96R0x3VmZ1VW45WXVsQ1pIc3QyVlFNNWdyeDhPUnQzZDVrWWVzbUdJYmNacVlLVTBhU3piX1dtYVBIZGxSUnhJRTZ4Zw?oc=5",
+      "publishedAt": "2026-11-20T07:09:40.000Z",
+      "priority": 26,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "상품 시장: 구리 가격 7개월 만에 최저치로 하락 Vietnam.vn",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-20T08:35:16.640Z",
+      "updatedAt": "2026-11-22T00:21:11.749Z",
+      "analyzedAt": null
+    },
+    {
       "id": "1b6aadac898155727ffb78148450525917050da8affe69f7c2c5f6f4f1070e77",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -18268,7 +18267,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-20T23:22:23.958Z",
-      "updatedAt": "2026-11-21T20:07:06.930Z",
+      "updatedAt": "2026-11-22T00:21:11.749Z",
       "analyzedAt": null
     },
     {
@@ -18305,7 +18304,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-21T04:17:34.259Z",
-      "updatedAt": "2026-11-21T20:07:06.930Z",
+      "updatedAt": "2026-11-22T00:21:11.749Z",
       "analyzedAt": null
     },
     {
@@ -18342,7 +18341,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-20T08:35:16.640Z",
-      "updatedAt": "2026-11-21T20:07:06.930Z",
+      "updatedAt": "2026-11-22T00:21:11.749Z",
       "analyzedAt": null
     },
     {
@@ -18419,7 +18418,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-20T23:22:23.958Z",
-      "updatedAt": "2026-11-21T20:07:06.930Z",
+      "updatedAt": "2026-11-22T00:21:11.749Z",
       "analyzedAt": null
     },
     {
@@ -18456,7 +18455,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-20T23:22:23.958Z",
-      "updatedAt": "2026-11-21T20:07:06.930Z",
+      "updatedAt": "2026-11-22T00:21:11.749Z",
       "analyzedAt": null
     },
     {
@@ -18529,7 +18528,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-21T04:17:34.259Z",
-      "updatedAt": "2026-11-21T13:03:16.514Z",
+      "updatedAt": "2026-11-22T00:21:11.749Z",
       "analyzedAt": null
     },
     {
@@ -18604,7 +18603,44 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-21T13:03:16.514Z",
-      "updatedAt": "2026-11-21T20:07:06.930Z",
+      "updatedAt": "2026-11-22T00:21:11.749Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "d206ecaa0473409e799a9acb48110c1808118e40a676c235fa8fbf503a51098f",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "구리값 3주 만에 14% ＇뚝＇…중국 재고는 바닥인데 왜?",
+      "summary": "구리값 3주 만에 14% ＇뚝＇…중국 재고는 바닥인데 왜? 한국경제TV",
+      "source": "한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xZHpvVjJIMmExR1gzUmJ1aWkyaERzSXVIUlRBXy0yLXlvU01jek04ejhQbEJYclZLeE5VUDNzNjlDcFlIZzUwVkpJamZKTVlfSTBpZ2VNd2toWURaLXRCc0ZySUppaExpS0ZuSnVWWlk1LUJBbzJv?oc=5",
+      "publishedAt": "2026-11-20T22:00:00.000Z",
+      "priority": 26,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Inventory",
+        "categories": [
+          "INVENTORY",
+          "CHINA"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "구리값 3주 만에 14% ＇뚝＇…중국 재고는 바닥인데 왜? 한국경제TV",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-22T00:21:11.749Z",
+      "updatedAt": "2026-11-22T00:21:11.749Z",
       "analyzedAt": null
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T20:07:06.930Z",
+  "generatedAt": "2026-11-22T00:21:11.749Z",
   "counts": {
-    "PENDING": 494,
+    "PENDING": 495,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -245,6 +245,16 @@
       "codexStatus": "PENDING",
       "source": "코인리더스",
       "publishedAt": "2026-11-19T23:04:55.000Z"
+    },
+    {
+      "id": "5eb7a0fb21cf37bb0186e179b2d836bfea7550213ebc18800c82b5b9a75eb864",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "[글로벌 리스크 예측] 캐나다 알루미늄 50% 관세 유지 확률 35%…하루 새 14%p 하락",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "코인리더스",
+      "publishedAt": "2026-11-21T23:04:44.000Z"
     },
     {
       "id": "7e1a12214c4a5fbf00d404af06f5d95d420fbcde190c27f0e0a0ec6c5665539b",
@@ -875,16 +885,6 @@
       "codexStatus": "PENDING",
       "source": "Dealroom",
       "publishedAt": "2026-11-20T08:32:59.000Z"
-    },
-    {
-      "id": "b5898cd298f6cc0976354a0f7ebe39e351175af3946a2dd3e1ae5dbd16223864",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Oklahoma AG seeks emissions data from proposed Inola aluminum smelter",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "News On 6",
-      "publishedAt": "2026-10-22T20:21:38.000Z"
     },
     {
       "id": "c2db38f7cb8893d1633df6b18468137ef37806f3d072d6c08b9abbddbf2a077b",
@@ -2055,16 +2055,6 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-11-19T12:15:51.000Z"
-    },
-    {
-      "id": "36893b5f08fdec8a6226eb762bdc8024bbc3c32c5d3691c9872a4864be55aea3",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "BHP Share Price Risks R634 Breakdown as Copper Output Falls 19%, Despite Strong Iron Ore and Coal Production",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "FXLeaders",
-      "publishedAt": "2026-10-22T21:54:50.000Z"
     },
     {
       "id": "56c9064259007f79c0840188a756c94d7b53d6c178e647cc89e4a9f4775a6d6c",
@@ -4577,6 +4567,16 @@
       "publishedAt": "2026-11-21T14:51:49.000Z"
     },
     {
+      "id": "d613d734fc38bd77c0580de4ed64fbd26c895ec557920fe3025aa2b621cded29",
+      "commodity": "TIN",
+      "importance": "MEDIUM",
+      "title": "알파민 리소시스(TSXV:AFM), 주석 공급 계약 체결로 주가가 저평가되었을 가능성",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Simply Wall St",
+      "publishedAt": "2026-11-21T21:07:36.000Z"
+    },
+    {
       "id": "258fe740c7b983b10ca6d95b88f80cb1c134c3764ec102f9b8be768d39dc1c2f",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4635,26 +4635,6 @@
       "codexStatus": "PENDING",
       "source": "머니투데이",
       "publishedAt": "2026-11-21T09:04:54.000Z"
-    },
-    {
-      "id": "ec6c222b7911a3008503d68490d3f2a9b9f8217a1fde9ec2409a1d3680148d88",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "원자재 시장: 원당과 구리 가격 폭락.",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-11-20T08:07:11.000Z"
-    },
-    {
-      "id": "8957b2c7ec7921ccea9be66781f1489aeebee0d5239f7b38ccd5e2667d8bf359",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "상품 시장: 구리 가격 7개월 만에 최저치로 하락",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-11-20T07:09:40.000Z"
     },
     {
       "id": "a6031a9c916ea368fa4f49f35fca0e8b6eef2607b7f84f9ddb63dc0e0ecaafc2",
@@ -4847,6 +4827,26 @@
       "publishedAt": "2026-11-20T21:45:00.000Z"
     },
     {
+      "id": "ec6c222b7911a3008503d68490d3f2a9b9f8217a1fde9ec2409a1d3680148d88",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "원자재 시장: 원당과 구리 가격 폭락.",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-11-20T08:07:11.000Z"
+    },
+    {
+      "id": "8957b2c7ec7921ccea9be66781f1489aeebee0d5239f7b38ccd5e2667d8bf359",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "상품 시장: 구리 가격 7개월 만에 최저치로 하락",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-11-20T07:09:40.000Z"
+    },
+    {
       "id": "1b6aadac898155727ffb78148450525917050da8affe69f7c2c5f6f4f1070e77",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4945,6 +4945,16 @@
       "codexStatus": "PENDING",
       "source": "Georgia Laurie",
       "publishedAt": "2026-11-17T08:26:14.000Z"
+    },
+    {
+      "id": "d206ecaa0473409e799a9acb48110c1808118e40a676c235fa8fbf503a51098f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리값 3주 만에 14% ＇뚝＇…중국 재고는 바닥인데 왜?",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "한국경제TV",
+      "publishedAt": "2026-11-20T22:00:00.000Z"
     }
   ]
 }
