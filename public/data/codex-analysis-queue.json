@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-22T07:29:27.010Z",
+  "generatedAt": "2026-11-22T15:41:36.866Z",
   "counts": {
-    "PENDING": 493,
+    "PENDING": 498,
     "ANALYZED": 0,
     "SKIPPED": 0
   },
@@ -85,16 +85,6 @@
       "codexStatus": "PENDING",
       "source": "Moomoo",
       "publishedAt": "2026-10-29T23:19:15.000Z"
-    },
-    {
-      "id": "fe56c74e2ff3b1f20842e26f1e78fc73a59e2604e1d3fda33d7197905035ab3b",
-      "commodity": "ALUMINUM",
-      "importance": "HIGH",
-      "title": "Post-holiday destocking accelerates significantly; China's aluminum ingot inventory falls to a four-year low for the same period, with regional premiums diverging [SMM Analysis]",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-23T09:54:00.000Z"
     },
     {
       "id": "21f2f8c745c0f168016e4e03e0688e4e48e4c7b13fdab1b8d6db47dec3013582",
@@ -255,6 +245,16 @@
       "codexStatus": "PENDING",
       "source": "코인리더스",
       "publishedAt": "2026-11-21T23:04:44.000Z"
+    },
+    {
+      "id": "702bf98aa80350ae30044c1a85c02b10215512f98e7be1e09ac578024977e268",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "[글로벌 리스크 예측] ‘캐나다가 미국 이용’…알루미늄 고관세 확률 55%, 3%p↑",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "코인리더스",
+      "publishedAt": "2026-11-22T10:04:32.000Z"
     },
     {
       "id": "7e1a12214c4a5fbf00d404af06f5d95d420fbcde190c27f0e0a0ec6c5665539b",
@@ -855,26 +855,6 @@
       "codexStatus": "PENDING",
       "source": "Dealroom",
       "publishedAt": "2026-11-20T08:32:59.000Z"
-    },
-    {
-      "id": "c2db38f7cb8893d1633df6b18468137ef37806f3d072d6c08b9abbddbf2a077b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "September copper scrap imports surged over 30% MoM, with the opening of the import window being the main driver",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-23T08:11:00.000Z"
-    },
-    {
-      "id": "fbe25de9d067e9ac6aa22c56ee90a03c3d12e96ba80ba97b1919b1c74113675d",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "How Copper Mine Approval Will Impact Mitsubishi Stock Investors",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-10-23T14:19:50.000Z"
     },
     {
       "id": "702946f498d9827edfc6bb57416496394c5c7401aadef840d6d55bee432b0dc0",
@@ -2007,26 +1987,6 @@
       "publishedAt": "2026-11-19T12:15:51.000Z"
     },
     {
-      "id": "56c9064259007f79c0840188a756c94d7b53d6c178e647cc89e4a9f4775a6d6c",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "[SMM Copper Cathode Rod Flash] This week, operating rates at major dom",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-23T08:24:00.000Z"
-    },
-    {
-      "id": "f1c30e9134999ad8b76d95d8ea02eccc96d982377a635f38adde1d7a1a1e0092",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Codelco prices in a 2027 European copper squeeze at a record premium",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Startup Fortune",
-      "publishedAt": "2026-10-23T07:47:14.000Z"
-    },
-    {
       "id": "aa2c82b456d357d68a48838c0a2296c42413bcdaa8c9136cb03e22fc40c88461",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2475,26 +2435,6 @@
       "codexStatus": "PENDING",
       "source": "더구루",
       "publishedAt": "2026-11-21T15:00:25.000Z"
-    },
-    {
-      "id": "b5c9f118901e6636cb9414b9ce600d230f9630dfb2b3aed9a23e4e671cbb54de",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "US-Iran tensions flare up again amid ex-China inventory buildup; copper prices under pressure and pull back [SMM Macro Weekly Review]",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-10-23T10:14:00.000Z"
-    },
-    {
-      "id": "5db66d4d05ec23566cfcce08cd8965d83d435c8d50aea5b718e7f429a953dcef",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Halo granted mining permit for copper tailings processing in Chile",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Mining Weekly",
-      "publishedAt": "2026-10-23T09:53:00.000Z"
     },
     {
       "id": "9b6d6a557005ae12bfae9ab40555067023b7d75e67e27be8671a0c3d5a9c073a",
@@ -4547,6 +4487,66 @@
       "publishedAt": "2026-11-22T02:30:22.000Z"
     },
     {
+      "id": "6f72afbaed1de2339101b71d3a4fd3a78f0eda1674b0637a48d9a2af83b5b580",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper at Lowest Since April Amid AI Market Turmoil, Chinese Demand Concerns",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "WSJ",
+      "publishedAt": "2026-11-22T13:02:14.000Z"
+    },
+    {
+      "id": "80c0f311a467db86d77e6fc8cbfe6655849c9429a1221bee62e4c4bb9ec2b8e0",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Futures (DEC6) Price Trend Today | Quotes & News",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Moomoo",
+      "publishedAt": "2026-11-22T12:23:26.000Z"
+    },
+    {
+      "id": "1069f6965156797b7ce1cda451ba43e8ab8413a8e5cf3970bd683a18814991d6",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Aluminium makers urge duty-free import of primary metal before FY28 budget",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "FlipItMoney",
+      "publishedAt": "2026-11-22T11:14:53.000Z"
+    },
+    {
+      "id": "823f2a77dda34174545e89885b45a37cee621d2788b5f808a99e10891ad8e114",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Shanghai copper market supply squeeze drives extreme volatility",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Traders Union",
+      "publishedAt": "2026-11-22T11:10:26.000Z"
+    },
+    {
+      "id": "1b4bee7b68a4d1c7b727cec3e2c89315708de365c583c9d51be1947586c5d32e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리 선물, 재고 부족에 9% 급락",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "데일리바이트(DAILY BYTE)",
+      "publishedAt": "2026-11-22T11:00:00.000Z"
+    },
+    {
+      "id": "5a826b6b26d8235510c815d638207bbef850e2048173e6b55e63fef5856e012e",
+      "commodity": "MOLYBDENUM",
+      "importance": "MEDIUM",
+      "title": "몽골증권거래소, 광물 경매 투명성 강화…몰리브덴 정광 가격 18.75% 상승",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "뉴스비전e",
+      "publishedAt": "2026-11-22T08:04:26.000Z"
+    },
+    {
       "id": "258fe740c7b983b10ca6d95b88f80cb1c134c3764ec102f9b8be768d39dc1c2f",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4595,6 +4595,16 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-11-19T12:07:08.000Z"
+    },
+    {
+      "id": "324105fccd86a362edef566e3ae993b9e509a810129629139348d3c42751eebb",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "US Copper Stockpile Swells to Nearly 2 Million Tons as Traders Reverse Course and Ship Metal to China",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "BigGo Finance",
+      "publishedAt": "2026-11-22T08:25:00.000Z"
     },
     {
       "id": "3f09d80ea7923b5d652a3db4d789c449c9b757d9da5d40c99f43fbe40b83702c",
@@ -4797,6 +4807,36 @@
       "publishedAt": "2026-11-22T01:00:00.000Z"
     },
     {
+      "id": "7166f3c081611166185be8ee2905c98babf837c90bad932df60b7206efb4329f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Oman's $475M Mazoon Copper Project To Begin Production In Q1 2027",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Forbes Middle East",
+      "publishedAt": "2026-11-22T09:35:06.000Z"
+    },
+    {
+      "id": "0c9efb844eff3d689fc571d2d96bb89c4b4683ad4faaa7bca6e5a010101be698",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리 가격 하락은 매수 기회일까? UBS가 매수 포지션을 선호하는 이유",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com 한국어",
+      "publishedAt": "2026-11-22T09:09:00.000Z"
+    },
+    {
+      "id": "e7170b07d1dda0c3a3535c33b074c6c5cd1725ef26cedc72d0a6d540ea8776d2",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "‘블루 웨이브’ AI인프라 우려로 美 중간선거 이후구리 선물 가격 13% 급락",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "자유일보",
+      "publishedAt": "2026-11-22T08:20:00.000Z"
+    },
+    {
       "id": "a6031a9c916ea368fa4f49f35fca0e8b6eef2607b7f84f9ddb63dc0e0ecaafc2",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4935,6 +4975,16 @@
       "codexStatus": "PENDING",
       "source": "한국경제TV",
       "publishedAt": "2026-11-20T22:00:00.000Z"
+    },
+    {
+      "id": "2b8912718cf53d5f60aaee690919a3683bbc4ebecf3a0cb63d6c0311db194571",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Greenback vs Copper Basin - Boys Varsity Baseball 04/09/2027 | Live & On Demand",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "NFHS Network",
+      "publishedAt": "2026-11-21T14:33:31.000Z"
     }
   ]
 }
