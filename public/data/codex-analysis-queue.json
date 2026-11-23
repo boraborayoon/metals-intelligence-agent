@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T01:59:28.282Z",
+  "generatedAt": "2026-11-23T10:48:43.725Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -385,6 +385,16 @@
       "codexStatus": "PENDING",
       "source": "한국경제",
       "publishedAt": "2026-11-16T22:59:44.000Z"
+    },
+    {
+      "id": "66c0829d2ac2cf31bfa801e1195cf0d3df6ae4f9f09e0d7049a61e758683cb62",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "[글로벌 리스크 예측] 캐나다산 알루미늄 50% 관세 유지 확률 69%…하루 새 22%p 상승",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "코인리더스",
+      "publishedAt": "2026-11-23T04:04:54.000Z"
     },
     {
       "id": "eb924d8cc48313888fb46cac7d82d7c136732e6aaecbce5e59b53405cb4666c8",
@@ -1797,6 +1807,16 @@
       "publishedAt": "2026-11-22T01:42:07.000Z"
     },
     {
+      "id": "3e51a7748f0274329dd11d7d962f8242cabe553128982159aeb0876df2df3c7f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper price sinks into bear market, erasing 2026 gains in worst week of the year",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Indonesian Mining Association",
+      "publishedAt": "2026-11-23T08:14:29.000Z"
+    },
+    {
       "id": "a2b8377a179fa3455cd0f3b7735c5524e39215246e4ce96061bb906a7a36d2c1",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -2467,6 +2487,76 @@
       "publishedAt": "2026-11-22T21:50:27.000Z"
     },
     {
+      "id": "6c89b7a56708ac9c556a39bc90f59f48e91a78c2257ab4f5e430d6aaffcddd40",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP Outlines Plan to Double South Australian Copper Production by 2040",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Assay",
+      "publishedAt": "2026-11-23T08:27:52.000Z"
+    },
+    {
+      "id": "e91015d9639ee831162df1e06191f0cec39d2832a37bf26d76deec711e7533fd",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP to invest up to $17.4bn to double copper production in Australia",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-11-23T08:24:44.000Z"
+    },
+    {
+      "id": "a961ff22cab93d0c94b2c3a9fe2ae4001223ec252bce0f83dcd65eba6882940f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP outlines huge SA copper expansion",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Magazine",
+      "publishedAt": "2026-11-23T07:51:30.000Z"
+    },
+    {
+      "id": "9be14f44b5f67789445c66c9530c4d87ac2cfa6fa96b82a8eff7e9c103e8ac98",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP unveils $17.4bn plan to double South Australian copper output by 2040",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Weekly",
+      "publishedAt": "2026-11-23T06:42:00.000Z"
+    },
+    {
+      "id": "5d9fe3ff91b08b2934071c824d929f4096a75cca070cf28b15a05270e484c256",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "LME copper briefly falls below $12,000 a ton as tech selloff deepens",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com",
+      "publishedAt": "2026-11-23T06:07:10.000Z"
+    },
+    {
+      "id": "68a722e9f96a08f3373da6bed1f240608d28c4ba442f00624b1e439162be96e6",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Alcoa Corporation (ASX:AAI): Third-Quarter Cash Flow and Aluminium Output Shape 2026 Update",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Kalkine",
+      "publishedAt": "2026-11-23T05:18:00.000Z"
+    },
+    {
+      "id": "a89ac1a7ede0ea269541cc58dfb60e8925a99676e17ff39cf01530575108c7be",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "LME Aluminium Draws Fresh Attention as Prices Diverge From Other Base Metals",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "kalkine.co.uk",
+      "publishedAt": "2026-11-23T05:15:00.000Z"
+    },
+    {
       "id": "9b6d6a557005ae12bfae9ab40555067023b7d75e67e27be8671a0c3d5a9c073a",
       "commodity": "ALUMINUM",
       "importance": "MEDIUM",
@@ -3125,26 +3215,6 @@
       "codexStatus": "PENDING",
       "source": "TradingView",
       "publishedAt": "2026-10-27T17:17:34.000Z"
-    },
-    {
-      "id": "2b2437e53063d3a9949698f5c09834e1763b69efa7ad71495dab69f30024b0bc",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Bulldogs volleyball stays Copper Strong",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Mining Gazette",
-      "publishedAt": "2026-10-24T07:03:05.000Z"
-    },
-    {
-      "id": "d76eaac7b86f8e0df89435ff2b3132ebd8cf573305acbee8c743a520a7afffe4",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Country’s past and people",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "The Mining Gazette",
-      "publishedAt": "2026-10-24T07:02:38.000Z"
     },
     {
       "id": "126c75916910a61e0d8009bd8f00801906a70f743f8decc71a5006b0c4f459af",
@@ -4517,16 +4587,6 @@
       "publishedAt": "2026-11-22T22:58:25.000Z"
     },
     {
-      "id": "df66d263d7a7c4647fb11f003ff6d8a725f560ea23f8186ceb1ce4de219a149b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "[구리 가격] AI 투자 우려에 주간 9.3% 급락…앤트로픽 상장에도 기술주 약세",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "산업일보",
-      "publishedAt": "2026-11-22T22:29:25.000Z"
-    },
-    {
       "id": "eae6137d1e97821545f0276ceabb68840239917e27bc7b8f9d4a4ac81f11e434",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4535,6 +4595,136 @@
       "codexStatus": "PENDING",
       "source": "Mining Magazine Australia",
       "publishedAt": "2026-11-22T22:02:18.000Z"
+    },
+    {
+      "id": "547f98f62b2ff328620c0be1485d60be9a79b3702c9a4d0b5060833d60fd13a4",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Prospectiva Drills 11.75% Copper Over 10.02 Metres in Brazil as Shares Trail Financing Price",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "the deep dive",
+      "publishedAt": "2026-11-23T10:44:40.000Z"
+    },
+    {
+      "id": "1c18ddb11f64faf82901d3a0b3a84d674f2361ef466cd905e1c03fc0ea41e4f2",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Kefi Gold and Copper Says Unaware of Reason for Share Price Drop",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "www.marketscreener.com",
+      "publishedAt": "2026-11-23T09:36:22.000Z"
+    },
+    {
+      "id": "5c1a7c78bf71c4e36f52a241ca605e562ecdfdc63b218d147ceac5677a565531",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper sinks below $12,000 for the first time since March amid AI demand uncertainty",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The National",
+      "publishedAt": "2026-11-23T09:18:18.000Z"
+    },
+    {
+      "id": "20a0ff4b6802d4f4772aa49074df3c4f616542bc686014d7073a591e772622cd",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "World’s largest miner unveils US$17.4b plan to double South Australian copper output by 2040",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Straits Times",
+      "publishedAt": "2026-11-23T07:33:00.000Z"
+    },
+    {
+      "id": "035b39555f9ed8e80993ddc0e6ecfb5ecdc947bc517ab8665b12a7edc1bb22da",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "AI 투자 불안에…'닥터 쿠퍼' 구리 가격 변동성 지속",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "이데일리",
+      "publishedAt": "2026-11-23T07:12:58.000Z"
+    },
+    {
+      "id": "58bec6c61c2fa57f48b9f098d482f5205597c6d08faa0e373c87b2dc447c5ad4",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Polycab share price target cut 11% by ICICI Securities; Copper sell-off continues - CNBC TV18",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "LinkedIn",
+      "publishedAt": "2026-11-23T07:04:21.000Z"
+    },
+    {
+      "id": "94598b440758be1ef6cfa5802bdd81bab7afe42728060bcadd53f3124ca8bf85",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "REG - Kefi Gold and Copper - Statement re Share Price Movement",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "TradingView",
+      "publishedAt": "2026-11-23T07:00:00.000Z"
+    },
+    {
+      "id": "fc9ea744c8d7859c528be96b3bbd911406968fa7f196aa33d3643595248ead6c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Kings hockey falls to Highlanders",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "The Mining Gazette",
+      "publishedAt": "2026-11-23T06:51:47.000Z"
+    },
+    {
+      "id": "2254b2ff9b84727b8bb94369e73ecd342adf7d196bb24c6309a17a7a5b6b0801",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper rises after last week’s 9% drop on AI demand concerns By Investing.com",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com South Africa",
+      "publishedAt": "2026-11-23T06:49:55.000Z"
+    },
+    {
+      "id": "1b99d05da5575b08b1a6a817ec3c135c5a40a445e38b5686ecb72d661fb6bd2b",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "광해공단 1조 투자 파나마 구리광산, 재가동 협상에 시민 참여",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "한국신용신문",
+      "publishedAt": "2026-11-23T06:37:00.000Z"
+    },
+    {
+      "id": "c1ddc81cff15177b34bb4b4c9561d553db3dfd17ae4017b6bf462a61c7235a37",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Marvell's Ning Heqi: W-Pin Copper-Wire Platform in Production, Aluminum-Wire Motor in Validation",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Gasgoo",
+      "publishedAt": "2026-11-23T06:14:50.000Z"
+    },
+    {
+      "id": "d7a54ad094766a2754e291961456e26fb6a157f638623c2017076abb7896e678",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "AI 투자 회의론 확산에…구리 가격 ‘급락세’",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "KBS 뉴스",
+      "publishedAt": "2026-11-23T06:11:00.000Z"
+    },
+    {
+      "id": "bc8ada6656774f521cbe2f3e7a9ccb9f7a9ca3a39d461206ebb65f1d704a83bd",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "구리 가격 주간 9% 폭락, AI 우려 증폭",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "IDNFinancials",
+      "publishedAt": "2026-11-23T05:40:00.000Z"
     },
     {
       "id": "258fe740c7b983b10ca6d95b88f80cb1c134c3764ec102f9b8be768d39dc1c2f",
@@ -4555,6 +4745,36 @@
       "codexStatus": "PENDING",
       "source": "Shanghai Metals Market",
       "publishedAt": "2026-11-20T21:28:00.000Z"
+    },
+    {
+      "id": "82c100090ecf209ae326705dbf87a076332dbfb1ef863565aa2876bf27fb40e8",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP unveils $17.4 billion plan to double South Australian copper output by 2040",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "BusinessLine",
+      "publishedAt": "2026-11-23T04:43:54.000Z"
+    },
+    {
+      "id": "254d679f98583d7aefdcb1a3fea4dbd82cbd112a65cf2136d88eed7391a42e59",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP, 2040년까지 남호주 구리 생산량 두 배로 확대 계획… 주가 상승",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Investing.com 한국어",
+      "publishedAt": "2026-11-23T04:07:00.000Z"
+    },
+    {
+      "id": "52385e80c4394bc94f91924b016968bc6fa213697988e5c5a8149247c82f92e9",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "BHP plans up to USD17.4b spend to double SA copper output",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Capital Brief",
+      "publishedAt": "2026-11-23T02:31:00.000Z"
     },
     {
       "id": "bda4782a5c5b29f2a608ae173c0e05cc873b686ad11712929a30289ddf4e30ad",
@@ -4595,6 +4815,16 @@
       "codexStatus": "PENDING",
       "source": "Vietnam.vn",
       "publishedAt": "2026-11-22T01:42:58.000Z"
+    },
+    {
+      "id": "df66d263d7a7c4647fb11f003ff6d8a725f560ea23f8186ceb1ce4de219a149b",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "[구리 가격] AI 투자 우려에 주간 9.3% 급락…앤트로픽 상장에도 기술주 약세",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "산업일보",
+      "publishedAt": "2026-11-22T22:29:25.000Z"
     },
     {
       "id": "823f2a77dda34174545e89885b45a37cee621d2788b5f808a99e10891ad8e114",
@@ -4775,236 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "Mining Weekly",
       "publishedAt": "2026-11-19T09:33:00.000Z"
-    },
-    {
-      "id": "1fcbb758cb0dfe1876d36b9dd9a783a5f18f86fd21d801c5bacbd5480d09290c",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Metals X Moves To Buy First Tin At A Premium",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Finimize",
-      "publishedAt": "2026-11-20T10:55:08.000Z"
-    },
-    {
-      "id": "0fc6c2d9b9c16ddff41d962c2e5dd8e61e4e7f3fc62fb80e2dad18b4fed72fc7",
-      "commodity": "MOLYBDENUM",
-      "importance": "MEDIUM",
-      "title": "Key Takeaways from SMM NCMSS2026: Global Molybdenum Market Supply-Demand Analysis & Medium and Long-Term Outlook",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "Shanghai Metals Market",
-      "publishedAt": "2026-11-20T08:49:00.000Z"
-    },
-    {
-      "id": "90c70b545b3d1f79e52e43110d740df9cb78babb06a460bc799679ad5580de59",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Native title stand-off casts a shadow over BHP’s copper heartland",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "AFR",
-      "publishedAt": "2026-11-22T01:00:00.000Z"
-    },
-    {
-      "id": "7166f3c081611166185be8ee2905c98babf837c90bad932df60b7206efb4329f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Oman's $475M Mazoon Copper Project To Begin Production In Q1 2027",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Forbes Middle East",
-      "publishedAt": "2026-11-22T09:35:06.000Z"
-    },
-    {
-      "id": "0c9efb844eff3d689fc571d2d96bb89c4b4683ad4faaa7bca6e5a010101be698",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리 가격 하락은 매수 기회일까? UBS가 매수 포지션을 선호하는 이유",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com 한국어",
-      "publishedAt": "2026-11-22T09:09:00.000Z"
-    },
-    {
-      "id": "e7170b07d1dda0c3a3535c33b074c6c5cd1725ef26cedc72d0a6d540ea8776d2",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "‘블루 웨이브’ AI인프라 우려로 美 중간선거 이후구리 선물 가격 13% 급락",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "자유일보",
-      "publishedAt": "2026-11-22T08:20:00.000Z"
-    },
-    {
-      "id": "27184cae94722f8a6a6529118cf15db38a296b3e370c6ec069d8f3a09885615f",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Aligning UK and EU ETS may impact steel, aluminium, and ammonia import costs, Catherine McBride notes",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Traders Union",
-      "publishedAt": "2026-11-21T21:35:08.000Z"
-    },
-    {
-      "id": "1e9a1ef3360cfb52cefbe0f6b6fc6b93e691d510d9a103d7e975088c664d6903",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "India: Copper scrap prices plunge following sharp LME correction",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "BigMint",
-      "publishedAt": "2026-11-21T12:14:51.000Z"
-    },
-    {
-      "id": "dd9f223a1b9dcf6f4e94dfa27b5750b1c2935ae434464029c7be0f97272f3d69",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Blue Moon Metals Inc. Completes Acquisition of Turner Copper-Gold Vms Deposit from Gold Coast Mining Inc",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "www.marketscreener.com",
-      "publishedAt": "2026-11-20T21:45:00.000Z"
-    },
-    {
-      "id": "a6031a9c916ea368fa4f49f35fca0e8b6eef2607b7f84f9ddb63dc0e0ecaafc2",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper’s Slide Deepens As AI Demand Doubts Grow",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Finimize",
-      "publishedAt": "2026-11-20T08:57:46.000Z"
-    },
-    {
-      "id": "ec6c222b7911a3008503d68490d3f2a9b9f8217a1fde9ec2409a1d3680148d88",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "원자재 시장: 원당과 구리 가격 폭락.",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-11-20T08:07:11.000Z"
-    },
-    {
-      "id": "8957b2c7ec7921ccea9be66781f1489aeebee0d5239f7b38ccd5e2667d8bf359",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "상품 시장: 구리 가격 7개월 만에 최저치로 하락",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-11-20T07:09:40.000Z"
-    },
-    {
-      "id": "1b6aadac898155727ffb78148450525917050da8affe69f7c2c5f6f4f1070e77",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper Slips Near $5.52 as Tight Supply Clashes With Fed",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingPedia",
-      "publishedAt": "2026-11-20T14:37:57.000Z"
-    },
-    {
-      "id": "6a3d6793b88ae4707317397339289ed3db6e6064b42406aa8e87c10580b0bbb3",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "최근 구리 가격이 2.8% 하락한 이유는 무엇일까요?",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Traders Union",
-      "publishedAt": "2026-11-20T17:27:35.000Z"
-    },
-    {
-      "id": "07c87a61eaf981b04e37fe08cdcd4490281d2310060ad9706045b1e6b07b6c85",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "First Tin agrees £89.4 million takeover by Metals X at 43% premium",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Proactive financial news",
-      "publishedAt": "2026-11-20T07:24:00.000Z"
-    },
-    {
-      "id": "d969cee4863b9b6b3f3962c48a1727576610f2564b36ea4ed3d9625691ce7f67",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Mining Co. Advances High-Grade Copper Project as US Develops $12B Critical Minerals Reserve",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Streetwise Reports",
-      "publishedAt": "2026-11-20T06:09:58.000Z"
-    },
-    {
-      "id": "4a797284f4a371910bdb8e5f2c5017a9c50fe3431778cd80c0facc26ccd61f4b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Two Chinese copper smelters blend concentrate overseas to boost supply, sources say",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mining Weekly",
-      "publishedAt": "2026-11-20T11:39:00.000Z"
-    },
-    {
-      "id": "962bc7d75327ac2a0d8e775ceedb20dde9f3d4897b8c3bce17c0e1f18296550a",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리 물량 다 빨아들이는 美…재고 바닥난 中선 가격 급등",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "블루밍비트",
-      "publishedAt": "2026-11-20T09:45:50.000Z"
-    },
-    {
-      "id": "5babf489602bcc74ea2861182521df439888c971c87c4d9480dba8c5acb373f8",
-      "commodity": "MOLYBDENUM",
-      "importance": "MEDIUM",
-      "title": "프라마톰, 독일 연구로 FRM II용 HALEU 우라늄-몰리브덴 연료판 첫 생산 성공",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "https://www.2news.co.kr/",
-      "publishedAt": "2026-11-20T03:20:26.000Z"
-    },
-    {
-      "id": "f89144fcb5ef1737c0e6adad442659134c86037fffa9987886c239acb23a0207",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리 현물 8거래일 연속 하락... 美 재고 中 이동이 가격 흐름 변수 [뭔데이 메탈]",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "시장경제신문",
-      "publishedAt": "2026-11-20T01:52:20.000Z"
-    },
-    {
-      "id": "13ee117761d5c948a35a3d298aaa996964ee8143b7180ba663983e85312d0d71",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "현대차·기아 수익성 떨어진 이유 있었네..알루미늄·구리 가격 급등 - 머니투데이",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "머니투데이",
-      "publishedAt": "2026-11-19T20:30:00.000Z"
-    },
-    {
-      "id": "d0a9a0987d439df8eddc287c23036666eeb077fff870b37ebbb20e0fe3fb375e",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Tin-based detector shows promise for underwater communication",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Georgia Laurie",
-      "publishedAt": "2026-11-17T08:26:14.000Z"
-    },
-    {
-      "id": "d206ecaa0473409e799a9acb48110c1808118e40a676c235fa8fbf503a51098f",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "구리값 3주 만에 14% ＇뚝＇…중국 재고는 바닥인데 왜?",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "한국경제TV",
-      "publishedAt": "2026-11-20T22:00:00.000Z"
     }
   ]
 }
