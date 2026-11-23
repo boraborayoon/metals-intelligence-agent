@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T21:17:28.117Z",
+  "generatedAt": "2026-11-23T01:59:28.282Z",
   "items": [
     {
       "id": "66949157c03aee583030e5ca88ddbd84f618516d46c6c8123c6454020b7cd19a",
@@ -173,6 +173,49 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-29T20:39:35.614Z",
       "updatedAt": "2026-10-29T20:39:35.614Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "c7c6ab4ba888c9425391eea37483afd3cbb192e5ce3527718a59ddf4bf7298e6",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "BHP doubles down on major SA copper mine expansion plans",
+      "summary": "BHP doubles down on major SA copper mine expansion plans InDaily South Australia",
+      "source": "InDaily South Australia",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUZKZU9acmoxV1dUR256NVN5LUVOZm00VnFTRWxFYzFhekd3NzlVMlJrOTIyaGdnQUxFQWU0d2JqSGk5YkF5cmlubElBWmpSRE1pQ0x0RWxjbmx6WVhjNW43a2VsOTF4S2RWMm1ZNG9rVGNZdlZsMk5mU2wyQ3NuYWExbm9kM0FTX3YwZmVRWTFTZ2lEZGlnTS1oZDNlTlViVGRyZzNFaC1nTWlQOEpz?oc=5",
+      "publishedAt": "2026-11-22T22:40:07.000Z",
+      "priority": 55,
+      "reasonForCodexReview": "HIGH importance",
+      "ruleAnalysis": {
+        "importance": "HIGH",
+        "marketImpact": "Bearish",
+        "procurementImpact": "POSITIVE",
+        "category": "Capacity",
+        "categories": [
+          "MINE",
+          "CAPACITY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BHP doubles down on major SA copper mine expansion plans InDaily South Australia",
+        "marketImpactReason": "공급 확대, 수요 둔화 또는 재고 증가를 나타내는 명시적 사건 근거를 확인했습니다.",
+        "procurementImpactReason": "공급 확대 또는 가격 하락 압력은 구매조건과 가용성에 유리할 수 있습니다.",
+        "keyEvidence": [
+          "mine expansion"
+        ],
+        "confidence": "MEDIUM",
+        "timeHorizon": "MEDIUM_TERM",
+        "signals": [
+          "Supply Loosening",
+          "New Capacity",
+          "Price Decline Opportunity"
+        ],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-23T01:59:28.282Z",
+      "updatedAt": "2026-11-23T01:59:28.282Z",
       "analyzedAt": null
     },
     {
@@ -3456,39 +3499,39 @@
       "analyzedAt": null
     },
     {
-      "id": "702946f498d9827edfc6bb57416496394c5c7401aadef840d6d55bee432b0dc0",
+      "id": "ea0e1068f9383dd586e009a36d00541b326e92678a3202b758ebd5954d73a922",
       "commodity": "COPPER",
       "subCommodity": null,
-      "title": "Interior Secretary Burgum visits copper mine in Cochise County",
-      "summary": "Interior Secretary Burgum visits copper mine in Cochise County AZPM News",
-      "source": "AZPM News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNandTUVpTN0s3U01ESVhDZ1FoU0JkVzdZWF8xNk5uVlVvbVVJUmJvQnJmNlFYV3gwb3FPWDE0bmRmU3c1aGJyTFlDbzFFZGt0UzR0Z1F0TzhCYVVCVmRSMGJzTXZJNFFMbW5MMzBWcEhzT0M1eHJUcVB6czItUlROcGJGb0pzRFZMUlNmV0N5QjlTZUZaRTUtdDhmd0xnZU5tVEhDcTU0M2ZwV0dJSHZkV1FlQk5nSW5YX3dMMHF1V3NYRkU?oc=5",
-      "publishedAt": "2026-10-24T00:15:19.000Z",
-      "priority": 38,
+      "title": "Ero Copper (TSX:ERO) Stock May Be Below Fair Value After Copper Price Slide",
+      "summary": "Ero Copper (TSX:ERO) Stock May Be Below Fair Value After Copper Price Slide Simply Wall St",
+      "source": "Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazc1YTMzbkRCeWE1VWo4V2pMMjl0d0syZlJoQkVkWUNPSUtZSmNheFdNWDYxS3drVE9ocVZZdmhrUXZjQ2F2blM5aVYtMm9UQm9ya2ZMZTl4cklRYzNzbUxGVjdxUVBHajVocS1ncTFTdzVCaWhOWFYtNWhiVTBoZWZGak15YnNZWWVBNDdDMEQ5OGZyS0FaNU4tVjZyOGFISmoxVnZ6WTRmY0RTcGpVeW5MejNhODU0dUR4R21JRHU4eEJWYjk5dTMwYzBVZ9IB0wFBVV95cUxPRzJfOGZLRVFzOGRsUDFaNzNNZFNNZWd2MS0ydnpZME9UNEZhSFlfSUZIUVAydjNFclBrNUlIQW1halcyRXhSdkxpeW1jRHM1SnE1LXFKU05UZE1zY1piUS1wMmRGclhSWVlILW9Kd2JPZjJ3UXlqSXZuSk1udm1UUC1BVGJrSV9TNThWcF9KTTBsV01DMEUwSVBmUXZLZGM2QVFlUHJGNzZicFNxcnBaenZQYlJYT1ZWcER0Y0VkUHNabHdseno2dTVzNERsdVBJbDEw?oc=5",
+      "publishedAt": "2026-11-23T01:07:24.000Z",
+      "priority": 39,
       "reasonForCodexReview": "Rule direction is unclear",
       "ruleAnalysis": {
         "importance": "MEDIUM",
         "marketImpact": "Unclear",
         "procurementImpact": "UNCLEAR",
-        "category": "Mine",
+        "category": "General",
         "categories": [
-          "MINE"
+          "PRICE"
         ],
         "region": "Unclear",
         "regions": [],
-        "summary": "Interior Secretary Burgum visits copper mine in Cochise County AZPM News",
+        "summary": "Ero Copper (TSX:ERO) Stock May Be Below Fair Value After Copper Price Slide Simply Wall St",
         "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
         "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
         "keyEvidence": [],
         "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
+        "timeHorizon": "SHORT_TERM",
         "signals": [],
         "urgent": false
       },
       "codexAnalysis": null,
       "codexStatus": "PENDING",
-      "queuedAt": "2026-10-24T01:08:38.465Z",
-      "updatedAt": "2026-10-24T01:08:38.465Z",
+      "queuedAt": "2026-11-23T01:59:28.282Z",
+      "updatedAt": "2026-11-23T01:59:28.282Z",
       "analyzedAt": null
     },
     {
@@ -9260,6 +9303,78 @@
       "analyzedAt": null
     },
     {
+      "id": "ae08f8b800a3c6600043ab680d08d92fe7575c6f0dd88a0a50d611df7ac96909",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "BHP unveils plans to double copper output in South Australia by 2040",
+      "summary": "BHP unveils plans to double copper output in South Australia by 2040 The Edge Malaysia",
+      "source": "The Edge Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pWHQyYXl6U1ZxU2RTTDJITlp3ekpUOUI0Tmt5M3BTOHhVOTAwMmRhM2RsSE9EWlBuWVI4a251dGZwS1J0TlN1ajRveHJORTBl?oc=5",
+      "publishedAt": "2026-11-23T01:01:25.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production",
+        "categories": [
+          "PRODUCTION"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BHP unveils plans to double copper output in South Australia by 2040 The Edge Malaysia",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-23T01:59:28.282Z",
+      "updatedAt": "2026-11-23T01:59:28.282Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "11829f5109d087b60e90eb5e0a2ad177f5b042cf6822d6a1dfc5328a477b7342",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "BHP: Copper SA targets 500 ktpa copper by 2035 and up to 650 ktpa by 2040",
+      "summary": "BHP: Copper SA targets 500 ktpa copper by 2035 and up to 650 ktpa by 2040 TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNkJTUDhnZjJjbmpDa2RuUlFHWE1wQW54cUNLdEV3ZlJDM2ZkN1Nka1dYX3hmRDZ5WndGZnh6QUFjc3E5WXV5ZzZ5VTdfenlGQVJSckRGQ2VtdGdkQ1NOdWpZLXY2N1U0Y1VDUlJTM3NlX201V1BqRXVWUFY1Vk5jOTNjVXMtdHNwOUQ0STVfUzZGdF9SZmNpM0F6Vk95NmROQmY0OU84Z3FQa2FGX01YM1NiMzA5NE5rck10dVZoOUtmR2RfeVRvalltREVVZ09YcnZDRTFTanFOYl9pb0w1aGMtVGtxOFE4RkY0?oc=5",
+      "publishedAt": "2026-11-22T21:50:27.000Z",
+      "priority": 36,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BHP: Copper SA targets 500 ktpa copper by 2035 and up to 650 ktpa by 2040 TradingView",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-23T01:59:28.282Z",
+      "updatedAt": "2026-11-23T01:59:28.282Z",
+      "analyzedAt": null
+    },
+    {
       "id": "9b6d6a557005ae12bfae9ab40555067023b7d75e67e27be8671a0c3d5a9c073a",
       "commodity": "ALUMINUM",
       "subCommodity": null,
@@ -11825,115 +11940,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-10-27T20:43:17.415Z",
       "updatedAt": "2026-10-28T05:45:02.965Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "5552e47c52fbccbc0870942b720170bfa3b4adc9f0a81583bbc2f8c04ee73463",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "美 배터리용 알루미늄박 시장 재편…韓기업 공급 기회 열린다",
-      "summary": "美 배터리용 알루미늄박 시장 재편…韓기업 공급 기회 열린다 더구루",
-      "source": "더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBac1J3UVBRTVBzZW9CSHdFM01BS2xoc250Ym1Pb1VCbFA2aEx5VzhxeHIyUkhTR2FYWHZQSDZuVUIwdWo4by1pUVRTQVdGSUNybk5aWm9JQ25qU3ptdjRjd0dhbw?oc=5",
-      "publishedAt": "2026-10-23T22:12:36.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Supply",
-        "categories": [
-          "SUPPLY",
-          "COMPANY"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "美 배터리용 알루미늄박 시장 재편…韓기업 공급 기회 열린다 더구루",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-23T22:19:07.425Z",
-      "updatedAt": "2026-10-23T22:19:07.425Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "b1569c03fa0f577be05110d807842ff4cd810fa96c8b40d63ac94ff1f3693d75",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Falcon Copper hopes to explore in historic Montana mining",
-      "summary": "Falcon Copper hopes to explore in historic Montana mining Elko Daily Free Press",
-      "source": "Elko Daily Free Press",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95blcyZm45aDNJMXBkQ1FaUTRXTm4tVmtsdHctMldRN0M2bml6YVZGY2pHZzlEdzJ4Y2JWMlpVNElNc1BXel9INHJ4M0djTEZYY0Z4VjBQSGJDWUxDSmxPVUVUSVNYTm1DM2JRTUR0Mk9FVTFaOFp1aA?oc=5",
-      "publishedAt": "2026-10-24T00:40:00.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Falcon Copper hopes to explore in historic Montana mining Elko Daily Free Press",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-24T01:08:38.465Z",
-      "updatedAt": "2026-10-24T01:08:38.465Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "200e1a6490865c44602de766cd95a15dc7ad0071967a3ea1d6c7c13937a01d82",
-      "commodity": "ALUMINUM",
-      "subCommodity": null,
-      "title": "리오틴토, 퀸즐랜드 보크사이트 광산에 2.5조 투자하는 이유",
-      "summary": "리오틴토, 퀸즐랜드 보크사이트 광산에 2.5조 투자하는 이유 CNews",
-      "source": "CNews",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKdi12dXB5Mjd2WkIxQmlzSERrTTBPR1ZKQWZ1NElDZTRQUnVlY0Y5alphVGFXNW12Qlc3MkVkcTV6THpoMjVPWGtWT2RWODhFYy1GN01RVW4yTVAxZ0hFSFdDN01ialNVQUdmRUtQM0lGVU4wbTNF?oc=5",
-      "publishedAt": "2026-10-24T01:11:55.000Z",
-      "priority": 34,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Mine",
-        "categories": [
-          "MINE"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "리오틴토, 퀸즐랜드 보크사이트 광산에 2.5조 투자하는 이유 CNews",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-10-24T05:56:04.721Z",
-      "updatedAt": "2026-10-24T05:56:04.721Z",
       "analyzedAt": null
     },
     {
@@ -16895,6 +16901,187 @@
       "analyzedAt": null
     },
     {
+      "id": "0af81dcafe7b2846f0bf016bcddd858e59a85eaac5583711d084b1e230ea4c1f",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Capstone Copper Corp. Cuts 2026 Production Guidance Floor to 195,000 Tonnes After Pinto Valley Crusher Delay",
+      "summary": "Capstone Copper Corp. Cuts 2026 Production Guidance Floor to 195,000 Tonnes After Pinto Valley Crusher Delay Kalkine",
+      "source": "Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcHFFb1k5ZzZfeVUwWnE0dVk1Q1QtRG80eGhpd1lVRmZNc2d1OW1TUDMyVURLZVBKa3JVSTlHbEZXYlN2amtPbTEweVpRSk94bEtZSHVrZDk0eWdLREZGSWZtUWJzN3lGaEwzSXRrOURyRml1Z1RnZTI3SWR6dVUwejE4OHNmNXl3dkxZSlVWeHZjcEcta2VRc0F4NkM3WUJzZkRoTGt0U3JMRHVYQ3dCZHkybzdmRkM4ZElEV1dBN1N5R0xDSDVnZFd6R2tKOHNfaXN5eWdUZ1k4X3VSVDlVMmlB?oc=5",
+      "publishedAt": "2026-11-22T23:15:02.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Production Guidance",
+        "categories": [
+          "PRODUCTION",
+          "GUIDANCE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Capstone Copper Corp. Cuts 2026 Production Guidance Floor to 195,000 Tonnes After Pinto Valley Crusher Delay Kalkine",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-23T01:59:28.282Z",
+      "updatedAt": "2026-11-23T01:59:28.282Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "92af180410b9baa60913f640c9413cf40e3f327092b244a814bacf14149887a7",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "BHP Group Hosts Two-Day Copper South Australia Investor and Analyst Site Tour on 23–24 November 2026",
+      "summary": "BHP Group Hosts Two-Day Copper South Australia Investor and Analyst Site Tour on 23–24 November 2026 Kalkine",
+      "source": "Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbkN4MUJQdTJUMldKZnNHV1EzWDhtSGdBQUlpNEloTDhNcUdldS1leDlwSlRJSktEZ1ZBV3hPMUxvbmVKa0w0bUs0M2NjU000QzFhYWRTYmNPdVFlYUxVT2R6c05IdXZkMkt2NnU4Q0M3aTB6WFpKOFNvREtzTDRxV1pOa0w5UmF5QXFXRVgzSjFlWkNqSllDUGxIVEk2VnJpTnFMbjFLb2ppY3JtYjFJMnpFMTJJN0VncWttamVYZUgwYjEwdk9pc2VUakNMempHampZMkVfb0U?oc=5",
+      "publishedAt": "2026-11-22T23:15:02.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "COMPANY"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "BHP Group Hosts Two-Day Copper South Australia Investor and Analyst Site Tour on 23–24 November 2026 Kalkine",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-23T01:59:28.282Z",
+      "updatedAt": "2026-11-23T01:59:28.282Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "989e26acf84ce1f18f814beb81463de156d505c1cee7790643057c349a49e0a2",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Nasty period for copper and gold",
+      "summary": "Nasty period for copper and gold Mining News Net",
+      "source": "Mining News Net",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN01SNE8tY0Y0MG9XUmtSaXNUSnUxWmRaUGVYVTluZnNXMjN1dXc3MGdVTFlKT2RhZU1DaFp0MFNnVW8zbS1QU3d0ZVNqMnVMd2VlVWlVZjRJT0ZwazFVZzhjeWpCNjllM2xaQXdKbWRLS2dLNjRtN2pEdUpZci1BSDNubF9rNTlaVnRNVUU1akFrUms?oc=5",
+      "publishedAt": "2026-11-22T22:58:25.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Nasty period for copper and gold Mining News Net",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-23T01:59:28.282Z",
+      "updatedAt": "2026-11-23T01:59:28.282Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "df66d263d7a7c4647fb11f003ff6d8a725f560ea23f8186ceb1ce4de219a149b",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "[구리 가격] AI 투자 우려에 주간 9.3% 급락…앤트로픽 상장에도 기술주 약세",
+      "summary": "[구리 가격] AI 투자 우려에 주간 9.3% 급락…앤트로픽 상장에도 기술주 약세 산업일보",
+      "source": "산업일보",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBwZVpTR0w3Wkd0ZVpvLU1XeTdBMzJfWW5XczhyandZN3FJenh5N2VjcVNuOERZTk9QckowWHdhdm1LTGt4?oc=5",
+      "publishedAt": "2026-11-22T22:29:25.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "General",
+        "categories": [
+          "PRICE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "[구리 가격] AI 투자 우려에 주간 9.3% 급락…앤트로픽 상장에도 기술주 약세 산업일보",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "SHORT_TERM",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-23T01:59:28.282Z",
+      "updatedAt": "2026-11-23T01:59:28.282Z",
+      "analyzedAt": null
+    },
+    {
+      "id": "eae6137d1e97821545f0276ceabb68840239917e27bc7b8f9d4a4ac81f11e434",
+      "commodity": "COPPER",
+      "subCommodity": null,
+      "title": "Renascor Resources secures funding to chase South Australian copper",
+      "summary": "Renascor Resources secures funding to chase South Australian copper Mining Magazine Australia",
+      "source": "Mining Magazine Australia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmh6NzRSWnBDT05PdV9CRFJjQXdNa3F4V3BxUk8xUGFxaFhDSVh0UEFydGpqWEwwcGE4cF8xQ1BSSmpMZEZXSFNQZGZKanJfZjJ0djVUNlNveEZLOGw0YWROU29PckhYOXRta3cxRWlYNEwwYmJwSEZFNkhvNE00cW5kR2tQN2NocFRUZ2twaU5PVkNzakZzZ1Zuc2xONDg?oc=5",
+      "publishedAt": "2026-11-22T22:02:18.000Z",
+      "priority": 34,
+      "reasonForCodexReview": "Rule direction is unclear",
+      "ruleAnalysis": {
+        "importance": "MEDIUM",
+        "marketImpact": "Unclear",
+        "procurementImpact": "UNCLEAR",
+        "category": "Mine",
+        "categories": [
+          "MINE"
+        ],
+        "region": "Unclear",
+        "regions": [],
+        "summary": "Renascor Resources secures funding to chase South Australian copper Mining Magazine Australia",
+        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
+        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
+        "keyEvidence": [],
+        "confidence": "LOW",
+        "timeHorizon": "UNCLEAR",
+        "signals": [],
+        "urgent": false
+      },
+      "codexAnalysis": null,
+      "codexStatus": "PENDING",
+      "queuedAt": "2026-11-23T01:59:28.282Z",
+      "updatedAt": "2026-11-23T01:59:28.282Z",
+      "analyzedAt": null
+    },
+    {
       "id": "258fe740c7b983b10ca6d95b88f80cb1c134c3764ec102f9b8be768d39dc1c2f",
       "commodity": "COPPER",
       "subCommodity": null,
@@ -17158,7 +17345,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-22T15:41:36.866Z",
-      "updatedAt": "2026-11-22T21:17:28.117Z",
+      "updatedAt": "2026-11-23T01:59:28.282Z",
       "analyzedAt": null
     },
     {
@@ -17195,7 +17382,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-22T15:41:36.866Z",
-      "updatedAt": "2026-11-22T21:17:28.117Z",
+      "updatedAt": "2026-11-23T01:59:28.282Z",
       "analyzedAt": null
     },
     {
@@ -17961,7 +18148,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-22T15:41:36.866Z",
-      "updatedAt": "2026-11-22T21:17:28.117Z",
+      "updatedAt": "2026-11-23T01:59:28.282Z",
       "analyzedAt": null
     },
     {
@@ -17997,7 +18184,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-22T15:41:36.866Z",
-      "updatedAt": "2026-11-22T21:17:28.117Z",
+      "updatedAt": "2026-11-23T01:59:28.282Z",
       "analyzedAt": null
     },
     {
@@ -18588,7 +18775,7 @@
       "codexAnalysis": null,
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-21T13:03:16.514Z",
-      "updatedAt": "2026-11-22T21:17:28.117Z",
+      "updatedAt": "2026-11-23T01:59:28.282Z",
       "analyzedAt": null
     },
     {
@@ -18626,42 +18813,6 @@
       "codexStatus": "PENDING",
       "queuedAt": "2026-11-22T00:21:11.749Z",
       "updatedAt": "2026-11-22T00:21:11.749Z",
-      "analyzedAt": null
-    },
-    {
-      "id": "2b8912718cf53d5f60aaee690919a3683bbc4ebecf3a0cb63d6c0311db194571",
-      "commodity": "COPPER",
-      "subCommodity": null,
-      "title": "Greenback vs Copper Basin - Boys Varsity Baseball 04/09/2027 | Live & On Demand",
-      "summary": "Greenback vs Copper Basin - Boys Varsity Baseball 04/09/2027 | Live & On Demand NFHS Network",
-      "source": "NFHS Network",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPWjlzT1ZPd04zQnRxS2FPOWNnM0xCWUJCNW5zN1d3bTZNYmFsVER6anc2YzZ4UkdzUk0yNXVQU0lmX01CVkQtcUVOa21fWEt0R1dEaDBwSXFaUS1QSTg3Z0JHUHMxcnNDVWtiTWhvYVM3N2k3LWVLUUZTSVk1ZDY0YTlIbnc0U21LcjgybGRkSzN4NVdCZmdKOFVXbGVZN0k2V21tWDhCX3pudm0wWWpURWRwZHdEN2NMT0lCRTY5VFlHLVN1OXZaSk9rWHd0UDA3S3QtLTdJS3BrenVHWTFOVUpkVkw5XzU0SU9qQkRxZDUyQ2xGODJSVkhBU19KWkgtdkNtYTZRN1FHS1lTRkZSZ0lISnp6NjN4cU9wYjNpQQ?oc=5",
-      "publishedAt": "2026-11-21T14:33:31.000Z",
-      "priority": 26,
-      "reasonForCodexReview": "Rule direction is unclear",
-      "ruleAnalysis": {
-        "importance": "MEDIUM",
-        "marketImpact": "Unclear",
-        "procurementImpact": "UNCLEAR",
-        "category": "Demand",
-        "categories": [
-          "DEMAND"
-        ],
-        "region": "Unclear",
-        "regions": [],
-        "summary": "Greenback vs Copper Basin - Boys Varsity Baseball 04/09/2027 | Live & On Demand NFHS Network",
-        "marketImpactReason": "기사에 가격 방향을 판단할 충분하고 명확한 사건 근거가 없어 Unclear로 처리했습니다.",
-        "procurementImpactReason": "구매비용, 리드타임 또는 공급 위험에 대한 방향성 근거가 충분하지 않습니다.",
-        "keyEvidence": [],
-        "confidence": "LOW",
-        "timeHorizon": "UNCLEAR",
-        "signals": [],
-        "urgent": false
-      },
-      "codexAnalysis": null,
-      "codexStatus": "PENDING",
-      "queuedAt": "2026-11-22T15:41:36.866Z",
-      "updatedAt": "2026-11-22T15:41:36.866Z",
       "analyzedAt": null
     }
   ]
