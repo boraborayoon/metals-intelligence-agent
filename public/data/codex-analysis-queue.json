@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T05:23:04.784Z",
+  "generatedAt": "2026-11-27T15:37:24.198Z",
   "counts": {
     "PENDING": 500,
     "ANALYZED": 0,
@@ -85,16 +85,6 @@
       "codexStatus": "PENDING",
       "source": "Yahoo Finance UK",
       "publishedAt": "2026-11-24T12:30:00.000Z"
-    },
-    {
-      "id": "56459a050c1daf54f3c8f8fb488161e5d3ba8afb2d0ea2424be155e26ed4aa5d",
-      "commodity": "ALUMINUM",
-      "importance": "HIGH",
-      "title": "50% Tariff on Canadian Aluminum Boomerangs Into US Manufacturers' Costs",
-      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "BigGo Finance",
-      "publishedAt": "2026-10-28T09:05:00.000Z"
     },
     {
       "id": "5842478135c151dfee0bceeea384f4b11cbdd005b705972f6fd953c066c26e99",
@@ -227,6 +217,26 @@
       "publishedAt": "2026-11-22T10:04:32.000Z"
     },
     {
+      "id": "f9f7b98217a9c609e0a9d97650865ce0d44e87ac37e3938216a4766663ca4cea",
+      "commodity": "COPPER",
+      "importance": "HIGH",
+      "title": "BBC Surrey. . Criminal gangs are striking under the cover of darkness to steal copper cables, causing misery across Britain with delays to trains and disruption to broadband and landline phones. More here: https://bbc.in/48JoI0w",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Facebook",
+      "publishedAt": "2026-11-27T12:00:07.000Z"
+    },
+    {
+      "id": "f4ab93acdaba309e2005d5de923c36d481511b14efdb059da0790cad5c84f949",
+      "commodity": "ALUMINUM",
+      "importance": "HIGH",
+      "title": "[글로벌 리스크 예측] ‘캐나다 배려’ 발언에도…알루미늄 관세 40~50% 확률 55%, 7%p↑",
+      "reasonForCodexReview": "HIGH importance; Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "codexStatus": "PENDING",
+      "source": "코인리더스",
+      "publishedAt": "2026-11-27T10:04:17.000Z"
+    },
+    {
       "id": "7e1a12214c4a5fbf00d404af06f5d95d420fbcde190c27f0e0a0ec6c5665539b",
       "commodity": "COPPER",
       "importance": "HIGH",
@@ -335,16 +345,6 @@
       "codexStatus": "PENDING",
       "source": "AL Circle",
       "publishedAt": "2026-11-26T10:20:00.000Z"
-    },
-    {
-      "id": "617913050e72a19f6d46a075c9322a0906e44aaad6abec52de5910a74b657d72",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "P2 Gold Extends Gold-Copper Mineralization along the Southwest Margin of the Lucky Strike Zone",
-      "reasonForCodexReview": "Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Investing News Network",
-      "publishedAt": "2026-10-28T11:32:34.000Z"
     },
     {
       "id": "852e665ead50fbf89f6bccf11be4f8e174fdd211ba3656f5993aa180040477ca",
@@ -525,6 +525,16 @@
       "codexStatus": "PENDING",
       "source": "Xinhua",
       "publishedAt": "2026-11-26T07:04:00.000Z"
+    },
+    {
+      "id": "0f327bcf021d97661e4df65698b939df30c8e4b81e0cbc98e5142ca4a43bbe26",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "투쿠마 생산 중단 이후 에로 구리 주식의 강세 전망이 바뀔 수 있는 이유를 알아보세요",
+      "reasonForCodexReview": "Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Simply Wall St",
+      "publishedAt": "2026-11-27T14:12:02.000Z"
     },
     {
       "id": "2ab1774334ced8cd7ea5473a1861c928cc843cc4806184811d4d7d208034ea42",
@@ -727,14 +737,14 @@
       "publishedAt": "2026-11-27T00:01:52.000Z"
     },
     {
-      "id": "cd53120f64d584c5c55eef5a331724c701e83e174f1a1cb28dd1cd933cab562c",
+      "id": "35ddd320f862790d31a87e00519a15f0cf42537168eeba58b224e1bcbbdbb82c",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "LME 위크 “AI발 구리 수요 기대 과도”…실수요보다 美 관세 정책 영향",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
+      "title": "Copper Price Volatility Clouds Peru’s El Niño Relief Spending",
+      "reasonForCodexReview": "Rule direction is unclear",
       "codexStatus": "PENDING",
-      "source": "철강금속신문",
-      "publishedAt": "2026-10-28T08:26:30.000Z"
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-11-27T14:00:00.000Z"
     },
     {
       "id": "266b27a94e265c79e8a51b0ae03c8a6f46e81f276144181cd343c30b696ad9d0",
@@ -2917,44 +2927,14 @@
       "publishedAt": "2026-11-27T00:01:48.000Z"
     },
     {
-      "id": "b08e7d41d7d4f2483be67ae3b49de095e07fbbd257f97b92908533ba0d9fe92e",
+      "id": "393afe8824d61d15923f17aa52a29cd82f55fe71b9c9a18ceb8c2cb1de19995e",
       "commodity": "COPPER",
       "importance": "MEDIUM",
-      "title": "Jiangxi Copper Company: 9M attributable profit rose 94.02% as Q3 profit grew despite lower revenue",
-      "reasonForCodexReview": "Rule direction is unclear",
+      "title": "Ero Copper suspends Tucumã copper mine to resolve rainfall-induced issues",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
       "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-28T14:50:33.000Z"
-    },
-    {
-      "id": "344856104daadd24dfd0dee0bef6c11db1fb068e7c22c888eac45145afaf9734",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "Vedanta Aluminium Q2 FY27 slides: record output, safety concerns",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Investing.com",
-      "publishedAt": "2026-10-28T13:26:36.000Z"
-    },
-    {
-      "id": "717a83e278136ad47177b959d494654b856d81387c7d3a8bbbe7f4c4e3bd73cd",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "KAP MINERALS AND CYMAT TECHNOLOGIES ANNOUNCE STRATEGIC PARTNERSHIP TO DEVELOP CANADIAN SCANDIUM-ALUMINUM MASTER ALLOY PRODUCTION",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Morningstar",
-      "publishedAt": "2026-10-28T12:10:00.000Z"
-    },
-    {
-      "id": "871734ff9be32e45db7b213edb89c25d5bc7a72cb0b0f5b376103cf0f2c82041",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "ARG: Record copper prices and strong production lifted Q3 net income to $22.7 million",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-10-28T11:47:53.000Z"
+      "source": "Mining Weekly",
+      "publishedAt": "2026-11-27T07:10:00.000Z"
     },
     {
       "id": "927f74c344513b093f294edce23bab188b1dd5b76a10d34474049eb90ba5bbf2",
@@ -4637,16 +4617,6 @@
       "publishedAt": "2026-11-27T04:01:37.000Z"
     },
     {
-      "id": "b93d8a1b8bf1b303e2d0fb4e66023b651803d83c50f1cf14271c84f4836c4331",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Ero Copper Corp Says Suspension Of Mining And Processing Activities At The Tucumã Operation",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-11-27T03:18:00.000Z"
-    },
-    {
       "id": "245fd8f86e44057cf154f1139f48d3961e2930986fbd3d7bd447dfd2a31c20fb",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4655,6 +4625,176 @@
       "codexStatus": "PENDING",
       "source": "Stock Titan",
       "publishedAt": "2026-11-27T03:17:00.000Z"
+    },
+    {
+      "id": "9ec4c0f8ede9fa39b858cfd69c53c99b24491aa15264f65dcd75759bdc02dec4",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Target’s copper bowl KitchenAid mixer hits its cheapest price of 2026",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "AL.com",
+      "publishedAt": "2026-11-27T15:18:00.000Z"
+    },
+    {
+      "id": "e859fb6e086e6ade375be2c4af76b73bb213b24df43a8be3ef1dfe21250f197c",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Ero Copper halts Brazil mine after water overflows",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "The Northern Miner",
+      "publishedAt": "2026-11-27T15:11:52.000Z"
+    },
+    {
+      "id": "eb1e1d829bb1c12cdb172d2882f78fb5524cf1cb443c643776725c6114948d09",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Ero Copper Halts All Production at Tucumã After Brazilian Regulator Steps In",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "the deep dive",
+      "publishedAt": "2026-11-27T15:07:14.000Z"
+    },
+    {
+      "id": "c8806ea365fcb94d152311a8256e46e0c6f1d860bbf3b534f1f39032a5d91c9d",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "Aluminium Prices Rebound as Supply and Industrial Demand Take Centre Stage",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "kalkine.ca",
+      "publishedAt": "2026-11-27T14:35:00.000Z"
+    },
+    {
+      "id": "bd35d38825abe920f59cc131ed70d38c76608e762df953e71fe5616ef7aa120f",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "알루미늄 전극 탭 소재 시장 2035년 전망: 배터리 셀 호황에 수요 가속 - 뉴스 및 통계",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-27T14:31:04.000Z"
+    },
+    {
+      "id": "2578439bc3f38c18dff69b2822947530d0fd556465db82c6a6b4a5ccfa2cf001",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper's Biggest Bounce in 10 Months Lifts Freeport-McMoRan (NYSE:FCX) 6% Pre-Market Today Following a 26% Slide in November",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "kalkine.ca",
+      "publishedAt": "2026-11-27T14:19:00.000Z"
+    },
+    {
+      "id": "494a396dee80583230b60b431906b13ae1b6c3bfbd8d85759a8b969698310676",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Why Southern Copper’s Risks Could Look Smaller Inside ETFs",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-11-27T14:08:58.000Z"
+    },
+    {
+      "id": "f21a6d9182b93dc5bdfb8870dc1a2e60df6cb09e0fbb1e5e1243b23699370e55",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Ero Copper temporarily suspends mining and processing at Tucumã",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-11-27T13:35:12.000Z"
+    },
+    {
+      "id": "644573e0285e2d60e53c63782f05c9cbbbfe643927b070342ab4a5b66738cd54",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Ero Copper Suspends Tucumã Production After Environmental Incident",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "grafa.com",
+      "publishedAt": "2026-11-27T12:52:00.000Z"
+    },
+    {
+      "id": "fa330cc8821ec799082c33d4b6781cfa2f11ba4371170c0a797d6bc19bcfb673",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Ero Copper's Tucumã operations suspended after overflow events",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "www.mining-journal.com",
+      "publishedAt": "2026-11-27T12:46:47.000Z"
+    },
+    {
+      "id": "d9982f3ac7f8ed28d98ade73e584583e6bf07542b6ea132a592b8446e9b5246b",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Why Southern Copper's Strong Quarter Could Steer Investors To ETFs",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Simply Wall St",
+      "publishedAt": "2026-11-27T12:11:31.000Z"
+    },
+    {
+      "id": "ca58a4f177e3df195c161dff7e28cf3ac0a9029c03ae04f1d36e801702a376ec",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Chinese tin, copper miner pilots remote underground tech",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Mining Magazine",
+      "publishedAt": "2026-11-27T11:34:38.000Z"
+    },
+    {
+      "id": "83a4cfdbf834303b7b6c53a2e472ad991469578ada19789f60499fece848070f",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Weak Chinese industrial demand halts copper rally, Daniel Lacalle notes",
+      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
+      "codexStatus": "PENDING",
+      "source": "Traders Union",
+      "publishedAt": "2026-11-27T10:10:33.000Z"
+    },
+    {
+      "id": "d1d6f0fcd31cd53b039be59b2b39e61c37ad45c1865ffe420edc19cc5852ac69",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "FTSE 100 Advances as Mining Shares Rally on Strong Recovery in Gold, Silver and Copper Prices",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Yahoo Finance UK",
+      "publishedAt": "2026-11-27T09:46:56.000Z"
+    },
+    {
+      "id": "dbb019f1a4398fe4c98e835400067fa73560e4362d2287b3a14ff3e27a236ca7",
+      "commodity": "ALUMINUM",
+      "importance": "MEDIUM",
+      "title": "How to Increase Aluminium Extrusion Output Without a New Press",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "AL Circle",
+      "publishedAt": "2026-11-27T09:44:12.000Z"
+    },
+    {
+      "id": "79e039366d75060170c67972947b7b7dd1c441e0ebca7fee7ea24180074e3763",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper price forecast: Overbought signals complicate the push toward $5.7418",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "Traders Union",
+      "publishedAt": "2026-11-27T09:25:28.000Z"
+    },
+    {
+      "id": "c50ee4a8f72f656adc723a3c9289475f84f59a953b50e3224f5760fcf87d423e",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "Copper Price Forecast: AI Stock Recovery Fuels Rebound Toward $6",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "FXEmpire",
+      "publishedAt": "2026-11-27T08:11:24.000Z"
     },
     {
       "id": "258fe740c7b983b10ca6d95b88f80cb1c134c3764ec102f9b8be768d39dc1c2f",
@@ -4827,6 +4967,16 @@
       "publishedAt": "2026-11-25T19:15:00.000Z"
     },
     {
+      "id": "06b829c02dd8c9d56b0ada90b215065b8d2cd9fbf6d0353b12d1dafbb08e7c51",
+      "commodity": "COPPER",
+      "importance": "MEDIUM",
+      "title": "RBC Sees BHP Group Share Price Drop as 'Attractive' Entry Point Amid Copper Growth Potential",
+      "reasonForCodexReview": "Rule direction is unclear",
+      "codexStatus": "PENDING",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-11-27T06:06:14.000Z"
+    },
+    {
       "id": "8636abdb7bddeffd5579bf996f0332608f39dc2f45e82fdae1a0c977765f2795",
       "commodity": "COPPER",
       "importance": "MEDIUM",
@@ -4855,156 +5005,6 @@
       "codexStatus": "PENDING",
       "source": "The Northern Miner",
       "publishedAt": "2026-11-20T15:55:08.000Z"
-    },
-    {
-      "id": "7309f91daf63bd3b542a86b114ae732415f1f0efb796682662fe3ea57053d65b",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper bounces from 7-month low, eyes on strong China demand",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-11-19T12:07:08.000Z"
-    },
-    {
-      "id": "324105fccd86a362edef566e3ae993b9e509a810129629139348d3c42751eebb",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "US Copper Stockpile Swells to Nearly 2 Million Tons as Traders Reverse Course and Ship Metal to China",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy",
-      "codexStatus": "PENDING",
-      "source": "BigGo Finance",
-      "publishedAt": "2026-11-22T08:25:00.000Z"
-    },
-    {
-      "id": "cb8d54d5e3439913b9ca7e07b4844e582c76c5d3e908cf81736be996ee1504cb",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Copper flows from the US are beginning to shift towards China as tariff concerns ease.",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-11-22T01:42:58.000Z"
-    },
-    {
-      "id": "1adf34dcec98b40e305f080f85bb11ad6c58922fbefb98e913a9a57ce1c0acdc",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Daily headlines: US tariff on China reaches Andean copper",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "BNamericas",
-      "publishedAt": "2026-11-26T12:15:43.000Z"
-    },
-    {
-      "id": "92c512a47a05bbda0a8d186df6d9ac3fd329200ce4764a36932c27028b138fe3",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "韓 1조 투자 파나마 구리광산…재가동 협상 속 193억 로펌 방어막",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "리드경제",
-      "publishedAt": "2026-11-26T18:43:00.000Z"
-    },
-    {
-      "id": "657725935d9b6d2438794afde92b9d2abff6cb8694c24e40ee48b0d683e76dfc",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Ongoing US tariff questions keep copper futures exposed to weaker demand signals",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Traders Union",
-      "publishedAt": "2026-11-26T18:16:36.000Z"
-    },
-    {
-      "id": "f9dc13c05667a22008be175d8661a67ac7f14ecf4d1bf2bedb4b76b201514e11",
-      "commodity": "ALUMINUM",
-      "importance": "MEDIUM",
-      "title": "현대글로비스, 폐차서 배터리·알루미늄 회수…재활용 소재 공급망 구축",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "아시아투데이",
-      "publishedAt": "2026-11-26T02:02:47.000Z"
-    },
-    {
-      "id": "53465ad3367239d731106984270acaf07e6e9a7e47e3a693f7c800843e4d5229",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "Tariff anticipation keeps copper buoyed despite cautious equity markets",
-      "reasonForCodexReview": "Rule direction is unclear; Material event taxonomy; High-impact event requires evidence review",
-      "codexStatus": "PENDING",
-      "source": "Traders Union",
-      "publishedAt": "2026-11-25T17:17:29.000Z"
-    },
-    {
-      "id": "02b5de351debdbea185be19ee8aa0ef94c92c6a0db2d38164f3dbf997075e778",
-      "commodity": "TIN",
-      "importance": "MEDIUM",
-      "title": "Fastmarkets proposes to launch East Asian zinc, tin warrant premium assessments",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Fastmarkets",
-      "publishedAt": "2026-11-26T16:56:05.000Z"
-    },
-    {
-      "id": "ec165a520fdc77b9f9db43b6fe8d64c3f39104aec64af0b1c96623fd9bb683f0",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "FlexCycle Solutions targets sustainable copper powder production",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "VoxelMatters",
-      "publishedAt": "2026-11-26T15:59:37.000Z"
-    },
-    {
-      "id": "a2b9d0ff8c8a701521801488859eed6f4baa75b1ab2d05ff722e25aa3f7b3fa3",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "GeoIntelX, Ivanhoe announce innovative breakthrough in support of extensive Angolan copper exploration",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "Mining Weekly",
-      "publishedAt": "2026-11-26T14:04:00.000Z"
-    },
-    {
-      "id": "0a946dffdf145dc54cd505c05fba9f2deaba10a81425a308864213942c251bf2",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "AI 관련주가 반등하면서 구리 가격도 반등했다",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-11-26T13:43:19.000Z"
-    },
-    {
-      "id": "250428fcb111b3b36d56f431bba59b44b2718d3abf207736fa1a09cf122a489d",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "AI 관련주 반등에 구리 가격도 반등, 아연 가격은 1월 이후 최대 상승폭 기록",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-11-26T17:17:00.000Z"
-    },
-    {
-      "id": "10f3aa91663c29053753fa8ccea07673ef0afdab0c3044cfa3169cc6b4796b03",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "AI 관련주가 반등하면서 구리 가격도 반등했다",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-11-26T13:43:19.000Z"
-    },
-    {
-      "id": "11e2fde9c465f7cc92c68393eb03a8d45ac2e48a3b6ac6fffbc6a7d276a3c64a",
-      "commodity": "COPPER",
-      "importance": "MEDIUM",
-      "title": "AI 관련주 반등으로 구리 가격도 상승",
-      "reasonForCodexReview": "Rule direction is unclear",
-      "codexStatus": "PENDING",
-      "source": "TradingView",
-      "publishedAt": "2026-11-26T11:37:59.000Z"
     }
   ]
 }
